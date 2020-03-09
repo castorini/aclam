@@ -1,0 +1,4898 @@
+N06-1000:
+  address: New York City, USA
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  - first: Jeff
+    full: Jeff Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  - first: Mark
+    full: Mark Sanderson
+    id: mark-sanderson
+    last: Sanderson
+  author_string: Robert C. Moore, Jeff Bilmes, Jennifer Chu-Carroll, Mark Sanderson
+  bibkey: naacl-2006-human
+  bibtype: proceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  month: June
+  paper_id: '0'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1000.jpg
+  title: Proceedings of the Human Language Technology Conference of the NAACL, Main
+    Conference
+  title_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  url: https://www.aclweb.org/anthology/N06-1000
+  year: '2006'
+N06-1001:
+  address: New York City, USA
+  author:
+  - first: Wei
+    full: Wei Wang
+    id: wei-wang
+    last: Wang
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Wei Wang, Kevin Knight, Daniel Marcu
+  bibkey: wang-etal-2006-capitalizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1001.jpg
+  title: Capitalizing Machine Translation
+  title_html: Capitalizing Machine Translation
+  url: https://www.aclweb.org/anthology/N06-1001
+  year: '2006'
+N06-1002:
+  address: New York City, USA
+  author:
+  - first: Chris
+    full: Chris Quirk
+    id: chris-quirk
+    last: Quirk
+  - first: Arul
+    full: Arul Menezes
+    id: arul-menezes
+    last: Menezes
+  author_string: Chris Quirk, Arul Menezes
+  bibkey: quirk-menezes-2006-need
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1002.jpg
+  title: Do we need phrases? Challenging the conventional wisdom in Statistical Machine
+    Translation
+  title_html: Do we need phrases? Challenging the conventional wisdom in Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/N06-1002
+  year: '2006'
+N06-1003:
+  address: New York City, USA
+  author:
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: Chris Callison-Burch, Philipp Koehn, Miles Osborne
+  bibkey: callison-burch-etal-2006-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1003.jpg
+  title: Improved Statistical Machine Translation Using Paraphrases
+  title_html: Improved Statistical Machine Translation Using Paraphrases
+  url: https://www.aclweb.org/anthology/N06-1003
+  year: '2006'
+N06-1004:
+  address: New York City, USA
+  author:
+  - first: Roland
+    full: Roland Kuhn
+    id: roland-kuhn
+    last: Kuhn
+  - first: Denis
+    full: Denis Yuen
+    id: denis-yuen
+    last: Yuen
+  - first: Michel
+    full: Michel Simard
+    id: michel-simard
+    last: Simard
+  - first: Patrick
+    full: Patrick Paul
+    id: patrick-paul
+    last: Paul
+  - first: George
+    full: George Foster
+    id: george-foster
+    last: Foster
+  - first: Eric
+    full: Eric Joanis
+    id: eric-joanis
+    last: Joanis
+  - first: Howard
+    full: Howard Johnson
+    id: howard-johnson
+    last: Johnson
+  author_string: Roland Kuhn, Denis Yuen, Michel Simard, Patrick Paul, George Foster,
+    Eric Joanis, Howard Johnson
+  bibkey: kuhn-etal-2006-segment
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1004.jpg
+  title: 'Segment Choice Models: Feature-Rich Models for Global Distortion in Statistical
+    Machine Translation'
+  title_html: 'Segment Choice Models: Feature-Rich Models for Global Distortion in
+    Statistical Machine Translation'
+  url: https://www.aclweb.org/anthology/N06-1004
+  year: '2006'
+N06-1005:
+  address: New York City, USA
+  author:
+  - first: Rion
+    full: Rion Snow
+    id: rion-snow
+    last: Snow
+  - first: Lucy
+    full: Lucy Vanderwende
+    id: lucy-vanderwende
+    last: Vanderwende
+  - first: Arul
+    full: Arul Menezes
+    id: arul-menezes
+    last: Menezes
+  author_string: Rion Snow, Lucy Vanderwende, Arul Menezes
+  bibkey: snow-etal-2006-effectively
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '33'
+  page_last: '40'
+  pages: "33\u201340"
+  paper_id: '5'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1005.jpg
+  title: Effectively Using Syntax for Recognizing False Entailment
+  title_html: Effectively Using Syntax for Recognizing False Entailment
+  url: https://www.aclweb.org/anthology/N06-1005
+  year: '2006'
+N06-1006:
+  address: New York City, USA
+  author:
+  - first: Bill
+    full: Bill MacCartney
+    id: bill-maccartney
+    last: MacCartney
+  - first: Trond
+    full: Trond Grenager
+    id: trond-grenager
+    last: Grenager
+  - first: Marie-Catherine
+    full: Marie-Catherine de Marneffe
+    id: marie-catherine-de-marneffe
+    last: de Marneffe
+  - first: Daniel
+    full: Daniel Cer
+    id: daniel-cer
+    last: Cer
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Bill MacCartney, Trond Grenager, Marie-Catherine de Marneffe, Daniel
+    Cer, Christopher D. Manning
+  bibkey: maccartney-etal-2006-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '41'
+  page_last: '48'
+  pages: "41\u201348"
+  paper_id: '6'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1006.jpg
+  title: Learning to recognize features of valid textual entailments
+  title_html: Learning to recognize features of valid textual entailments
+  url: https://www.aclweb.org/anthology/N06-1006
+  year: '2006'
+N06-1007:
+  address: New York City, USA
+  author:
+  - first: Viktor
+    full: Viktor Pekar
+    id: viktor-pekar
+    last: Pekar
+  author_string: Viktor Pekar
+  bibkey: pekar-2006-acquisition
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '49'
+  page_last: '56'
+  pages: "49\u201356"
+  paper_id: '7'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1007.jpg
+  title: Acquisition of Verb Entailment from Text
+  title_html: Acquisition of Verb Entailment from Text
+  url: https://www.aclweb.org/anthology/N06-1007
+  year: '2006'
+N06-1008:
+  address: New York City, USA
+  author:
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: Kentaro Torisawa
+  bibkey: torisawa-2006-acquiring
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '57'
+  page_last: '64'
+  pages: "57\u201364"
+  paper_id: '8'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1008.jpg
+  title: Acquiring Inference Rules with Temporal Constraints by Using Japanese Coordinated
+    Sentences and Noun-Verb Co-occurrences
+  title_html: Acquiring Inference Rules with Temporal Constraints by Using <span class="acl-fixed-case">J</span>apanese
+    Coordinated Sentences and Noun-Verb Co-occurrences
+  url: https://www.aclweb.org/anthology/N06-1008
+  year: '2006'
+N06-1009:
+  address: New York City, USA
+  author:
+  - first: Tawanda
+    full: Tawanda Sibanda
+    id: tawanda-sibanda
+    last: Sibanda
+  - first: Ozlem
+    full: Ozlem Uzuner
+    id: ozlem-uzuner
+    last: Uzuner
+  - first: Ozlem
+    full: Ozlem Uzuner
+    id: ozlem-uzuner
+    last: Uzuner
+  author_string: Tawanda Sibanda, Ozlem Uzuner, Ozlem Uzuner
+  bibkey: sibanda-etal-2006-role
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '65'
+  page_last: '73'
+  pages: "65\u201373"
+  paper_id: '9'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1009.jpg
+  title: Role of Local Context in Automatic Deidentification of Ungrammatical, Fragmented
+    Text
+  title_html: Role of Local Context in Automatic Deidentification of Ungrammatical,
+    Fragmented Text
+  url: https://www.aclweb.org/anthology/N06-1009
+  year: '2006'
+N06-1010:
+  address: New York City, USA
+  author:
+  - first: Jing
+    full: Jing Jiang
+    id: jing-jiang
+    last: Jiang
+  - first: ChengXiang
+    full: ChengXiang Zhai
+    id: chengxiang-zhai
+    last: Zhai
+  author_string: Jing Jiang, ChengXiang Zhai
+  bibkey: jiang-zhai-2006-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '74'
+  page_last: '81'
+  pages: "74\u201381"
+  paper_id: '10'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1010.jpg
+  title: Exploiting Domain Structure for Named Entity Recognition
+  title_html: Exploiting Domain Structure for Named Entity Recognition
+  url: https://www.aclweb.org/anthology/N06-1010
+  year: '2006'
+N06-1011:
+  address: New York City, USA
+  author:
+  - first: Alexandre
+    full: Alexandre Klementiev
+    id: alexandre-klementiev
+    last: Klementiev
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Alexandre Klementiev, Dan Roth
+  bibkey: klementiev-roth-2006-named
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '82'
+  page_last: '88'
+  pages: "82\u201388"
+  paper_id: '11'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1011.jpg
+  title: Named Entity Transliteration and Discovery from Multilingual Comparable Corpora
+  title_html: Named Entity Transliteration and Discovery from Multilingual Comparable
+    Corpora
+  url: https://www.aclweb.org/anthology/N06-1011
+  year: '2006'
+N06-1012:
+  address: New York City, USA
+  author:
+  - first: Charles
+    full: Charles Sutton
+    id: charles-sutton
+    last: Sutton
+  - first: Michael
+    full: Michael Sindelar
+    id: michael-sindelar
+    last: Sindelar
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Charles Sutton, Michael Sindelar, Andrew McCallum
+  bibkey: sutton-etal-2006-reducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '89'
+  page_last: '95'
+  pages: "89\u201395"
+  paper_id: '12'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1012.jpg
+  title: Reducing Weight Undertraining in Structured Discriminative Learning
+  title_html: Reducing Weight Undertraining in Structured Discriminative Learning
+  url: https://www.aclweb.org/anthology/N06-1012
+  year: '2006'
+N06-1013:
+  address: New York City, USA
+  author:
+  - first: Necip Fazil
+    full: Necip Fazil Ayan
+    id: necip-fazil-ayan
+    last: Ayan
+  - first: Bonnie J.
+    full: Bonnie J. Dorr
+    id: bonnie-dorr
+    last: Dorr
+  author_string: Necip Fazil Ayan, Bonnie J. Dorr
+  bibkey: ayan-dorr-2006-maximum
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '96'
+  page_last: '103'
+  pages: "96\u2013103"
+  paper_id: '13'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1013.jpg
+  title: A Maximum Entropy Approach to Combining Word Alignments
+  title_html: A Maximum Entropy Approach to Combining Word Alignments
+  url: https://www.aclweb.org/anthology/N06-1013
+  year: '2006'
+N06-1014:
+  address: New York City, USA
+  author:
+  - first: Percy
+    full: Percy Liang
+    id: percy-liang
+    last: Liang
+  - first: Ben
+    full: Ben Taskar
+    id: ben-taskar
+    last: Taskar
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Percy Liang, Ben Taskar, Dan Klein
+  bibkey: liang-etal-2006-alignment
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '104'
+  page_last: '111'
+  pages: "104\u2013111"
+  paper_id: '14'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1014.jpg
+  title: Alignment by Agreement
+  title_html: Alignment by Agreement
+  url: https://www.aclweb.org/anthology/N06-1014
+  year: '2006'
+N06-1015:
+  address: New York City, USA
+  author:
+  - first: Simon
+    full: Simon Lacoste-Julien
+    id: simon-lacoste-julien
+    last: Lacoste-Julien
+  - first: Ben
+    full: Ben Taskar
+    id: ben-taskar
+    last: Taskar
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Michael I.
+    full: Michael I. Jordan
+    id: michael-i-jordan
+    last: Jordan
+  author_string: Simon Lacoste-Julien, Ben Taskar, Dan Klein, Michael I. Jordan
+  bibkey: lacoste-julien-etal-2006-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '112'
+  page_last: '119'
+  pages: "112\u2013119"
+  paper_id: '15'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1015.jpg
+  title: Word Alignment via Quadratic Assignment
+  title_html: Word Alignment via Quadratic Assignment
+  url: https://www.aclweb.org/anthology/N06-1015
+  year: '2006'
+N06-1016:
+  address: New York City, USA
+  author:
+  - first: Jinying
+    full: Jinying Chen
+    id: jinying-chen
+    last: Chen
+  - first: Andrew
+    full: Andrew Schein
+    id: andrew-schein
+    last: Schein
+  - first: Lyle
+    full: Lyle Ungar
+    id: lyle-ungar
+    last: Ungar
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Jinying Chen, Andrew Schein, Lyle Ungar, Martha Palmer
+  bibkey: chen-etal-2006-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '120'
+  page_last: '127'
+  pages: "120\u2013127"
+  paper_id: '16'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1016.jpg
+  title: An Empirical Study of the Behavior of Active Learning for Word Sense Disambiguation
+  title_html: An Empirical Study of the Behavior of Active Learning for Word Sense
+    Disambiguation
+  url: https://www.aclweb.org/anthology/N06-1016
+  year: '2006'
+N06-1017:
+  address: New York City, USA
+  author:
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  author_string: Katrin Erk
+  bibkey: erk-2006-unknown
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '128'
+  page_last: '135'
+  pages: "128\u2013135"
+  paper_id: '17'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1017.jpg
+  title: Unknown word sense detection as outlier detection
+  title_html: Unknown word sense detection as outlier detection
+  url: https://www.aclweb.org/anthology/N06-1017
+  year: '2006'
+N06-1018:
+  address: New York City, USA
+  author:
+  - first: Benjamin
+    full: Benjamin Han
+    id: benjamin-han
+    last: Han
+  - first: Donna
+    full: Donna Gates
+    id: donna-gates
+    last: Gates
+  - first: Lori
+    full: Lori Levin
+    id: lori-levin
+    last: Levin
+  author_string: Benjamin Han, Donna Gates, Lori Levin
+  bibkey: han-etal-2006-understanding
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '136'
+  page_last: '143'
+  pages: "136\u2013143"
+  paper_id: '18'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1018.jpg
+  title: Understanding Temporal Expressions in Emails
+  title_html: Understanding Temporal Expressions in Emails
+  url: https://www.aclweb.org/anthology/N06-1018
+  year: '2006'
+N06-1019:
+  address: New York City, USA
+  author:
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  - first: James
+    full: James Curran
+    id: james-r-curran
+    last: Curran
+  author_string: Stephen Clark, James Curran
+  bibkey: clark-curran-2006-partial
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '144'
+  page_last: '151'
+  pages: "144\u2013151"
+  paper_id: '19'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1019.jpg
+  title: Partial Training for a Lexicalized-Grammar Parser
+  title_html: Partial Training for a Lexicalized-Grammar Parser
+  url: https://www.aclweb.org/anthology/N06-1019
+  year: '2006'
+N06-1020:
+  address: New York City, USA
+  author:
+  - first: David
+    full: David McClosky
+    id: david-mcclosky
+    last: McClosky
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: David McClosky, Eugene Charniak, Mark Johnson
+  bibkey: mcclosky-etal-2006-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '152'
+  page_last: '159'
+  pages: "152\u2013159"
+  paper_id: '20'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1020.jpg
+  title: Effective Self-Training for Parsing
+  title_html: Effective Self-Training for Parsing
+  url: https://www.aclweb.org/anthology/N06-1020
+  year: '2006'
+N06-1021:
+  address: New York City, USA
+  author:
+  - first: Simon
+    full: Simon Corston-Oliver
+    id: simon-corston-oliver
+    last: Corston-Oliver
+  - first: Anthony
+    full: Anthony Aue
+    id: anthony-aue
+    last: Aue
+  - first: Kevin
+    full: Kevin Duh
+    id: kevin-duh
+    last: Duh
+  - first: Eric
+    full: Eric Ringger
+    id: eric-ringger
+    last: Ringger
+  author_string: Simon Corston-Oliver, Anthony Aue, Kevin Duh, Eric Ringger
+  bibkey: corston-oliver-etal-2006-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '160'
+  page_last: '167'
+  pages: "160\u2013167"
+  paper_id: '21'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1021.jpg
+  title: Multilingual Dependency Parsing using Bayes Point Machines
+  title_html: Multilingual Dependency Parsing using <span class="acl-fixed-case">B</span>ayes
+    Point Machines
+  url: https://www.aclweb.org/anthology/N06-1021
+  year: '2006'
+N06-1022:
+  address: New York City, USA
+  author:
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Micha
+    full: Micha Elsner
+    id: micha-elsner
+    last: Elsner
+  - first: Joseph
+    full: Joseph Austerweil
+    id: joseph-austerweil
+    last: Austerweil
+  - first: David
+    full: David Ellis
+    id: david-ellis
+    last: Ellis
+  - first: Isaac
+    full: Isaac Haxton
+    id: isaac-haxton
+    last: Haxton
+  - first: Catherine
+    full: Catherine Hill
+    id: catherine-hill
+    last: Hill
+  - first: R.
+    full: R. Shrivaths
+    id: r-shrivaths
+    last: Shrivaths
+  - first: Jeremy
+    full: Jeremy Moore
+    id: jeremy-moore
+    last: Moore
+  - first: Michael
+    full: Michael Pozar
+    id: michael-pozar
+    last: Pozar
+  - first: Theresa
+    full: Theresa Vu
+    id: theresa-vu
+    last: Vu
+  author_string: Eugene Charniak, Mark Johnson, Micha Elsner, Joseph Austerweil, David
+    Ellis, Isaac Haxton, Catherine Hill, R. Shrivaths, Jeremy Moore, Michael Pozar,
+    Theresa Vu
+  bibkey: charniak-etal-2006-multilevel
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '168'
+  page_last: '175'
+  pages: "168\u2013175"
+  paper_id: '22'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1022.jpg
+  title: Multilevel Coarse-to-Fine PCFG Parsing
+  title_html: Multilevel Coarse-to-Fine <span class="acl-fixed-case">PCFG</span> Parsing
+  url: https://www.aclweb.org/anthology/N06-1022
+  year: '2006'
+N06-1023:
+  address: New York City, USA
+  author:
+  - first: Daisuke
+    full: Daisuke Kawahara
+    id: daisuke-kawahara
+    last: Kawahara
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Daisuke Kawahara, Sadao Kurohashi
+  bibkey: kawahara-kurohashi-2006-fully
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '176'
+  page_last: '183'
+  pages: "176\u2013183"
+  paper_id: '23'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1023.jpg
+  title: A Fully-Lexicalized Probabilistic Model for Japanese Syntactic and Case Structure
+    Analysis
+  title_html: A Fully-Lexicalized Probabilistic Model for <span class="acl-fixed-case">J</span>apanese
+    Syntactic and Case Structure Analysis
+  url: https://www.aclweb.org/anthology/N06-1023
+  year: '2006'
+N06-1024:
+  address: New York City, USA
+  author:
+  - first: Ryan
+    full: Ryan Gabbard
+    id: ryan-gabbard
+    last: Gabbard
+  - first: Seth
+    full: Seth Kulick
+    id: seth-kulick
+    last: Kulick
+  - first: Mitchell
+    full: Mitchell Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Ryan Gabbard, Seth Kulick, Mitchell Marcus
+  bibkey: gabbard-etal-2006-fully
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '184'
+  page_last: '191'
+  pages: "184\u2013191"
+  paper_id: '24'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1024.jpg
+  title: Fully Parsing the Penn Treebank
+  title_html: Fully Parsing the <span class="acl-fixed-case">P</span>enn Treebank
+  url: https://www.aclweb.org/anthology/N06-1024
+  year: '2006'
+N06-1025:
+  address: New York City, USA
+  author:
+  - first: Simone Paolo
+    full: Simone Paolo Ponzetto
+    id: simone-paolo-ponzetto
+    last: Ponzetto
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Simone Paolo Ponzetto, Michael Strube
+  bibkey: ponzetto-strube-2006-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '192'
+  page_last: '199'
+  pages: "192\u2013199"
+  paper_id: '25'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1025.jpg
+  title: Exploiting Semantic Role Labeling, WordNet and Wikipedia for Coreference
+    Resolution
+  title_html: Exploiting Semantic Role Labeling, <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et and <span class="acl-fixed-case">W</span>ikipedia
+    for Coreference Resolution
+  url: https://www.aclweb.org/anthology/N06-1025
+  year: '2006'
+N06-1026:
+  address: New York City, USA
+  author:
+  - first: Soo-Min
+    full: Soo-Min Kim
+    id: soo-min-kim
+    last: Kim
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Soo-Min Kim, Eduard Hovy
+  bibkey: kim-hovy-2006-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '200'
+  page_last: '207'
+  pages: "200\u2013207"
+  paper_id: '26'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1026.jpg
+  title: Identifying and Analyzing Judgment Opinions
+  title_html: Identifying and Analyzing Judgment Opinions
+  url: https://www.aclweb.org/anthology/N06-1026
+  year: '2006'
+N06-1027:
+  address: New York City, USA
+  author:
+  - first: Donghui
+    full: Donghui Feng
+    id: donghui-feng
+    last: Feng
+  - first: Erin
+    full: Erin Shaw
+    id: erin-shaw
+    last: Shaw
+  - first: Jihie
+    full: Jihie Kim
+    id: jihie-kim
+    last: Kim
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Donghui Feng, Erin Shaw, Jihie Kim, Eduard Hovy
+  bibkey: feng-etal-2006-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '208'
+  page_last: '215'
+  pages: "208\u2013215"
+  paper_id: '27'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1027.jpg
+  title: Learning to Detect Conversation Focus of Threaded Discussions
+  title_html: Learning to Detect Conversation Focus of Threaded Discussions
+  url: https://www.aclweb.org/anthology/N06-1027
+  year: '2006'
+N06-1028:
+  address: New York City, USA
+  author:
+  - first: Klaus
+    full: Klaus Zechner
+    id: klaus-zechner
+    last: Zechner
+  - first: Isaac
+    full: Isaac Bejar
+    id: isaac-bejar
+    last: Bejar
+  author_string: Klaus Zechner, Isaac Bejar
+  bibkey: zechner-bejar-2006-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '216'
+  page_last: '223'
+  pages: "216\u2013223"
+  paper_id: '28'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1028.jpg
+  title: Towards Automatic Scoring of Non-Native Spontaneous Speech
+  title_html: Towards Automatic Scoring of Non-Native Spontaneous Speech
+  url: https://www.aclweb.org/anthology/N06-1028
+  year: '2006'
+N06-1029:
+  address: New York City, USA
+  author:
+  - first: Gina-Anne
+    full: Gina-Anne Levow
+    id: gina-anne-levow
+    last: Levow
+  author_string: Gina-Anne Levow
+  bibkey: levow-2006-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '224'
+  page_last: '231'
+  pages: "224\u2013231"
+  paper_id: '29'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1029.jpg
+  title: Unsupervised and Semi-supervised Learning of Tone and Pitch Accent
+  title_html: Unsupervised and Semi-supervised Learning of Tone and Pitch Accent
+  url: https://www.aclweb.org/anthology/N06-1029
+  year: '2006'
+N06-1030:
+  address: New York City, USA
+  author:
+  - first: John
+    full: John Kominek
+    id: john-kominek
+    last: Kominek
+  - first: Alan W
+    full: Alan W Black
+    id: alan-w-black
+    last: Black
+  author_string: John Kominek, Alan W Black
+  bibkey: kominek-black-2006-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '232'
+  page_last: '239'
+  pages: "232\u2013239"
+  paper_id: '30'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1030.jpg
+  title: 'Learning Pronunciation Dictionaries: Language Complexity and Word Selection
+    Strategies'
+  title_html: 'Learning Pronunciation Dictionaries: Language Complexity and Word Selection
+    Strategies'
+  url: https://www.aclweb.org/anthology/N06-1030
+  year: '2006'
+N06-1031:
+  address: New York City, USA
+  author:
+  - first: Bryant
+    full: Bryant Huang
+    id: bryant-huang
+    last: Huang
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Bryant Huang, Kevin Knight
+  bibkey: huang-knight-2006-relabeling
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '240'
+  page_last: '247'
+  pages: "240\u2013247"
+  paper_id: '31'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1031.jpg
+  title: Relabeling Syntax Trees to Improve Syntax-Based Machine Translation Quality
+  title_html: Relabeling Syntax Trees to Improve Syntax-Based Machine Translation
+    Quality
+  url: https://www.aclweb.org/anthology/N06-1031
+  year: '2006'
+N06-1032:
+  address: New York City, USA
+  author:
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  - first: John T.
+    full: John T. Maxwell III
+    id: john-t-maxwell-iii
+    last: Maxwell III
+  author_string: Stefan Riezler, John T. Maxwell III
+  bibkey: riezler-maxwell-iii-2006-grammatical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '248'
+  page_last: '255'
+  pages: "248\u2013255"
+  paper_id: '32'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1032.jpg
+  title: Grammatical Machine Translation
+  title_html: Grammatical Machine Translation
+  url: https://www.aclweb.org/anthology/N06-1032
+  year: '2006'
+N06-1033:
+  address: New York City, USA
+  author:
+  - first: Hao
+    full: Hao Zhang
+    id: hao-zhang
+    last: Zhang
+  - first: Liang
+    full: Liang Huang
+    id: liang-huang
+    last: Huang
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Hao Zhang, Liang Huang, Daniel Gildea, Kevin Knight
+  bibkey: zhang-etal-2006-synchronous
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '256'
+  page_last: '263'
+  pages: "256\u2013263"
+  paper_id: '33'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1033.jpg
+  title: Synchronous Binarization for Machine Translation
+  title_html: Synchronous Binarization for Machine Translation
+  url: https://www.aclweb.org/anthology/N06-1033
+  year: '2006'
+N06-1034:
+  address: New York City, USA
+  author:
+  - first: Kate
+    full: Kate Forbes-Riley
+    id: kate-forbes-riley
+    last: Forbes-Riley
+  - first: Diane
+    full: Diane Litman
+    id: diane-litman
+    last: Litman
+  author_string: Kate Forbes-Riley, Diane Litman
+  bibkey: forbes-riley-litman-2006-modelling
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '264'
+  page_last: '271'
+  pages: "264\u2013271"
+  paper_id: '34'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1034.jpg
+  title: Modelling User Satisfaction and Student Learning in a Spoken Dialogue Tutoring
+    System with Generic, Tutoring, and User Affect Parameters
+  title_html: Modelling User Satisfaction and Student Learning in a Spoken Dialogue
+    Tutoring System with Generic, Tutoring, and User Affect Parameters
+  url: https://www.aclweb.org/anthology/N06-1034
+  year: '2006'
+N06-1035:
+  address: New York City, USA
+  author:
+  - first: Joel
+    full: Joel Tetreault
+    id: joel-tetreault
+    last: Tetreault
+  - first: Diane
+    full: Diane Litman
+    id: diane-litman
+    last: Litman
+  author_string: Joel Tetreault, Diane Litman
+  bibkey: tetreault-litman-2006-comparing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '272'
+  page_last: '279'
+  pages: "272\u2013279"
+  paper_id: '35'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1035.jpg
+  title: Comparing the Utility of State Features in Spoken Dialogue Using Reinforcement
+    Learning
+  title_html: Comparing the Utility of State Features in Spoken Dialogue Using Reinforcement
+    Learning
+  url: https://www.aclweb.org/anthology/N06-1035
+  year: '2006'
+N06-1036:
+  address: New York City, USA
+  author:
+  - first: Gang
+    full: Gang Ji
+    id: gang-ji
+    last: Ji
+  - first: Jeff
+    full: Jeff Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  author_string: Gang Ji, Jeff Bilmes
+  bibkey: ji-bilmes-2006-backoff
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '280'
+  page_last: '287'
+  pages: "280\u2013287"
+  paper_id: '36'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1036.jpg
+  title: 'Backoff Model Training using Partially Observed Data: Application to Dialog
+    Act Tagging'
+  title_html: 'Backoff Model Training using Partially Observed Data: Application to
+    Dialog Act Tagging'
+  url: https://www.aclweb.org/anthology/N06-1036
+  year: '2006'
+N06-1037:
+  address: New York City, USA
+  author:
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Jie
+    full: Jie Zhang
+    id: jie-zhang
+    last: Zhang
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  author_string: Min Zhang, Jie Zhang, Jian Su
+  bibkey: zhang-etal-2006-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '288'
+  page_last: '295'
+  pages: "288\u2013295"
+  paper_id: '37'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1037.jpg
+  title: Exploring Syntactic Features for Relation Extraction using a Convolution
+    Tree Kernel
+  title_html: Exploring Syntactic Features for Relation Extraction using a Convolution
+    Tree Kernel
+  url: https://www.aclweb.org/anthology/N06-1037
+  year: '2006'
+N06-1038:
+  address: New York City, USA
+  author:
+  - first: Aron
+    full: Aron Culotta
+    id: aron-culotta
+    last: Culotta
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  - first: Jonathan
+    full: Jonathan Betz
+    id: jonathan-betz
+    last: Betz
+  author_string: Aron Culotta, Andrew McCallum, Jonathan Betz
+  bibkey: culotta-etal-2006-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '296'
+  page_last: '303'
+  pages: "296\u2013303"
+  paper_id: '38'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1038.jpg
+  title: Integrating Probabilistic Extraction Models and Data Mining to Discover Relations
+    and Patterns in Text
+  title_html: Integrating Probabilistic Extraction Models and Data Mining to Discover
+    Relations and Patterns in Text
+  url: https://www.aclweb.org/anthology/N06-1038
+  year: '2006'
+N06-1039:
+  address: New York City, USA
+  author:
+  - first: Yusuke
+    full: Yusuke Shinyama
+    id: yusuke-shinyama
+    last: Shinyama
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  author_string: Yusuke Shinyama, Satoshi Sekine
+  bibkey: shinyama-sekine-2006-preemptive
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '304'
+  page_last: '311'
+  pages: "304\u2013311"
+  paper_id: '39'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1039.jpg
+  title: Preemptive Information Extraction using Unrestricted Relation Discovery
+  title_html: Preemptive Information Extraction using Unrestricted Relation Discovery
+  url: https://www.aclweb.org/anthology/N06-1039
+  year: '2006'
+N06-1040:
+  address: New York City, USA
+  author:
+  - first: Mehryar
+    full: Mehryar Mohri
+    id: mehryar-mohri
+    last: Mohri
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  author_string: Mehryar Mohri, Brian Roark
+  bibkey: mohri-roark-2006-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '312'
+  page_last: '319'
+  pages: "312\u2013319"
+  paper_id: '40'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1040.jpg
+  title: Probabilistic Context-Free Grammar Induction Based on Structural Zeros
+  title_html: Probabilistic Context-Free Grammar Induction Based on Structural Zeros
+  url: https://www.aclweb.org/anthology/N06-1040
+  year: '2006'
+N06-1041:
+  address: New York City, USA
+  author:
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Aria Haghighi, Dan Klein
+  bibkey: haghighi-klein-2006-prototype
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '320'
+  page_last: '327'
+  pages: "320\u2013327"
+  paper_id: '41'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1041.jpg
+  title: Prototype-Driven Learning for Sequence Models
+  title_html: Prototype-Driven Learning for Sequence Models
+  url: https://www.aclweb.org/anthology/N06-1041
+  year: '2006'
+N06-1042:
+  address: New York City, USA
+  author:
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  - first: Ferhan
+    full: "Ferhan T\xFCre"
+    id: ferhan-ture
+    last: "T\xFCre"
+  author_string: "Deniz Yuret, Ferhan T\xFCre"
+  bibkey: yuret-ture-2006-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '328'
+  page_last: '334'
+  pages: "328\u2013334"
+  paper_id: '42'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1042.jpg
+  title: Learning Morphological Disambiguation Rules for Turkish
+  title_html: Learning Morphological Disambiguation Rules for <span class="acl-fixed-case">T</span>urkish
+  url: https://www.aclweb.org/anthology/N06-1042
+  year: '2006'
+N06-1043:
+  address: New York City, USA
+  author:
+  - first: Anna
+    full: Anna Corazza
+    id: anna-corazza
+    last: Corazza
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Anna Corazza, Giorgio Satta
+  bibkey: corazza-satta-2006-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '335'
+  page_last: '342'
+  pages: "335\u2013342"
+  paper_id: '43'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1043.jpg
+  title: Cross-Entropy and Estimation of Probabilistic Context-Free Grammars
+  title_html: Cross-Entropy and Estimation of Probabilistic Context-Free Grammars
+  url: https://www.aclweb.org/anthology/N06-1043
+  year: '2006'
+N06-1044:
+  address: New York City, USA
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Mark-Jan Nederhof, Giorgio Satta
+  bibkey: nederhof-satta-2006-estimation
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '343'
+  page_last: '350'
+  pages: "343\u2013350"
+  paper_id: '44'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1044.jpg
+  title: Estimation of Consistent Probabilistic Context-free Grammars
+  title_html: Estimation of Consistent Probabilistic Context-free Grammars
+  url: https://www.aclweb.org/anthology/N06-1044
+  year: '2006'
+N06-1045:
+  address: New York City, USA
+  author:
+  - first: Jonathan
+    full: Jonathan May
+    id: jonathan-may
+    last: May
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Jonathan May, Kevin Knight
+  bibkey: may-knight-2006-better
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '351'
+  page_last: '358'
+  pages: "351\u2013358"
+  paper_id: '45'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1045.jpg
+  title: 'A Better N-Best List: Practical Determinization of Weighted Finite Tree
+    Automata'
+  title_html: 'A Better N-Best List: Practical Determinization of Weighted Finite
+    Tree Automata'
+  url: https://www.aclweb.org/anthology/N06-1045
+  year: '2006'
+N06-1046:
+  address: New York City, USA
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Regina Barzilay, Mirella Lapata
+  bibkey: barzilay-lapata-2006-aggregation
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '359'
+  page_last: '366'
+  pages: "359\u2013366"
+  paper_id: '46'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1046.jpg
+  title: Aggregation via Set Partitioning for Natural Language Generation
+  title_html: Aggregation via Set Partitioning for Natural Language Generation
+  url: https://www.aclweb.org/anthology/N06-1046
+  year: '2006'
+N06-1047:
+  address: New York City, USA
+  author:
+  - first: Gabriel
+    full: Gabriel Murray
+    id: gabriel-murray
+    last: Murray
+  - first: Steve
+    full: Steve Renals
+    id: steve-renals
+    last: Renals
+  - first: Jean
+    full: Jean Carletta
+    id: jean-carletta
+    last: Carletta
+  - first: Johanna
+    full: Johanna Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: Gabriel Murray, Steve Renals, Jean Carletta, Johanna Moore
+  bibkey: murray-etal-2006-incorporating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '367'
+  page_last: '374'
+  pages: "367\u2013374"
+  paper_id: '47'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1047.jpg
+  title: Incorporating Speaker and Discourse Features into Speech Summarization
+  title_html: Incorporating Speaker and Discourse Features into Speech Summarization
+  url: https://www.aclweb.org/anthology/N06-1047
+  year: '2006'
+N06-1048:
+  address: New York City, USA
+  author:
+  - first: Gregory
+    full: Gregory Marton
+    id: gregory-marton
+    last: Marton
+  - first: Alexey
+    full: Alexey Radul
+    id: alexey-radul
+    last: Radul
+  author_string: Gregory Marton, Alexey Radul
+  bibkey: marton-radul-2006-nuggeteer
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '375'
+  page_last: '382'
+  pages: "375\u2013382"
+  paper_id: '48'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1048.jpg
+  title: 'Nuggeteer: Automatic Nugget-Based Evaluation using Descriptions and Judgements'
+  title_html: '<span class="acl-fixed-case">N</span>uggeteer: Automatic Nugget-Based
+    Evaluation using Descriptions and Judgements'
+  url: https://www.aclweb.org/anthology/N06-1048
+  year: '2006'
+N06-1049:
+  address: New York City, USA
+  author:
+  - first: Jimmy
+    full: Jimmy Lin
+    id: jimmy-lin
+    last: Lin
+  - first: Dina
+    full: Dina Demner-Fushman
+    id: dina-demner-fushman
+    last: Demner-Fushman
+  author_string: Jimmy Lin, Dina Demner-Fushman
+  bibkey: lin-demner-fushman-2006-will
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '383'
+  page_last: '390'
+  pages: "383\u2013390"
+  paper_id: '49'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1049.jpg
+  title: Will Pyramids Built of Nuggets Topple Over?
+  title_html: Will Pyramids Built of Nuggets Topple Over?
+  url: https://www.aclweb.org/anthology/N06-1049
+  year: '2006'
+N06-1050:
+  address: New York City, USA
+  author:
+  - first: Anna
+    full: Anna Ritchie
+    id: anna-ritchie
+    last: Ritchie
+  - first: Simone
+    full: Simone Teufel
+    id: simone-teufel
+    last: Teufel
+  - first: Stephen
+    full: Stephen Robertson
+    id: stephen-robertson
+    last: Robertson
+  author_string: Anna Ritchie, Simone Teufel, Stephen Robertson
+  bibkey: ritchie-etal-2006-creating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '391'
+  page_last: '398'
+  pages: "391\u2013398"
+  paper_id: '50'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1050.jpg
+  title: Creating a Test Collection for Citation-based IR Experiments
+  title_html: Creating a Test Collection for Citation-based <span class="acl-fixed-case">IR</span>
+    Experiments
+  url: https://www.aclweb.org/anthology/N06-1050
+  year: '2006'
+N06-1051:
+  address: New York City, USA
+  author:
+  - first: Huyen-Trang
+    full: Huyen-Trang Vu
+    id: huyen-trang-vu
+    last: Vu
+  - first: Patrick
+    full: Patrick Gallinari
+    id: patrick-gallinari
+    last: Gallinari
+  author_string: Huyen-Trang Vu, Patrick Gallinari
+  bibkey: vu-gallinari-2006-machine
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '399'
+  page_last: '406'
+  pages: "399\u2013406"
+  paper_id: '51'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1051.jpg
+  title: A Machine Learning based Approach to Evaluating Retrieval Systems
+  title_html: A Machine Learning based Approach to Evaluating Retrieval Systems
+  url: https://www.aclweb.org/anthology/N06-1051
+  year: '2006'
+N06-1052:
+  address: New York City, USA
+  author:
+  - first: Tao
+    full: Tao Tao
+    id: tao-tao
+    last: Tao
+  - first: Xuanhui
+    full: Xuanhui Wang
+    id: xuanhui-wang
+    last: Wang
+  - first: Qiaozhu
+    full: Qiaozhu Mei
+    id: qiaozhu-mei
+    last: Mei
+  - first: ChengXiang
+    full: ChengXiang Zhai
+    id: chengxiang-zhai
+    last: Zhai
+  author_string: Tao Tao, Xuanhui Wang, Qiaozhu Mei, ChengXiang Zhai
+  bibkey: tao-etal-2006-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '407'
+  page_last: '414'
+  pages: "407\u2013414"
+  paper_id: '52'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1052.jpg
+  title: Language Model Information Retrieval with Document Expansion
+  title_html: Language Model Information Retrieval with Document Expansion
+  url: https://www.aclweb.org/anthology/N06-1052
+  year: '2006'
+N06-1053:
+  address: New York City, USA
+  author:
+  - first: Zheng-Yu
+    full: Zheng-Yu Zhou
+    id: zheng-yu-zhou
+    last: Zhou
+  - first: Peng
+    full: Peng Yu
+    id: peng-yu
+    last: Yu
+  - first: Ciprian
+    full: Ciprian Chelba
+    id: ciprian-chelba
+    last: Chelba
+  - first: Frank
+    full: Frank Seide
+    id: frank-seide
+    last: Seide
+  author_string: Zheng-Yu Zhou, Peng Yu, Ciprian Chelba, Frank Seide
+  bibkey: zhou-etal-2006-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '415'
+  page_last: '422'
+  pages: "415\u2013422"
+  paper_id: '53'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1053.jpg
+  title: 'Towards Spoken-Document Retrieval for the Internet: Lattice Indexing For
+    Large-Scale Web-Search Architectures'
+  title_html: 'Towards Spoken-Document Retrieval for the <span class="acl-fixed-case">I</span>nternet:
+    Lattice Indexing For Large-Scale Web-Search Architectures'
+  url: https://www.aclweb.org/anthology/N06-1053
+  year: '2006'
+N06-1054:
+  address: New York City, USA
+  author:
+  - first: Roy
+    full: Roy Tromble
+    id: roy-tromble
+    last: Tromble
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Roy Tromble, Jason Eisner
+  bibkey: tromble-eisner-2006-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '423'
+  page_last: '430'
+  pages: "423\u2013430"
+  paper_id: '54'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1054.jpg
+  title: A fast finite-state relaxation method for enforcing global constraints on
+    sequence decoding
+  title_html: A fast finite-state relaxation method for enforcing global constraints
+    on sequence decoding
+  url: https://www.aclweb.org/anthology/N06-1054
+  year: '2006'
+N06-1055:
+  address: New York City, USA
+  author:
+  - first: Nianwen
+    full: Nianwen Xue
+    id: nianwen-xue
+    last: Xue
+  author_string: Nianwen Xue
+  bibkey: xue-2006-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '431'
+  page_last: '438'
+  pages: "431\u2013438"
+  paper_id: '55'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1055.jpg
+  title: Semantic role labeling of nominalized predicates in Chinese
+  title_html: Semantic role labeling of nominalized predicates in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/N06-1055
+  year: '2006'
+N06-1056:
+  address: New York City, USA
+  author:
+  - first: Yuk Wah
+    full: Yuk Wah Wong
+    id: yuk-wah-wong
+    last: Wong
+  - first: Raymond
+    full: Raymond Mooney
+    id: raymond-mooney
+    last: Mooney
+  author_string: Yuk Wah Wong, Raymond Mooney
+  bibkey: wong-mooney-2006-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '439'
+  page_last: '446'
+  pages: "439\u2013446"
+  paper_id: '56'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1056.jpg
+  title: Learning for Semantic Parsing with Statistical Machine Translation
+  title_html: Learning for Semantic Parsing with Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/N06-1056
+  year: '2006'
+N06-1057:
+  address: New York City, USA
+  author:
+  - first: Liang
+    full: Liang Zhou
+    id: liang-zhou
+    last: Zhou
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Dragos Stefan
+    full: Dragos Stefan Munteanu
+    id: dragos-stefan-munteanu
+    last: Munteanu
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Liang Zhou, Chin-Yew Lin, Dragos Stefan Munteanu, Eduard Hovy
+  bibkey: zhou-etal-2006-paraeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '447'
+  page_last: '454'
+  pages: "447\u2013454"
+  paper_id: '57'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1057.jpg
+  title: 'ParaEval: Using Paraphrases to Evaluate Summaries Automatically'
+  title_html: '<span class="acl-fixed-case">P</span>ara<span class="acl-fixed-case">E</span>val:
+    Using Paraphrases to Evaluate Summaries Automatically'
+  url: https://www.aclweb.org/anthology/N06-1057
+  year: '2006'
+N06-1058:
+  address: New York City, USA
+  author:
+  - first: David
+    full: David Kauchak
+    id: david-kauchak
+    last: Kauchak
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  author_string: David Kauchak, Regina Barzilay
+  bibkey: kauchak-barzilay-2006-paraphrasing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '455'
+  page_last: '462'
+  pages: "455\u2013462"
+  paper_id: '58'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1058.jpg
+  title: Paraphrasing for Automatic Evaluation
+  title_html: Paraphrasing for Automatic Evaluation
+  url: https://www.aclweb.org/anthology/N06-1058
+  year: '2006'
+N06-1059:
+  address: New York City, USA
+  author:
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Guihong
+    full: Guihong Cao
+    id: guihong-cao
+    last: Cao
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Jian-Yun
+    full: Jian-Yun Nie
+    id: jian-yun-nie
+    last: Nie
+  author_string: Chin-Yew Lin, Guihong Cao, Jianfeng Gao, Jian-Yun Nie
+  bibkey: lin-etal-2006-information
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '463'
+  page_last: '470'
+  pages: "463\u2013470"
+  paper_id: '59'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1059.jpg
+  title: An Information-Theoretic Approach to Automatic Evaluation of Summaries
+  title_html: An Information-Theoretic Approach to Automatic Evaluation of Summaries
+  url: https://www.aclweb.org/anthology/N06-1059
+  year: '2006'
+N06-1060:
+  address: New York City, USA
+  author:
+  - first: Andrew
+    full: Andrew Freeman
+    id: andrew-freeman
+    last: Freeman
+  - first: Sherri
+    full: Sherri Condon
+    id: sherri-condon
+    last: Condon
+  - first: Christopher
+    full: Christopher Ackerman
+    id: christopher-ackerman
+    last: Ackerman
+  author_string: Andrew Freeman, Sherri Condon, Christopher Ackerman
+  bibkey: freeman-etal-2006-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '471'
+  page_last: '478'
+  pages: "471\u2013478"
+  paper_id: '60'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1060.jpg
+  title: Cross Linguistic Name Matching in English and Arabic
+  title_html: Cross Linguistic Name Matching in <span class="acl-fixed-case">E</span>nglish
+    and <span class="acl-fixed-case">A</span>rabic
+  url: https://www.aclweb.org/anthology/N06-1060
+  year: '2006'
+N06-1061:
+  address: New York City, USA
+  author:
+  - first: "G\xFCne\u015F"
+    full: "G\xFCne\u015F Erkan"
+    id: gunes-erkan
+    last: Erkan
+  author_string: "G\xFCne\u015F Erkan"
+  bibkey: erkan-2006-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '479'
+  page_last: '486'
+  pages: "479\u2013486"
+  paper_id: '61'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1061.jpg
+  title: Language Model-Based Document Clustering Using Random Walks
+  title_html: Language Model-Based Document Clustering Using Random Walks
+  url: https://www.aclweb.org/anthology/N06-1061
+  year: '2006'
+N06-1062:
+  address: New York City, USA
+  author:
+  - first: Mikko
+    full: Mikko Kurimo
+    id: mikko-kurimo
+    last: Kurimo
+  - first: Antti
+    full: Antti Puurula
+    id: antti-puurula
+    last: Puurula
+  - first: Ebru
+    full: Ebru Arisoy
+    id: ebru-arisoy
+    last: Arisoy
+  - first: Vesa
+    full: Vesa Siivola
+    id: vesa-siivola
+    last: Siivola
+  - first: Teemu
+    full: "Teemu Hirsim\xE4ki"
+    id: teemu-hirsimaki
+    last: "Hirsim\xE4ki"
+  - first: Janne
+    full: "Janne Pylkk\xF6nen"
+    id: janne-pylkkonen
+    last: "Pylkk\xF6nen"
+  - first: Tanel
+    full: "Tanel Alum\xE4e"
+    id: tanel-alumae
+    last: "Alum\xE4e"
+  - first: Murat
+    full: Murat Saraclar
+    id: murat-saraclar
+    last: Saraclar
+  author_string: "Mikko Kurimo, Antti Puurula, Ebru Arisoy, Vesa Siivola, Teemu Hirsim\xE4\
+    ki, Janne Pylkk\xF6nen, Tanel Alum\xE4e, Murat Saraclar"
+  bibkey: kurimo-etal-2006-unlimited
+  bibtype: inproceedings
+  booktitle: Proceedings of the Human Language Technology Conference of the NAACL,
+    Main Conference
+  booktitle_html: Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Main Conference
+  month: June
+  page_first: '487'
+  page_last: '494'
+  pages: "487\u2013494"
+  paper_id: '62'
+  parent_volume_id: N06-1
+  pdf: https://www.aclweb.org/anthology/N06-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-1062.jpg
+  title: Unlimited vocabulary speech recognition for agglutinative languages
+  title_html: Unlimited vocabulary speech recognition for agglutinative languages
+  url: https://www.aclweb.org/anthology/N06-1062
+  year: '2006'
+N06-2000:
+  address: New York City, USA
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  - first: Jeff
+    full: Jeff Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  - first: Mark
+    full: Mark Sanderson
+    id: mark-sanderson
+    last: Sanderson
+  author_string: Robert C. Moore, Jeff Bilmes, Jennifer Chu-Carroll, Mark Sanderson
+  bibkey: naacl-2006-human-language
+  bibtype: proceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  month: June
+  paper_id: '0'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2000.jpg
+  title: 'Proceedings of the Human Language Technology Conference of the NAACL, Companion
+    Volume: Short Papers'
+  title_html: 'Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  url: https://www.aclweb.org/anthology/N06-2000
+  year: '2006'
+N06-2001:
+  address: New York City, USA
+  author:
+  - first: Andrei
+    full: Andrei Alexandrescu
+    id: andrei-alexandrescu
+    last: Alexandrescu
+  - first: Katrin
+    full: Katrin Kirchhoff
+    id: katrin-kirchhoff
+    last: Kirchhoff
+  author_string: Andrei Alexandrescu, Katrin Kirchhoff
+  bibkey: alexandrescu-kirchhoff-2006-factored
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '1'
+  page_last: '4'
+  pages: "1\u20134"
+  paper_id: '1'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2001.jpg
+  title: Factored Neural Language Models
+  title_html: Factored Neural Language Models
+  url: https://www.aclweb.org/anthology/N06-2001
+  year: '2006'
+N06-2002:
+  address: New York City, USA
+  author:
+  - first: Alison
+    full: Alison Alvarez
+    id: alison-alvarez
+    last: Alvarez
+  - first: Lori
+    full: Lori Levin
+    id: lori-levin
+    last: Levin
+  - first: Robert
+    full: Robert Frederking
+    id: robert-frederking
+    last: Frederking
+  - first: Simon
+    full: Simon Fung
+    id: simon-fung
+    last: Fung
+  - first: Donna
+    full: Donna Gates
+    id: donna-gates
+    last: Gates
+  - first: Jeff
+    full: Jeff Good
+    id: jeff-good
+    last: Good
+  author_string: Alison Alvarez, Lori Levin, Robert Frederking, Simon Fung, Donna
+    Gates, Jeff Good
+  bibkey: alvarez-etal-2006-mile
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '5'
+  page_last: '8'
+  pages: "5\u20138"
+  paper_id: '2'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2002.jpg
+  title: The MILE Corpus for Less Commonly Taught Languages
+  title_html: The <span class="acl-fixed-case">MILE</span> Corpus for Less Commonly
+    Taught Languages
+  url: https://www.aclweb.org/anthology/N06-2002
+  year: '2006'
+N06-2003:
+  address: New York City, USA
+  author:
+  - first: Jaime
+    full: Jaime Arguello
+    id: jaime-arguello
+    last: Arguello
+  - first: Carolyn
+    full: "Carolyn Ros\xE9"
+    id: carolyn-rose
+    last: "Ros\xE9"
+  author_string: "Jaime Arguello, Carolyn Ros\xE9"
+  bibkey: arguello-rose-2006-museli
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '9'
+  page_last: '12'
+  pages: "9\u201312"
+  paper_id: '3'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2003.jpg
+  title: 'Museli: A Multi-Source Evidence Integration Approach to Topic Segmentation
+    of Spontaneous Dialogue'
+  title_html: '<span class="acl-fixed-case">M</span>useli: A Multi-Source Evidence
+    Integration Approach to Topic Segmentation of Spontaneous Dialogue'
+  url: https://www.aclweb.org/anthology/N06-2003
+  year: '2006'
+N06-2004:
+  address: New York City, USA
+  author:
+  - first: Beata
+    full: Beata Beigman Klebanov
+    id: beata-beigman-klebanov
+    last: Beigman Klebanov
+  author_string: Beata Beigman Klebanov
+  bibkey: beigman-klebanov-2006-measuring
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '13'
+  page_last: '16'
+  pages: "13\u201316"
+  paper_id: '4'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2004.jpg
+  title: Measuring Semantic Relatedness Using People and WordNet
+  title_html: Measuring Semantic Relatedness Using People and <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et
+  url: https://www.aclweb.org/anthology/N06-2004
+  year: '2006'
+N06-2005:
+  address: New York City, USA
+  author:
+  - first: Paisarn
+    full: Paisarn Charoenpornsawat
+    id: paisarn-charoenpornsawat
+    last: Charoenpornsawat
+  - first: Sanjika
+    full: Sanjika Hewavitharana
+    id: sanjika-hewavitharana
+    last: Hewavitharana
+  - first: Tanja
+    full: Tanja Schultz
+    id: tanja-schultz
+    last: Schultz
+  author_string: Paisarn Charoenpornsawat, Sanjika Hewavitharana, Tanja Schultz
+  bibkey: charoenpornsawat-etal-2006-thai
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '17'
+  page_last: '20'
+  pages: "17\u201320"
+  paper_id: '5'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2005.jpg
+  title: Thai Grapheme-Based Speech Recognition
+  title_html: <span class="acl-fixed-case">T</span>hai Grapheme-Based Speech Recognition
+  url: https://www.aclweb.org/anthology/N06-2005
+  year: '2006'
+N06-2006:
+  address: New York City, USA
+  author:
+  - first: Pierre
+    full: Pierre Chatain
+    id: pierre-chatain
+    last: Chatain
+  - first: Edward
+    full: Edward Whittaker
+    id: edward-whittaker
+    last: Whittaker
+  - first: Joanna
+    full: Joanna Mrozinski
+    id: joanna-mrozinski
+    last: Mrozinski
+  - first: Sadaoki
+    full: Sadaoki Furui
+    id: sadaoki-furui
+    last: Furui
+  author_string: Pierre Chatain, Edward Whittaker, Joanna Mrozinski, Sadaoki Furui
+  bibkey: chatain-etal-2006-class
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '21'
+  page_last: '24'
+  pages: "21\u201324"
+  paper_id: '6'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2006.jpg
+  title: Class Model Adaptation for Speech Summarisation
+  title_html: Class Model Adaptation for Speech Summarisation
+  url: https://www.aclweb.org/anthology/N06-2006
+  year: '2006'
+N06-2007:
+  address: New York City, USA
+  author:
+  - first: Jinxiu
+    full: Jinxiu Chen
+    id: jinxiu-chen
+    last: Chen
+  - first: Donghong
+    full: Donghong Ji
+    id: donghong-ji
+    last: Ji
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  - first: Zhengyu
+    full: Zhengyu Niu
+    id: zheng-yu-niu
+    last: Niu
+  author_string: Jinxiu Chen, Donghong Ji, Chew Lim Tan, Zhengyu Niu
+  bibkey: chen-etal-2006-semi
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '25'
+  page_last: '28'
+  pages: "25\u201328"
+  paper_id: '7'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2007.jpg
+  title: Semi-supervised Relation Extraction with Label Propagation
+  title_html: Semi-supervised Relation Extraction with Label Propagation
+  url: https://www.aclweb.org/anthology/N06-2007
+  year: '2006'
+N06-2008:
+  address: New York City, USA
+  author:
+  - first: Angelo
+    full: Angelo Dalli
+    id: angelo-dalli
+    last: Dalli
+  author_string: Angelo Dalli
+  bibkey: dalli-2006-temporal
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '29'
+  page_last: '32'
+  pages: "29\u201332"
+  paper_id: '8'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2008.jpg
+  title: Temporal Classification of Text and Automatic Document Dating
+  title_html: Temporal Classification of Text and Automatic Document Dating
+  url: https://www.aclweb.org/anthology/N06-2008
+  year: '2006'
+N06-2009:
+  address: New York City, USA
+  author:
+  - first: Pablo
+    full: Pablo Duboue
+    id: pablo-duboue
+    last: Duboue
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  author_string: Pablo Duboue, Jennifer Chu-Carroll
+  bibkey: duboue-chu-carroll-2006-answering
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '33'
+  page_last: '36'
+  pages: "33\u201336"
+  paper_id: '9'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2009.jpg
+  title: 'Answering the question you wish they had asked: The impact of paraphrasing
+    for Question Answering'
+  title_html: 'Answering the question you wish they had asked: The impact of paraphrasing
+    for Question Answering'
+  url: https://www.aclweb.org/anthology/N06-2009
+  year: '2006'
+N06-2010:
+  address: New York City, USA
+  author:
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  - first: Randall
+    full: Randall Davis
+    id: randall-davis
+    last: Davis
+  author_string: Jacob Eisenstein, Randall Davis
+  bibkey: eisenstein-davis-2006-gesture
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '37'
+  page_last: '40'
+  pages: "37\u201340"
+  paper_id: '10'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2010.jpg
+  title: Gesture Improves Coreference Resolution
+  title_html: Gesture Improves Coreference Resolution
+  url: https://www.aclweb.org/anthology/N06-2010
+  year: '2006'
+N06-2011:
+  address: New York City, USA
+  author:
+  - first: Rashmi
+    full: Rashmi Gangadharaiah
+    id: rashmi-gangadharaiah
+    last: Gangadharaiah
+  - first: Ralf
+    full: Ralf Brown
+    id: ralf-d-brown
+    last: Brown
+  - first: Jaime
+    full: Jaime Carbonell
+    id: jaime-g-carbonell
+    last: Carbonell
+  author_string: Rashmi Gangadharaiah, Ralf Brown, Jaime Carbonell
+  bibkey: gangadharaiah-etal-2006-spectral
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '41'
+  page_last: '44'
+  pages: "41\u201344"
+  paper_id: '11'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2011.jpg
+  title: Spectral Clustering for Example Based Machine Translation
+  title_html: Spectral Clustering for Example Based Machine Translation
+  url: https://www.aclweb.org/anthology/N06-2011
+  year: '2006'
+N06-2012:
+  address: New York City, USA
+  author:
+  - first: Olga
+    full: Olga Gurevich
+    id: olga-gurevich
+    last: Gurevich
+  author_string: Olga Gurevich
+  bibkey: gurevich-2006-finite
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '45'
+  page_last: '48'
+  pages: "45\u201348"
+  paper_id: '12'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2012.jpg
+  title: A Finite-State Model of Georgian Verbal Morphology
+  title_html: A Finite-State Model of Georgian Verbal Morphology
+  url: https://www.aclweb.org/anthology/N06-2012
+  year: '2006'
+N06-2013:
+  address: New York City, USA
+  author:
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  - first: Fatiha
+    full: Fatiha Sadat
+    id: fatiha-sadat
+    last: Sadat
+  author_string: Nizar Habash, Fatiha Sadat
+  bibkey: habash-sadat-2006-arabic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '49'
+  page_last: '52'
+  pages: "49\u201352"
+  paper_id: '13'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2013.jpg
+  title: Arabic Preprocessing Schemes for Statistical Machine Translation
+  title_html: <span class="acl-fixed-case">A</span>rabic Preprocessing Schemes for
+    Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/N06-2013
+  year: '2006'
+N06-2014:
+  address: New York City, USA
+  author:
+  - first: Sangyun
+    full: Sangyun Hahn
+    id: sangyun-hahn
+    last: Hahn
+  - first: Richard
+    full: Richard Ladner
+    id: richard-ladner
+    last: Ladner
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  author_string: Sangyun Hahn, Richard Ladner, Mari Ostendorf
+  bibkey: hahn-etal-2006-agreement
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '53'
+  page_last: '56'
+  pages: "53\u201356"
+  paper_id: '14'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2014.jpg
+  title: 'Agreement/Disagreement Classification: Exploiting Unlabeled Data using Contrast
+    Classifiers'
+  title_html: 'Agreement/Disagreement Classification: Exploiting Unlabeled Data using
+    Contrast Classifiers'
+  url: https://www.aclweb.org/anthology/N06-2014
+  year: '2006'
+N06-2015:
+  address: New York City, USA
+  author:
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  - first: Mitchell
+    full: Mitchell Marcus
+    id: mitch-marcus
+    last: Marcus
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  - first: Lance
+    full: Lance Ramshaw
+    id: lance-ramshaw
+    last: Ramshaw
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Eduard Hovy, Mitchell Marcus, Martha Palmer, Lance Ramshaw, Ralph
+    Weischedel
+  bibkey: hovy-etal-2006-ontonotes
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '57'
+  page_last: '60'
+  pages: "57\u201360"
+  paper_id: '15'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2015.jpg
+  title: 'OntoNotes: The 90% Solution'
+  title_html: '<span class="acl-fixed-case">O</span>nto<span class="acl-fixed-case">N</span>otes:
+    The 90% Solution'
+  url: https://www.aclweb.org/anthology/N06-2015
+  year: '2006'
+N06-2016:
+  address: New York City, USA
+  author:
+  - first: Diana
+    full: Diana Inkpen
+    id: diana-inkpen
+    last: Inkpen
+  - first: Muath
+    full: Muath Alzghool
+    id: muath-alzghool
+    last: Alzghool
+  - first: Gareth
+    full: Gareth Jones
+    id: gareth-jones
+    last: Jones
+  - first: Douglas
+    full: Douglas Oard
+    id: douglas-w-oard
+    last: Oard
+  author_string: Diana Inkpen, Muath Alzghool, Gareth Jones, Douglas Oard
+  bibkey: inkpen-etal-2006-investigating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '61'
+  page_last: '64'
+  pages: "61\u201364"
+  paper_id: '16'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2016.jpg
+  title: Investigating Cross-Language Speech Retrieval for a Spontaneous Conversational
+    Speech Collection
+  title_html: Investigating Cross-Language Speech Retrieval for a Spontaneous Conversational
+    Speech Collection
+  url: https://www.aclweb.org/anthology/N06-2016
+  year: '2006'
+N06-2017:
+  address: New York City, USA
+  author:
+  - first: Nikiforos
+    full: Nikiforos Karamanis
+    id: nikiforos-karamanis
+    last: Karamanis
+  author_string: Nikiforos Karamanis
+  bibkey: karamanis-2006-evaluating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '65'
+  page_last: '68'
+  pages: "65\u201368"
+  paper_id: '17'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2017.jpg
+  title: Evaluating Centering for Sentence Ordering in Two New Domains
+  title_html: Evaluating Centering for Sentence Ordering in Two New Domains
+  url: https://www.aclweb.org/anthology/N06-2017
+  year: '2006'
+N06-2018:
+  address: New York City, USA
+  author:
+  - first: Seokhwan
+    full: Seokhwan Kim
+    id: seokhwan-kim
+    last: Kim
+  - first: Yu
+    full: Yu Song
+    id: yu-song
+    last: Song
+  - first: Kyungduk
+    full: Kyungduk Kim
+    id: kyungduk-kim
+    last: Kim
+  - first: Jeong-Won
+    full: Jeong-Won Cha
+    id: jeong-won-cha
+    last: Cha
+  - first: Gary Geunbae
+    full: Gary Geunbae Lee
+    id: gary-geunbae-lee
+    last: Lee
+  author_string: Seokhwan Kim, Yu Song, Kyungduk Kim, Jeong-Won Cha, Gary Geunbae
+    Lee
+  bibkey: kim-etal-2006-mmr
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '69'
+  page_last: '72'
+  pages: "69\u201372"
+  paper_id: '18'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2018.jpg
+  title: MMR-based Active Machine Learning for Bio Named Entity Recognition
+  title_html: <span class="acl-fixed-case">MMR</span>-based Active Machine Learning
+    for Bio Named Entity Recognition
+  url: https://www.aclweb.org/anthology/N06-2018
+  year: '2006'
+N06-2019:
+  address: New York City, USA
+  author:
+  - first: Matthew
+    full: Matthew Lease
+    id: matthew-lease
+    last: Lease
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Matthew Lease, Mark Johnson
+  bibkey: lease-johnson-2006-early
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '73'
+  page_last: '76'
+  pages: "73\u201376"
+  paper_id: '19'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2019.jpg
+  title: Early Deletion of Fillers In Processing Conversational Speech
+  title_html: Early Deletion of Fillers In Processing Conversational Speech
+  url: https://www.aclweb.org/anthology/N06-2019
+  year: '2006'
+N06-2020:
+  address: New York City, USA
+  author:
+  - first: Esther
+    full: Esther Levin
+    id: esther-levin
+    last: Levin
+  - first: Mehrbod
+    full: Mehrbod Sharifi
+    id: mehrbod-sharifi
+    last: Sharifi
+  - first: Jerry
+    full: Jerry Ball
+    id: jerry-ball
+    last: Ball
+  author_string: Esther Levin, Mehrbod Sharifi, Jerry Ball
+  bibkey: levin-etal-2006-evaluation
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '77'
+  page_last: '80'
+  pages: "77\u201380"
+  paper_id: '20'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2020.jpg
+  title: Evaluation of Utility of LSA for Word Sense Discrimination
+  title_html: Evaluation of Utility of <span class="acl-fixed-case">LSA</span> for
+    Word Sense Discrimination
+  url: https://www.aclweb.org/anthology/N06-2020
+  year: '2006'
+N06-2021:
+  address: New York City, USA
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Yang Liu
+  bibkey: liu-2006-initial
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '81'
+  page_last: '84'
+  pages: "81\u201384"
+  paper_id: '21'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2021.jpg
+  title: Initial Study on Automatic Identification of Speaker Role in Broadcast News
+    Speech
+  title_html: Initial Study on Automatic Identification of Speaker Role in Broadcast
+    News Speech
+  url: https://www.aclweb.org/anthology/N06-2021
+  year: '2006'
+N06-2022:
+  address: New York City, USA
+  author:
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Mairesse"
+    id: francois-mairesse
+    last: Mairesse
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  author_string: "Fran\xE7ois Mairesse, Marilyn Walker"
+  bibkey: mairesse-walker-2006-automatic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '85'
+  page_last: '88'
+  pages: "85\u201388"
+  paper_id: '22'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2022.jpg
+  title: Automatic Recognition of Personality in Conversation
+  title_html: Automatic Recognition of Personality in Conversation
+  url: https://www.aclweb.org/anthology/N06-2022
+  year: '2006'
+N06-2023:
+  address: New York City, USA
+  author:
+  - first: Sameer
+    full: Sameer Maskey
+    id: sameer-maskey
+    last: Maskey
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  author_string: Sameer Maskey, Julia Hirschberg
+  bibkey: maskey-hirschberg-2006-summarizing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '89'
+  page_last: '92'
+  pages: "89\u201392"
+  paper_id: '23'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2023.jpg
+  title: Summarizing Speech Without Text Using Hidden Markov Models
+  title_html: Summarizing Speech Without Text Using Hidden <span class="acl-fixed-case">M</span>arkov
+    Models
+  url: https://www.aclweb.org/anthology/N06-2023
+  year: '2006'
+N06-2024:
+  address: New York City, USA
+  author:
+  - first: Einat
+    full: Einat Minkov
+    id: einat-minkov
+    last: Minkov
+  - first: Richard
+    full: Richard Wang
+    id: richard-c-wang
+    last: Wang
+  - first: Anthony
+    full: Anthony Tomasic
+    id: anthony-tomasic
+    last: Tomasic
+  - first: William
+    full: William Cohen
+    id: william-cohen
+    last: Cohen
+  author_string: Einat Minkov, Richard Wang, Anthony Tomasic, William Cohen
+  bibkey: minkov-etal-2006-ner
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '93'
+  page_last: '96'
+  pages: "93\u201396"
+  paper_id: '24'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2024.jpg
+  title: "NER Systems that Suit User\u2019s Preferences: Adjusting the Recall-Precision\
+    \ Trade-off for Entity Extraction"
+  title_html: "<span class=\"acl-fixed-case\">NER</span> Systems that Suit User\u2019\
+    s Preferences: Adjusting the Recall-Precision Trade-off for Entity Extraction"
+  url: https://www.aclweb.org/anthology/N06-2024
+  year: '2006'
+N06-2025:
+  address: New York City, USA
+  author:
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  author_string: Alessandro Moschitti
+  bibkey: moschitti-2006-syntactic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '97'
+  page_last: '100'
+  pages: "97\u2013100"
+  paper_id: '25'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2025.jpg
+  title: 'Syntactic Kernels for Natural Language Learning: the Semantic Role Labeling
+    Case'
+  title_html: 'Syntactic Kernels for Natural Language Learning: the Semantic Role
+    Labeling Case'
+  url: https://www.aclweb.org/anthology/N06-2025
+  year: '2006'
+N06-2026:
+  address: New York City, USA
+  author:
+  - first: Gabriele
+    full: Gabriele Musillo
+    id: gabriele-musillo
+    last: Musillo
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  author_string: Gabriele Musillo, Paola Merlo
+  bibkey: musillo-merlo-2006-accurate
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '101'
+  page_last: '104'
+  pages: "101\u2013104"
+  paper_id: '26'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2026.jpg
+  title: Accurate Parsing of the Proposition Bank
+  title_html: Accurate Parsing of the Proposition Bank
+  url: https://www.aclweb.org/anthology/N06-2026
+  year: '2006'
+N06-2027:
+  address: New York City, USA
+  author:
+  - first: Yael
+    full: Yael Netzer
+    id: yael-netzer
+    last: Netzer
+  - first: Michael
+    full: Michael Elhadad
+    id: michael-elhadad
+    last: Elhadad
+  author_string: Yael Netzer, Michael Elhadad
+  bibkey: netzer-elhadad-2006-using
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '105'
+  page_last: '108'
+  pages: "105\u2013108"
+  paper_id: '27'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2027.jpg
+  title: Using Semantic Authoring for Blissymbols Communication Boards
+  title_html: Using Semantic Authoring for Blissymbols Communication Boards
+  url: https://www.aclweb.org/anthology/N06-2027
+  year: '2006'
+N06-2028:
+  address: New York City, USA
+  author:
+  - first: Youngja
+    full: Youngja Park
+    id: youngja-park
+    last: Park
+  - first: Ying
+    full: Ying Li
+    id: ying-li
+    last: Li
+  author_string: Youngja Park, Ying Li
+  bibkey: park-li-2006-extracting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '109'
+  page_last: '112'
+  pages: "109\u2013112"
+  paper_id: '28'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2028.jpg
+  title: Extracting Salient Keywords from Instructional Videos Using Joint Text, Audio
+    and Visual Cues
+  title_html: Extracting Salient Keywords from Instructional Videos Using Joint Text,
+    Audio and Visual Cues
+  url: https://www.aclweb.org/anthology/N06-2028
+  year: '2006'
+N06-2029:
+  address: New York City, USA
+  author:
+  - first: Michael
+    full: Michael Paul
+    id: michael-paul
+    last: Paul
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Michael Paul, Eiichiro Sumita
+  bibkey: paul-sumita-2006-exploiting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '113'
+  page_last: '116'
+  pages: "113\u2013116"
+  paper_id: '29'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2029.jpg
+  title: Exploiting Variant Corpora for Machine Translation
+  title_html: Exploiting Variant Corpora for Machine Translation
+  url: https://www.aclweb.org/anthology/N06-2029
+  year: '2006'
+N06-2030:
+  address: New York City, USA
+  author:
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  - first: Travis
+    full: Travis Choma
+    id: travis-choma
+    last: Choma
+  author_string: Gerald Penn, Travis Choma
+  bibkey: penn-choma-2006-quantitative
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '117'
+  page_last: '120'
+  pages: "117\u2013120"
+  paper_id: '30'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2030.jpg
+  title: Quantitative Methods for Classifying Writing Systems
+  title_html: Quantitative Methods for Classifying Writing Systems
+  url: https://www.aclweb.org/anthology/N06-2030
+  year: '2006'
+N06-2031:
+  address: New York City, USA
+  author:
+  - first: David
+    full: David Reitter
+    id: david-reitter
+    last: Reitter
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: David Reitter, Frank Keller, Johanna D. Moore
+  bibkey: reitter-etal-2006-computational
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '121'
+  page_last: '124'
+  pages: "121\u2013124"
+  paper_id: '31'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2031.jpg
+  title: Computational Modelling of Structural Priming in Dialogue
+  title_html: Computational Modelling of Structural Priming in Dialogue
+  url: https://www.aclweb.org/anthology/N06-2031
+  year: '2006'
+N06-2032:
+  address: New York City, USA
+  author:
+  - first: Andrew
+    full: Andrew Rosenberg
+    id: andrew-rosenberg
+    last: Rosenberg
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  author_string: Andrew Rosenberg, Julia Hirschberg
+  bibkey: rosenberg-hirschberg-2006-story
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '125'
+  page_last: '128'
+  pages: "125\u2013128"
+  paper_id: '32'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2032.jpg
+  title: Story Segmentation of Broadcast News in English, Mandarin and Arabic
+  title_html: Story Segmentation of Broadcast News in <span class="acl-fixed-case">E</span>nglish,
+    <span class="acl-fixed-case">M</span>andarin and <span class="acl-fixed-case">A</span>rabic
+  url: https://www.aclweb.org/anthology/N06-2032
+  year: '2006'
+N06-2033:
+  address: New York City, USA
+  author:
+  - first: Kenji
+    full: Kenji Sagae
+    id: kenji-sagae
+    last: Sagae
+  - first: Alon
+    full: Alon Lavie
+    id: alon-lavie
+    last: Lavie
+  author_string: Kenji Sagae, Alon Lavie
+  bibkey: sagae-lavie-2006-parser
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '129'
+  page_last: '132'
+  pages: "129\u2013132"
+  paper_id: '33'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2033.jpg
+  title: Parser Combination by Reparsing
+  title_html: Parser Combination by Reparsing
+  url: https://www.aclweb.org/anthology/N06-2033
+  year: '2006'
+N06-2034:
+  address: New York City, USA
+  author:
+  - first: Manami
+    full: Manami Saito
+    id: manami-saito
+    last: Saito
+  - first: Kazuhide
+    full: Kazuhide Yamamoto
+    id: kazuhide-yamamoto
+    last: Yamamoto
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  author_string: Manami Saito, Kazuhide Yamamoto, Satoshi Sekine
+  bibkey: saito-etal-2006-using
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '133'
+  page_last: '136'
+  pages: "133\u2013136"
+  paper_id: '34'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2034.jpg
+  title: Using Phrasal Patterns to Identify Discourse Relations
+  title_html: Using Phrasal Patterns to Identify Discourse Relations
+  url: https://www.aclweb.org/anthology/N06-2034
+  year: '2006'
+N06-2035:
+  address: New York City, USA
+  author:
+  - first: Franco
+    full: Franco Salvetti
+    id: franco-salvetti
+    last: Salvetti
+  - first: Nicolas
+    full: Nicolas Nicolov
+    id: nicolas-nicolov
+    last: Nicolov
+  author_string: Franco Salvetti, Nicolas Nicolov
+  bibkey: salvetti-nicolov-2006-weblog
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '137'
+  page_last: '140'
+  pages: "137\u2013140"
+  paper_id: '35'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2035.jpg
+  title: 'Weblog Classification for Fast Splog Filtering: A URL Language Model Segmentation
+    Approach'
+  title_html: 'Weblog Classification for Fast Splog Filtering: A <span class="acl-fixed-case">URL</span>
+    Language Model Segmentation Approach'
+  url: https://www.aclweb.org/anthology/N06-2035
+  year: '2006'
+N06-2036:
+  address: New York City, USA
+  author:
+  - first: Antonio
+    full: Antonio Sanfilippo
+    id: antonio-sanfilippo
+    last: Sanfilippo
+  - first: Stephen
+    full: Stephen Tratz
+    id: stephen-tratz
+    last: Tratz
+  - first: Michelle
+    full: Michelle Gregory
+    id: michelle-gregory
+    last: Gregory
+  author_string: Antonio Sanfilippo, Stephen Tratz, Michelle Gregory
+  bibkey: sanfilippo-etal-2006-word
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '141'
+  page_last: '144'
+  pages: "141\u2013144"
+  paper_id: '36'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2036.jpg
+  title: Word Domain Disambiguation via Word Sense Disambiguation
+  title_html: Word Domain Disambiguation via Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/N06-2036
+  year: '2006'
+N06-2037:
+  address: New York City, USA
+  author:
+  - first: Abhinav
+    full: Abhinav Sethy
+    id: abhinav-sethy
+    last: Sethy
+  - first: Panayiotis
+    full: Panayiotis Georgiou
+    id: panayiotis-georgiou
+    last: Georgiou
+  - first: Shrikanth
+    full: Shrikanth Narayanan
+    id: shrikanth-narayanan
+    last: Narayanan
+  author_string: Abhinav Sethy, Panayiotis Georgiou, Shrikanth Narayanan
+  bibkey: sethy-etal-2006-selecting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '145'
+  page_last: '148'
+  pages: "145\u2013148"
+  paper_id: '37'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2037.jpg
+  title: Selecting relevant text subsets from web-data for building topic specific
+    language models
+  title_html: Selecting relevant text subsets from web-data for building topic specific
+    language models
+  url: https://www.aclweb.org/anthology/N06-2037
+  year: '2006'
+N06-2038:
+  address: New York City, USA
+  author:
+  - first: Christian
+    full: Christian Siefkes
+    id: christian-siefkes
+    last: Siefkes
+  author_string: Christian Siefkes
+  bibkey: siefkes-2006-comparison
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '149'
+  page_last: '152'
+  pages: "149\u2013152"
+  paper_id: '38'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2038.jpg
+  title: A Comparison of Tagging Strategies for Statistical Information Extraction
+  title_html: A Comparison of Tagging Strategies for Statistical Information Extraction
+  url: https://www.aclweb.org/anthology/N06-2038
+  year: '2006'
+N06-2039:
+  address: New York City, USA
+  author:
+  - first: Neal
+    full: Neal Snider
+    id: neal-snider
+    last: Snider
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  author_string: Neal Snider, Mona Diab
+  bibkey: snider-diab-2006-unsupervised
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '153'
+  page_last: '156'
+  pages: "153\u2013156"
+  paper_id: '39'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2039.jpg
+  title: Unsupervised Induction of Modern Standard Arabic Verb Classes
+  title_html: Unsupervised Induction of Modern Standard <span class="acl-fixed-case">A</span>rabic
+    Verb Classes
+  url: https://www.aclweb.org/anthology/N06-2039
+  year: '2006'
+N06-2040:
+  address: New York City, USA
+  author:
+  - first: Laura
+    full: Laura Stoia
+    id: laura-stoia
+    last: Stoia
+  - first: Donna
+    full: Donna Byron
+    id: donna-byron
+    last: Byron
+  - first: Darla
+    full: Darla Shockley
+    id: darla-magdalene-shockley
+    last: Shockley
+  - first: Eric
+    full: Eric Fosler-Lussier
+    id: eric-fosler-lussier
+    last: Fosler-Lussier
+  author_string: Laura Stoia, Donna Byron, Darla Shockley, Eric Fosler-Lussier
+  bibkey: stoia-etal-2006-sentence
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '157'
+  page_last: '160'
+  pages: "157\u2013160"
+  paper_id: '40'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2040.jpg
+  title: Sentence Planning for Realtime Navigational Instruction
+  title_html: Sentence Planning for Realtime Navigational Instruction
+  url: https://www.aclweb.org/anthology/N06-2040
+  year: '2006'
+N06-2041:
+  address: New York City, USA
+  author:
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Fumiaki
+    full: Fumiaki Sugaya
+    id: fumiaki-sugaya
+    last: Sugaya
+  author_string: Eiichiro Sumita, Fumiaki Sugaya
+  bibkey: sumita-sugaya-2006-using
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '161'
+  page_last: '164'
+  pages: "161\u2013164"
+  paper_id: '41'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2041.jpg
+  title: Using the Web to Disambiguate Acronyms
+  title_html: Using the Web to Disambiguate Acronyms
+  url: https://www.aclweb.org/anthology/N06-2041
+  year: '2006'
+N06-2042:
+  address: New York City, USA
+  author:
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Fumiaki
+    full: Fumiaki Sugaya
+    id: fumiaki-sugaya
+    last: Sugaya
+  author_string: Eiichiro Sumita, Fumiaki Sugaya
+  bibkey: sumita-sugaya-2006-word
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '165'
+  page_last: '168'
+  pages: "165\u2013168"
+  paper_id: '42'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2042.jpg
+  title: Word Pronunciation Disambiguation using the Web
+  title_html: Word Pronunciation Disambiguation using the Web
+  url: https://www.aclweb.org/anthology/N06-2042
+  year: '2006'
+N06-2043:
+  address: New York City, USA
+  author:
+  - first: Svetlana
+    full: Svetlana Symonenko
+    id: svetlana-symonenko
+    last: Symonenko
+  - first: Steven
+    full: Steven Rowe
+    id: steven-rowe
+    last: Rowe
+  - first: Elizabeth D.
+    full: Elizabeth D. Liddy
+    id: elizabeth-d-liddy
+    last: Liddy
+  author_string: Svetlana Symonenko, Steven Rowe, Elizabeth D. Liddy
+  bibkey: symonenko-etal-2006-illuminating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '169'
+  page_last: '172'
+  pages: "169\u2013172"
+  paper_id: '43'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2043.jpg
+  title: Illuminating Trouble Tickets with Sublanguage Theory
+  title_html: Illuminating Trouble Tickets with Sublanguage Theory
+  url: https://www.aclweb.org/anthology/N06-2043
+  year: '2006'
+N06-2044:
+  address: New York City, USA
+  author:
+  - first: Dave
+    full: Dave Toney
+    id: dave-toney
+    last: Toney
+  - first: Johanna
+    full: Johanna Moore
+    id: johanna-d-moore
+    last: Moore
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  author_string: Dave Toney, Johanna Moore, Oliver Lemon
+  bibkey: toney-etal-2006-evolving
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '173'
+  page_last: '176'
+  pages: "173\u2013176"
+  paper_id: '44'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2044.jpg
+  title: Evolving optimal inspectable strategies for spoken dialogue systems
+  title_html: Evolving optimal inspectable strategies for spoken dialogue systems
+  url: https://www.aclweb.org/anthology/N06-2044
+  year: '2006'
+N06-2045:
+  address: New York City, USA
+  author:
+  - first: Brian
+    full: Brian Ulicny
+    id: brian-ulicny
+    last: Ulicny
+  author_string: Brian Ulicny
+  bibkey: ulicny-2006-lycos
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '177'
+  page_last: '180'
+  pages: "177\u2013180"
+  paper_id: '45'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2045.jpg
+  title: 'Lycos Retriever: An Information Fusion Engine'
+  title_html: 'Lycos Retriever: An Information Fusion Engine'
+  url: https://www.aclweb.org/anthology/N06-2045
+  year: '2006'
+N06-2046:
+  address: New York City, USA
+  author:
+  - first: Xiaojun
+    full: Xiaojun Wan
+    id: xiaojun-wan
+    last: Wan
+  - first: Jianwu
+    full: Jianwu Yang
+    id: jianwu-yang
+    last: Yang
+  author_string: Xiaojun Wan, Jianwu Yang
+  bibkey: wan-yang-2006-improved
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '181'
+  page_last: '184'
+  pages: "181\u2013184"
+  paper_id: '46'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2046.jpg
+  title: Improved Affinity Graph Based Multi-Document Summarization
+  title_html: Improved Affinity Graph Based Multi-Document Summarization
+  url: https://www.aclweb.org/anthology/N06-2046
+  year: '2006'
+N06-2047:
+  address: New York City, USA
+  author:
+  - first: Kui
+    full: Kui Xu
+    id: kui-xu
+    last: Xu
+  - first: Helen
+    full: Helen Meng
+    id: helen-meng
+    last: Meng
+  - first: Fuliang
+    full: Fuliang Weng
+    id: fuliang-weng
+    last: Weng
+  author_string: Kui Xu, Helen Meng, Fuliang Weng
+  bibkey: xu-etal-2006-maximum
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '185'
+  page_last: '188'
+  pages: "185\u2013188"
+  paper_id: '47'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2047.jpg
+  title: A Maximum Entropy Framework that Integrates Word Dependencies and Grammatical
+    Relations for Reading Comprehension
+  title_html: A Maximum Entropy Framework that Integrates Word Dependencies and Grammatical
+    Relations for Reading Comprehension
+  url: https://www.aclweb.org/anthology/N06-2047
+  year: '2006'
+N06-2048:
+  address: New York City, USA
+  author:
+  - first: Hong
+    full: Hong Yu
+    id: hong-yu
+    last: Yu
+  - first: Minsuk
+    full: Minsuk Lee
+    id: minsuk-lee
+    last: Lee
+  author_string: Hong Yu, Minsuk Lee
+  bibkey: yu-lee-2006-bioex
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '189'
+  page_last: '192'
+  pages: "189\u2013192"
+  paper_id: '48'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2048.jpg
+  title: 'BioEx: A Novel User-Interface that Accesses Images from Abstract Sentences'
+  title_html: '<span class="acl-fixed-case">B</span>io<span class="acl-fixed-case">E</span>x:
+    A Novel User-Interface that Accesses Images from Abstract Sentences'
+  url: https://www.aclweb.org/anthology/N06-2048
+  year: '2006'
+N06-2049:
+  address: New York City, USA
+  author:
+  - first: Ruiqiang
+    full: Ruiqiang Zhang
+    id: ruiqiang-zhang
+    last: Zhang
+  - first: Genichiro
+    full: Genichiro Kikui
+    id: genichiro-kikui
+    last: Kikui
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Ruiqiang Zhang, Genichiro Kikui, Eiichiro Sumita
+  bibkey: zhang-etal-2006-subword
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '193'
+  page_last: '196'
+  pages: "193\u2013196"
+  paper_id: '49'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2049.jpg
+  title: Subword-based Tagging by Conditional Random Fields for Chinese Word Segmentation
+  title_html: Subword-based Tagging by Conditional Random Fields for <span class="acl-fixed-case">C</span>hinese
+    Word Segmentation
+  url: https://www.aclweb.org/anthology/N06-2049
+  year: '2006'
+N06-2050:
+  address: New York City, USA
+  author:
+  - first: Xiaodan
+    full: Xiaodan Zhu
+    id: xiaodan-zhu
+    last: Zhu
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  author_string: Xiaodan Zhu, Gerald Penn
+  bibkey: zhu-penn-2006-comparing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '197'
+  page_last: '200'
+  pages: "197\u2013200"
+  paper_id: '50'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2050.jpg
+  title: Comparing the roles of textual, acoustic and spoken-language features on
+    spontaneous-conversation summarization
+  title_html: Comparing the roles of textual, acoustic and spoken-language features
+    on spontaneous-conversation summarization
+  url: https://www.aclweb.org/anthology/N06-2050
+  year: '2006'
+N06-2051:
+  address: New York City, USA
+  author:
+  - first: Andreas
+    full: Andreas Zollmann
+    id: andreas-zollmann
+    last: Zollmann
+  - first: Ashish
+    full: Ashish Venugopal
+    id: ashish-venugopal
+    last: Venugopal
+  - first: Stephan
+    full: Stephan Vogel
+    id: stephan-vogel
+    last: Vogel
+  author_string: Andreas Zollmann, Ashish Venugopal, Stephan Vogel
+  bibkey: zollmann-etal-2006-bridging
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Short Papers'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Short Papers'
+  month: June
+  page_first: '201'
+  page_last: '204'
+  pages: "201\u2013204"
+  paper_id: '51'
+  parent_volume_id: N06-2
+  pdf: https://www.aclweb.org/anthology/N06-2051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-2051.jpg
+  title: Bridging the Inflection Morphology Gap for Arabic Statistical Machine Translation
+  title_html: Bridging the Inflection Morphology Gap for <span class="acl-fixed-case">A</span>rabic
+    Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/N06-2051
+  year: '2006'
+N06-3000:
+  address: New York City, USA
+  author:
+  - first: Matt
+    full: Matt Huenerfauth
+    id: matt-huenerfauth
+    last: Huenerfauth
+  - first: Bo
+    full: Bo Pang
+    id: bo-pang
+    last: Pang
+  - first: Mitch
+    full: Mitch Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Matt Huenerfauth, Bo Pang, Mitch Marcus
+  bibkey: naacl-2006-human-language-technology
+  bibtype: proceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  month: June
+  paper_id: '0'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3000.jpg
+  title: 'Proceedings of the Human Language Technology Conference of the NAACL, Companion
+    Volume: Doctoral Consortium'
+  title_html: 'Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  url: https://www.aclweb.org/anthology/N06-3000
+  year: '2006'
+N06-3001:
+  address: New York City, USA
+  author:
+  - first: Lei
+    full: Lei Chen
+    id: lei-chen
+    last: Chen
+  author_string: Lei Chen
+  bibkey: chen-2006-incorporating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '211'
+  page_last: '214'
+  pages: "211\u2013214"
+  paper_id: '1'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3001.jpg
+  title: Incorporating Gesture and Gaze into Multimodal Models of Human-to-Human Communication
+  title_html: Incorporating Gesture and Gaze into Multimodal Models of Human-to-Human
+    Communication
+  url: https://www.aclweb.org/anthology/N06-3001
+  year: '2006'
+N06-3002:
+  address: New York City, USA
+  author:
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  author_string: Jacob Eisenstein
+  bibkey: eisenstein-2006-semantic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '215'
+  page_last: '218'
+  pages: "215\u2013218"
+  paper_id: '2'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3002.jpg
+  title: Semantic Back-Pointers from Gesture
+  title_html: Semantic Back-Pointers from Gesture
+  url: https://www.aclweb.org/anthology/N06-3002
+  year: '2006'
+N06-3003:
+  address: New York City, USA
+  author:
+  - first: Ariadna
+    full: "Ariadna Font Llitj\xF3s"
+    id: ariadna-font-llitjos
+    last: "Font Llitj\xF3s"
+  author_string: "Ariadna Font Llitj\xF3s"
+  bibkey: font-llitjos-2006-internet
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '219'
+  page_last: '222'
+  pages: "219\u2013222"
+  paper_id: '3'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3003.jpg
+  title: Can the Internet help improve Machine Translation?
+  title_html: Can the <span class="acl-fixed-case">I</span>nternet help improve Machine
+    Translation?
+  url: https://www.aclweb.org/anthology/N06-3003
+  year: '2006'
+N06-3004:
+  address: New York City, USA
+  author:
+  - first: Liang
+    full: Liang Huang
+    id: liang-huang
+    last: Huang
+  author_string: Liang Huang
+  bibkey: huang-2006-efficient
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '223'
+  page_last: '226'
+  pages: "223\u2013226"
+  paper_id: '4'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3004.jpg
+  title: 'Efficient Algorithms for Richer Formalisms: Parsing and Machine Translation'
+  title_html: 'Efficient Algorithms for Richer Formalisms: Parsing and Machine Translation'
+  url: https://www.aclweb.org/anthology/N06-3004
+  year: '2006'
+N06-3005:
+  address: New York City, USA
+  author:
+  - first: Wei-Hao
+    full: Wei-Hao Lin
+    id: wei-hao-lin
+    last: Lin
+  author_string: Wei-Hao Lin
+  bibkey: lin-2006-identifying
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '227'
+  page_last: '230'
+  pages: "227\u2013230"
+  paper_id: '5'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3005.jpg
+  title: Identifying Perspectives at the Document and Sentence Levels Using Statistical
+    Models
+  title_html: Identifying Perspectives at the Document and Sentence Levels Using Statistical
+    Models
+  url: https://www.aclweb.org/anthology/N06-3005
+  year: '2006'
+N06-3006:
+  address: New York City, USA
+  author:
+  - first: Jackson
+    full: Jackson Liscombe
+    id: jackson-liscombe
+    last: Liscombe
+  author_string: Jackson Liscombe
+  bibkey: liscombe-2006-detecting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '231'
+  page_last: '234'
+  pages: "231\u2013234"
+  paper_id: '6'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3006.jpg
+  title: 'Detecting Emotion in Speech: Experiments in Three Domains'
+  title_html: 'Detecting Emotion in Speech: Experiments in Three Domains'
+  url: https://www.aclweb.org/anthology/N06-3006
+  year: '2006'
+N06-3007:
+  address: New York City, USA
+  author:
+  - first: Irina
+    full: Irina Matveeva
+    id: irina-matveeva
+    last: Matveeva
+  author_string: Irina Matveeva
+  bibkey: matveeva-2006-document
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '235'
+  page_last: '238'
+  pages: "235\u2013238"
+  paper_id: '7'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3007.jpg
+  title: Document Representation and Multilevel Measures of Document Similarity
+  title_html: Document Representation and Multilevel Measures of Document Similarity
+  url: https://www.aclweb.org/anthology/N06-3007
+  year: '2006'
+N06-3008:
+  address: New York City, USA
+  author:
+  - first: Anders
+    full: "Anders S\xF8gaard"
+    id: anders-sogaard
+    last: "S\xF8gaard"
+  author_string: "Anders S\xF8gaard"
+  bibkey: sogaard-2006-logical
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '239'
+  page_last: '242'
+  pages: "239\u2013242"
+  paper_id: '8'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3008.jpg
+  title: Logical investigations on the adequacy of certain feature-based theories
+    of natural language
+  title_html: Logical investigations on the adequacy of certain feature-based theories
+    of natural language
+  url: https://www.aclweb.org/anthology/N06-3008
+  year: '2006'
+N06-3009:
+  address: New York City, USA
+  author:
+  - first: Richard Tzong-Han
+    full: Richard Tzong-Han Tsai
+    id: richard-tzong-han-tsai
+    last: Tsai
+  author_string: Richard Tzong-Han Tsai
+  bibkey: tsai-2006-hybrid
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '243'
+  page_last: '246'
+  pages: "243\u2013246"
+  paper_id: '9'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3009.jpg
+  title: A Hybrid Approach to Biomedical Named Entity Recognition and Semantic Role
+    Labeling
+  title_html: A Hybrid Approach to Biomedical Named Entity Recognition and Semantic
+    Role Labeling
+  url: https://www.aclweb.org/anthology/N06-3009
+  year: '2006'
+N06-3010:
+  address: New York City, USA
+  author:
+  - first: Xiaojun
+    full: Xiaojun Yuan
+    id: xiaojun-yuan
+    last: Yuan
+  author_string: Xiaojun Yuan
+  bibkey: yuan-2006-supporting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Doctoral Consortium'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Doctoral Consortium'
+  month: June
+  page_first: '247'
+  page_last: '249'
+  pages: "247\u2013249"
+  paper_id: '10'
+  parent_volume_id: N06-3
+  pdf: https://www.aclweb.org/anthology/N06-3010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-3010.jpg
+  title: Supporting Multiple Information-Seeking Strategies in a Single System Framework
+  title_html: Supporting Multiple Information-Seeking Strategies in a Single System
+    Framework
+  url: https://www.aclweb.org/anthology/N06-3010
+  year: '2006'
+N06-4000:
+  address: New York City, USA
+  author:
+  - first: Alex
+    full: Alex Rudnicky
+    id: alexander-rudnicky
+    last: Rudnicky
+  - first: John
+    full: John Dowding
+    id: john-dowding
+    last: Dowding
+  - first: Natasa
+    full: Natasa Milic-Frayling
+    id: natasa-milic-frayling1
+    last: Milic-Frayling
+  author_string: Alex Rudnicky, John Dowding, Natasa Milic-Frayling
+  bibkey: naacl-2006-human-language-technology-naacl
+  bibtype: proceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  month: June
+  paper_id: '0'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4000.jpg
+  title: 'Proceedings of the Human Language Technology Conference of the NAACL, Companion
+    Volume: Demonstrations'
+  title_html: 'Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  url: https://www.aclweb.org/anthology/N06-4000
+  year: '2006'
+N06-4001:
+  address: New York City, USA
+  author:
+  - first: Jaime
+    full: Jaime Arguello
+    id: jaime-arguello
+    last: Arguello
+  - first: Carolyn
+    full: "Carolyn Ros\xE9"
+    id: carolyn-rose
+    last: "Ros\xE9"
+  author_string: "Jaime Arguello, Carolyn Ros\xE9"
+  bibkey: arguello-rose-2006-infomagnets
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '253'
+  page_last: '256'
+  pages: "253\u2013256"
+  paper_id: '1'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4001.jpg
+  title: 'InfoMagnets: Making Sense of Corpus Data'
+  title_html: '<span class="acl-fixed-case">I</span>nfo<span class="acl-fixed-case">M</span>agnets:
+    Making Sense of Corpus Data'
+  url: https://www.aclweb.org/anthology/N06-4001
+  year: '2006'
+N06-4002:
+  address: New York City, USA
+  author:
+  - first: Janet M.
+    full: Janet M. Baker
+    id: janet-baker
+    last: Baker
+  - first: Patri J.
+    full: Patri J. Pugliese
+    id: patri-j-pugliese
+    last: Pugliese
+  author_string: Janet M. Baker, Patri J. Pugliese
+  bibkey: baker-pugliese-2006-pipedreams
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '257'
+  page_last: '260'
+  pages: "257\u2013260"
+  paper_id: '2'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4002.jpg
+  title: From Pipedreams to Products, and Promise!
+  title_html: From Pipedreams to Products, and Promise!
+  url: https://www.aclweb.org/anthology/N06-4002
+  year: '2006'
+N06-4003:
+  address: New York City, USA
+  author:
+  - first: Satanjeev
+    full: Satanjeev Banerjee
+    id: satanjeev-banerjee
+    last: Banerjee
+  - first: Alexander I.
+    full: Alexander I. Rudnicky
+    id: alexander-rudnicky
+    last: Rudnicky
+  author_string: Satanjeev Banerjee, Alexander I. Rudnicky
+  bibkey: banerjee-rudnicky-2006-smartnotes
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '261'
+  page_last: '264'
+  pages: "261\u2013264"
+  paper_id: '3'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4003.jpg
+  title: 'SmartNotes: Implicit Labeling of Meeting Data through User Note-Taking and
+    Browsing'
+  title_html: '<span class="acl-fixed-case">S</span>mart<span class="acl-fixed-case">N</span>otes:
+    Implicit Labeling of Meeting Data through User Note-Taking and Browsing'
+  url: https://www.aclweb.org/anthology/N06-4003
+  year: '2006'
+N06-4004:
+  address: New York City, USA
+  author:
+  - first: Yonggang
+    full: Yonggang Deng
+    id: yonggang-deng
+    last: Deng
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  author_string: Yonggang Deng, William Byrne
+  bibkey: deng-byrne-2006-mttk
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '265'
+  page_last: '268'
+  pages: "265\u2013268"
+  paper_id: '4'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4004.jpg
+  title: 'MTTK: An Alignment Toolkit for Statistical Machine Translation'
+  title_html: '<span class="acl-fixed-case">MTTK</span>: An Alignment Toolkit for
+    Statistical Machine Translation'
+  url: https://www.aclweb.org/anthology/N06-4004
+  year: '2006'
+N06-4005:
+  address: New York City, USA
+  author:
+  - first: Vanessa Lopez
+    full: Vanessa Lopez Garcia
+    id: vanessa-lopez-garcia
+    last: Garcia
+  - first: Enrico
+    full: Enrico Motta
+    id: enrico-motta
+    last: Motta
+  - first: Victoria
+    full: Victoria Uren
+    id: victoria-uren
+    last: Uren
+  author_string: Vanessa Lopez Garcia, Enrico Motta, Victoria Uren
+  bibkey: garcia-etal-2006-aqualog
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '269'
+  page_last: '272'
+  pages: "269\u2013272"
+  paper_id: '5'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4005.jpg
+  title: 'AquaLog: An ontology-driven Question Answering System to interface the Semantic
+    Web'
+  title_html: '<span class="acl-fixed-case">A</span>qua<span class="acl-fixed-case">L</span>og:
+    An ontology-driven Question Answering System to interface the Semantic Web'
+  url: https://www.aclweb.org/anthology/N06-4005
+  year: '2006'
+N06-4006:
+  address: New York City, USA
+  author:
+  - first: Philip V.
+    full: Philip V. Ogren
+    id: philip-ogren
+    last: Ogren
+  author_string: Philip V. Ogren
+  bibkey: ogren-2006-knowtator
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '273'
+  page_last: '275'
+  pages: "273\u2013275"
+  paper_id: '6'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4006.jpg
+  title: "Knowtator: A Prot\xE9g\xE9 plug-in for annotated corpus construction"
+  title_html: "<span class=\"acl-fixed-case\">K</span>nowtator: A Prot\xE9g\xE9 plug-in\
+    \ for annotated corpus construction"
+  url: https://www.aclweb.org/anthology/N06-4006
+  year: '2006'
+N06-4007:
+  address: New York City, USA
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  - first: Anagha
+    full: Anagha Kulkarni
+    id: anagha-kulkarni
+    last: Kulkarni
+  author_string: Ted Pedersen, Anagha Kulkarni
+  bibkey: pedersen-kulkarni-2006-automatic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '276'
+  page_last: '279'
+  pages: "276\u2013279"
+  paper_id: '7'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4007.jpg
+  title: Automatic Cluster Stopping with Criterion Functions and the Gap Statistic
+  title_html: Automatic Cluster Stopping with Criterion Functions and the Gap Statistic
+  url: https://www.aclweb.org/anthology/N06-4007
+  year: '2006'
+N06-4008:
+  address: New York City, USA
+  author:
+  - first: Dinoj
+    full: Dinoj Surendran
+    id: dinoj-surendran
+    last: Surendran
+  author_string: Dinoj Surendran
+  bibkey: surendran-2006-automating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '280'
+  page_last: '283'
+  pages: "280\u2013283"
+  paper_id: '8'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4008.jpg
+  title: Automating the Creation of Interactive Glyph-supplemented Scatterplots for
+    Visualizing Algorithm Results
+  title_html: Automating the Creation of Interactive Glyph-supplemented Scatterplots
+    for Visualizing Algorithm Results
+  url: https://www.aclweb.org/anthology/N06-4008
+  year: '2006'
+N06-4009:
+  address: New York City, USA
+  author:
+  - first: Alicia
+    full: Alicia Tribble
+    id: alicia-tribble
+    last: Tribble
+  - first: Benjamin
+    full: Benjamin Lambert
+    id: benjamin-lambert
+    last: Lambert
+  - first: Scott E.
+    full: Scott E. Fahlman
+    id: scott-e-fahlman
+    last: Fahlman
+  author_string: Alicia Tribble, Benjamin Lambert, Scott E. Fahlman
+  bibkey: tribble-etal-2006-sconeedit
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '284'
+  page_last: '287'
+  pages: "284\u2013287"
+  paper_id: '9'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4009.jpg
+  title: 'SconeEdit: A Text-guided Domain Knowledge Editor'
+  title_html: '<span class="acl-fixed-case">S</span>cone<span class="acl-fixed-case">E</span>dit:
+    A Text-guided Domain Knowledge Editor'
+  url: https://www.aclweb.org/anthology/N06-4009
+  year: '2006'
+N06-4010:
+  address: New York City, USA
+  author:
+  - first: E.W.D.
+    full: E.W.D. Whittaker
+    id: edward-w-d-whittaker
+    last: Whittaker
+  - first: J.
+    full: J. Mrozinski
+    id: joanna-mrozinski
+    last: Mrozinski
+  - first: S.
+    full: S. Furui
+    id: sadaoki-furui
+    last: Furui
+  author_string: E.W.D. Whittaker, J. Mrozinski, S. Furui
+  bibkey: whittaker-etal-2006-factoid
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '288'
+  page_last: '291'
+  pages: "288\u2013291"
+  paper_id: '10'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4010.jpg
+  title: Factoid Question Answering with Web, Mobile and Speech Interfaces
+  title_html: Factoid Question Answering with Web, Mobile and Speech Interfaces
+  url: https://www.aclweb.org/anthology/N06-4010
+  year: '2006'
+N06-4011:
+  address: New York City, USA
+  author:
+  - first: G.
+    full: G. Zweig
+    id: geoffrey-zweig
+    last: Zweig
+  - first: O.
+    full: O. Siohan
+    id: o-siohan
+    last: Siohan
+  - first: G.
+    full: G. Saon
+    id: g-saon
+    last: Saon
+  - first: B.
+    full: B. Ramabhadran
+    id: bhuvana-ramabhadran
+    last: Ramabhadran
+  - first: D.
+    full: D. Povey
+    id: daniel-povey
+    last: Povey
+  - first: L.
+    full: L. Mangu
+    id: lidia-mangu
+    last: Mangu
+  - first: B.
+    full: B. Kingsbury
+    id: brian-kingsbury
+    last: Kingsbury
+  author_string: G. Zweig, O. Siohan, G. Saon, B. Ramabhadran, D. Povey, L. Mangu,
+    B. Kingsbury
+  bibkey: zweig-etal-2006-automated
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Demonstrations'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Demonstrations'
+  month: June
+  page_first: '292'
+  page_last: '295'
+  pages: "292\u2013295"
+  paper_id: '11'
+  parent_volume_id: N06-4
+  pdf: https://www.aclweb.org/anthology/N06-4011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-4011.jpg
+  title: Automated Quality Monitoring for Call Centers using Speech and NLP Technologies
+  title_html: Automated Quality Monitoring for Call Centers using Speech and <span
+    class="acl-fixed-case">NLP</span> Technologies
+  url: https://www.aclweb.org/anthology/N06-4011
+  year: '2006'
+N06-5000:
+  address: New York City, USA
+  author:
+  - first: Chris
+    full: Chris Manning
+    id: christopher-d-manning
+    last: Manning
+  - first: Doug
+    full: Doug Oard
+    id: douglas-w-oard
+    last: Oard
+  - first: Jim
+    full: Jim Glass
+    id: jim-glass
+    last: Glass
+  author_string: Chris Manning, Doug Oard, Jim Glass
+  bibkey: naacl-2006-human-language-technology-naacl-companion
+  bibtype: proceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  month: June
+  paper_id: '0'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5000.jpg
+  title: 'Proceedings of the Human Language Technology Conference of the NAACL, Companion
+    Volume: Tutorial Abstracts'
+  title_html: 'Proceedings of the Human Language Technology Conference of the <span
+    class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  url: https://www.aclweb.org/anthology/N06-5000
+  year: '2006'
+N06-5001:
+  address: New York City, USA
+  author:
+  - first: Sherri
+    full: Sherri Condon
+    id: sherri-condon
+    last: Condon
+  - first: Keith
+    full: Keith Miller
+    id: keith-j-miller
+    last: Miller
+  author_string: Sherri Condon, Keith Miller
+  bibkey: condon-miller-2006-whats
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  month: June
+  page_first: '299'
+  page_last: '300'
+  pages: "299\u2013300"
+  paper_id: '1'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5001.jpg
+  title: "What\u2018s in a Name: Current Methods, Applications, and Evaluation in\
+    \ Multilingual Name Search and Matching"
+  title_html: "What\u2018s in a Name: Current Methods, Applications, and Evaluation\
+    \ in Multilingual Name Search and Matching"
+  url: https://www.aclweb.org/anthology/N06-5001
+  year: '2006'
+N06-5002:
+  address: New York City, USA
+  author:
+  - first: Hal
+    full: Hal Daume III
+    id: hal-daume-iii
+    last: Daume III
+  author_string: Hal Daume III
+  bibkey: daume-iii-2006-beyond
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  month: June
+  page_first: '301'
+  page_last: '302'
+  pages: "301\u2013302"
+  paper_id: '2'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5002.jpg
+  title: 'Beyond EM: Bayesian Techniques for Human Language Technology Researchers'
+  title_html: 'Beyond <span class="acl-fixed-case">EM</span>: <span class="acl-fixed-case">B</span>ayesian
+    Techniques for Human Language Technology Researchers'
+  url: https://www.aclweb.org/anthology/N06-5002
+  year: '2006'
+N06-5003:
+  address: New York City, USA
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Dragomir
+    full: Dragomir Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: Rada Mihalcea, Dragomir Radev
+  bibkey: mihalcea-radev-2006-graph
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  month: June
+  page_first: '303'
+  page_last: '304'
+  pages: "303\u2013304"
+  paper_id: '3'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5003.jpg
+  title: Graph-based Algorithms for Natural Language Processing and Information Retrieval
+  title_html: Graph-based Algorithms for Natural Language Processing and Information
+    Retrieval
+  url: https://www.aclweb.org/anthology/N06-5003
+  year: '2006'
+N06-5004:
+  address: New York City, USA
+  author:
+  - first: Ciprian
+    full: Ciprian Chelba
+    id: ciprian-chelba
+    last: Chelba
+  - first: T. J.
+    full: T. J. Hazen
+    id: timothy-j-hazen
+    last: Hazen
+  author_string: Ciprian Chelba, T. J. Hazen
+  bibkey: chelba-hazen-2006-automatic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  month: June
+  page_first: '305'
+  page_last: '306'
+  pages: "305\u2013306"
+  paper_id: '4'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5004.jpg
+  title: Automatic Spoken Document Processing for Retrieval and Browsing
+  title_html: Automatic Spoken Document Processing for Retrieval and Browsing
+  url: https://www.aclweb.org/anthology/N06-5004
+  year: '2006'
+N06-5005:
+  address: New York City, USA
+  author:
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  - first: Gholamreza
+    full: Gholamreza Haffari
+    id: gholamreza-haffari
+    last: Haffari
+  author_string: Anoop Sarkar, Gholamreza Haffari
+  bibkey: sarkar-haffari-2006-tutorial
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  month: June
+  page_first: '307'
+  page_last: '308'
+  pages: "307\u2013308"
+  paper_id: '5'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5005.jpg
+  title: 'Tutorial on Inductive Semi-supervised Learning Methods: with Applicability
+    to Natural Language Processing'
+  title_html: 'Tutorial on Inductive Semi-supervised Learning Methods: with Applicability
+    to Natural Language Processing'
+  url: https://www.aclweb.org/anthology/N06-5005
+  year: '2006'
+N06-5006:
+  address: New York City, USA
+  author:
+  - first: Scott Wen-tau
+    full: Scott Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  author_string: Scott Wen-tau Yih, Kristina Toutanova
+  bibkey: yih-toutanova-2006-automatic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the Human Language Technology Conference of the NAACL,
+    Companion Volume: Tutorial Abstracts'
+  booktitle_html: 'Proceedings of the Human Language Technology Conference of the
+    <span class="acl-fixed-case">NAACL</span>, Companion Volume: Tutorial Abstracts'
+  month: June
+  page_first: '309'
+  page_last: '310'
+  pages: "309\u2013310"
+  paper_id: '6'
+  parent_volume_id: N06-5
+  pdf: https://www.aclweb.org/anthology/N06-5006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/N06-5006.jpg
+  title: Automatic Semantic Role Labeling
+  title_html: Automatic Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/N06-5006
+  year: '2006'

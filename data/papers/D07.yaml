@@ -1,0 +1,4824 @@
+D07-1000:
+  address: Prague, Czech Republic
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Jason Eisner
+  bibkey: emnlp-2007-2007
+  bibtype: proceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  month: June
+  paper_id: '0'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1000.jpg
+  title: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  title_html: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (<span class="acl-fixed-case">EMNLP</span>-<span
+    class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>)
+  url: https://www.aclweb.org/anthology/D07-1000
+  year: '2007'
+D07-1001:
+  address: Prague, Czech Republic
+  author:
+  - first: James
+    full: James Clarke
+    id: james-clarke
+    last: Clarke
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: James Clarke, Mirella Lapata
+  bibkey: clarke-lapata-2007-modelling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1'
+  page_last: '11'
+  pages: "1\u201311"
+  paper_id: '1'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1001.jpg
+  title: Modelling Compression with Discourse Constraints
+  title_html: Modelling Compression with Discourse Constraints
+  url: https://www.aclweb.org/anthology/D07-1001
+  year: '2007'
+D07-1002:
+  address: Prague, Czech Republic
+  author:
+  - first: Dan
+    full: Dan Shen
+    id: dan-shen
+    last: Shen
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Dan Shen, Mirella Lapata
+  bibkey: shen-lapata-2007-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '12'
+  page_last: '21'
+  pages: "12\u201321"
+  paper_id: '2'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1002.jpg
+  title: Using Semantic Roles to Improve Question Answering
+  title_html: Using Semantic Roles to Improve Question Answering
+  url: https://www.aclweb.org/anthology/D07-1002
+  year: '2007'
+D07-1003:
+  address: Prague, Czech Republic
+  author:
+  - first: Mengqiu
+    full: Mengqiu Wang
+    id: mengqiu-wang
+    last: Wang
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  - first: Teruko
+    full: Teruko Mitamura
+    id: teruko-mitamura
+    last: Mitamura
+  author_string: Mengqiu Wang, Noah A. Smith, Teruko Mitamura
+  bibkey: wang-etal-2007-jeopardy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '22'
+  page_last: '32'
+  pages: "22\u201332"
+  paper_id: '3'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1003.jpg
+  title: What is the Jeopardy Model? A Quasi-Synchronous Grammar for QA
+  title_html: What is the <span class="acl-fixed-case">J</span>eopardy Model? A Quasi-Synchronous
+    Grammar for <span class="acl-fixed-case">QA</span>
+  url: https://www.aclweb.org/anthology/D07-1003
+  year: '2007'
+D07-1004:
+  address: Prague, Czech Republic
+  author:
+  - first: Youzheng
+    full: Youzheng Wu
+    id: youzheng-wu
+    last: Wu
+  - first: Ruiqiang
+    full: Ruiqiang Zhang
+    id: ruiqiang-zhang
+    last: Zhang
+  - first: Xinhui
+    full: Xinhui Hu
+    id: xinhui-hu
+    last: Hu
+  - first: Hideki
+    full: Hideki Kashioka
+    id: hideki-kashioka
+    last: Kashioka
+  author_string: Youzheng Wu, Ruiqiang Zhang, Xinhui Hu, Hideki Kashioka
+  bibkey: wu-etal-2007-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '33'
+  page_last: '41'
+  pages: "33\u201341"
+  paper_id: '4'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1004.jpg
+  title: Learning Unsupervised SVM Classifier for Answer Selection in Web Question
+    Answering
+  title_html: Learning Unsupervised <span class="acl-fixed-case">SVM</span> Classifier
+    for Answer Selection in Web Question Answering
+  url: https://www.aclweb.org/anthology/D07-1004
+  year: '2007'
+D07-1005:
+  address: Prague, Czech Republic
+  author:
+  - first: Shankar
+    full: Shankar Kumar
+    id: shankar-kumar
+    last: Kumar
+  - first: Franz J.
+    full: Franz J. Och
+    id: franz-josef-och
+    last: Och
+  - first: Wolfgang
+    full: Wolfgang Macherey
+    id: wolfgang-macherey
+    last: Macherey
+  author_string: Shankar Kumar, Franz J. Och, Wolfgang Macherey
+  bibkey: kumar-etal-2007-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '42'
+  page_last: '50'
+  pages: "42\u201350"
+  paper_id: '5'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1005.jpg
+  title: Improving Word Alignment with Bridge Languages
+  title_html: Improving Word Alignment with Bridge Languages
+  url: https://www.aclweb.org/anthology/D07-1005
+  year: '2007'
+D07-1006:
+  address: Prague, Czech Republic
+  author:
+  - first: Alexander
+    full: Alexander Fraser
+    id: alexander-fraser
+    last: Fraser
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Alexander Fraser, Daniel Marcu
+  bibkey: fraser-marcu-2007-getting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '51'
+  page_last: '60'
+  pages: "51\u201360"
+  paper_id: '6'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1006.jpg
+  title: 'Getting the Structure Right for Word Alignment: LEAF'
+  title_html: 'Getting the Structure Right for Word Alignment: <span class="acl-fixed-case">LEAF</span>'
+  url: https://www.aclweb.org/anthology/D07-1006
+  year: '2007'
+D07-1007:
+  address: Prague, Czech Republic
+  author:
+  - first: Marine
+    full: Marine Carpuat
+    id: marine-carpuat
+    last: Carpuat
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Marine Carpuat, Dekai Wu
+  bibkey: carpuat-wu-2007-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '61'
+  page_last: '72'
+  pages: "61\u201372"
+  paper_id: '7'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1007.jpg
+  title: Improving Statistical Machine Translation Using Word Sense Disambiguation
+  title_html: Improving Statistical Machine Translation Using Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/D07-1007
+  year: '2007'
+D07-1008:
+  address: Prague, Czech Republic
+  author:
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Trevor Cohn, Mirella Lapata
+  bibkey: cohn-lapata-2007-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '73'
+  page_last: '82'
+  pages: "73\u201382"
+  paper_id: '8'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1008.jpg
+  title: Large Margin Synchronous Generation and its Application to Sentence Compression
+  title_html: Large Margin Synchronous Generation and its Application to Sentence
+    Compression
+  url: https://www.aclweb.org/anthology/D07-1008
+  year: '2007'
+D07-1009:
+  address: Prague, Czech Republic
+  author:
+  - first: Erdong
+    full: Erdong Chen
+    id: erdong-chen
+    last: Chen
+  - first: Benjamin
+    full: Benjamin Snyder
+    id: benjamin-snyder
+    last: Snyder
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  author_string: Erdong Chen, Benjamin Snyder, Regina Barzilay
+  bibkey: chen-etal-2007-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '83'
+  page_last: '91'
+  pages: "83\u201391"
+  paper_id: '9'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1009.jpg
+  title: Incremental Text Structuring with Online Hierarchical Ranking
+  title_html: Incremental Text Structuring with Online Hierarchical Ranking
+  url: https://www.aclweb.org/anthology/D07-1009
+  year: '2007'
+D07-1010:
+  address: Prague, Czech Republic
+  author:
+  - first: Ben
+    full: Ben Wellner
+    id: ben-wellner
+    last: Wellner
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: Ben Wellner, James Pustejovsky
+  bibkey: wellner-pustejovsky-2007-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '92'
+  page_last: '101'
+  pages: "92\u2013101"
+  paper_id: '10'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1010.jpg
+  title: Automatically Identifying the Arguments of Discourse Connectives
+  title_html: Automatically Identifying the Arguments of Discourse Connectives
+  url: https://www.aclweb.org/anthology/D07-1010
+  year: '2007'
+D07-1011:
+  address: Prague, Czech Republic
+  author:
+  - first: Albert
+    full: Albert Gatt
+    id: albert-gatt
+    last: Gatt
+  - first: Kees
+    full: Kees van Deemter
+    id: kees-van-deemter
+    last: van Deemter
+  author_string: Albert Gatt, Kees van Deemter
+  bibkey: gatt-van-deemter-2007-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '102'
+  page_last: '111'
+  pages: "102\u2013111"
+  paper_id: '11'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1011.jpg
+  title: 'Incremental Generation of Plural Descriptions: Similarity and Partitioning'
+  title_html: 'Incremental Generation of Plural Descriptions: Similarity and Partitioning'
+  url: https://www.aclweb.org/anthology/D07-1011
+  year: '2007'
+D07-1012:
+  address: Prague, Czech Republic
+  author:
+  - first: Joachim
+    full: Joachim Wagner
+    id: joachim-wagner
+    last: Wagner
+  - first: Jennifer
+    full: Jennifer Foster
+    id: jennifer-foster
+    last: Foster
+  - first: Josef
+    full: Josef van Genabith
+    id: josef-van-genabith
+    last: van Genabith
+  author_string: Joachim Wagner, Jennifer Foster, Josef van Genabith
+  bibkey: wagner-etal-2007-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '112'
+  page_last: '121'
+  pages: "112\u2013121"
+  paper_id: '12'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1012.jpg
+  title: A Comparative Evaluation of Deep and Shallow Approaches to the Automatic
+    Detection of Common Grammatical Errors
+  title_html: A Comparative Evaluation of Deep and Shallow Approaches to the Automatic
+    Detection of Common Grammatical Errors
+  url: https://www.aclweb.org/anthology/D07-1012
+  year: '2007'
+D07-1013:
+  address: Prague, Czech Republic
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Ryan McDonald, Joakim Nivre
+  bibkey: mcdonald-nivre-2007-characterizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '122'
+  page_last: '131'
+  pages: "122\u2013131"
+  paper_id: '13'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1013.jpg
+  title: Characterizing the Errors of Data-Driven Dependency Parsing Models
+  title_html: Characterizing the Errors of Data-Driven Dependency Parsing Models
+  url: https://www.aclweb.org/anthology/D07-1013
+  year: '2007'
+D07-1014:
+  address: Prague, Czech Republic
+  author:
+  - first: David A.
+    full: David A. Smith
+    id: david-a-smith
+    last: Smith
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: David A. Smith, Noah A. Smith
+  bibkey: smith-smith-2007-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '132'
+  page_last: '140'
+  pages: "132\u2013140"
+  paper_id: '14'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1014.jpg
+  title: Probabilistic Models of Nonprojective Dependency Trees
+  title_html: Probabilistic Models of Nonprojective Dependency Trees
+  url: https://www.aclweb.org/anthology/D07-1014
+  year: '2007'
+D07-1015:
+  address: Prague, Czech Republic
+  author:
+  - first: Terry
+    full: Terry Koo
+    id: terry-koo
+    last: Koo
+  - first: Amir
+    full: Amir Globerson
+    id: amir-globerson
+    last: Globerson
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Terry Koo, Amir Globerson, Xavier Carreras, Michael Collins
+  bibkey: koo-etal-2007-structured
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '141'
+  page_last: '150'
+  pages: "141\u2013150"
+  paper_id: '15'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1015.jpg
+  title: Structured Prediction Models via the Matrix-Tree Theorem
+  title_html: Structured Prediction Models via the Matrix-Tree Theorem
+  url: https://www.aclweb.org/anthology/D07-1015
+  year: '2007'
+D07-1016:
+  address: Prague, Czech Republic
+  author:
+  - first: Beatrice
+    full: Beatrice Alex
+    id: beatrice-alex
+    last: Alex
+  - first: Amit
+    full: Amit Dubey
+    id: amit-dubey
+    last: Dubey
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  author_string: Beatrice Alex, Amit Dubey, Frank Keller
+  bibkey: alex-etal-2007-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '151'
+  page_last: '160'
+  pages: "151\u2013160"
+  paper_id: '16'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1016.jpg
+  title: Using Foreign Inclusion Detection to Improve Parsing Performance
+  title_html: Using Foreign Inclusion Detection to Improve Parsing Performance
+  url: https://www.aclweb.org/anthology/D07-1016
+  year: '2007'
+D07-1017:
+  address: Prague, Czech Republic
+  author:
+  - first: Rahul
+    full: Rahul Bhagat
+    id: rahul-bhagat
+    last: Bhagat
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Rahul Bhagat, Patrick Pantel, Eduard Hovy
+  bibkey: bhagat-etal-2007-ledir
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '161'
+  page_last: '170'
+  pages: "161\u2013170"
+  paper_id: '17'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1017.jpg
+  title: 'LEDIR: An Unsupervised Algorithm for Learning Directionality of Inference
+    Rules'
+  title_html: '<span class="acl-fixed-case">LEDIR</span>: An Unsupervised Algorithm
+    for Learning Directionality of Inference Rules'
+  url: https://www.aclweb.org/anthology/D07-1017
+  year: '2007'
+D07-1018:
+  address: Prague, Czech Republic
+  author:
+  - first: Gemma
+    full: Gemma Boleda
+    id: gemma-boleda
+    last: Boleda
+  - first: Sabine
+    full: Sabine Schulte im Walde
+    id: sabine-schulte-im-walde
+    last: Schulte im Walde
+  - first: Toni
+    full: Toni Badia
+    id: toni-badia
+    last: Badia
+  author_string: Gemma Boleda, Sabine Schulte im Walde, Toni Badia
+  bibkey: boleda-etal-2007-modelling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '171'
+  page_last: '180'
+  pages: "171\u2013180"
+  paper_id: '18'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1018.jpg
+  title: Modelling Polysemy in Adjective Classes by Multi-Label Classification
+  title_html: Modelling Polysemy in Adjective Classes by Multi-Label Classification
+  url: https://www.aclweb.org/anthology/D07-1018
+  year: '2007'
+D07-1019:
+  address: Prague, Czech Republic
+  author:
+  - first: Qing
+    full: Qing Chen
+    id: qing-chen
+    last: Chen
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Qing Chen, Mu Li, Ming Zhou
+  bibkey: chen-etal-2007-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '181'
+  page_last: '189'
+  pages: "181\u2013189"
+  paper_id: '19'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1019.jpg
+  title: Improving Query Spelling Correction Using Web Search Results
+  title_html: Improving Query Spelling Correction Using Web Search Results
+  url: https://www.aclweb.org/anthology/D07-1019
+  year: '2007'
+D07-1020:
+  address: Prague, Czech Republic
+  author:
+  - first: Ying
+    full: Ying Chen
+    id: ying-chen
+    last: Chen
+  - first: James
+    full: James Martin
+    id: james-h-martin
+    last: Martin
+  author_string: Ying Chen, James Martin
+  bibkey: chen-martin-2007-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '190'
+  page_last: '198'
+  pages: "190\u2013198"
+  paper_id: '20'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1020.jpg
+  title: Towards Robust Unsupervised Personal Name Disambiguation
+  title_html: Towards Robust Unsupervised Personal Name Disambiguation
+  url: https://www.aclweb.org/anthology/D07-1020
+  year: '2007'
+D07-1021:
+  address: Prague, Czech Republic
+  author:
+  - first: Kenneth
+    full: Kenneth Church
+    id: kenneth-church
+    last: Church
+  - first: Ted
+    full: Ted Hart
+    id: ted-hart
+    last: Hart
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  author_string: Kenneth Church, Ted Hart, Jianfeng Gao
+  bibkey: church-etal-2007-compressing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '199'
+  page_last: '207'
+  pages: "199\u2013207"
+  paper_id: '21'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1021.jpg
+  title: Compressing Trigram Language Models With Golomb Coding
+  title_html: Compressing Trigram Language Models With <span class="acl-fixed-case">G</span>olomb
+    Coding
+  url: https://www.aclweb.org/anthology/D07-1021
+  year: '2007'
+D07-1022:
+  address: Prague, Czech Republic
+  author:
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Shay B. Cohen, Noah A. Smith
+  bibkey: cohen-smith-2007-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '208'
+  page_last: '217'
+  pages: "208\u2013217"
+  paper_id: '22'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1022.jpg
+  title: Joint Morphological and Syntactic Disambiguation
+  title_html: Joint Morphological and Syntactic Disambiguation
+  url: https://www.aclweb.org/anthology/D07-1022
+  year: '2007'
+D07-1023:
+  address: Prague, Czech Republic
+  author:
+  - first: Sajib
+    full: Sajib Dasgupta
+    id: sajib-dasgupta
+    last: Dasgupta
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Sajib Dasgupta, Vincent Ng
+  bibkey: dasgupta-ng-2007-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '218'
+  page_last: '227'
+  pages: "218\u2013227"
+  paper_id: '23'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1023.jpg
+  title: Unsupervised Part-of-Speech Acquisition for Resource-Scarce Languages
+  title_html: Unsupervised Part-of-Speech Acquisition for Resource-Scarce Languages
+  url: https://www.aclweb.org/anthology/D07-1023
+  year: '2007'
+D07-1024:
+  address: Prague, Czech Republic
+  author:
+  - first: "G\xFCne\u015F"
+    full: "G\xFCne\u015F Erkan"
+    id: gunes-erkan
+    last: Erkan
+  - first: Arzucan
+    full: "Arzucan \xD6zg\xFCr"
+    id: arzucan-ozgur
+    last: "\xD6zg\xFCr"
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: "G\xFCne\u015F Erkan, Arzucan \xD6zg\xFCr, Dragomir R. Radev"
+  bibkey: erkan-etal-2007-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '228'
+  page_last: '237'
+  pages: "228\u2013237"
+  paper_id: '24'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1024.jpg
+  title: Semi-Supervised Classification for Extracting Protein Interaction Sentences
+    using Dependency Parsing
+  title_html: Semi-Supervised Classification for Extracting Protein Interaction Sentences
+    using Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1024
+  year: '2007'
+D07-1025:
+  address: Prague, Czech Republic
+  author:
+  - first: Dayne
+    full: Dayne Freitag
+    id: dayne-freitag
+    last: Freitag
+  - first: Shahram
+    full: Shahram Khadivi
+    id: shahram-khadivi
+    last: Khadivi
+  author_string: Dayne Freitag, Shahram Khadivi
+  bibkey: freitag-khadivi-2007-sequence
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '238'
+  page_last: '247'
+  pages: "238\u2013247"
+  paper_id: '25'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1025.jpg
+  title: A Sequence Alignment Model Based on the Averaged Perceptron
+  title_html: A Sequence Alignment Model Based on the Averaged Perceptron
+  url: https://www.aclweb.org/anthology/D07-1025
+  year: '2007'
+D07-1026:
+  address: Prague, Czech Republic
+  author:
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  - first: Alfio
+    full: Alfio Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  author_string: Claudio Giuliano, Alfio Gliozzo
+  bibkey: giuliano-gliozzo-2007-instance
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '248'
+  page_last: '256'
+  pages: "248\u2013256"
+  paper_id: '26'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1026.jpg
+  title: Instance Based Lexical Entailment for Ontology Population
+  title_html: Instance Based Lexical Entailment for Ontology Population
+  url: https://www.aclweb.org/anthology/D07-1026
+  year: '2007'
+D07-1027:
+  address: Prague, Czech Republic
+  author:
+  - first: Yuqing
+    full: Yuqing Guo
+    id: yuqing-guo
+    last: Guo
+  - first: Haifeng
+    full: Haifeng Wang
+    id: haifeng-wang
+    last: Wang
+  - first: Josef
+    full: Josef van Genabith
+    id: josef-van-genabith
+    last: van Genabith
+  author_string: Yuqing Guo, Haifeng Wang, Josef van Genabith
+  bibkey: guo-etal-2007-recovering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '257'
+  page_last: '266'
+  pages: "257\u2013266"
+  paper_id: '27'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1027.jpg
+  title: Recovering Non-Local Dependencies for Chinese
+  title_html: Recovering Non-Local Dependencies for <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/D07-1027
+  year: '2007'
+D07-1028:
+  address: Prague, Czech Republic
+  author:
+  - first: Deirdre
+    full: Deirdre Hogan
+    id: deirdre-hogan
+    last: Hogan
+  - first: Conor
+    full: Conor Cafferkey
+    id: conor-cafferkey
+    last: Cafferkey
+  - first: Aoife
+    full: Aoife Cahill
+    id: aoife-cahill
+    last: Cahill
+  - first: Josef
+    full: Josef van Genabith
+    id: josef-van-genabith
+    last: van Genabith
+  author_string: Deirdre Hogan, Conor Cafferkey, Aoife Cahill, Josef van Genabith
+  bibkey: hogan-etal-2007-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '267'
+  page_last: '276'
+  pages: "267\u2013276"
+  paper_id: '28'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1028.jpg
+  title: Exploiting Multi-Word Units in History-Based Probabilistic Generation
+  title_html: Exploiting Multi-Word Units in History-Based Probabilistic Generation
+  url: https://www.aclweb.org/anthology/D07-1028
+  year: '2007'
+D07-1029:
+  address: Prague, Czech Republic
+  author:
+  - first: Fei
+    full: Fei Huang
+    id: fei-huang
+    last: Huang
+  - first: Kishore
+    full: Kishore Papineni
+    id: kishore-papineni
+    last: Papineni
+  author_string: Fei Huang, Kishore Papineni
+  bibkey: huang-papineni-2007-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '277'
+  page_last: '286'
+  pages: "277\u2013286"
+  paper_id: '29'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1029.jpg
+  title: Hierarchical System Combination for Machine Translation
+  title_html: Hierarchical System Combination for Machine Translation
+  url: https://www.aclweb.org/anthology/D07-1029
+  year: '2007'
+D07-1030:
+  address: Prague, Czech Republic
+  author:
+  - first: Xiaoguang
+    full: Xiaoguang Hu
+    id: xiaoguang-hu
+    last: Hu
+  - first: Haifeng
+    full: Haifeng Wang
+    id: haifeng-wang
+    last: Wang
+  - first: Hua
+    full: Hua Wu
+    id: hua-wu
+    last: Wu
+  author_string: Xiaoguang Hu, Haifeng Wang, Hua Wu
+  bibkey: hu-etal-2007-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '287'
+  page_last: '295'
+  pages: "287\u2013295"
+  paper_id: '30'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1030.jpg
+  title: Using RBMT Systems to Produce Bilingual Corpus for SMT
+  title_html: Using <span class="acl-fixed-case">RBMT</span> Systems to Produce Bilingual
+    Corpus for <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/D07-1030
+  year: '2007'
+D07-1031:
+  address: Prague, Czech Republic
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Mark Johnson
+  bibkey: johnson-2007-doesnt
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '296'
+  page_last: '305'
+  pages: "296\u2013305"
+  paper_id: '31'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1031.jpg
+  title: "Why Doesn\u2019t EM Find Good HMM POS-Taggers?"
+  title_html: "Why Doesn\u2019t <span class=\"acl-fixed-case\">EM</span> Find Good\
+    \ <span class=\"acl-fixed-case\">HMM</span> <span class=\"acl-fixed-case\">POS</span>-Taggers?"
+  url: https://www.aclweb.org/anthology/D07-1031
+  year: '2007'
+D07-1032:
+  address: Prague, Czech Republic
+  author:
+  - first: Daisuke
+    full: Daisuke Kawahara
+    id: daisuke-kawahara
+    last: Kawahara
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Daisuke Kawahara, Sadao Kurohashi
+  bibkey: kawahara-kurohashi-2007-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '306'
+  page_last: '314'
+  pages: "306\u2013314"
+  paper_id: '32'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1032.jpg
+  title: Probabilistic Coordination Disambiguation in a Fully-Lexicalized Japanese
+    Parser
+  title_html: Probabilistic Coordination Disambiguation in a Fully-Lexicalized <span
+    class="acl-fixed-case">J</span>apanese Parser
+  url: https://www.aclweb.org/anthology/D07-1032
+  year: '2007'
+D07-1033:
+  address: Prague, Czech Republic
+  author:
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: "Jun\u2019ichi Kazama, Kentaro Torisawa"
+  bibkey: kazama-torisawa-2007-new
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '315'
+  page_last: '324'
+  pages: "315\u2013324"
+  paper_id: '33'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1033.jpg
+  title: A New Perceptron Algorithm for Sequence Labeling with Non-Local Features
+  title_html: A New Perceptron Algorithm for Sequence Labeling with Non-Local Features
+  url: https://www.aclweb.org/anthology/D07-1033
+  year: '2007'
+D07-1034:
+  address: Prague, Czech Republic
+  author:
+  - first: Oi Yee
+    full: Oi Yee Kwong
+    id: olivia-o-y-kwong
+    last: Kwong
+  - first: Benjamin K.
+    full: Benjamin K. Tsou
+    id: benjamin-k-tsou
+    last: Tsou
+  author_string: Oi Yee Kwong, Benjamin K. Tsou
+  bibkey: kwong-tsou-2007-extending
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '325'
+  page_last: '333'
+  pages: "325\u2013333"
+  paper_id: '34'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1034.jpg
+  title: Extending a Thesaurus in the Pan-Chinese Context
+  title_html: Extending a Thesaurus in the Pan-<span class="acl-fixed-case">C</span>hinese
+    Context
+  url: https://www.aclweb.org/anthology/D07-1034
+  year: '2007'
+D07-1035:
+  address: Prague, Czech Republic
+  author:
+  - first: Jingjing
+    full: Jingjing Liu
+    id: jingjing-liu
+    last: Liu
+  - first: Yunbo
+    full: Yunbo Cao
+    id: yunbo-cao
+    last: Cao
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Yalou
+    full: Yalou Huang
+    id: yalou-huang
+    last: Huang
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Jingjing Liu, Yunbo Cao, Chin-Yew Lin, Yalou Huang, Ming Zhou
+  bibkey: liu-etal-2007-low
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '334'
+  page_last: '342'
+  pages: "334\u2013342"
+  paper_id: '35'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1035.jpg
+  title: Low-Quality Product Review Detection in Opinion Summarization
+  title_html: Low-Quality Product Review Detection in Opinion Summarization
+  url: https://www.aclweb.org/anthology/D07-1035
+  year: '2007'
+D07-1036:
+  address: Prague, Czech Republic
+  author:
+  - first: Yajuan
+    full: "Yajuan L\xFC"
+    id: yajuan-lu
+    last: "L\xFC"
+  - first: Jin
+    full: Jin Huang
+    id: jin-huang
+    last: Huang
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: "Yajuan L\xFC, Jin Huang, Qun Liu"
+  bibkey: lu-etal-2007-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '343'
+  page_last: '350'
+  pages: "343\u2013350"
+  paper_id: '36'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1036.jpg
+  title: Improving Statistical Machine Translation Performance by Training Data Selection
+    and Optimization
+  title_html: Improving Statistical Machine Translation Performance by Training Data
+    Selection and Optimization
+  url: https://www.aclweb.org/anthology/D07-1036
+  year: '2007'
+D07-1037:
+  address: Prague, Czech Republic
+  author:
+  - first: Irina
+    full: Irina Matveeva
+    id: irina-matveeva
+    last: Matveeva
+  - first: Gina-Anne
+    full: Gina-Anne Levow
+    id: gina-anne-levow
+    last: Levow
+  author_string: Irina Matveeva, Gina-Anne Levow
+  bibkey: matveeva-levow-2007-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '351'
+  page_last: '359'
+  pages: "351\u2013359"
+  paper_id: '37'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1037.jpg
+  title: Topic Segmentation with Hybrid Document Indexing
+  title_html: Topic Segmentation with Hybrid Document Indexing
+  url: https://www.aclweb.org/anthology/D07-1037
+  year: '2007'
+D07-1038:
+  address: Prague, Czech Republic
+  author:
+  - first: Jonathan
+    full: Jonathan May
+    id: jonathan-may
+    last: May
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Jonathan May, Kevin Knight
+  bibkey: may-knight-2007-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '360'
+  page_last: '368'
+  pages: "360\u2013368"
+  paper_id: '38'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1038.jpg
+  title: Syntactic Re-Alignment Models for Machine Translation
+  title_html: Syntactic Re-Alignment Models for Machine Translation
+  url: https://www.aclweb.org/anthology/D07-1038
+  year: '2007'
+D07-1039:
+  address: Prague, Czech Republic
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: Sriram
+    full: Sriram Venkatapathy
+    id: sriram-venkatapathy
+    last: Venkatapathy
+  - first: Aravind
+    full: Aravind Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Diana McCarthy, Sriram Venkatapathy, Aravind Joshi
+  bibkey: mccarthy-etal-2007-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '369'
+  page_last: '379'
+  pages: "369\u2013379"
+  paper_id: '39'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1039.jpg
+  title: Detecting Compositionality of Verb-Object Combinations using Selectional
+    Preferences
+  title_html: Detecting Compositionality of Verb-Object Combinations using Selectional
+    Preferences
+  url: https://www.aclweb.org/anthology/D07-1039
+  year: '2007'
+D07-1040:
+  address: Prague, Czech Republic
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Hakan
+    full: Hakan Ceylan
+    id: hakan-ceylan
+    last: Ceylan
+  author_string: Rada Mihalcea, Hakan Ceylan
+  bibkey: mihalcea-ceylan-2007-explorations
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '380'
+  page_last: '389'
+  pages: "380\u2013389"
+  paper_id: '40'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1040.jpg
+  title: Explorations in Automatic Book Summarization
+  title_html: Explorations in Automatic Book Summarization
+  url: https://www.aclweb.org/anthology/D07-1040
+  year: '2007'
+D07-1041:
+  address: Prague, Czech Republic
+  author:
+  - first: Taesun
+    full: Taesun Moon
+    id: taesun-moon
+    last: Moon
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  author_string: Taesun Moon, Jason Baldridge
+  bibkey: moon-baldridge-2007-part
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '390'
+  page_last: '399'
+  pages: "390\u2013399"
+  paper_id: '41'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1041.jpg
+  title: Part-of-Speech Tagging for Middle English through Alignment and Projection
+    of Parallel Diachronic Texts
+  title_html: Part-of-Speech Tagging for Middle <span class="acl-fixed-case">E</span>nglish
+    through Alignment and Projection of Parallel Diachronic Texts
+  url: https://www.aclweb.org/anthology/D07-1041
+  year: '2007'
+D07-1042:
+  address: Prague, Czech Republic
+  author:
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  - first: Ulrike
+    full: "Ulrike Pad\xF3"
+    id: ulrike-pado
+    last: "Pad\xF3"
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  author_string: "Sebastian Pad\xF3, Ulrike Pad\xF3, Katrin Erk"
+  bibkey: pado-etal-2007-flexible
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '400'
+  page_last: '409'
+  pages: "400\u2013409"
+  paper_id: '42'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1042.jpg
+  title: Flexible, Corpus-Based Modelling of Human Plausibility Judgements
+  title_html: Flexible, Corpus-Based Modelling of Human Plausibility Judgements
+  url: https://www.aclweb.org/anthology/D07-1042
+  year: '2007'
+D07-1043:
+  address: Prague, Czech Republic
+  author:
+  - first: Andrew
+    full: Andrew Rosenberg
+    id: andrew-rosenberg
+    last: Rosenberg
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  author_string: Andrew Rosenberg, Julia Hirschberg
+  bibkey: rosenberg-hirschberg-2007-v
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '410'
+  page_last: '420'
+  pages: "410\u2013420"
+  paper_id: '43'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1043.jpg
+  title: 'V-Measure: A Conditional Entropy-Based External Cluster Evaluation Measure'
+  title_html: '<span class="acl-fixed-case">V</span>-Measure: A Conditional Entropy-Based
+    External Cluster Evaluation Measure'
+  url: https://www.aclweb.org/anthology/D07-1043
+  year: '2007'
+D07-1044:
+  address: Prague, Czech Republic
+  author:
+  - first: Issei
+    full: Issei Sato
+    id: issei-sato
+    last: Sato
+  - first: Hiroshi
+    full: Hiroshi Nakagawa
+    id: hiroshi-nakagawa
+    last: Nakagawa
+  author_string: Issei Sato, Hiroshi Nakagawa
+  bibkey: sato-nakagawa-2007-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '421'
+  page_last: '429'
+  pages: "421\u2013429"
+  paper_id: '44'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1044.jpg
+  title: Bayesian Document Generative Model with Explicit Multiple Topics
+  title_html: <span class="acl-fixed-case">B</span>ayesian Document Generative Model
+    with Explicit Multiple Topics
+  url: https://www.aclweb.org/anthology/D07-1044
+  year: '2007'
+D07-1045:
+  address: Prague, Czech Republic
+  author:
+  - first: Holger
+    full: Holger Schwenk
+    id: holger-schwenk
+    last: Schwenk
+  - first: Marta
+    full: "Marta R. Costa-juss\xE0"
+    id: marta-r-costa-jussa
+    last: "R. Costa-juss\xE0"
+  - first: Jose A.
+    full: Jose A. R. Fonollosa
+    id: jose-a-r-fonollosa
+    last: R. Fonollosa
+  author_string: "Holger Schwenk, Marta R. Costa-juss\xE0, Jose A. R. Fonollosa"
+  bibkey: schwenk-etal-2007-smooth
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '430'
+  page_last: '438'
+  pages: "430\u2013438"
+  paper_id: '45'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1045.jpg
+  title: Smooth Bilingual N-Gram Translation-Gram Translation
+  title_html: Smooth Bilingual <span class="tex-math">N</span>-Gram Translation
+  url: https://www.aclweb.org/anthology/D07-1045
+  year: '2007'
+D07-1046:
+  address: Prague, Czech Republic
+  author:
+  - first: Danny
+    full: Danny Shacham
+    id: danny-shacham
+    last: Shacham
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Danny Shacham, Shuly Wintner
+  bibkey: shacham-wintner-2007-morphological
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '439'
+  page_last: '447'
+  pages: "439\u2013447"
+  paper_id: '46'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1046.jpg
+  title: 'Morphological Disambiguation of Hebrew: A Case Study in Classifier Combination'
+  title_html: 'Morphological Disambiguation of <span class="acl-fixed-case">H</span>ebrew:
+    A Case Study in Classifier Combination'
+  url: https://www.aclweb.org/anthology/D07-1046
+  year: '2007'
+D07-1047:
+  address: Prague, Czech Republic
+  author:
+  - first: Krysta
+    full: Krysta Svore
+    id: krysta-svore
+    last: Svore
+  - first: Lucy
+    full: Lucy Vanderwende
+    id: lucy-vanderwende
+    last: Vanderwende
+  - first: Christopher
+    full: Christopher Burges
+    id: christopher-burges
+    last: Burges
+  author_string: Krysta Svore, Lucy Vanderwende, Christopher Burges
+  bibkey: svore-etal-2007-enhancing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '448'
+  page_last: '457'
+  pages: "448\u2013457"
+  paper_id: '47'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1047.jpg
+  title: Enhancing Single-Document Summarization by Combining RankNet and Third-Party
+    Sources
+  title_html: Enhancing Single-Document Summarization by Combining <span class="acl-fixed-case">R</span>ank<span
+    class="acl-fixed-case">N</span>et and Third-Party Sources
+  url: https://www.aclweb.org/anthology/D07-1047
+  year: '2007'
+D07-1048:
+  address: Prague, Czech Republic
+  author:
+  - first: Hironori
+    full: Hironori Takeuchi
+    id: hironori-takeuchi
+    last: Takeuchi
+  - first: L Venkata
+    full: L Venkata Subramaniam
+    id: l-venkata-subramaniam
+    last: Subramaniam
+  - first: Tetsuya
+    full: Tetsuya Nasukawa
+    id: tetsuya-nasukawa
+    last: Nasukawa
+  - first: Shourya
+    full: Shourya Roy
+    id: shourya-roy
+    last: Roy
+  author_string: Hironori Takeuchi, L Venkata Subramaniam, Tetsuya Nasukawa, Shourya
+    Roy
+  bibkey: takeuchi-etal-2007-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '458'
+  page_last: '467'
+  pages: "458\u2013467"
+  paper_id: '48'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1048.jpg
+  title: Automatic Identification of Important Segments and Expressions for Mining
+    of Business-Oriented Conversations at Contact Centers
+  title_html: Automatic Identification of Important Segments and Expressions for Mining
+    of Business-Oriented Conversations at Contact Centers
+  url: https://www.aclweb.org/anthology/D07-1048
+  year: '2007'
+D07-1049:
+  address: Prague, Czech Republic
+  author:
+  - first: David
+    full: David Talbot
+    id: david-talbot
+    last: Talbot
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: David Talbot, Miles Osborne
+  bibkey: talbot-osborne-2007-smoothed
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '468'
+  page_last: '476'
+  pages: "468\u2013476"
+  paper_id: '49'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1049.jpg
+  title: 'Smoothed Bloom Filter Language Models: Tera-Scale LMs on the Cheap'
+  title_html: 'Smoothed <span class="acl-fixed-case">B</span>loom Filter Language
+    Models: Tera-Scale <span class="acl-fixed-case">LM</span>s on the Cheap'
+  url: https://www.aclweb.org/anthology/D07-1049
+  year: '2007'
+D07-1050:
+  address: Prague, Czech Republic
+  author:
+  - first: Takaaki
+    full: Takaaki Tanaka
+    id: takaaki-tanaka
+    last: Tanaka
+  - first: Francis
+    full: Francis Bond
+    id: francis-bond
+    last: Bond
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Sanae
+    full: Sanae Fujita
+    id: sanae-fujita
+    last: Fujita
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  author_string: Takaaki Tanaka, Francis Bond, Timothy Baldwin, Sanae Fujita, Chikara
+    Hashimoto
+  bibkey: tanaka-etal-2007-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '477'
+  page_last: '485'
+  pages: "477\u2013485"
+  paper_id: '50'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1050.jpg
+  title: Word Sense Disambiguation Incorporating Lexical and Structural Semantic Information
+  title_html: Word Sense Disambiguation Incorporating Lexical and Structural Semantic
+    Information
+  url: https://www.aclweb.org/anthology/D07-1050
+  year: '2007'
+D07-1051:
+  address: Prague, Czech Republic
+  author:
+  - first: Katrin
+    full: Katrin Tomanek
+    id: katrin-tomanek
+    last: Tomanek
+  - first: Joachim
+    full: Joachim Wermter
+    id: joachim-wermter
+    last: Wermter
+  - first: Udo
+    full: Udo Hahn
+    id: udo-hahn
+    last: Hahn
+  author_string: Katrin Tomanek, Joachim Wermter, Udo Hahn
+  bibkey: tomanek-etal-2007-approach
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '486'
+  page_last: '495'
+  pages: "486\u2013495"
+  paper_id: '51'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1051.jpg
+  title: An Approach to Text Corpus Construction which Cuts Annotation Costs and Maintains
+    Reusability of Annotated Data
+  title_html: An Approach to Text Corpus Construction which Cuts Annotation Costs
+    and Maintains Reusability of Annotated Data
+  url: https://www.aclweb.org/anthology/D07-1051
+  year: '2007'
+D07-1052:
+  address: Prague, Czech Republic
+  author:
+  - first: Yannick
+    full: Yannick Versley
+    id: yannick-versley
+    last: Versley
+  author_string: Yannick Versley
+  bibkey: versley-2007-antecedent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '496'
+  page_last: '505'
+  pages: "496\u2013505"
+  paper_id: '52'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1052.jpg
+  title: Antecedent Selection Techniques for High-Recall Coreference Resolution
+  title_html: Antecedent Selection Techniques for High-Recall Coreference Resolution
+  url: https://www.aclweb.org/anthology/D07-1052
+  year: '2007'
+D07-1053:
+  address: Prague, Czech Republic
+  author:
+  - first: Tonio
+    full: Tonio Wandmacher
+    id: tonio-wandmacher
+    last: Wandmacher
+  - first: Jean-Yves
+    full: Jean-Yves Antoine
+    id: jean-yves-antoine
+    last: Antoine
+  author_string: Tonio Wandmacher, Jean-Yves Antoine
+  bibkey: wandmacher-antoine-2007-methods
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '506'
+  page_last: '513'
+  pages: "506\u2013513"
+  paper_id: '53'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1053.jpg
+  title: Methods to Integrate a Language Model with Semantic Information for a Word
+    Prediction Component
+  title_html: Methods to Integrate a Language Model with Semantic Information for
+    a Word Prediction Component
+  url: https://www.aclweb.org/anthology/D07-1053
+  year: '2007'
+D07-1054:
+  address: Prague, Czech Republic
+  author:
+  - first: Hirofumi
+    full: Hirofumi Yamamoto
+    id: hirofumi-yamamoto
+    last: Yamamoto
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Hirofumi Yamamoto, Eiichiro Sumita
+  bibkey: yamamoto-sumita-2007-bilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '514'
+  page_last: '523'
+  pages: "514\u2013523"
+  paper_id: '54'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1054.jpg
+  title: Bilingual Cluster Based Models for Statistical Machine Translation
+  title_html: Bilingual Cluster Based Models for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D07-1054
+  year: '2007'
+D07-1055:
+  address: Prague, Czech Republic
+  author:
+  - first: Richard
+    full: Richard Zens
+    id: richard-zens
+    last: Zens
+  - first: "Sa\u0161a"
+    full: "Sa\u0161a Hasan"
+    id: sasa-hasan
+    last: Hasan
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: "Richard Zens, Sa\u0161a Hasan, Hermann Ney"
+  bibkey: zens-etal-2007-systematic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '524'
+  page_last: '532'
+  pages: "524\u2013532"
+  paper_id: '55'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1055.jpg
+  title: A Systematic Comparison of Training Criteria for Statistical Machine Translation
+  title_html: A Systematic Comparison of Training Criteria for Statistical Machine
+    Translation
+  url: https://www.aclweb.org/anthology/D07-1055
+  year: '2007'
+D07-1056:
+  address: Prague, Czech Republic
+  author:
+  - first: Dongdong
+    full: Dongdong Zhang
+    id: dongdong-zhang
+    last: Zhang
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Chi-Ho
+    full: Chi-Ho Li
+    id: chi-ho-li
+    last: Li
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Dongdong Zhang, Mu Li, Chi-Ho Li, Ming Zhou
+  bibkey: zhang-etal-2007-phrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '533'
+  page_last: '540'
+  pages: "533\u2013540"
+  paper_id: '56'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1056.jpg
+  title: Phrase Reordering Model Integrating Syntactic Knowledge for SMT
+  title_html: Phrase Reordering Model Integrating Syntactic Knowledge for <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/D07-1056
+  year: '2007'
+D07-1057:
+  address: Prague, Czech Republic
+  author:
+  - first: Shanheng
+    full: Shanheng Zhao
+    id: shanheng-zhao
+    last: Zhao
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Shanheng Zhao, Hwee Tou Ng
+  bibkey: zhao-ng-2007-identification
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '541'
+  page_last: '550'
+  pages: "541\u2013550"
+  paper_id: '57'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1057.jpg
+  title: 'Identification and Resolution of Chinese Zero Pronouns: A Machine Learning
+    Approach'
+  title_html: 'Identification and Resolution of <span class="acl-fixed-case">C</span>hinese
+    Zero Pronouns: A Machine Learning Approach'
+  url: https://www.aclweb.org/anthology/D07-1057
+  year: '2007'
+D07-1058:
+  address: Prague, Czech Republic
+  author:
+  - first: Willem
+    full: Willem Zuidema
+    id: willem-zuidema
+    last: Zuidema
+  author_string: Willem Zuidema
+  bibkey: zuidema-2007-parsimonious
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '551'
+  page_last: '560'
+  pages: "551\u2013560"
+  paper_id: '58'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1058.jpg
+  title: Parsimonious Data-Oriented Parsing
+  title_html: Parsimonious Data-Oriented Parsing
+  url: https://www.aclweb.org/anthology/D07-1058
+  year: '2007'
+D07-1059:
+  address: Prague, Czech Republic
+  author:
+  - first: Andy
+    full: Andy Chiu
+    id: andy-chiu
+    last: Chiu
+  - first: Pascal
+    full: Pascal Poupart
+    id: pascal-poupart
+    last: Poupart
+  - first: Chrysanne
+    full: Chrysanne DiMarco
+    id: chrysanne-dimarco
+    last: DiMarco
+  author_string: Andy Chiu, Pascal Poupart, Chrysanne DiMarco
+  bibkey: chiu-etal-2007-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '561'
+  page_last: '570'
+  pages: "561\u2013570"
+  paper_id: '59'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1059.jpg
+  title: Generating Lexical Analogies Using Dependency Relations
+  title_html: Generating Lexical Analogies Using Dependency Relations
+  url: https://www.aclweb.org/anthology/D07-1059
+  year: '2007'
+D07-1060:
+  address: Prague, Czech Republic
+  author:
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  - first: Torsten
+    full: Torsten Zesch
+    id: torsten-zesch
+    last: Zesch
+  author_string: Saif Mohammad, Iryna Gurevych, Graeme Hirst, Torsten Zesch
+  bibkey: mohammad-etal-2007-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '571'
+  page_last: '580'
+  pages: "571\u2013580"
+  paper_id: '60'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1060.jpg
+  title: Cross-Lingual Distributional Profiles of Concepts for Measuring Semantic
+    Distance
+  title_html: Cross-Lingual Distributional Profiles of Concepts for Measuring Semantic
+    Distance
+  url: https://www.aclweb.org/anthology/D07-1060
+  year: '2007'
+D07-1061:
+  address: Prague, Czech Republic
+  author:
+  - first: Thad
+    full: Thad Hughes
+    id: thad-hughes
+    last: Hughes
+  - first: Daniel
+    full: Daniel Ramage
+    id: daniel-ramage
+    last: Ramage
+  author_string: Thad Hughes, Daniel Ramage
+  bibkey: hughes-ramage-2007-lexical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '581'
+  page_last: '589'
+  pages: "581\u2013589"
+  paper_id: '61'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1061.jpg
+  title: Lexical Semantic Relatedness with Random Graph Walks
+  title_html: Lexical Semantic Relatedness with Random Graph Walks
+  url: https://www.aclweb.org/anthology/D07-1061
+  year: '2007'
+D07-1062:
+  address: Prague, Czech Republic
+  author:
+  - first: Yudong
+    full: Yudong Liu
+    id: yudong-liu
+    last: Liu
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  author_string: Yudong Liu, Anoop Sarkar
+  bibkey: liu-sarkar-2007-experimental
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '590'
+  page_last: '599'
+  pages: "590\u2013599"
+  paper_id: '62'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1062.jpg
+  title: Experimental Evaluation of LTAG-Based Features for Semantic Role Labeling
+  title_html: Experimental Evaluation of <span class="acl-fixed-case">LTAG</span>-Based
+    Features for Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/D07-1062
+  year: '2007'
+D07-1063:
+  address: Prague, Czech Republic
+  author:
+  - first: Akihiro
+    full: Akihiro Tamura
+    id: akihiro-tamura
+    last: Tamura
+  - first: Hiroya
+    full: Hiroya Takamura
+    id: hiroya-takamura
+    last: Takamura
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  author_string: Akihiro Tamura, Hiroya Takamura, Manabu Okumura
+  bibkey: tamura-etal-2007-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '600'
+  page_last: '609'
+  pages: "600\u2013609"
+  paper_id: '63'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1063.jpg
+  title: Japanese Dependency Analysis Using the Ancestor-Descendant Relation
+  title_html: <span class="acl-fixed-case">J</span>apanese Dependency Analysis Using
+    the Ancestor-Descendant Relation
+  url: https://www.aclweb.org/anthology/D07-1063
+  year: '2007'
+D07-1064:
+  address: Prague, Czech Republic
+  author:
+  - first: Masashi
+    full: Masashi Shimbo
+    id: masashi-shimbo
+    last: Shimbo
+  - first: Kazuo
+    full: Kazuo Hara
+    id: kazuo-hara
+    last: Hara
+  author_string: Masashi Shimbo, Kazuo Hara
+  bibkey: shimbo-hara-2007-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '610'
+  page_last: '619'
+  pages: "610\u2013619"
+  paper_id: '64'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1064.jpg
+  title: A Discriminative Learning Model for Coordinate Conjunctions
+  title_html: A Discriminative Learning Model for Coordinate Conjunctions
+  url: https://www.aclweb.org/anthology/D07-1064
+  year: '2007'
+D07-1065:
+  address: Prague, Czech Republic
+  author:
+  - first: Denis
+    full: Denis Filimonov
+    id: denis-filimonov
+    last: Filimonov
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  author_string: Denis Filimonov, Mary Harper
+  bibkey: filimonov-harper-2007-recovery
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '620'
+  page_last: '629'
+  pages: "620\u2013629"
+  paper_id: '65'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1065.jpg
+  title: Recovery of Empty Nodes in Parse Structures
+  title_html: Recovery of Empty Nodes in Parse Structures
+  url: https://www.aclweb.org/anthology/D07-1065
+  year: '2007'
+D07-1066:
+  address: Prague, Czech Republic
+  author:
+  - first: Ines
+    full: Ines Rehbein
+    id: ines-rehbein
+    last: Rehbein
+  - first: Josef
+    full: Josef van Genabith
+    id: josef-van-genabith
+    last: van Genabith
+  author_string: Ines Rehbein, Josef van Genabith
+  bibkey: rehbein-van-genabith-2007-treebank
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '630'
+  page_last: '639'
+  pages: "630\u2013639"
+  paper_id: '66'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1066.jpg
+  title: Treebank Annotation Schemes and Parser Evaluation for German
+  title_html: Treebank Annotation Schemes and Parser Evaluation for <span class="acl-fixed-case">G</span>erman
+  url: https://www.aclweb.org/anthology/D07-1066
+  year: '2007'
+D07-1067:
+  address: Prague, Czech Republic
+  author:
+  - first: Qinfeng
+    full: Qinfeng Shi
+    id: qinfeng-shi
+    last: Shi
+  - first: Yasemin
+    full: Yasemin Altun
+    id: yasemin-altun
+    last: Altun
+  - first: Alex
+    full: Alex Smola
+    id: alex-smola
+    last: Smola
+  - first: S.V.N.
+    full: S.V.N. Vishwanathan
+    id: s-v-n-vishwanathan
+    last: Vishwanathan
+  author_string: Qinfeng Shi, Yasemin Altun, Alex Smola, S.V.N. Vishwanathan
+  bibkey: shi-etal-2007-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '640'
+  page_last: '648'
+  pages: "640\u2013648"
+  paper_id: '67'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1067.jpg
+  title: Semi-Markov Models for Sequence Segmentation
+  title_html: Semi-<span class="acl-fixed-case">M</span>arkov Models for Sequence
+    Segmentation
+  url: https://www.aclweb.org/anthology/D07-1067
+  year: '2007'
+D07-1068:
+  address: Prague, Czech Republic
+  author:
+  - first: Yotaro
+    full: Yotaro Watanabe
+    id: yotaro-watanabe
+    last: Watanabe
+  - first: Masayuki
+    full: Masayuki Asahara
+    id: masayuki-asahara
+    last: Asahara
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Yotaro Watanabe, Masayuki Asahara, Yuji Matsumoto
+  bibkey: watanabe-etal-2007-graph
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '649'
+  page_last: '657'
+  pages: "649\u2013657"
+  paper_id: '68'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1068.jpg
+  title: A Graph-Based Approach to Named Entity Categorization in Wikipedia Using
+    Conditional Random Fields
+  title_html: A Graph-Based Approach to Named Entity Categorization in <span class="acl-fixed-case">W</span>ikipedia
+    Using Conditional Random Fields
+  url: https://www.aclweb.org/anthology/D07-1068
+  year: '2007'
+D07-1069:
+  address: Prague, Czech Republic
+  author:
+  - first: Anthony
+    full: Anthony Fader
+    id: anthony-fader
+    last: Fader
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  - first: Michael H.
+    full: Michael H. Crespin
+    id: michael-h-crespin
+    last: Crespin
+  - first: Burt L.
+    full: Burt L. Monroe
+    id: burt-l-monroe
+    last: Monroe
+  - first: Kevin M.
+    full: Kevin M. Quinn
+    id: kevin-m-quinn
+    last: Quinn
+  - first: Michael
+    full: Michael Colaresi
+    id: michael-colaresi
+    last: Colaresi
+  author_string: Anthony Fader, Dragomir R. Radev, Michael H. Crespin, Burt L. Monroe,
+    Kevin M. Quinn, Michael Colaresi
+  bibkey: fader-etal-2007-mavenrank
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '658'
+  page_last: '666'
+  pages: "658\u2013666"
+  paper_id: '69'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1069.jpg
+  title: 'MavenRank: Identifying Influential Members of the US Senate Using Lexical
+    Centrality'
+  title_html: '<span class="acl-fixed-case">M</span>aven<span class="acl-fixed-case">R</span>ank:
+    Identifying Influential Members of the <span class="acl-fixed-case">US</span>
+    Senate Using Lexical Centrality'
+  url: https://www.aclweb.org/anthology/D07-1069
+  year: '2007'
+D07-1070:
+  address: Prague, Czech Republic
+  author:
+  - first: David A.
+    full: David A. Smith
+    id: david-a-smith
+    last: Smith
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: David A. Smith, Jason Eisner
+  bibkey: smith-eisner-2007-bootstrapping
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '667'
+  page_last: '677'
+  pages: "667\u2013677"
+  paper_id: '70'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1070.jpg
+  title: Bootstrapping Feature-Rich Dependency Parsers with Entropic Priors
+  title_html: Bootstrapping Feature-Rich Dependency Parsers with Entropic Priors
+  url: https://www.aclweb.org/anthology/D07-1070
+  year: '2007'
+D07-1071:
+  address: Prague, Czech Republic
+  author:
+  - first: Luke
+    full: Luke Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Luke Zettlemoyer, Michael Collins
+  bibkey: zettlemoyer-collins-2007-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '678'
+  page_last: '687'
+  pages: "678\u2013687"
+  paper_id: '71'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1071.jpg
+  title: Online Learning of Relaxed CCG Grammars for Parsing to Logical Form
+  title_html: Online Learning of Relaxed <span class="acl-fixed-case">CCG</span> Grammars
+    for Parsing to Logical Form
+  url: https://www.aclweb.org/anthology/D07-1071
+  year: '2007'
+D07-1072:
+  address: Prague, Czech Republic
+  author:
+  - first: Percy
+    full: Percy Liang
+    id: percy-liang
+    last: Liang
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Michael
+    full: Michael Jordan
+    id: michael-i-jordan
+    last: Jordan
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Percy Liang, Slav Petrov, Michael Jordan, Dan Klein
+  bibkey: liang-etal-2007-infinite
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '688'
+  page_last: '697'
+  pages: "688\u2013697"
+  paper_id: '72'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1072.jpg
+  title: The Infinite PCFG Using Hierarchical Dirichlet Processes
+  title_html: The Infinite <span class="acl-fixed-case">PCFG</span> Using Hierarchical
+    <span class="acl-fixed-case">D</span>irichlet Processes
+  url: https://www.aclweb.org/anthology/D07-1072
+  year: '2007'
+D07-1073:
+  address: Prague, Czech Republic
+  author:
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: "Jun\u2019ichi Kazama, Kentaro Torisawa"
+  bibkey: kazama-torisawa-2007-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '698'
+  page_last: '707'
+  pages: "698\u2013707"
+  paper_id: '73'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1073.jpg
+  title: Exploiting Wikipedia as External Knowledge for Named Entity Recognition
+  title_html: Exploiting <span class="acl-fixed-case">W</span>ikipedia as External
+    Knowledge for Named Entity Recognition
+  url: https://www.aclweb.org/anthology/D07-1073
+  year: '2007'
+D07-1074:
+  address: Prague, Czech Republic
+  author:
+  - first: Silviu
+    full: Silviu Cucerzan
+    id: silviu-cucerzan
+    last: Cucerzan
+  author_string: Silviu Cucerzan
+  bibkey: cucerzan-2007-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '708'
+  page_last: '716'
+  pages: "708\u2013716"
+  paper_id: '74'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1074.jpg
+  title: Large-Scale Named Entity Disambiguation Based on Wikipedia Data
+  title_html: Large-Scale Named Entity Disambiguation Based on <span class="acl-fixed-case">W</span>ikipedia
+    Data
+  url: https://www.aclweb.org/anthology/D07-1074
+  year: '2007'
+D07-1075:
+  address: Prague, Czech Republic
+  author:
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  author_string: Siddharth Patwardhan, Ellen Riloff
+  bibkey: patwardhan-riloff-2007-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '717'
+  page_last: '727'
+  pages: "717\u2013727"
+  paper_id: '75'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1075.jpg
+  title: Effective Information Extraction with Semantic Affinity Patterns and Relevant
+    Regions
+  title_html: Effective Information Extraction with Semantic Affinity Patterns and
+    Relevant Regions
+  url: https://www.aclweb.org/anthology/D07-1075
+  year: '2007'
+D07-1076:
+  address: Prague, Czech Republic
+  author:
+  - first: GuoDong
+    full: GuoDong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Dong Hong
+    full: Dong Hong Ji
+    id: donghong-ji
+    last: Ji
+  - first: QiaoMing
+    full: QiaoMing Zhu
+    id: qiaoming-zhu
+    last: Zhu
+  author_string: GuoDong Zhou, Min Zhang, Dong Hong Ji, QiaoMing Zhu
+  bibkey: zhou-etal-2007-tree
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '728'
+  page_last: '736'
+  pages: "728\u2013736"
+  paper_id: '76'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1076.jpg
+  title: Tree Kernel-Based Relation Extraction with Context-Sensitive Structured Parse
+    Tree Information
+  title_html: Tree Kernel-Based Relation Extraction with Context-Sensitive Structured
+    Parse Tree Information
+  url: https://www.aclweb.org/anthology/D07-1076
+  year: '2007'
+D07-1077:
+  address: Prague, Czech Republic
+  author:
+  - first: Chao
+    full: Chao Wang
+    id: chao-wang
+    last: Wang
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  author_string: Chao Wang, Michael Collins, Philipp Koehn
+  bibkey: wang-etal-2007-chinese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '737'
+  page_last: '745'
+  pages: "737\u2013745"
+  paper_id: '77'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1077.jpg
+  title: Chinese Syntactic Reordering for Statistical Machine Translation
+  title_html: <span class="acl-fixed-case">C</span>hinese Syntactic Reordering for
+    Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D07-1077
+  year: '2007'
+D07-1078:
+  address: Prague, Czech Republic
+  author:
+  - first: Wei
+    full: Wei Wang
+    id: wei-wang
+    last: Wang
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Wei Wang, Kevin Knight, Daniel Marcu
+  bibkey: wang-etal-2007-binarizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '746'
+  page_last: '754'
+  pages: "746\u2013754"
+  paper_id: '78'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1078.jpg
+  title: Binarizing Syntax Trees to Improve Syntax-Based Machine Translation Accuracy
+  title_html: Binarizing Syntax Trees to Improve Syntax-Based Machine Translation
+    Accuracy
+  url: https://www.aclweb.org/anthology/D07-1078
+  year: '2007'
+D07-1079:
+  address: Prague, Czech Republic
+  author:
+  - first: Steve
+    full: Steve DeNeefe
+    id: steve-deneefe
+    last: DeNeefe
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Wei
+    full: Wei Wang
+    id: wei-wang
+    last: Wang
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Steve DeNeefe, Kevin Knight, Wei Wang, Daniel Marcu
+  bibkey: deneefe-etal-2007-syntax
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '755'
+  page_last: '763'
+  pages: "755\u2013763"
+  paper_id: '79'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1079.jpg
+  title: What Can Syntax-Based MT Learn from Phrase-Based MT?
+  title_html: What Can Syntax-Based <span class="acl-fixed-case">MT</span> Learn from
+    Phrase-Based <span class="acl-fixed-case">MT</span>?
+  url: https://www.aclweb.org/anthology/D07-1079
+  year: '2007'
+D07-1080:
+  address: Prague, Czech Republic
+  author:
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Jun
+    full: Jun Suzuki
+    id: jun-suzuki
+    last: Suzuki
+  - first: Hajime
+    full: Hajime Tsukada
+    id: hajime-tsukada
+    last: Tsukada
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  author_string: Taro Watanabe, Jun Suzuki, Hajime Tsukada, Hideki Isozaki
+  bibkey: watanabe-etal-2007-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '764'
+  page_last: '773'
+  pages: "764\u2013773"
+  paper_id: '80'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1080.jpg
+  title: Online Large-Margin Training for Statistical Machine Translation
+  title_html: Online Large-Margin Training for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D07-1080
+  year: '2007'
+D07-1081:
+  address: Prague, Czech Republic
+  author:
+  - first: Jingyang
+    full: Jingyang Li
+    id: jingyang-li
+    last: Li
+  - first: Maosong
+    full: Maosong Sun
+    id: maosong-sun
+    last: Sun
+  author_string: Jingyang Li, Maosong Sun
+  bibkey: li-sun-2007-scalable
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '774'
+  page_last: '782'
+  pages: "774\u2013782"
+  paper_id: '81'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1081.jpg
+  title: Scalable Term Selection for Text Categorization
+  title_html: Scalable Term Selection for Text Categorization
+  url: https://www.aclweb.org/anthology/D07-1081
+  year: '2007'
+D07-1082:
+  address: Prague, Czech Republic
+  author:
+  - first: Jingbo
+    full: Jingbo Zhu
+    id: jingbo-zhu
+    last: Zhu
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Jingbo Zhu, Eduard Hovy
+  bibkey: zhu-hovy-2007-active
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '783'
+  page_last: '790'
+  pages: "783\u2013790"
+  paper_id: '82'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1082.jpg
+  title: Active Learning for Word Sense Disambiguation with Methods for Addressing
+    the Class Imbalance Problem
+  title_html: Active Learning for Word Sense Disambiguation with Methods for Addressing
+    the Class Imbalance Problem
+  url: https://www.aclweb.org/anthology/D07-1082
+  year: '2007'
+D07-1083:
+  address: Prague, Czech Republic
+  author:
+  - first: Jun
+    full: Jun Suzuki
+    id: jun-suzuki
+    last: Suzuki
+  - first: Akinori
+    full: Akinori Fujino
+    id: akinori-fujino
+    last: Fujino
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  author_string: Jun Suzuki, Akinori Fujino, Hideki Isozaki
+  bibkey: suzuki-etal-2007-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '791'
+  page_last: '800'
+  pages: "791\u2013800"
+  paper_id: '83'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1083.jpg
+  title: Semi-Supervised Structured Output Learning Based on a Hybrid Generative and
+    Discriminative Approach
+  title_html: Semi-Supervised Structured Output Learning Based on a Hybrid Generative
+    and Discriminative Approach
+  url: https://www.aclweb.org/anthology/D07-1083
+  year: '2007'
+D07-1084:
+  address: Prague, Czech Republic
+  author:
+  - first: Edward
+    full: Edward Loper
+    id: edward-loper
+    last: Loper
+  author_string: Edward Loper
+  bibkey: loper-2007-finding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '801'
+  page_last: '809'
+  pages: "801\u2013809"
+  paper_id: '84'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1084.jpg
+  title: Finding Good Sequential Model Structures using Output Transformations
+  title_html: Finding Good Sequential Model Structures using Output Transformations
+  url: https://www.aclweb.org/anthology/D07-1084
+  year: '2007'
+D07-1085:
+  address: Prague, Czech Republic
+  author:
+  - first: Tee Kiah
+    full: Tee Kiah Chia
+    id: tee-kiah-chia
+    last: Chia
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Tee Kiah Chia, Haizhou Li, Hwee Tou Ng
+  bibkey: chia-etal-2007-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '810'
+  page_last: '818'
+  pages: "810\u2013818"
+  paper_id: '85'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1085.jpg
+  title: A Statistical Language Modeling Approach to Lattice-Based Spoken Document
+    Retrieval
+  title_html: A Statistical Language Modeling Approach to Lattice-Based Spoken Document
+    Retrieval
+  url: https://www.aclweb.org/anthology/D07-1085
+  year: '2007'
+D07-1086:
+  address: Prague, Czech Republic
+  author:
+  - first: Shane
+    full: Shane Bergsma
+    id: shane-bergsma
+    last: Bergsma
+  - first: Qin Iris
+    full: Qin Iris Wang
+    id: qin-iris-wang
+    last: Wang
+  author_string: Shane Bergsma, Qin Iris Wang
+  bibkey: bergsma-wang-2007-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '819'
+  page_last: '826'
+  pages: "819\u2013826"
+  paper_id: '86'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1086.jpg
+  title: Learning Noun Phrase Query Segmentation
+  title_html: Learning Noun Phrase Query Segmentation
+  url: https://www.aclweb.org/anthology/D07-1086
+  year: '2007'
+D07-1087:
+  address: Prague, Czech Republic
+  author:
+  - first: Sander
+    full: Sander Canisius
+    id: sander-canisius
+    last: Canisius
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  author_string: Sander Canisius, Caroline Sporleder
+  bibkey: canisius-sporleder-2007-bootstrapping
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '827'
+  page_last: '836'
+  pages: "827\u2013836"
+  paper_id: '87'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1087.jpg
+  title: Bootstrapping Information Extraction from Field Books
+  title_html: Bootstrapping Information Extraction from Field Books
+  url: https://www.aclweb.org/anthology/D07-1087
+  year: '2007'
+D07-1088:
+  address: Prague, Czech Republic
+  author:
+  - first: Donghui
+    full: Donghui Feng
+    id: donghui-feng
+    last: Feng
+  - first: Gully
+    full: Gully Burns
+    id: gully-burns
+    last: Burns
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Donghui Feng, Gully Burns, Eduard Hovy
+  bibkey: feng-etal-2007-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '837'
+  page_last: '846'
+  pages: "837\u2013846"
+  paper_id: '88'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1088.jpg
+  title: Extracting Data Records from Unstructured Biomedical Full Text
+  title_html: Extracting Data Records from Unstructured Biomedical Full Text
+  url: https://www.aclweb.org/anthology/D07-1088
+  year: '2007'
+D07-1089:
+  address: Prague, Czech Republic
+  author:
+  - first: Ariel
+    full: Ariel Schwartz
+    id: ariel-schwartz
+    last: Schwartz
+  - first: Anna
+    full: Anna Divoli
+    id: anna-divoli
+    last: Divoli
+  - first: Marti
+    full: Marti Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Ariel Schwartz, Anna Divoli, Marti Hearst
+  bibkey: schwartz-etal-2007-multiple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '847'
+  page_last: '857'
+  pages: "847\u2013857"
+  paper_id: '89'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1089.jpg
+  title: Multiple Alignment of Citation Sentences with Conditional Random Fields and
+    Posterior Decoding
+  title_html: Multiple Alignment of Citation Sentences with Conditional Random Fields
+    and Posterior Decoding
+  url: https://www.aclweb.org/anthology/D07-1089
+  year: '2007'
+D07-1090:
+  address: Prague, Czech Republic
+  author:
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  - first: Ashok C.
+    full: Ashok C. Popat
+    id: ashok-popat
+    last: Popat
+  - first: Peng
+    full: Peng Xu
+    id: peng-xu
+    last: Xu
+  - first: Franz J.
+    full: Franz J. Och
+    id: franz-josef-och
+    last: Och
+  - first: Jeffrey
+    full: Jeffrey Dean
+    id: jeffrey-dean
+    last: Dean
+  author_string: Thorsten Brants, Ashok C. Popat, Peng Xu, Franz J. Och, Jeffrey Dean
+  bibkey: brants-etal-2007-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '858'
+  page_last: '867'
+  pages: "858\u2013867"
+  paper_id: '90'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1090.jpg
+  title: Large Language Models in Machine Translation
+  title_html: Large Language Models in Machine Translation
+  url: https://www.aclweb.org/anthology/D07-1090
+  year: '2007'
+D07-1091:
+  address: Prague, Czech Republic
+  author:
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Hieu
+    full: Hieu Hoang
+    id: hieu-hoang
+    last: Hoang
+  author_string: Philipp Koehn, Hieu Hoang
+  bibkey: koehn-hoang-2007-factored
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '868'
+  page_last: '876'
+  pages: "868\u2013876"
+  paper_id: '91'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1091.jpg
+  title: Factored Translation Models
+  title_html: Factored Translation Models
+  url: https://www.aclweb.org/anthology/D07-1091
+  year: '2007'
+D07-1092:
+  address: Prague, Czech Republic
+  author:
+  - first: Philippe
+    full: Philippe Langlais
+    id: philippe-langlais
+    last: Langlais
+  - first: Alexandre
+    full: Alexandre Patry
+    id: alexandre-patry
+    last: Patry
+  author_string: Philippe Langlais, Alexandre Patry
+  bibkey: langlais-patry-2007-translating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '877'
+  page_last: '886'
+  pages: "877\u2013886"
+  paper_id: '92'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1092.jpg
+  title: Translating Unknown Words by Analogical Learning
+  title_html: Translating Unknown Words by Analogical Learning
+  url: https://www.aclweb.org/anthology/D07-1092
+  year: '2007'
+D07-1093:
+  address: Prague, Czech Republic
+  author:
+  - first: Alexandre
+    full: Alexandre Bouchard
+    id: alexandre-bouchard-cote
+    last: Bouchard
+  - first: Percy
+    full: Percy Liang
+    id: percy-liang
+    last: Liang
+  - first: Thomas
+    full: Thomas Griffiths
+    id: thomas-l-griffiths
+    last: Griffiths
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Alexandre Bouchard, Percy Liang, Thomas Griffiths, Dan Klein
+  bibkey: bouchard-etal-2007-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '887'
+  page_last: '896'
+  pages: "887\u2013896"
+  paper_id: '93'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1093.jpg
+  title: A Probabilistic Approach to Diachronic Phonology
+  title_html: A Probabilistic Approach to Diachronic Phonology
+  url: https://www.aclweb.org/anthology/D07-1093
+  year: '2007'
+D07-1094:
+  address: Prague, Czech Republic
+  author:
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Adam
+    full: Adam Pauls
+    id: adam-pauls
+    last: Pauls
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Slav Petrov, Adam Pauls, Dan Klein
+  bibkey: petrov-etal-2007-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '897'
+  page_last: '905'
+  pages: "897\u2013905"
+  paper_id: '94'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1094.jpg
+  title: Learning Structured Models for Phone Recognition
+  title_html: Learning Structured Models for Phone Recognition
+  url: https://www.aclweb.org/anthology/D07-1094
+  year: '2007'
+D07-1095:
+  address: Prague, Czech Republic
+  author:
+  - first: L. Karl
+    full: L. Karl Branting
+    id: l-karl-branting
+    last: Branting
+  author_string: L. Karl Branting
+  bibkey: branting-2007-inducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '906'
+  page_last: '914'
+  pages: "906\u2013914"
+  paper_id: '95'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1095.jpg
+  title: Inducing Search Keys for Name Filtering
+  title_html: Inducing Search Keys for Name Filtering
+  url: https://www.aclweb.org/anthology/D07-1095
+  year: '2007'
+D07-1096:
+  address: Prague, Czech Republic
+  author:
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Johan
+    full: Johan Hall
+    id: johan-hall
+    last: Hall
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Jens
+    full: Jens Nilsson
+    id: jens-nilsson
+    last: Nilsson
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  author_string: "Joakim Nivre, Johan Hall, Sandra K\xFCbler, Ryan McDonald, Jens\
+    \ Nilsson, Sebastian Riedel, Deniz Yuret"
+  bibkey: nivre-etal-2007-conll
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '915'
+  page_last: '932'
+  pages: "915\u2013932"
+  paper_id: '96'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1096.jpg
+  title: The CoNLL 2007 Shared Task on Dependency Parsing
+  title_html: The <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>
+    2007 Shared Task on Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1096
+  year: '2007'
+D07-1097:
+  address: Prague, Czech Republic
+  author:
+  - first: Johan
+    full: Johan Hall
+    id: johan-hall
+    last: Hall
+  - first: Jens
+    full: Jens Nilsson
+    id: jens-nilsson
+    last: Nilsson
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: "G\xFCl\u015Fen"
+    full: "G\xFCl\u015Fen Eryi\u01E7it"
+    id: gulsen-eryigit
+    last: "Eryi\u01E7it"
+  - first: "Be\xE1ta"
+    full: "Be\xE1ta Megyesi"
+    id: beata-megyesi
+    last: Megyesi
+  - first: Mattias
+    full: Mattias Nilsson
+    id: mattias-nilsson
+    last: Nilsson
+  - first: Markus
+    full: Markus Saers
+    id: markus-saers
+    last: Saers
+  author_string: "Johan Hall, Jens Nilsson, Joakim Nivre, G\xFCl\u015Fen Eryi\u01E7\
+    it, Be\xE1ta Megyesi, Mattias Nilsson, Markus Saers"
+  bibkey: hall-etal-2007-single
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '933'
+  page_last: '939'
+  pages: "933\u2013939"
+  paper_id: '97'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1097.jpg
+  title: Single Malt or Blended? A Study in Multilingual Parser Optimization
+  title_html: Single Malt or Blended? A Study in Multilingual Parser Optimization
+  url: https://www.aclweb.org/anthology/D07-1097
+  year: '2007'
+D07-1098:
+  address: Prague, Czech Republic
+  author:
+  - first: Xiangyu
+    full: Xiangyu Duan
+    id: xiangyu-duan
+    last: Duan
+  - first: Jun
+    full: Jun Zhao
+    id: jun-zhao
+    last: Zhao
+  - first: Bo
+    full: Bo Xu
+    id: bo-xu
+    last: Xu
+  author_string: Xiangyu Duan, Jun Zhao, Bo Xu
+  bibkey: duan-etal-2007-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '940'
+  page_last: '946'
+  pages: "940\u2013946"
+  paper_id: '98'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1098.jpg
+  title: Probabilistic Parsing Action Models for Multi-Lingual Dependency Parsing
+  title_html: Probabilistic Parsing Action Models for Multi-Lingual Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1098
+  year: '2007'
+D07-1099:
+  address: Prague, Czech Republic
+  author:
+  - first: Ivan
+    full: Ivan Titov
+    id: ivan-titov
+    last: Titov
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  author_string: Ivan Titov, James Henderson
+  bibkey: titov-henderson-2007-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '947'
+  page_last: '951'
+  pages: "947\u2013951"
+  paper_id: '99'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1099.jpg
+  title: Fast and Robust Multilingual Dependency Parsing with a Generative Latent
+    Variable Model
+  title_html: Fast and Robust Multilingual Dependency Parsing with a Generative Latent
+    Variable Model
+  url: https://www.aclweb.org/anthology/D07-1099
+  year: '2007'
+D07-1100:
+  address: Prague, Czech Republic
+  author:
+  - first: Tetsuji
+    full: Tetsuji Nakagawa
+    id: tetsuji-nakagawa
+    last: Nakagawa
+  author_string: Tetsuji Nakagawa
+  bibkey: nakagawa-2007-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '952'
+  page_last: '956'
+  pages: "952\u2013956"
+  paper_id: '100'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1100.jpg
+  title: Multilingual Dependency Parsing Using Global Features
+  title_html: Multilingual Dependency Parsing Using Global Features
+  url: https://www.aclweb.org/anthology/D07-1100
+  year: '2007'
+D07-1101:
+  address: Prague, Czech Republic
+  author:
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  author_string: Xavier Carreras
+  bibkey: carreras-2007-experiments
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '957'
+  page_last: '961'
+  pages: "957\u2013961"
+  paper_id: '101'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1101.jpg
+  title: Experiments with a Higher-Order Projective Dependency Parser
+  title_html: Experiments with a Higher-Order Projective Dependency Parser
+  url: https://www.aclweb.org/anthology/D07-1101
+  year: '2007'
+D07-1102:
+  address: Prague, Czech Republic
+  author:
+  - first: Keith
+    full: Keith Hall
+    id: keith-hall
+    last: Hall
+  - first: "Ji\u0159\xED"
+    full: "Ji\u0159\xED Havelka"
+    id: jiri-havelka
+    last: Havelka
+  - first: David A.
+    full: David A. Smith
+    id: david-a-smith
+    last: Smith
+  author_string: "Keith Hall, Ji\u0159\xED Havelka, David A. Smith"
+  bibkey: hall-etal-2007-log
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '962'
+  page_last: '966'
+  pages: "962\u2013966"
+  paper_id: '102'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1102.jpg
+  title: Log-Linear Models of Non-Projective Trees, k-best -best MST Parsing and Tree-Ranking
+  title_html: Log-Linear Models of Non-Projective Trees, <span class="tex-math">k</span>-best
+    <span class="acl-fixed-case">MST</span> Parsing and Tree-Ranking
+  url: https://www.aclweb.org/anthology/D07-1102
+  year: '2007'
+D07-1103:
+  address: Prague, Czech Republic
+  author:
+  - first: Howard
+    full: Howard Johnson
+    id: howard-johnson
+    last: Johnson
+  - first: Joel
+    full: Joel Martin
+    id: joel-martin
+    last: Martin
+  - first: George
+    full: George Foster
+    id: george-foster
+    last: Foster
+  - first: Roland
+    full: Roland Kuhn
+    id: roland-kuhn
+    last: Kuhn
+  author_string: Howard Johnson, Joel Martin, George Foster, Roland Kuhn
+  bibkey: johnson-etal-2007-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '967'
+  page_last: '975'
+  pages: "967\u2013975"
+  paper_id: '103'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1103.jpg
+  title: Improving Translation Quality by Discarding Most of the Phrasetable
+  title_html: Improving Translation Quality by Discarding Most of the Phrasetable
+  url: https://www.aclweb.org/anthology/D07-1103
+  year: '2007'
+D07-1104:
+  address: Prague, Czech Republic
+  author:
+  - first: Adam
+    full: Adam Lopez
+    id: adam-lopez
+    last: Lopez
+  author_string: Adam Lopez
+  bibkey: lopez-2007-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '976'
+  page_last: '985'
+  pages: "976\u2013985"
+  paper_id: '104'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1104.jpg
+  title: Hierarchical Phrase-Based Translation with Suffix Arrays
+  title_html: Hierarchical Phrase-Based Translation with Suffix Arrays
+  url: https://www.aclweb.org/anthology/D07-1104
+  year: '2007'
+D07-1105:
+  address: Prague, Czech Republic
+  author:
+  - first: Wolfgang
+    full: Wolfgang Macherey
+    id: wolfgang-macherey
+    last: Macherey
+  - first: Franz J.
+    full: Franz J. Och
+    id: franz-josef-och
+    last: Och
+  author_string: Wolfgang Macherey, Franz J. Och
+  bibkey: macherey-och-2007-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '986'
+  page_last: '995'
+  pages: "986\u2013995"
+  paper_id: '105'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1105.jpg
+  title: An Empirical Study on Computing Consensus Translations from Multiple Machine
+    Translation Systems
+  title_html: An Empirical Study on Computing Consensus Translations from Multiple
+    Machine Translation Systems
+  url: https://www.aclweb.org/anthology/D07-1105
+  year: '2007'
+D07-1106:
+  address: Prague, Czech Republic
+  author:
+  - first: Jian-Cheng
+    full: Jian-Cheng Wu
+    id: jian-cheng-wu
+    last: Wu
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Jian-Cheng Wu, Jason S. Chang
+  bibkey: wu-chang-2007-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '996'
+  page_last: '1004'
+  pages: "996\u20131004"
+  paper_id: '106'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1106.jpg
+  title: Learning to Find English to Chinese Transliterations on the Web
+  title_html: Learning to Find <span class="acl-fixed-case">E</span>nglish to <span
+    class="acl-fixed-case">C</span>hinese Transliterations on the Web
+  url: https://www.aclweb.org/anthology/D07-1106
+  year: '2007'
+D07-1107:
+  address: Prague, Czech Republic
+  author:
+  - first: Rion
+    full: Rion Snow
+    id: rion-snow
+    last: Snow
+  - first: Sushant
+    full: Sushant Prakash
+    id: sushant-prakash
+    last: Prakash
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  - first: Andrew Y.
+    full: Andrew Y. Ng
+    id: andrew-y-ng
+    last: Ng
+  author_string: Rion Snow, Sushant Prakash, Daniel Jurafsky, Andrew Y. Ng
+  bibkey: snow-etal-2007-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1005'
+  page_last: '1014'
+  pages: "1005\u20131014"
+  paper_id: '107'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1107.jpg
+  title: Learning to Merge Word Senses
+  title_html: Learning to Merge Word Senses
+  url: https://www.aclweb.org/anthology/D07-1107
+  year: '2007'
+D07-1108:
+  address: Prague, Czech Republic
+  author:
+  - first: Junfu
+    full: Junfu Cai
+    id: jun-fu-cai
+    last: Cai
+  - first: Wee Sun
+    full: Wee Sun Lee
+    id: wee-sun-lee
+    last: Lee
+  - first: Yee Whye
+    full: Yee Whye Teh
+    id: yee-whye-teh
+    last: Teh
+  author_string: Junfu Cai, Wee Sun Lee, Yee Whye Teh
+  bibkey: cai-etal-2007-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1015'
+  page_last: '1023'
+  pages: "1015\u20131023"
+  paper_id: '108'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1108.jpg
+  title: Improving Word Sense Disambiguation Using Topic Features
+  title_html: Improving Word Sense Disambiguation Using Topic Features
+  url: https://www.aclweb.org/anthology/D07-1108
+  year: '2007'
+D07-1109:
+  address: Prague, Czech Republic
+  author:
+  - first: Jordan
+    full: Jordan Boyd-Graber
+    id: jordan-boyd-graber
+    last: Boyd-Graber
+  - first: David
+    full: David Blei
+    id: david-blei
+    last: Blei
+  - first: Xiaojin
+    full: Xiaojin Zhu
+    id: xiaojin-zhu
+    last: Zhu
+  author_string: Jordan Boyd-Graber, David Blei, Xiaojin Zhu
+  bibkey: boyd-graber-etal-2007-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1024'
+  page_last: '1033'
+  pages: "1024\u20131033"
+  paper_id: '109'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1109.jpg
+  title: A Topic Model for Word Sense Disambiguation
+  title_html: A Topic Model for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/D07-1109
+  year: '2007'
+D07-1110:
+  address: Prague, Czech Republic
+  author:
+  - first: Aline
+    full: Aline Villavicencio
+    id: aline-villavicencio
+    last: Villavicencio
+  - first: Valia
+    full: Valia Kordoni
+    id: valia-kordoni
+    last: Kordoni
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  - first: Marco
+    full: Marco Idiart
+    id: marco-idiart
+    last: Idiart
+  - first: Carlos
+    full: Carlos Ramisch
+    id: carlos-ramisch
+    last: Ramisch
+  author_string: Aline Villavicencio, Valia Kordoni, Yi Zhang, Marco Idiart, Carlos
+    Ramisch
+  bibkey: villavicencio-etal-2007-validation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1034'
+  page_last: '1043'
+  pages: "1034\u20131043"
+  paper_id: '110'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1110.jpg
+  title: Validation and Evaluation of Automatically Acquired Multiword Expressions
+    for Grammar Engineering
+  title_html: Validation and Evaluation of Automatically Acquired Multiword Expressions
+    for Grammar Engineering
+  url: https://www.aclweb.org/anthology/D07-1110
+  year: '2007'
+D07-1111:
+  address: Prague, Czech Republic
+  author:
+  - first: Kenji
+    full: Kenji Sagae
+    id: kenji-sagae
+    last: Sagae
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Kenji Sagae, Jun\u2019ichi Tsujii"
+  bibkey: sagae-tsujii-2007-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1044'
+  page_last: '1050'
+  pages: "1044\u20131050"
+  paper_id: '111'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1111.jpg
+  title: Dependency Parsing and Domain Adaptation with LR Models and Parser Ensembles
+  title_html: Dependency Parsing and Domain Adaptation with <span class="acl-fixed-case">LR</span>
+    Models and Parser Ensembles
+  url: https://www.aclweb.org/anthology/D07-1111
+  year: '2007'
+D07-1112:
+  address: Prague, Czech Republic
+  author:
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  - first: John
+    full: John Blitzer
+    id: john-blitzer
+    last: Blitzer
+  - first: Partha Pratim
+    full: Partha Pratim Talukdar
+    id: partha-talukdar
+    last: Talukdar
+  - first: Kuzman
+    full: Kuzman Ganchev
+    id: kuzman-ganchev
+    last: Ganchev
+  - first: "Jo\xE3o"
+    full: "Jo\xE3o Gra\xE7a"
+    id: joao-graca
+    last: "Gra\xE7a"
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: "Mark Dredze, John Blitzer, Partha Pratim Talukdar, Kuzman Ganchev,\
+    \ Jo\xE3o Gra\xE7a, Fernando Pereira"
+  bibkey: dredze-etal-2007-frustratingly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1051'
+  page_last: '1055'
+  pages: "1051\u20131055"
+  paper_id: '112'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1112.jpg
+  title: Frustratingly Hard Domain Adaptation for Dependency Parsing
+  title_html: Frustratingly Hard Domain Adaptation for Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1112
+  year: '2007'
+D07-1113:
+  address: Prague, Czech Republic
+  author:
+  - first: Soo-Min
+    full: Soo-Min Kim
+    id: soo-min-kim
+    last: Kim
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Soo-Min Kim, Eduard Hovy
+  bibkey: kim-hovy-2007-crystal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1056'
+  page_last: '1064'
+  pages: "1056\u20131064"
+  paper_id: '113'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1113.jpg
+  title: 'Crystal: Analyzing Predictive Opinions on the Web'
+  title_html: '<span class="acl-fixed-case">C</span>rystal: Analyzing Predictive Opinions
+    on the Web'
+  url: https://www.aclweb.org/anthology/D07-1113
+  year: '2007'
+D07-1114:
+  address: Prague, Czech Republic
+  author:
+  - first: Nozomi
+    full: Nozomi Kobayashi
+    id: nozomi-kobayashi
+    last: Kobayashi
+  - first: Kentaro
+    full: Kentaro Inui
+    id: kentaro-inui
+    last: Inui
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Nozomi Kobayashi, Kentaro Inui, Yuji Matsumoto
+  bibkey: kobayashi-etal-2007-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1065'
+  page_last: '1074'
+  pages: "1065\u20131074"
+  paper_id: '114'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1114.jpg
+  title: Extracting Aspect-Evaluation and Aspect-Of Relations in Opinion Mining
+  title_html: Extracting Aspect-Evaluation and Aspect-Of Relations in Opinion Mining
+  url: https://www.aclweb.org/anthology/D07-1114
+  year: '2007'
+D07-1115:
+  address: Prague, Czech Republic
+  author:
+  - first: Nobuhiro
+    full: Nobuhiro Kaji
+    id: nobuhiro-kaji
+    last: Kaji
+  - first: Masaru
+    full: Masaru Kitsuregawa
+    id: masaru-kitsuregawa
+    last: Kitsuregawa
+  author_string: Nobuhiro Kaji, Masaru Kitsuregawa
+  bibkey: kaji-kitsuregawa-2007-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1075'
+  page_last: '1083'
+  pages: "1075\u20131083"
+  paper_id: '115'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1115.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1115.jpg
+  title: Building Lexicon for Sentiment Analysis from Massive Collection of HTML Documents
+  title_html: Building Lexicon for Sentiment Analysis from Massive Collection of <span
+    class="acl-fixed-case">HTML</span> Documents
+  url: https://www.aclweb.org/anthology/D07-1115
+  year: '2007'
+D07-1116:
+  address: Prague, Czech Republic
+  author:
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  - first: Ryan
+    full: Ryan Gabbard
+    id: ryan-gabbard
+    last: Gabbard
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: Seth
+    full: Seth Kulick
+    id: seth-kulick
+    last: Kulick
+  - first: Mitch
+    full: Mitch Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Nizar Habash, Ryan Gabbard, Owen Rambow, Seth Kulick, Mitch Marcus
+  bibkey: habash-etal-2007-determining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1084'
+  page_last: '1092'
+  pages: "1084\u20131092"
+  paper_id: '116'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1116.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1116.jpg
+  title: 'Determining Case in Arabic: Learning Complex Linguistic Behavior Requires
+    Complex Linguistic Features'
+  title_html: 'Determining Case in <span class="acl-fixed-case">A</span>rabic: Learning
+    Complex Linguistic Behavior Requires Complex Linguistic Features'
+  url: https://www.aclweb.org/anthology/D07-1116
+  year: '2007'
+D07-1117:
+  address: Prague, Czech Republic
+  author:
+  - first: Zhongqiang
+    full: Zhongqiang Huang
+    id: zhongqiang-huang
+    last: Huang
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  - first: Wen
+    full: Wen Wang
+    id: wen-wang
+    last: Wang
+  author_string: Zhongqiang Huang, Mary Harper, Wen Wang
+  bibkey: huang-etal-2007-mandarin
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1093'
+  page_last: '1102'
+  pages: "1093\u20131102"
+  paper_id: '117'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1117.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1117.jpg
+  title: Mandarin Part-of-Speech Tagging and Discriminative Reranking
+  title_html: <span class="acl-fixed-case">M</span>andarin Part-of-Speech Tagging
+    and Discriminative Reranking
+  url: https://www.aclweb.org/anthology/D07-1117
+  year: '2007'
+D07-1118:
+  address: Prague, Czech Republic
+  author:
+  - first: John
+    full: John Miller
+    id: john-miller
+    last: Miller
+  - first: Manabu
+    full: Manabu Torii
+    id: manabu-torii
+    last: Torii
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  author_string: John Miller, Manabu Torii, K. Vijay-Shanker
+  bibkey: miller-etal-2007-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1103'
+  page_last: '1111'
+  pages: "1103\u20131111"
+  paper_id: '118'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1118.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1118.jpg
+  title: Building Domain-Specific Taggers without Annotated (Domain) Data
+  title_html: Building Domain-Specific Taggers without Annotated (Domain) Data
+  url: https://www.aclweb.org/anthology/D07-1118
+  year: '2007'
+D07-1119:
+  address: Prague, Czech Republic
+  author:
+  - first: Giuseppe
+    full: Giuseppe Attardi
+    id: giuseppe-attardi
+    last: Attardi
+  - first: Felice
+    full: "Felice Dell\u2019Orletta"
+    id: felice-dellorletta
+    last: "Dell\u2019Orletta"
+  - first: Maria
+    full: Maria Simi
+    id: maria-simi
+    last: Simi
+  - first: Atanas
+    full: Atanas Chanev
+    id: atanas-chanev
+    last: Chanev
+  - first: Massimiliano
+    full: Massimiliano Ciaramita
+    id: massimiliano-ciaramita
+    last: Ciaramita
+  author_string: "Giuseppe Attardi, Felice Dell\u2019Orletta, Maria Simi, Atanas Chanev,\
+    \ Massimiliano Ciaramita"
+  bibkey: attardi-etal-2007-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1112'
+  page_last: '1118'
+  pages: "1112\u20131118"
+  paper_id: '119'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1119.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1119.jpg
+  title: Multilingual Dependency Parsing and Domain Adaptation using DeSR
+  title_html: Multilingual Dependency Parsing and Domain Adaptation using <span class="acl-fixed-case">D</span>e<span
+    class="acl-fixed-case">SR</span>
+  url: https://www.aclweb.org/anthology/D07-1119
+  year: '2007'
+D07-1120:
+  address: Prague, Czech Republic
+  author:
+  - first: Eckhard
+    full: Eckhard Bick
+    id: eckhard-bick
+    last: Bick
+  author_string: Eckhard Bick
+  bibkey: bick-2007-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1119'
+  page_last: '1123'
+  pages: "1119\u20131123"
+  paper_id: '120'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1120.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1120.jpg
+  title: Hybrid Ways to Improve Domain Independence in an ML Dependency Parser
+  title_html: Hybrid Ways to Improve Domain Independence in an <span class="acl-fixed-case">ML</span>
+    Dependency Parser
+  url: https://www.aclweb.org/anthology/D07-1120
+  year: '2007'
+D07-1121:
+  address: Prague, Czech Republic
+  author:
+  - first: Sander
+    full: Sander Canisius
+    id: sander-canisius
+    last: Canisius
+  - first: Erik
+    full: Erik Tjong Kim Sang
+    id: erik-tjong-kim-sang
+    last: Tjong Kim Sang
+  author_string: Sander Canisius, Erik Tjong Kim Sang
+  bibkey: canisius-tjong-kim-sang-2007-constraint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1124'
+  page_last: '1128'
+  pages: "1124\u20131128"
+  paper_id: '121'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1121.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1121.jpg
+  title: A Constraint Satisfaction Approach to Dependency Parsing
+  title_html: A Constraint Satisfaction Approach to Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1121
+  year: '2007'
+D07-1122:
+  address: Prague, Czech Republic
+  author:
+  - first: Wenliang
+    full: Wenliang Chen
+    id: wenliang-chen
+    last: Chen
+  - first: Yujie
+    full: Yujie Zhang
+    id: yujie-zhang
+    last: Zhang
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Wenliang Chen, Yujie Zhang, Hitoshi Isahara
+  bibkey: chen-etal-2007-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1129'
+  page_last: '1133'
+  pages: "1129\u20131133"
+  paper_id: '122'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1122.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1122.jpg
+  title: A Two-Stage Parser for Multilingual Dependency Parsing
+  title_html: A Two-Stage Parser for Multilingual Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1122
+  year: '2007'
+D07-1123:
+  address: Prague, Czech Republic
+  author:
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  - first: Pierre
+    full: Pierre Nugues
+    id: pierre-nugues
+    last: Nugues
+  author_string: Richard Johansson, Pierre Nugues
+  bibkey: johansson-nugues-2007-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1134'
+  page_last: '1138'
+  pages: "1134\u20131138"
+  paper_id: '123'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1123.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1123.jpg
+  title: Incremental Dependency Parsing Using Online Learning
+  title_html: Incremental Dependency Parsing Using Online Learning
+  url: https://www.aclweb.org/anthology/D07-1123
+  year: '2007'
+D07-1124:
+  address: Prague, Czech Republic
+  author:
+  - first: Prashanth Reddy
+    full: Prashanth Reddy Mannem
+    id: prashanth-mannem
+    last: Mannem
+  author_string: Prashanth Reddy Mannem
+  bibkey: mannem-2007-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1139'
+  page_last: '1143'
+  pages: "1139\u20131143"
+  paper_id: '124'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1124.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1124.jpg
+  title: Online Learning for Deterministic Dependency Parsing
+  title_html: Online Learning for Deterministic Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1124
+  year: '2007'
+D07-1125:
+  address: Prague, Czech Republic
+  author:
+  - first: Svetoslav
+    full: Svetoslav Marinov
+    id: svetoslav-marinov
+    last: Marinov
+  author_string: Svetoslav Marinov
+  bibkey: marinov-2007-covington
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1144'
+  page_last: '1148'
+  pages: "1144\u20131148"
+  paper_id: '125'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1125.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1125.jpg
+  title: Covington Variations
+  title_html: <span class="acl-fixed-case">C</span>ovington Variations
+  url: https://www.aclweb.org/anthology/D07-1125
+  year: '2007'
+D07-1126:
+  address: Prague, Czech Republic
+  author:
+  - first: Le-Minh
+    full: Le-Minh Nguyen
+    id: minh-le-nguyen
+    last: Nguyen
+  - first: Akira
+    full: Akira Shimazu
+    id: akira-shimazu
+    last: Shimazu
+  - first: Phuong-Thai
+    full: Phuong-Thai Nguyen
+    id: phuong-thai-nguyen
+    last: Nguyen
+  - first: Xuan-Hieu
+    full: Xuan-Hieu Phan
+    id: xuan-hieu-phan
+    last: Phan
+  author_string: Le-Minh Nguyen, Akira Shimazu, Phuong-Thai Nguyen, Xuan-Hieu Phan
+  bibkey: nguyen-etal-2007-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1149'
+  page_last: '1155'
+  pages: "1149\u20131155"
+  paper_id: '126'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1126.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1126.jpg
+  title: A Multilingual Dependency Analysis System Using Online Passive-Aggressive
+    Learning
+  title_html: A Multilingual Dependency Analysis System Using Online Passive-Aggressive
+    Learning
+  url: https://www.aclweb.org/anthology/D07-1126
+  year: '2007'
+D07-1127:
+  address: Prague, Czech Republic
+  author:
+  - first: Michael
+    full: Michael Schiehlen
+    id: michael-schiehlen
+    last: Schiehlen
+  - first: Kristina
+    full: Kristina Spranger
+    id: kristina-spranger
+    last: Spranger
+  author_string: Michael Schiehlen, Kristina Spranger
+  bibkey: schiehlen-spranger-2007-global
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1156'
+  page_last: '1160'
+  pages: "1156\u20131160"
+  paper_id: '127'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1127.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1127.jpg
+  title: Global Learning of Labeled Dependency Trees
+  title_html: Global Learning of Labeled Dependency Trees
+  url: https://www.aclweb.org/anthology/D07-1127
+  year: '2007'
+D07-1128:
+  address: Prague, Czech Republic
+  author:
+  - first: Gerold
+    full: Gerold Schneider
+    id: gerold-schneider
+    last: Schneider
+  - first: Kaarel
+    full: Kaarel Kaljurand
+    id: kaarel-kaljurand
+    last: Kaljurand
+  - first: Fabio
+    full: Fabio Rinaldi
+    id: fabio-rinaldi
+    last: Rinaldi
+  - first: Tobias
+    full: Tobias Kuhn
+    id: tobias-kuhn
+    last: Kuhn
+  author_string: Gerold Schneider, Kaarel Kaljurand, Fabio Rinaldi, Tobias Kuhn
+  bibkey: schneider-etal-2007-pro3gres
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1161'
+  page_last: '1165'
+  pages: "1161\u20131165"
+  paper_id: '128'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1128.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1128.jpg
+  title: Pro3Gres Parser in the CoNLL Domain Adaptation Shared Task
+  title_html: <span class="acl-fixed-case">P</span>ro3<span class="acl-fixed-case">G</span>res
+    Parser in the <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>
+    Domain Adaptation Shared Task
+  url: https://www.aclweb.org/anthology/D07-1128
+  year: '2007'
+D07-1129:
+  address: Prague, Czech Republic
+  author:
+  - first: Nobuyuki
+    full: Nobuyuki Shimizu
+    id: nobuyuki-shimizu
+    last: Shimizu
+  - first: Hiroshi
+    full: Hiroshi Nakagawa
+    id: hiroshi-nakagawa
+    last: Nakagawa
+  author_string: Nobuyuki Shimizu, Hiroshi Nakagawa
+  bibkey: shimizu-nakagawa-2007-structural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1166'
+  page_last: '1169'
+  pages: "1166\u20131169"
+  paper_id: '129'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1129.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1129.jpg
+  title: Structural Correspondence Learning for Dependency Parsing
+  title_html: Structural Correspondence Learning for Dependency Parsing
+  url: https://www.aclweb.org/anthology/D07-1129
+  year: '2007'
+D07-1130:
+  address: Prague, Czech Republic
+  author:
+  - first: Rebecca
+    full: Rebecca Watson
+    id: rebecca-watson
+    last: Watson
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  author_string: Rebecca Watson, Ted Briscoe
+  bibkey: watson-briscoe-2007-adapting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1170'
+  page_last: '1174'
+  pages: "1170\u20131174"
+  paper_id: '130'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1130.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1130.jpg
+  title: Adapting the RASP System for the CoNLL07 Domain-Adaptation Task
+  title_html: Adapting the <span class="acl-fixed-case">RASP</span> System for the
+    <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>07
+    Domain-Adaptation Task
+  url: https://www.aclweb.org/anthology/D07-1130
+  year: '2007'
+D07-1131:
+  address: Prague, Czech Republic
+  author:
+  - first: Yu-Chieh
+    full: Yu-Chieh Wu
+    id: yu-chieh-wu
+    last: Wu
+  - first: Jie-Chi
+    full: Jie-Chi Yang
+    id: jie-chi-yang
+    last: Yang
+  - first: Yue-Shi
+    full: Yue-Shi Lee
+    id: yue-shi-lee
+    last: Lee
+  author_string: Yu-Chieh Wu, Jie-Chi Yang, Yue-Shi Lee
+  bibkey: wu-etal-2007-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2007 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)
+  booktitle_html: Proceedings of the 2007 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning (<span
+    class="acl-fixed-case">EMNLP</span>-<span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>)
+  month: June
+  page_first: '1175'
+  page_last: '1181'
+  pages: "1175\u20131181"
+  paper_id: '131'
+  parent_volume_id: D07-1
+  pdf: https://www.aclweb.org/anthology/D07-1131.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D07-1131.jpg
+  title: Multilingual Deterministic Dependency Parsing Framework using Modified Finite
+    Newton Method Support Vector Machines
+  title_html: Multilingual Deterministic Dependency Parsing Framework using Modified
+    Finite <span class="acl-fixed-case">N</span>ewton Method Support Vector Machines
+  url: https://www.aclweb.org/anthology/D07-1131
+  year: '2007'

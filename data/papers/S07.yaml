@@ -1,0 +1,3980 @@
+S07-1000:
+  address: Prague, Czech Republic
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: Richard
+    full: Richard Wicentowski
+    id: richard-wicentowski
+    last: Wicentowski
+  author_string: "Eneko Agirre, Llu\xEDs M\xE0rquez, Richard Wicentowski"
+  bibkey: semeval-2007-international
+  bibtype: proceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  month: June
+  paper_id: '0'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1000.jpg
+  title: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  title_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  url: https://www.aclweb.org/anthology/S07-1000
+  year: '2007'
+S07-1001:
+  address: Prague, Czech Republic
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  - first: Oier
+    full: Oier Lopez de Lacalle
+    id: oier-lopez-de-lacalle
+    last: Lopez de Lacalle
+  - first: Arantxa
+    full: Arantxa Otegi
+    id: arantxa-otegi
+    last: Otegi
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  - first: Piek
+    full: Piek Vossen
+    id: piek-vossen
+    last: Vossen
+  author_string: Eneko Agirre, Bernardo Magnini, Oier Lopez de Lacalle, Arantxa Otegi,
+    German Rigau, Piek Vossen
+  bibkey: agirre-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1001.jpg
+  title: 'SemEval-2007 Task 01: Evaluating WSD on Cross-Language Information Retrieval'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 01: Evaluating <span class="acl-fixed-case">WSD</span> on Cross-Language
+    Information Retrieval'
+  url: https://www.aclweb.org/anthology/S07-1001
+  year: '2007'
+S07-1002:
+  address: Prague, Czech Republic
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Aitor
+    full: Aitor Soroa
+    id: aitor-soroa
+    last: Soroa
+  author_string: Eneko Agirre, Aitor Soroa
+  bibkey: agirre-soroa-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '7'
+  page_last: '12'
+  pages: "7\u201312"
+  paper_id: '2'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1002.jpg
+  title: 'SemEval-2007 Task 02: Evaluating Word Sense Induction and Discrimination
+    Systems'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 02: Evaluating Word Sense Induction and Discrimination Systems'
+  url: https://www.aclweb.org/anthology/S07-1002
+  year: '2007'
+S07-1003:
+  address: Prague, Czech Republic
+  author:
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Vivi
+    full: Vivi Nastase
+    id: vivi-nastase
+    last: Nastase
+  - first: Stan
+    full: Stan Szpakowicz
+    id: stan-szpakowicz
+    last: Szpakowicz
+  - first: Peter
+    full: Peter Turney
+    id: peter-turney
+    last: Turney
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  author_string: Roxana Girju, Preslav Nakov, Vivi Nastase, Stan Szpakowicz, Peter
+    Turney, Deniz Yuret
+  bibkey: girju-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '13'
+  page_last: '18'
+  pages: "13\u201318"
+  paper_id: '3'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1003.jpg
+  title: 'SemEval-2007 Task 04: Classification of Semantic Relations between Nominals'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 04: Classification of Semantic Relations between Nominals'
+  url: https://www.aclweb.org/anthology/S07-1003
+  year: '2007'
+S07-1004:
+  address: Prague, Czech Republic
+  author:
+  - first: Peng
+    full: Peng Jin
+    id: peng-jin
+    last: Jin
+  - first: Yunfang
+    full: Yunfang Wu
+    id: yunfang-wu
+    last: Wu
+  - first: Shiwen
+    full: Shiwen Yu
+    id: shiwen-yu
+    last: Yu
+  author_string: Peng Jin, Yunfang Wu, Shiwen Yu
+  bibkey: jin-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '19'
+  page_last: '23'
+  pages: "19\u201323"
+  paper_id: '4'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1004.jpg
+  title: 'SemEval-2007 Task 05: Multilingual Chinese-English Lexical Sample'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 05: Multilingual <span class="acl-fixed-case">C</span>hinese-<span class="acl-fixed-case">E</span>nglish
+    Lexical Sample'
+  url: https://www.aclweb.org/anthology/S07-1004
+  year: '2007'
+S07-1005:
+  address: Prague, Czech Republic
+  author:
+  - first: Kenneth C.
+    full: Kenneth C. Litkowski
+    id: kenneth-c-litkowski
+    last: Litkowski
+  - first: Orin
+    full: Orin Hargraves
+    id: orin-hargraves
+    last: Hargraves
+  author_string: Kenneth C. Litkowski, Orin Hargraves
+  bibkey: litkowski-hargraves-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '24'
+  page_last: '29'
+  pages: "24\u201329"
+  paper_id: '5'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1005.jpg
+  title: 'SemEval-2007 Task 06: Word-Sense Disambiguation of Prepositions'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 06: Word-Sense Disambiguation of Prepositions'
+  url: https://www.aclweb.org/anthology/S07-1005
+  year: '2007'
+S07-1006:
+  address: Prague, Czech Republic
+  author:
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  - first: Kenneth C.
+    full: Kenneth C. Litkowski
+    id: kenneth-c-litkowski
+    last: Litkowski
+  - first: Orin
+    full: Orin Hargraves
+    id: orin-hargraves
+    last: Hargraves
+  author_string: Roberto Navigli, Kenneth C. Litkowski, Orin Hargraves
+  bibkey: navigli-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '30'
+  page_last: '35'
+  pages: "30\u201335"
+  paper_id: '6'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1006.jpg
+  title: 'SemEval-2007 Task 07: Coarse-Grained English All-Words Task'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 07: Coarse-Grained <span class="acl-fixed-case">E</span>nglish All-Words
+    Task'
+  url: https://www.aclweb.org/anthology/S07-1006
+  year: '2007'
+S07-1007:
+  address: Prague, Czech Republic
+  author:
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  - first: Malvina
+    full: Malvina Nissim
+    id: malvina-nissim
+    last: Nissim
+  author_string: Katja Markert, Malvina Nissim
+  bibkey: markert-nissim-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '36'
+  page_last: '41'
+  pages: "36\u201341"
+  paper_id: '7'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1007.jpg
+  title: 'SemEval-2007 Task 08: Metonymy Resolution at SemEval-2007'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 08: Metonymy Resolution at <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007'
+  url: https://www.aclweb.org/anthology/S07-1007
+  year: '2007'
+S07-1008:
+  address: Prague, Czech Republic
+  author:
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: Luis
+    full: Luis Villarejo
+    id: luis-villarejo
+    last: Villarejo
+  - first: M. A.
+    full: "M. A. Mart\xED"
+    id: m-antonia-marti
+    last: "Mart\xED"
+  - first: Mariona
+    full: "Mariona Taul\xE9"
+    id: mariona-taule
+    last: "Taul\xE9"
+  author_string: "Llu\xEDs M\xE0rquez, Luis Villarejo, M. A. Mart\xED, Mariona Taul\xE9"
+  bibkey: marquez-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '42'
+  page_last: '47'
+  pages: "42\u201347"
+  paper_id: '8'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1008.jpg
+  title: 'SemEval-2007 Task 09: Multilevel Semantic Annotation of Catalan and Spanish'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 09: Multilevel Semantic Annotation of <span class="acl-fixed-case">C</span>atalan
+    and <span class="acl-fixed-case">S</span>panish'
+  url: https://www.aclweb.org/anthology/S07-1008
+  year: '2007'
+S07-1009:
+  address: Prague, Czech Republic
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  author_string: Diana McCarthy, Roberto Navigli
+  bibkey: mccarthy-navigli-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '48'
+  page_last: '53'
+  pages: "48\u201353"
+  paper_id: '9'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1009.jpg
+  title: 'SemEval-2007 Task 10: English Lexical Substitution Task'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 10: <span class="acl-fixed-case">E</span>nglish Lexical Substitution Task'
+  url: https://www.aclweb.org/anthology/S07-1009
+  year: '2007'
+S07-1010:
+  address: Prague, Czech Republic
+  author:
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Yee Seng
+    full: Yee Seng Chan
+    id: yee-seng-chan
+    last: Chan
+  author_string: Hwee Tou Ng, Yee Seng Chan
+  bibkey: ng-chan-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '54'
+  page_last: '58'
+  pages: "54\u201358"
+  paper_id: '10'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1010.jpg
+  title: 'SemEval-2007 Task 11: English Lexical Sample Task via English-Chinese Parallel
+    Text'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 11: <span class="acl-fixed-case">E</span>nglish Lexical Sample Task via <span
+    class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">C</span>hinese
+    Parallel Text'
+  url: https://www.aclweb.org/anthology/S07-1010
+  year: '2007'
+S07-1011:
+  address: Prague, Czech Republic
+  author:
+  - first: Zeynep
+    full: Zeynep Orhan
+    id: zeynep-orhan
+    last: Orhan
+  - first: Emine
+    full: "Emine \xC7elik"
+    id: emine-celik
+    last: "\xC7elik"
+  - first: "Demirg\xFC\xE7"
+    full: "Demirg\xFC\xE7 Neslihan"
+    id: demirguc-neslihan
+    last: Neslihan
+  author_string: "Zeynep Orhan, Emine \xC7elik, Demirg\xFC\xE7 Neslihan"
+  bibkey: orhan-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '59'
+  page_last: '63'
+  pages: "59\u201363"
+  paper_id: '11'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1011.jpg
+  title: 'SemEval-2007 Task 12: Turkish Lexical Sample Task'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 12: <span class="acl-fixed-case">T</span>urkish Lexical Sample Task'
+  url: https://www.aclweb.org/anthology/S07-1011
+  year: '2007'
+S07-1012:
+  address: Prague, Czech Republic
+  author:
+  - first: Javier
+    full: Javier Artiles
+    id: javier-artiles
+    last: Artiles
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  author_string: Javier Artiles, Julio Gonzalo, Satoshi Sekine
+  bibkey: artiles-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '64'
+  page_last: '69'
+  pages: "64\u201369"
+  paper_id: '12'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1012.jpg
+  title: 'The SemEval-2007 WePS Evaluation: Establishing a benchmark for the Web People
+    Search Task'
+  title_html: 'The <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    <span class="acl-fixed-case">W</span>e<span class="acl-fixed-case">PS</span> Evaluation:
+    Establishing a benchmark for the Web People Search Task'
+  url: https://www.aclweb.org/anthology/S07-1012
+  year: '2007'
+S07-1013:
+  address: Prague, Czech Republic
+  author:
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Carlo Strapparava, Rada Mihalcea
+  bibkey: strapparava-mihalcea-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '70'
+  page_last: '74'
+  pages: "70\u201374"
+  paper_id: '13'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1013.jpg
+  title: 'SemEval-2007 Task 14: Affective Text'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 14: Affective Text'
+  url: https://www.aclweb.org/anthology/S07-1013
+  year: '2007'
+S07-1014:
+  address: Prague, Czech Republic
+  author:
+  - first: Marc
+    full: Marc Verhagen
+    id: marc-verhagen
+    last: Verhagen
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  - first: Frank
+    full: Frank Schilder
+    id: frank-schilder
+    last: Schilder
+  - first: Mark
+    full: Mark Hepple
+    id: mark-hepple
+    last: Hepple
+  - first: Graham
+    full: Graham Katz
+    id: graham-katz
+    last: Katz
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: Marc Verhagen, Robert Gaizauskas, Frank Schilder, Mark Hepple, Graham
+    Katz, James Pustejovsky
+  bibkey: verhagen-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '75'
+  page_last: '80'
+  pages: "75\u201380"
+  paper_id: '14'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1014.jpg
+  title: 'SemEval-2007 Task 15: TempEval Temporal Relation Identification'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 15: <span class="acl-fixed-case">T</span>emp<span class="acl-fixed-case">E</span>val
+    Temporal Relation Identification'
+  url: https://www.aclweb.org/anthology/S07-1014
+  year: '2007'
+S07-1015:
+  address: Prague, Czech Republic
+  author:
+  - first: Montse
+    full: Montse Cuadros
+    id: montse-cuadros
+    last: Cuadros
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  author_string: Montse Cuadros, German Rigau
+  bibkey: cuadros-rigau-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '81'
+  page_last: '86'
+  pages: "81\u201386"
+  paper_id: '15'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1015.jpg
+  title: 'SemEval-2007 Task 16: Evaluation of Wide Coverage Knowledge Resources'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 16: Evaluation of Wide Coverage Knowledge Resources'
+  url: https://www.aclweb.org/anthology/S07-1015
+  year: '2007'
+S07-1016:
+  address: Prague, Czech Republic
+  author:
+  - first: Sameer
+    full: Sameer Pradhan
+    id: sameer-pradhan
+    last: Pradhan
+  - first: Edward
+    full: Edward Loper
+    id: edward-loper
+    last: Loper
+  - first: Dmitriy
+    full: Dmitriy Dligach
+    id: dmitriy-dligach
+    last: Dligach
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Sameer Pradhan, Edward Loper, Dmitriy Dligach, Martha Palmer
+  bibkey: pradhan-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '87'
+  page_last: '92'
+  pages: "87\u201392"
+  paper_id: '16'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1016.jpg
+  title: 'SemEval-2007 Task-17: English Lexical Sample, SRL and All Words'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task-17: <span class="acl-fixed-case">E</span>nglish Lexical Sample, <span class="acl-fixed-case">SRL</span>
+    and All Words'
+  url: https://www.aclweb.org/anthology/S07-1016
+  year: '2007'
+S07-1017:
+  address: Prague, Czech Republic
+  author:
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Musa
+    full: Musa Alkhalifa
+    id: musa-alkhalifa
+    last: Alkhalifa
+  - first: Sabry
+    full: Sabry ElKateb
+    id: sabry-elkateb
+    last: ElKateb
+  - first: Christiane
+    full: Christiane Fellbaum
+    id: christiane-fellbaum
+    last: Fellbaum
+  - first: Aous
+    full: Aous Mansouri
+    id: aous-mansouri
+    last: Mansouri
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Mona Diab, Musa Alkhalifa, Sabry ElKateb, Christiane Fellbaum, Aous
+    Mansouri, Martha Palmer
+  bibkey: diab-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '93'
+  page_last: '98'
+  pages: "93\u201398"
+  paper_id: '17'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1017.jpg
+  title: 'SemEval-2007 Task 18: Arabic Semantic Labeling'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 18: <span class="acl-fixed-case">A</span>rabic Semantic Labeling'
+  url: https://www.aclweb.org/anthology/S07-1017
+  year: '2007'
+S07-1018:
+  address: Prague, Czech Republic
+  author:
+  - first: Collin
+    full: Collin Baker
+    id: collin-f-baker
+    last: Baker
+  - first: Michael
+    full: Michael Ellsworth
+    id: michael-ellsworth
+    last: Ellsworth
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  author_string: Collin Baker, Michael Ellsworth, Katrin Erk
+  bibkey: baker-etal-2007-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '99'
+  page_last: '104'
+  pages: "99\u2013104"
+  paper_id: '18'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1018.jpg
+  title: 'SemEval-2007 Task 19: Frame Semantic Structure Extraction'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Task 19: Frame Semantic Structure Extraction'
+  url: https://www.aclweb.org/anthology/S07-1018
+  year: '2007'
+S07-1019:
+  address: Prague, Czech Republic
+  author:
+  - first: Els
+    full: Els Lefever
+    id: els-lefever
+    last: Lefever
+  - first: "V\xE9ronique"
+    full: "V\xE9ronique Hoste"
+    id: veronique-hoste
+    last: Hoste
+  - first: Timur
+    full: Timur Fayruzov
+    id: timur-fayruzov
+    last: Fayruzov
+  author_string: "Els Lefever, V\xE9ronique Hoste, Timur Fayruzov"
+  bibkey: lefever-etal-2007-aug
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '105'
+  page_last: '108'
+  pages: "105\u2013108"
+  paper_id: '19'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1019.jpg
+  title: 'AUG: A combined classification and clustering approach for web people disambiguation'
+  title_html: '<span class="acl-fixed-case">AUG</span>: A combined classification
+    and clustering approach for web people disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1019
+  year: '2007'
+S07-1020:
+  address: Prague, Czech Republic
+  author:
+  - first: Oi Yee
+    full: Oi Yee Kwong
+    id: olivia-o-y-kwong
+    last: Kwong
+  author_string: Oi Yee Kwong
+  bibkey: kwong-2007-cityu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '109'
+  page_last: '112'
+  pages: "109\u2013112"
+  paper_id: '20'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1020.jpg
+  title: 'CITYU-HIF: WSD with Human-Informed Feature Preference'
+  title_html: '<span class="acl-fixed-case">CITYU</span>-<span class="acl-fixed-case">HIF</span>:
+    <span class="acl-fixed-case">WSD</span> with Human-Informed Feature Preference'
+  url: https://www.aclweb.org/anthology/S07-1020
+  year: '2007'
+S07-1021:
+  address: Prague, Czech Republic
+  author:
+  - first: Kenneth C.
+    full: Kenneth C. Litkowski
+    id: kenneth-c-litkowski
+    last: Litkowski
+  author_string: Kenneth C. Litkowski
+  bibkey: litkowski-2007-clr
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '113'
+  page_last: '116'
+  pages: "113\u2013116"
+  paper_id: '21'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1021.jpg
+  title: 'CLR: Integration of FrameNet in a Text Representation System'
+  title_html: '<span class="acl-fixed-case">CLR</span>: Integration of <span class="acl-fixed-case">F</span>rame<span
+    class="acl-fixed-case">N</span>et in a Text Representation System'
+  url: https://www.aclweb.org/anthology/S07-1021
+  year: '2007'
+S07-1022:
+  address: Prague, Czech Republic
+  author:
+  - first: Alina
+    full: Alina Andreevskaia
+    id: alina-andreevskaia
+    last: Andreevskaia
+  - first: Sabine
+    full: Sabine Bergler
+    id: sabine-bergler
+    last: Bergler
+  author_string: Alina Andreevskaia, Sabine Bergler
+  bibkey: andreevskaia-bergler-2007-clac
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '117'
+  page_last: '120'
+  pages: "117\u2013120"
+  paper_id: '22'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1022.jpg
+  title: 'CLaC and CLaC-NB: Knowledge-based and corpus-based approaches to sentiment
+    tagging'
+  title_html: '<span class="acl-fixed-case">CL</span>a<span class="acl-fixed-case">C</span>
+    and <span class="acl-fixed-case">CL</span>a<span class="acl-fixed-case">C</span>-<span
+    class="acl-fixed-case">NB</span>: Knowledge-based and corpus-based approaches
+    to sentiment tagging'
+  url: https://www.aclweb.org/anthology/S07-1022
+  year: '2007'
+S07-1023:
+  address: Prague, Czech Republic
+  author:
+  - first: Alicia
+    full: Alicia Tribble
+    id: alicia-tribble
+    last: Tribble
+  - first: Scott E.
+    full: Scott E. Fahlman
+    id: scott-e-fahlman
+    last: Fahlman
+  author_string: Alicia Tribble, Scott E. Fahlman
+  bibkey: tribble-fahlman-2007-cmu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '121'
+  page_last: '124'
+  pages: "121\u2013124"
+  paper_id: '23'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1023.jpg
+  title: 'CMU-AT: Semantic Distance and Background Knowledge for Identifying Semantic
+    Relations'
+  title_html: '<span class="acl-fixed-case">CMU</span>-<span class="acl-fixed-case">AT</span>:
+    Semantic Distance and Background Knowledge for Identifying Semantic Relations'
+  url: https://www.aclweb.org/anthology/S07-1023
+  year: '2007'
+S07-1024:
+  address: Prague, Czech Republic
+  author:
+  - first: Ying
+    full: Ying Chen
+    id: ying-chen
+    last: Chen
+  - first: James H.
+    full: James H. Martin
+    id: james-h-martin
+    last: Martin
+  author_string: Ying Chen, James H. Martin
+  bibkey: chen-martin-2007-cu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '125'
+  page_last: '128'
+  pages: "125\u2013128"
+  paper_id: '24'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1024.jpg
+  title: 'CU-COMSEM: Exploring Rich Features for Unsupervised Web Personal Name Disambiguation'
+  title_html: '<span class="acl-fixed-case">CU</span>-<span class="acl-fixed-case">COMSEM</span>:
+    Exploring Rich Features for Unsupervised Web Personal Name Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1024
+  year: '2007'
+S07-1025:
+  address: Prague, Czech Republic
+  author:
+  - first: Steven
+    full: Steven Bethard
+    id: steven-bethard
+    last: Bethard
+  - first: James H.
+    full: James H. Martin
+    id: james-h-martin
+    last: Martin
+  author_string: Steven Bethard, James H. Martin
+  bibkey: bethard-martin-2007-cu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '129'
+  page_last: '132'
+  pages: "129\u2013132"
+  paper_id: '25'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1025.jpg
+  title: 'CU-TMP: Temporal Relation Classification Using Syntactic and Semantic Features'
+  title_html: '<span class="acl-fixed-case">CU</span>-<span class="acl-fixed-case">TMP</span>:
+    Temporal Relation Classification Using Syntactic and Semantic Features'
+  url: https://www.aclweb.org/anthology/S07-1025
+  year: '2007'
+S07-1026:
+  address: Prague, Czech Republic
+  author:
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Daniele
+    full: Daniele Pighin
+    id: daniele-pighin
+    last: Pighin
+  author_string: Mona Diab, Alessandro Moschitti, Daniele Pighin
+  bibkey: diab-etal-2007-cunit
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '133'
+  page_last: '136'
+  pages: "133\u2013136"
+  paper_id: '26'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1026.jpg
+  title: 'CUNIT: A Semantic Role Labeling System for Modern Standard Arabic'
+  title_html: '<span class="acl-fixed-case">CUNIT</span>: A Semantic Role Labeling
+    System for Modern Standard <span class="acl-fixed-case">A</span>rabic'
+  url: https://www.aclweb.org/anthology/S07-1026
+  year: '2007'
+S07-1027:
+  address: Prague, Czech Republic
+  author:
+  - first: Andrea
+    full: Andrea Heyl
+    id: andrea-heyl
+    last: Heyl
+  - first: "G\xFCnter"
+    full: "G\xFCnter Neumann"
+    id: gunter-neumann
+    last: Neumann
+  author_string: "Andrea Heyl, G\xFCnter Neumann"
+  bibkey: heyl-neumann-2007-dfki2
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '137'
+  page_last: '140'
+  pages: "137\u2013140"
+  paper_id: '27'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1027.jpg
+  title: 'DFKI2: An Information Extraction Based Approach to People Disambiguation'
+  title_html: '<span class="acl-fixed-case">DFKI</span>2: An Information Extraction
+    Based Approach to People Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1027
+  year: '2007'
+S07-1028:
+  address: Prague, Czech Republic
+  author:
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  - first: Alberto
+    full: Alberto Lavelli
+    id: alberto-lavelli
+    last: Lavelli
+  - first: Daniele
+    full: Daniele Pighin
+    id: daniele-pighin
+    last: Pighin
+  - first: Lorenza
+    full: Lorenza Romano
+    id: lorenza-romano
+    last: Romano
+  author_string: Claudio Giuliano, Alberto Lavelli, Daniele Pighin, Lorenza Romano
+  bibkey: giuliano-etal-2007-fbk
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '141'
+  page_last: '144'
+  pages: "141\u2013144"
+  paper_id: '28'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1028.jpg
+  title: 'FBK-IRST: Kernel Methods for Semantic Relation Extraction'
+  title_html: '<span class="acl-fixed-case">FBK</span>-<span class="acl-fixed-case">IRST</span>:
+    Kernel Methods for Semantic Relation Extraction'
+  url: https://www.aclweb.org/anthology/S07-1028
+  year: '2007'
+S07-1029:
+  address: Prague, Czech Republic
+  author:
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  - first: Alfio
+    full: Alfio Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Claudio Giuliano, Alfio Gliozzo, Carlo Strapparava
+  bibkey: giuliano-etal-2007-fbk-irst
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '145'
+  page_last: '148'
+  pages: "145\u2013148"
+  paper_id: '29'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1029.jpg
+  title: 'FBK-irst: Lexical Substitution Task Exploiting Domain and Syntagmatic Coherence'
+  title_html: '<span class="acl-fixed-case">FBK</span>-irst: Lexical Substitution
+    Task Exploiting Domain and Syntagmatic Coherence'
+  url: https://www.aclweb.org/anthology/S07-1029
+  year: '2007'
+S07-1030:
+  address: Prague, Czech Republic
+  author:
+  - first: Paul
+    full: Paul Kalmar
+    id: paul-kalmar
+    last: Kalmar
+  - first: Matthias
+    full: Matthias Blume
+    id: matthias-blume
+    last: Blume
+  author_string: Paul Kalmar, Matthias Blume
+  bibkey: kalmar-blume-2007-fico
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '149'
+  page_last: '152'
+  pages: "149\u2013152"
+  paper_id: '30'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1030.jpg
+  title: 'FICO: Web Person Disambiguation Via Weighted Similarity of Entity Contexts'
+  title_html: '<span class="acl-fixed-case">FICO</span>: Web Person Disambiguation
+    Via Weighted Similarity of Entity Contexts'
+  url: https://www.aclweb.org/anthology/S07-1030
+  year: '2007'
+S07-1031:
+  address: Prague, Czech Republic
+  author:
+  - first: Johannes
+    full: Johannes Leveling
+    id: johannes-leveling
+    last: Leveling
+  author_string: Johannes Leveling
+  bibkey: leveling-2007-fuh
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '153'
+  page_last: '156'
+  pages: "153\u2013156"
+  paper_id: '31'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1031.jpg
+  title: "FUH (FernUniversit\xE4t in Hagen): Metonymy Recognition Using Different\
+    \ Kinds of Context for a Memory-Based Learner"
+  title_html: "<span class=\"acl-fixed-case\">FUH</span> (<span class=\"acl-fixed-case\"\
+    >F</span>ern<span class=\"acl-fixed-case\">U</span>niversit\xE4t in Hagen): Metonymy\
+    \ Recognition Using Different Kinds of Context for a Memory-Based Learner"
+  url: https://www.aclweb.org/anthology/S07-1031
+  year: '2007'
+S07-1032:
+  address: Prague, Czech Republic
+  author:
+  - first: "Rub\xE9n"
+    full: "Rub\xE9n Izquierdo"
+    id: ruben-izquierdo
+    last: Izquierdo
+  - first: Armando
+    full: "Armando Su\xE1rez"
+    id: armando-suarez
+    last: "Su\xE1rez"
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  author_string: "Rub\xE9n Izquierdo, Armando Su\xE1rez, German Rigau"
+  bibkey: izquierdo-etal-2007-gplsi
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '157'
+  page_last: '160'
+  pages: "157\u2013160"
+  paper_id: '32'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1032.jpg
+  title: 'GPLSI: Word Coarse-grained Disambiguation aided by Basic Level Concepts'
+  title_html: '<span class="acl-fixed-case">GPLSI</span>: Word Coarse-grained Disambiguation
+    aided by Basic Level Concepts'
+  url: https://www.aclweb.org/anthology/S07-1032
+  year: '2007'
+S07-1033:
+  address: Prague, Czech Republic
+  author:
+  - first: "Rich\xE1rd"
+    full: "Rich\xE1rd Farkas"
+    id: richard-farkas
+    last: Farkas
+  - first: Eszter
+    full: Eszter Simon
+    id: eszter-simon
+    last: Simon
+  - first: "Gy\xF6rgy"
+    full: "Gy\xF6rgy Szarvas"
+    id: gyorgy-szarvas
+    last: Szarvas
+  - first: "D\xE1niel"
+    full: "D\xE1niel Varga"
+    id: daniel-varga
+    last: Varga
+  author_string: "Rich\xE1rd Farkas, Eszter Simon, Gy\xF6rgy Szarvas, D\xE1niel Varga"
+  bibkey: farkas-etal-2007-gyder
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '161'
+  page_last: '164'
+  pages: "161\u2013164"
+  paper_id: '33'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1033.jpg
+  title: 'GYDER: Maxent Metonymy Resolution'
+  title_html: '<span class="acl-fixed-case">GYDER</span>: Maxent Metonymy Resolution'
+  url: https://www.aclweb.org/anthology/S07-1033
+  year: '2007'
+S07-1034:
+  address: Prague, Czech Republic
+  author:
+  - first: Yuhang
+    full: Yuhang Guo
+    id: yuhang-guo
+    last: Guo
+  - first: Wanxiang
+    full: Wanxiang Che
+    id: wanxiang-che
+    last: Che
+  - first: Yuxuan
+    full: Yuxuan Hu
+    id: yuxuan-hu
+    last: Hu
+  - first: Wei
+    full: Wei Zhang
+    id: wei-zhang
+    last: Zhang
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  author_string: Yuhang Guo, Wanxiang Che, Yuxuan Hu, Wei Zhang, Ting Liu
+  bibkey: guo-etal-2007-hit
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '165'
+  page_last: '168'
+  pages: "165\u2013168"
+  paper_id: '34'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1034.jpg
+  title: 'HIT-IR-WSD: A WSD System for English Lexical Sample Task'
+  title_html: '<span class="acl-fixed-case">HIT</span>-<span class="acl-fixed-case">IR</span>-<span
+    class="acl-fixed-case">WSD</span>: A <span class="acl-fixed-case">WSD</span> System
+    for <span class="acl-fixed-case">E</span>nglish Lexical Sample Task'
+  url: https://www.aclweb.org/anthology/S07-1034
+  year: '2007'
+S07-1035:
+  address: Prague, Czech Republic
+  author:
+  - first: PengYuan
+    full: PengYuan Liu
+    id: pengyuan-liu
+    last: Liu
+  - first: TieJun
+    full: TieJun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  - first: MuYun
+    full: MuYun Yang
+    id: muyun-yang
+    last: Yang
+  author_string: PengYuan Liu, TieJun Zhao, MuYun Yang
+  bibkey: liu-etal-2007-hit
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '169'
+  page_last: '172'
+  pages: "169\u2013172"
+  paper_id: '35'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1035.jpg
+  title: 'HIT-WSD: Using Search Engine for Multilingual Chinese-English Lexical Sample
+    Task'
+  title_html: '<span class="acl-fixed-case">HIT</span>-<span class="acl-fixed-case">WSD</span>:
+    Using Search Engine for Multilingual <span class="acl-fixed-case">C</span>hinese-<span
+    class="acl-fixed-case">E</span>nglish Lexical Sample Task'
+  url: https://www.aclweb.org/anthology/S07-1035
+  year: '2007'
+S07-1036:
+  address: Prague, Czech Republic
+  author:
+  - first: Shiqi
+    full: Shiqi Zhao
+    id: shiqi-zhao
+    last: Zhao
+  - first: Lin
+    full: Lin Zhao
+    id: lin-zhao
+    last: Zhao
+  - first: Yu
+    full: Yu Zhang
+    id: yu-zhang
+    last: Zhang
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  author_string: Shiqi Zhao, Lin Zhao, Yu Zhang, Ting Liu, Sheng Li
+  bibkey: zhao-etal-2007-hit
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '173'
+  page_last: '176'
+  pages: "173\u2013176"
+  paper_id: '36'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1036.jpg
+  title: 'HIT: Web based Scoring Method for English Lexical Substitution'
+  title_html: '<span class="acl-fixed-case">HIT</span>: Web based Scoring Method for
+    <span class="acl-fixed-case">E</span>nglish Lexical Substitution'
+  url: https://www.aclweb.org/anthology/S07-1036
+  year: '2007'
+S07-1037:
+  address: Prague, Czech Republic
+  author:
+  - first: Zheng-Yu
+    full: Zheng-Yu Niu
+    id: zheng-yu-niu
+    last: Niu
+  - first: Dong-Hong
+    full: Dong-Hong Ji
+    id: donghong-ji
+    last: Ji
+  - first: Chew-Lim
+    full: Chew-Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Zheng-Yu Niu, Dong-Hong Ji, Chew-Lim Tan
+  bibkey: niu-etal-2007-i2r
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '177'
+  page_last: '182'
+  pages: "177\u2013182"
+  paper_id: '37'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1037.jpg
+  title: 'I2R: Three Systems for Word Sense Discrimination, Chinese Word Sense Disambiguation,
+    and English Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">I</span>2<span class="acl-fixed-case">R</span>:
+    Three Systems for Word Sense Discrimination, <span class="acl-fixed-case">C</span>hinese
+    Word Sense Disambiguation, and <span class="acl-fixed-case">E</span>nglish Word
+    Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1037
+  year: '2007'
+S07-1038:
+  address: Prague, Czech Republic
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Bertjan
+    full: Bertjan Busser
+    id: bertjan-busser
+    last: Busser
+  author_string: Roser Morante, Bertjan Busser
+  bibkey: morante-busser-2007-ilk2
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '183'
+  page_last: '186'
+  pages: "183\u2013186"
+  paper_id: '38'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1038.jpg
+  title: 'ILK2: Semantic Role Labeling of Catalan and Spanish using TiMBL'
+  title_html: '<span class="acl-fixed-case">ILK</span>2: Semantic Role Labeling of
+    <span class="acl-fixed-case">C</span>atalan and <span class="acl-fixed-case">S</span>panish
+    using <span class="acl-fixed-case">T</span>i<span class="acl-fixed-case">MBL</span>'
+  url: https://www.aclweb.org/anthology/S07-1038
+  year: '2007'
+S07-1039:
+  address: Prague, Czech Republic
+  author:
+  - first: Iris
+    full: Iris Hendrickx
+    id: iris-hendrickx
+    last: Hendrickx
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  - first: Antal
+    full: Antal van den Bosch
+    id: antal-van-den-bosch
+    last: van den Bosch
+  author_string: Iris Hendrickx, Roser Morante, Caroline Sporleder, Antal van den
+    Bosch
+  bibkey: hendrickx-etal-2007-ilk
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '187'
+  page_last: '190'
+  pages: "187\u2013190"
+  paper_id: '39'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1039.jpg
+  title: 'ILK: Machine learning of semantic relations with shallow features and almost
+    no data'
+  title_html: '<span class="acl-fixed-case">ILK</span>: Machine learning of semantic
+    relations with shallow features and almost no data'
+  url: https://www.aclweb.org/anthology/S07-1039
+  year: '2007'
+S07-1040:
+  address: Prague, Czech Republic
+  author:
+  - first: Octavian
+    full: Octavian Popescu
+    id: octavian-popescu
+    last: Popescu
+  - first: Sara
+    full: Sara Tonelli
+    id: sara-tonelli
+    last: Tonelli
+  - first: Emanuele
+    full: Emanuele Pianta
+    id: emanuele-pianta
+    last: Pianta
+  author_string: Octavian Popescu, Sara Tonelli, Emanuele Pianta
+  bibkey: popescu-etal-2007-irst
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '191'
+  page_last: '194'
+  pages: "191\u2013194"
+  paper_id: '40'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1040.jpg
+  title: 'IRST-BP: Preposition Disambiguation based on Chain Clarifying Relationships
+    Contexts'
+  title_html: '<span class="acl-fixed-case">IRST</span>-<span class="acl-fixed-case">BP</span>:
+    Preposition Disambiguation based on Chain Clarifying Relationships Contexts'
+  url: https://www.aclweb.org/anthology/S07-1040
+  year: '2007'
+S07-1041:
+  address: Prague, Czech Republic
+  author:
+  - first: Octavian
+    full: Octavian Popescu
+    id: octavian-popescu
+    last: Popescu
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  author_string: Octavian Popescu, Bernardo Magnini
+  bibkey: popescu-magnini-2007-irst
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '195'
+  page_last: '198'
+  pages: "195\u2013198"
+  paper_id: '41'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1041.jpg
+  title: 'IRST-BP: Web People Search Using Name Entities'
+  title_html: '<span class="acl-fixed-case">IRST</span>-<span class="acl-fixed-case">BP</span>:
+    Web People Search Using Name Entities'
+  url: https://www.aclweb.org/anthology/S07-1041
+  year: '2007'
+S07-1042:
+  address: Prague, Czech Republic
+  author:
+  - first: Delip
+    full: Delip Rao
+    id: delip-rao
+    last: Rao
+  - first: Nikesh
+    full: Nikesh Garera
+    id: nikesh-garera
+    last: Garera
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Delip Rao, Nikesh Garera, David Yarowsky
+  bibkey: rao-etal-2007-jhu1
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '199'
+  page_last: '202'
+  pages: "199\u2013202"
+  paper_id: '42'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1042.jpg
+  title: 'JHU1 : An Unsupervised Approach to Person Name Disambiguation using Web
+    Snippets'
+  title_html: '<span class="acl-fixed-case">JHU</span>1 : An Unsupervised Approach
+    to Person Name Disambiguation using Web Snippets'
+  url: https://www.aclweb.org/anthology/S07-1042
+  year: '2007'
+S07-1043:
+  address: Prague, Czech Republic
+  author:
+  - first: Sudip Kumar
+    full: Sudip Kumar Naskar
+    id: sudip-kumar-naskar
+    last: Naskar
+  - first: Sivaji
+    full: Sivaji Bandyopadhyay
+    id: sivaji-bandyopadhyay
+    last: Bandyopadhyay
+  author_string: Sudip Kumar Naskar, Sivaji Bandyopadhyay
+  bibkey: naskar-bandyopadhyay-2007-ju
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '203'
+  page_last: '206'
+  pages: "203\u2013206"
+  paper_id: '43'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1043.jpg
+  title: 'JU-SKNSB: Extended WordNet Based WSD on the English All-Words Task at SemEval-1'
+  title_html: '<span class="acl-fixed-case">JU</span>-<span class="acl-fixed-case">SKNSB</span>:
+    Extended <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et
+    Based <span class="acl-fixed-case">WSD</span> on the <span class="acl-fixed-case">E</span>nglish
+    All-Words Task at <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-1'
+  url: https://www.aclweb.org/anthology/S07-1043
+  year: '2007'
+S07-1044:
+  address: Prague, Czech Republic
+  author:
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  author_string: Deniz Yuret
+  bibkey: yuret-2007-ku
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '207'
+  page_last: '214'
+  pages: "207\u2013214"
+  paper_id: '44'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1044.jpg
+  title: 'KU: Word Sense Disambiguation by Substitution'
+  title_html: '<span class="acl-fixed-case">KU</span>: Word Sense Disambiguation by
+    Substitution'
+  url: https://www.aclweb.org/anthology/S07-1044
+  year: '2007'
+S07-1045:
+  address: Prague, Czech Republic
+  author:
+  - first: Adriana
+    full: Adriana Badulescu
+    id: adriana-badulescu
+    last: Badulescu
+  - first: Munirathnam
+    full: Munirathnam Srikanth
+    id: munirathnam-srikanth
+    last: Srikanth
+  author_string: Adriana Badulescu, Munirathnam Srikanth
+  bibkey: badulescu-srikanth-2007-lcc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '215'
+  page_last: '218'
+  pages: "215\u2013218"
+  paper_id: '45'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1045.jpg
+  title: "LCC-SRN: LCC\u2019s SRN System for SemEval 2007 Task 4"
+  title_html: "LCC-SRN: LCC\u2019s SRN System for SemEval 2007 Task 4"
+  url: https://www.aclweb.org/anthology/S07-1045
+  year: '2007'
+S07-1046:
+  address: Prague, Czech Republic
+  author:
+  - first: Congmin
+    full: Congmin Min
+    id: congmin-min
+    last: Min
+  - first: Munirathnam
+    full: Munirathnam Srikanth
+    id: munirathnam-srikanth
+    last: Srikanth
+  - first: Abraham
+    full: Abraham Fowler
+    id: abraham-fowler
+    last: Fowler
+  author_string: Congmin Min, Munirathnam Srikanth, Abraham Fowler
+  bibkey: min-etal-2007-lcc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '219'
+  page_last: '222'
+  pages: "219\u2013222"
+  paper_id: '46'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1046.jpg
+  title: 'LCC-TE: A Hybrid Approach to Temporal Relation Identification in News Text'
+  title_html: '<span class="acl-fixed-case">LCC</span>-<span class="acl-fixed-case">TE</span>:
+    A Hybrid Approach to Temporal Relation Identification in News Text'
+  url: https://www.aclweb.org/anthology/S07-1046
+  year: '2007'
+S07-1047:
+  address: Prague, Czech Republic
+  author:
+  - first: Adrian
+    full: Adrian Novischi
+    id: adrian-novischi
+    last: Novischi
+  - first: Muirathnam
+    full: Muirathnam Srikanth
+    id: munirathnam-srikanth
+    last: Srikanth
+  - first: Andrew
+    full: Andrew Bennett
+    id: andrew-bennett
+    last: Bennett
+  author_string: Adrian Novischi, Muirathnam Srikanth, Andrew Bennett
+  bibkey: novischi-etal-2007-lcc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '223'
+  page_last: '226'
+  pages: "223\u2013226"
+  paper_id: '47'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1047.jpg
+  title: 'LCC-WSD: System Description for English Coarse Grained All Words Task at
+    SemEval 2007'
+  title_html: '<span class="acl-fixed-case">LCC</span>-<span class="acl-fixed-case">WSD</span>:
+    System Description for <span class="acl-fixed-case">E</span>nglish Coarse Grained
+    All Words Task at <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val
+    2007'
+  url: https://www.aclweb.org/anthology/S07-1047
+  year: '2007'
+S07-1048:
+  address: Prague, Czech Republic
+  author:
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  - first: Pierre
+    full: Pierre Nugues
+    id: pierre-nugues
+    last: Nugues
+  author_string: Richard Johansson, Pierre Nugues
+  bibkey: johansson-nugues-2007-lth
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '227'
+  page_last: '230'
+  pages: "227\u2013230"
+  paper_id: '48'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1048.jpg
+  title: 'LTH: Semantic Structure Extraction using Nonprojective Dependency Trees'
+  title_html: '<span class="acl-fixed-case">LTH</span>: Semantic Structure Extraction
+    using Nonprojective Dependency Trees'
+  url: https://www.aclweb.org/anthology/S07-1048
+  year: '2007'
+S07-1049:
+  address: Prague, Czech Republic
+  author:
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Su Nam Kim, Timothy Baldwin
+  bibkey: kim-baldwin-2007-melb
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '231'
+  page_last: '236'
+  pages: "231\u2013236"
+  paper_id: '49'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1049.jpg
+  title: 'MELB-KB: Nominal Classification as Noun Compound Interpretation'
+  title_html: '<span class="acl-fixed-case">MELB</span>-<span class="acl-fixed-case">KB</span>:
+    Nominal Classification as Noun Compound Interpretation'
+  url: https://www.aclweb.org/anthology/S07-1049
+  year: '2007'
+S07-1050:
+  address: Prague, Czech Republic
+  author:
+  - first: David
+    full: David Martinez
+    id: david-martinez
+    last: Martinez
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: David Martinez, Su Nam Kim, Timothy Baldwin
+  bibkey: martinez-etal-2007-melb
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '237'
+  page_last: '240'
+  pages: "237\u2013240"
+  paper_id: '50'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1050.jpg
+  title: 'MELB-MKB: Lexical Substitution system based on Relatives in Context'
+  title_html: '<span class="acl-fixed-case">MELB</span>-<span class="acl-fixed-case">MKB</span>:
+    Lexical Substitution system based on Relatives in Context'
+  url: https://www.aclweb.org/anthology/S07-1050
+  year: '2007'
+S07-1051:
+  address: Prague, Czech Republic
+  author:
+  - first: Patrick
+    full: Patrick Ye
+    id: patrick-ye
+    last: Ye
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Patrick Ye, Timothy Baldwin
+  bibkey: ye-baldwin-2007-melb
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '241'
+  page_last: '244'
+  pages: "241\u2013244"
+  paper_id: '51'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1051.jpg
+  title: 'MELB-YB: Preposition Sense Disambiguation Using Rich Semantic Features'
+  title_html: '<span class="acl-fixed-case">MELB</span>-<span class="acl-fixed-case">YB</span>:
+    Preposition Sense Disambiguation Using Rich Semantic Features'
+  url: https://www.aclweb.org/anthology/S07-1051
+  year: '2007'
+S07-1052:
+  address: Prague, Czech Republic
+  author:
+  - first: Yuchang
+    full: Yuchang Cheng
+    id: yuchang-cheng
+    last: Cheng
+  - first: Masayuki
+    full: Masayuki Asahara
+    id: masayuki-asahara
+    last: Asahara
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Yuchang Cheng, Masayuki Asahara, Yuji Matsumoto
+  bibkey: cheng-etal-2007-naist
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '245'
+  page_last: '248'
+  pages: "245\u2013248"
+  paper_id: '52'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1052.jpg
+  title: 'NAIST.Japan: Temporal Relation Identification Using Dependency Parsed Tree'
+  title_html: '<span class="acl-fixed-case">NAIST</span>.<span class="acl-fixed-case">J</span>apan:
+    Temporal Relation Identification Using Dependency Parsed Tree'
+  url: https://www.aclweb.org/anthology/S07-1052
+  year: '2007'
+S07-1053:
+  address: Prague, Czech Republic
+  author:
+  - first: Jun Fu
+    full: Jun Fu Cai
+    id: jun-fu-cai
+    last: Cai
+  - first: Wee Sun
+    full: Wee Sun Lee
+    id: wee-sun-lee
+    last: Lee
+  - first: Yee Whye
+    full: Yee Whye Teh
+    id: yee-whye-teh
+    last: Teh
+  author_string: Jun Fu Cai, Wee Sun Lee, Yee Whye Teh
+  bibkey: cai-etal-2007-nus
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '249'
+  page_last: '252'
+  pages: "249\u2013252"
+  paper_id: '53'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1053.jpg
+  title: NUS-ML:Improving Word Sense Disambiguation Using Topic Features
+  title_html: <span class="acl-fixed-case">NUS</span>-<span class="acl-fixed-case">ML</span>:Improving
+    Word Sense Disambiguation Using Topic Features
+  url: https://www.aclweb.org/anthology/S07-1053
+  year: '2007'
+S07-1054:
+  address: Prague, Czech Republic
+  author:
+  - first: Yee Seng
+    full: Yee Seng Chan
+    id: yee-seng-chan
+    last: Chan
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Zhi
+    full: Zhi Zhong
+    id: zhi-zhong
+    last: Zhong
+  author_string: Yee Seng Chan, Hwee Tou Ng, Zhi Zhong
+  bibkey: chan-etal-2007-nus
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '253'
+  page_last: '256'
+  pages: "253\u2013256"
+  paper_id: '54'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1054.jpg
+  title: 'NUS-PT: Exploiting Parallel Texts for Word Sense Disambiguation in the English
+    All-Words Tasks'
+  title_html: '<span class="acl-fixed-case">NUS</span>-<span class="acl-fixed-case">PT</span>:
+    Exploiting Parallel Texts for Word Sense Disambiguation in the <span class="acl-fixed-case">E</span>nglish
+    All-Words Tasks'
+  url: https://www.aclweb.org/anthology/S07-1054
+  year: '2007'
+S07-1055:
+  address: Prague, Czech Republic
+  author:
+  - first: Harri M. T.
+    full: Harri M. T. Saarikoski
+    id: harri-m-t-saarikoski
+    last: Saarikoski
+  author_string: Harri M. T. Saarikoski
+  bibkey: saarikoski-2007-oe
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '257'
+  page_last: '260'
+  pages: "257\u2013260"
+  paper_id: '55'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1055.jpg
+  title: 'OE: WSD Using Optimal Ensembling (OE) Method'
+  title_html: '<span class="acl-fixed-case">OE</span>: WSD Using Optimal Ensembling
+    (<span class="acl-fixed-case">OE</span>) Method'
+  url: https://www.aclweb.org/anthology/S07-1055
+  year: '2007'
+S07-1056:
+  address: Prague, Czech Republic
+  author:
+  - first: Peng
+    full: Peng Jin
+    id: peng-jin
+    last: Jin
+  - first: Danqing
+    full: Danqing Zhu
+    id: danqing-zhu
+    last: Zhu
+  - first: Fuxin
+    full: Fuxin Li
+    id: fuxin-li
+    last: Li
+  - first: Yunfang
+    full: Yunfang Wu
+    id: yunfang-wu
+    last: Wu
+  author_string: Peng Jin, Danqing Zhu, Fuxin Li, Yunfang Wu
+  bibkey: jin-etal-2007-pku
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '261'
+  page_last: '263'
+  pages: "261\u2013263"
+  paper_id: '56'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1056.jpg
+  title: 'PKU: Combining Supervised Classifiers with Features Selection'
+  title_html: '<span class="acl-fixed-case">PKU</span>: Combining Supervised Classifiers
+    with Features Selection'
+  url: https://www.aclweb.org/anthology/S07-1056
+  year: '2007'
+S07-1057:
+  address: Prague, Czech Republic
+  author:
+  - first: Stephen
+    full: Stephen Tratz
+    id: stephen-tratz
+    last: Tratz
+  - first: Antonio
+    full: Antonio Sanfilippo
+    id: antonio-sanfilippo
+    last: Sanfilippo
+  - first: Michelle
+    full: Michelle Gregory
+    id: michelle-gregory
+    last: Gregory
+  - first: Alan
+    full: Alan Chappell
+    id: alan-chappell
+    last: Chappell
+  - first: Christian
+    full: Christian Posse
+    id: christian-posse
+    last: Posse
+  - first: Paul
+    full: Paul Whitney
+    id: paul-whitney
+    last: Whitney
+  author_string: Stephen Tratz, Antonio Sanfilippo, Michelle Gregory, Alan Chappell,
+    Christian Posse, Paul Whitney
+  bibkey: tratz-etal-2007-pnnl
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '264'
+  page_last: '267'
+  pages: "264\u2013267"
+  paper_id: '57'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1057.jpg
+  title: 'PNNL: A Supervised Maximum Entropy Approach to Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">PNNL</span>: A Supervised Maximum Entropy
+    Approach to Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1057
+  year: '2007'
+S07-1058:
+  address: Prague, Czech Republic
+  author:
+  - first: Ergin
+    full: Ergin Elmacioglu
+    id: ergin-elmacioglu
+    last: Elmacioglu
+  - first: Yee Fan
+    full: Yee Fan Tan
+    id: yee-fan-tan
+    last: Tan
+  - first: Su
+    full: Su Yan
+    id: su-yan
+    last: Yan
+  - first: Min-Yen
+    full: Min-Yen Kan
+    id: min-yen-kan
+    last: Kan
+  - first: Dongwon
+    full: Dongwon Lee
+    id: dongwon-lee
+    last: Lee
+  author_string: Ergin Elmacioglu, Yee Fan Tan, Su Yan, Min-Yen Kan, Dongwon Lee
+  bibkey: elmacioglu-etal-2007-psnus
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '268'
+  page_last: '271'
+  pages: "268\u2013271"
+  paper_id: '58'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1058.jpg
+  title: 'PSNUS: Web People Name Disambiguation by Simple Clustering with Rich Features'
+  title_html: '<span class="acl-fixed-case">PSNUS</span>: Web People Name Disambiguation
+    by Simple Clustering with Rich Features'
+  url: https://www.aclweb.org/anthology/S07-1058
+  year: '2007'
+S07-1059:
+  address: Prague, Czech Republic
+  author:
+  - first: Jonathan
+    full: Jonathan Chang
+    id: jonathan-chang
+    last: Chang
+  - first: Miroslav
+    full: "Miroslav Dud\xEDk"
+    id: miroslav-dudik
+    last: "Dud\xEDk"
+  - first: David
+    full: David Blei
+    id: david-blei
+    last: Blei
+  author_string: "Jonathan Chang, Miroslav Dud\xEDk, David Blei"
+  bibkey: chang-etal-2007-pu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '272'
+  page_last: '276'
+  pages: "272\u2013276"
+  paper_id: '59'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1059.jpg
+  title: 'PU-BCD: Exponential Family Models for the Coarse- and Fine-Grained All-Words
+    Tasks'
+  title_html: '<span class="acl-fixed-case">PU</span>-<span class="acl-fixed-case">BCD</span>:
+    Exponential Family Models for the Coarse- and Fine-Grained All-Words Tasks'
+  url: https://www.aclweb.org/anthology/S07-1059
+  year: '2007'
+S07-1060:
+  address: Prague, Czech Republic
+  author:
+  - first: Jordan
+    full: Jordan Boyd-Graber
+    id: jordan-boyd-graber
+    last: Boyd-Graber
+  - first: David
+    full: David Blei
+    id: david-blei
+    last: Blei
+  author_string: Jordan Boyd-Graber, David Blei
+  bibkey: boyd-graber-blei-2007-putop
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '277'
+  page_last: '281'
+  pages: "277\u2013281"
+  paper_id: '60'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1060.jpg
+  title: 'PUTOP: Turning Predominant Senses into a Topic Model for Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">PUTOP</span>: Turning Predominant Senses
+    into a Topic Model for Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1060
+  year: '2007'
+S07-1061:
+  address: Prague, Czech Republic
+  author:
+  - first: Radu
+    full: Radu Ion
+    id: radu-ion
+    last: Ion
+  - first: Dan
+    full: "Dan Tufi\u015F"
+    id: dan-tufis
+    last: "Tufi\u015F"
+  author_string: "Radu Ion, Dan Tufi\u015F"
+  bibkey: ion-tufis-2007-racai
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '282'
+  page_last: '287'
+  pages: "282\u2013287"
+  paper_id: '61'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1061.jpg
+  title: 'RACAI: Meaning Affinity Models'
+  title_html: '<span class="acl-fixed-case">RACAI</span>: Meaning Affinity Models'
+  url: https://www.aclweb.org/anthology/S07-1061
+  year: '2007'
+S07-1062:
+  address: Prague, Czech Republic
+  author:
+  - first: Daniele
+    full: Daniele Pighin
+    id: daniele-pighin
+    last: Pighin
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  author_string: Daniele Pighin, Alessandro Moschitti, Roberto Basili
+  bibkey: pighin-etal-2007-rtv
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '288'
+  page_last: '291'
+  pages: "288\u2013291"
+  paper_id: '62'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1062.jpg
+  title: 'RTV: Tree Kernels for Thematic Role Classification'
+  title_html: '<span class="acl-fixed-case">RTV</span>: Tree Kernels for Thematic
+    Role Classification'
+  url: https://www.aclweb.org/anthology/S07-1062
+  year: '2007'
+S07-1063:
+  address: Prague, Czech Republic
+  author:
+  - first: Horacio
+    full: Horacio Saggion
+    id: horacio-saggion
+    last: Saggion
+  author_string: Horacio Saggion
+  bibkey: saggion-2007-shef
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '292'
+  page_last: '295'
+  pages: "292\u2013295"
+  paper_id: '63'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1063.jpg
+  title: 'SHEF: Semantic Tagging and Summarization Techniques Applied to Cross-document
+    Coreference'
+  title_html: '<span class="acl-fixed-case">SHEF</span>: Semantic Tagging and Summarization
+    Techniques Applied to Cross-document Coreference'
+  url: https://www.aclweb.org/anthology/S07-1063
+  year: '2007'
+S07-1064:
+  address: Prague, Czech Republic
+  author:
+  - first: Magnus
+    full: Magnus Sahlgren
+    id: magnus-sahlgren
+    last: Sahlgren
+  - first: Jussi
+    full: Jussi Karlgren
+    id: jussi-karlgren
+    last: Karlgren
+  - first: Gunnar
+    full: Gunnar Eriksson
+    id: gunnar-eriksson
+    last: Eriksson
+  author_string: Magnus Sahlgren, Jussi Karlgren, Gunnar Eriksson
+  bibkey: sahlgren-etal-2007-sics
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '296'
+  page_last: '299'
+  pages: "296\u2013299"
+  paper_id: '64'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1064.jpg
+  title: 'SICS: Valence annotation based on seeds in word space'
+  title_html: '<span class="acl-fixed-case">SICS</span>: Valence annotation based
+    on seeds in word space'
+  url: https://www.aclweb.org/anthology/S07-1064
+  year: '2007'
+S07-1065:
+  address: Prague, Czech Republic
+  author:
+  - first: Yun
+    full: Yun Xing
+    id: yun-xing
+    last: Xing
+  author_string: Yun Xing
+  bibkey: xing-2007-srcb
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '300'
+  page_last: '303'
+  pages: "300\u2013303"
+  paper_id: '65'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1065.jpg
+  title: 'SRCB-WSD: Supervised Chinese Word Sense Disambiguation with Key Features'
+  title_html: '<span class="acl-fixed-case">SRCB</span>-<span class="acl-fixed-case">WSD</span>:
+    Supervised <span class="acl-fixed-case">C</span>hinese Word Sense Disambiguation
+    with Key Features'
+  url: https://www.aclweb.org/anthology/S07-1065
+  year: '2007'
+S07-1066:
+  address: Prague, Czech Republic
+  author:
+  - first: George
+    full: George Dahl
+    id: george-dahl
+    last: Dahl
+  - first: Anne-Marie
+    full: Anne-Marie Frassica
+    id: anne-marie-frassica
+    last: Frassica
+  - first: Richard
+    full: Richard Wicentowski
+    id: richard-wicentowski
+    last: Wicentowski
+  author_string: George Dahl, Anne-Marie Frassica, Richard Wicentowski
+  bibkey: dahl-etal-2007-sw
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '304'
+  page_last: '307'
+  pages: "304\u2013307"
+  paper_id: '66'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1066.jpg
+  title: 'SW-AG: Local Context Matching for English Lexical Substitution'
+  title_html: '<span class="acl-fixed-case">SW</span>-<span class="acl-fixed-case">AG</span>:
+    Local Context Matching for <span class="acl-fixed-case">E</span>nglish Lexical
+    Substitution'
+  url: https://www.aclweb.org/anthology/S07-1066
+  year: '2007'
+S07-1067:
+  address: Prague, Czech Republic
+  author:
+  - first: Phil
+    full: Phil Katz
+    id: phil-katz
+    last: Katz
+  - first: Matt
+    full: Matt Singleton
+    id: matt-singleton
+    last: Singleton
+  - first: Richard
+    full: Richard Wicentowski
+    id: richard-wicentowski
+    last: Wicentowski
+  author_string: Phil Katz, Matt Singleton, Richard Wicentowski
+  bibkey: katz-etal-2007-swat
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '308'
+  page_last: '313'
+  pages: "308\u2013313"
+  paper_id: '67'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1067.jpg
+  title: SWAT-MP:The SemEval-2007 Systems for Task 5 and Task 14
+  title_html: <span class="acl-fixed-case">SWAT</span>-<span class="acl-fixed-case">MP</span>:The
+    <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007
+    Systems for Task 5 and Task 14
+  url: https://www.aclweb.org/anthology/S07-1067
+  year: '2007'
+S07-1068:
+  address: Prague, Czech Republic
+  author:
+  - first: Rob
+    full: Rob Koeling
+    id: rob-koeling
+    last: Koeling
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  author_string: Rob Koeling, Diana McCarthy
+  bibkey: koeling-mccarthy-2007-sussx
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '314'
+  page_last: '317'
+  pages: "314\u2013317"
+  paper_id: '68'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1068.jpg
+  title: 'Sussx: WSD using Automatically Acquired Predominant Senses'
+  title_html: '<span class="acl-fixed-case">S</span>ussx: <span class="acl-fixed-case">WSD</span>
+    using Automatically Acquired Predominant Senses'
+  url: https://www.aclweb.org/anthology/S07-1068
+  year: '2007'
+S07-1069:
+  address: Prague, Czech Republic
+  author:
+  - first: Kazunari
+    full: Kazunari Sugiyama
+    id: kazunari-sugiyama
+    last: Sugiyama
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  author_string: Kazunari Sugiyama, Manabu Okumura
+  bibkey: sugiyama-okumura-2007-titpi
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '318'
+  page_last: '321'
+  pages: "318\u2013321"
+  paper_id: '69'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1069.jpg
+  title: 'TITPI: Web People Search Task Using Semi-Supervised Clustering Approach'
+  title_html: '<span class="acl-fixed-case">TITPI</span>: Web People Search Task Using
+    Semi-Supervised Clustering Approach'
+  url: https://www.aclweb.org/anthology/S07-1069
+  year: '2007'
+S07-1070:
+  address: Prague, Czech Republic
+  author:
+  - first: Henry
+    full: "Henry Anaya-S\xE1nchez"
+    id: henry-anaya-sanchez
+    last: "Anaya-S\xE1nchez"
+  - first: Aurora
+    full: Aurora Pons-Porrata
+    id: aurora-pons-porrata
+    last: Pons-Porrata
+  - first: Rafael
+    full: Rafael Berlanga-Llavori
+    id: rafael-berlanga-llavori
+    last: Berlanga-Llavori
+  author_string: "Henry Anaya-S\xE1nchez, Aurora Pons-Porrata, Rafael Berlanga-Llavori"
+  bibkey: anaya-sanchez-etal-2007-tkb
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '322'
+  page_last: '325'
+  pages: "322\u2013325"
+  paper_id: '70'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1070.jpg
+  title: 'TKB-UO: Using Sense Clustering for WSD'
+  title_html: '<span class="acl-fixed-case">TKB</span>-<span class="acl-fixed-case">UO</span>:
+    Using Sense Clustering for <span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S07-1070
+  year: '2007'
+S07-1071:
+  address: Prague, Czech Republic
+  author:
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Saif Mohammad, Graeme Hirst, Philip Resnik
+  bibkey: mohammad-etal-2007-tor
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '326'
+  page_last: '333'
+  pages: "326\u2013333"
+  paper_id: '71'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1071.jpg
+  title: 'Tor, TorMd: Distributional Profiles of Concepts for Unsupervised Word Sense
+    Disambiguation'
+  title_html: 'Tor, <span class="acl-fixed-case">T</span>or<span class="acl-fixed-case">M</span>d:
+    Distributional Profiles of Concepts for Unsupervised Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1071
+  year: '2007'
+S07-1072:
+  address: Prague, Czech Republic
+  author:
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  - first: Borja
+    full: Borja Navarro
+    id: borja-navarro
+    last: Navarro
+  - first: Sonia
+    full: "Sonia V\xE1zquez"
+    id: sonia-vazquez
+    last: "V\xE1zquez"
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo"
+    id: andres-montoyo
+    last: Montoyo
+  author_string: "Zornitsa Kozareva, Borja Navarro, Sonia V\xE1zquez, Andr\xE9s Montoyo"
+  bibkey: kozareva-etal-2007-ua
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '334'
+  page_last: '337'
+  pages: "334\u2013337"
+  paper_id: '72'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1072.jpg
+  title: 'UA-ZBSA: A Headline Emotion Classification through Web Information'
+  title_html: '<span class="acl-fixed-case">UA</span>-<span class="acl-fixed-case">ZBSA</span>:
+    A Headline Emotion Classification through Web Information'
+  url: https://www.aclweb.org/anthology/S07-1072
+  year: '2007'
+S07-1073:
+  address: Prague, Czech Republic
+  author:
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  - first: Sonia
+    full: Sonia Vazquez
+    id: sonia-vazquez
+    last: Vazquez
+  - first: Andres
+    full: Andres Montoyo
+    id: andres-montoyo
+    last: Montoyo
+  author_string: Zornitsa Kozareva, Sonia Vazquez, Andres Montoyo
+  bibkey: kozareva-etal-2007-ua-zsa
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '338'
+  page_last: '341'
+  pages: "338\u2013341"
+  paper_id: '73'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1073.jpg
+  title: 'UA-ZSA: Web Page Clustering on the basis of Name Disambiguation'
+  title_html: '<span class="acl-fixed-case">UA</span>-<span class="acl-fixed-case">ZSA</span>:
+    Web Page Clustering on the basis of Name Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1073
+  year: '2007'
+S07-1074:
+  address: Prague, Czech Republic
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Oier
+    full: Oier Lopez de Lacalle
+    id: oier-lopez-de-lacalle
+    last: Lopez de Lacalle
+  author_string: Eneko Agirre, Oier Lopez de Lacalle
+  bibkey: agirre-lopez-de-lacalle-2007-ubc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '342'
+  page_last: '345'
+  pages: "342\u2013345"
+  paper_id: '74'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1074.jpg
+  title: 'UBC-ALM: Combining k-NN with SVD for WSD'
+  title_html: 'UBC-ALM: Combining k-NN with SVD for WSD'
+  url: https://www.aclweb.org/anthology/S07-1074
+  year: '2007'
+S07-1075:
+  address: Prague, Czech Republic
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Aitor
+    full: Aitor Soroa
+    id: aitor-soroa
+    last: Soroa
+  author_string: Eneko Agirre, Aitor Soroa
+  bibkey: agirre-soroa-2007-ubc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '346'
+  page_last: '349'
+  pages: "346\u2013349"
+  paper_id: '75'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1075.jpg
+  title: 'UBC-AS: A Graph Based Unsupervised System for Induction and Classification'
+  title_html: '<span class="acl-fixed-case">UBC</span>-<span class="acl-fixed-case">AS</span>:
+    A Graph Based Unsupervised System for Induction and Classification'
+  url: https://www.aclweb.org/anthology/S07-1075
+  year: '2007'
+S07-1076:
+  address: Prague, Czech Republic
+  author:
+  - first: David
+    full: David Martinez
+    id: david-martinez
+    last: Martinez
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Oier
+    full: Oier Lopez de Lacalle
+    id: oier-lopez-de-lacalle
+    last: Lopez de Lacalle
+  author_string: David Martinez, Timothy Baldwin, Eneko Agirre, Oier Lopez de Lacalle
+  bibkey: martinez-etal-2007-ubc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '350'
+  page_last: '353'
+  pages: "350\u2013353"
+  paper_id: '76'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1076.jpg
+  title: 'UBC-UMB: Combining unsupervised and supervised systems for all-words WSD'
+  title_html: '<span class="acl-fixed-case">UBC</span>-<span class="acl-fixed-case">UMB</span>:
+    Combining unsupervised and supervised systems for all-words <span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S07-1076
+  year: '2007'
+S07-1077:
+  address: Prague, Czech Republic
+  author:
+  - first: "Be\xF1at"
+    full: "Be\xF1at Zapirain"
+    id: benat-zapirain
+    last: Zapirain
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  author_string: "Be\xF1at Zapirain, Eneko Agirre, Llu\xEDs M\xE0rquez"
+  bibkey: zapirain-etal-2007-ubc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '354'
+  page_last: '357'
+  pages: "354\u2013357"
+  paper_id: '77'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1077.jpg
+  title: 'UBC-UPC: Sequential SRL Using Selectional Preferences. An approach with
+    Maximum Entropy Markov Models'
+  title_html: '<span class="acl-fixed-case">UBC</span>-<span class="acl-fixed-case">UPC</span>:
+    Sequential <span class="acl-fixed-case">SRL</span> Using Selectional Preferences.
+    An approach with Maximum Entropy <span class="acl-fixed-case">M</span>arkov Models'
+  url: https://www.aclweb.org/anthology/S07-1077
+  year: '2007'
+S07-1078:
+  address: Prague, Czech Republic
+  author:
+  - first: Ana
+    full: Ana Zelaia
+    id: ana-zelaia
+    last: Zelaia
+  - first: Olatz
+    full: Olatz Arregi
+    id: olatz-arregi
+    last: Arregi
+  - first: Basilio
+    full: Basilio Sierra
+    id: basilio-sierra
+    last: Sierra
+  author_string: Ana Zelaia, Olatz Arregi, Basilio Sierra
+  bibkey: zelaia-etal-2007-ubc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '358'
+  page_last: '361'
+  pages: "358\u2013361"
+  paper_id: '78'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1078.jpg
+  title: 'UBC-ZAS: A k-NN based Multiclassifier System to perform WSD in a Reduced
+    Dimensional Vector Space'
+  title_html: '<span class="acl-fixed-case">UBC</span>-<span class="acl-fixed-case">ZAS</span>:
+    A k-<span class="acl-fixed-case">NN</span> based Multiclassifier System to perform
+    <span class="acl-fixed-case">WSD</span> in a Reduced Dimensional Vector Space'
+  url: https://www.aclweb.org/anthology/S07-1078
+  year: '2007'
+S07-1079:
+  address: Prague, Czech Republic
+  author:
+  - first: David
+    full: David del Valle-Agudo
+    id: david-del-valle-agudo
+    last: del Valle-Agudo
+  - first: "C\xE9sar"
+    full: "C\xE9sar de Pablo-S\xE1nchez"
+    id: cesar-de-pablo-sanchez
+    last: "de Pablo-S\xE1nchez"
+  - first: "Mar\xEDa Teresa"
+    full: "Mar\xEDa Teresa Vicente-D\xEDez"
+    id: maria-teresa-vicente-diez
+    last: "Vicente-D\xEDez"
+  author_string: "David del Valle-Agudo, C\xE9sar de Pablo-S\xE1nchez, Mar\xEDa Teresa\
+    \ Vicente-D\xEDez"
+  bibkey: del-valle-agudo-etal-2007-uc3m
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '362'
+  page_last: '365'
+  pages: "362\u2013365"
+  paper_id: '79'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1079.jpg
+  title: 'UC3M_13: Disambiguation of Person Names Based on the Composition of Simple
+    Bags of Typed Terms'
+  title_html: '<span class="acl-fixed-case">UC</span>3<span class="acl-fixed-case">M</span>_13:
+    Disambiguation of Person Names Based on the Composition of Simple Bags of Typed
+    Terms'
+  url: https://www.aclweb.org/anthology/S07-1079
+  year: '2007'
+S07-1080:
+  address: Prague, Czech Republic
+  author:
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Marti
+    full: Marti Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Preslav Nakov, Marti Hearst
+  bibkey: nakov-hearst-2007-ucb-system
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '366'
+  page_last: '369'
+  pages: "366\u2013369"
+  paper_id: '80'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1080.jpg
+  title: 'UCB: System Description for SemEval Task #4'
+  title_html: '<span class="acl-fixed-case">UCB</span>: System Description for <span
+    class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val Task
+    #4'
+  url: https://www.aclweb.org/anthology/S07-1080
+  year: '2007'
+S07-1081:
+  address: Prague, Czech Republic
+  author:
+  - first: Fintan J.
+    full: Fintan J. Costello
+    id: fintan-j-costello
+    last: Costello
+  author_string: Fintan J. Costello
+  bibkey: costello-2007-ucd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '370'
+  page_last: '373'
+  pages: "370\u2013373"
+  paper_id: '81'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1081.jpg
+  title: 'UCD-FC: Deducing semantic relations using WordNet senses that occur frequently
+    in a database of noun-noun compounds'
+  title_html: '<span class="acl-fixed-case">UCD</span>-<span class="acl-fixed-case">FC</span>:
+    Deducing semantic relations using <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et senses that occur frequently in a database of
+    noun-noun compounds'
+  url: https://www.aclweb.org/anthology/S07-1081
+  year: '2007'
+S07-1082:
+  address: Prague, Czech Republic
+  author:
+  - first: Paul
+    full: Paul Nulty
+    id: paul-nulty
+    last: Nulty
+  author_string: Paul Nulty
+  bibkey: nulty-2007-ucd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '374'
+  page_last: '377'
+  pages: "374\u2013377"
+  paper_id: '82'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1082.jpg
+  title: 'UCD-PN: Classification of Semantic Relations Between Nominals using WordNet
+    and Web Counts'
+  title_html: '<span class="acl-fixed-case">UCD</span>-<span class="acl-fixed-case">PN</span>:
+    Classification of Semantic Relations Between Nominals using <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et and Web Counts'
+  url: https://www.aclweb.org/anthology/S07-1082
+  year: '2007'
+S07-1083:
+  address: Prague, Czech Republic
+  author:
+  - first: Cristina
+    full: Cristina Butnariu
+    id: cristina-butnariu
+    last: Butnariu
+  - first: Tony
+    full: Tony Veale
+    id: tony-veale
+    last: Veale
+  author_string: Cristina Butnariu, Tony Veale
+  bibkey: butnariu-veale-2007-ucd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '378'
+  page_last: '381'
+  pages: "378\u2013381"
+  paper_id: '83'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1083.jpg
+  title: 'UCD-S1: A hybrid model for detecting semantic relations between noun pairs
+    in text'
+  title_html: '<span class="acl-fixed-case">UCD</span>-S1: A hybrid model for detecting
+    semantic relations between noun pairs in text'
+  url: https://www.aclweb.org/anthology/S07-1083
+  year: '2007'
+S07-1084:
+  address: Prague, Czech Republic
+  author:
+  - first: Isabel
+    full: Isabel Segura Bedmar
+    id: isabel-segura-bedmar
+    last: Segura Bedmar
+  - first: Doaa
+    full: Doaa Samy
+    id: doaa-samy
+    last: Samy
+  - first: Jose L.
+    full: Jose L. Martinez
+    id: jose-l-martinez
+    last: Martinez
+  author_string: Isabel Segura Bedmar, Doaa Samy, Jose L. Martinez
+  bibkey: segura-bedmar-etal-2007-ucm3
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '382'
+  page_last: '385'
+  pages: "382\u2013385"
+  paper_id: '84'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1084.jpg
+  title: 'UCM3: Classification of Semantic Relations between Nominals using Sequential
+    Minimal Optimization'
+  title_html: '<span class="acl-fixed-case">UCM</span>3: Classification of Semantic
+    Relations between Nominals using Sequential Minimal Optimization'
+  url: https://www.aclweb.org/anthology/S07-1084
+  year: '2007'
+S07-1085:
+  address: Prague, Czech Republic
+  author:
+  - first: Brandon
+    full: Brandon Beamer
+    id: brandon-beamer
+    last: Beamer
+  - first: Suma
+    full: Suma Bhat
+    id: suma-bhat
+    last: Bhat
+  - first: Brant
+    full: Brant Chee
+    id: brant-chee
+    last: Chee
+  - first: Andrew
+    full: Andrew Fister
+    id: andrew-fister
+    last: Fister
+  - first: Alla
+    full: Alla Rozovskaya
+    id: alla-rozovskaya
+    last: Rozovskaya
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  author_string: Brandon Beamer, Suma Bhat, Brant Chee, Andrew Fister, Alla Rozovskaya,
+    Roxana Girju
+  bibkey: beamer-etal-2007-uiuc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '386'
+  page_last: '389'
+  pages: "386\u2013389"
+  paper_id: '85'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1085.jpg
+  title: 'UIUC: A Knowledge-rich Approach to Identifying Semantic Relations between
+    Nominals'
+  title_html: '<span class="acl-fixed-case">UIUC</span>: A Knowledge-rich Approach
+    to Identifying Semantic Relations between Nominals'
+  url: https://www.aclweb.org/anthology/S07-1085
+  year: '2007'
+S07-1086:
+  address: Prague, Czech Republic
+  author:
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  - first: Satanjeev
+    full: Satanjeev Banerjee
+    id: satanjeev-banerjee
+    last: Banerjee
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Siddharth Patwardhan, Satanjeev Banerjee, Ted Pedersen
+  bibkey: patwardhan-etal-2007-umnd1
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '390'
+  page_last: '393'
+  pages: "390\u2013393"
+  paper_id: '86'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1086.jpg
+  title: 'UMND1: Unsupervised Word Sense Disambiguation Using Contextual Semantic
+    Relatedness'
+  title_html: '<span class="acl-fixed-case">UMND</span>1: Unsupervised Word Sense
+    Disambiguation Using Contextual Semantic Relatedness'
+  url: https://www.aclweb.org/anthology/S07-1086
+  year: '2007'
+S07-1087:
+  address: Prague, Czech Republic
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Ted Pedersen
+  bibkey: pedersen-2007-umnd2
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '394'
+  page_last: '397'
+  pages: "394\u2013397"
+  paper_id: '87'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1087.jpg
+  title: 'UMND2 : SenseClusters Applied to the Sense Induction Task of Senseval-4'
+  title_html: '<span class="acl-fixed-case">UMND</span>2 : <span class="acl-fixed-case">S</span>ense<span
+    class="acl-fixed-case">C</span>lusters Applied to the Sense Induction Task of
+    Senseval-4'
+  url: https://www.aclweb.org/anthology/S07-1087
+  year: '2007'
+S07-1088:
+  address: Prague, Czech Republic
+  author:
+  - first: Pierpaolo
+    full: Pierpaolo Basile
+    id: pierpaolo-basile
+    last: Basile
+  - first: Marco
+    full: Marco de Gemmis
+    id: marco-de-gemmis
+    last: de Gemmis
+  - first: Anna Lisa
+    full: Anna Lisa Gentile
+    id: anna-lisa-gentile
+    last: Gentile
+  - first: Pasquale
+    full: Pasquale Lops
+    id: pasquale-lops
+    last: Lops
+  - first: Giovanni
+    full: Giovanni Semeraro
+    id: giovanni-semeraro
+    last: Semeraro
+  author_string: Pierpaolo Basile, Marco de Gemmis, Anna Lisa Gentile, Pasquale Lops,
+    Giovanni Semeraro
+  bibkey: basile-etal-2007-uniba
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '398'
+  page_last: '401'
+  pages: "398\u2013401"
+  paper_id: '88'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1088.jpg
+  title: 'UNIBA: JIGSAW algorithm for Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">UNIBA</span>: <span class="acl-fixed-case">JIGSAW</span>
+    algorithm for Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1088
+  year: '2007'
+S07-1089:
+  address: Prague, Czech Republic
+  author:
+  - first: Jeremy
+    full: Jeremy Ellman
+    id: jeremy-ellman
+    last: Ellman
+  - first: Gary
+    full: Gary Emery
+    id: gary-emery
+    last: Emery
+  author_string: Jeremy Ellman, Gary Emery
+  bibkey: ellman-emery-2007-unn
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '402'
+  page_last: '405'
+  pages: "402\u2013405"
+  paper_id: '89'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1089.jpg
+  title: 'UNN-WePS: Web Person Search using co-Present Names and Lexical Chains'
+  title_html: '<span class="acl-fixed-case">UNN</span>-<span class="acl-fixed-case">W</span>e<span
+    class="acl-fixed-case">PS</span>: Web Person Search using co-Present Names and
+    Lexical Chains'
+  url: https://www.aclweb.org/anthology/S07-1089
+  year: '2007'
+S07-1090:
+  address: Prague, Czech Republic
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Andras
+    full: Andras Csomai
+    id: andras-csomai
+    last: Csomai
+  - first: Massimiliano
+    full: Massimiliano Ciaramita
+    id: massimiliano-ciaramita
+    last: Ciaramita
+  author_string: Rada Mihalcea, Andras Csomai, Massimiliano Ciaramita
+  bibkey: mihalcea-etal-2007-unt
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '406'
+  page_last: '409'
+  pages: "406\u2013409"
+  paper_id: '90'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1090.jpg
+  title: 'UNT-Yahoo: SuperSenseLearner: Combining SenseLearner with SuperSense and
+    other Coarse Semantic Features'
+  title_html: '<span class="acl-fixed-case">UNT</span>-Yahoo: <span class="acl-fixed-case">S</span>uper<span
+    class="acl-fixed-case">S</span>ense<span class="acl-fixed-case">L</span>earner:
+    Combining <span class="acl-fixed-case">S</span>ense<span class="acl-fixed-case">L</span>earner
+    with <span class="acl-fixed-case">S</span>uper<span class="acl-fixed-case">S</span>ense
+    and other Coarse Semantic Features'
+  url: https://www.aclweb.org/anthology/S07-1090
+  year: '2007'
+S07-1091:
+  address: Prague, Czech Republic
+  author:
+  - first: Samer
+    full: Samer Hassan
+    id: samer-hassan
+    last: Hassan
+  - first: Andras
+    full: Andras Csomai
+    id: andras-csomai
+    last: Csomai
+  - first: Carmen
+    full: Carmen Banea
+    id: carmen-banea
+    last: Banea
+  - first: Ravi
+    full: Ravi Sinha
+    id: ravi-sinha
+    last: Sinha
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Samer Hassan, Andras Csomai, Carmen Banea, Ravi Sinha, Rada Mihalcea
+  bibkey: hassan-etal-2007-unt
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '410'
+  page_last: '413'
+  pages: "410\u2013413"
+  paper_id: '91'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1091.jpg
+  title: 'UNT: SubFinder: Combining Knowledge Sources for Automatic Lexical Substitution'
+  title_html: '<span class="acl-fixed-case">UNT</span>: <span class="acl-fixed-case">S</span>ub<span
+    class="acl-fixed-case">F</span>inder: Combining Knowledge Sources for Automatic
+    Lexical Substitution'
+  url: https://www.aclweb.org/anthology/S07-1091
+  year: '2007'
+S07-1092:
+  address: Prague, Czech Republic
+  author:
+  - first: Ioannis
+    full: Ioannis Klapaftis
+    id: ioannis-klapaftis
+    last: Klapaftis
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  author_string: Ioannis Klapaftis, Suresh Manandhar
+  bibkey: klapaftis-manandhar-2007-uoy
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '414'
+  page_last: '417'
+  pages: "414\u2013417"
+  paper_id: '92'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1092.jpg
+  title: 'UOY: A Hypergraph Model For Word Sense Induction & Disambiguation'
+  title_html: '<span class="acl-fixed-case">UOY</span>: A Hypergraph Model For Word
+    Sense Induction &amp; Disambiguation'
+  url: https://www.aclweb.org/anthology/S07-1092
+  year: '2007'
+S07-1093:
+  address: Prague, Czech Republic
+  author:
+  - first: Thierry
+    full: Thierry Poibeau
+    id: thierry-poibeau
+    last: Poibeau
+  author_string: Thierry Poibeau
+  bibkey: poibeau-2007-up13
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '418'
+  page_last: '421'
+  pages: "418\u2013421"
+  paper_id: '93'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1093.jpg
+  title: 'UP13: Knowledge-poor Methods (Sometimes) Perform Poorly'
+  title_html: '<span class="acl-fixed-case">UP</span>13: Knowledge-poor Methods (Sometimes)
+    Perform Poorly'
+  url: https://www.aclweb.org/anthology/S07-1093
+  year: '2007'
+S07-1094:
+  address: Prague, Czech Republic
+  author:
+  - first: "Fran\xE7ois-R\xE9gis"
+    full: "Fran\xE7ois-R\xE9gis Chaumartin"
+    id: francois-regis-chaumartin
+    last: Chaumartin
+  author_string: "Fran\xE7ois-R\xE9gis Chaumartin"
+  bibkey: chaumartin-2007-upar7
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '422'
+  page_last: '425'
+  pages: "422\u2013425"
+  paper_id: '94'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1094.jpg
+  title: 'UPAR7: A knowledge-based system for headline sentiment tagging'
+  title_html: '<span class="acl-fixed-case">UPAR</span>7: A knowledge-based system
+    for headline sentiment tagging'
+  url: https://www.aclweb.org/anthology/S07-1094
+  year: '2007'
+S07-1095:
+  address: Prague, Czech Republic
+  author:
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs Padr\xF3"
+    id: lluis-padro
+    last: "Padr\xF3"
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Luis
+    full: Luis Villarejo
+    id: luis-villarejo
+    last: Villarejo
+  author_string: "Llu\xEDs M\xE0rquez, Llu\xEDs Padr\xF3, Mihai Surdeanu, Luis Villarejo"
+  bibkey: marquez-etal-2007-upc
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '426'
+  page_last: '429'
+  pages: "426\u2013429"
+  paper_id: '95'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1095.jpg
+  title: 'UPC: Experiments with Joint Learning within SemEval Task 9'
+  title_html: '<span class="acl-fixed-case">UPC</span>: Experiments with Joint Learning
+    within <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val
+    Task 9'
+  url: https://www.aclweb.org/anthology/S07-1095
+  year: '2007'
+S07-1096:
+  address: Prague, Czech Republic
+  author:
+  - first: David
+    full: David Pinto
+    id: david-pinto
+    last: Pinto
+  - first: Paolo
+    full: Paolo Rosso
+    id: paolo-rosso
+    last: Rosso
+  - first: "H\xE9ctor"
+    full: "H\xE9ctor Jim\xE9nez-Salazar"
+    id: hector-jimenez-salazar
+    last: "Jim\xE9nez-Salazar"
+  author_string: "David Pinto, Paolo Rosso, H\xE9ctor Jim\xE9nez-Salazar"
+  bibkey: pinto-etal-2007-upv
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '430'
+  page_last: '433'
+  pages: "430\u2013433"
+  paper_id: '96'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1096.jpg
+  title: 'UPV-SI: Word Sense Induction using Self Term Expansion'
+  title_html: '<span class="acl-fixed-case">UPV</span>-<span class="acl-fixed-case">SI</span>:
+    Word Sense Induction using Self Term Expansion'
+  url: https://www.aclweb.org/anthology/S07-1096
+  year: '2007'
+S07-1097:
+  address: Prague, Czech Republic
+  author:
+  - first: Davide
+    full: Davide Buscaldi
+    id: davide-buscaldi
+    last: Buscaldi
+  - first: Paolo
+    full: Paolo Rosso
+    id: paolo-rosso
+    last: Rosso
+  author_string: Davide Buscaldi, Paolo Rosso
+  bibkey: buscaldi-rosso-2007-upv
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '434'
+  page_last: '437'
+  pages: "434\u2013437"
+  paper_id: '97'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1097.jpg
+  title: 'UPV-WSD : Combining different WSD Methods by means of Fuzzy Borda Voting'
+  title_html: '<span class="acl-fixed-case">UPV</span>-<span class="acl-fixed-case">WSD</span>
+    : Combining different <span class="acl-fixed-case">WSD</span> Methods by means
+    of Fuzzy Borda Voting'
+  url: https://www.aclweb.org/anthology/S07-1097
+  year: '2007'
+S07-1098:
+  address: Prague, Czech Republic
+  author:
+  - first: Mark
+    full: Mark Hepple
+    id: mark-hepple
+    last: Hepple
+  - first: Andrea
+    full: Andrea Setzer
+    id: andrea-setzer
+    last: Setzer
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  author_string: Mark Hepple, Andrea Setzer, Robert Gaizauskas
+  bibkey: hepple-etal-2007-usfd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '438'
+  page_last: '441'
+  pages: "438\u2013441"
+  paper_id: '98'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1098.jpg
+  title: 'USFD: Preliminary Exploration of Features and Classifiers for the TempEval-2007
+    Task'
+  title_html: '<span class="acl-fixed-case">USFD</span>: Preliminary Exploration of
+    Features and Classifiers for the <span class="acl-fixed-case">T</span>emp<span
+    class="acl-fixed-case">E</span>val-2007 Task'
+  url: https://www.aclweb.org/anthology/S07-1098
+  year: '2007'
+S07-1099:
+  address: Prague, Czech Republic
+  author:
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  - first: Maria
+    full: "Maria das Gra\xE7as"
+    id: maria-das-gracas-volpe-nunes
+    last: "das Gra\xE7as"
+  - first: Volpe
+    full: Volpe Nunes
+    id: volpe-nunes
+    last: Nunes
+  - first: Ashwin
+    full: Ashwin Srinivasan
+    id: ashwin-srinivasan
+    last: Srinivasan
+  - first: Ganesh
+    full: Ganesh Ramakrishnan
+    id: ganesh-ramakrishnan
+    last: Ramakrishnan
+  author_string: "Lucia Specia, Maria das Gra\xE7as, Volpe Nunes, Ashwin Srinivasan,\
+    \ Ganesh Ramakrishnan"
+  bibkey: specia-etal-2007-usp
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '442'
+  page_last: '445'
+  pages: "442\u2013445"
+  paper_id: '99'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1099.jpg
+  title: 'USP-IBM-1 and USP-IBM-2: The ILP-based Systems for Lexical Sample WSD in
+    SemEval-2007'
+  title_html: 'USP-IBM-1 and USP-IBM-2: The ILP-based Systems for Lexical Sample WSD
+    in SemEval-2007'
+  url: https://www.aclweb.org/anthology/S07-1099
+  year: '2007'
+S07-1100:
+  address: Prague, Czech Republic
+  author:
+  - first: Tobias
+    full: Tobias Hawker
+    id: tobias-hawker
+    last: Hawker
+  author_string: Tobias Hawker
+  bibkey: hawker-2007-usyd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '446'
+  page_last: '453'
+  pages: "446\u2013453"
+  paper_id: '100'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1100.jpg
+  title: 'USYD: WSD and Lexical Substitution using the Web1T corpus'
+  title_html: '<span class="acl-fixed-case">USYD</span>: <span class="acl-fixed-case">WSD</span>
+    and Lexical Substitution using the <span class="acl-fixed-case">W</span>eb1<span
+    class="acl-fixed-case">T</span> corpus'
+  url: https://www.aclweb.org/anthology/S07-1100
+  year: '2007'
+S07-1101:
+  address: Prague, Czech Republic
+  author:
+  - first: Cristina
+    full: Cristina Nicolae
+    id: cristina-nicolae
+    last: Nicolae
+  - first: Gabriel
+    full: Gabriel Nicolae
+    id: gabriel-nicolae
+    last: Nicolae
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Cristina Nicolae, Gabriel Nicolae, Sanda Harabagiu
+  bibkey: nicolae-etal-2007-utd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '454'
+  page_last: '459'
+  pages: "454\u2013459"
+  paper_id: '101'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1101.jpg
+  title: 'UTD-HLT-CG: Semantic Architecture for Metonymy Resolution and Classification
+    of Nominal Relations'
+  title_html: '<span class="acl-fixed-case">UTD</span>-<span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">CG</span>: Semantic Architecture for Metonymy Resolution
+    and Classification of Nominal Relations'
+  url: https://www.aclweb.org/anthology/S07-1101
+  year: '2007'
+S07-1102:
+  address: Prague, Czech Republic
+  author:
+  - first: Cosmin Adrian
+    full: Cosmin Adrian Bejan
+    id: cosmin-adrian-bejan
+    last: Bejan
+  - first: Chris
+    full: Chris Hathaway
+    id: chris-hathaway
+    last: Hathaway
+  author_string: Cosmin Adrian Bejan, Chris Hathaway
+  bibkey: bejan-hathaway-2007-utd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '460'
+  page_last: '463'
+  pages: "460\u2013463"
+  paper_id: '102'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1102.jpg
+  title: 'UTD-SRL: A Pipeline Architecture for Extracting Frame Semantic Structures'
+  title_html: '<span class="acl-fixed-case">UTD</span>-<span class="acl-fixed-case">SRL</span>:
+    A Pipeline Architecture for Extracting Frame Semantic Structures'
+  url: https://www.aclweb.org/anthology/S07-1102
+  year: '2007'
+S07-1103:
+  address: Prague, Czech Republic
+  author:
+  - first: Eiji
+    full: Eiji Aramaki
+    id: eiji-aramaki
+    last: Aramaki
+  - first: Takeshi
+    full: Takeshi Imai
+    id: takeshi-imai
+    last: Imai
+  - first: Kengo
+    full: Kengo Miyo
+    id: kengo-miyo
+    last: Miyo
+  - first: Kazuhiko
+    full: Kazuhiko Ohe
+    id: kazuhiko-ohe
+    last: Ohe
+  author_string: Eiji Aramaki, Takeshi Imai, Kengo Miyo, Kazuhiko Ohe
+  bibkey: aramaki-etal-2007-uth
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '464'
+  page_last: '467'
+  pages: "464\u2013467"
+  paper_id: '103'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1103.jpg
+  title: 'UTH: SVM-based Semantic Relation Classification using Physical Sizes'
+  title_html: '<span class="acl-fixed-case">UTH</span>: <span class="acl-fixed-case">SVM</span>-based
+    Semantic Relation Classification using Physical Sizes'
+  url: https://www.aclweb.org/anthology/S07-1103
+  year: '2007'
+S07-1104:
+  address: Prague, Czech Republic
+  author:
+  - first: Krisztian
+    full: Krisztian Balog
+    id: krisztian-balog
+    last: Balog
+  - first: Leif
+    full: Leif Azzopardi
+    id: leif-azzopardi
+    last: Azzopardi
+  - first: Maarten
+    full: Maarten de Rijke
+    id: maarten-de-rijke
+    last: de Rijke
+  author_string: Krisztian Balog, Leif Azzopardi, Maarten de Rijke
+  bibkey: balog-etal-2007-uva
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '468'
+  page_last: '471'
+  pages: "468\u2013471"
+  paper_id: '104'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1104.jpg
+  title: 'UVA: Language Modeling Techniques for Web People Search'
+  title_html: '<span class="acl-fixed-case">UVA</span>: Language Modeling Techniques
+    for Web People Search'
+  url: https://www.aclweb.org/anthology/S07-1104
+  year: '2007'
+S07-1105:
+  address: Prague, Czech Republic
+  author:
+  - first: Willem Robert
+    full: Willem Robert van Hage
+    id: willem-robert-van-hage
+    last: van Hage
+  - first: Sophia
+    full: Sophia Katrenko
+    id: sophia-katrenko
+    last: Katrenko
+  author_string: Willem Robert van Hage, Sophia Katrenko
+  bibkey: van-hage-katrenko-2007-uvavu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '472'
+  page_last: '475'
+  pages: "472\u2013475"
+  paper_id: '105'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1105.jpg
+  title: 'UVAVU: WordNet Similarity and Lexical Patterns for Semantic Relation Classification'
+  title_html: '<span class="acl-fixed-case">UVAVU</span>: <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et Similarity and Lexical Patterns for Semantic
+    Relation Classification'
+  url: https://www.aclweb.org/anthology/S07-1105
+  year: '2007'
+S07-1106:
+  address: Prague, Czech Republic
+  author:
+  - first: Yllias
+    full: Yllias Chali
+    id: yllias-chali
+    last: Chali
+  - first: Shafiq R.
+    full: Shafiq R. Joty
+    id: shafiq-joty
+    last: Joty
+  author_string: Yllias Chali, Shafiq R. Joty
+  bibkey: chali-joty-2007-uofl
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '476'
+  page_last: '479'
+  pages: "476\u2013479"
+  paper_id: '106'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1106.jpg
+  title: 'UofL: Word Sense Disambiguation Using Lexical Cohesion'
+  title_html: '<span class="acl-fixed-case">U</span>of<span class="acl-fixed-case">L</span>:
+    Word Sense Disambiguation Using Lexical Cohesion'
+  url: https://www.aclweb.org/anthology/S07-1106
+  year: '2007'
+S07-1107:
+  address: Prague, Czech Republic
+  author:
+  - first: "Jos\xE9"
+    full: "Jos\xE9 Iria"
+    id: jose-iria
+    last: Iria
+  - first: Lei
+    full: Lei Xia
+    id: lei-xia
+    last: Xia
+  - first: Ziqi
+    full: Ziqi Zhang
+    id: ziqi-zhang
+    last: Zhang
+  author_string: "Jos\xE9 Iria, Lei Xia, Ziqi Zhang"
+  bibkey: iria-etal-2007-wit
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '480'
+  page_last: '483'
+  pages: "480\u2013483"
+  paper_id: '107'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1107.jpg
+  title: 'WIT: Web People Search Disambiguation using Random Walks'
+  title_html: '<span class="acl-fixed-case">WIT</span>: Web People Search Disambiguation
+    using Random Walks'
+  url: https://www.aclweb.org/anthology/S07-1107
+  year: '2007'
+S07-1108:
+  address: Prague, Czech Republic
+  author:
+  - first: Georgiana
+    full: "Georgiana Pu\u015Fca\u015Fu"
+    id: georgiana-puscasu
+    last: "Pu\u015Fca\u015Fu"
+  author_string: "Georgiana Pu\u015Fca\u015Fu"
+  bibkey: puscasu-2007-wvali
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '484'
+  page_last: '487'
+  pages: "484\u2013487"
+  paper_id: '108'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1108.jpg
+  title: 'WVALI: Temporal Relation Identification by Syntactico-Semantic Analysis'
+  title_html: '<span class="acl-fixed-case">WVALI</span>: Temporal Relation Identification
+    by Syntactico-Semantic Analysis'
+  url: https://www.aclweb.org/anthology/S07-1108
+  year: '2007'
+S07-1109:
+  address: Prague, Czech Republic
+  author:
+  - first: Caroline
+    full: Caroline Brun
+    id: caroline-brun
+    last: Brun
+  - first: Maud
+    full: Maud Ehrmann
+    id: maud-ehrmann
+    last: Ehrmann
+  - first: Guillaume
+    full: Guillaume Jacquet
+    id: guillaume-jacquet
+    last: Jacquet
+  author_string: Caroline Brun, Maud Ehrmann, Guillaume Jacquet
+  bibkey: brun-etal-2007-xrce
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '488'
+  page_last: '491'
+  pages: "488\u2013491"
+  paper_id: '109'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1109.jpg
+  title: 'XRCE-M: A Hybrid System for Named Entity Metonymy Resolution'
+  title_html: '<span class="acl-fixed-case">XRCE</span>-M: A Hybrid System for Named
+    Entity Metonymy Resolution'
+  url: https://www.aclweb.org/anthology/S07-1109
+  year: '2007'
+S07-1110:
+  address: Prague, Czech Republic
+  author:
+  - first: Caroline
+    full: "Caroline Hag\xE8ge"
+    id: caroline-hagege
+    last: "Hag\xE8ge"
+  - first: Xavier
+    full: Xavier Tannier
+    id: xavier-tannier
+    last: Tannier
+  author_string: "Caroline Hag\xE8ge, Xavier Tannier"
+  bibkey: hagege-tannier-2007-xrce
+  bibtype: inproceedings
+  booktitle: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (SemEval-2007)
+  booktitle_html: Proceedings of the Fourth International Workshop on Semantic Evaluations
+    (<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2007)
+  month: June
+  page_first: '492'
+  page_last: '495'
+  pages: "492\u2013495"
+  paper_id: '110'
+  parent_volume_id: S07-1
+  pdf: https://www.aclweb.org/anthology/S07-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S07-1110.jpg
+  title: 'XRCE-T: XIP Temporal Module for TempEval campaign.'
+  title_html: '<span class="acl-fixed-case">XRCE</span>-T: <span class="acl-fixed-case">XIP</span>
+    Temporal Module for <span class="acl-fixed-case">T</span>emp<span class="acl-fixed-case">E</span>val
+    campaign.'
+  url: https://www.aclweb.org/anthology/S07-1110
+  year: '2007'

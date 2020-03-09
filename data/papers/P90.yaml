@@ -1,0 +1,1127 @@
+P90-1000:
+  address: Pittsburgh, Pennsylvania, USA
+  bibkey: acl-1990-association
+  bibtype: proceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1000.jpg
+  title: 28th Annual Meeting of the Association for Computational Linguistics
+  title_html: 28th Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P90-1000
+  year: '1990'
+P90-1001:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  - first: David J.
+    full: David J. Weir
+    id: david-weir
+    last: Weir
+  author_string: K. Vijay-Shanker, David J. Weir
+  bibkey: vijay-shanker-weir-1990-polynomial
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981824
+  month: June
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1001.jpg
+  title: Polynomial Time Parsing of Combinatory Categorial Grammars
+  title_html: Polynomial Time Parsing of Combinatory Categorial Grammars
+  url: https://www.aclweb.org/anthology/P90-1001
+  year: '1990'
+P90-1002:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Mark Steedman
+  bibkey: steedman-1990-structure
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981825
+  month: June
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1002.jpg
+  title: Structure and Intonation in Spoken Language Understanding
+  title_html: Structure and Intonation in Spoken Language Understanding
+  url: https://www.aclweb.org/anthology/P90-1002
+  year: '1990'
+P90-1003:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: Patti
+    full: Patti Price
+    id: patti-price
+    last: Price
+  author_string: John Bear, Patti Price
+  bibkey: bear-price-1990-prosody
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981826
+  month: June
+  page_first: '17'
+  page_last: '22'
+  pages: "17\u201322"
+  paper_id: '3'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1003.jpg
+  title: Prosody, Syntax and Parsing
+  title_html: Prosody, Syntax and Parsing
+  url: https://www.aclweb.org/anthology/P90-1003
+  year: '1990'
+P90-1004:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Greg
+    full: Greg Whittemore
+    id: greg-whittemore
+    last: Whittemore
+  - first: Kathleen
+    full: Kathleen Ferrara
+    id: kathleen-ferraro
+    last: Ferrara
+  - first: Hans
+    full: Hans Brunner
+    id: hans-brunner
+    last: Brunner
+  author_string: Greg Whittemore, Kathleen Ferrara, Hans Brunner
+  bibkey: whittemore-etal-1990-empirical
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981827
+  month: June
+  page_first: '23'
+  page_last: '30'
+  pages: "23\u201330"
+  paper_id: '4'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1004.jpg
+  title: Empirical Study of Predictive Powers of Simple Attachment Schemes for Post-modifier
+    Prepositional Phrases
+  title_html: Empirical Study of Predictive Powers of Simple Attachment Schemes for
+    Post-modifier Prepositional Phrases
+  url: https://www.aclweb.org/anthology/P90-1004
+  year: '1990'
+P90-1005:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Hiroshi
+    full: Hiroshi Maruyama
+    id: hiroshi-maruyama
+    last: Maruyama
+  author_string: Hiroshi Maruyama
+  bibkey: maruyama-1990-structural
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981828
+  month: June
+  page_first: '31'
+  page_last: '38'
+  pages: "31\u201338"
+  paper_id: '5'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1005.jpg
+  title: Structural Disambiguation With Constraint Propagation
+  title_html: Structural Disambiguation With Constraint Propagation
+  url: https://www.aclweb.org/anthology/P90-1005
+  year: '1990'
+P90-1006:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Edward
+    full: Edward Gibson
+    id: edward-gibson
+    last: Gibson
+  author_string: Edward Gibson
+  bibkey: gibson-1990-memory
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981829
+  month: June
+  page_first: '39'
+  page_last: '46'
+  pages: "39\u201346"
+  paper_id: '6'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1006.jpg
+  title: Memory Capacity and Sentence Processing
+  title_html: Memory Capacity and Sentence Processing
+  url: https://www.aclweb.org/anthology/P90-1006
+  year: '1990'
+P90-1007:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Hae-Chang
+    full: Hae-Chang Rim
+    id: hae-chang-rim
+    last: Rim
+  - first: Robert F.
+    full: Robert F. Simmons
+    id: robert-f-simmons
+    last: Simmons
+  - first: Jungyun
+    full: Jungyun Seo
+    id: jungyun-seo
+    last: Seo
+  author_string: Hae-Chang Rim, Robert F. Simmons, Jungyun Seo
+  bibkey: rim-etal-1990-transforming
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981830
+  month: June
+  page_first: '47'
+  page_last: '53'
+  pages: "47\u201353"
+  paper_id: '7'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1007.jpg
+  title: Transforming Syntactic Graphs Into Semantic Graphs
+  title_html: Transforming Syntactic Graphs Into Semantic Graphs
+  url: https://www.aclweb.org/anthology/P90-1007
+  year: '1990'
+P90-1008:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Daniel
+    full: Daniel Lyons
+    id: daniel-lyons
+    last: Lyons
+  author_string: Daniel Lyons
+  bibkey: lyons-1990-compositional
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981831
+  month: June
+  page_first: '54'
+  page_last: '61'
+  pages: "54\u201361"
+  paper_id: '8'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1008.jpg
+  title: A Compositional Semantics for Focusing Subjuncts
+  title_html: A Compositional Semantics for Focusing Subjuncts
+  url: https://www.aclweb.org/anthology/P90-1008
+  year: '1990'
+P90-1009:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Mary P.
+    full: Mary P. Harper
+    id: mary-harper
+    last: Harper
+  author_string: Mary P. Harper
+  bibkey: harper-1990-designer
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981832
+  month: June
+  page_first: '62'
+  page_last: '69'
+  pages: "62\u201369"
+  paper_id: '9'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1009.jpg
+  title: Designer Definites in Logical Form
+  title_html: Designer Definites in Logical Form
+  url: https://www.aclweb.org/anthology/P90-1009
+  year: '1990'
+P90-1010:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  - first: Steve
+    full: Steve Whittaker
+    id: steve-whittaker
+    last: Whittaker
+  author_string: Marilyn Walker, Steve Whittaker
+  bibkey: walker-whittaker-1990-mixed
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981833
+  month: June
+  page_first: '70'
+  page_last: '78'
+  pages: "70\u201378"
+  paper_id: '10'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1010.jpg
+  title: 'Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation'
+  title_html: 'Mixed Initiative in Dialogue: An Investigation into Discourse Segmentation'
+  url: https://www.aclweb.org/anthology/P90-1010
+  year: '1990'
+P90-1011:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Philip R.
+    full: Philip R. Cohen
+    id: philip-r-cohen
+    last: Cohen
+  - first: Hector J.
+    full: Hector J. Levesque
+    id: hector-j-levesque
+    last: Levesque
+  author_string: Philip R. Cohen, Hector J. Levesque
+  bibkey: cohen-levesque-1990-performatives
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981834
+  month: June
+  page_first: '79'
+  page_last: '88'
+  pages: "79\u201388"
+  paper_id: '11'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1011.jpg
+  title: Performatives in a Rationally Based Speech Act Theory
+  title_html: Performatives in a Rationally Based Speech Act Theory
+  url: https://www.aclweb.org/anthology/P90-1011
+  year: '1990'
+P90-1012:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Nancy L.
+    full: Nancy L. Green
+    id: nancy-green
+    last: Green
+  author_string: Nancy L. Green
+  bibkey: green-1990-normal
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981835
+  month: June
+  page_first: '89'
+  page_last: '96'
+  pages: "89\u201396"
+  paper_id: '12'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1012.jpg
+  title: Normal State Implicature
+  title_html: Normal State Implicature
+  url: https://www.aclweb.org/anthology/P90-1012
+  year: '1990'
+P90-1013:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  author_string: Ehud Reiter
+  bibkey: reiter-1990-computational
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981836
+  month: June
+  page_first: '97'
+  page_last: '104'
+  pages: "97\u2013104"
+  paper_id: '13'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1013.jpg
+  title: The Computational Complexity of Avoiding Conversational Implicatures
+  title_html: The Computational Complexity of Avoiding Conversational Implicatures
+  url: https://www.aclweb.org/anthology/P90-1013
+  year: '1990'
+P90-1014:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Sandiway
+    full: Sandiway Fong
+    id: sandiway-fong
+    last: Fong
+  author_string: Sandiway Fong
+  bibkey: fong-1990-free
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981837
+  month: June
+  page_first: '105'
+  page_last: '110'
+  pages: "105\u2013110"
+  paper_id: '14'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1014.jpg
+  title: 'Free Indexation: Combinatorial Analysis and A Compositional Algorithm'
+  title_html: 'Free Indexation: Combinatorial Analysis and A Compositional Algorithm'
+  url: https://www.aclweb.org/anthology/P90-1014
+  year: '1990'
+P90-1015:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Robert
+    full: Robert Frank
+    id: robert-frank
+    last: Frank
+  author_string: Robert Frank
+  bibkey: frank-1990-licensing
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981838
+  month: June
+  page_first: '111'
+  page_last: '118'
+  pages: "111\u2013118"
+  paper_id: '15'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1015.jpg
+  title: Licensing and Tree Adjoining Grammar in Government Binding Parsing
+  title_html: Licensing and <span class="acl-fixed-case">T</span>ree <span class="acl-fixed-case">A</span>djoining
+    <span class="acl-fixed-case">G</span>rammar in <span class="acl-fixed-case">G</span>overnment
+    <span class="acl-fixed-case">B</span>inding Parsing
+  url: https://www.aclweb.org/anthology/P90-1015
+  year: '1990'
+P90-1016:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Michael R.
+    full: Michael R. Brent
+    id: michael-r-brent
+    last: Brent
+  author_string: Michael R. Brent
+  bibkey: brent-1990-simplified
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981839
+  month: June
+  page_first: '119'
+  page_last: '126'
+  pages: "119\u2013126"
+  paper_id: '16'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1016.jpg
+  title: A Simplified Theory of Tense Representations and Constraints on Their Composition
+  title_html: A Simplified Theory of Tense Representations and Constraints on Their
+    Composition
+  url: https://www.aclweb.org/anthology/P90-1016
+  year: '1990'
+P90-1017:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Bonnie
+    full: Bonnie Dorr
+    id: bonnie-dorr
+    last: Dorr
+  author_string: Bonnie Dorr
+  bibkey: dorr-1990-solving
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981840
+  month: June
+  page_first: '127'
+  page_last: '134'
+  pages: "127\u2013134"
+  paper_id: '17'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1017.jpg
+  title: Solving Thematic Divergences in Machine Translation
+  title_html: Solving Thematic Divergences in Machine Translation
+  url: https://www.aclweb.org/anthology/P90-1017
+  year: '1990'
+P90-1018:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Shalom
+    full: Shalom Lappin
+    id: shalom-lappin
+    last: Lappin
+  - first: Michael
+    full: Michael McCord
+    id: michael-c-mccord
+    last: McCord
+  author_string: Shalom Lappin, Michael McCord
+  bibkey: lappin-mccord-1990-syntactic
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981841
+  month: June
+  page_first: '135'
+  page_last: '142'
+  pages: "135\u2013142"
+  paper_id: '18'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1018.jpg
+  title: A Syntactic Filter on Pronominal Anaphora for Slot Grammar
+  title_html: A Syntactic Filter on Pronominal Anaphora for Slot Grammar
+  url: https://www.aclweb.org/anthology/P90-1018
+  year: '1990'
+P90-1019:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Jeffrey Mark
+    full: Jeffrey Mark Siskind
+    id: jeffrey-mark-siskind
+    last: Siskind
+  author_string: Jeffrey Mark Siskind
+  bibkey: siskind-1990-acquiring
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981842
+  month: June
+  page_first: '143'
+  page_last: '156'
+  pages: "143\u2013156"
+  paper_id: '19'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1019.jpg
+  title: Acquiring Core Meanings of Words, Represented as Jackendoff-Style Conceptual
+    Structures, From Correlated Streams of Linguistic and Non-Linguistic Input
+  title_html: Acquiring Core Meanings of Words, Represented as <span class="acl-fixed-case">J</span>ackendoff-Style
+    Conceptual Structures, From Correlated Streams of Linguistic and Non-Linguistic
+    Input
+  url: https://www.aclweb.org/anthology/P90-1019
+  year: '1990'
+P90-1020:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Michael
+    full: Michael Elhadad
+    id: michael-elhadad
+    last: Elhadad
+  author_string: Michael Elhadad
+  bibkey: elhadad-1990-types
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981843
+  month: June
+  page_first: '157'
+  page_last: '164'
+  pages: "157\u2013164"
+  paper_id: '20'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1020.jpg
+  title: Types in Functional Unification Grammars
+  title_html: Types in Functional Unification Grammars
+  url: https://www.aclweb.org/anthology/P90-1020
+  year: '1990'
+P90-1021:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Gosse
+    full: Gosse Bouma
+    id: gosse-bouma
+    last: Bouma
+  author_string: Gosse Bouma
+  bibkey: bouma-1990-defaults
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981844
+  month: June
+  page_first: '165'
+  page_last: '172'
+  pages: "165\u2013172"
+  paper_id: '21'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1021.jpg
+  title: Defaults in Unification Grammar
+  title_html: Defaults in Unification Grammar
+  url: https://www.aclweb.org/anthology/P90-1021
+  year: '1990'
+P90-1022:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Mark Johnson
+  bibkey: johnson-1990-expressing
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981845
+  month: June
+  page_first: '173'
+  page_last: '179'
+  pages: "173\u2013179"
+  paper_id: '22'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1022.jpg
+  title: Expressing Disjunctive and Negative Feature Constraints With Classical First-Order
+    Logic.
+  title_html: Expressing Disjunctive and Negative Feature Constraints With Classical
+    First-Order Logic.
+  url: https://www.aclweb.org/anthology/P90-1022
+  year: '1990'
+P90-1023:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Kurt
+    full: Kurt Godden
+    id: kurt-godden
+    last: Godden
+  author_string: Kurt Godden
+  bibkey: godden-1990-lazy
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981846
+  month: June
+  page_first: '180'
+  page_last: '187'
+  pages: "180\u2013187"
+  paper_id: '23'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1023.jpg
+  title: Lazy Unification
+  title_html: Lazy Unification
+  url: https://www.aclweb.org/anthology/P90-1023
+  year: '1990'
+P90-1024:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Chinatsu
+    full: Chinatsu Aone
+    id: chinatsu-aone
+    last: Aone
+  - first: Kent
+    full: Kent Wittenburg
+    id: kent-wittenburg
+    last: Wittenburg
+  author_string: Chinatsu Aone, Kent Wittenburg
+  bibkey: aone-wittenburg-1990-zero
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981847
+  month: June
+  page_first: '188'
+  page_last: '193'
+  pages: "188\u2013193"
+  paper_id: '24'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1024.jpg
+  title: Zero Morphemes in Unification-Based Combinatory Categorial Grammar
+  title_html: Zero Morphemes in Unification-Based Combinatory Categorial Grammar
+  url: https://www.aclweb.org/anthology/P90-1024
+  year: '1990'
+P90-1025:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Robert J. P.
+    full: Robert J. P. Ingria
+    id: robert-j-p-ingria
+    last: Ingria
+  author_string: Robert J. P. Ingria
+  bibkey: ingria-1990-limits
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981848
+  month: June
+  page_first: '194'
+  page_last: '204'
+  pages: "194\u2013204"
+  paper_id: '25'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1025.jpg
+  title: The Limits of Unification
+  title_html: The Limits of Unification
+  url: https://www.aclweb.org/anthology/P90-1025
+  year: '1990'
+P90-1026:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Graham
+    full: Graham Russell
+    id: graham-russell
+    last: Russell
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  - first: Susan
+    full: Susan Warwick
+    id: susan-armstrong
+    last: Warwick
+  author_string: Graham Russell, John Carroll, Susan Warwick
+  bibkey: russell-etal-1990-asymmetry
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981849
+  month: June
+  page_first: '205'
+  page_last: '211'
+  pages: "205\u2013211"
+  paper_id: '26'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1026.jpg
+  title: 'Asymmetry in Parsing and Generating with Unification Grammars: Case Studies
+    From ELU'
+  title_html: 'Asymmetry in Parsing and Generating with Unification Grammars: Case
+    Studies From <span class="acl-fixed-case">ELU</span>'
+  url: https://www.aclweb.org/anthology/P90-1026
+  year: '1990'
+P90-1027:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Tomek
+    full: Tomek Strzalkowski
+    id: tomek-strzalkowski
+    last: Strzalkowski
+  - first: Ping
+    full: Ping Peng
+    id: ping-peng
+    last: Peng
+  author_string: Tomek Strzalkowski, Ping Peng
+  bibkey: strzalkowski-peng-1990-automated
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981850
+  month: June
+  page_first: '212'
+  page_last: '219'
+  pages: "212\u2013219"
+  paper_id: '27'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1027.jpg
+  title: Automated Inversion of Logic Grammars for Generation
+  title_html: Automated Inversion of Logic Grammars for Generation
+  url: https://www.aclweb.org/anthology/P90-1027
+  year: '1990'
+P90-1028:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Erik-Jan
+    full: Erik-Jan van der Linden
+    id: erik-jan-van-der-linden
+    last: van der Linden
+  - first: Guido
+    full: Guido Minnen
+    id: guido-minnen
+    last: Minnen
+  author_string: Erik-Jan van der Linden, Guido Minnen
+  bibkey: van-der-linden-minnen-1990-algorithms
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981851
+  month: June
+  page_first: '220'
+  page_last: '226'
+  pages: "220\u2013226"
+  paper_id: '28'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1028.jpg
+  title: Algorithms for Generation in Lambek Theorem Proving
+  title_html: Algorithms for Generation in <span class="acl-fixed-case">L</span>ambek
+    Theorem Proving
+  url: https://www.aclweb.org/anthology/P90-1028
+  year: '1990'
+P90-1029:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Robert J.
+    full: Robert J. Bobrow
+    id: robert-bobrow
+    last: Bobrow
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Ralph M.
+    full: Ralph M. Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Robert J. Bobrow, Philip Resnik, Ralph M. Weischedel
+  bibkey: bobrow-etal-1990-multiple
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981852
+  month: June
+  page_first: '227'
+  page_last: '234'
+  pages: "227\u2013234"
+  paper_id: '29'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1029.jpg
+  title: 'Multiple Underlying Systems: Translating User Requests into Programs to
+    Produce Answers'
+  title_html: 'Multiple Underlying Systems: Translating User Requests into Programs
+    to Produce Answers'
+  url: https://www.aclweb.org/anthology/P90-1029
+  year: '1990'
+P90-1030:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Eric Sven
+    full: Eric Sven Ristad
+    id: eric-sven-ristad
+    last: Ristad
+  author_string: Eric Sven Ristad
+  bibkey: ristad-1990-computational
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981853
+  month: June
+  page_first: '235'
+  page_last: '242'
+  pages: "235\u2013242"
+  paper_id: '30'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1030.jpg
+  title: Computational structure of generative phonology and its relation to language
+    comprehension.
+  title_html: Computational structure of generative phonology and its relation to
+    language comprehension.
+  url: https://www.aclweb.org/anthology/P90-1030
+  year: '1990'
+P90-1031:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Carl G. de
+    full: Carl G. de Marcken
+    id: carl-de-marcken
+    last: Marcken
+  author_string: Carl G. de Marcken
+  bibkey: marcken-1990-parsing
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981854
+  month: June
+  page_first: '243'
+  page_last: '251'
+  pages: "243\u2013251"
+  paper_id: '31'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1031.jpg
+  title: Parsing the LOB Corpus
+  title_html: Parsing the <span class="acl-fixed-case">LOB</span> Corpus
+  url: https://www.aclweb.org/anthology/P90-1031
+  year: '1990'
+P90-1032:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Frank A.
+    full: Frank A. Smadja
+    id: frank-smadja
+    last: Smadja
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Frank A. Smadja, Kathleen R. McKeown
+  bibkey: smadja-mckeown-1990-automatically
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981855
+  month: June
+  page_first: '252'
+  page_last: '259'
+  pages: "252\u2013259"
+  paper_id: '32'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1032.jpg
+  title: Automatically Extracting and Representing Collocations for Language Generation
+  title_html: Automatically Extracting and Representing Collocations for Language
+    Generation
+  url: https://www.aclweb.org/anthology/P90-1032
+  year: '1990'
+P90-1033:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Yael
+    full: Yael Ravin
+    id: yael-ravin
+    last: Ravin
+  author_string: Yael Ravin
+  bibkey: ravin-1990-disamibiguating
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981856
+  month: June
+  page_first: '260'
+  page_last: '267'
+  pages: "260\u2013267"
+  paper_id: '33'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1033.jpg
+  title: Disamibiguating and Interpreting Verb Definitions
+  title_html: Disamibiguating and Interpreting Verb Definitions
+  url: https://www.aclweb.org/anthology/P90-1033
+  year: '1990'
+P90-1034:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Donald
+    full: Donald Hindle
+    id: donald-hindle
+    last: Hindle
+  author_string: Donald Hindle
+  bibkey: hindle-1990-noun
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981857
+  month: June
+  page_first: '268'
+  page_last: '275'
+  pages: "268\u2013275"
+  paper_id: '34'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1034.jpg
+  title: Noun Classification From Predicate-Argument Structures
+  title_html: Noun Classification From Predicate-Argument Structures
+  url: https://www.aclweb.org/anthology/P90-1034
+  year: '1990'
+P90-1035:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  author_string: Yves Schabes, K. Vijay-Shanker
+  bibkey: schabes-vijay-shanker-1990-deterministic
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981858
+  month: June
+  page_first: '276'
+  page_last: '283'
+  pages: "276\u2013283"
+  paper_id: '35'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1035.jpg
+  title: Deterministic Left to Right Parsing of Tree Adjoining Languages
+  title_html: Deterministic Left to Right Parsing of Tree Adjoining Languages
+  url: https://www.aclweb.org/anthology/P90-1035
+  year: '1990'
+P90-1036:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Karin
+    full: Karin Harbusch
+    id: karin-harbusch
+    last: Harbusch
+  author_string: Karin Harbusch
+  bibkey: harbusch-1990-efficient
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981859
+  month: June
+  page_first: '284'
+  page_last: '291'
+  pages: "284\u2013291"
+  paper_id: '36'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1036.jpg
+  title: An Efficient Parsing Algorithm for Tree Adjoining Grammars
+  title_html: An Efficient Parsing Algorithm for Tree Adjoining Grammars
+  url: https://www.aclweb.org/anthology/P90-1036
+  year: '1990'
+P90-1037:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Anne
+    full: Anne Abeille
+    id: anne-abeille
+    last: Abeille
+  author_string: Anne Abeille
+  bibkey: abeille-1990-lexical
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981860
+  month: June
+  page_first: '292'
+  page_last: '298'
+  pages: "292\u2013298"
+  paper_id: '37'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1037.jpg
+  title: Lexical and Syntactic Rules in a Tree Adjoining Grammar
+  title_html: Lexical and Syntactic Rules in a Tree Adjoining Grammar
+  url: https://www.aclweb.org/anthology/P90-1037
+  year: '1990'
+P90-1038:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Massimo
+    full: Massimo Marino
+    id: massimo-marino
+    last: Marino
+  author_string: Massimo Marino
+  bibkey: marino-1990-bottom
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981861
+  month: June
+  page_first: '299'
+  page_last: '306'
+  pages: "299\u2013306"
+  paper_id: '38'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1038.jpg
+  title: Bottom-Up Parsing Extending Context-Freeness in a Process Grammar Processor
+  title_html: Bottom-Up Parsing Extending Context-Freeness in a Process Grammar Processor
+  url: https://www.aclweb.org/anthology/P90-1038
+  year: '1990'
+P90-1039:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Toshikazu
+    full: Toshikazu Fukushima
+    id: toshikazu-fukushima
+    last: Fukushima
+  - first: Yutaka
+    full: Yutaka Ohyama
+    id: yutaka-ohyama
+    last: Ohyama
+  - first: Hitoshi
+    full: Hitoshi Miyai
+    id: hitoshi-miyai
+    last: Miyai
+  author_string: Toshikazu Fukushima, Yutaka Ohyama, Hitoshi Miyai
+  bibkey: fukushima-etal-1990-hardware
+  bibtype: inproceedings
+  booktitle: 28th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 28th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981823.981862
+  month: June
+  page_first: '307'
+  page_last: '314'
+  pages: "307\u2013314"
+  paper_id: '39'
+  parent_volume_id: P90-1
+  pdf: https://www.aclweb.org/anthology/P90-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P90-1039.jpg
+  title: A Hardware Algorithm for High Speed Morpheme Extraction and Its Implementation
+  title_html: A Hardware Algorithm for High Speed Morpheme Extraction and Its Implementation
+  url: https://www.aclweb.org/anthology/P90-1039
+  year: '1990'

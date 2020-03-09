@@ -1,0 +1,1061 @@
+M93-1000:
+  bibkey: muc-1993-message
+  bibtype: proceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  paper_id: '0'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1000.jpg
+  title: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  title_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  url: https://www.aclweb.org/anthology/M93-1000
+  year: '1993'
+M93-1001:
+  author:
+  - first: Lynn
+    full: Lynn Carlson
+    id: lynn-carlson
+    last: Carlson
+  - first: Boyan
+    full: Boyan Onyshkevych
+    id: boyan-onyshkevych
+    last: Onyshkevych
+  - first: Mary Ellen
+    full: Mary Ellen Okurowski
+    id: mary-ellen-okurowski
+    last: Okurowski
+  author_string: Lynn Carlson, Boyan Onyshkevych, Mary Ellen Okurowski
+  bibkey: carlson-etal-1993-corpora
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '1'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1001.jpg
+  title: Corpora and Data Preparation
+  title_html: Corpora and Data Preparation
+  url: https://www.aclweb.org/anthology/M93-1001
+  year: '1993'
+M93-1002:
+  author:
+  - first: Boyan
+    full: Boyan Onyshkevych
+    id: boyan-onyshkevych
+    last: Onyshkevych
+  - first: Mary Ellen
+    full: Mary Ellen Okurowski
+    id: mary-ellen-okurowski
+    last: Okurowski
+  - first: Lynn
+    full: Lynn Carlson
+    id: lynn-carlson
+    last: Carlson
+  author_string: Boyan Onyshkevych, Mary Ellen Okurowski, Lynn Carlson
+  bibkey: onyshkevych-etal-1993-tasks
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '2'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1002.jpg
+  title: Tasks, Domains, and Languages
+  title_html: Tasks, Domains, and Languages
+  url: https://www.aclweb.org/anthology/M93-1002
+  year: '1993'
+M93-1003:
+  author:
+  - first: Boyan
+    full: Boyan Onyshkevych
+    id: boyan-onyshkevych
+    last: Onyshkevych
+  author_string: Boyan Onyshkevych
+  bibkey: onyshkevych-1993-template
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '3'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1003.jpg
+  title: Template Design for Information Extraction
+  title_html: Template Design for Information Extraction
+  url: https://www.aclweb.org/anthology/M93-1003
+  year: '1993'
+M93-1004:
+  author:
+  - first: Beth M.
+    full: Beth M. Sundheim
+    id: beth-m-sundheim
+    last: Sundheim
+  author_string: Beth M. Sundheim
+  bibkey: sundheim-1993-tipster
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '4'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1004.jpg
+  title: TIPSTER/MUC-5 Information Extraction System Evaluation
+  title_html: <span class="acl-fixed-case">TIPSTER</span>/<span class="acl-fixed-case">MUC</span>-5
+    Information Extraction System Evaluation
+  url: https://www.aclweb.org/anthology/M93-1004
+  year: '1993'
+M93-1005:
+  author:
+  - first: Mary Ellen
+    full: Mary Ellen Okurowski
+    id: mary-ellen-okurowski
+    last: Okurowski
+  author_string: Mary Ellen Okurowski
+  bibkey: okurowski-1993-domain
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '5'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1005.jpg
+  title: Domain and Language Evaluation Results
+  title_html: Domain and Language Evaluation Results
+  url: https://www.aclweb.org/anthology/M93-1005
+  year: '1993'
+M93-1006:
+  author:
+  - first: Craig A.
+    full: Craig A. Will
+    id: craig-a-will
+    last: Will
+  author_string: Craig A. Will
+  bibkey: will-1993-comparing
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '6'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1006.jpg
+  title: 'Comparing Human and Machine Performance for Natural Language Information
+    Extraction: Results for English Microelectronics From the MUC-5 Evaluation'
+  title_html: 'Comparing Human and Machine Performance for Natural Language Information
+    Extraction: Results for <span class="acl-fixed-case">E</span>nglish Microelectronics
+    From the <span class="acl-fixed-case">MUC</span>-5 Evaluation'
+  url: https://www.aclweb.org/anthology/M93-1006
+  year: '1993'
+M93-1007:
+  author:
+  - first: Nancy
+    full: Nancy Chinchor
+    id: nancy-chinchor
+    last: Chinchor
+  - first: Beth
+    full: Beth Sundheim
+    id: beth-m-sundheim
+    last: Sundheim
+  author_string: Nancy Chinchor, Beth Sundheim
+  bibkey: chinchor-sundheim-1993-muc
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '7'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1007.jpg
+  title: MUC-5 Evaluation Metrics
+  title_html: <span class="acl-fixed-case">MUC</span>-5 Evaluation Metrics
+  url: https://www.aclweb.org/anthology/M93-1007
+  year: '1993'
+M93-1008:
+  author:
+  - first: Nancy
+    full: Nancy Chinchor
+    id: nancy-chinchor
+    last: Chinchor
+  author_string: Nancy Chinchor
+  bibkey: chinchor-1993-statistical
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '8'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1008.jpg
+  title: The Statistical Significance of the MUC-5 Results
+  title_html: The Statistical Significance of the <span class="acl-fixed-case">MUC</span>-5
+    Results
+  url: https://www.aclweb.org/anthology/M93-1008
+  year: '1993'
+M93-1009:
+  author:
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  author_string: Jerry R. Hobbs
+  bibkey: hobbs-1993-generic
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '9'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1009.jpg
+  title: The Generic Information Extraction System
+  title_html: The Generic Information Extraction System
+  url: https://www.aclweb.org/anthology/M93-1009
+  year: '1993'
+M93-1010:
+  author:
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  - first: Damaris
+    full: Damaris Ayuso
+    id: damaris-ayuso
+    last: Ayuso
+  - first: Sean
+    full: Sean Boisen
+    id: sean-boisen
+    last: Boisen
+  - first: Heidi
+    full: Heidi Fox
+    id: heidi-fox
+    last: Fox
+  - first: Robert
+    full: Robert Ingria
+    id: robert-ingria
+    last: Ingria
+  - first: Tomoyoshi
+    full: Tomoyoshi Matsukawa
+    id: tomoyoshi-matsukawa
+    last: Matsukawa
+  - first: Constantine
+    full: Constantine Papageorgiou
+    id: constantine-papageorgiou
+    last: Papageorgiou
+  - first: Dawn
+    full: Dawn MacLaughlin
+    id: dawn-maclaughlin
+    last: MacLaughlin
+  - first: Masaichiro
+    full: Masaichiro Kitagawa
+    id: masaichiro-kitagawa
+    last: Kitagawa
+  - first: Tsutomu
+    full: Tsutomu Sakai
+    id: tsutomu-sakai
+    last: Sakai
+  - first: June
+    full: June Abe
+    id: june-abe
+    last: Abe
+  - first: Hiroto
+    full: Hiroto Hosiho
+    id: hiroto-hosiho
+    last: Hosiho
+  - first: Yoichi
+    full: Yoichi Miyamoto
+    id: yoichi-miyamoto
+    last: Miyamoto
+  - first: Scott
+    full: Scott Miller
+    id: scott-miller
+    last: Miller
+  author_string: Ralph Weischedel, Damaris Ayuso, Sean Boisen, Heidi Fox, Robert Ingria,
+    Tomoyoshi Matsukawa, Constantine Papageorgiou, Dawn MacLaughlin, Masaichiro Kitagawa,
+    Tsutomu Sakai, June Abe, Hiroto Hosiho, Yoichi Miyamoto, Scott Miller
+  bibkey: weischedel-etal-1993-bbn
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '10'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1010.jpg
+  title: 'BBN: Description of the PLUM System as Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">BBN</span>: Description of the <span class="acl-fixed-case">PLUM</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1010
+  year: '1993'
+M93-1011:
+  author:
+  - first: Paul S.
+    full: Paul S. Jacobs
+    id: paul-s-jacobs
+    last: Jacobs
+  - first: George
+    full: George Krupka
+    id: george-krupka
+    last: Krupka
+  - first: Lisa
+    full: Lisa Rau
+    id: lisa-rau
+    last: Rau
+  author_string: Paul S. Jacobs, George Krupka, Lisa Rau
+  bibkey: jacobs-etal-1993-ge
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '11'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1011.jpg
+  title: 'GE-CMU: Description of the SHOGUN System Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">GE</span>-<span class="acl-fixed-case">CMU</span>:
+    Description of the <span class="acl-fixed-case">SHOGUN</span> System Used for
+    <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1011
+  year: '1993'
+M93-1012:
+  author:
+  - first: Christine A.
+    full: Christine A. Montgomery
+    id: christine-a-montgomery
+    last: Montgomery
+  - first: Robert E.
+    full: Robert E. Stumberger
+    id: robert-e-stumberger
+    last: Stumberger
+  - first: Bonnie Glover
+    full: Bonnie Glover Stalls
+    id: bonnie-glover-stalls
+    last: Stalls
+  - first: Naicong
+    full: Naicong Li
+    id: naicong-li
+    last: Li
+  - first: Robert S.
+    full: Robert S. Belvin
+    id: robert-s-belvin
+    last: Belvin
+  - first: Susan Hirsh
+    full: Susan Hirsh Litenatsky
+    id: susan-hirsh-litenatsky
+    last: Litenatsky
+  author_string: Christine A. Montgomery, Robert E. Stumberger, Bonnie Glover Stalls,
+    Naicong Li, Robert S. Belvin, Susan Hirsh Litenatsky
+  bibkey: montgomery-etal-1993-language
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '12'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1012.jpg
+  title: 'Language Systems Inc: Description of the DBG System as Used for MUC-51'
+  title_html: '<span class="acl-fixed-case">L</span>anguage <span class="acl-fixed-case">S</span>ystems
+    <span class="acl-fixed-case">I</span>nc: Description of the <span class="acl-fixed-case">DBG</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-51'
+  url: https://www.aclweb.org/anthology/M93-1012
+  year: '1993'
+M93-1013:
+  author:
+  - first: John
+    full: John Aberdeen
+    id: john-aberdeen
+    last: Aberdeen
+  - first: John
+    full: John Burger
+    id: john-d-burger
+    last: Burger
+  - first: Dennis
+    full: Dennis Connolly
+    id: dennis-connolly
+    last: Connolly
+  - first: Susan
+    full: Susan Roberts
+    id: susan-roberts
+    last: Roberts
+  - first: Marc
+    full: Marc Vilain
+    id: marc-vilain
+    last: Vilain
+  author_string: John Aberdeen, John Burger, Dennis Connolly, Susan Roberts, Marc
+    Vilain
+  bibkey: aberdeen-etal-1993-mitre
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '13'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1013.jpg
+  title: MITRE-Bedford:Description of theAlembicSystem as Used for MUC-5
+  title_html: <span class="acl-fixed-case">MITRE</span>-<span class="acl-fixed-case">B</span>edford:Description
+    of the<span class="acl-fixed-case">A</span>lembic<span class="acl-fixed-case">S</span>ystem
+    as Used for <span class="acl-fixed-case">MUC</span>-5
+  url: https://www.aclweb.org/anthology/M93-1013
+  year: '1993'
+M93-1014:
+  author:
+  - first: Kazunori
+    full: Kazunori Muraki
+    id: kazunori-muraki
+    last: Muraki
+  - first: Shinichi
+    full: Shinichi Doi
+    id: shinichi-doi
+    last: Doi
+  - first: Shinichi
+    full: Shinichi Ando
+    id: shinichi-ando
+    last: Ando
+  author_string: Kazunori Muraki, Shinichi Doi, Shinichi Ando
+  bibkey: muraki-etal-1993-nec
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '14'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1014.jpg
+  title: 'NEC: Description of the VENIEX System as Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">NEC</span>: Description of the <span class="acl-fixed-case">VENIEX</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1014
+  year: '1993'
+M93-1015:
+  author:
+  - first: Jim
+    full: Jim Cowie
+    id: jim-cowie
+    last: Cowie
+  - first: Louise
+    full: Louise Guthrie
+    id: louise-guthrie
+    last: Guthrie
+  - first: Jin
+    full: Jin Wang
+    id: jin-wang
+    last: Wang
+  - first: Rong
+    full: Rong Wang
+    id: rong-wang
+    last: Wang
+  - first: Takahiro
+    full: Takahiro Wakao
+    id: takahiro-wakao
+    last: Wakao
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Scott
+    full: Scott Waterman
+    id: scott-waterman
+    last: Waterman
+  author_string: Jim Cowie, Louise Guthrie, Jin Wang, Rong Wang, Takahiro Wakao, James
+    Pustejovsky, Scott Waterman
+  bibkey: cowie-etal-1993-crl
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '15'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1015.jpg
+  title: 'CRL/Brandeis: Description of the Diderot System as Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">CRL/B</span>randeis: Description of the
+    <i><span class="acl-fixed-case">D</span>iderot</i> System as Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1015
+  year: '1993'
+M93-1016:
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: John
+    full: John Sterling
+    id: john-sterling
+    last: Sterling
+  author_string: Ralph Grishman, John Sterling
+  bibkey: grishman-sterling-1993-new
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '16'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1016.jpg
+  title: New York University Description of the PROTEUS System as Used for MUC-5
+  title_html: <span class="acl-fixed-case">N</span>ew <span class="acl-fixed-case">Y</span>ork
+    <span class="acl-fixed-case">U</span>niversity Description of the <span class="acl-fixed-case">PROTEUS</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-5
+  url: https://www.aclweb.org/anthology/M93-1016
+  year: '1993'
+M93-1017:
+  author:
+  - first: Bruce
+    full: Bruce Loatman
+    id: bruce-loatman
+    last: Loatman
+  - first: Chih-King
+    full: Chih-King Yang
+    id: chih-king-yang
+    last: Yang
+  author_string: Bruce Loatman, Chih-King Yang
+  bibkey: loatman-yang-1993-prc
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '17'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1017.jpg
+  title: 'PRC Inc.: Description of the PAKTUS System Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">PRC</span> <span class="acl-fixed-case">I</span>nc.:
+    Description of the <span class="acl-fixed-case">PAKTUS</span> System Used for
+    <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1017
+  year: '1993'
+M93-1018:
+  author:
+  - first: Chinatsu
+    full: Chinatsu Aone
+    id: chinatsu-aone
+    last: Aone
+  - first: Sharon
+    full: Sharon Flank
+    id: sharon-flank
+    last: Flank
+  - first: Doug
+    full: Doug McKee
+    id: douglas-mckee
+    last: McKee
+  - first: Paul
+    full: Paul Krause
+    id: paul-krause
+    last: Krause
+  author_string: Chinatsu Aone, Sharon Flank, Doug McKee, Paul Krause
+  bibkey: aone-etal-1993-sra
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '18'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1018.jpg
+  title: 'SRA: Description of the Solomon System as Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">SRA</span>: Description of the <span class="acl-fixed-case">S</span>olomon
+    System as Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1018
+  year: '1993'
+M93-1019:
+  author:
+  - first: Douglas E.
+    full: Douglas E. Appelt
+    id: douglas-appelt
+    last: Appelt
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: David
+    full: David Israel
+    id: david-israel
+    last: Israel
+  - first: Megumi
+    full: Megumi Kameyama
+    id: megumi-kameyama
+    last: Kameyama
+  - first: Mabry
+    full: Mabry Tyson
+    id: mabry-tyson
+    last: Tyson
+  author_string: Douglas E. Appelt, Jerry R. Hobbs, John Bear, David Israel, Megumi
+    Kameyama, Mabry Tyson
+  bibkey: appelt-etal-1993-sri
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '19'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1019.jpg
+  title: 'SRI: Description of the JV-FASTUS System Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">SRI</span>: Description of the <span class="acl-fixed-case">JV</span>-<span
+    class="acl-fixed-case">FASTUS</span> System Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1019
+  year: '1993'
+M93-1020:
+  author:
+  - first: William W.
+    full: William W. Noah
+    id: william-w-noah
+    last: Noah
+  - first: Rollin V.
+    full: Rollin V. Weeks
+    id: rollin-v-weeks
+    last: Weeks
+  author_string: William W. Noah, Rollin V. Weeks
+  bibkey: noah-weeks-1993-trw
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '20'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1020.jpg
+  title: 'TRW: Description of the DEFT System as Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">TRW</span>: Description of the <span class="acl-fixed-case">DEFT</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1020
+  year: '1993'
+M93-1021:
+  author:
+  - first: Carl
+    full: Carl Weir
+    id: carl-weir
+    last: Weir
+  - first: Rich
+    full: Rich Fritzson
+    id: richard-fritzson
+    last: Fritzson
+  author_string: Carl Weir, Rich Fritzson
+  bibkey: weir-fritzson-1993-unisys
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '21'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1021.jpg
+  title: 'UNISYS: Description of the CBAS System Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">UNISYS</span>: Description of the <span
+    class="acl-fixed-case">CBAS</span> System Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1021
+  year: '1993'
+M93-1022:
+  author:
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Dekang Lin
+  bibkey: lin-1993-university
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '22'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1022.jpg
+  title: 'University of Manitoba: Description of the NUBA System as Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">U</span>niversity of <span class="acl-fixed-case">M</span>anitoba:
+    Description of the <span class="acl-fixed-case">NUBA</span> System as Used for
+    <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1022
+  year: '1993'
+M93-1023:
+  author:
+  - first: W.
+    full: W. Lehnert
+    id: wendy-lehnert
+    last: Lehnert
+  - first: J.
+    full: J. McCarthy
+    id: joe-mccarthy
+    last: McCarthy
+  - first: S.
+    full: S. Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: E.
+    full: E. Riloff
+    id: ellen-riloff
+    last: Riloff
+  - first: C.
+    full: C. Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: J.
+    full: J. Peterson
+    id: j-peterson
+    last: Peterson
+  - first: F.
+    full: F. Feng
+    id: fangfang-feng
+    last: Feng
+  author_string: W. Lehnert, J. McCarthy, S. Soderland, E. Riloff, C. Cardie, J. Peterson,
+    F. Feng
+  bibkey: lehnert-etal-1993-umass
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '23'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1023.jpg
+  title: 'UMass/Hughes: Description of the CIRCUS System Used for MUC-51'
+  title_html: '<span class="acl-fixed-case">UM</span>ass/<span class="acl-fixed-case">H</span>ughes:
+    Description of the <span class="acl-fixed-case">CIRCUS</span> System Used for
+    <span class="acl-fixed-case">MUC</span>-51'
+  url: https://www.aclweb.org/anthology/M93-1023
+  year: '1993'
+M93-1024:
+  author:
+  - first: Steven L.
+    full: Steven L. Lytinen
+    id: steven-l-lytinen
+    last: Lytinen
+  - first: Robert R.
+    full: Robert R. Burridge
+    id: robert-r-burridge
+    last: Burridge
+  - first: Peter M.
+    full: Peter M. Hastings
+    id: peter-m-hastings
+    last: Hastings
+  - first: Christian
+    full: Christian Huyck
+    id: christian-huyck
+    last: Huyck
+  author_string: Steven L. Lytinen, Robert R. Burridge, Peter M. Hastings, Christian
+    Huyck
+  bibkey: lytinen-etal-1993-description
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '24'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1024.jpg
+  title: Description of the LINK System Used for MUC-5
+  title_html: Description of the <span class="acl-fixed-case">LINK</span> System Used
+    for <span class="acl-fixed-case">MUC</span>-5
+  url: https://www.aclweb.org/anthology/M93-1024
+  year: '1993'
+M93-1025:
+  author:
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Seungho
+    full: Seungho Cha
+    id: seungho-cha
+    last: Cha
+  - first: Minhwa
+    full: Minhwa Chung
+    id: minhwa-chung
+    last: Chung
+  - first: Tony
+    full: Tony Gallippi
+    id: tony-gallippi
+    last: Gallippi
+  - first: Kenneth J.
+    full: Kenneth J. Hendrickson
+    id: kenneth-j-hendrickson
+    last: Hendrickson
+  - first: Jun-Tae
+    full: Jun-Tae Kim
+    id: jun-tae-kim
+    last: Kim
+  - first: Changhwa
+    full: Changhwa Lin
+    id: changhwa-lin
+    last: Lin
+  - first: Chinyew
+    full: Chinyew Lin
+    id: chinyew-lin
+    last: Lin
+  author_string: Dan Moldovan, Seungho Cha, Minhwa Chung, Tony Gallippi, Kenneth J.
+    Hendrickson, Jun-Tae Kim, Changhwa Lin, Chinyew Lin
+  bibkey: moldovan-etal-1993-usc
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '25'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1025.jpg
+  title: 'USC: Description of the SNAP System Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">USC</span>: Description of the <span class="acl-fixed-case">SNAP</span>
+    System Used for <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1025
+  year: '1993'
+M93-1026:
+  author:
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  - first: Lynne
+    full: Lynne Cahill
+    id: lynne-cahill
+    last: Cahill
+  - first: Roger
+    full: Roger Evans
+    id: roger-evans
+    last: Evans
+  author_string: Robert Gaizauskas, Lynne Cahill, Roger Evans
+  bibkey: gaizauskas-etal-1993-sussex
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '26'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1026.jpg
+  title: 'Sussex University: Description of the Sussex System Used for MUC-5'
+  title_html: '<span class="acl-fixed-case">S</span>ussex <span class="acl-fixed-case">U</span>niversity:
+    Description of the <span class="acl-fixed-case">S</span>ussex System Used for
+    <span class="acl-fixed-case">MUC</span>-5'
+  url: https://www.aclweb.org/anthology/M93-1026
+  year: '1993'
+M93-1027:
+  author:
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: James Pustejovsky
+  bibkey: pustejovsky-1993-summary
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '27'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1027.jpg
+  title: Summary of Workshop on Lexicons for Text Extraction
+  title_html: Summary of Workshop on Lexicons for Text Extraction
+  url: https://www.aclweb.org/anthology/M93-1027
+  year: '1993'
+M93-1028:
+  author:
+  - first: Robert E.
+    full: Robert E. Stumberger
+    id: robert-e-stumberger
+    last: Stumberger
+  author_string: Robert E. Stumberger
+  bibkey: stumberger-1993-report
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '28'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1028.jpg
+  title: Report from the Text Analysis Techniques Topic Session
+  title_html: Report from the Text Analysis Techniques Topic Session
+  url: https://www.aclweb.org/anthology/M93-1028
+  year: '1993'
+M93-1029:
+  author:
+  - first: Paul S.
+    full: Paul S. Jacobs
+    id: paul-s-jacobs
+    last: Jacobs
+  author_string: Paul S. Jacobs
+  bibkey: jacobs-1993-information
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '29'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1029.jpg
+  title: Information Extraction for the Future
+  title_html: Information Extraction for the Future
+  url: https://www.aclweb.org/anthology/M93-1029
+  year: '1993'
+M93-1030:
+  author:
+  - first: Damaris M.
+    full: Damaris M. Ayuso
+    id: damaris-ayuso
+    last: Ayuso
+  author_string: Damaris M. Ayuso
+  bibkey: ayuso-1993-topic
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '30'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1030.jpg
+  title: Topic Session on DISCOURSE
+  title_html: Topic Session on <span class="acl-fixed-case">DISCOURSE</span>
+  url: https://www.aclweb.org/anthology/M93-1030
+  year: '1993'
+M93-1031:
+  author:
+  - first: Joe
+    full: Joe McCarthy
+    id: joe-mccarthy
+    last: McCarthy
+  author_string: Joe McCarthy
+  bibkey: mccarthy-1993-tools
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '31'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1031.jpg
+  title: Tools and Techniques for Rapid Porting
+  title_html: Tools and Techniques for Rapid Porting
+  url: https://www.aclweb.org/anthology/M93-1031
+  year: '1993'
+M93-1032:
+  author:
+  - first: Lisa F.
+    full: Lisa F. Rau
+    id: lisa-rau
+    last: Rau
+  author_string: Lisa F. Rau
+  bibkey: rau-1993-information
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '32'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1032.jpg
+  title: Information Extraction and Evaluation
+  title_html: Information Extraction and Evaluation
+  url: https://www.aclweb.org/anthology/M93-1032
+  year: '1993'
+M93-1033:
+  bibkey: nn-1993-appendix
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '33'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1033.jpg
+  title: 'Appendix A: System Walkthrough Reference Materials'
+  title_html: 'Appendix <span class="acl-fixed-case">A</span>: System Walkthrough
+    Reference Materials'
+  url: https://www.aclweb.org/anthology/M93-1033
+  year: '1993'
+M93-1034:
+  bibkey: nn-1993-appendix-b
+  bibtype: inproceedings
+  booktitle: 'Fifth Message Understanding Conference (MUC-5): Proceedings of a Conference
+    Held in Baltimore, Maryland, August 25-27, 1993'
+  booktitle_html: 'Fifth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-5):
+    Proceedings of a Conference Held in Baltimore, <span class="acl-fixed-case">M</span>aryland,
+    August 25-27, 1993'
+  paper_id: '34'
+  parent_volume_id: M93-1
+  pdf: https://www.aclweb.org/anthology/M93-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M93-1034.jpg
+  title: 'Appendix B: MUC-5 Test Scores'
+  title_html: 'Appendix <span class="acl-fixed-case">B</span>: <span class="acl-fixed-case">MUC</span>-5
+    Test Scores'
+  url: https://www.aclweb.org/anthology/M93-1034
+  year: '1993'

@@ -1,0 +1,1747 @@
+W96-0100:
+  bibkey: ws-1996-large
+  bibtype: proceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  paper_id: '0'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0100.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0100.jpg
+  title: Fourth Workshop on Very Large Corpora
+  title_html: Fourth Workshop on Very Large Corpora
+  url: https://www.aclweb.org/anthology/W96-0100
+  year: '1996'
+W96-0101:
+  author:
+  - first: Evelyne
+    full: Evelyne Tzoukermann
+    id: evelyne-tzoukermann
+    last: Tzoukermann
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: Evelyne Tzoukermann, Dragomir R. Radev
+  bibkey: tzoukermann-radev-1996-using
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '1'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0101.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0101.jpg
+  title: Using Word Class for Part-of-speech Disambiguation
+  title_html: Using Word Class for Part-of-speech Disambiguation
+  url: https://www.aclweb.org/anthology/W96-0101
+  year: '1996'
+W96-0102:
+  author:
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  - first: Jakub
+    full: Jakub Zavrel
+    id: jakub-zavrel
+    last: Zavrel
+  - first: Peter
+    full: Peter Berck
+    id: peter-berck
+    last: Berck
+  - first: Steven
+    full: Steven Gillis
+    id: steven-gillis
+    last: Gillis
+  author_string: Walter Daelemans, Jakub Zavrel, Peter Berck, Steven Gillis
+  bibkey: daelemans-etal-1996-mbt
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '2'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0102.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0102.jpg
+  title: 'MBT: A Memory-Based Part of Speech Tagger-Generator'
+  title_html: '<span class="acl-fixed-case">MBT</span>: A Memory-Based Part of Speech
+    Tagger-Generator'
+  url: https://www.aclweb.org/anthology/W96-0102
+  year: '1996'
+W96-0103:
+  author:
+  - first: Akira
+    full: Akira Ushioda
+    id: akira-ushioda
+    last: Ushioda
+  author_string: Akira Ushioda
+  bibkey: ushioda-1996-hierarchical-clustering
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '3'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0103.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0103.jpg
+  title: Hierarchical Clustering of Words and Application to NLP Tasks
+  title_html: Hierarchical Clustering of Words and Application to <span class="acl-fixed-case">NLP</span>
+    Tasks
+  url: https://www.aclweb.org/anthology/W96-0103
+  year: '1996'
+W96-0104:
+  author:
+  - first: Yael
+    full: Yael Karov
+    id: yael-karov
+    last: Karov
+  - first: Shimon
+    full: Shimon Edelman
+    id: shimon-edelman
+    last: Edelman
+  author_string: Yael Karov, Shimon Edelman
+  bibkey: karov-edelman-1996-learning
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '4'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0104.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0104.jpg
+  title: Learning Similarity-based Word Sense Disambiguation from Sparse Data
+  title_html: Learning Similarity-based Word Sense Disambiguation from Sparse Data
+  url: https://www.aclweb.org/anthology/W96-0104
+  year: '1996'
+W96-0105:
+  author:
+  - first: Atsushi
+    full: Atsushi Fujii
+    id: atsushi-fujii
+    last: Fujii
+  - first: Kentaro
+    full: Kentaro Inui
+    id: kentaro-inui
+    last: Inui
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  author_string: Atsushi Fujii, Kentaro Inui, Takenobu Tokunaga, Hozumi Tanaka
+  bibkey: fujii-etal-1996-selective
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '5'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0105.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0105.jpg
+  title: Selective Sampling of Effective Example Sentence Sets for Word Sense Disambiguation
+  title_html: Selective Sampling of Effective Example Sentence Sets for Word Sense
+    Disambiguation
+  url: https://www.aclweb.org/anthology/W96-0105
+  year: '1996'
+W96-0106:
+  author:
+  - first: Christer
+    full: Christer Samuelsson
+    id: christer-samuelsson
+    last: Samuelsson
+  author_string: Christer Samuelsson
+  bibkey: samuelsson-1996-relating
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '6'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0106.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0106.jpg
+  title: "Relating Turing\u2019s Formula and Zipf\u2019s Law"
+  title_html: "Relating <span class=\"acl-fixed-case\">T</span>uring\u2019s Formula\
+    \ and <span class=\"acl-fixed-case\">Z</span>ipf\u2019s Law"
+  url: https://www.aclweb.org/anthology/W96-0106
+  year: '1996'
+W96-0107:
+  author:
+  - first: Mihoko
+    full: Mihoko Kitamura
+    id: mihoko-kitamura
+    last: Kitamura
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Mihoko Kitamura, Yuji Matsumoto
+  bibkey: kitamura-matsumoto-1996-automatic
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '7'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0107.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0107.jpg
+  title: Automatic Extraction of Word Sequence Correspondences in Parallel Corpora
+  title_html: Automatic Extraction of Word Sequence Correspondences in Parallel Corpora
+  url: https://www.aclweb.org/anthology/W96-0107
+  year: '1996'
+W96-0108:
+  author:
+  - first: Xiang
+    full: Xiang Tong
+    id: xiang-tong
+    last: Tong
+  - first: David A.
+    full: David A. Evans
+    id: david-a-evans
+    last: Evans
+  author_string: Xiang Tong, David A. Evans
+  bibkey: tong-evans-1996-statistical
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '8'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0108.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0108.jpg
+  title: A Statistical Approach to Automatic OCR Error Correction in Context
+  title_html: A Statistical Approach to Automatic <span class="acl-fixed-case">OCR</span>
+    Error Correction in Context
+  url: https://www.aclweb.org/anthology/W96-0108
+  year: '1996'
+W96-0109:
+  author:
+  - first: Tadashi
+    full: Tadashi Nomoto
+    id: tadashi-nomoto
+    last: Nomoto
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Tadashi Nomoto, Yuji Matsumoto
+  bibkey: nomoto-matsumoto-1996-exploiting
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '9'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0109.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0109.jpg
+  title: Exploiting Text Structure for Topic Identification
+  title_html: Exploiting Text Structure for Topic Identification
+  url: https://www.aclweb.org/anthology/W96-0109
+  year: '1996'
+W96-0110:
+  author:
+  - first: TungHui
+    full: TungHui Chiang
+    id: tung-hui-chiang
+    last: Chiang
+  - first: Keh-Yih
+    full: Keh-Yih Su
+    id: keh-yih-su
+    last: Su
+  author_string: TungHui Chiang, Keh-Yih Su
+  bibkey: chiang-su-1996-statistical
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '10'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0110.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0110.jpg
+  title: Statistical Models for Deep-structure Disambiguation
+  title_html: Statistical Models for Deep-structure Disambiguation
+  url: https://www.aclweb.org/anthology/W96-0110
+  year: '1996'
+W96-0111:
+  author:
+  - first: Rens
+    full: Rens Bod
+    id: rens-bod
+    last: Bod
+  author_string: Rens Bod
+  bibkey: bod-1996-two
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '11'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0111.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0111.jpg
+  title: Two Questions about Data-Oriented Parsing
+  title_html: Two Questions about Data-Oriented Parsing
+  url: https://www.aclweb.org/anthology/W96-0111
+  year: '1996'
+W96-0112:
+  author:
+  - first: Hang
+    full: Hang Li
+    id: hang-li
+    last: Li
+  author_string: Hang Li
+  bibkey: li-1996-probabilistic
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '12'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0112.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0112.jpg
+  title: A Probabilistic Disambiguation Method Based on Psycholinguistic Principles
+  title_html: A Probabilistic Disambiguation Method Based on Psycholinguistic Principles
+  url: https://www.aclweb.org/anthology/W96-0112
+  year: '1996'
+W96-0113:
+  author:
+  - first: Mikio
+    full: Mikio Yamamoto
+    id: mikio-yamamoto
+    last: Yamamoto
+  author_string: Mikio Yamamoto
+  bibkey: yamamoto-1996-estimation
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '13'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0113.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0113.jpg
+  title: A Re-estimation Method for Stochastic Language Modeling from Ambiguous Observations
+  title_html: A Re-estimation Method for Stochastic Language Modeling from Ambiguous
+    Observations
+  url: https://www.aclweb.org/anthology/W96-0113
+  year: '1996'
+W96-0114:
+  author:
+  - first: Thanaruk
+    full: Thanaruk Theeramunkong
+    id: thanaruk-theeramunkong
+    last: Theeramunkong
+  - first: Manabu
+    full: Manabu Okumara
+    id: manabu-okumura
+    last: Okumara
+  author_string: Thanaruk Theeramunkong, Manabu Okumara
+  bibkey: theeramunkong-okumara-1996-towards
+  bibtype: inproceedings
+  booktitle: Fourth Workshop on Very Large Corpora
+  booktitle_html: Fourth Workshop on Very Large Corpora
+  paper_id: '14'
+  parent_volume_id: W96-01
+  pdf: https://www.aclweb.org/anthology/W96-0114.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0114.jpg
+  title: Towards Automatic Grammar Acquisition from a Bracketed Corpus
+  title_html: Towards Automatic Grammar Acquisition from a Bracketed Corpus
+  url: https://www.aclweb.org/anthology/W96-0114
+  year: '1996'
+W96-0200:
+  bibkey: ws-1996-empirical
+  bibtype: proceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '0'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0200.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0200.jpg
+  title: Conference on Empirical Methods in Natural Language Processing
+  title_html: Conference on Empirical Methods in Natural Language Processing
+  url: https://www.aclweb.org/anthology/W96-0200
+  year: '1996'
+W96-0201:
+  author:
+  - first: I. Dan
+    full: I. Dan Melamed
+    id: i-dan-melamed
+    last: Melamed
+  author_string: I. Dan Melamed
+  bibkey: melamed-1996-geometric
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '1'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0201.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0201.jpg
+  title: A Geometric Approach to Mapping Bitext Correspondence
+  title_html: A Geometric Approach to Mapping Bitext Correspondence
+  url: https://www.aclweb.org/anthology/W96-0201
+  year: '1996'
+W96-0202:
+  author:
+  - first: Xuanyin
+    full: Xuanyin Xia
+    id: xuanyin-xia
+    last: Xia
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Xuanyin Xia, Dekai Wu
+  bibkey: xia-wu-1996-parsing
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '2'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0202.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0202.jpg
+  title: Parsing Chinese With an Almost-Context-Free Grammar
+  title_html: Parsing <span class="acl-fixed-case">C</span>hinese With an Almost-Context-Free
+    Grammar
+  url: https://www.aclweb.org/anthology/W96-0202
+  year: '1996'
+W96-0203:
+  author:
+  - first: R.
+    full: R. Basili
+    id: roberto-basili
+    last: Basili
+  - first: A.
+    full: A. Marziali
+    id: a-marziali
+    last: Marziali
+  - first: M.T.
+    full: M.T. Pazienza
+    id: maria-teresa-pazienza
+    last: Pazienza
+  - first: P.
+    full: P. Velardi
+    id: paola-velardi
+    last: Velardi
+  author_string: R. Basili, A. Marziali, M.T. Pazienza, P. Velardi
+  bibkey: basili-etal-1996-unsupervised
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '3'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0203.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0203.jpg
+  title: 'Unsupervised Learning of Syntactic Knowledge: Methods and Measures'
+  title_html: 'Unsupervised Learning of Syntactic Knowledge: Methods and Measures'
+  url: https://www.aclweb.org/anthology/W96-0203
+  year: '1996'
+W96-0204:
+  author:
+  - first: Marie
+    full: Marie Meteer
+    id: marie-meteer
+    last: Meteer
+  - first: Rukmini
+    full: Rukmini Iyer
+    id: rukmini-iyer
+    last: Iyer
+  author_string: Marie Meteer, Rukmini Iyer
+  bibkey: meteer-iyer-1996-modeling
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '4'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0204.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0204.jpg
+  title: Modeling Conversational Speech for Speech Recognition
+  title_html: Modeling Conversational Speech for Speech Recognition
+  url: https://www.aclweb.org/anthology/W96-0204
+  year: '1996'
+W96-0205:
+  author:
+  - first: Masaaki
+    full: Masaaki Nagata
+    id: masaaki-nagata
+    last: Nagata
+  author_string: Masaaki Nagata
+  bibkey: nagata-1996-automatic
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '5'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0205.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0205.jpg
+  title: Automatic Extraction of New Words from Japanese Texts using Generalized Forward-Backward
+    Search
+  title_html: Automatic Extraction of New Words from <span class="acl-fixed-case">J</span>apanese
+    Texts using Generalized Forward-Backward Search
+  url: https://www.aclweb.org/anthology/W96-0205
+  year: '1996'
+W96-0206:
+  author:
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  author_string: Thorsten Brants
+  bibkey: brants-1996-better
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '6'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0206.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0206.jpg
+  title: Better Language Models with Model Merging
+  title_html: Better Language Models with Model Merging
+  url: https://www.aclweb.org/anthology/W96-0206
+  year: '1996'
+W96-0207:
+  author:
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  - first: Gokhan
+    full: Gokhan Tur
+    id: gokhan-tur
+    last: Tur
+  author_string: Kemal Oflazer, Gokhan Tur
+  bibkey: oflazer-tur-1996-combining
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '7'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0207.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0207.jpg
+  title: Combining Hand-crafted Rules and Unsupervised Learning in Constraint-based
+    Morphological Disambiguation
+  title_html: Combining Hand-crafted Rules and Unsupervised Learning in Constraint-based
+    Morphological Disambiguation
+  url: https://www.aclweb.org/anthology/W96-0207
+  year: '1996'
+W96-0208:
+  author:
+  - first: Raymond J.
+    full: Raymond J. Mooney
+    id: raymond-mooney
+    last: Mooney
+  author_string: Raymond J. Mooney
+  bibkey: mooney-1996-comparative
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '8'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0208.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0208.jpg
+  title: 'Comparative Experiments on Disambiguating Word Senses: An Illustration of
+    the Role of Bias in Machine Learning'
+  title_html: 'Comparative Experiments on Disambiguating Word Senses: An Illustration
+    of the Role of Bias in Machine Learning'
+  url: https://www.aclweb.org/anthology/W96-0208
+  year: '1996'
+W96-0209:
+  author:
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  author_string: John Carroll, Ted Briscoe
+  bibkey: carroll-briscoe-1996-apportioning
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '9'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0209.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0209.jpg
+  title: Apportioning Development Effort in a Probabilistic LR Parsing System Through
+    Evaluation
+  title_html: Apportioning Development Effort in a Probabilistic <span class="acl-fixed-case">LR</span>
+    Parsing System Through Evaluation
+  url: https://www.aclweb.org/anthology/W96-0209
+  year: '1996'
+W96-0210:
+  author:
+  - first: Rebecca
+    full: Rebecca Bruce
+    id: rebecca-bruce
+    last: Bruce
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Rebecca Bruce, Janyce Wiebe, Ted Pedersen
+  bibkey: bruce-etal-1996-measure
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '10'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0210.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0210.jpg
+  title: The Measure of a Model
+  title_html: The Measure of a Model
+  url: https://www.aclweb.org/anthology/W96-0210
+  year: '1996'
+W96-0211:
+  author:
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Claire Cardie
+  bibkey: cardie-1996-automating
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '11'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0211.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0211.jpg
+  title: Automating Feature Set Selection for Case-Based Learning of Linguistic Knowledge
+  title_html: Automating Feature Set Selection for Case-Based Learning of Linguistic
+    Knowledge
+  url: https://www.aclweb.org/anthology/W96-0211
+  year: '1996'
+W96-0212:
+  author:
+  - first: Sharon A.
+    full: Sharon A. Caraballo
+    id: sharon-a-caraballo
+    last: Caraballo
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  author_string: Sharon A. Caraballo, Eugene Charniak
+  bibkey: caraballo-charniak-1996-figures
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '12'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0212.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0212.jpg
+  title: Figures of Merit for Best-First Probabilistic Chart Parsing
+  title_html: Figures of Merit for Best-First Probabilistic Chart Parsing
+  url: https://www.aclweb.org/anthology/W96-0212
+  year: '1996'
+W96-0213:
+  author:
+  - first: Adwait
+    full: Adwait Ratnaparkhi
+    id: adwait-ratnaparkhi
+    last: Ratnaparkhi
+  author_string: Adwait Ratnaparkhi
+  bibkey: ratnaparkhi-1996-maximum
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '13'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0213.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0213.jpg
+  title: A Maximum Entropy Model for Part-Of-Speech Tagging
+  title_html: A Maximum Entropy Model for Part-Of-Speech Tagging
+  url: https://www.aclweb.org/anthology/W96-0213
+  year: '1996'
+W96-0214:
+  author:
+  - first: Joshua
+    full: Joshua Goodman
+    id: joshua-goodman
+    last: Goodman
+  author_string: Joshua Goodman
+  bibkey: goodman-1996-efficient
+  bibtype: inproceedings
+  booktitle: Conference on Empirical Methods in Natural Language Processing
+  booktitle_html: Conference on Empirical Methods in Natural Language Processing
+  paper_id: '14'
+  parent_volume_id: W96-02
+  pdf: https://www.aclweb.org/anthology/W96-0214.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0214.jpg
+  title: Efficient Algorithms for Parsing the DOP Model
+  title_html: Efficient Algorithms for Parsing the <span class="acl-fixed-case">DOP</span>
+    Model
+  url: https://www.aclweb.org/anthology/W96-0214
+  year: '1996'
+W96-0300:
+  bibkey: ws-1996-breadth
+  bibtype: proceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  paper_id: '0'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0300.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0300.jpg
+  title: Breadth and Depth of Semantic Lexicons
+  title_html: Breadth and Depth of Semantic Lexicons
+  url: https://www.aclweb.org/anthology/W96-0300
+  year: '1996'
+W96-0301:
+  author:
+  - first: Evelyne
+    full: Evelyne Viegas
+    id: evelyne-viegas
+    last: Viegas
+  author_string: Evelyne Viegas
+  bibkey: viegas-1996-breadth
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '1'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0301.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0301.jpg
+  title: Breadth and Depth of Semantic Lexicons - Notes on the Workshop
+  title_html: <span class="acl-fixed-case">B</span>readth and <span class="acl-fixed-case">D</span>epth
+    of <span class="acl-fixed-case">S</span>emantic <span class="acl-fixed-case">L</span>exicons
+    - Notes on the Workshop
+  url: https://www.aclweb.org/anthology/W96-0301
+  year: '1996'
+W96-0302:
+  author:
+  - first: Leonard
+    full: Leonard Talmy
+    id: leonard-talmy
+    last: Talmy
+  author_string: Leonard Talmy
+  bibkey: talmy-1996-language
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '2'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0302.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0302.jpg
+  title: How Language Structures Concepts - an Outline
+  title_html: How Language Structures Concepts - an Outline
+  url: https://www.aclweb.org/anthology/W96-0302
+  year: '1996'
+W96-0303:
+  author:
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  - first: Ann
+    full: Ann Copestake
+    id: ann-copestake
+    last: Copestake
+  author_string: Ted Briscoe, Ann Copestake
+  bibkey: briscoe-copestake-1996-controlling
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '3'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0303.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0303.jpg
+  title: Controlling the Application of Lexical Rules
+  title_html: Controlling the Application of Lexical Rules
+  url: https://www.aclweb.org/anthology/W96-0303
+  year: '1996'
+W96-0304:
+  author:
+  - first: Jill
+    full: Jill Burstein
+    id: jill-burstein
+    last: Burstein
+  - first: Randy
+    full: Randy Kaplan
+    id: randy-m-kaplan
+    last: Kaplan
+  - first: Susanne
+    full: Susanne Wolff
+    id: susanne-wolff
+    last: Wolff
+  - first: Chi
+    full: Chi Lu
+    id: chi-lu
+    last: Lu
+  author_string: Jill Burstein, Randy Kaplan, Susanne Wolff, Chi Lu
+  bibkey: burstein-etal-1996-using
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '4'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0304.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0304.jpg
+  title: Using Lexical Semantic Techniques to Classify Free-Responses
+  title_html: Using Lexical Semantic Techniques to Classify Free-Responses
+  url: https://www.aclweb.org/anthology/W96-0304
+  year: '1996'
+W96-0305:
+  author:
+  - first: Jason J.S.
+    full: Jason J.S. Chang
+    id: jason-s-chang
+    last: Chang
+  - first: J.N.
+    full: J.N. Chen
+    id: j-n-chen
+    last: Chen
+  author_string: Jason J.S. Chang, J.N. Chen
+  bibkey: chang-chen-1996-acquisition
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '5'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0305.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0305.jpg
+  title: Acquisition of Computational-Semantic Lexicons from Machine Readable Lexical
+    Resources
+  title_html: Acquisition of Computational-Semantic Lexicons from Machine Readable
+    Lexical Resources
+  url: https://www.aclweb.org/anthology/W96-0305
+  year: '1996'
+W96-0306:
+  author:
+  - first: Bonnie J.
+    full: Bonnie J. Dorr
+    id: bonnie-dorr
+    last: Dorr
+  - first: Doug
+    full: Doug Jones
+    id: douglas-jones
+    last: Jones
+  author_string: Bonnie J. Dorr, Doug Jones
+  bibkey: dorr-jones-1996-acquisition
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '6'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0306.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0306.jpg
+  title: 'Acquisition of Semantic Lexicons: Using Word Sense Disambiguation to Improve
+    Precision'
+  title_html: 'Acquisition of Semantic Lexicons: Using Word Sense Disambiguation to
+    Improve Precision'
+  url: https://www.aclweb.org/anthology/W96-0306
+  year: '1996'
+W96-0307:
+  author:
+  - first: Brendan S.
+    full: Brendan S. Gillon
+    id: brendan-s-gillon
+    last: Gillon
+  author_string: Brendan S. Gillon
+  bibkey: gillon-1996-lexical
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '7'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0307.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0307.jpg
+  title: The Lexical Semantics of English Count and Mass Nouns
+  title_html: The Lexical Semantics of <span class="acl-fixed-case">E</span>nglish
+    Count and Mass Nouns
+  url: https://www.aclweb.org/anthology/W96-0307
+  year: '1996'
+W96-0308:
+  author:
+  - first: Stephen
+    full: Stephen Helmreich
+    id: stephen-helmreich
+    last: Helmreich
+  - first: David
+    full: David Farwell
+    id: david-farwell
+    last: Farwell
+  author_string: Stephen Helmreich, David Farwell
+  bibkey: helmreich-farwell-1996-lexical
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '8'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0308.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0308.jpg
+  title: Lexical Rules is Italicized
+  title_html: <i>Lexical Rules</i> is Italicized
+  url: https://www.aclweb.org/anthology/W96-0308
+  year: '1996'
+W96-0309:
+  author:
+  - first: Michael
+    full: Michael Johnston
+    id: michael-johnston
+    last: Johnston
+  - first: Federica
+    full: Federica Busa
+    id: federica-busa
+    last: Busa
+  author_string: Michael Johnston, Federica Busa
+  bibkey: johnston-busa-1996-qualia
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '9'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0309.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0309.jpg
+  title: Qualia Structure and the Compositional Interpretation of Compounds
+  title_html: Qualia Structure and the Compositional Interpretation of Compounds
+  url: https://www.aclweb.org/anthology/W96-0309
+  year: '1996'
+W96-0310:
+  author:
+  - first: Victor
+    full: Victor Raskin
+    id: victor-raskin
+    last: Raskin
+  - first: Sergei
+    full: Sergei Nirenburg
+    id: sergei-nirenburg
+    last: Nirenburg
+  author_string: Victor Raskin, Sergei Nirenburg
+  bibkey: raskin-nirenburg-1996-lexical
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '10'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0310.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0310.jpg
+  title: Lexical Rules for Deverbal Adjectives
+  title_html: Lexical Rules for Deverbal Adjectives
+  url: https://www.aclweb.org/anthology/W96-0310
+  year: '1996'
+W96-0311:
+  author:
+  - first: Onur T.
+    full: Onur T. Sehitoglu
+    id: onur-t-sehitoglu
+    last: Sehitoglu
+  - first: H. Cem
+    full: H. Cem Bozsahin
+    id: cem-bozsahin
+    last: Bozsahin
+  author_string: Onur T. Sehitoglu, H. Cem Bozsahin
+  bibkey: sehitoglu-bozsahin-1996-morphological
+  bibtype: inproceedings
+  booktitle: Breadth and Depth of Semantic Lexicons
+  booktitle_html: Breadth and Depth of Semantic Lexicons
+  paper_id: '11'
+  parent_volume_id: W96-03
+  pdf: https://www.aclweb.org/anthology/W96-0311.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0311.jpg
+  title: Morphological Productivity in the Lexicon
+  title_html: Morphological Productivity in the Lexicon
+  url: https://www.aclweb.org/anthology/W96-0311
+  year: '1996'
+W96-0400:
+  bibkey: ws-1996-international
+  bibtype: proceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  paper_id: '0'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0400.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0400.jpg
+  title: Eighth International Natural Language Generation Workshop
+  title_html: Eighth International Natural Language Generation Workshop
+  url: https://www.aclweb.org/anthology/W96-0400
+  year: '1996'
+W96-0401:
+  author:
+  - first: Leo
+    full: Leo Wanner
+    id: leo-wanner
+    last: Wanner
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Leo Wanner, Eduard Hovy
+  bibkey: wanner-hovy-1996-healthdoc
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '1'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0401.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0401.jpg
+  title: The HealthDoc Sentence Planner
+  title_html: The <span class="acl-fixed-case">H</span>ealth<span class="acl-fixed-case">D</span>oc
+    Sentence Planner
+  url: https://www.aclweb.org/anthology/W96-0401
+  year: '1996'
+W96-0402:
+  author:
+  - first: Keith
+    full: Keith Vander Linden
+    id: keith-vander-linden
+    last: Vander Linden
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  author_string: Keith Vander Linden, Barbara Di Eugenio
+  bibkey: vander-linden-di-eugenio-1996-learning
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '2'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0402.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0402.jpg
+  title: Learning Micro-Planning Rules for Preventive Expressions
+  title_html: Learning Micro-Planning Rules for Preventive Expressions
+  url: https://www.aclweb.org/anthology/W96-0402
+  year: '1996'
+W96-0403:
+  author:
+  - first: Xiaorong
+    full: Xiaorong Huang
+    id: xiaorong-huang
+    last: Huang
+  - first: Armin
+    full: Armin Fiedler
+    id: armin-fiedler
+    last: Fiedler
+  author_string: Xiaorong Huang, Armin Fiedler
+  bibkey: huang-fiedler-1996-paraphrasing
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '3'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0403.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0403.jpg
+  title: Paraphrasing and Aggregating Argumentative Texts Using Text Structure
+  title_html: Paraphrasing and Aggregating Argumentative Texts Using Text Structure
+  url: https://www.aclweb.org/anthology/W96-0403
+  year: '1996'
+W96-0404:
+  author:
+  - first: Nicolas
+    full: Nicolas Nicolov
+    id: nicolas-nicolov
+    last: Nicolov
+  - first: Chris
+    full: Chris Mellish
+    id: chris-mellish
+    last: Mellish
+  - first: Graeme
+    full: Graeme Ritchie
+    id: graeme-ritchie
+    last: Ritchie
+  author_string: Nicolas Nicolov, Chris Mellish, Graeme Ritchie
+  bibkey: nicolov-etal-1996-approximate
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '4'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0404.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0404.jpg
+  title: Approximate Generation from Non-Hierarchical Representations
+  title_html: Approximate Generation from Non-Hierarchical Representations
+  url: https://www.aclweb.org/anthology/W96-0404
+  year: '1996'
+W96-0405:
+  author:
+  - first: Michael
+    full: "Michael O\u2019Donnell"
+    id: michael-odonnell
+    last: "O\u2019Donnell"
+  author_string: "Michael O\u2019Donnell"
+  bibkey: odonnell-1996-input
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '5'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0405.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0405.jpg
+  title: Input Specification in the WAG Sentence Generation System
+  title_html: Input Specification in the <span class="acl-fixed-case">WAG</span> Sentence
+    Generation System
+  url: https://www.aclweb.org/anthology/W96-0405
+  year: '1996'
+W96-0406:
+  author:
+  - first: Massimo
+    full: Massimo Fasciano
+    id: massimo-fasciano
+    last: Fasciano
+  - first: Guy
+    full: Guy Lapalme
+    id: guy-lapalme
+    last: Lapalme
+  author_string: Massimo Fasciano, Guy Lapalme
+  bibkey: fasciano-lapalme-1996-postgraphe
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '6'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0406.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0406.jpg
+  title: 'PostGraphe: A System for the Generation of Statistical Graphics and Text'
+  title_html: '<span class="acl-fixed-case">P</span>ost<span class="acl-fixed-case">G</span>raphe:
+    A System for the Generation of Statistical Graphics and Text'
+  url: https://www.aclweb.org/anthology/W96-0406
+  year: '1996'
+W96-0407:
+  author:
+  - first: Svetlana
+    full: Svetlana Sheremetyeva
+    id: svetlana-sheremetyeva
+    last: Sheremetyeva
+  - first: Sergei
+    full: Sergei Nirenburg
+    id: sergei-nirenburg
+    last: Nirenburg
+  - first: Irene
+    full: Irene Nirenburg
+    id: irene-nirenburg
+    last: Nirenburg
+  author_string: Svetlana Sheremetyeva, Sergei Nirenburg, Irene Nirenburg
+  bibkey: sheremetyeva-etal-1996-generating
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '7'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0407.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0407.jpg
+  title: Generating Patent Claims from Interactive Input
+  title_html: Generating Patent Claims from Interactive Input
+  url: https://www.aclweb.org/anthology/W96-0407
+  year: '1996'
+W96-0408:
+  author:
+  - first: Kathleen F.
+    full: Kathleen F. McCoy
+    id: kathleen-f-mccoy
+    last: McCoy
+  - first: Christopher A.
+    full: Christopher A. Pennington
+    id: christopher-a-pennington
+    last: Pennington
+  - first: Linda Z.
+    full: Linda Z. Suri
+    id: linda-z-suri
+    last: Suri
+  author_string: Kathleen F. McCoy, Christopher A. Pennington, Linda Z. Suri
+  bibkey: mccoy-etal-1996-considering
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '8'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0408.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0408.jpg
+  title: Considering the Effects of Second Language Learning on Generation
+  title_html: Considering the Effects of Second Language Learning on Generation
+  url: https://www.aclweb.org/anthology/W96-0408
+  year: '1996'
+W96-0409:
+  author:
+  - first: Dilek Zeynep
+    full: Dilek Zeynep Hakkani
+    id: dilek-hakkani-tur
+    last: Hakkani
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  - first: Ilyas
+    full: Ilyas Cicekli
+    id: ilyas-cicekli
+    last: Cicekli
+  author_string: Dilek Zeynep Hakkani, Kemal Oflazer, Ilyas Cicekli
+  bibkey: hakkani-etal-1996-tactical
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '9'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0409.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0409.jpg
+  title: Tactical Generation in a Free Constituent Order Language
+  title_html: Tactical Generation in a Free Constituent Order Language
+  url: https://www.aclweb.org/anthology/W96-0409
+  year: '1996'
+W96-0410:
+  author:
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  - first: Christine
+    full: Christine Doran
+    id: christine-doran
+    last: Doran
+  author_string: Matthew Stone, Christine Doran
+  bibkey: stone-doran-1996-paying
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '10'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0410.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0410.jpg
+  title: Paying Heed to Collocations
+  title_html: Paying Heed to Collocations
+  url: https://www.aclweb.org/anthology/W96-0410
+  year: '1996'
+W96-0411:
+  author:
+  - first: Stephan
+    full: Stephan Busemann
+    id: stephan-busemann
+    last: Busemann
+  author_string: Stephan Busemann
+  bibkey: busemann-1996-best
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '11'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0411.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0411.jpg
+  title: Best-First Surface Realization
+  title_html: Best-First Surface Realization
+  url: https://www.aclweb.org/anthology/W96-0411
+  year: '1996'
+W96-0412:
+  author:
+  - first: Ching-Long
+    full: Ching-Long Yeh
+    id: ching-long-yeh
+    last: Yeh
+  author_string: Ching-Long Yeh
+  bibkey: yeh-1996-evaluation
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '12'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0412.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0412.jpg
+  title: An Evaluation of Anaphor Generation in Chinese
+  title_html: An Evaluation of Anaphor Generation in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/W96-0412
+  year: '1996'
+W96-0413:
+  author:
+  - first: Norman
+    full: Norman Creaney
+    id: norman-creaney
+    last: Creaney
+  author_string: Norman Creaney
+  bibkey: creaney-1996-algorithm
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '13'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0413.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0413.jpg
+  title: An Algorithm for Generating Quantifiers
+  title_html: An Algorithm for Generating Quantifiers
+  url: https://www.aclweb.org/anthology/W96-0413
+  year: '1996'
+W96-0414:
+  author:
+  - first: Farid
+    full: Farid Cerbah
+    id: farid-cerbah
+    last: Cerbah
+  author_string: Farid Cerbah
+  bibkey: cerbah-1996-study
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '14'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0414.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0414.jpg
+  title: A Study of some Lexical Differences between French and English Instructions
+    in a Multilingual Generation Framework
+  title_html: A Study of some Lexical Differences between <span class="acl-fixed-case">F</span>rench
+    and <span class="acl-fixed-case">E</span>nglish Instructions in a Multilingual
+    Generation Framework
+  url: https://www.aclweb.org/anthology/W96-0414
+  year: '1996'
+W96-0415:
+  author:
+  - first: Manfred
+    full: Manfred Stede
+    id: manfred-stede
+    last: Stede
+  author_string: Manfred Stede
+  bibkey: stede-1996-generative
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '15'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0415.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0415.jpg
+  title: A generative perspective on verbs and their readings
+  title_html: A generative perspective on verbs and their readings
+  url: https://www.aclweb.org/anthology/W96-0415
+  year: '1996'
+W96-0416:
+  author:
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  - first: Chris
+    full: Chris Mellish
+    id: chris-mellish
+    last: Mellish
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  - first: Mick
+    full: "Mick O\u2019Donnell"
+    id: mick-odonnell
+    last: "O\u2019Donnell"
+  author_string: "Alistair Knott, Chris Mellish, Jon Oberlander, Mick O\u2019Donnell"
+  bibkey: knott-etal-1996-sources
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '16'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0416.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0416.jpg
+  title: Sources of Flexibility in Dynamic Hypertext Generation
+  title_html: Sources of Flexibility in Dynamic Hypertext Generation
+  url: https://www.aclweb.org/anthology/W96-0416
+  year: '1996'
+W96-0417:
+  author:
+  - first: Maria
+    full: Maria Milosavljevic
+    id: maria-milosavljevic
+    last: Milosavljevic
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Maria Milosavljevic, Robert Dale
+  bibkey: milosavljevic-dale-1996-strategies
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '17'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0417.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0417.jpg
+  title: Strategies for Comparison in Encyclopedia Descriptions
+  title_html: Strategies for Comparison in Encyclopedia Descriptions
+  url: https://www.aclweb.org/anthology/W96-0417
+  year: '1996'
+W96-0418:
+  author:
+  - first: Brigitte
+    full: Brigitte Grote
+    id: brigitte-grote
+    last: Grote
+  author_string: Brigitte Grote
+  bibkey: grote-1996-matchmaking
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '18'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0418.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0418.jpg
+  title: 'Matchmaking: dialogue modelling and speech generation meet'
+  title_html: 'Matchmaking: dialogue modelling and speech generation meet'
+  url: https://www.aclweb.org/anthology/W96-0418
+  year: '1996'
+W96-0419:
+  bibkey: nn-1996-author-index
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop
+  booktitle_html: Eighth International Natural Language Generation Workshop
+  paper_id: '19'
+  parent_volume_id: W96-04
+  pdf: https://www.aclweb.org/anthology/W96-0419.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0419.jpg
+  title: Author Index
+  title_html: Author Index
+  url: https://www.aclweb.org/anthology/W96-0419
+  year: '1996'
+W96-0500:
+  bibkey: ws-1996-international-natural
+  bibtype: proceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  paper_id: '0'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0500.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0500.jpg
+  title: Eighth International Natural Language Generation Workshop (Posters and Demonstrations)
+  title_html: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  url: https://www.aclweb.org/anthology/W96-0500
+  year: '1996'
+W96-0501:
+  author:
+  - first: Michael
+    full: Michael Elhadad
+    id: michael-elhadad
+    last: Elhadad
+  - first: Jacques
+    full: Jacques Robin
+    id: jacques-robin
+    last: Robin
+  author_string: Michael Elhadad, Jacques Robin
+  bibkey: elhadad-robin-1996-overview
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '1'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0501.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0501.jpg
+  title: 'An Overview of SURGE: a Reusable Comprehensive Syntactic Realization Component'
+  title_html: 'An Overview of <span class="acl-fixed-case">SURGE</span>: a Reusable
+    Comprehensive Syntactic Realization Component'
+  url: https://www.aclweb.org/anthology/W96-0501
+  year: '1996'
+W96-0502:
+  author:
+  - first: Bruce
+    full: Bruce Jakeway
+    id: bruce-jakeway
+    last: Jakeway
+  - first: Chrysanne
+    full: Chrysanne DiMarco
+    id: chrysanne-dimarco
+    last: DiMarco
+  author_string: Bruce Jakeway, Chrysanne DiMarco
+  bibkey: jakeway-dimarco-1996-splat
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '2'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0502.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0502.jpg
+  title: 'SPLAT: A sentence-plan authoring tool'
+  title_html: '<span class="acl-fixed-case">SPLAT</span>: A sentence-plan authoring
+    tool'
+  url: https://www.aclweb.org/anthology/W96-0502
+  year: '1996'
+W96-0503:
+  author:
+  - first: Benoit
+    full: Benoit Lavoie
+    id: benoit-lavoie
+    last: Lavoie
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  author_string: Benoit Lavoie, Owen Rambow, Ehud Reiter
+  bibkey: lavoie-etal-1996-modelexplainer
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '3'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0503.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0503.jpg
+  title: The ModelExplainer
+  title_html: The <span class="acl-fixed-case">M</span>odel<span class="acl-fixed-case">E</span>xplainer
+  url: https://www.aclweb.org/anthology/W96-0503
+  year: '1996'
+W96-0504:
+  author:
+  - first: "C\xE9cile"
+    full: "C\xE9cile Paris"
+    id: cecile-paris
+    last: Paris
+  - first: Keith
+    full: Keith Vander Linden
+    id: keith-vander-linden
+    last: Vander Linden
+  author_string: "C\xE9cile Paris, Keith Vander Linden"
+  bibkey: paris-vander-linden-1996-drafter
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '4'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0504.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0504.jpg
+  title: DRAFTER
+  title_html: <span class="acl-fixed-case">DRAFTER</span>
+  url: https://www.aclweb.org/anthology/W96-0504
+  year: '1996'
+W96-0505:
+  author:
+  - first: Richard
+    full: Richard Power
+    id: richard-power
+    last: Power
+  - first: Nico
+    full: Nico Cavallotto
+    id: nico-cavallotto
+    last: Cavallotto
+  author_string: Richard Power, Nico Cavallotto
+  bibkey: power-cavallotto-1996-multilingual
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '5'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0505.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0505.jpg
+  title: Multilingual generation of administrative forms
+  title_html: Multilingual generation of administrative forms
+  url: https://www.aclweb.org/anthology/W96-0505
+  year: '1996'
+W96-0506:
+  author:
+  - first: Stephen
+    full: Stephen Beale
+    id: stephen-beale
+    last: Beale
+  - first: Sergei
+    full: Sergei Nirenburg
+    id: sergei-nirenburg
+    last: Nirenburg
+  author_string: Stephen Beale, Sergei Nirenburg
+  bibkey: beale-nirenburg-1996-picard
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '6'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0506.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0506.jpg
+  title: 'PICARD: The Next Generator'
+  title_html: '<span class="acl-fixed-case">PICARD</span>: The Next Generator'
+  url: https://www.aclweb.org/anthology/W96-0506
+  year: '1996'
+W96-0507:
+  author:
+  - first: "Jos\xE9"
+    full: "Jos\xE9 Coch"
+    id: jose-coch
+    last: Coch
+  author_string: "Jos\xE9 Coch"
+  bibkey: coch-1996-overview
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '7'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0507.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0507.jpg
+  title: Overview of AlethGen
+  title_html: Overview of <span class="acl-fixed-case">A</span>leth<span class="acl-fixed-case">G</span>en
+  url: https://www.aclweb.org/anthology/W96-0507
+  year: '1996'
+W96-0508:
+  author:
+  - first: Hercules
+    full: Hercules Dalianis
+    id: hercules-dalianis
+    last: Dalianis
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Hercules Dalianis, Eduard Hovy
+  bibkey: dalianis-hovy-1996-lexical
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '8'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0508.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0508.jpg
+  title: On Lexical Aggregation and Ordering
+  title_html: On Lexical Aggregation and Ordering
+  url: https://www.aclweb.org/anthology/W96-0508
+  year: '1996'
+W96-0509:
+  author:
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: Barbara Di Eugenio, Johanna D. Moore
+  bibkey: di-eugenio-moore-1996-generating
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '9'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0509.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0509.jpg
+  title: "Generating \u2018Distributed\u2019 Referring Expressions: an Initial Report"
+  title_html: "Generating \u2018Distributed\u2019 Referring Expressions: an Initial\
+    \ Report"
+  url: https://www.aclweb.org/anthology/W96-0509
+  year: '1996'
+W96-0510:
+  author:
+  - first: Beryl
+    full: Beryl Hoffman
+    id: beryl-hoffman
+    last: Hoffman
+  author_string: Beryl Hoffman
+  bibkey: hoffman-1996-summarization
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '10'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0510.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0510.jpg
+  title: 'Summarization: an Application for NL Generation'
+  title_html: '<span class="acl-fixed-case">S</span>ummarization: an Application for
+    <span class="acl-fixed-case">NL</span> Generation'
+  url: https://www.aclweb.org/anthology/W96-0510
+  year: '1996'
+W96-0511:
+  author:
+  - first: Yuen Q.
+    full: Yuen Q. Lin
+    id: yuen-q-lin
+    last: Lin
+  - first: Robin P.
+    full: Robin P. Fawcett
+    id: robin-p-fawcett
+    last: Fawcett
+  author_string: Yuen Q. Lin, Robin P. Fawcett
+  bibkey: lin-fawcett-1996-implementing
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '11'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0511.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0511.jpg
+  title: Implementing an Integration of the Systemic Flowchart Model of Dialogue and
+    Rhetorical Structure Theory
+  title_html: Implementing an Integration of the Systemic Flowchart Model of Dialogue
+    and Rhetorical Structure Theory
+  url: https://www.aclweb.org/anthology/W96-0511
+  year: '1996'
+W96-0512:
+  author:
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: Dragomir R. Radev
+  bibkey: radev-1996-architecture
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '12'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0512.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0512.jpg
+  title: An Architecture For Distributed Natural Language Summarization
+  title_html: An Architecture For Distributed Natural Language Summarization
+  url: https://www.aclweb.org/anthology/W96-0512
+  year: '1996'
+W96-0513:
+  author:
+  - first: Evelyne
+    full: Evelyne Viegas
+    id: evelyne-viegas
+    last: Viegas
+  - first: Stephen
+    full: Stephen Beale
+    id: stephen-beale
+    last: Beale
+  author_string: Evelyne Viegas, Stephen Beale
+  bibkey: viegas-beale-1996-multilinguality
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '13'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0513.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0513.jpg
+  title: Multilinguality and Reversibility in Computational Semantic Lexicons
+  title_html: Multilinguality and Reversibility in Computational Semantic Lexicons
+  url: https://www.aclweb.org/anthology/W96-0513
+  year: '1996'
+W96-0514:
+  author:
+  - first: Soenke
+    full: Soenke Ziesche
+    id: soenke-ziesche
+    last: Ziesche
+  author_string: Soenke Ziesche
+  bibkey: ziesche-1996-computation
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '14'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0514.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0514.jpg
+  title: The Computation of the Informational Status of Discourse Entities
+  title_html: The Computation of the Informational Status of Discourse Entities
+  url: https://www.aclweb.org/anthology/W96-0514
+  year: '1996'
+W96-0515:
+  bibkey: nn-1996-author-index-2
+  bibtype: inproceedings
+  booktitle: Eighth International Natural Language Generation Workshop (Posters and
+    Demonstrations)
+  booktitle_html: Eighth International Natural Language Generation Workshop (Posters
+    and Demonstrations)
+  paper_id: '15'
+  parent_volume_id: W96-05
+  pdf: https://www.aclweb.org/anthology/W96-0515.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W96-0515.jpg
+  title: Author Index
+  title_html: Author Index
+  url: https://www.aclweb.org/anthology/W96-0515
+  year: '1996'

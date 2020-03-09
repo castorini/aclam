@@ -1,0 +1,926 @@
+O01-1000:
+  address: Tainan, Taiwan
+  author:
+  - first: Chung-Hsien
+    full: Chung-Hsien Wu
+    id: chung-hsien-wu
+    last: Wu
+  - first: Jen-Tzung
+    full: Jen-Tzung Chien
+    id: jen-tzung-chien
+    last: Chien
+  author_string: Chung-Hsien Wu, Jen-Tzung Chien
+  bibkey: rocling-ijclclp-2001-research
+  bibtype: proceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  month: August
+  paper_id: '0'
+  parent_volume_id: O01-1
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1000.jpg
+  title: Proceedings of Research on Computational Linguistics Conference XIV
+  title_html: Proceedings of Research on Computational Linguistics Conference <span
+    class="acl-fixed-case">XIV</span>
+  year: '2001'
+O01-1001:
+  address: Tainan, Taiwan
+  author:
+  - first: Hsiang-Pin
+    full: Hsiang-Pin Lee
+    id: hsiang-pin-lee
+    last: Lee
+  - first: Su-Jin
+    full: Su-Jin Ker
+    id: sue-j-ker
+    last: Ker
+  author_string: Hsiang-Pin Lee, Su-Jin Ker
+  bibkey: lee-ker-2001-xin
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '23'
+  page_last: '42'
+  pages: "23\u201342"
+  paper_id: '1'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1001.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1001.jpg
+  title: "\u65B0\u805E\u6587\u4EF6\u6458\u8981\u4E4B\u7814\u7A76 (Text Summarization\
+    \ on News) [In Chinese]"
+  title_html: "\u65B0\u805E\u6587\u4EF6\u6458\u8981\u4E4B\u7814\u7A76 (Text Summarization\
+    \ on News) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1001
+  year: '2001'
+O01-1002:
+  address: Tainan, Taiwan
+  author:
+  - first: Jen-Tzung
+    full: Jen-Tzung Chien
+    id: jen-tzung-chien
+    last: Chien
+  - first: Hung-Ying
+    full: Hung-Ying Chen
+    id: hung-ying-chen
+    last: Chen
+  author_string: Jen-Tzung Chien, Hung-Ying Chen
+  bibkey: chien-chen-2001-shi
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '43'
+  page_last: '63'
+  pages: "43\u201363"
+  paper_id: '2'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1002.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1002.jpg
+  title: "\u4F7F\u7528\u95DC\u806F\u6CD5\u5247\u70BA\u4E3B\u4E4B\u8A9E\u8A00\u6A21\
+    \u578B\u65BC\u64F7\u53D6\u9577\u8DDD\u96E2\u4E2D\u6587\u6587\u5B57\u95DC\u806F\
+    \u6027 (Association Rule Based Language Models for Discovering Long Distance Dependency\
+    \ in Chinese) [In Chinese]"
+  title_html: "\u4F7F\u7528\u95DC\u806F\u6CD5\u5247\u70BA\u4E3B\u4E4B\u8A9E\u8A00\u6A21\
+    \u578B\u65BC\u64F7\u53D6\u9577\u8DDD\u96E2\u4E2D\u6587\u6587\u5B57\u95DC\u806F\
+    \u6027 (Association Rule Based Language Models for Discovering Long Distance Dependency\
+    \ in <span class=\"acl-fixed-case\">C</span>hinese) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1002
+  year: '2001'
+O01-1003:
+  address: Tainan, Taiwan
+  author:
+  - first: Jian-Cheng
+    full: Jian-Cheng Shen
+    id: jian-cheng-shen
+    last: Shen
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Jian-Cheng Shen, Jason S. Chang
+  bibkey: shen-chang-2001-duo
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '65'
+  page_last: '87'
+  pages: "65\u201387"
+  paper_id: '3'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1003.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1003.jpg
+  title: "\u591A\u7BC7\u6587\u4EF6\u81EA\u52D5\u6458\u8981\u7CFB\u7D71 (Multi-Document\
+    \ Summarization System) [In Chinese]"
+  title_html: "\u591A\u7BC7\u6587\u4EF6\u81EA\u52D5\u6458\u8981\u7CFB\u7D71 (Multi-Document\
+    \ Summarization System) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1003
+  year: '2001'
+O01-1004:
+  address: Tainan, Taiwan
+  author:
+  - first: Yan-Cheng
+    full: Yan-Cheng Chen
+    id: yan-cheng-chen
+    last: Chen
+  - first: Jung-Hsien
+    full: Jung-Hsien Chiang
+    id: jung-hsien-chiang
+    last: Chiang
+  author_string: Yan-Cheng Chen, Jung-Hsien Chiang
+  bibkey: chen-chiang-2001-ji
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '89'
+  page_last: '97'
+  pages: "89\u201397"
+  paper_id: '4'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1004.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1004.jpg
+  title: "\u57FA\u65BC\u968E\u5C64\u5F0F\u985E\u795E\u7D93\u7DB2\u8DEF\u4E4B\u81EA\
+    \u52D5\u65B0\u805E\u6587\u4EF6\u5206\u985E\u65B9\u6CD5 (Hierarchical Neural Networks\
+    \ for Automatic News Document Categorization) [In Chinese]"
+  title_html: "\u57FA\u65BC\u968E\u5C64\u5F0F\u985E\u795E\u7D93\u7DB2\u8DEF\u4E4B\u81EA\
+    \u52D5\u65B0\u805E\u6587\u4EF6\u5206\u985E\u65B9\u6CD5 (Hierarchical Neural Networks\
+    \ for Automatic News Document Categorization) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1004
+  year: '2001'
+O01-1005:
+  address: Tainan, Taiwan
+  author:
+  - first: Yeou-Jiunn
+    full: Yeou-Jiunn Chen
+    id: yeou-jiunn-chen
+    last: Chen
+  - first: Chung-Hsien
+    full: Chung-Hsien Wu
+    id: chung-hsien-wu
+    last: Wu
+  author_string: Yeou-Jiunn Chen, Chung-Hsien Wu
+  bibkey: chen-wu-2001-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '123'
+  page_last: '135'
+  pages: "123\u2013135"
+  paper_id: '5'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1005.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1005.jpg
+  title: Using Chi-Square Testing in Modeling Confusion Characteristics for Robust
+    Phonetic Set Generation
+  title_html: Using Chi-Square Testing in Modeling Confusion Characteristics for Robust
+    Phonetic Set Generation
+  url: https://www.aclweb.org/anthology/O01-1005
+  year: '2001'
+O01-1006:
+  address: Tainan, Taiwan
+  author:
+  - first: Jau-Hung
+    full: Jau-Hung Chen
+    id: jau-hung-chen
+    last: Chen
+  - first: Yung-An
+    full: Yung-An Kao
+    id: yung-an-kao
+    last: Kao
+  author_string: Jau-Hung Chen, Yung-An Kao
+  bibkey: chen-kao-2001-pitch
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '137'
+  page_last: '145'
+  pages: "137\u2013145"
+  paper_id: '6'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1006.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1006.jpg
+  title: Pitch Marking Based on an Adaptable Filter and a Peak-Valley Estimation Method
+  title_html: Pitch Marking Based on an Adaptable Filter and a Peak-Valley Estimation
+    Method
+  url: https://www.aclweb.org/anthology/O01-1006
+  year: '2001'
+O01-1007:
+  address: Tainan, Taiwan
+  author:
+  - first: Xiao-dan
+    full: Xiao-dan Mei
+    id: xiao-dan-mei
+    last: Mei
+  - first: Sheng-he
+    full: Sheng-he Sun
+    id: sheng-he-sun
+    last: Sun
+  - first: Jeng-shuang
+    full: Jeng-shuang Pan
+    id: jeng-shuang-pan
+    last: Pan
+  - first: Tsong-yi
+    full: Tsong-yi Chen
+    id: tsong-yi-chen
+    last: Chen
+  author_string: Xiao-dan Mei, Sheng-he Sun, Jeng-shuang Pan, Tsong-yi Chen
+  bibkey: mei-etal-2001-optimiztion
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '147'
+  page_last: '153'
+  pages: "147\u2013153"
+  paper_id: '7'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1007.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1007.jpg
+  title: Optimiztion of HMM by the Tabu Search Algorithm
+  title_html: Optimiztion of <span class="acl-fixed-case">HMM</span> by the Tabu Search
+    Algorithm
+  url: https://www.aclweb.org/anthology/O01-1007
+  year: '2001'
+O01-1008:
+  address: Tainan, Taiwan
+  author:
+  - first: Chuan-Jie
+    full: Chuan-Jie Lin
+    id: chuan-jie-lin
+    last: Lin
+  - first: Che-Chia
+    full: Che-Chia Liu
+    id: che-chia-liu
+    last: Liu
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Chuan-Jie Lin, Che-Chia Liu, Hsin-Hsi Chen
+  bibkey: lin-etal-2001-jian
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '155'
+  page_last: '174'
+  pages: "155\u2013174"
+  paper_id: '8'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1008.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1008.jpg
+  title: "\u7C21\u6613\u5F71\u7247\u5B57\u5E55\u6587\u5B57\u8FA8\u8B58\u6CD5\u53CA\
+    \u5176\u8A62\u7B54\u61C9\u7528 (A Simple Method for Video OCR and Its Application\
+    \ on Question Answering) [In Chinese]"
+  title_html: "\u7C21\u6613\u5F71\u7247\u5B57\u5E55\u6587\u5B57\u8FA8\u8B58\u6CD5\u53CA\
+    \u5176\u8A62\u7B54\u61C9\u7528 (A Simple Method for Video <span class=\"acl-fixed-case\"\
+    >OCR</span> and Its Application on Question Answering) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1008
+  year: '2001'
+O01-1009:
+  address: Tainan, Taiwan
+  author:
+  - first: Wei-Yun
+    full: Wei-Yun Ma
+    id: wei-yun-ma
+    last: Ma
+  - first: Yu-Ming
+    full: Yu-Ming Hsieh
+    id: yu-ming-hsieh
+    last: Hsieh
+  - first: Chang-Hua
+    full: Chang-Hua Yang
+    id: chang-hua-yang
+    last: Yang
+  - first: Keh-Jiann
+    full: Keh-Jiann Chen
+    id: keh-jiann-chen
+    last: Chen
+  author_string: Wei-Yun Ma, Yu-Ming Hsieh, Chang-Hua Yang, Keh-Jiann Chen
+  bibkey: ma-etal-2001-zhong
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '175'
+  page_last: '191'
+  pages: "175\u2013191"
+  paper_id: '9'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1009.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1009.jpg
+  title: "\u4E2D\u6587\u8A9E\u6599\u5EAB\u69CB\u5EFA\u53CA\u7BA1\u7406\u7CFB\u7D71\
+    \u8A2D\u8A08 (Design of Management System for Chinese Corpus Construction) [In\
+    \ Chinese]"
+  title_html: "\u4E2D\u6587\u8A9E\u6599\u5EAB\u69CB\u5EFA\u53CA\u7BA1\u7406\u7CFB\u7D71\
+    \u8A2D\u8A08 (Design of Management System for <span class=\"acl-fixed-case\">C</span>hinese\
+    \ Corpus Construction) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1009
+  year: '2001'
+O01-1010:
+  address: Tainan, Taiwan
+  author:
+  - first: W.K.
+    full: W.K. Lo
+    id: w-k-lo
+    last: Lo
+  - first: P.C.
+    full: P.C. Ching
+    id: p-c-ching
+    last: Ching
+  - first: Tan
+    full: Tan Lee
+    id: tan-lee
+    last: Lee
+  - first: Helen
+    full: Helen Meng
+    id: helen-meng
+    last: Meng
+  author_string: W.K. Lo, P.C. Ching, Tan Lee, Helen Meng
+  bibkey: lo-etal-2001-design
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '193'
+  page_last: '212'
+  pages: "193\u2013212"
+  paper_id: '10'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1010.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1010.jpg
+  title: 'Design, Compilation and Processing of CUCall: A Set of Cantonese Spoken
+    Language Corpora Collected Over Telephone Networks'
+  title_html: 'Design, Compilation and Processing of <span class="acl-fixed-case">CUC</span>all:
+    A Set of <span class="acl-fixed-case">C</span>antonese Spoken Language Corpora
+    Collected Over Telephone Networks'
+  url: https://www.aclweb.org/anthology/O01-1010
+  year: '2001'
+O01-1011:
+  address: Tainan, Taiwan
+  author:
+  - first: Ching-Long
+    full: Ching-Long Yeh
+    id: ching-long-yeh
+    last: Yeh
+  - first: Yi-Jun
+    full: Yi-Jun Chen
+    id: yi-jun-chen
+    last: Chen
+  author_string: Ching-Long Yeh, Yi-Jun Chen
+  bibkey: yeh-chen-2001-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '237'
+  page_last: '251'
+  pages: "237\u2013251"
+  paper_id: '11'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1011.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1011.jpg
+  title: An Empirical Study of Zero Anaphora Resolution in Chinese Based on Centering
+    Model
+  title_html: An Empirical Study of Zero Anaphora Resolution in <span class="acl-fixed-case">C</span>hinese
+    Based on Centering Model
+  url: https://www.aclweb.org/anthology/O01-1011
+  year: '2001'
+O01-1012:
+  address: Tainan, Taiwan
+  author:
+  - first: Hui-hsin
+    full: Hui-hsin Tseng
+    id: huihsin-tseng
+    last: Tseng
+  - first: Chao-Lin
+    full: Chao-Lin Liu
+    id: chao-lin-liu
+    last: Liu
+  - first: Zhao Ming
+    full: Zhao Ming Gao
+    id: zhao-ming-gao
+    last: Gao
+  - first: Keh-Jiann
+    full: Keh-Jiann Chen
+    id: keh-jiann-chen
+    last: Chen
+  author_string: Hui-hsin Tseng, Chao-Lin Liu, Zhao Ming Gao, Keh-Jiann Chen
+  bibkey: tseng-etal-2001-zhong
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '253'
+  page_last: '272'
+  pages: "253\u2013272"
+  paper_id: '12'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1012.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1012.jpg
+  title: "\u4E2D\u6587\u52D5\u8A5E\u81EA\u52D5\u5206\u985E\u7814\u7A76 (Automatic\
+    \ Classification of Chinese Unknown Verbs) [In Chinese]"
+  title_html: "\u4E2D\u6587\u52D5\u8A5E\u81EA\u52D5\u5206\u985E\u7814\u7A76 (Automatic\
+    \ Classification of <span class=\"acl-fixed-case\">C</span>hinese Unknown Verbs)\
+    \ [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1012
+  year: '2001'
+O01-1013:
+  address: Tainan, Taiwan
+  author:
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  - first: Ta-wei
+    full: Ta-wei Yu
+    id: ta-wei-yu
+    last: Yu
+  author_string: Jason S. Chang, Ta-wei Yu
+  bibkey: chang-yu-2001-tong
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '273'
+  page_last: '297'
+  pages: "273\u2013297"
+  paper_id: '13'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1013.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1013.jpg
+  title: "\u7D71\u8A08\u5F0F\u7247\u8A9E\u7FFB\u8B6F\u6A21\u578B(A Statistical Model\
+    \ of Terminology Translation) [In Chinese]"
+  title_html: "\u7D71\u8A08\u5F0F\u7247\u8A9E\u7FFB\u8B6F\u6A21\u578B(A Statistical\
+    \ Model of Terminology Translation) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1013
+  year: '2001'
+O01-1014:
+  address: Tainan, Taiwan
+  author:
+  - first: Wei-lun
+    full: Wei-lun Lu
+    id: wei-lun-lu
+    last: Lu
+  author_string: Wei-lun Lu
+  bibkey: lu-2001-metaphor
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '299'
+  page_last: '316'
+  pages: "299\u2013316"
+  paper_id: '14'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1014.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1014.jpg
+  title: 'Metaphor, Inference, and Conceptualisation : On the Development of V-diao
+    Construction in Mandarin'
+  title_html: 'Metaphor, Inference, and Conceptualisation : On the Development of
+    V-diao Construction in <span class="acl-fixed-case">M</span>andarin'
+  url: https://www.aclweb.org/anthology/O01-1014
+  year: '2001'
+O01-1015:
+  address: Tainan, Taiwan
+  author:
+  - first: Yi-Ching
+    full: Yi-Ching Wu
+    id: yi-ching-wu
+    last: Wu
+  - first: Mei-Juen
+    full: Mei-Juen Liu
+    id: mei-juen-liu
+    last: Liu
+  author_string: Yi-Ching Wu, Mei-Juen Liu
+  bibkey: wu-liu-2001-xin
+  bibtype: inproceedings
+  booktitle: Proceedings of Research on Computational Linguistics Conference XIV
+  booktitle_html: Proceedings of Research on Computational Linguistics Conference
+    <span class="acl-fixed-case">XIV</span>
+  month: August
+  page_first: '317'
+  page_last: '336'
+  pages: "317\u2013336"
+  paper_id: '15'
+  parent_volume_id: O01-1
+  pdf: https://www.aclweb.org/anthology/O01-1015.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-1015.jpg
+  title: "\u5FC3\u7406\u52D5\u8A5E\u300C\u60F3\u300D\u3001\u300C\u8A8D\u70BA\u300D\
+    \u3001\u300C\u4EE5\u70BA\u300D\u8207\u300C\u89BA\u5F97\u300D\u7684\u8A9E\u7FA9\
+    \u5340\u5206\u53CA\u8A0A\u606F\u8868\u9054\u2013\u4EE5\u8A9E\u6599\u70BA\u672C\
+    \u7684\u5206\u6790\u65B9\u6CD5 (Lexical Semantic Distinction and Information Encoding:\
+    \ A Corpus-Based Analysis of Four Related Mental Verbs - Xiang, Renwei, Yiwei\
+    \ and Juede) [In Chinese]"
+  title_html: "\u5FC3\u7406\u52D5\u8A5E\u300C\u60F3\u300D\u3001\u300C\u8A8D\u70BA\u300D\
+    \u3001\u300C\u4EE5\u70BA\u300D\u8207\u300C\u89BA\u5F97\u300D\u7684\u8A9E\u7FA9\
+    \u5340\u5206\u53CA\u8A0A\u606F\u8868\u9054\u2013\u4EE5\u8A9E\u6599\u70BA\u672C\
+    \u7684\u5206\u6790\u65B9\u6CD5 (Lexical Semantic Distinction and Information Encoding:\
+    \ A Corpus-Based Analysis of Four Related Mental Verbs - <span class=\"acl-fixed-case\"\
+    >X</span>iang, Renwei, Yiwei and Juede) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-1015
+  year: '2001'
+O01-2000:
+  bibkey: rocling-ijclclp-2001-international
+  bibtype: proceedings
+  booktitle: 'International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 1, February 2001: Special Issue on Natural Language
+    Processing Researches in MSRA'
+  month: February
+  paper_id: '0'
+  parent_volume_id: O01-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-2000.jpg
+  title: 'International Journal of Computational Linguistics & Chinese Language Processing,
+    Volume 6, Number 1, February 2001: Special Issue on Natural Language Processing
+    Researches in MSRA'
+  title_html: 'International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 6, Number 1, <span class="acl-fixed-case">F</span>ebruary
+    2001: Special Issue on Natural Language Processing Researches in <span class="acl-fixed-case">MSRA</span>'
+  year: '2001'
+O01-2001:
+  author:
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Yuan
+    full: Yuan Ding
+    id: yuan-ding
+    last: Ding
+  - first: Changning
+    full: Changning Huang
+    id: changning-huang
+    last: Huang
+  author_string: Ming Zhou, Yuan Ding, Changning Huang
+  bibkey: zhou-etal-2001-improving
+  bibtype: inproceedings
+  booktitle: 'International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 1, February 2001: Special Issue on Natural Language
+    Processing Researches in MSRA'
+  booktitle_html: 'International Journal of Computational Linguistics &amp; <span
+    class="acl-fixed-case">C</span>hinese Language Processing, Volume 6, Number 1,
+    <span class="acl-fixed-case">F</span>ebruary 2001: Special Issue on Natural Language
+    Processing Researches in <span class="acl-fixed-case">MSRA</span>'
+  month: February
+  page_first: '1'
+  page_last: '26'
+  pages: "1\u201326"
+  paper_id: '1'
+  parent_volume_id: O01-2
+  pdf: https://www.aclweb.org/anthology/O01-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-2001.jpg
+  title: Improving Translation Selection with a New Translation Model Trained by Independent
+    Monolingual Corpora
+  title_html: Improving Translation Selection with a New Translation Model Trained
+    by Independent Monolingual Corpora
+  url: https://www.aclweb.org/anthology/O01-2001
+  year: '2001'
+O01-2002:
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Joshua T.
+    full: Joshua T. Goodman
+    id: joshua-goodman
+    last: Goodman
+  - first: Jiangbo
+    full: Jiangbo Miao
+    id: jiangbo-miao
+    last: Miao
+  author_string: Jianfeng Gao, Joshua T. Goodman, Jiangbo Miao
+  bibkey: gao-etal-2001-use
+  bibtype: inproceedings
+  booktitle: 'International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 1, February 2001: Special Issue on Natural Language
+    Processing Researches in MSRA'
+  booktitle_html: 'International Journal of Computational Linguistics &amp; <span
+    class="acl-fixed-case">C</span>hinese Language Processing, Volume 6, Number 1,
+    <span class="acl-fixed-case">F</span>ebruary 2001: Special Issue on Natural Language
+    Processing Researches in <span class="acl-fixed-case">MSRA</span>'
+  month: February
+  page_first: '27'
+  page_last: '60'
+  pages: "27\u201360"
+  paper_id: '2'
+  parent_volume_id: O01-2
+  pdf: https://www.aclweb.org/anthology/O01-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-2002.jpg
+  title: The Use of Clustering Techniques for Language Modeling V Application to Asian
+    Language
+  title_html: The Use of Clustering Techniques for Language Modeling V Application
+    to <span class="acl-fixed-case">A</span>sian Language
+  url: https://www.aclweb.org/anthology/O01-2002
+  year: '2001'
+O01-2003:
+  author:
+  - first: Min
+    full: Min Chu
+    id: min-chu
+    last: Chu
+  - first: Yao
+    full: Yao Qian
+    id: yao-qian
+    last: Qian
+  author_string: Min Chu, Yao Qian
+  bibkey: chu-qian-2001-locating
+  bibtype: inproceedings
+  booktitle: 'International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 1, February 2001: Special Issue on Natural Language
+    Processing Researches in MSRA'
+  booktitle_html: 'International Journal of Computational Linguistics &amp; <span
+    class="acl-fixed-case">C</span>hinese Language Processing, Volume 6, Number 1,
+    <span class="acl-fixed-case">F</span>ebruary 2001: Special Issue on Natural Language
+    Processing Researches in <span class="acl-fixed-case">MSRA</span>'
+  month: February
+  page_first: '61'
+  page_last: '82'
+  pages: "61\u201382"
+  paper_id: '3'
+  parent_volume_id: O01-2
+  pdf: https://www.aclweb.org/anthology/O01-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-2003.jpg
+  title: Locating Boundaries for Prosodic Constituents in Unrestricted Mandarin Texts
+  title_html: Locating Boundaries for Prosodic Constituents in Unrestricted <span
+    class="acl-fixed-case">M</span>andarin Texts
+  url: https://www.aclweb.org/anthology/O01-2003
+  year: '2001'
+O01-2004:
+  author:
+  - first: Yajuan
+    full: Yajuan Lu
+    id: yajuan-lu
+    last: Lu
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  - first: Changning
+    full: Changning Huang
+    id: changning-huang
+    last: Huang
+  - first: Tiejun
+    full: Tiejun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  author_string: Yajuan Lu, Ming Zhou, Sheng Li, Changning Huang, Tiejun Zhao
+  bibkey: lu-etal-2001-automatic
+  bibtype: inproceedings
+  booktitle: 'International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 1, February 2001: Special Issue on Natural Language
+    Processing Researches in MSRA'
+  booktitle_html: 'International Journal of Computational Linguistics &amp; <span
+    class="acl-fixed-case">C</span>hinese Language Processing, Volume 6, Number 1,
+    <span class="acl-fixed-case">F</span>ebruary 2001: Special Issue on Natural Language
+    Processing Researches in <span class="acl-fixed-case">MSRA</span>'
+  month: February
+  page_first: '83'
+  page_last: '108'
+  pages: "83\u2013108"
+  paper_id: '4'
+  parent_volume_id: O01-2
+  pdf: https://www.aclweb.org/anthology/O01-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-2004.jpg
+  title: Automatic Translation Template Acquisition Based on Bilingual Structure Alignment
+  title_html: Automatic Translation Template Acquisition Based on Bilingual Structure
+    Alignment
+  url: https://www.aclweb.org/anthology/O01-2004
+  year: '2001'
+O01-2005:
+  author:
+  - first: Jian
+    full: Jian Zhang
+    id: jian-zhang
+    last: Zhang
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Jiaxing
+    full: Jiaxing Wang
+    id: jiaxing-wang
+    last: Wang
+  author_string: Jian Zhang, Jianfeng Gao, Ming Zhou, Jiaxing Wang
+  bibkey: zhang-etal-2001-improving
+  bibtype: inproceedings
+  booktitle: 'International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 1, February 2001: Special Issue on Natural Language
+    Processing Researches in MSRA'
+  booktitle_html: 'International Journal of Computational Linguistics &amp; <span
+    class="acl-fixed-case">C</span>hinese Language Processing, Volume 6, Number 1,
+    <span class="acl-fixed-case">F</span>ebruary 2001: Special Issue on Natural Language
+    Processing Researches in <span class="acl-fixed-case">MSRA</span>'
+  month: February
+  page_first: '109'
+  page_last: '125'
+  pages: "109\u2013125"
+  paper_id: '5'
+  parent_volume_id: O01-2
+  pdf: https://www.aclweb.org/anthology/O01-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-2005.jpg
+  title: Improving the Effectiveness of Information Retrieval with Clustering and
+    Fusion
+  title_html: Improving the Effectiveness of Information Retrieval with Clustering
+    and Fusion
+  url: https://www.aclweb.org/anthology/O01-2005
+  year: '2001'
+O01-3000:
+  bibkey: rocling-ijclclp-2001-international-journal
+  bibtype: proceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 2, August 2001
+  month: August
+  paper_id: '0'
+  parent_volume_id: O01-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-3000.jpg
+  title: International Journal of Computational Linguistics & Chinese Language Processing,
+    Volume 6, Number 2, August 2001
+  title_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 6, Number 2, August 2001
+  year: '2001'
+O01-3001:
+  author:
+  - first: Louis Wei-lun
+    full: Louis Wei-lun Lu
+    id: wei-lun-lu
+    last: Lu
+  author_string: Louis Wei-lun Lu
+  bibkey: lu-2001-metaphorical
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 2, August 2001
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 6, Number 2, August 2001
+  month: August
+  page_first: '1'
+  page_last: '10'
+  pages: "1\u201310"
+  paper_id: '1'
+  parent_volume_id: O01-3
+  pdf: https://www.aclweb.org/anthology/O01-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-3001.jpg
+  title: 'Metaphorical Transfer and Pragmatic Strengthening: On the Development of
+    V-diao in Mandarin'
+  title_html: 'Metaphorical Transfer and Pragmatic Strengthening: On the Development
+    of V-diao in <span class="acl-fixed-case">M</span>andarin'
+  url: https://www.aclweb.org/anthology/O01-3001
+  year: '2001'
+O01-3002:
+  author:
+  - first: Chuan-Jie
+    full: Chuan-Jie Lin
+    id: chuan-jie-lin
+    last: Lin
+  - first: Che-Chia
+    full: Che-Chia Liu
+    id: che-chia-liu
+    last: Liu
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Chuan-Jie Lin, Che-Chia Liu, Hsin-Hsi Chen
+  bibkey: lin-etal-2001-simple
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 2, August 2001
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 6, Number 2, August 2001
+  month: August
+  page_first: '11'
+  page_last: '30'
+  pages: "11\u201330"
+  paper_id: '2'
+  parent_volume_id: O01-3
+  pdf: https://www.aclweb.org/anthology/O01-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-3002.jpg
+  title: A Simple Method for Chinese Video OCR and Its Application to Question Answering
+  title_html: A Simple Method for <span class="acl-fixed-case">C</span>hinese Video
+    <span class="acl-fixed-case">OCR</span> and Its Application to Question Answering
+  url: https://www.aclweb.org/anthology/O01-3002
+  year: '2001'
+O01-3003:
+  author:
+  - first: Jau-Hung
+    full: Jau-Hung Chen
+    id: jau-hung-chen
+    last: Chen
+  - first: Yung-An
+    full: Yung-An Kao
+    id: yung-an-kao
+    last: Kao
+  author_string: Jau-Hung Chen, Yung-An Kao
+  bibkey: chen-kao-2001-pitch-marking
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 2, August 2001
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 6, Number 2, August 2001
+  month: August
+  page_first: '31'
+  page_last: '42'
+  pages: "31\u201342"
+  paper_id: '3'
+  parent_volume_id: O01-3
+  pdf: https://www.aclweb.org/anthology/O01-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-3003.jpg
+  title: Pitch Marking Based on an Adaptable Filter and a Peak-Valley Estimation Method
+  title_html: Pitch Marking Based on an Adaptable Filter and a Peak-Valley Estimation
+    Method
+  url: https://www.aclweb.org/anthology/O01-3003
+  year: '2001'
+O01-3004:
+  author:
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  - first: David
+    full: David Yu
+    id: david-yu
+    last: Yu
+  - first: Chun-Jun
+    full: Chun-Jun Lee
+    id: chun-jen-lee
+    last: Lee
+  author_string: Jason S. Chang, David Yu, Chun-Jun Lee
+  bibkey: chang-etal-2001-tong
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 6, Number 2, August 2001
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 6, Number 2, August 2001
+  month: August
+  page_first: '43'
+  page_last: '64'
+  pages: "43\u201364"
+  paper_id: '4'
+  parent_volume_id: O01-3
+  pdf: https://www.aclweb.org/anthology/O01-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O01-3004.jpg
+  title: "\u7D71\u8A08\u5F0F\u7247\u8A9E\u7FFB\u8B6F\u6A21\u578B (Statistical Translation\
+    \ Model for Phrases) [In Chinese]"
+  title_html: "\u7D71\u8A08\u5F0F\u7247\u8A9E\u7FFB\u8B6F\u6A21\u578B (Statistical\
+    \ Translation Model for Phrases) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O01-3004
+  year: '2001'

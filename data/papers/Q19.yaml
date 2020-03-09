@@ -1,0 +1,1526 @@
+Q19-1000:
+  bibkey: tacl-2019-transactions
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  month: March
+  paper_id: '0'
+  parent_volume_id: Q19-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1000.jpg
+  title: Transactions of the Association for Computational Linguistics, Volume 7
+  title_html: Transactions of the Association for Computational Linguistics, Volume
+    7
+  year: '2019'
+Q19-1001:
+  abstract: "Until now, most of the research in grammar error correction focused on\
+    \ English, and the problem has hardly been explored for other languages. We address\
+    \ the task of correcting writing mistakes in morphologically rich languages, with\
+    \ a focus on Russian. We present a corrected and error-tagged corpus of Russian\
+    \ learner writing and develop models that make use of existing state-of-the-art\
+    \ methods that have been well studied for English. Although impressive results\
+    \ have recently been achieved for grammar error correction of non-native English\
+    \ writing, these results are limited to domains where plentiful training data\
+    \ are available. Because annotation is extremely costly, these approaches are\
+    \ not suitable for the majority of domains and languages. We thus focus on methods\
+    \ that use \u201Cminimal supervision\u201D; that is, those that do not rely on\
+    \ large amounts of annotated training data, and show how existing minimal-supervision\
+    \ approaches extend to a highly inflectional language such as Russian. The results\
+    \ demonstrate that these methods are particularly useful for correcting mistakes\
+    \ in grammatical phenomena that involve rich morphology."
+  author:
+  - first: Alla
+    full: Alla Rozovskaya
+    id: alla-rozovskaya
+    last: Rozovskaya
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Alla Rozovskaya, Dan Roth
+  bibkey: rozovskaya-roth-2019-grammar
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00251
+  month: March
+  page_first: '1'
+  page_last: '17'
+  pages: "1\u201317"
+  paper_id: '1'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1001.jpg
+  title: 'Grammar Error Correction in Morphologically Rich Languages: The Case of
+    Russian'
+  title_html: 'Grammar Error Correction in Morphologically Rich Languages: The Case
+    of <span class="acl-fixed-case">R</span>ussian'
+  url: https://www.aclweb.org/anthology/Q19-1001
+  year: '2019'
+Q19-1002:
+  abstract: It is intuitive that semantic representations can be useful for machine
+    translation, mainly because they can help in enforcing meaning preservation and
+    handling data sparsity (many sentences correspond to one meaning) of machine translation
+    models. On the other hand, little work has been done on leveraging semantics for
+    neural machine translation (NMT). In this work, we study the usefulness of AMR
+    (abstract meaning representation) on NMT. Experiments on a standard English-to-German
+    dataset show that incorporating AMR as additional knowledge can significantly
+    improve a strong attention-based sequence-to-sequence neural translation model.
+  author:
+  - first: Linfeng
+    full: Linfeng Song
+    id: linfeng-song
+    last: Song
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Yue
+    full: Yue Zhang
+    id: yue-zhang
+    last: Zhang
+  - first: Zhiguo
+    full: Zhiguo Wang
+    id: zhiguo-wang
+    last: Wang
+  - first: Jinsong
+    full: Jinsong Su
+    id: jinsong-su
+    last: Su
+  author_string: Linfeng Song, Daniel Gildea, Yue Zhang, Zhiguo Wang, Jinsong Su
+  bibkey: song-etal-2019-semantic
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00252
+  month: March
+  page_first: '19'
+  page_last: '31'
+  pages: "19\u201331"
+  paper_id: '2'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1002.jpg
+  title: Semantic Neural Machine Translation Using AMR
+  title_html: Semantic Neural Machine Translation Using <span class="acl-fixed-case">AMR</span>
+  url: https://www.aclweb.org/anthology/Q19-1002
+  year: '2019'
+Q19-1003:
+  abstract: In standard NLP pipelines, morphological analysis and disambiguation (MA&D)
+    precedes syntactic and semantic downstream tasks. However, for languages with
+    complex and ambiguous word-internal structure, known as morphologically rich languages
+    (MRLs), it has been hypothesized that syntactic context may be crucial for accurate
+    MA&D, and vice versa. In this work we empirically confirm this hypothesis for
+    Modern Hebrew, an MRL with complex morphology and severe word-level ambiguity,
+    in a novel transition-based framework. Specifically, we propose a joint morphosyntactic
+    transition-based framework which formally unifies two distinct transition systems,
+    morphological and syntactic, into a single transition-based system with joint
+    training and joint inference. We empirically show that MA&D results obtained in
+    the joint settings outperform MA&D results obtained by the respective standalone
+    components, and that end-to-end parsing results obtained by our joint system present
+    a new state of the art for Hebrew dependency parsing.
+  attachment:
+  - filename: https://vimeo.com/384777366
+    type: video
+    url: https://vimeo.com/384777366
+  author:
+  - first: Amir
+    full: Amir More
+    id: amir-more
+    last: More
+  - first: Amit
+    full: Amit Seker
+    id: amit-seker
+    last: Seker
+  - first: Victoria
+    full: Victoria Basmova
+    id: victoria-basmova
+    last: Basmova
+  - first: Reut
+    full: Reut Tsarfaty
+    id: reut-tsarfaty
+    last: Tsarfaty
+  author_string: Amir More, Amit Seker, Victoria Basmova, Reut Tsarfaty
+  bibkey: more-etal-2019-joint
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00253
+  month: March
+  page_first: '33'
+  page_last: '48'
+  pages: "33\u201348"
+  paper_id: '3'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1003.jpg
+  title: 'Joint Transition-Based Models for Morpho-Syntactic Parsing: Parsing Strategies
+    for MRLs and a Case Study from Modern Hebrew'
+  title_html: 'Joint Transition-Based Models for Morpho-Syntactic Parsing: Parsing
+    Strategies for <span class="acl-fixed-case">MRL</span>s and a Case Study from
+    Modern <span class="acl-fixed-case">H</span>ebrew'
+  url: https://www.aclweb.org/anthology/Q19-1003
+  year: '2019'
+Q19-1004:
+  abstract: The field of natural language processing has seen impressive progress
+    in recent years, with neural network models replacing many of the traditional
+    systems. A plethora of new models have been proposed, many of which are thought
+    to be opaque compared to their feature-rich counterparts. This has led researchers
+    to analyze, interpret, and evaluate neural networks in novel and more fine-grained
+    ways. In this survey paper, we review analysis methods in neural language processing,
+    categorize them according to prominent research trends, highlight existing limitations,
+    and point to potential directions for future work.
+  author:
+  - first: Yonatan
+    full: Yonatan Belinkov
+    id: yonatan-belinkov
+    last: Belinkov
+  - first: James
+    full: James Glass
+    id: james-glass
+    last: Glass
+  author_string: Yonatan Belinkov, James Glass
+  bibkey: belinkov-glass-2019-analysis
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00254
+  month: March
+  page_first: '49'
+  page_last: '72'
+  pages: "49\u201372"
+  paper_id: '4'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1004.jpg
+  title: 'Analysis Methods in Neural Language Processing: A Survey'
+  title_html: 'Analysis Methods in Neural Language Processing: A Survey'
+  url: https://www.aclweb.org/anthology/Q19-1004
+  year: '2019'
+Q19-1005:
+  abstract: Lexicalized parsing models are based on the assumptions that (i) constituents
+    are organized around a lexical head and (ii) bilexical statistics are crucial
+    to solve ambiguities. In this paper, we introduce an unlexicalized transition-based
+    parser for discontinuous constituency structures, based on a structure-label transition
+    system and a bi-LSTM scoring system. We compare it with lexicalized parsing models
+    in order to address the question of lexicalization in the context of discontinuous
+    constituency parsing. Our experiments show that unlexicalized models systematically
+    achieve higher results than lexicalized models, and provide additional empirical
+    evidence that lexicalization is not necessary to achieve strong parsing results.
+    Our best unlexicalized model sets a new state of the art on English and German
+    discontinuous constituency treebanks. We further provide a per-phenomenon analysis
+    of its errors on discontinuous constituents.
+  author:
+  - first: Maximin
+    full: Maximin Coavoux
+    id: maximin-coavoux
+    last: Coavoux
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Crabb\xE9"
+    id: benoit-crabbe
+    last: "Crabb\xE9"
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  author_string: "Maximin Coavoux, Beno\xEEt Crabb\xE9, Shay B. Cohen"
+  bibkey: coavoux-etal-2019-unlexicalized
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00255
+  month: March
+  page_first: '73'
+  page_last: '89'
+  pages: "73\u201389"
+  paper_id: '5'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1005.jpg
+  title: Unlexicalized Transition-based Discontinuous Constituency Parsing
+  title_html: Unlexicalized Transition-based Discontinuous Constituency Parsing
+  url: https://www.aclweb.org/anthology/Q19-1005
+  year: '2019'
+Q19-1006:
+  abstract: "Existing approaches to neural machine translation (NMT) generate the\
+    \ target language sequence token-by-token from left to right. However, this kind\
+    \ of unidirectional decoding framework cannot make full use of the target-side\
+    \ future contexts which can be produced in a right-to-left decoding direction,\
+    \ and thus suffers from the issue of unbalanced outputs. In this paper, we introduce\
+    \ a synchronous bidirectional\u2013neural machine translation (SB-NMT) that predicts\
+    \ its outputs using left-to-right and right-to-left decoding simultaneously and\
+    \ interactively, in order to leverage both of the history and future information\
+    \ at the same time. Specifically, we first propose a new algorithm that enables\
+    \ synchronous bidirectional decoding in a single model. Then, we present an interactive\
+    \ decoding model in which left-to-right (right-to-left) generation does not only\
+    \ depend on its previously generated outputs, but also relies on future contexts\
+    \ predicted by right-to-left (left-to-right) decoding. We extensively evaluate\
+    \ the proposed SB-NMT model on large-scale NIST Chinese\u2013English, WMT14 English\u2013\
+    German, and WMT18 Russian\u2013English translation tasks. Experimental results\
+    \ demonstrate that our model achieves significant improvements over the strong\
+    \ Transformer model by 3.92, 1.49, and 1.04 BLEU points, respectively, and obtains\
+    \ the state-of-the-art performance on Chinese\u2013English and English\u2013German\
+    \ translation tasks."
+  attachment:
+  - filename: https://vimeo.com/385255892
+    type: video
+    url: https://vimeo.com/385255892
+  author:
+  - first: Long
+    full: Long Zhou
+    id: long-zhou
+    last: Zhou
+  - first: Jiajun
+    full: Jiajun Zhang
+    id: jiajun-zhang
+    last: Zhang
+  - first: Chengqing
+    full: Chengqing Zong
+    id: chengqing-zong
+    last: Zong
+  author_string: Long Zhou, Jiajun Zhang, Chengqing Zong
+  bibkey: zhou-etal-2019-synchronous
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00256
+  month: March
+  page_first: '91'
+  page_last: '105'
+  pages: "91\u2013105"
+  paper_id: '6'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1006.jpg
+  title: Synchronous Bidirectional Neural Machine Translation
+  title_html: Synchronous Bidirectional Neural Machine Translation
+  url: https://www.aclweb.org/anthology/Q19-1006
+  year: '2019'
+Q19-1007:
+  abstract: We propose a novel geometric approach for learning bilingual mappings
+    given monolingual embeddings and a bilingual dictionary. Our approach decouples
+    the source-to-target language transformation into (a) language-specific rotations
+    on the original embeddings to align them in a common, latent space, and (b) a
+    language-independent similarity metric in this common space to better model the
+    similarity between the embeddings. Overall, we pose the bilingual mapping problem
+    as a classification problem on smooth Riemannian manifolds. Empirically, our approach
+    outperforms previous approaches on the bilingual lexicon induction and cross-lingual
+    word similarity tasks. We next generalize our framework to represent multiple
+    languages in a common latent space. Language-specific rotations for all the languages
+    and a common similarity metric in the latent space are learned jointly from bilingual
+    dictionaries for multiple language pairs. We illustrate the effectiveness of joint
+    learning for multiple languages in an indirect word translation setting.
+  attachment:
+  - filename: https://vimeo.com/384494399
+    type: video
+    url: https://vimeo.com/384494399
+  author:
+  - first: Pratik
+    full: Pratik Jawanpuria
+    id: pratik-jawanpuria
+    last: Jawanpuria
+  - first: Arjun
+    full: Arjun Balgovind
+    id: arjun-balgovind
+    last: Balgovind
+  - first: Anoop
+    full: Anoop Kunchukuttan
+    id: anoop-kunchukuttan
+    last: Kunchukuttan
+  - first: Bamdev
+    full: Bamdev Mishra
+    id: bamdev-mishra
+    last: Mishra
+  author_string: Pratik Jawanpuria, Arjun Balgovind, Anoop Kunchukuttan, Bamdev Mishra
+  bibkey: jawanpuria-etal-2019-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00257
+  month: March
+  page_first: '107'
+  page_last: '120'
+  pages: "107\u2013120"
+  paper_id: '7'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1007.jpg
+  title: 'Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric
+    Approach'
+  title_html: 'Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric
+    Approach'
+  url: https://www.aclweb.org/anthology/Q19-1007
+  year: '2019'
+Q19-1008:
+  abstract: Stacking long short-term memory (LSTM) cells or gated recurrent units
+    (GRUs) as part of a recurrent neural network (RNN) has become a standard approach
+    to solving a number of tasks ranging from language modeling to text summarization.
+    Although LSTMs and GRUs were designed to model long-range dependencies more accurately
+    than conventional RNNs, they nevertheless have problems copying or recalling information
+    from the long distant past. Here, we derive a phase-coded representation of the
+    memory state, Rotational Unit of Memory (RUM), that unifies the concepts of unitary
+    learning and associative memory. We show experimentally that RNNs based on RUMs
+    can solve basic sequential tasks such as memory copying and memory recall much
+    better than LSTMs/GRUs. We further demonstrate that by replacing LSTM/GRU with
+    RUM units we can apply neural networks to real-world problems such as language
+    modeling and text summarization, yielding results comparable to the state of the
+    art.
+  author:
+  - first: Rumen
+    full: Rumen Dangovski
+    id: rumen-dangovski
+    last: Dangovski
+  - first: Li
+    full: Li Jing
+    id: li-jing
+    last: Jing
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: "Mi\u0107o"
+    full: "Mi\u0107o Tatalovi\u0107"
+    id: mico-tatalovic
+    last: "Tatalovi\u0107"
+  - first: Marin
+    full: "Marin Solja\u010Di\u0107"
+    id: marin-soljacic
+    last: "Solja\u010Di\u0107"
+  author_string: "Rumen Dangovski, Li Jing, Preslav Nakov, Mi\u0107o Tatalovi\u0107\
+    , Marin Solja\u010Di\u0107"
+  bibkey: dangovski-etal-2019-rotational
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00258
+  month: March
+  page_first: '121'
+  page_last: '138'
+  pages: "121\u2013138"
+  paper_id: '8'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1008.jpg
+  title: 'Rotational Unit of Memory: A Novel Representation Unit for RNNs with Scalable
+    Applications'
+  title_html: 'Rotational Unit of Memory: A Novel Representation Unit for <span class="acl-fixed-case">RNN</span>s
+    with Scalable Applications'
+  url: https://www.aclweb.org/anthology/Q19-1008
+  year: '2019'
+Q19-1009:
+  abstract: Neural text classification models typically treat output labels as categorical
+    variables that lack description and semantics. This forces their parametrization
+    to be dependent on the label set size, and, hence, they are unable to scale to
+    large label sets and generalize to unseen ones. Existing joint input-label text
+    models overcome these issues by exploiting label descriptions, but they are unable
+    to capture complex label relationships, have rigid parametrization, and their
+    gains on unseen labels happen often at the expense of weak performance on the
+    labels seen during training. In this paper, we propose a new input-label model
+    that generalizes over previous such models, addresses their limitations, and does
+    not compromise performance on seen labels. The model consists of a joint nonlinear
+    input-label embedding with controllable capacity and a joint-space-dependent classification
+    unit that is trained with cross-entropy loss to optimize classification performance.
+    We evaluate models on full-resource and low- or zero-resource text classification
+    of multilingual news and biomedical text with a large label set. Our model outperforms
+    monolingual and multilingual models that do not leverage label semantics and previous
+    joint input-label space models in both scenarios.
+  author:
+  - first: Nikolaos
+    full: Nikolaos Pappas
+    id: nikolaos-pappas
+    last: Pappas
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  author_string: Nikolaos Pappas, James Henderson
+  bibkey: pappas-henderson-2019-gile
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00259
+  month: March
+  page_first: '139'
+  page_last: '155'
+  pages: "139\u2013155"
+  paper_id: '9'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1009.jpg
+  title: 'GILE: A Generalized Input-Label Embedding for Text Classification'
+  title_html: '<span class="acl-fixed-case">GILE</span>: A Generalized Input-Label
+    Embedding for Text Classification'
+  url: https://www.aclweb.org/anthology/Q19-1009
+  year: '2019'
+Q19-1010:
+  abstract: Autosegmental representations (ARs; Goldsmith, 1976) are claimed to enable
+    local analyses of otherwise non-local phenomena Odden (1994). Focusing on the
+    domain of tone, we investigate this ability of ARs using a computationally well-defined
+    notion of locality extended from Chandlee (2014). The result is a more nuanced
+    understanding of the way in which ARs interact with phonological locality.
+  author:
+  - first: Jane
+    full: Jane Chandlee
+    id: jane-chandlee
+    last: Chandlee
+  - first: Adam
+    full: Adam Jardine
+    id: adam-jardine
+    last: Jardine
+  author_string: Jane Chandlee, Adam Jardine
+  bibkey: chandlee-jardine-2019-autosegmental
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00260
+  month: March
+  page_first: '157'
+  page_last: '168'
+  pages: "157\u2013168"
+  paper_id: '10'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1010.jpg
+  title: Autosegmental Input Strictly Local Functions
+  title_html: Autosegmental Input Strictly Local Functions
+  url: https://www.aclweb.org/anthology/Q19-1010
+  year: '2019'
+Q19-1011:
+  abstract: 'When searching for information, a human reader first glances over a document,
+    spots relevant sections, and then focuses on a few sentences for resolving her
+    intention. However, the high variance of document structure complicates the identification
+    of the salient topic of a given section at a glance. To tackle this challenge,
+    we present SECTOR, a model to support machine reading systems by segmenting documents
+    into coherent sections and assigning topic labels to each section. Our deep neural
+    network architecture learns a latent topic embedding over the course of a document.
+    This can be leveraged to classify local topics from plain text and segment a document
+    at topic shifts. In addition, we contribute WikiSection, a publicly available
+    data set with 242k labeled sections in English and German from two distinct domains:
+    diseases and cities. From our extensive evaluation of 20 architectures, we report
+    a highest score of 71.6% F1 for the segmentation and classification of 30 topics
+    from the English city domain, scored by our SECTOR long short-term memory model
+    with Bloom filter embeddings and bidirectional segmentation. This is a significant
+    improvement of 29.5 points F1 over state-of-the-art CNN classifiers with baseline
+    segmentation.'
+  attachment:
+  - filename: https://vimeo.com/384478902
+    type: video
+    url: https://vimeo.com/384478902
+  - filename: Q19-1011.Presentation.pdf
+    type: presentation
+    url: https://www.aclweb.org/anthology/attachments/Q19-1011.Presentation.pdf
+  author:
+  - first: Sebastian
+    full: Sebastian Arnold
+    id: sebastian-arnold
+    last: Arnold
+  - first: Rudolf
+    full: Rudolf Schneider
+    id: rudolf-schneider
+    last: Schneider
+  - first: Philippe
+    full: "Philippe Cudr\xE9-Mauroux"
+    id: philippe-cudre-mauroux
+    last: "Cudr\xE9-Mauroux"
+  - first: Felix A.
+    full: Felix A. Gers
+    id: felix-a-gers
+    last: Gers
+  - first: Alexander
+    full: "Alexander L\xF6ser"
+    id: alexander-loser
+    last: "L\xF6ser"
+  author_string: "Sebastian Arnold, Rudolf Schneider, Philippe Cudr\xE9-Mauroux, Felix\
+    \ A. Gers, Alexander L\xF6ser"
+  bibkey: arnold-etal-2019-sector
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00261
+  month: March
+  page_first: '169'
+  page_last: '184'
+  pages: "169\u2013184"
+  paper_id: '11'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1011.jpg
+  title: 'SECTOR: A Neural Model for Coherent Topic Segmentation and Classification'
+  title_html: '<span class="acl-fixed-case">SECTOR</span>: A Neural Model for Coherent
+    Topic Segmentation and Classification'
+  url: https://www.aclweb.org/anthology/Q19-1011
+  year: '2019'
+Q19-1012:
+  abstract: "Recent years have seen increasingly complex question-answering on knowledge\
+    \ bases (KBQA) involving logical, quantitative, and comparative reasoning over\
+    \ KB subgraphs. Neural Program Induction (NPI) is a pragmatic approach toward\
+    \ modularizing the reasoning process by translating a complex natural language\
+    \ query into a multi-step executable program. While NPI has been commonly trained\
+    \ with the \u2018\u2018gold\u2019\u2019 program or its sketch, for realistic KBQA\
+    \ applications such gold programs are expensive to obtain. There, practically\
+    \ only natural language queries and the corresponding answers can be provided\
+    \ for training. The resulting combinatorial explosion in program space, along\
+    \ with extremely sparse rewards, makes NPI for KBQA ambitious and challenging.\
+    \ We present Complex Imperative Program Induction from Terminal Rewards (CIPITR),\
+    \ an advanced neural programmer that mitigates reward sparsity with auxiliary\
+    \ rewards, and restricts the program space to semantically correct programs using\
+    \ high-level constraints, KB schema, and inferred answer type. CIPITR solves complex\
+    \ KBQA considerably more accurately than key-value memory networks and neural\
+    \ symbolic machines (NSM). For moderately complex queries requiring 2- to 5-step\
+    \ programs, CIPITR scores at least 3\xD7 higher F1 than the competing systems.\
+    \ On one of the hardest class of programs (comparative reasoning) with 5\u2013\
+    10 steps, CIPITR outperforms NSM by a factor of 89 and memory networks by 9 times."
+  author:
+  - first: Amrita
+    full: Amrita Saha
+    id: amrita-saha
+    last: Saha
+  - first: Ghulam Ahmed
+    full: Ghulam Ahmed Ansari
+    id: ghulam-ahmed-ansari
+    last: Ansari
+  - first: Abhishek
+    full: Abhishek Laddha
+    id: abhishek-laddha
+    last: Laddha
+  - first: Karthik
+    full: Karthik Sankaranarayanan
+    id: karthik-sankaranarayanan
+    last: Sankaranarayanan
+  - first: Soumen
+    full: Soumen Chakrabarti
+    id: soumen-chakrabarti
+    last: Chakrabarti
+  author_string: Amrita Saha, Ghulam Ahmed Ansari, Abhishek Laddha, Karthik Sankaranarayanan,
+    Soumen Chakrabarti
+  bibkey: saha-etal-2019-complex
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00262
+  month: March
+  page_first: '185'
+  page_last: '200'
+  pages: "185\u2013200"
+  paper_id: '12'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1012.jpg
+  title: Complex Program Induction for Querying Knowledge Bases in the Absence of
+    Gold Programs
+  title_html: Complex Program Induction for Querying Knowledge Bases in the Absence
+    of Gold Programs
+  url: https://www.aclweb.org/anthology/Q19-1012
+  year: '2019'
+Q19-1013:
+  abstract: The performance of text classification has improved tremendously using
+    intelligently engineered neural-based models, especially those injecting categorical
+    metadata as additional information, e.g., using user/product information for sentiment
+    classification. This information has been used to modify parts of the model (e.g.,
+    word embeddings, attention mechanisms) such that results can be customized according
+    to the metadata. We observe that current representation methods for categorical
+    metadata, which are devised for human consumption, are not as effective as claimed
+    in popular classification methods, outperformed even by simple concatenation of
+    categorical features in the final layer of the sentence encoder. We conjecture
+    that categorical features are harder to represent for machine use, as available
+    context only indirectly describes the category, and even such context is often
+    scarce (for tail category). To this end, we propose using basis vectors to effectively
+    incorporate categorical metadata on various parts of a neural-based model. This
+    additionally decreases the number of parameters dramatically, especially when
+    the number of categorical features is large. Extensive experiments on various
+    data sets with different properties are performed and show that through our method,
+    we can represent categorical metadata more effectively to customize parts of the
+    model, including unexplored ones, and increase the performance of the model greatly.
+  attachment:
+  - filename: https://vimeo.com/384481958
+    type: video
+    url: https://vimeo.com/384481958
+  author:
+  - first: Jihyeok
+    full: Jihyeok Kim
+    id: jihyeok-kim
+    last: Kim
+  - first: Reinald Kim
+    full: Reinald Kim Amplayo
+    id: reinald-kim-amplayo
+    last: Amplayo
+  - first: Kyungjae
+    full: Kyungjae Lee
+    id: kyungjae-lee
+    last: Lee
+  - first: Sua
+    full: Sua Sung
+    id: sua-sung
+    last: Sung
+  - first: Minji
+    full: Minji Seo
+    id: minji-seo
+    last: Seo
+  - first: Seung-won
+    full: Seung-won Hwang
+    id: seung-won-hwang
+    last: Hwang
+  author_string: Jihyeok Kim, Reinald Kim Amplayo, Kyungjae Lee, Sua Sung, Minji Seo,
+    Seung-won Hwang
+  bibkey: kim-etal-2019-categorical
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00263
+  month: March
+  page_first: '201'
+  page_last: '215'
+  pages: "201\u2013215"
+  paper_id: '13'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1013.jpg
+  title: Categorical Metadata Representation for Customized Text Classification
+  title_html: Categorical Metadata Representation for Customized Text Classification
+  url: https://www.aclweb.org/anthology/Q19-1013
+  year: '2019'
+Q19-1014:
+  abstract: 'We present DREAM, the first dialogue-based multiple-choice reading comprehension
+    data set. Collected from English as a Foreign Language examinations designed by
+    human experts to evaluate the comprehension level of Chinese learners of English,
+    our data set contains 10,197 multiple-choice questions for 6,444 dialogues. In
+    contrast to existing reading comprehension data sets, DREAM is the first to focus
+    on in-depth multi-turn multi-party dialogue understanding. DREAM is likely to
+    present significant challenges for existing reading comprehension systems: 84%
+    of answers are non-extractive, 85% of questions require reasoning beyond a single
+    sentence, and 34% of questions also involve commonsense knowledge. We apply several
+    popular neural reading comprehension models that primarily exploit surface information
+    within the text and find them to, at best, just barely outperform a rule-based
+    approach. We next investigate the effects of incorporating dialogue structure
+    and different kinds of general world knowledge into both rule-based and (neural
+    and non-neural) machine learning-based reading comprehension models. Experimental
+    results on the DREAM data set show the effectiveness of dialogue structure and
+    general world knowledge. DREAM is available at https://dataset.org/dream/.'
+  author:
+  - first: Kai
+    full: Kai Sun
+    id: kai-sun
+    last: Sun
+  - first: Dian
+    full: Dian Yu
+    id: dian-yu
+    last: Yu
+  - first: Jianshu
+    full: Jianshu Chen
+    id: jianshu-chen
+    last: Chen
+  - first: Dong
+    full: Dong Yu
+    id: dong-yu
+    last: Yu
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Kai Sun, Dian Yu, Jianshu Chen, Dong Yu, Yejin Choi, Claire Cardie
+  bibkey: sun-etal-2019-dream
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00264
+  month: March
+  page_first: '217'
+  page_last: '231'
+  pages: "217\u2013231"
+  paper_id: '14'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1014.jpg
+  title: 'DREAM: A Challenge Data Set and Models for Dialogue-Based Reading Comprehension'
+  title_html: '<span class="acl-fixed-case">DREAM</span>: A Challenge Data Set and
+    Models for Dialogue-Based Reading Comprehension'
+  url: https://www.aclweb.org/anthology/Q19-1014
+  year: '2019'
+Q19-1015:
+  abstract: In many machine learning scenarios, supervision by gold labels is not
+    available and conse quently neural models cannot be trained directly by maximum
+    likelihood estimation. In a weak supervision scenario, metric-augmented objectives
+    can be employed to assign feedback to model outputs, which can be used to extract
+    a supervision signal for training. We present several objectives for two separate
+    weakly supervised tasks, machine translation and semantic parsing. We show that
+    objectives should actively discourage negative outputs in addition to promoting
+    a surrogate gold structure. This notion of bipolarity is naturally present in
+    ramp loss objectives, which we adapt to neural models. We show that bipolar ramp
+    loss objectives outperform other non-bipolar ramp loss objectives and minimum
+    risk training on both weakly supervised tasks, as well as on a supervised machine
+    translation task. Additionally, we introduce a novel token-level ramp loss objective,
+    which is able to outperform even the best sequence-level ramp loss on both weakly
+    supervised tasks.
+  attachment:
+  - filename: https://vimeo.com/383999550
+    type: video
+    url: https://vimeo.com/383999550
+  author:
+  - first: Laura
+    full: Laura Jehl
+    id: laura-jehl
+    last: Jehl
+  - first: Carolin
+    full: Carolin Lawrence
+    id: carolin-lawrence
+    last: Lawrence
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  author_string: Laura Jehl, Carolin Lawrence, Stefan Riezler
+  bibkey: jehl-etal-2019-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00265
+  month: March
+  page_first: '233'
+  page_last: '248'
+  pages: "233\u2013248"
+  paper_id: '15'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1015.jpg
+  title: Learning Neural Sequence-to-Sequence Models from Weak Feedback with Bipolar
+    Ramp Loss
+  title_html: Learning Neural Sequence-to-Sequence Models from Weak Feedback with
+    Bipolar Ramp Loss
+  url: https://www.aclweb.org/anthology/Q19-1015
+  year: '2019'
+Q19-1016:
+  abstract: Humans gather information through conversations involving a series of
+    interconnected questions and answers. For machines to assist in information gathering,
+    it is therefore essential to enable them to answer conversational questions. We
+    introduce CoQA, a novel dataset for building Conversational Question Answering
+    systems. Our dataset contains 127k questions with answers, obtained from 8k conversations
+    about text passages from seven diverse domains. The questions are conversational,
+    and the answers are free-form text with their corresponding evidence highlighted
+    in the passage. We analyze CoQA in depth and show that conversational questions
+    have challenging phenomena not present in existing reading comprehension datasets
+    (e.g., coreference and pragmatic reasoning). We evaluate strong dialogue and reading
+    comprehension models on CoQA. The best system obtains an F1 score of 65.4%, which
+    is 23.4 points behind human performance (88.8%), indicating that there is ample
+    room for improvement. We present CoQA as a challenge to the community at https://stanfordnlp.github.io/coqa.
+  author:
+  - first: Siva
+    full: Siva Reddy
+    id: siva-reddy
+    last: Reddy
+  - first: Danqi
+    full: Danqi Chen
+    id: danqi-chen
+    last: Chen
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Siva Reddy, Danqi Chen, Christopher D. Manning
+  bibkey: reddy-etal-2019-coqa
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00266
+  month: March
+  page_first: '249'
+  page_last: '266'
+  pages: "249\u2013266"
+  paper_id: '16'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1016.jpg
+  title: 'CoQA: A Conversational Question Answering Challenge'
+  title_html: '<span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">QA</span>:
+    A Conversational Question Answering Challenge'
+  url: https://www.aclweb.org/anthology/Q19-1016
+  year: '2019'
+Q19-1017:
+  abstract: 'This paper presents an unsupervised framework for jointly modeling topic
+    content and discourse behavior in microblog conversations. Concretely, we propose
+    a neural model to discover word clusters indicating what a conversation concerns
+    (i.e., topics) and those reflecting how participants voice their opinions (i.e.,
+    discourse).1 Extensive experiments show that our model can yield both coherent
+    topics and meaningful discourse behavior. Further study shows that our topic and
+    discourse representations can benefit the classification of microblog messages,
+    especially when they are jointly trained with the classifier.Our data sets and
+    code are available at: http://github.com/zengjichuan/Topic_Disc.'
+  attachment:
+  - filename: https://vimeo.com/385265124
+    type: video
+    url: https://vimeo.com/385265124
+  author:
+  - first: Jichuan
+    full: Jichuan Zeng
+    id: jichuan-zeng
+    last: Zeng
+  - first: Jing
+    full: Jing Li
+    id: jing-li
+    last: Li
+  - first: Yulan
+    full: Yulan He
+    id: yulan-he
+    last: He
+  - first: Cuiyun
+    full: Cuiyun Gao
+    id: cuiyun-gao
+    last: Gao
+  - first: Michael R.
+    full: Michael R. Lyu
+    id: michael-r-lyu
+    last: Lyu
+  - first: Irwin
+    full: Irwin King
+    id: irwin-king
+    last: King
+  author_string: Jichuan Zeng, Jing Li, Yulan He, Cuiyun Gao, Michael R. Lyu, Irwin
+    King
+  bibkey: zeng-etal-2019-say
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00267
+  month: March
+  page_first: '267'
+  page_last: '281'
+  pages: "267\u2013281"
+  paper_id: '17'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1017.jpg
+  title: 'What You Say and How You Say it: Joint Modeling of Topics and Discourse
+    in Microblog Conversations'
+  title_html: 'What You Say and How You Say it: Joint Modeling of Topics and Discourse
+    in Microblog Conversations'
+  url: https://www.aclweb.org/anthology/Q19-1017
+  year: '2019'
+Q19-1018:
+  abstract: We present a new cubic-time algorithm to calculate the optimal next step
+    in shift-reduce dependency parsing, relative to ground truth, commonly referred
+    to as dynamic oracle. Unlike existing algorithms, it is applicable if the training
+    corpus contains non-projective structures. We then show that for a projective
+    training corpus, the time complexity can be improved from cubic to linear.
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  author_string: Mark-Jan Nederhof
+  bibkey: nederhof-2019-calculating
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00268
+  month: March
+  page_first: '283'
+  page_last: '296'
+  pages: "283\u2013296"
+  paper_id: '18'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1018.jpg
+  title: 'Calculating the Optimal Step in Shift-Reduce Dependency Parsing: From Cubic
+    to Linear Time'
+  title_html: 'Calculating the Optimal Step in Shift-Reduce Dependency Parsing: From
+    Cubic to Linear Time'
+  url: https://www.aclweb.org/anthology/Q19-1018
+  year: '2019'
+Q19-1019:
+  abstract: We focus on graph-to-sequence learning, which can be framed as transducing
+    graph structures to sequences for text generation. To capture structural information
+    associated with graphs, we investigate the problem of encoding graphs using graph
+    convolutional networks (GCNs). Unlike various existing approaches where shallow
+    architectures were used for capturing local structural information only, we introduce
+    a dense connection strategy, proposing a novel Densely Connected Graph Convolutional
+    Network (DCGCN). Such a deep architecture is able to integrate both local and
+    non-local features to learn a better structural representation of a graph. Our
+    model outperforms the state-of-the-art neural models significantly on AMR-to-text
+    generation and syntax-based neural machine translation.
+  attachment:
+  - filename: https://vimeo.com/385210377
+    type: video
+    url: https://vimeo.com/385210377
+  author:
+  - first: Zhijiang
+    full: Zhijiang Guo
+    id: zhijiang-guo
+    last: Guo
+  - first: Yan
+    full: Yan Zhang
+    id: yan-zhang
+    last: Zhang
+  - first: Zhiyang
+    full: Zhiyang Teng
+    id: zhiyang-teng
+    last: Teng
+  - first: Wei
+    full: Wei Lu
+    id: wei-lu
+    last: Lu
+  author_string: Zhijiang Guo, Yan Zhang, Zhiyang Teng, Wei Lu
+  bibkey: guo-etal-2019-densely
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00269
+  month: March
+  page_first: '297'
+  page_last: '312'
+  pages: "297\u2013312"
+  paper_id: '19'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1019.jpg
+  title: Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning
+  title_html: Densely Connected Graph Convolutional Networks for Graph-to-Sequence
+    Learning
+  url: https://www.aclweb.org/anthology/Q19-1019
+  year: '2019'
+Q19-1020:
+  abstract: "Speech translation has traditionally been approached through cascaded\
+    \ models consisting of a speech recognizer trained on a corpus of transcribed\
+    \ speech, and a machine translation system trained on parallel texts. Several\
+    \ recent works have shown the feasibility of collapsing the cascade into a single,\
+    \ direct model that can be trained in an end-to-end fashion on a corpus of translated\
+    \ speech. However, experiments are inconclusive on whether the cascade or the\
+    \ direct model is stronger, and have only been conducted under the unrealistic\
+    \ assumption that both are trained on equal amounts of data, ignoring other available\
+    \ speech recognition and machine translation corpora. In this paper, we demonstrate\
+    \ that direct speech translation models require more data to perform well than\
+    \ cascaded models, and although they allow including auxiliary data through multi-task\
+    \ training, they are poor at exploiting such data, putting them at a severe disadvantage.\
+    \ As a remedy, we propose the use of end- to-end trainable models with two attention\
+    \ mechanisms, the first establishing source speech to source text alignments,\
+    \ the second modeling source to target text alignment. We show that such models\
+    \ naturally decompose into multi-task\u2013trainable recognition and translation\
+    \ tasks and propose an attention-passing technique that alleviates error propagation\
+    \ issues in a previous formulation of a model with two attention stages. Our proposed\
+    \ model outperforms all examined baselines and is able to exploit auxiliary training\
+    \ data much more effectively than direct attentional models."
+  attachment:
+  - filename: https://vimeo.com/385434616
+    type: video
+    url: https://vimeo.com/385434616
+  author:
+  - first: Matthias
+    full: Matthias Sperber
+    id: matthias-sperber
+    last: Sperber
+  - first: Graham
+    full: Graham Neubig
+    id: graham-neubig
+    last: Neubig
+  - first: Jan
+    full: Jan Niehues
+    id: jan-niehues
+    last: Niehues
+  - first: Alex
+    full: Alex Waibel
+    id: alex-waibel
+    last: Waibel
+  author_string: Matthias Sperber, Graham Neubig, Jan Niehues, Alex Waibel
+  bibkey: sperber-etal-2019-attention
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00270
+  month: March
+  page_first: '313'
+  page_last: '325'
+  pages: "313\u2013325"
+  paper_id: '20'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1020.jpg
+  title: Attention-Passing Models for Robust and Data-Efficient End-to-End Speech
+    Translation
+  title_html: Attention-Passing Models for Robust and Data-Efficient End-to-End Speech
+    Translation
+  url: https://www.aclweb.org/anthology/Q19-1020
+  year: '2019'
+Q19-1021:
+  abstract: "We quantify the linguistic complexity of different languages\u2019 morphological\
+    \ systems. We verify that there is a statistically significant empirical trade-off\
+    \ between paradigm size and irregularity: A language\u2019s inflectional paradigms\
+    \ may be either large in size or highly irregular, but never both. We define a\
+    \ new measure of paradigm irregularity based on the conditional entropy of the\
+    \ surface realization of a paradigm\u2014 how hard it is to jointly predict all\
+    \ the word forms in a paradigm from the lemma. We estimate irregularity by training\
+    \ a predictive model. Our measurements are taken on large morphological paradigms\
+    \ from 36 typologically diverse languages."
+  author:
+  - first: Ryan
+    full: Ryan Cotterell
+    id: ryan-cotterell
+    last: Cotterell
+  - first: Christo
+    full: Christo Kirov
+    id: christo-kirov
+    last: Kirov
+  - first: Mans
+    full: Mans Hulden
+    id: mans-hulden
+    last: Hulden
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Ryan Cotterell, Christo Kirov, Mans Hulden, Jason Eisner
+  bibkey: cotterell-etal-2019-complexity
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00271
+  month: March
+  page_first: '327'
+  page_last: '342'
+  pages: "327\u2013342"
+  paper_id: '21'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1021.jpg
+  title: On the Complexity and Typology of Inflectional Morphological Systems
+  title_html: On the Complexity and Typology of Inflectional Morphological Systems
+  url: https://www.aclweb.org/anthology/Q19-1021
+  year: '2019'
+Q19-1022:
+  abstract: 'In this paper we focus on learning dependency aware representations for
+    semantic role labeling without recourse to an external parser. The backbone of
+    our model is an LSTM-based semantic role labeler jointly trained with two auxiliary
+    tasks: predicting the dependency label of a word and whether there exists an arc
+    linking it to the predicate. The auxiliary tasks provide syntactic information
+    that is specific to semantic role labeling and are learned from training data
+    (dependency annotations) without relying on existing dependency parsers, which
+    can be noisy (e.g., on out-of-domain data or infrequent constructions). Experimental
+    results on the CoNLL-2009 benchmark dataset show that our model outperforms the
+    state of the art in English, and consistently improves performance in other languages,
+    including Chinese, German, and Spanish.'
+  attachment:
+  - filename: https://vimeo.com/384772555
+    type: video
+    url: https://vimeo.com/384772555
+  author:
+  - first: Rui
+    full: Rui Cai
+    id: rui-cai
+    last: Cai
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Rui Cai, Mirella Lapata
+  bibkey: cai-lapata-2019-syntax
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00272
+  month: March
+  page_first: '343'
+  page_last: '356'
+  pages: "343\u2013356"
+  paper_id: '22'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1022.jpg
+  title: Syntax-aware Semantic Role Labeling without Parsing
+  title_html: Syntax-aware Semantic Role Labeling without Parsing
+  url: https://www.aclweb.org/anthology/Q19-1022
+  year: '2019'
+Q19-1023:
+  abstract: "Treebanks traditionally treat punctuation marks as ordinary words, but\
+    \ linguists have suggested that a tree\u2019s \u201Ctrue\u201D punctuation marks\
+    \ are not observed (Nunberg, 1990). These latent \u201Cunderlying\u201D marks\
+    \ serve to delimit or separate constituents in the syntax tree. When the tree\u2019\
+    s yield is rendered as a written sentence, a string rewriting mechanism transduces\
+    \ the underlying marks into \u201Csurface\u201D marks, which are part of the observed\
+    \ (surface) string but should not be regarded as part of the tree. We formalize\
+    \ this idea in a generative model of punctuation that admits efficient dynamic\
+    \ programming. We train it without observing the underlying marks, by locally\
+    \ maximizing the incomplete data likelihood (similarly to the EM algorithm). When\
+    \ we use the trained model to reconstruct the tree\u2019s underlying punctuation,\
+    \ the results appear plausible across 5 languages, and in particular are consistent\
+    \ with Nunberg\u2019s analysis of English. We show that our generative model can\
+    \ be used to beat baselines on punctuation restoration. Also, our reconstruction\
+    \ of a sentence\u2019s underlying punctuation lets us appropriately render the\
+    \ surface punctuation (via our trained underlying-to-surface mechanism) when we\
+    \ syntactically transform the sentence."
+  author:
+  - first: Xiang Lisa
+    full: Xiang Lisa Li
+    id: xiang-lisa-li
+    last: Li
+  - first: Dingquan
+    full: Dingquan Wang
+    id: dingquan-wang
+    last: Wang
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Xiang Lisa Li, Dingquan Wang, Jason Eisner
+  bibkey: li-etal-2019-generative
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00273
+  month: March
+  page_first: '357'
+  page_last: '373'
+  pages: "357\u2013373"
+  paper_id: '23'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1023.jpg
+  title: A Generative Model for Punctuation in Dependency Trees
+  title_html: A Generative Model for Punctuation in Dependency Trees
+  url: https://www.aclweb.org/anthology/Q19-1023
+  year: '2019'
+Q19-1024:
+  abstract: "Neural end-to-end goal-oriented dialog systems showed promise to reduce\
+    \ the workload of human agents for customer service, as well as reduce wait time\
+    \ for users. However, their inability to handle new user behavior at deployment\
+    \ has limited their usage in real world. In this work, we propose an end-to-end\
+    \ trainable method for neural goal-oriented dialog systems that handles new user\
+    \ behaviors at deployment by transferring the dialog to a human agent intelligently.\
+    \ The proposed method has three goals: 1) maximize user\u2019s task success by\
+    \ transferring to human agents, 2) minimize the load on the human agents by transferring\
+    \ to them only when it is essential, and 3) learn online from the human agent\u2019\
+    s responses to reduce human agents\u2019 load further. We evaluate our proposed\
+    \ method on a modified-bAbI dialog task, which simulates the scenario of new user\
+    \ behaviors occurring at test time. Experimental results show that our proposed\
+    \ method is effective in achieving the desired goals."
+  attachment:
+  - filename: https://vimeo.com/384015139
+    type: video
+    url: https://vimeo.com/384015139
+  author:
+  - first: Janarthanan
+    full: Janarthanan Rajendran
+    id: janarthanan-rajendran
+    last: Rajendran
+  - first: Jatin
+    full: Jatin Ganhotra
+    id: jatin-ganhotra
+    last: Ganhotra
+  - first: Lazaros C.
+    full: Lazaros C. Polymenakos
+    id: lazaros-c-polymenakos1
+    last: Polymenakos
+  author_string: Janarthanan Rajendran, Jatin Ganhotra, Lazaros C. Polymenakos
+  bibkey: rajendran-etal-2019-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00274
+  month: March
+  page_first: '375'
+  page_last: '386'
+  pages: "375\u2013386"
+  paper_id: '24'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1024.jpg
+  title: Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success and
+    Minimal Human Agent Use
+  title_html: Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success
+    and Minimal Human Agent Use
+  url: https://www.aclweb.org/anthology/Q19-1024
+  year: '2019'
+Q19-1025:
+  abstract: Composition models of distributional semantics are used to construct phrase
+    representations from the representations of their words. Composition models are
+    typically situated on two ends of a spectrum. They either have a small number
+    of parameters but compose all phrases in the same way, or they perform word-specific
+    compositions at the cost of a far larger number of parameters. In this paper we
+    propose transformation weighting (TransWeight), a composition model that consistently
+    outperforms existing models on nominal compounds, adjective-noun phrases, and
+    adverb-adjective phrases in English, German, and Dutch. TransWeight drastically
+    reduces the number of parameters needed compared with the best model in the literature
+    by composing similar words in the same way.
+  attachment:
+  - filename: https://vimeo.com/384772326
+    type: video
+    url: https://vimeo.com/384772326
+  author:
+  - first: Corina
+    full: Corina Dima
+    id: corina-dima
+    last: Dima
+  - first: "Dani\xEBl"
+    full: "Dani\xEBl de Kok"
+    id: daniel-de-kok
+    last: de Kok
+  - first: Neele
+    full: Neele Witte
+    id: neele-witte
+    last: Witte
+  - first: Erhard
+    full: Erhard Hinrichs
+    id: erhard-hinrichs
+    last: Hinrichs
+  author_string: "Corina Dima, Dani\xEBl de Kok, Neele Witte, Erhard Hinrichs"
+  bibkey: dima-etal-2019-word
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00275
+  month: March
+  page_first: '437'
+  page_last: '451'
+  pages: "437\u2013451"
+  paper_id: '25'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1025.jpg
+  title: "No Word is an Island\u2014A Transformation Weighting Model for Semantic\
+    \ Composition"
+  title_html: "No Word is an Island\u2014A Transformation Weighting Model for Semantic\
+    \ Composition"
+  url: https://www.aclweb.org/anthology/Q19-1025
+  year: '2019'
+Q19-1026:
+  abstract: We present the Natural Questions corpus, a question answering data set.
+    Questions consist of real anonymized, aggregated queries issued to the Google
+    search engine. An annotator is presented with a question along with a Wikipedia
+    page from the top 5 search results, and annotates a long answer (typically a paragraph)
+    and a short answer (one or more entities) if present on the page, or marks null
+    if no long/short answer is present. The public release consists of 307,373 training
+    examples with single annotations; 7,830 examples with 5-way annotations for development
+    data; and a further 7,842 examples with 5-way annotated sequestered as test data.
+    We present experiments validating quality of the data. We also describe analysis
+    of 25-way annotations on 302 examples, giving insights into human variability
+    on the annotation task. We introduce robust metrics for the purposes of evaluating
+    question answering systems; demonstrate high human upper bounds on these metrics;
+    and establish baseline results using competitive methods drawn from related literature.
+  attachment:
+  - filename: https://vimeo.com/385198433
+    type: video
+    url: https://vimeo.com/385198433
+  author:
+  - first: Tom
+    full: Tom Kwiatkowski
+    id: tom-kwiatkowski
+    last: Kwiatkowski
+  - first: Jennimaria
+    full: Jennimaria Palomaki
+    id: jennimaria-palomaki
+    last: Palomaki
+  - first: Olivia
+    full: Olivia Redfield
+    id: olivia-redfield
+    last: Redfield
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Ankur
+    full: Ankur Parikh
+    id: ankur-parikh
+    last: Parikh
+  - first: Chris
+    full: Chris Alberti
+    id: chris-alberti
+    last: Alberti
+  - first: Danielle
+    full: Danielle Epstein
+    id: danielle-epstein
+    last: Epstein
+  - first: Illia
+    full: Illia Polosukhin
+    id: illia-polosukhin
+    last: Polosukhin
+  - first: Jacob
+    full: Jacob Devlin
+    id: jacob-devlin
+    last: Devlin
+  - first: Kenton
+    full: Kenton Lee
+    id: kenton-lee
+    last: Lee
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Llion
+    full: Llion Jones
+    id: llion-jones
+    last: Jones
+  - first: Matthew
+    full: Matthew Kelcey
+    id: matthew-kelcey
+    last: Kelcey
+  - first: Ming-Wei
+    full: Ming-Wei Chang
+    id: ming-wei-chang
+    last: Chang
+  - first: Andrew M.
+    full: Andrew M. Dai
+    id: andrew-m-dai
+    last: Dai
+  - first: Jakob
+    full: Jakob Uszkoreit
+    id: jakob-uszkoreit
+    last: Uszkoreit
+  - first: Quoc
+    full: Quoc Le
+    id: quoc-le
+    last: Le
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  author_string: Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins,
+    Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin,
+    Kenton Lee, Kristina Toutanova, Llion Jones, Matthew Kelcey, Ming-Wei Chang, Andrew
+    M. Dai, Jakob Uszkoreit, Quoc Le, Slav Petrov
+  bibkey: kwiatkowski-etal-2019-natural
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00276
+  month: March
+  page_first: '453'
+  page_last: '466'
+  pages: "453\u2013466"
+  paper_id: '26'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1026.jpg
+  title: 'Natural Questions: A Benchmark for Question Answering Research'
+  title_html: 'Natural Questions: A Benchmark for Question Answering Research'
+  url: https://www.aclweb.org/anthology/Q19-1026
+  year: '2019'
+Q19-1027:
+  abstract: Building meaningful phrase representations is challenging because phrase
+    meanings are not simply the sum of their constituent meanings. Lexical composition
+    can shift the meanings of the constituent words and introduce implicit information.
+    We tested a broad range of textual representations for their capacity to address
+    these issues. We found that, as expected, contextualized word representations
+    perform better than static word embeddings, more so on detecting meaning shift
+    than in recovering implicit information, in which their performance is still far
+    from that of humans. Our evaluation suite, consisting of six tasks related to
+    lexical composition effects, can serve future research aiming to improve representations.
+  author:
+  - first: Vered
+    full: Vered Shwartz
+    id: vered-shwartz
+    last: Shwartz
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Vered Shwartz, Ido Dagan
+  bibkey: shwartz-dagan-2019-still
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00277
+  month: March
+  page_first: '403'
+  page_last: '419'
+  pages: "403\u2013419"
+  paper_id: '27'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1027.jpg
+  title: 'Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition'
+  title_html: 'Still a Pain in the Neck: Evaluating Text Representations on Lexical
+    Composition'
+  url: https://www.aclweb.org/anthology/Q19-1027
+  year: '2019'
+Q19-1028:
+  abstract: We present a multiattentive recurrent neural network architecture for
+    automatic multilingual readability assessment. This architecture considers raw
+    words as its main input, but internally captures text structure and informs its
+    word attention process using other syntax- and morphology-related datapoints,
+    known to be of great importance to readability. This is achieved by a multiattentive
+    strategy that allows the neural network to focus on specific parts of a text for
+    predicting its reading level. We conducted an exhaustive evaluation using data
+    sets targeting multiple languages and prediction task types, to compare the proposed
+    model with traditional, state-of-the-art, and other neural network strategies.
+  author:
+  - first: Ion Madrazo
+    full: Ion Madrazo Azpiazu
+    id: ion-madrazo-azpiazu
+    last: Azpiazu
+  - first: Maria Soledad
+    full: Maria Soledad Pera
+    id: maria-soledad-pera
+    last: Pera
+  author_string: Ion Madrazo Azpiazu, Maria Soledad Pera
+  bibkey: azpiazu-pera-2019-multiattentive
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00278
+  month: March
+  page_first: '421'
+  page_last: '436'
+  pages: "421\u2013436"
+  paper_id: '28'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1028.jpg
+  title: Multiattentive Recurrent Neural Network Architecture for Multilingual Readability
+    Assessment
+  title_html: Multiattentive Recurrent Neural Network Architecture for Multilingual
+    Readability Assessment
+  url: https://www.aclweb.org/anthology/Q19-1028
+  year: '2019'
+Q19-1029:
+  abstract: "Adversarial evaluation stress-tests a model\u2019s understanding of natural\
+    \ language. Because past approaches expose superficial patterns, the resulting\
+    \ adversarial examples are limited in complexity and diversity. We propose human-\
+    \ in-the-loop adversarial generation, where human authors are guided to break\
+    \ models. We aid the authors with interpretations of model predictions through\
+    \ an interactive user interface. We apply this generation framework to a question\
+    \ answering task called Quizbowl, where trivia enthusiasts craft adversarial questions.\
+    \ The resulting questions are validated via live human\u2013computer matches:\
+    \ Although the questions appear ordinary to humans, they systematically stump\
+    \ neural and information retrieval models. The adversarial questions cover diverse\
+    \ phenomena from multi-hop reasoning to entity type distractors, exposing open\
+    \ challenges in robust question answering."
+  author:
+  - first: Eric
+    full: Eric Wallace
+    id: eric-wallace
+    last: Wallace
+  - first: Pedro
+    full: Pedro Rodriguez
+    id: pedro-rodriguez
+    last: Rodriguez
+  - first: Shi
+    full: Shi Feng
+    id: shi-feng
+    last: Feng
+  - first: Ikuya
+    full: Ikuya Yamada
+    id: ikuya-yamada
+    last: Yamada
+  - first: Jordan
+    full: Jordan Boyd-Graber
+    id: jordan-boyd-graber
+    last: Boyd-Graber
+  author_string: Eric Wallace, Pedro Rodriguez, Shi Feng, Ikuya Yamada, Jordan Boyd-Graber
+  bibkey: wallace-etal-2019-trick
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    7
+  doi: 10.1162/tacl_a_00279
+  month: March
+  page_first: '387'
+  page_last: '401'
+  pages: "387\u2013401"
+  paper_id: '29'
+  parent_volume_id: Q19-1
+  pdf: https://www.aclweb.org/anthology/Q19-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q19-1029.jpg
+  title: 'Trick Me If You Can: Human-in-the-Loop Generation of Adversarial Examples
+    for Question Answering'
+  title_html: 'Trick Me If You Can: Human-in-the-Loop Generation of Adversarial Examples
+    for Question Answering'
+  url: https://www.aclweb.org/anthology/Q19-1029
+  year: '2019'

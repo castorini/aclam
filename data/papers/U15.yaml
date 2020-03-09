@@ -1,0 +1,723 @@
+U15-1000:
+  address: Parramatta, Australia
+  author:
+  - first: Ben
+    full: Ben Hachey
+    id: ben-hachey
+    last: Hachey
+  - first: Kellie
+    full: Kellie Webster
+    id: kellie-webster
+    last: Webster
+  author_string: Ben Hachey, Kellie Webster
+  bibkey: alta-2015-australasian
+  bibtype: proceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  month: December
+  paper_id: '0'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1000.jpg
+  title: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  title_html: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  url: https://www.aclweb.org/anthology/U15-1000
+  year: '2015'
+U15-1001:
+  address: Parramatta, Australia
+  author:
+  - first: Mahmood Yousefi
+    full: Mahmood Yousefi Azar
+    id: mahmood-yousefi-azar
+    last: Azar
+  - first: Kairit
+    full: Kairit Sirts
+    id: kairit-sirts
+    last: Sirts
+  - first: Diego
+    full: "Diego Moll\xE1 Aliod"
+    id: diego-molla
+    last: "Moll\xE1 Aliod"
+  - first: Len
+    full: Len Hamey
+    id: len-hamey
+    last: Hamey
+  author_string: "Mahmood Yousefi Azar, Kairit Sirts, Diego Moll\xE1 Aliod, Len Hamey"
+  bibkey: azar-etal-2015-query
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '2'
+  page_last: '10'
+  pages: "2\u201310"
+  paper_id: '1'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1001.jpg
+  title: Query-Based Single Document Summarization Using an Ensemble Noisy Auto-Encoder
+  title_html: Query-Based Single Document Summarization Using an Ensemble Noisy Auto-Encoder
+  url: https://www.aclweb.org/anthology/U15-1001
+  year: '2015'
+U15-1002:
+  address: Parramatta, Australia
+  author:
+  - first: Jennifer
+    full: Jennifer Biggs
+    id: jennifer-biggs
+    last: Biggs
+  author_string: Jennifer Biggs
+  bibkey: biggs-2015-comparison
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '11'
+  page_last: '20'
+  pages: "11\u201320"
+  paper_id: '2'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1002.jpg
+  title: Comparison of Visual and Logical Character Segmentation in Tesseract OCR
+    Language Data for Indic Writing Scripts
+  title_html: Comparison of Visual and Logical Character Segmentation in Tesseract
+    <span class="acl-fixed-case">OCR</span> Language Data for Indic Writing Scripts
+  url: https://www.aclweb.org/anthology/U15-1002
+  year: '2015'
+U15-1003:
+  address: Parramatta, Australia
+  author:
+  - first: Lance
+    full: Lance De Vine
+    id: lance-de-vine
+    last: De Vine
+  - first: Mahnoosh
+    full: Mahnoosh Kholghi
+    id: mahnoosh-kholghi
+    last: Kholghi
+  - first: Guido
+    full: Guido Zuccon
+    id: guido-zuccon
+    last: Zuccon
+  - first: Laurianne
+    full: Laurianne Sitbon
+    id: laurianne-sitbon
+    last: Sitbon
+  - first: Anthony
+    full: Anthony Nguyen
+    id: anthony-nguyen
+    last: Nguyen
+  author_string: Lance De Vine, Mahnoosh Kholghi, Guido Zuccon, Laurianne Sitbon,
+    Anthony Nguyen
+  bibkey: de-vine-etal-2015-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '21'
+  page_last: '30'
+  pages: "21\u201330"
+  paper_id: '3'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1003.jpg
+  title: Analysis of Word Embeddings and Sequence Features for Clinical Information
+    Extraction
+  title_html: Analysis of Word Embeddings and Sequence Features for Clinical Information
+    Extraction
+  url: https://www.aclweb.org/anthology/U15-1003
+  year: '2015'
+U15-1004:
+  address: Parramatta, Australia
+  author:
+  - first: Lan
+    full: Lan Du
+    id: lan-du
+    last: Du
+  - first: Anish
+    full: Anish Kumar
+    id: anish-kumar
+    last: Kumar
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Massimiliano
+    full: Massimiliano Ciaramita
+    id: massimiliano-ciaramita
+    last: Ciaramita
+  author_string: Lan Du, Anish Kumar, Mark Johnson, Massimiliano Ciaramita
+  bibkey: du-etal-2015-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '31'
+  page_last: '38'
+  pages: "31\u201338"
+  paper_id: '4'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1004.jpg
+  title: Using Entity Information from a Knowledge Base to Improve Relation Extraction
+  title_html: Using Entity Information from a Knowledge Base to Improve Relation Extraction
+  url: https://www.aclweb.org/anthology/U15-1004
+  year: '2015'
+U15-1005:
+  address: Parramatta, Australia
+  author:
+  - first: Daniel
+    full: Daniel Frost
+    id: daniel-frost
+    last: Frost
+  - first: Shunichi
+    full: Shunichi Ishihara
+    id: shunichi-ishihara
+    last: Ishihara
+  author_string: Daniel Frost, Shunichi Ishihara
+  bibkey: frost-ishihara-2015-likelihood
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '39'
+  page_last: '47'
+  pages: "39\u201347"
+  paper_id: '5'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1005.jpg
+  title: 'Likelihood Ratio-based Forensic Voice Comparison on L2 speakers: A Case
+    of Hong Kong native male production of English vowels'
+  title_html: 'Likelihood Ratio-based Forensic Voice Comparison on <span class="acl-fixed-case">L</span>2
+    speakers: A Case of Hong <span class="acl-fixed-case">K</span>ong native male
+    production of <span class="acl-fixed-case">E</span>nglish vowels'
+  url: https://www.aclweb.org/anthology/U15-1005
+  year: '2015'
+U15-1006:
+  address: Parramatta, Australia
+  author:
+  - first: Hamed
+    full: Hamed Hassanzadeh
+    id: hamed-hassanzadeh
+    last: Hassanzadeh
+  - first: Diego
+    full: "Diego Moll\xE1"
+    id: diego-molla
+    last: "Moll\xE1"
+  - first: Tudor
+    full: Tudor Groza
+    id: tudor-groza
+    last: Groza
+  - first: Anthony
+    full: Anthony Nguyen
+    id: anthony-nguyen
+    last: Nguyen
+  - first: Jane
+    full: Jane Hunter
+    id: jane-hunter
+    last: Hunter
+  author_string: "Hamed Hassanzadeh, Diego Moll\xE1, Tudor Groza, Anthony Nguyen,\
+    \ Jane Hunter"
+  bibkey: hassanzadeh-etal-2015-similarity
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '48'
+  page_last: '56'
+  pages: "48\u201356"
+  paper_id: '6'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1006.jpg
+  title: Similarity Metrics for Clustering PubMed Abstracts for Evidence Based Medicine
+  title_html: Similarity Metrics for Clustering <span class="acl-fixed-case">P</span>ub<span
+    class="acl-fixed-case">M</span>ed Abstracts for Evidence Based Medicine
+  url: https://www.aclweb.org/anthology/U15-1006
+  year: '2015'
+U15-1007:
+  address: Parramatta, Australia
+  author:
+  - first: Sunghwan Mac
+    full: Sunghwan Mac Kim
+    id: sunghwan-mac-kim
+    last: Kim
+  - first: Steve
+    full: Steve Cassidy
+    id: steve-cassidy
+    last: Cassidy
+  author_string: Sunghwan Mac Kim, Steve Cassidy
+  bibkey: kim-cassidy-2015-finding
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '57'
+  page_last: '65'
+  pages: "57\u201365"
+  paper_id: '7'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1007.jpg
+  title: 'Finding Names in Trove: Named Entity Recognition for Australian Historical
+    Newspapers'
+  title_html: 'Finding Names in Trove: Named Entity Recognition for <span class="acl-fixed-case">A</span>ustralian
+    Historical Newspapers'
+  url: https://www.aclweb.org/anthology/U15-1007
+  year: '2015'
+U15-1008:
+  address: Parramatta, Australia
+  author:
+  - first: Shervin
+    full: Shervin Malmasi
+    id: shervin-malmasi
+    last: Malmasi
+  - first: Hamed
+    full: Hamed Hassanzadeh
+    id: hamed-hassanzadeh
+    last: Hassanzadeh
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  author_string: Shervin Malmasi, Hamed Hassanzadeh, Mark Dras
+  bibkey: malmasi-etal-2015-clinical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '66'
+  page_last: '74'
+  pages: "66\u201374"
+  paper_id: '8'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1008.jpg
+  title: Clinical Information Extraction Using Word Representations
+  title_html: Clinical Information Extraction Using Word Representations
+  url: https://www.aclweb.org/anthology/U15-1008
+  year: '2015'
+U15-1009:
+  address: Parramatta, Australia
+  author:
+  - first: Caroline
+    full: Caroline McKinnon
+    id: caroline-mckinnon
+    last: McKinnon
+  - first: Ibtehal
+    full: Ibtehal Baazeem
+    id: ibtehal-baazeem
+    last: Baazeem
+  - first: Daniel
+    full: Daniel Angus
+    id: daniel-angus
+    last: Angus
+  author_string: Caroline McKinnon, Ibtehal Baazeem, Daniel Angus
+  bibkey: mckinnon-etal-2015-determining
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '75'
+  page_last: '83'
+  pages: "75\u201383"
+  paper_id: '9'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1009.jpg
+  title: How few is too few? Determining the minimum acceptable number of LSA dimensions
+    to visualise text cohesion with Lex
+  title_html: How few is too few? Determining the minimum acceptable number of <span
+    class="acl-fixed-case">LSA</span> dimensions to visualise text cohesion with Lex
+  url: https://www.aclweb.org/anthology/U15-1009
+  year: '2015'
+U15-1010:
+  address: Parramatta, Australia
+  author:
+  - first: Julio Cesar
+    full: Julio Cesar Salinas Alvarado
+    id: julio-cesar-salinas-alvarado
+    last: Salinas Alvarado
+  - first: Karin
+    full: Karin Verspoor
+    id: karin-verspoor
+    last: Verspoor
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Julio Cesar Salinas Alvarado, Karin Verspoor, Timothy Baldwin
+  bibkey: salinas-alvarado-etal-2015-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '84'
+  page_last: '90'
+  pages: "84\u201390"
+  paper_id: '10'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1010.jpg
+  title: Domain Adaption of Named Entity Recognition to Support Credit Risk Assessment
+  title_html: Domain Adaption of Named Entity Recognition to Support Credit Risk Assessment
+  url: https://www.aclweb.org/anthology/U15-1010
+  year: '2015'
+U15-1011:
+  address: Parramatta, Australia
+  author:
+  - first: Kairit
+    full: Kairit Sirts
+    id: kairit-sirts
+    last: Sirts
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Kairit Sirts, Mark Johnson
+  bibkey: sirts-johnson-2015-pos
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '91'
+  page_last: '100'
+  pages: "91\u2013100"
+  paper_id: '11'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1011.jpg
+  title: Do POS Tags Help to Learn Better Morphological Segmentations?
+  title_html: Do <span class="acl-fixed-case">POS</span> Tags Help to Learn Better
+    Morphological Segmentations?
+  url: https://www.aclweb.org/anthology/U15-1011
+  year: '2015'
+U15-1012:
+  address: Parramatta, Australia
+  author:
+  - first: Ping Ping
+    full: Ping Ping Tan
+    id: ping-ping-tan
+    last: Tan
+  - first: Karin
+    full: Karin Verspoor
+    id: karin-verspoor
+    last: Verspoor
+  - first: Tim
+    full: Tim Miller
+    id: timothy-miller
+    last: Miller
+  author_string: Ping Ping Tan, Karin Verspoor, Tim Miller
+  bibkey: tan-etal-2015-structural
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '101'
+  page_last: '109'
+  pages: "101\u2013109"
+  paper_id: '12'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1012.jpg
+  title: Structural Alignment as the Basis to Improve Significant Change Detection
+    in Versioned Sentences
+  title_html: Structural Alignment as the Basis to Improve Significant Change Detection
+    in Versioned Sentences
+  url: https://www.aclweb.org/anthology/U15-1012
+  year: '2015'
+U15-1013:
+  address: Parramatta, Australia
+  author:
+  - first: Fiona
+    full: Fiona Martin
+    id: fiona-martin
+    last: Martin
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Fiona Martin, Mark Johnson
+  bibkey: martin-johnson-2015-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '111'
+  page_last: '115'
+  pages: "111\u2013115"
+  paper_id: '13'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1013.jpg
+  title: More Efficient Topic Modelling Through a Noun Only Approach
+  title_html: More Efficient Topic Modelling Through a Noun Only Approach
+  url: https://www.aclweb.org/anthology/U15-1013
+  year: '2015'
+U15-1014:
+  address: Parramatta, Australia
+  author:
+  - first: Dat Quoc
+    full: Dat Quoc Nguyen
+    id: dat-quoc-nguyen
+    last: Nguyen
+  - first: Kairit
+    full: Kairit Sirts
+    id: kairit-sirts
+    last: Sirts
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Dat Quoc Nguyen, Kairit Sirts, Mark Johnson
+  bibkey: nguyen-etal-2015-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '116'
+  page_last: '121'
+  pages: "116\u2013121"
+  paper_id: '14'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1014.jpg
+  title: Improving Topic Coherence with Latent Feature Word Representations in MAP
+    Estimation for Topic Modeling
+  title_html: Improving Topic Coherence with Latent Feature Word Representations in
+    <span class="acl-fixed-case">MAP</span> Estimation for Topic Modeling
+  url: https://www.aclweb.org/anthology/U15-1014
+  year: '2015'
+U15-1015:
+  address: Parramatta, Australia
+  author:
+  - first: Joel
+    full: Joel Nothman
+    id: joel-nothman
+    last: Nothman
+  - first: Atif
+    full: Atif Ahmad
+    id: atif-ahmad
+    last: Ahmad
+  - first: Christoph
+    full: Christoph Breidbach
+    id: christoph-breidbach
+    last: Breidbach
+  - first: David
+    full: David Malet
+    id: david-malet
+    last: Malet
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Joel Nothman, Atif Ahmad, Christoph Breidbach, David Malet, Timothy
+    Baldwin
+  bibkey: nothman-etal-2015-understanding
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '122'
+  page_last: '127'
+  pages: "122\u2013127"
+  paper_id: '15'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1015.jpg
+  title: Understanding engagement with insurgents through retweet rhetoric
+  title_html: Understanding engagement with insurgents through retweet rhetoric
+  url: https://www.aclweb.org/anthology/U15-1015
+  year: '2015'
+U15-1016:
+  address: Parramatta, Australia
+  author:
+  - first: Sam Shang Chun
+    full: Sam Shang Chun Wei
+    id: sam-shang-chun-wei
+    last: Wei
+  - first: Ben
+    full: Ben Hachey
+    id: ben-hachey
+    last: Hachey
+  author_string: Sam Shang Chun Wei, Ben Hachey
+  bibkey: wei-hachey-2015-comparison
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '128'
+  page_last: '132'
+  pages: "128\u2013132"
+  paper_id: '16'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1016.jpg
+  title: A comparison and analysis of models for event trigger detection
+  title_html: A comparison and analysis of models for event trigger detection
+  url: https://www.aclweb.org/anthology/U15-1016
+  year: '2015'
+U15-1017:
+  address: Parramatta, Australia
+  author:
+  - first: Laurianne
+    full: Laurianne Sitbon
+    id: laurianne-sitbon
+    last: Sitbon
+  - first: Diego
+    full: Diego Molla
+    id: diego-molla
+    last: Molla
+  - first: Haoxing
+    full: Haoxing Wang
+    id: haoxing-wang
+    last: Wang
+  author_string: Laurianne Sitbon, Diego Molla, Haoxing Wang
+  bibkey: sitbon-etal-2015-overview
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '134'
+  page_last: '137'
+  pages: "134\u2013137"
+  paper_id: '17'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1017.jpg
+  title: 'Overview of the 2015 ALTA Shared Task: Identifying French Cognates in English
+    Text'
+  title_html: 'Overview of the 2015 <span class="acl-fixed-case">ALTA</span> Shared
+    Task: Identifying <span class="acl-fixed-case">F</span>rench Cognates in <span
+    class="acl-fixed-case">E</span>nglish Text'
+  url: https://www.aclweb.org/anthology/U15-1017
+  year: '2015'
+U15-1018:
+  address: Parramatta, Australia
+  author:
+  - first: Shervin
+    full: Shervin Malmasi
+    id: shervin-malmasi
+    last: Malmasi
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  author_string: Shervin Malmasi, Mark Dras
+  bibkey: malmasi-dras-2015-cognate
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '138'
+  page_last: '141'
+  pages: "138\u2013141"
+  paper_id: '18'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1018.jpg
+  title: Cognate Identification using Machine Translation
+  title_html: Cognate Identification using Machine Translation
+  url: https://www.aclweb.org/anthology/U15-1018
+  year: '2015'
+U15-1019:
+  address: Parramatta, Australia
+  author:
+  - first: Alexandra
+    full: Alexandra Uitdenbogerd
+    id: alexandra-l-uitdenbogerd
+    last: Uitdenbogerd
+  author_string: Alexandra Uitdenbogerd
+  bibkey: uitdenbogerd-2015-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '142'
+  page_last: '144'
+  pages: "142\u2013144"
+  paper_id: '19'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1019.jpg
+  title: Word Transformation Heuristics Agains Lexicons for Cognate Detection
+  title_html: Word Transformation Heuristics Agains Lexicons for Cognate Detection
+  url: https://www.aclweb.org/anthology/U15-1019
+  year: '2015'
+U15-1020:
+  address: Parramatta, Australia
+  author:
+  - first: Qiongkai
+    full: Qiongkai Xu
+    id: qiongkai-xu
+    last: Xu
+  - first: Albert
+    full: Albert Chen
+    id: albert-chen
+    last: Chen
+  - first: Chang
+    full: Chang Li
+    id: chang-li
+    last: Li
+  author_string: Qiongkai Xu, Albert Chen, Chang Li
+  bibkey: xu-etal-2015-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2015
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2015
+  month: December
+  page_first: '145'
+  page_last: '149'
+  pages: "145\u2013149"
+  paper_id: '20'
+  parent_volume_id: U15-1
+  pdf: https://www.aclweb.org/anthology/U15-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U15-1020.jpg
+  title: Detecting English-French Cognates Using Orthographic Edit Distance
+  title_html: Detecting <span class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">F</span>rench
+    Cognates Using Orthographic Edit Distance
+  url: https://www.aclweb.org/anthology/U15-1020
+  year: '2015'

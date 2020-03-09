@@ -1,0 +1,2280 @@
+P02-1000:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Pierre
+    full: Pierre Isabelle
+    id: pierre-isabelle
+    last: Isabelle
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Pierre Isabelle, Eugene Charniak, Dekang Lin
+  bibkey: acl-2002-association
+  bibtype: proceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  month: July
+  paper_id: '0'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1000.jpg
+  title: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  title_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  url: https://www.aclweb.org/anthology/P02-1000
+  year: '2002'
+P02-1001:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Jason Eisner
+  bibkey: eisner-2002-parameter
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073085
+  month: July
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1001.jpg
+  title: Parameter Estimation for Probabilistic Finite-State Transducers
+  title_html: Parameter Estimation for Probabilistic Finite-State Transducers
+  url: https://www.aclweb.org/anthology/P02-1001
+  year: '2002'
+P02-1002:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Joshua
+    full: Joshua Goodman
+    id: joshua-goodman
+    last: Goodman
+  author_string: Joshua Goodman
+  bibkey: goodman-2002-sequential
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073086
+  month: July
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1002.jpg
+  title: Sequential Conditional Generalized Iterative Scaling
+  title_html: Sequential Conditional Generalized Iterative Scaling
+  url: https://www.aclweb.org/anthology/P02-1002
+  year: '2002'
+P02-1003:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Alexander
+    full: Alexander Koller
+    id: alexander-koller
+    last: Koller
+  - first: Kristina
+    full: Kristina Striegnitz
+    id: kristina-striegnitz
+    last: Striegnitz
+  author_string: Alexander Koller, Kristina Striegnitz
+  bibkey: koller-striegnitz-2002-generation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073088
+  month: July
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1003.jpg
+  title: Generation as Dependency Parsing
+  title_html: Generation as Dependency Parsing
+  url: https://www.aclweb.org/anthology/P02-1003
+  year: '2002'
+P02-1004:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Michael
+    full: Michael Gamon
+    id: michael-gamon
+    last: Gamon
+  - first: Eric
+    full: Eric Ringger
+    id: eric-ringger
+    last: Ringger
+  - first: Simon
+    full: Simon Corston-Oliver
+    id: simon-corston-oliver
+    last: Corston-Oliver
+  - first: Robert
+    full: Robert Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Michael Gamon, Eric Ringger, Simon Corston-Oliver, Robert Moore
+  bibkey: gamon-etal-2002-machine
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073089
+  month: July
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1004.jpg
+  title: Machine-learned contexts for linguistic operations in German sentence realization
+  title_html: Machine-learned contexts for linguistic operations in <span class="acl-fixed-case">G</span>erman
+    sentence realization
+  url: https://www.aclweb.org/anthology/P02-1004
+  year: '2002'
+P02-1005:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Marius
+    full: Marius Pasca
+    id: marius-pasca
+    last: Pasca
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  author_string: Dan Moldovan, Marius Pasca, Sanda Harabagiu, Mihai Surdeanu
+  bibkey: moldovan-etal-2002-performance
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073091
+  month: July
+  page_first: '33'
+  page_last: '40'
+  pages: "33\u201340"
+  paper_id: '5'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1005.jpg
+  title: Performance Issues and Error Analysis in an Open-Domain Question Answering
+    System
+  title_html: Performance Issues and Error Analysis in an Open-Domain Question Answering
+    System
+  url: https://www.aclweb.org/anthology/P02-1005
+  year: '2002'
+P02-1006:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Deepak
+    full: Deepak Ravichandran
+    id: deepak-ravichandran
+    last: Ravichandran
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Deepak Ravichandran, Eduard Hovy
+  bibkey: ravichandran-hovy-2002-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073092
+  month: July
+  page_first: '41'
+  page_last: '47'
+  pages: "41\u201347"
+  paper_id: '6'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1006.jpg
+  title: Learning surface text patterns for a Question Answering System
+  title_html: Learning surface text patterns for a Question Answering System
+  url: https://www.aclweb.org/anthology/P02-1006
+  year: '2002'
+P02-1007:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Jonas
+    full: Jonas Kuhn
+    id: jonas-kuhn
+    last: Kuhn
+  author_string: Jonas Kuhn
+  bibkey: kuhn-2002-ot
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073094
+  month: July
+  page_first: '48'
+  page_last: '55'
+  pages: "48\u201355"
+  paper_id: '7'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1007.jpg
+  title: "OT Syntax \u2013 Decidability of Generation-based Optimization"
+  title_html: "<span class=\"acl-fixed-case\">OT</span> Syntax \u2013 Decidability\
+    \ of Generation-based Optimization"
+  url: https://www.aclweb.org/anthology/P02-1007
+  year: '2002'
+P02-1008:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Jason Eisner
+  bibkey: eisner-2002-phonological
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073095
+  month: July
+  page_first: '56'
+  page_last: '63'
+  pages: "56\u201363"
+  paper_id: '8'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1008.jpg
+  title: Phonological Comprehension and the Compilation of Optimality Theory
+  title_html: Phonological Comprehension and the Compilation of Optimality Theory
+  url: https://www.aclweb.org/anthology/P02-1008
+  year: '2002'
+P02-1009:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  author_string: Gerald Penn
+  bibkey: penn-2002-generalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073096
+  month: July
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '9'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1009.jpg
+  title: Generalized Encoding of Description Spaces and its Application to Typed Feature
+    Structures
+  title_html: Generalized Encoding of Description Spaces and its Application to Typed
+    Feature Structures
+  url: https://www.aclweb.org/anthology/P02-1009
+  year: '2002'
+P02-1010:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Michael
+    full: Michael Schiehlen
+    id: michael-schiehlen
+    last: Schiehlen
+  author_string: Michael Schiehlen
+  bibkey: schiehlen-2002-ellipsis
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073097
+  month: July
+  page_first: '72'
+  page_last: '79'
+  pages: "72\u201379"
+  paper_id: '10'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1010.jpg
+  title: Ellipsis Resolution with Underspecified Scope
+  title_html: Ellipsis Resolution with Underspecified Scope
+  url: https://www.aclweb.org/anthology/P02-1010
+  year: '2002'
+P02-1011:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Donna K.
+    full: Donna K. Byron
+    id: donna-byron
+    last: Byron
+  author_string: Donna K. Byron
+  bibkey: byron-2002-resolving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073099
+  month: July
+  page_first: '80'
+  page_last: '87'
+  pages: "80\u201387"
+  paper_id: '11'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1011.jpg
+  title: Resolving Pronominal Reference to Abstract Entities
+  title_html: Resolving Pronominal Reference to Abstract Entities
+  url: https://www.aclweb.org/anthology/P02-1011
+  year: '2002'
+P02-1012:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Charles B.
+    full: Charles B. Callaway
+    id: charles-b-callaway
+    last: Callaway
+  - first: James C.
+    full: James C. Lester
+    id: james-lester
+    last: Lester
+  author_string: Charles B. Callaway, James C. Lester
+  bibkey: callaway-lester-2002-pronominalization
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073100
+  month: July
+  page_first: '88'
+  page_last: '95'
+  pages: "88\u201395"
+  paper_id: '12'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1012.jpg
+  title: Pronominalization in Generated Discourse and Dialogue
+  title_html: Pronominalization in Generated Discourse and Dialogue
+  url: https://www.aclweb.org/anthology/P02-1012
+  year: '2002'
+P02-1013:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  author_string: Claire Gardent
+  bibkey: gardent-2002-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073101
+  month: July
+  page_first: '96'
+  page_last: '103'
+  pages: "96\u2013103"
+  paper_id: '13'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1013.jpg
+  title: Generating Minimal Definite Descriptions
+  title_html: Generating Minimal Definite Descriptions
+  url: https://www.aclweb.org/anthology/P02-1013
+  year: '2002'
+P02-1014:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Vincent Ng, Claire Cardie
+  bibkey: ng-cardie-2002-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073102
+  month: July
+  page_first: '104'
+  page_last: '111'
+  pages: "104\u2013111"
+  paper_id: '14'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1014.jpg
+  title: Improving Machine Learning Approaches to Coreference Resolution
+  title_html: Improving Machine Learning Approaches to Coreference Resolution
+  url: https://www.aclweb.org/anthology/P02-1014
+  year: '2002'
+P02-1015:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Mark-Jan Nederhof, Giorgio Satta
+  bibkey: nederhof-satta-2002-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073104
+  month: July
+  page_first: '112'
+  page_last: '119'
+  pages: "112\u2013119"
+  paper_id: '15'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1015.jpg
+  title: Parsing non-recursive CFGs
+  title_html: Parsing non-recursive <span class="acl-fixed-case">CFG</span>s
+  url: https://www.aclweb.org/anthology/P02-1015
+  year: '2002'
+P02-1016:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Min
+    full: Min Tang
+    id: min-tang
+    last: Tang
+  - first: Xiaoqiang
+    full: Xiaoqiang Luo
+    id: xiaoqiang-luo
+    last: Luo
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  author_string: Min Tang, Xiaoqiang Luo, Salim Roukos
+  bibkey: tang-etal-2002-active
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073105
+  month: July
+  page_first: '120'
+  page_last: '127'
+  pages: "120\u2013127"
+  paper_id: '16'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1016.jpg
+  title: Active Learning for Statistical Natural Language Parsing
+  title_html: Active Learning for Statistical Natural Language Parsing
+  url: https://www.aclweb.org/anthology/P02-1016
+  year: '2002'
+P02-1017:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Dan Klein, Christopher D. Manning
+  bibkey: klein-manning-2002-generative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073106
+  month: July
+  page_first: '128'
+  page_last: '135'
+  pages: "128\u2013135"
+  paper_id: '17'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1017.jpg
+  title: A Generative Constituent-Context Model for Improved Grammar Induction
+  title_html: A Generative Constituent-Context Model for Improved Grammar Induction
+  url: https://www.aclweb.org/anthology/P02-1017
+  year: '2002'
+P02-1018:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Mark Johnson
+  bibkey: johnson-2002-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073107
+  month: July
+  page_first: '136'
+  page_last: '143'
+  pages: "136\u2013143"
+  paper_id: '18'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1018.jpg
+  title: A Simple Pattern-matching Algorithm for Recovering Empty Nodes and their
+    Antecedents
+  title_html: A Simple Pattern-matching Algorithm for Recovering Empty Nodes and their
+    Antecedents
+  url: https://www.aclweb.org/anthology/P02-1018
+  year: '2002'
+P02-1019:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Robert
+    full: Robert Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Kristina Toutanova, Robert Moore
+  bibkey: toutanova-moore-2002-pronunciation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073109
+  month: July
+  page_first: '144'
+  page_last: '151'
+  pages: "144\u2013151"
+  paper_id: '19'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1019.jpg
+  title: Pronunciation Modeling for Improved Spelling Correction
+  title_html: Pronunciation Modeling for Improved Spelling Correction
+  url: https://www.aclweb.org/anthology/P02-1019
+  year: '2002'
+P02-1020:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Paul
+    full: Paul Clough
+    id: paul-clough
+    last: Clough
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  - first: Scott S.L.
+    full: Scott S.L. Piao
+    id: scott-s-l-piao
+    last: Piao
+  - first: Yorick
+    full: Yorick Wilks
+    id: yorick-wilks
+    last: Wilks
+  author_string: Paul Clough, Robert Gaizauskas, Scott S.L. Piao, Yorick Wilks
+  bibkey: clough-etal-2002-measuring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073110
+  month: July
+  page_first: '152'
+  page_last: '159'
+  pages: "152\u2013159"
+  paper_id: '20'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1020.jpg
+  title: Measuring Text Reuse
+  title_html: Measuring Text Reuse
+  url: https://www.aclweb.org/anthology/P02-1020
+  year: '2002'
+P02-1021:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Serguei
+    full: Serguei Pakhomov
+    id: serguei-pakhomov
+    last: Pakhomov
+  author_string: Serguei Pakhomov
+  bibkey: pakhomov-2002-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073111
+  month: July
+  page_first: '160'
+  page_last: '167'
+  pages: "160\u2013167"
+  paper_id: '21'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1021.jpg
+  title: Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation
+    Normalization in Medical Texts
+  title_html: Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation
+    Normalization in Medical Texts
+  url: https://www.aclweb.org/anthology/P02-1021
+  year: '2002'
+P02-1022:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Hamish
+    full: Hamish Cunningham
+    id: hamish-cunningham
+    last: Cunningham
+  - first: Diana
+    full: Diana Maynard
+    id: diana-maynard
+    last: Maynard
+  - first: Kalina
+    full: Kalina Bontcheva
+    id: kalina-bontcheva
+    last: Bontcheva
+  - first: Valentin
+    full: Valentin Tablan
+    id: valentin-tablan
+    last: Tablan
+  author_string: Hamish Cunningham, Diana Maynard, Kalina Bontcheva, Valentin Tablan
+  bibkey: cunningham-etal-2002-gate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073112
+  month: July
+  page_first: '168'
+  page_last: '175'
+  pages: "168\u2013175"
+  paper_id: '22'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1022.jpg
+  title: 'GATE: an Architecture for Development of Robust HLT applications'
+  title_html: '<span class="acl-fixed-case">GATE</span>: an Architecture for Development
+    of Robust <span class="acl-fixed-case">HLT</span> applications'
+  url: https://www.aclweb.org/anthology/P02-1022
+  year: '2002'
+P02-1023:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  author_string: Jianfeng Gao, Min Zhang
+  bibkey: gao-zhang-2002-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073114
+  month: July
+  page_first: '176'
+  page_last: '182'
+  pages: "176\u2013182"
+  paper_id: '23'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1023.jpg
+  title: Improving Language Model Size Reduction using Better Pruning Criteria
+  title_html: Improving Language Model Size Reduction using Better Pruning Criteria
+  url: https://www.aclweb.org/anthology/P02-1023
+  year: '2002'
+P02-1024:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Joshua
+    full: Joshua Goodman
+    id: joshua-goodman
+    last: Goodman
+  - first: Guihong
+    full: Guihong Cao
+    id: guihong-cao
+    last: Cao
+  - first: Hang
+    full: Hang Li
+    id: hang-li
+    last: Li
+  author_string: Jianfeng Gao, Joshua Goodman, Guihong Cao, Hang Li
+  bibkey: gao-etal-2002-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073115
+  month: July
+  page_first: '183'
+  page_last: '190'
+  pages: "183\u2013190"
+  paper_id: '24'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1024.jpg
+  title: Exploring Asymmetric Clustering for Statistical Language Modeling
+  title_html: Exploring Asymmetric Clustering for Statistical Language Modeling
+  url: https://www.aclweb.org/anthology/P02-1024
+  year: '2002'
+P02-1025:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Peng
+    full: Peng Xu
+    id: peng-xu
+    last: Xu
+  - first: Ciprian
+    full: Ciprian Chelba
+    id: ciprian-chelba
+    last: Chelba
+  - first: Frederick
+    full: Frederick Jelinek
+    id: frederick-jelinek
+    last: Jelinek
+  author_string: Peng Xu, Ciprian Chelba, Frederick Jelinek
+  bibkey: xu-etal-2002-study
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073116
+  month: July
+  page_first: '191'
+  page_last: '198'
+  pages: "191\u2013198"
+  paper_id: '25'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1025.jpg
+  title: A Study on Richer Syntactic Dependencies for Structured Language Modeling
+  title_html: A Study on Richer Syntactic Dependencies for Structured Language Modeling
+  url: https://www.aclweb.org/anthology/P02-1025
+  year: '2002'
+P02-1026:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Dmitriy
+    full: Dmitriy Genzel
+    id: dmitriy-genzel
+    last: Genzel
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  author_string: Dmitriy Genzel, Eugene Charniak
+  bibkey: genzel-charniak-2002-entropy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073117
+  month: July
+  page_first: '199'
+  page_last: '206'
+  pages: "199\u2013206"
+  paper_id: '26'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1026.jpg
+  title: Entropy Rate Constancy in Text
+  title_html: Entropy Rate Constancy in Text
+  url: https://www.aclweb.org/anthology/P02-1026
+  year: '2002'
+P02-1027:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  - first: Vivian
+    full: Vivian Tsang
+    id: vivian-tsang
+    last: Tsang
+  - first: Gianluca
+    full: Gianluca Allaria
+    id: gianluca-allaria
+    last: Allaria
+  author_string: Paola Merlo, Suzanne Stevenson, Vivian Tsang, Gianluca Allaria
+  bibkey: merlo-etal-2002-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073119
+  month: July
+  page_first: '207'
+  page_last: '214'
+  pages: "207\u2013214"
+  paper_id: '27'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1027.jpg
+  title: A Multilingual Paradigm for Automatic Verb Classification
+  title_html: A Multilingual Paradigm for Automatic Verb Classification
+  url: https://www.aclweb.org/anthology/P02-1027
+  year: '2002'
+P02-1028:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Nobuhiro
+    full: Nobuhiro Kaji
+    id: nobuhiro-kaji
+    last: Kaji
+  - first: Daisuke
+    full: Daisuke Kawahara
+    id: daisuke-kawahara
+    last: Kawahara
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  - first: Satoshi
+    full: Satoshi Sato
+    id: satoshi-sato
+    last: Sato
+  author_string: Nobuhiro Kaji, Daisuke Kawahara, Sadao Kurohashi, Satoshi Sato
+  bibkey: kaji-etal-2002-verb
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073120
+  month: July
+  page_first: '215'
+  page_last: '222'
+  pages: "215\u2013222"
+  paper_id: '28'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1028.jpg
+  title: Verb Paraphrase based on Case Frame Alignment
+  title_html: Verb Paraphrase based on Case Frame Alignment
+  url: https://www.aclweb.org/anthology/P02-1028
+  year: '2002'
+P02-1029:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Sabine
+    full: Sabine Schulte im Walde
+    id: sabine-schulte-im-walde
+    last: Schulte im Walde
+  - first: Chris
+    full: Chris Brew
+    id: chris-brew
+    last: Brew
+  author_string: Sabine Schulte im Walde, Chris Brew
+  bibkey: schulte-im-walde-brew-2002-inducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073121
+  month: July
+  page_first: '223'
+  page_last: '230'
+  pages: "223\u2013230"
+  paper_id: '29'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1029.jpg
+  title: Inducing German Semantic Verb Classes from Purely Syntactic Subcategorisation
+    Information
+  title_html: Inducing <span class="acl-fixed-case">G</span>erman Semantic Verb Classes
+    from Purely Syntactic Subcategorisation Information
+  url: https://www.aclweb.org/anthology/P02-1029
+  year: '2002'
+P02-1030:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: James
+    full: James Curran
+    id: james-r-curran
+    last: Curran
+  - first: Marc
+    full: Marc Moens
+    id: marc-moens
+    last: Moens
+  author_string: James Curran, Marc Moens
+  bibkey: curran-moens-2002-scaling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073123
+  month: July
+  page_first: '231'
+  page_last: '238'
+  pages: "231\u2013238"
+  paper_id: '30'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1030.jpg
+  title: Scaling Context Space
+  title_html: Scaling Context Space
+  url: https://www.aclweb.org/anthology/P02-1030
+  year: '2002'
+P02-1031:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Daniel Gildea, Martha Palmer
+  bibkey: gildea-palmer-2002-necessity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073124
+  month: July
+  page_first: '239'
+  page_last: '246'
+  pages: "239\u2013246"
+  paper_id: '31'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1031.jpg
+  title: The Necessity of Parsing for Predicate Argument Recognition
+  title_html: The Necessity of Parsing for Predicate Argument Recognition
+  url: https://www.aclweb.org/anthology/P02-1031
+  year: '2002'
+P02-1032:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Barbara
+    full: Barbara Rosario
+    id: barbara-rosario
+    last: Rosario
+  - first: Marti
+    full: Marti Hearst
+    id: marti-a-hearst
+    last: Hearst
+  - first: Charles
+    full: Charles Fillmore
+    id: charles-j-fillmore
+    last: Fillmore
+  author_string: Barbara Rosario, Marti Hearst, Charles Fillmore
+  bibkey: rosario-etal-2002-descent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073125
+  month: July
+  page_first: '247'
+  page_last: '254'
+  pages: "247\u2013254"
+  paper_id: '32'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1032.jpg
+  title: The Descent of Hierarchy, and Selection in Relational Semantics
+  title_html: The Descent of Hierarchy, and Selection in Relational Semantics
+  url: https://www.aclweb.org/anthology/P02-1032
+  year: '2002'
+P02-1033:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Mona Diab, Philip Resnik
+  bibkey: diab-resnik-2002-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073126
+  month: July
+  page_first: '255'
+  page_last: '262'
+  pages: "255\u2013262"
+  paper_id: '33'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1033.jpg
+  title: An Unsupervised Method for Word Sense Tagging using Parallel Corpora
+  title_html: An Unsupervised Method for Word Sense Tagging using Parallel Corpora
+  url: https://www.aclweb.org/anthology/P02-1033
+  year: '2002'
+P02-1034:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Nigel
+    full: Nigel Duffy
+    id: nigel-duffy
+    last: Duffy
+  author_string: Michael Collins, Nigel Duffy
+  bibkey: collins-duffy-2002-new
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073128
+  month: July
+  page_first: '263'
+  page_last: '270'
+  pages: "263\u2013270"
+  paper_id: '34'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1034.jpg
+  title: 'New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures,
+    and the Voted Perceptron'
+  title_html: 'New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete
+    Structures, and the Voted Perceptron'
+  url: https://www.aclweb.org/anthology/P02-1034
+  year: '2002'
+P02-1035:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  - first: Tracy H.
+    full: Tracy H. King
+    id: tracy-holloway-king
+    last: King
+  - first: Ronald M.
+    full: Ronald M. Kaplan
+    id: ronald-m-kaplan
+    last: Kaplan
+  - first: Richard
+    full: Richard Crouch
+    id: richard-crouch
+    last: Crouch
+  - first: John T.
+    full: John T. Maxwell III
+    id: john-t-maxwell-iii
+    last: Maxwell III
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Stefan Riezler, Tracy H. King, Ronald M. Kaplan, Richard Crouch,
+    John T. Maxwell III, Mark Johnson
+  bibkey: riezler-etal-2002-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073129
+  month: July
+  page_first: '271'
+  page_last: '278'
+  pages: "271\u2013278"
+  paper_id: '35'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1035.jpg
+  title: Parsing the Wall Street Journal using a Lexical-Functional Grammar and Discriminative
+    Estimation Techniques
+  title_html: Parsing the <span class="acl-fixed-case">W</span>all <span class="acl-fixed-case">S</span>treet
+    <span class="acl-fixed-case">J</span>ournal using a <span class="acl-fixed-case">L</span>exical-<span
+    class="acl-fixed-case">F</span>unctional <span class="acl-fixed-case">G</span>rammar
+    and Discriminative Estimation Techniques
+  url: https://www.aclweb.org/anthology/P02-1035
+  year: '2002'
+P02-1036:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Stuart
+    full: Stuart Geman
+    id: stuart-geman
+    last: Geman
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Stuart Geman, Mark Johnson
+  bibkey: geman-johnson-2002-dynamic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073130
+  month: July
+  page_first: '279'
+  page_last: '286'
+  pages: "279\u2013286"
+  paper_id: '36'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1036.jpg
+  title: Dynamic programming for parsing and estimation of stochastic unification-based
+    grammars
+  title_html: Dynamic programming for parsing and estimation of stochastic unification-based
+    grammars
+  url: https://www.aclweb.org/anthology/P02-1036
+  year: '2002'
+P02-1037:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  author_string: Brian Roark
+  bibkey: roark-2002-markov
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073131
+  month: July
+  page_first: '287'
+  page_last: '294'
+  pages: "287\u2013294"
+  paper_id: '37'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1037.jpg
+  title: 'Markov Parsing: Lattice Rescoring with a Statistical Parser'
+  title_html: '<span class="acl-fixed-case">M</span>arkov Parsing: Lattice Rescoring
+    with a Statistical Parser'
+  url: https://www.aclweb.org/anthology/P02-1037
+  year: '2002'
+P02-1038:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Franz Josef
+    full: Franz Josef Och
+    id: franz-josef-och
+    last: Och
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Franz Josef Och, Hermann Ney
+  bibkey: och-ney-2002-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073133
+  month: July
+  page_first: '295'
+  page_last: '302'
+  pages: "295\u2013302"
+  paper_id: '38'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1038.jpg
+  title: Discriminative Training and Maximum Entropy Models for Statistical Machine
+    Translation
+  title_html: Discriminative Training and Maximum Entropy Models for Statistical Machine
+    Translation
+  url: https://www.aclweb.org/anthology/P02-1038
+  year: '2002'
+P02-1039:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Kenji
+    full: Kenji Yamada
+    id: kenji-yamada
+    last: Yamada
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Kenji Yamada, Kevin Knight
+  bibkey: yamada-knight-2002-decoder
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073134
+  month: July
+  page_first: '303'
+  page_last: '310'
+  pages: "303\u2013310"
+  paper_id: '39'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1039.jpg
+  title: A Decoder for Syntax-based Statistical MT
+  title_html: A Decoder for Syntax-based Statistical <span class="acl-fixed-case">MT</span>
+  url: https://www.aclweb.org/anthology/P02-1039
+  year: '2002'
+P02-1040:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Kishore
+    full: Kishore Papineni
+    id: kishore-papineni
+    last: Papineni
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  - first: Todd
+    full: Todd Ward
+    id: todd-ward
+    last: Ward
+  - first: Wei-Jing
+    full: Wei-Jing Zhu
+    id: wei-jing-zhu
+    last: Zhu
+  author_string: Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu
+  bibkey: papineni-etal-2002-bleu
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073135
+  month: July
+  page_first: '311'
+  page_last: '318'
+  pages: "311\u2013318"
+  paper_id: '40'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1040.jpg
+  title: 'Bleu: a Method for Automatic Evaluation of Machine Translation'
+  title_html: '<span class="acl-fixed-case">B</span>leu: a Method for Automatic Evaluation
+    of Machine Translation'
+  url: https://www.aclweb.org/anthology/P02-1040
+  year: '2002'
+P02-1041:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  - first: Geert-Jan
+    full: Geert-Jan Kruijff
+    id: geert-jan-m-kruijff
+    last: Kruijff
+  author_string: Jason Baldridge, Geert-Jan Kruijff
+  bibkey: baldridge-kruijff-2002-coupling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073137
+  month: July
+  page_first: '319'
+  page_last: '326'
+  pages: "319\u2013326"
+  paper_id: '41'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1041.jpg
+  title: Coupling CCG and Hybrid Logic Dependency Semantics
+  title_html: Coupling <span class="acl-fixed-case">CCG</span> and Hybrid Logic Dependency
+    Semantics
+  url: https://www.aclweb.org/anthology/P02-1041
+  year: '2002'
+P02-1042:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  - first: Julia
+    full: Julia Hockenmaier
+    id: julia-hockenmaier
+    last: Hockenmaier
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Stephen Clark, Julia Hockenmaier, Mark Steedman
+  bibkey: clark-etal-2002-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073138
+  month: July
+  page_first: '327'
+  page_last: '334'
+  pages: "327\u2013334"
+  paper_id: '42'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1042.jpg
+  title: Building Deep Dependency Structures using a Wide-Coverage CCG Parser
+  title_html: Building Deep Dependency Structures using a Wide-Coverage <span class="acl-fixed-case">CCG</span>
+    Parser
+  url: https://www.aclweb.org/anthology/P02-1042
+  year: '2002'
+P02-1043:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Julia
+    full: Julia Hockenmaier
+    id: julia-hockenmaier
+    last: Hockenmaier
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Julia Hockenmaier, Mark Steedman
+  bibkey: hockenmaier-steedman-2002-generative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073139
+  month: July
+  page_first: '335'
+  page_last: '342'
+  pages: "335\u2013342"
+  paper_id: '43'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1043.jpg
+  title: Generative Models for Statistical Parsing with Combinatory Categorial Grammar
+  title_html: Generative Models for Statistical Parsing with Combinatory Categorial
+    Grammar
+  url: https://www.aclweb.org/anthology/P02-1043
+  year: '2002'
+P02-1044:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Cong
+    full: Cong Li
+    id: cong-li
+    last: Li
+  - first: Hang
+    full: Hang Li
+    id: hang-li
+    last: Li
+  author_string: Cong Li, Hang Li
+  bibkey: li-li-2002-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073141
+  month: July
+  page_first: '343'
+  page_last: '351'
+  pages: "343\u2013351"
+  paper_id: '44'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1044.jpg
+  title: Word Translation Disambiguation Using Bilingual Bootstrapping
+  title_html: Word Translation Disambiguation Using Bilingual Bootstrapping
+  url: https://www.aclweb.org/anthology/P02-1044
+  year: '2002'
+P02-1045:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Christoph
+    full: Christoph Mueller
+    id: christoph-muller
+    last: Mueller
+  - first: Stefan
+    full: Stefan Rapp
+    id: stefan-rapp
+    last: Rapp
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Christoph Mueller, Stefan Rapp, Michael Strube
+  bibkey: mueller-etal-2002-applying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073142
+  month: July
+  page_first: '352'
+  page_last: '359'
+  pages: "352\u2013359"
+  paper_id: '45'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1045.jpg
+  title: Applying Co-Training to Reference Resolution
+  title_html: Applying Co-Training to Reference Resolution
+  url: https://www.aclweb.org/anthology/P02-1045
+  year: '2002'
+P02-1046:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Steven
+    full: Steven Abney
+    id: steven-abney
+    last: Abney
+  author_string: Steven Abney
+  bibkey: abney-2002-bootstrapping
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073143
+  month: July
+  page_first: '360'
+  page_last: '367'
+  pages: "360\u2013367"
+  paper_id: '46'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1046.jpg
+  title: Bootstrapping
+  title_html: Bootstrapping
+  url: https://www.aclweb.org/anthology/P02-1046
+  year: '2002'
+P02-1047:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  - first: Abdessamad
+    full: Abdessamad Echihabi
+    id: abdessamad-echihabi
+    last: Echihabi
+  author_string: Daniel Marcu, Abdessamad Echihabi
+  bibkey: marcu-echihabi-2002-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073145
+  month: July
+  page_first: '368'
+  page_last: '375'
+  pages: "368\u2013375"
+  paper_id: '47'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1047.jpg
+  title: An Unsupervised Approach to Recognizing Discourse Relations
+  title_html: An Unsupervised Approach to Recognizing Discourse Relations
+  url: https://www.aclweb.org/anthology/P02-1047
+  year: '2002'
+P02-1048:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Michael
+    full: Michael Johnston
+    id: michael-johnston
+    last: Johnston
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: Gunaranjan
+    full: Gunaranjan Vasireddy
+    id: gunaranjan-vasireddy
+    last: Vasireddy
+  - first: Amanda
+    full: Amanda Stent
+    id: amanda-stent
+    last: Stent
+  - first: Patrick
+    full: Patrick Ehlen
+    id: patrick-ehlen
+    last: Ehlen
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  - first: Steve
+    full: Steve Whittaker
+    id: steve-whittaker
+    last: Whittaker
+  - first: Preetam
+    full: Preetam Maloor
+    id: preetam-maloor
+    last: Maloor
+  author_string: Michael Johnston, Srinivas Bangalore, Gunaranjan Vasireddy, Amanda
+    Stent, Patrick Ehlen, Marilyn Walker, Steve Whittaker, Preetam Maloor
+  bibkey: johnston-etal-2002-match
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073146
+  month: July
+  page_first: '376'
+  page_last: '383'
+  pages: "376\u2013383"
+  paper_id: '48'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1048.jpg
+  title: 'MATCH: An Architecture for Multimodal Dialogue Systems'
+  title_html: '<span class="acl-fixed-case">MATCH</span>: An Architecture for Multimodal
+    Dialogue Systems'
+  url: https://www.aclweb.org/anthology/P02-1048
+  year: '2002'
+P02-1049:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Helen Wright
+    full: Helen Wright Hastie
+    id: helen-hastie
+    last: Hastie
+  - first: Rashmi
+    full: Rashmi Prasad
+    id: rashmi-prasad
+    last: Prasad
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  author_string: Helen Wright Hastie, Rashmi Prasad, Marilyn Walker
+  bibkey: hastie-etal-2002-whats
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073147
+  month: July
+  page_first: '384'
+  page_last: '391'
+  pages: "384\u2013391"
+  paper_id: '49'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1049.jpg
+  title: "What\u2019s the Trouble: Automatically Identifying Problematic Dialogues\
+    \ in DARPA Communicator Dialogue Systems"
+  title_html: "What\u2019s the Trouble: Automatically Identifying Problematic Dialogues\
+    \ in <span class=\"acl-fixed-case\">DARPA</span> Communicator Dialogue Systems"
+  url: https://www.aclweb.org/anthology/P02-1049
+  year: '2002'
+P02-1050:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Rebecca
+    full: Rebecca Hwa
+    id: rebecca-hwa
+    last: Hwa
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Amy
+    full: Amy Weinberg
+    id: amy-weinberg
+    last: Weinberg
+  - first: Okan
+    full: Okan Kolak
+    id: okan-kolak
+    last: Kolak
+  author_string: Rebecca Hwa, Philip Resnik, Amy Weinberg, Okan Kolak
+  bibkey: hwa-etal-2002-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073149
+  month: July
+  page_first: '392'
+  page_last: '399'
+  pages: "392\u2013399"
+  paper_id: '50'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1050.jpg
+  title: Evaluating Translational Correspondence using Annotation Projection
+  title_html: Evaluating Translational Correspondence using Annotation Projection
+  url: https://www.aclweb.org/anthology/P02-1050
+  year: '2002'
+P02-1051:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Yaser
+    full: Yaser Al-Onaizan
+    id: yaser-al-onaizan
+    last: Al-Onaizan
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Yaser Al-Onaizan, Kevin Knight
+  bibkey: al-onaizan-knight-2002-translating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073150
+  month: July
+  page_first: '400'
+  page_last: '408'
+  pages: "400\u2013408"
+  paper_id: '51'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1051.jpg
+  title: Translating Named Entities Using Monolingual and Bilingual Resources
+  title_html: Translating Named Entities Using Monolingual and Bilingual Resources
+  url: https://www.aclweb.org/anthology/P02-1051
+  year: '2002'
+P02-1052:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Katharina
+    full: Katharina Probst
+    id: katharina-probst
+    last: Probst
+  - first: Ralf
+    full: Ralf Brown
+    id: ralf-d-brown
+    last: Brown
+  author_string: Katharina Probst, Ralf Brown
+  bibkey: probst-brown-2002-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073151
+  month: July
+  page_first: '409'
+  page_last: '416'
+  pages: "409\u2013416"
+  paper_id: '52'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1052.jpg
+  title: Using Similarity Scoring to Improve the Bilingual Dictionary for Sub-sentential
+    Alignment
+  title_html: Using Similarity Scoring to Improve the Bilingual Dictionary for Sub-sentential
+    Alignment
+  url: https://www.aclweb.org/anthology/P02-1052
+  year: '2002'
+P02-1053:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Peter
+    full: Peter Turney
+    id: peter-turney
+    last: Turney
+  author_string: Peter Turney
+  bibkey: turney-2002-thumbs
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073153
+  month: July
+  page_first: '417'
+  page_last: '424'
+  pages: "417\u2013424"
+  paper_id: '53'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1053.jpg
+  title: Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification
+    of Reviews
+  title_html: Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised
+    Classification of Reviews
+  url: https://www.aclweb.org/anthology/P02-1053
+  year: '2002'
+P02-1054:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: Roberto
+    full: Roberto Prevete
+    id: roberto-prevete
+    last: Prevete
+  - first: Hristo
+    full: Hristo Tanev
+    id: hristo-tanev
+    last: Tanev
+  author_string: Bernardo Magnini, Matteo Negri, Roberto Prevete, Hristo Tanev
+  bibkey: magnini-etal-2002-right
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073154
+  month: July
+  page_first: '425'
+  page_last: '432'
+  pages: "425\u2013432"
+  paper_id: '54'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1054.jpg
+  title: Is It the Right Answer? Exploiting Web Redundancy for Answer Validation
+  title_html: Is It the Right Answer? Exploiting Web Redundancy for Answer Validation
+  url: https://www.aclweb.org/anthology/P02-1054
+  year: '2002'
+P02-1055:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Antal
+    full: Antal van den Bosch
+    id: antal-van-den-bosch
+    last: van den Bosch
+  - first: Sabine
+    full: Sabine Buchholz
+    id: sabine-buchholz
+    last: Buchholz
+  author_string: Antal van den Bosch, Sabine Buchholz
+  bibkey: van-den-bosch-buchholz-2002-shallow
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073156
+  month: July
+  page_first: '433'
+  page_last: '440'
+  pages: "433\u2013440"
+  paper_id: '55'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1055.jpg
+  title: 'Shallow Parsing on the Basis of Words Only: A Case Study'
+  title_html: 'Shallow Parsing on the Basis of Words Only: A Case Study'
+  url: https://www.aclweb.org/anthology/P02-1055
+  year: '2002'
+P02-1056:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Berthold
+    full: Berthold Crysmann
+    id: berthold-crysmann
+    last: Crysmann
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  - first: Bernd
+    full: Bernd Kiefer
+    id: bernd-kiefer
+    last: Kiefer
+  - first: Stefan
+    full: Stefan Mueller
+    id: stefan-muller
+    last: Mueller
+  - first: Guenter
+    full: Guenter Neumann
+    id: gunter-neumann
+    last: Neumann
+  - first: Jakub
+    full: Jakub Piskorski
+    id: jakub-piskorski
+    last: Piskorski
+  - first: Ulrich
+    full: Ulrich Schaefer
+    id: ulrich-schafer
+    last: Schaefer
+  - first: Melanie
+    full: Melanie Siegel
+    id: melanie-siegel
+    last: Siegel
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  - first: Feiyu
+    full: Feiyu Xu
+    id: feiyu-xu
+    last: Xu
+  - first: Markus
+    full: Markus Becker
+    id: markus-becker
+    last: Becker
+  - first: Hans-Ulrich
+    full: Hans-Ulrich Krieger
+    id: hans-ulrich-krieger
+    last: Krieger
+  author_string: Berthold Crysmann, Anette Frank, Bernd Kiefer, Stefan Mueller, Guenter
+    Neumann, Jakub Piskorski, Ulrich Schaefer, Melanie Siegel, Hans Uszkoreit, Feiyu
+    Xu, Markus Becker, Hans-Ulrich Krieger
+  bibkey: crysmann-etal-2002-integrated
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073157
+  month: July
+  page_first: '441'
+  page_last: '448'
+  pages: "441\u2013448"
+  paper_id: '56'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1056.jpg
+  title: An Integrated Archictecture for Shallow and Deep Processing
+  title_html: An Integrated Archictecture for Shallow and Deep Processing
+  url: https://www.aclweb.org/anthology/P02-1056
+  year: '2002'
+P02-1057:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Hal
+    full: Hal Daume III
+    id: hal-daume-iii
+    last: Daume III
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Hal Daume III, Daniel Marcu
+  bibkey: daume-iii-marcu-2002-noisy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073159
+  month: July
+  page_first: '449'
+  page_last: '456'
+  pages: "449\u2013456"
+  paper_id: '57'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1057.jpg
+  title: A Noisy-Channel Model for Document Compression
+  title_html: A Noisy-Channel Model for Document Compression
+  url: https://www.aclweb.org/anthology/P02-1057
+  year: '2002'
+P02-1058:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Chin-Yew Lin, Eduard Hovy
+  bibkey: lin-hovy-2002-single
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073160
+  month: July
+  page_first: '457'
+  page_last: '464'
+  pages: "457\u2013464"
+  paper_id: '58'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1058.jpg
+  title: From Single to Multi-document Summarization
+  title_html: From Single to Multi-document Summarization
+  url: https://www.aclweb.org/anthology/P02-1058
+  year: '2002'
+P02-1059:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Tadashi
+    full: Tadashi Nomoto
+    id: tadashi-nomoto
+    last: Nomoto
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Tadashi Nomoto, Yuji Matsumoto
+  bibkey: nomoto-matsumoto-2002-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073161
+  month: July
+  page_first: '465'
+  page_last: '472'
+  pages: "465\u2013472"
+  paper_id: '59'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1059.jpg
+  title: Supervised Ranking in Open-Domain Text Summarization
+  title_html: Supervised Ranking in Open-Domain Text Summarization
+  url: https://www.aclweb.org/anthology/P02-1059
+  year: '2002'
+P02-1060:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: GuoDong
+    full: GuoDong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  author_string: GuoDong Zhou, Jian Su
+  bibkey: zhou-su-2002-named
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073163
+  month: July
+  page_first: '473'
+  page_last: '480'
+  pages: "473\u2013480"
+  paper_id: '60'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1060.jpg
+  title: Named Entity Recognition using an HMM-based Chunk Tagger
+  title_html: Named Entity Recognition using an <span class="acl-fixed-case">HMM</span>-based
+    Chunk Tagger
+  url: https://www.aclweb.org/anthology/P02-1060
+  year: '2002'
+P02-1061:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Hai Leong
+    full: Hai Leong Chieu
+    id: hai-leong-chieu
+    last: Chieu
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Hai Leong Chieu, Hwee Tou Ng
+  bibkey: chieu-ng-2002-teaching
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073164
+  month: July
+  page_first: '481'
+  page_last: '488'
+  pages: "481\u2013488"
+  paper_id: '61'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1061.jpg
+  title: 'Teaching a Weaker Classifier: Named Entity Recognition on Upper Case Text'
+  title_html: 'Teaching a Weaker Classifier: Named Entity Recognition on Upper Case
+    Text'
+  url: https://www.aclweb.org/anthology/P02-1061
+  year: '2002'
+P02-1062:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Michael Collins
+  bibkey: collins-2002-ranking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073165
+  month: July
+  page_first: '489'
+  page_last: '496'
+  pages: "489\u2013496"
+  paper_id: '62'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1062.jpg
+  title: 'Ranking Algorithms for Named Entity Extraction: Boosting and the VotedPerceptron'
+  title_html: 'Ranking Algorithms for Named Entity Extraction: Boosting and the <span
+    class="acl-fixed-case">V</span>oted<span class="acl-fixed-case">P</span>erceptron'
+  url: https://www.aclweb.org/anthology/P02-1062
+  year: '2002'
+P02-1063:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Tetsuji
+    full: Tetsuji Nakagawa
+    id: tetsuji-nakagawa
+    last: Nakagawa
+  - first: Taku
+    full: Taku Kudo
+    id: taku-kudo
+    last: Kudo
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Tetsuji Nakagawa, Taku Kudo, Yuji Matsumoto
+  bibkey: nakagawa-etal-2002-revision
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073167
+  month: July
+  page_first: '497'
+  page_last: '504'
+  pages: "497\u2013504"
+  paper_id: '63'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1063.jpg
+  title: Revision Learning and its Application to Part-of-Speech Tagging
+  title_html: Revision Learning and its Application to Part-of-Speech Tagging
+  url: https://www.aclweb.org/anthology/P02-1063
+  year: '2002'
+P02-1064:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Manabu
+    full: Manabu Sassano
+    id: manabu-sassano
+    last: Sassano
+  author_string: Manabu Sassano
+  bibkey: sassano-2002-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073168
+  month: July
+  page_first: '505'
+  page_last: '512'
+  pages: "505\u2013512"
+  paper_id: '64'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1064.jpg
+  title: An Empirical Study of Active Learning with Support Vector Machines forJapanese
+    Word Segmentation
+  title_html: An Empirical Study of Active Learning with Support Vector Machines for<span
+    class="acl-fixed-case">J</span>apanese Word Segmentation
+  url: https://www.aclweb.org/anthology/P02-1064
+  year: '2002'
+P02-1065:
+  address: Philadelphia, Pennsylvania, USA
+  author:
+  - first: Alexander
+    full: Alexander Clark
+    id: alexander-clark
+    last: Clark
+  author_string: Alexander Clark
+  bibkey: clark-2002-memory
+  bibtype: inproceedings
+  booktitle: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 40th Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1073083.1073169
+  month: July
+  page_first: '513'
+  page_last: '520'
+  pages: "513\u2013520"
+  paper_id: '65'
+  parent_volume_id: P02-1
+  pdf: https://www.aclweb.org/anthology/P02-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P02-1065.jpg
+  title: Memory-Based Learning of Morphology with Stochastic Transducers
+  title_html: Memory-Based Learning of Morphology with Stochastic Transducers
+  url: https://www.aclweb.org/anthology/P02-1065
+  year: '2002'

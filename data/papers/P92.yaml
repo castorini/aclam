@@ -1,0 +1,1572 @@
+P92-1000:
+  address: Newark, Delaware, USA
+  bibkey: acl-1992-association
+  bibtype: proceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1000.jpg
+  title: 30th Annual Meeting of the Association for Computational Linguistics
+  title_html: 30th Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P92-1000
+  year: '1992'
+P92-1001:
+  address: Newark, Delaware, USA
+  author:
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  author_string: Alex Lascarides, Nicholas Asher, Jon Oberlander
+  bibkey: lascarides-etal-1992-inferring
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981968
+  month: June
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1001.jpg
+  title: Inferring Discourse Relations in Context
+  title_html: Inferring Discourse Relations in Context
+  url: https://www.aclweb.org/anthology/P92-1001
+  year: '1992'
+P92-1002:
+  address: Newark, Delaware, USA
+  author:
+  - first: Daniel
+    full: Daniel Hardt
+    id: daniel-hardt
+    last: Hardt
+  author_string: Daniel Hardt
+  bibkey: hardt-1992-algorithm
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981969
+  month: June
+  page_first: '9'
+  page_last: '14'
+  pages: "9\u201314"
+  paper_id: '2'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1002.jpg
+  title: An Algorithm for VP Ellipsis
+  title_html: An Algorithm for <span class="acl-fixed-case">VP</span> Ellipsis
+  url: https://www.aclweb.org/anthology/P92-1002
+  year: '1992'
+P92-1003:
+  address: Newark, Delaware, USA
+  author:
+  - first: Rajeev
+    full: Rajeev Agarwal
+    id: rajeev-agarwal
+    last: Agarwal
+  - first: Lois
+    full: Lois Boggess
+    id: lois-boggess
+    last: Boggess
+  author_string: Rajeev Agarwal, Lois Boggess
+  bibkey: agarwal-boggess-1992-simple
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981970
+  month: June
+  page_first: '15'
+  page_last: '21'
+  pages: "15\u201321"
+  paper_id: '3'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1003.jpg
+  title: A Simple but Useful Approach to Conjunct Identification
+  title_html: A Simple but Useful Approach to Conjunct Identification
+  url: https://www.aclweb.org/anthology/P92-1003
+  year: '1992'
+P92-1004:
+  address: Newark, Delaware, USA
+  author:
+  - first: Susann
+    full: Susann Luperfoy
+    id: susann-luperfoy
+    last: Luperfoy
+  author_string: Susann Luperfoy
+  bibkey: luperfoy-1992-representation
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981971
+  month: June
+  page_first: '22'
+  page_last: '31'
+  pages: "22\u201331"
+  paper_id: '4'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1004.jpg
+  title: The Representation of Multimodal User Interface Dialogues Using Discourse
+    Pegs
+  title_html: The Representation of Multimodal User Interface Dialogues Using Discourse
+    Pegs
+  url: https://www.aclweb.org/anthology/P92-1004
+  year: '1992'
+P92-1005:
+  address: Newark, Delaware, USA
+  author:
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  - first: Richard
+    full: Richard Crouch
+    id: richard-crouch
+    last: Crouch
+  author_string: Hiyan Alshawi, Richard Crouch
+  bibkey: alshawi-crouch-1992-monotonic
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981972
+  month: June
+  page_first: '32'
+  page_last: '39'
+  pages: "32\u201339"
+  paper_id: '5'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1005.jpg
+  title: Monotonic Semantic Interpretation
+  title_html: Monotonic Semantic Interpretation
+  url: https://www.aclweb.org/anthology/P92-1005
+  year: '1992'
+P92-1006:
+  address: Newark, Delaware, USA
+  author:
+  - first: David M.
+    full: David M. Magerman
+    id: david-m-magerman
+    last: Magerman
+  - first: Carl
+    full: Carl Weir
+    id: carl-weir
+    last: Weir
+  author_string: David M. Magerman, Carl Weir
+  bibkey: magerman-weir-1992-efficiency
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981973
+  month: June
+  page_first: '40'
+  page_last: '47'
+  pages: "40\u201347"
+  paper_id: '6'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1006.jpg
+  title: Efficiency, Robustness and Accuracy in picky Chart Parsing
+  title_html: Efficiency, Robustness and Accuracy in picky Chart Parsing
+  url: https://www.aclweb.org/anthology/P92-1006
+  year: '1992'
+P92-1007:
+  address: Newark, Delaware, USA
+  author:
+  - first: Kathleen F.
+    full: Kathleen F. McCoy
+    id: kathleen-f-mccoy
+    last: McCoy
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  - first: Gijoo
+    full: Gijoo Yang
+    id: gijoo-yang
+    last: Yang
+  author_string: Kathleen F. McCoy, K. Vijay-Shanker, Gijoo Yang
+  bibkey: mccoy-etal-1992-functional
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981974
+  month: June
+  page_first: '48'
+  page_last: '55'
+  pages: "48\u201355"
+  paper_id: '7'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1007.jpg
+  title: A Functional Approach to Generation with TAG
+  title_html: A Functional Approach to Generation with <span class="acl-fixed-case">TAG</span>
+  url: https://www.aclweb.org/anthology/P92-1007
+  year: '1992'
+P92-1008:
+  address: Newark, Delaware, USA
+  author:
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: John
+    full: John Dowding
+    id: john-dowding
+    last: Dowding
+  - first: Elizabeth
+    full: Elizabeth Shriberg
+    id: elizabeth-shriberg
+    last: Shriberg
+  author_string: John Bear, John Dowding, Elizabeth Shriberg
+  bibkey: bear-etal-1992-integrating
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981975
+  month: June
+  page_first: '56'
+  page_last: '63'
+  pages: "56\u201363"
+  paper_id: '8'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1008.jpg
+  title: Integrating Multiple Knowledge Sources for Detection and Correction of Repairs
+    in Human-Computer Dialog
+  title_html: Integrating Multiple Knowledge Sources for Detection and Correction
+    of Repairs in Human-Computer Dialog
+  url: https://www.aclweb.org/anthology/P92-1008
+  year: '1992'
+P92-1009:
+  address: Newark, Delaware, USA
+  author:
+  - first: Nancy
+    full: Nancy Green
+    id: nancy-green
+    last: Green
+  - first: Sandra
+    full: Sandra Carberry
+    id: sandra-carberry
+    last: Carberry
+  author_string: Nancy Green, Sandra Carberry
+  bibkey: green-carberry-1992-conversational
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981976
+  month: June
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '9'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1009.jpg
+  title: Conversational Implicatures in Indirect Replies
+  title_html: Conversational Implicatures in Indirect Replies
+  url: https://www.aclweb.org/anthology/P92-1009
+  year: '1992'
+P92-1010:
+  address: Newark, Delaware, USA
+  author:
+  - first: James
+    full: James Rogers
+    id: james-rogers
+    last: Rogers
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  author_string: James Rogers, K. Vijay-Shanker
+  bibkey: rogers-vijay-shanker-1992-reasoning
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981977
+  month: June
+  page_first: '72'
+  page_last: '80'
+  pages: "72\u201380"
+  paper_id: '10'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1010.jpg
+  title: Reasoning with Descriptions of Trees
+  title_html: Reasoning with Descriptions of Trees
+  url: https://www.aclweb.org/anthology/P92-1010
+  year: '1992'
+P92-1011:
+  address: Newark, Delaware, USA
+  author:
+  - first: Miroslav
+    full: Miroslav Martinovic
+    id: miroslav-martinovic
+    last: Martinovic
+  - first: Tomek
+    full: Tomek Strzalkowski
+    id: tomek-strzalkowski
+    last: Strzalkowski
+  author_string: Miroslav Martinovic, Tomek Strzalkowski
+  bibkey: martinovic-strzalkowski-1992-comparing
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981978
+  month: June
+  page_first: '81'
+  page_last: '88'
+  pages: "81\u201388"
+  paper_id: '11'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1011.jpg
+  title: 'Comparing Two Grammar-Based Generation Algorithms: A Case Study'
+  title_html: 'Comparing Two Grammar-Based Generation Algorithms: A Case Study'
+  url: https://www.aclweb.org/anthology/P92-1011
+  year: '1992'
+P92-1012:
+  address: Newark, Delaware, USA
+  author:
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Giorgio Satta
+  bibkey: satta-1992-recognition
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981979
+  month: June
+  page_first: '89'
+  page_last: '95'
+  pages: "89\u201395"
+  paper_id: '12'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1012.jpg
+  title: Recognition of Linear Context-Free Rewriting Systems
+  title_html: Recognition of Linear Context-Free Rewriting Systems
+  url: https://www.aclweb.org/anthology/P92-1012
+  year: '1992'
+P92-1013:
+  address: Newark, Delaware, USA
+  author:
+  - first: Bonnie Lynn
+    full: Bonnie Lynn Webber
+    id: bonnie-webber
+    last: Webber
+  - first: Breck
+    full: Breck Baldwin
+    id: breck-baldwin
+    last: Baldwin
+  author_string: Bonnie Lynn Webber, Breck Baldwin
+  bibkey: webber-baldwin-1992-accommodating
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981980
+  month: June
+  page_first: '96'
+  page_last: '103'
+  pages: "96\u2013103"
+  paper_id: '13'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1013.jpg
+  title: Accommodating Context Change
+  title_html: Accommodating Context Change
+  url: https://www.aclweb.org/anthology/P92-1013
+  year: '1992'
+P92-1014:
+  address: Newark, Delaware, USA
+  author:
+  - first: Tomek
+    full: Tomek Strzalkowski
+    id: tomek-strzalkowski
+    last: Strzalkowski
+  - first: Barbara
+    full: Barbara Vauthey
+    id: barbara-vauthey
+    last: Vauthey
+  author_string: Tomek Strzalkowski, Barbara Vauthey
+  bibkey: strzalkowski-vauthey-1992-information
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981981
+  month: June
+  page_first: '104'
+  page_last: '111'
+  pages: "104\u2013111"
+  paper_id: '14'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1014.jpg
+  title: Information Retrieval Using Robust Natural Language Processing
+  title_html: Information Retrieval Using Robust Natural Language Processing
+  url: https://www.aclweb.org/anthology/P92-1014
+  year: '1992'
+P92-1015:
+  address: Newark, Delaware, USA
+  author:
+  - first: Chris
+    full: Chris Rowles
+    id: chris-rowles
+    last: Rowles
+  - first: Xiuming
+    full: Xiuming Huang
+    id: xiuming-huang
+    last: Huang
+  author_string: Chris Rowles, Xiuming Huang
+  bibkey: rowles-huang-1992-prosodic
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981982
+  month: June
+  page_first: '112'
+  page_last: '119'
+  pages: "112\u2013119"
+  paper_id: '15'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1015.jpg
+  title: Prosodic Aids to Syntactic and Semantic Analysis of Spoken English
+  title_html: Prosodic Aids to Syntactic and Semantic Analysis of Spoken <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/P92-1015
+  year: '1992'
+P92-1016:
+  address: Newark, Delaware, USA
+  author:
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  author_string: Barbara Di Eugenio
+  bibkey: di-eugenio-1992-understanding
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981983
+  month: June
+  page_first: '120'
+  page_last: '127'
+  pages: "120\u2013127"
+  paper_id: '16'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1016.jpg
+  title: 'Understanding Natural Language Instructions: The Case of Purpose Clauses'
+  title_html: 'Understanding Natural Language Instructions: The Case of Purpose Clauses'
+  url: https://www.aclweb.org/anthology/P92-1016
+  year: '1992'
+P92-1017:
+  address: Newark, Delaware, USA
+  author:
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  author_string: Fernando Pereira, Yves Schabes
+  bibkey: pereira-schabes-1992-inside-outside
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981984
+  month: June
+  page_first: '128'
+  page_last: '135'
+  pages: "128\u2013135"
+  paper_id: '17'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1017.jpg
+  title: Inside-Outside Reestimation From Partially Bracketed Corpora
+  title_html: Inside-Outside Reestimation From Partially Bracketed Corpora
+  url: https://www.aclweb.org/anthology/P92-1017
+  year: '1992'
+P92-1018:
+  address: Newark, Delaware, USA
+  author:
+  - first: David J.
+    full: David J. Weir
+    id: david-weir
+    last: Weir
+  author_string: David J. Weir
+  bibkey: weir-1992-linear
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981985
+  month: June
+  page_first: '136'
+  page_last: '143'
+  pages: "136\u2013143"
+  paper_id: '18'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1018.jpg
+  title: Linear Context-Free Rewriting Systems and Deterministic Tree-Walking Transducers
+  title_html: Linear Context-Free Rewriting Systems and Deterministic Tree-Walking
+    Transducers
+  url: https://www.aclweb.org/anthology/P92-1018
+  year: '1992'
+P92-1019:
+  address: Newark, Delaware, USA
+  author:
+  - first: James B.
+    full: James B. Henderson
+    id: james-henderson
+    last: Henderson
+  author_string: James B. Henderson
+  bibkey: henderson-1992-connectionist
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981986
+  month: June
+  page_first: '144'
+  page_last: '151'
+  pages: "144\u2013151"
+  paper_id: '19'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1019.jpg
+  title: A Connectionist Parser for Structure Unification Grammar
+  title_html: A Connectionist Parser for Structure Unification Grammar
+  url: https://www.aclweb.org/anthology/P92-1019
+  year: '1992'
+P92-1020:
+  address: Newark, Delaware, USA
+  author:
+  - first: Carl
+    full: Carl Gutwin
+    id: carl-gutwin
+    last: Gutwin
+  - first: Gordon
+    full: Gordon McCalla
+    id: gordon-i-mccalla
+    last: McCalla
+  author_string: Carl Gutwin, Gordon McCalla
+  bibkey: gutwin-mccalla-1992-lie
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981987
+  month: June
+  page_first: '152'
+  page_last: '158'
+  pages: "152\u2013158"
+  paper_id: '20'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1020.jpg
+  title: Would I Lie to You? Modelling Misrepresentation and Context in Dialogue
+  title_html: Would <span class="acl-fixed-case">I</span> Lie to You? Modelling Misrepresentation
+    and Context in Dialogue
+  url: https://www.aclweb.org/anthology/P92-1020
+  year: '1992'
+P92-1021:
+  address: Newark, Delaware, USA
+  author:
+  - first: David M.
+    full: David M. Carter
+    id: david-carter
+    last: Carter
+  author_string: David M. Carter
+  bibkey: carter-1992-lattice
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981988
+  month: June
+  page_first: '159'
+  page_last: '166'
+  pages: "159\u2013166"
+  paper_id: '21'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1021.jpg
+  title: Lattice-Based Word Identification in CLARE
+  title_html: Lattice-Based Word Identification in <span class="acl-fixed-case">CLARE</span>
+  url: https://www.aclweb.org/anthology/P92-1021
+  year: '1992'
+P92-1022:
+  address: Newark, Delaware, USA
+  author:
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  author_string: Yves Schabes, Stuart M. Shieber
+  bibkey: schabes-shieber-1992-alternative
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981989
+  month: June
+  page_first: '167'
+  page_last: '176'
+  pages: "167\u2013176"
+  paper_id: '22'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1022.jpg
+  title: An Alternative Conception of Tree-Adjoining Derivation
+  title_html: An Alternative Conception of Tree-Adjoining Derivation
+  url: https://www.aclweb.org/anthology/P92-1022
+  year: '1992'
+P92-1023:
+  address: Newark, Delaware, USA
+  author:
+  - first: Jing-Shin
+    full: Jing-Shin Chang
+    id: jing-shin-chang
+    last: Chang
+  - first: Yih-Fen
+    full: Yih-Fen Luo
+    id: yih-fen-luo
+    last: Luo
+  - first: Keh-Yih
+    full: Keh-Yih Su
+    id: keh-yih-su
+    last: Su
+  author_string: Jing-Shin Chang, Yih-Fen Luo, Keh-Yih Su
+  bibkey: chang-etal-1992-gpsm
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981990
+  month: June
+  page_first: '177'
+  page_last: '184'
+  pages: "177\u2013184"
+  paper_id: '23'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1023.jpg
+  title: 'GPSM: A Generalized Probabilistic Semantic Model for Ambiguity Resolution'
+  title_html: '<span class="acl-fixed-case">GPSM</span>: A Generalized Probabilistic
+    Semantic Model for Ambiguity Resolution'
+  url: https://www.aclweb.org/anthology/P92-1023
+  year: '1992'
+P92-1024:
+  address: Newark, Delaware, USA
+  author:
+  - first: Ezra
+    full: Ezra Black
+    id: ezra-black
+    last: Black
+  - first: John
+    full: John Lafferty
+    id: john-lafferty
+    last: Lafferty
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  author_string: Ezra Black, John Lafferty, Salim Roukos
+  bibkey: black-etal-1992-development
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981991
+  month: June
+  page_first: '185'
+  page_last: '192'
+  pages: "185\u2013192"
+  paper_id: '24'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1024.jpg
+  title: Development and Evaluation of a Broad-Coverage Probabilistic Grammar of English-Language
+    Computer Manuals
+  title_html: Development and Evaluation of a Broad-Coverage Probabilistic Grammar
+    of <span class="acl-fixed-case">E</span>nglish-Language Computer Manuals
+  url: https://www.aclweb.org/anthology/P92-1024
+  year: '1992'
+P92-1025:
+  address: Newark, Delaware, USA
+  author:
+  - first: Lynn
+    full: Lynn Lambert
+    id: lynn-lambert
+    last: Lambert
+  - first: Sandra
+    full: Sandra Carberry
+    id: sandra-carberry
+    last: Carberry
+  author_string: Lynn Lambert, Sandra Carberry
+  bibkey: lambert-carberry-1992-modeling
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981992
+  month: June
+  page_first: '193'
+  page_last: '200'
+  pages: "193\u2013200"
+  paper_id: '25'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1025.jpg
+  title: Modeling Negotiation Subdialogues
+  title_html: Modeling Negotiation Subdialogues
+  url: https://www.aclweb.org/anthology/P92-1025
+  year: '1992'
+P92-1026:
+  address: Newark, Delaware, USA
+  author:
+  - first: Judith
+    full: Judith Engelkamp
+    id: judith-engelkamp
+    last: Engelkamp
+  - first: Gregor
+    full: Gregor Erbach
+    id: gregor-erbach
+    last: Erbach
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  author_string: Judith Engelkamp, Gregor Erbach, Hans Uszkoreit
+  bibkey: engelkamp-etal-1992-handling
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981993
+  month: June
+  page_first: '201'
+  page_last: '208'
+  pages: "201\u2013208"
+  paper_id: '26'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1026.jpg
+  title: Handling Linear Precedence Constraints by Unification
+  title_html: Handling Linear Precedence Constraints by Unification
+  url: https://www.aclweb.org/anthology/P92-1026
+  year: '1992'
+P92-1027:
+  address: Newark, Delaware, USA
+  author:
+  - first: Jong C.
+    full: Jong C. Park
+    id: jong-c-park
+    last: Park
+  author_string: Jong C. Park
+  bibkey: park-1992-unification
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981994
+  month: June
+  page_first: '209'
+  page_last: '215'
+  pages: "209\u2013215"
+  paper_id: '27'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1027.jpg
+  title: A Unification-Based Semantic Interpretation for Coordinate Constructs
+  title_html: A Unification-Based Semantic Interpretation for Coordinate Constructs
+  url: https://www.aclweb.org/anthology/P92-1027
+  year: '1992'
+P92-1028:
+  address: Newark, Delaware, USA
+  author:
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Claire Cardie
+  bibkey: cardie-1992-corpus
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981995
+  month: June
+  page_first: '216'
+  page_last: '223'
+  pages: "216\u2013223"
+  paper_id: '28'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1028.jpg
+  title: Corpus-Based Acquisition of Relative Pronoun Disambiguation Heuristics
+  title_html: Corpus-Based Acquisition of Relative Pronoun Disambiguation Heuristics
+  url: https://www.aclweb.org/anthology/P92-1028
+  year: '1992'
+P92-1029:
+  address: Newark, Delaware, USA
+  author:
+  - first: Kazuhiro
+    full: Kazuhiro Kimura
+    id: kazuhiro-kimura
+    last: Kimura
+  - first: Takashi
+    full: Takashi Uzuoka
+    id: takashi-uzuoka
+    last: Uzuoka
+  - first: Sin-ya
+    full: Sin-ya Amano
+    id: shin-ya-amano
+    last: Amano
+  author_string: Kazuhiro Kimura, Takashi Uzuoka, Sin-ya Amano
+  bibkey: kimura-etal-1992-association
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981996
+  month: June
+  page_first: '224'
+  page_last: '231'
+  pages: "224\u2013231"
+  paper_id: '29'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1029.jpg
+  title: Association-based Natural Language Processing with Neural Networks
+  title_html: Association-based Natural Language Processing with Neural Networks
+  url: https://www.aclweb.org/anthology/P92-1029
+  year: '1992'
+P92-1030:
+  address: Newark, Delaware, USA
+  author:
+  - first: Chung Hee
+    full: Chung Hee Hwang
+    id: chung-hee-hwang
+    last: Hwang
+  - first: Lenhart K.
+    full: Lenhart K. Schubert
+    id: lenhart-schubert
+    last: Schubert
+  author_string: Chung Hee Hwang, Lenhart K. Schubert
+  bibkey: hwang-schubert-1992-tense
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981997
+  month: June
+  page_first: '232'
+  page_last: '240'
+  pages: "232\u2013240"
+  paper_id: '30'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1030.jpg
+  title: "Tense Trees as the \u201CFine Structure\u201D of Discourse"
+  title_html: "Tense Trees as the \u201CFine Structure\u201D of Discourse"
+  url: https://www.aclweb.org/anthology/P92-1030
+  year: '1992'
+P92-1031:
+  address: Newark, Delaware, USA
+  author:
+  - first: Longin
+    full: Longin Latecki
+    id: longin-latecki
+    last: Latecki
+  author_string: Longin Latecki
+  bibkey: latecki-1992-connection
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981998
+  month: June
+  page_first: '241'
+  page_last: '248'
+  pages: "241\u2013248"
+  paper_id: '31'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1031.jpg
+  title: Connection Relations and Quantifier Scope
+  title_html: Connection Relations and Quantifier Scope
+  url: https://www.aclweb.org/anthology/P92-1031
+  year: '1992'
+P92-1032:
+  address: Newark, Delaware, USA
+  author:
+  - first: William
+    full: William Gale
+    id: william-a-gale
+    last: Gale
+  - first: Kenneth Ward
+    full: Kenneth Ward Church
+    id: kenneth-church
+    last: Church
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: William Gale, Kenneth Ward Church, David Yarowsky
+  bibkey: gale-etal-1992-estimating
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.981999
+  month: June
+  page_first: '249'
+  page_last: '256'
+  pages: "249\u2013256"
+  paper_id: '32'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1032.jpg
+  title: Estimating Upper and Lower Bounds on the Performance of Word-Sense Disambiguation
+    Programs
+  title_html: Estimating Upper and Lower Bounds on the Performance of Word-Sense Disambiguation
+    Programs
+  url: https://www.aclweb.org/anthology/P92-1032
+  year: '1992'
+P92-1033:
+  address: Newark, Delaware, USA
+  author:
+  - first: Bonnie J.
+    full: Bonnie J. Dorr
+    id: bonnie-dorr
+    last: Dorr
+  author_string: Bonnie J. Dorr
+  bibkey: dorr-1992-parameterized
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982000
+  month: June
+  page_first: '257'
+  page_last: '264'
+  pages: "257\u2013264"
+  paper_id: '33'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1033.jpg
+  title: A Parameterized Approach to Integrating Aspect With Lexical-Semantics for
+    Machine Translation
+  title_html: A Parameterized Approach to Integrating Aspect With Lexical-Semantics
+    for Machine Translation
+  url: https://www.aclweb.org/anthology/P92-1033
+  year: '1992'
+P92-1034:
+  address: Newark, Delaware, USA
+  author:
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  - first: Chris
+    full: Chris Mellish
+    id: chris-mellish
+    last: Mellish
+  author_string: Ehud Reiter, Chris Mellish
+  bibkey: reiter-mellish-1992-using
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982001
+  month: June
+  page_first: '265'
+  page_last: '272'
+  pages: "265\u2013272"
+  paper_id: '34'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1034.jpg
+  title: Using Classification to Generate Text
+  title_html: Using Classification to Generate Text
+  url: https://www.aclweb.org/anthology/P92-1034
+  year: '1992'
+P92-1035:
+  address: Newark, Delaware, USA
+  author:
+  - first: Linda Z.
+    full: Linda Z. Suri
+    id: linda-z-suri
+    last: Suri
+  author_string: Linda Z. Suri
+  bibkey: suri-1992-correcting
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982003
+  month: June
+  page_first: '273'
+  page_last: '275'
+  pages: "273\u2013275"
+  paper_id: '35'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1035.jpg
+  title: Correcting Illegal NP Omissions Using Local Focus
+  title_html: Correcting Illegal <span class="acl-fixed-case">NP</span> Omissions
+    Using Local Focus
+  url: https://www.aclweb.org/anthology/P92-1035
+  year: '1992'
+P92-1036:
+  address: Newark, Delaware, USA
+  author:
+  - first: Daniel
+    full: Daniel Hardt
+    id: daniel-hardt
+    last: Hardt
+  author_string: Daniel Hardt
+  bibkey: hardt-1992-problematic
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982004
+  month: June
+  page_first: '276'
+  page_last: '278'
+  pages: "276\u2013278"
+  paper_id: '36'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1036.jpg
+  title: Some Problematic Cases of VP Ellipsis
+  title_html: Some Problematic Cases of <span class="acl-fixed-case">VP</span> Ellipsis
+  url: https://www.aclweb.org/anthology/P92-1036
+  year: '1992'
+P92-1037:
+  address: Newark, Delaware, USA
+  author:
+  - first: Sheila
+    full: Sheila Rock
+    id: sheila-rock
+    last: Rock
+  author_string: Sheila Rock
+  bibkey: rock-1992-understanding
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982005
+  month: June
+  page_first: '279'
+  page_last: '281'
+  pages: "279\u2013281"
+  paper_id: '37'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1037.jpg
+  title: Understanding Repetition in Natural Language Instructions - The Semantics
+    of Extent
+  title_html: Understanding Repetition in Natural Language Instructions - The Semantics
+    of Extent
+  url: https://www.aclweb.org/anthology/P92-1037
+  year: '1992'
+P92-1038:
+  address: Newark, Delaware, USA
+  author:
+  - first: Jacqueline C.
+    full: Jacqueline C. Kowtko
+    id: jacqueline-c-kowtko
+    last: Kowtko
+  author_string: Jacqueline C. Kowtko
+  bibkey: kowtko-1992-intonation
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982006
+  month: June
+  page_first: '282'
+  page_last: '284'
+  pages: "282\u2013284"
+  paper_id: '38'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1038.jpg
+  title: On the Intonation of Mono- and Di-Syllabic Words Within the Discourse Framework
+    of Conversational Games
+  title_html: On the Intonation of Mono- and Di-Syllabic Words Within the Discourse
+    Framework of Conversational Games
+  url: https://www.aclweb.org/anthology/P92-1038
+  year: '1992'
+P92-1039:
+  address: Newark, Delaware, USA
+  author:
+  - first: Michael
+    full: Michael Niv
+    id: michael-niv
+    last: Niv
+  author_string: Michael Niv
+  bibkey: niv-1992-right
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982007
+  month: June
+  page_first: '285'
+  page_last: '287'
+  pages: "285\u2013287"
+  paper_id: '39'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1039.jpg
+  title: Right Association Revisited
+  title_html: Right Association Revisited
+  url: https://www.aclweb.org/anthology/P92-1039
+  year: '1992'
+P92-1040:
+  address: Newark, Delaware, USA
+  author:
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  author_string: Paola Merlo
+  bibkey: merlo-1992-lr
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982008
+  month: June
+  page_first: '288'
+  page_last: '290'
+  pages: "288\u2013290"
+  paper_id: '40'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1040.jpg
+  title: An LR Category-Neutral Parser With Left Corner Prediction
+  title_html: An <span class="acl-fixed-case">LR</span> Category-Neutral Parser With
+    Left Corner Prediction
+  url: https://www.aclweb.org/anthology/P92-1040
+  year: '1992'
+P92-1041:
+  address: Newark, Delaware, USA
+  author:
+  - first: Vincenzo
+    full: Vincenzo Lombardo
+    id: vincenzo-lombardo
+    last: Lombardo
+  author_string: Vincenzo Lombardo
+  bibkey: lombardo-1992-incremental
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982009
+  month: June
+  page_first: '291'
+  page_last: '293'
+  pages: "291\u2013293"
+  paper_id: '41'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1041.jpg
+  title: Incremental Dependency Parsing
+  title_html: Incremental Dependency Parsing
+  url: https://www.aclweb.org/anthology/P92-1041
+  year: '1992'
+P92-1042:
+  address: Newark, Delaware, USA
+  author:
+  - first: Patricia
+    full: Patricia Lutsky
+    id: patricia-lutsky
+    last: Lutsky
+  author_string: Patricia Lutsky
+  bibkey: lutsky-1992-documentation
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982010
+  month: June
+  page_first: '294'
+  page_last: '296'
+  pages: "294\u2013296"
+  paper_id: '42'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1042.jpg
+  title: Documentation Parser to Extract Software Test Conditions
+  title_html: Documentation Parser to Extract Software Test Conditions
+  url: https://www.aclweb.org/anthology/P92-1042
+  year: '1992'
+P92-1043:
+  address: Newark, Delaware, USA
+  author:
+  - first: Owen
+    full: Owen Rainbow
+    id: owen-rainbow
+    last: Rainbow
+  author_string: Owen Rainbow
+  bibkey: rainbow-1992-linguistic
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982011
+  month: June
+  page_first: '297'
+  page_last: '299'
+  pages: "297\u2013299"
+  paper_id: '43'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1043.jpg
+  title: "A Linguistic and Computational Analysis of the German \u201CThird Construction\u201D"
+  title_html: "A Linguistic and Computational Analysis of the <span class=\"acl-fixed-case\"\
+    >G</span>erman \u201CThird Construction\u201D"
+  url: https://www.aclweb.org/anthology/P92-1043
+  year: '1992'
+P92-1044:
+  address: Newark, Delaware, USA
+  author:
+  - first: Beryl
+    full: Beryl Hoffman
+    id: beryl-hoffman
+    last: Hoffman
+  author_string: Beryl Hoffman
+  bibkey: hoffman-1992-ccg
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982012
+  month: June
+  page_first: '300'
+  page_last: '302'
+  pages: "300\u2013302"
+  paper_id: '44'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1044.jpg
+  title: A CCG Approach to Free Word Order Languages
+  title_html: A <span class="acl-fixed-case">CCG</span> Approach to Free Word Order
+    Languages
+  url: https://www.aclweb.org/anthology/P92-1044
+  year: '1992'
+P92-1045:
+  address: Newark, Delaware, USA
+  author:
+  - first: Jorgen
+    full: Jorgen Villadsen
+    id: jorgen-villadsen
+    last: Villadsen
+  author_string: Jorgen Villadsen
+  bibkey: villadsen-1992-information
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982013
+  month: June
+  page_first: '303'
+  page_last: '305'
+  pages: "303\u2013305"
+  paper_id: '45'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1045.jpg
+  title: Information States as First Class Citizens
+  title_html: Information States as First Class Citizens
+  url: https://www.aclweb.org/anthology/P92-1045
+  year: '1992'
+P92-1046:
+  address: Newark, Delaware, USA
+  author:
+  - first: Arturo
+    full: Arturo Trujillo
+    id: arturo-trujillo
+    last: Trujillo
+  author_string: Arturo Trujillo
+  bibkey: trujillo-1992-spatial
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982014
+  month: June
+  page_first: '306'
+  page_last: '308'
+  pages: "306\u2013308"
+  paper_id: '46'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1046.jpg
+  title: Spatial Lexicalization in the Translation of Prepositional Phrases
+  title_html: Spatial Lexicalization in the Translation of Prepositional Phrases
+  url: https://www.aclweb.org/anthology/P92-1046
+  year: '1992'
+P92-1047:
+  address: Newark, Delaware, USA
+  author:
+  - first: Shin-ichiro
+    full: Shin-ichiro Kamei
+    id: shin-ichiro-kamei
+    last: Kamei
+  - first: Takahiro
+    full: Takahiro Wakao
+    id: takahiro-wakao
+    last: Wakao
+  author_string: Shin-ichiro Kamei, Takahiro Wakao
+  bibkey: kamei-wakao-1992-metonymy
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982015
+  month: June
+  page_first: '309'
+  page_last: '311'
+  pages: "309\u2013311"
+  paper_id: '47'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1047.jpg
+  title: 'Metonymy: Reassessment, Survey of Acceptability, and Its Treatment in a
+    Machine Translation System'
+  title_html: 'Metonymy: Reassessment, Survey of Acceptability, and Its Treatment
+    in a Machine Translation System'
+  url: https://www.aclweb.org/anthology/P92-1047
+  year: '1992'
+P92-1048:
+  address: Newark, Delaware, USA
+  author:
+  - first: Stephen J.
+    full: Stephen J. Green
+    id: stephen-j-green
+    last: Green
+  author_string: Stephen J. Green
+  bibkey: green-1992-basis
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982016
+  month: June
+  page_first: '312'
+  page_last: '314'
+  pages: "312\u2013314"
+  paper_id: '48'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1048.jpg
+  title: A Basis for a Formalization of Linguistic Style
+  title_html: A Basis for a Formalization of Linguistic Style
+  url: https://www.aclweb.org/anthology/P92-1048
+  year: '1992'
+P92-1049:
+  address: Newark, Delaware, USA
+  author:
+  - first: Vibhu O.
+    full: Vibhu O. Mittal
+    id: vibhu-o-mittal
+    last: Mittal
+  author_string: Vibhu O. Mittal
+  bibkey: mittal-1992-elaboration
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982017
+  month: June
+  page_first: '315'
+  page_last: '317'
+  pages: "315\u2013317"
+  paper_id: '49'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1049.jpg
+  title: Elaboration in Object Descriptions Through Examples
+  title_html: Elaboration in Object Descriptions Through Examples
+  url: https://www.aclweb.org/anthology/P92-1049
+  year: '1992'
+P92-1050:
+  address: Newark, Delaware, USA
+  author:
+  - first: Keith
+    full: Keith Vander Linden
+    id: keith-vander-linden
+    last: Vander Linden
+  author_string: Keith Vander Linden
+  bibkey: vander-linden-1992-expression
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982018
+  month: June
+  page_first: '318'
+  page_last: '320'
+  pages: "318\u2013320"
+  paper_id: '50'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1050.jpg
+  title: The Expression of Local Rhetorical Relations in Instructional Text
+  title_html: The Expression of Local Rhetorical Relations in Instructional Text
+  url: https://www.aclweb.org/anthology/P92-1050
+  year: '1992'
+P92-1051:
+  address: Newark, Delaware, USA
+  author:
+  - first: Mark Alan
+    full: Mark Alan Jones
+    id: mark-jones
+    last: Jones
+  author_string: Mark Alan Jones
+  bibkey: jones-1992-generating
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982019
+  month: June
+  page_first: '321'
+  page_last: '323'
+  pages: "321\u2013323"
+  paper_id: '51'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1051.jpg
+  title: Generating a Specific Class of Metaphors
+  title_html: Generating a Specific Class of Metaphors
+  url: https://www.aclweb.org/anthology/P92-1051
+  year: '1992'
+P92-1052:
+  address: Newark, Delaware, USA
+  author:
+  - first: Gregory
+    full: Gregory Grefenstette
+    id: gregory-grefenstette
+    last: Grefenstette
+  author_string: Gregory Grefenstette
+  bibkey: grefenstette-1992-sextant
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982020
+  month: June
+  page_first: '324'
+  page_last: '326'
+  pages: "324\u2013326"
+  paper_id: '52'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1052.jpg
+  title: 'SEXTANT: Exploring Unexplored Contexts for Semantic Extraction From Syntactic
+    Analysis'
+  title_html: '<span class="acl-fixed-case">SEXTANT</span>: Exploring Unexplored Contexts
+    for Semantic Extraction From Syntactic Analysis'
+  url: https://www.aclweb.org/anthology/P92-1052
+  year: '1992'
+P92-1053:
+  address: Newark, Delaware, USA
+  author:
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Philip Resnik
+  bibkey: resnik-1992-class
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982021
+  month: June
+  page_first: '327'
+  page_last: '329'
+  pages: "327\u2013329"
+  paper_id: '53'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1053.jpg
+  title: A Class-Based Approach to Lexical Discovery
+  title_html: A Class-Based Approach to Lexical Discovery
+  url: https://www.aclweb.org/anthology/P92-1053
+  year: '1992'
+P92-1054:
+  address: Newark, Delaware, USA
+  author:
+  - first: Robert
+    full: Robert Krovetz
+    id: robert-krovetz
+    last: Krovetz
+  author_string: Robert Krovetz
+  bibkey: krovetz-1992-sense
+  bibtype: inproceedings
+  booktitle: 30th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 30th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981967.982022
+  month: June
+  page_first: '330'
+  page_last: '332'
+  pages: "330\u2013332"
+  paper_id: '54'
+  parent_volume_id: P92-1
+  pdf: https://www.aclweb.org/anthology/P92-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P92-1054.jpg
+  title: Sense-Linking in a Machine Readable Dictionary
+  title_html: Sense-Linking in a Machine Readable Dictionary
+  url: https://www.aclweb.org/anthology/P92-1054
+  year: '1992'

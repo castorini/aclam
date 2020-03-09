@@ -1,0 +1,5174 @@
+D12-1000:
+  address: Jeju Island, Korea
+  author:
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Marius
+    full: "Marius Pa\u015Fca"
+    id: marius-pasca
+    last: "Pa\u015Fca"
+  author_string: "Jun\u2019ichi Tsujii, James Henderson, Marius Pa\u015Fca"
+  bibkey: emnlp-2012-2012
+  bibtype: proceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  month: July
+  paper_id: '0'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1000.jpg
+  title: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  title_html: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  url: https://www.aclweb.org/anthology/D12-1000
+  year: '2012'
+D12-1001:
+  address: Jeju Island, Korea
+  author:
+  - first: Greg
+    full: Greg Durrett
+    id: greg-durrett
+    last: Durrett
+  - first: Adam
+    full: Adam Pauls
+    id: adam-pauls
+    last: Pauls
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Greg Durrett, Adam Pauls, Dan Klein
+  bibkey: durrett-etal-2012-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1'
+  page_last: '11'
+  pages: "1\u201311"
+  paper_id: '1'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1001.jpg
+  title: Syntactic Transfer Using a Bilingual Lexicon
+  title_html: Syntactic Transfer Using a Bilingual Lexicon
+  url: https://www.aclweb.org/anthology/D12-1001
+  year: '2012'
+D12-1002:
+  address: Jeju Island, Korea
+  author:
+  - first: Jagadeesh
+    full: Jagadeesh Jagarlamudi
+    id: jagadeesh-jagarlamudi
+    last: Jagarlamudi
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  author_string: "Jagadeesh Jagarlamudi, Hal Daum\xE9 III"
+  bibkey: jagarlamudi-daume-iii-2012-regularized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '12'
+  page_last: '23'
+  pages: "12\u201323"
+  paper_id: '2'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1002.jpg
+  title: 'Regularized Interlingual Projections: Evaluation on Multilingual Transliteration'
+  title_html: 'Regularized Interlingual Projections: Evaluation on Multilingual Transliteration'
+  url: https://www.aclweb.org/anthology/D12-1002
+  year: '2012'
+D12-1003:
+  address: Jeju Island, Korea
+  author:
+  - first: Akihiro
+    full: Akihiro Tamura
+    id: akihiro-tamura
+    last: Tamura
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Akihiro Tamura, Taro Watanabe, Eiichiro Sumita
+  bibkey: tamura-etal-2012-bilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '24'
+  page_last: '36'
+  pages: "24\u201336"
+  paper_id: '3'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1003.jpg
+  title: Bilingual Lexicon Extraction from Comparable Corpora Using Label Propagation
+  title_html: Bilingual Lexicon Extraction from Comparable Corpora Using Label Propagation
+  url: https://www.aclweb.org/anthology/D12-1003
+  year: '2012'
+D12-1004:
+  address: Jeju Island, Korea
+  author:
+  - first: Kai
+    full: Kai Hong
+    id: kai-hong
+    last: Hong
+  - first: Christian G.
+    full: Christian G. Kohler
+    id: christian-g-kohler
+    last: Kohler
+  - first: Mary E.
+    full: Mary E. March
+    id: mary-e-march
+    last: March
+  - first: Amber A.
+    full: Amber A. Parker
+    id: amber-a-parker
+    last: Parker
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  author_string: Kai Hong, Christian G. Kohler, Mary E. March, Amber A. Parker, Ani
+    Nenkova
+  bibkey: hong-etal-2012-lexical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '37'
+  page_last: '47'
+  pages: "37\u201347"
+  paper_id: '4'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1004.jpg
+  title: Lexical Differences in Autobiographical Narratives from Schizophrenic Patients
+    and Healthy Controls
+  title_html: Lexical Differences in Autobiographical Narratives from Schizophrenic
+    Patients and Healthy Controls
+  url: https://www.aclweb.org/anthology/D12-1004
+  year: '2012'
+D12-1005:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1005.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1005.Attachment.pdf
+  author:
+  - first: Benjamin
+    full: Benjamin Van Durme
+    id: benjamin-van-durme
+    last: Van Durme
+  author_string: Benjamin Van Durme
+  bibkey: van-durme-2012-streaming
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '48'
+  page_last: '58'
+  pages: "48\u201358"
+  paper_id: '5'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1005.jpg
+  title: Streaming Analysis of Discourse Participants
+  title_html: Streaming Analysis of Discourse Participants
+  url: https://www.aclweb.org/anthology/D12-1005
+  year: '2012'
+D12-1006:
+  address: Jeju Island, Korea
+  author:
+  - first: Ahmed
+    full: Ahmed Hassan
+    id: ahmed-hassan
+    last: Hassan
+  - first: Amjad
+    full: Amjad Abu-Jbara
+    id: amjad-abu-jbara
+    last: Abu-Jbara
+  - first: Dragomir
+    full: Dragomir Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: Ahmed Hassan, Amjad Abu-Jbara, Dragomir Radev
+  bibkey: hassan-etal-2012-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '59'
+  page_last: '70'
+  pages: "59\u201370"
+  paper_id: '6'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1006.jpg
+  title: Detecting Subgroups in Online Discussions by Modeling Positive and Negative
+    Relations among Participants
+  title_html: Detecting Subgroups in Online Discussions by Modeling Positive and Negative
+    Relations among Participants
+  url: https://www.aclweb.org/anthology/D12-1006
+  year: '2012'
+D12-1007:
+  address: Jeju Island, Korea
+  author:
+  - first: Aciel
+    full: Aciel Eshky
+    id: aciel-eshky
+    last: Eshky
+  - first: Ben
+    full: Ben Allison
+    id: ben-allison
+    last: Allison
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Aciel Eshky, Ben Allison, Mark Steedman
+  bibkey: eshky-etal-2012-generative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '71'
+  page_last: '81'
+  pages: "71\u201381"
+  paper_id: '7'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1007.jpg
+  title: Generative Goal-Driven User Simulation for Dialog Management
+  title_html: Generative Goal-Driven User Simulation for Dialog Management
+  url: https://www.aclweb.org/anthology/D12-1007
+  year: '2012'
+D12-1008:
+  address: Jeju Island, Korea
+  author:
+  - first: Nina
+    full: Nina Dethlefs
+    id: nina-dethlefs
+    last: Dethlefs
+  - first: Helen
+    full: Helen Hastie
+    id: helen-hastie
+    last: Hastie
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  author_string: Nina Dethlefs, Helen Hastie, Verena Rieser, Oliver Lemon
+  bibkey: dethlefs-etal-2012-optimising-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '82'
+  page_last: '93'
+  pages: "82\u201393"
+  paper_id: '8'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1008.jpg
+  title: Optimising Incremental Dialogue Decisions Using Information Density for Interactive
+    Systems
+  title_html: Optimising Incremental Dialogue Decisions Using Information Density
+    for Interactive Systems
+  url: https://www.aclweb.org/anthology/D12-1008
+  year: '2012'
+D12-1009:
+  address: Jeju Island, Korea
+  author:
+  - first: Michael J.
+    full: Michael J. Paul
+    id: michael-paul
+    last: Paul
+  author_string: Michael J. Paul
+  bibkey: paul-2012-mixed
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '94'
+  page_last: '104'
+  pages: "94\u2013104"
+  paper_id: '9'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1009.jpg
+  title: Mixed Membership Markov Models for Unsupervised Conversation Modeling
+  title_html: Mixed Membership <span class="acl-fixed-case">M</span>arkov Models for
+    Unsupervised Conversation Modeling
+  url: https://www.aclweb.org/anthology/D12-1009
+  year: '2012'
+D12-1010:
+  address: Jeju Island, Korea
+  author:
+  - first: Xianpei
+    full: Xianpei Han
+    id: xianpei-han
+    last: Han
+  - first: Le
+    full: Le Sun
+    id: le-sun
+    last: Sun
+  author_string: Xianpei Han, Le Sun
+  bibkey: han-sun-2012-entity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '105'
+  page_last: '115'
+  pages: "105\u2013115"
+  paper_id: '10'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1010.jpg
+  title: An Entity-Topic Model for Entity Linking
+  title_html: An Entity-Topic Model for Entity Linking
+  url: https://www.aclweb.org/anthology/D12-1010
+  year: '2012'
+D12-1011:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1011.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1011.Attachment.zip
+  author:
+  - first: Avirup
+    full: Avirup Sil
+    id: avirup-sil
+    last: Sil
+  - first: Ernest
+    full: Ernest Cronin
+    id: ernest-cronin
+    last: Cronin
+  - first: Penghai
+    full: Penghai Nie
+    id: penghai-nie
+    last: Nie
+  - first: Yinfei
+    full: Yinfei Yang
+    id: yinfei-yang
+    last: Yang
+  - first: Ana-Maria
+    full: Ana-Maria Popescu
+    id: ana-maria-popescu
+    last: Popescu
+  - first: Alexander
+    full: Alexander Yates
+    id: alexander-yates
+    last: Yates
+  author_string: Avirup Sil, Ernest Cronin, Penghai Nie, Yinfei Yang, Ana-Maria Popescu,
+    Alexander Yates
+  bibkey: sil-etal-2012-linking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '116'
+  page_last: '127'
+  pages: "116\u2013127"
+  paper_id: '11'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1011.jpg
+  title: Linking Named Entities to Any Database
+  title_html: Linking Named Entities to Any Database
+  url: https://www.aclweb.org/anthology/D12-1011
+  year: '2012'
+D12-1012:
+  address: Jeju Island, Korea
+  author:
+  - first: Ajay
+    full: Ajay Nagesh
+    id: ajay-nagesh
+    last: Nagesh
+  - first: Ganesh
+    full: Ganesh Ramakrishnan
+    id: ganesh-ramakrishnan
+    last: Ramakrishnan
+  - first: Laura
+    full: Laura Chiticariu
+    id: laura-chiticariu
+    last: Chiticariu
+  - first: Rajasekar
+    full: Rajasekar Krishnamurthy
+    id: rajasekar-krishnamurthy
+    last: Krishnamurthy
+  - first: Ankush
+    full: Ankush Dharkar
+    id: ankush-dharkar
+    last: Dharkar
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Ajay Nagesh, Ganesh Ramakrishnan, Laura Chiticariu, Rajasekar Krishnamurthy,
+    Ankush Dharkar, Pushpak Bhattacharyya
+  bibkey: nagesh-etal-2012-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '128'
+  page_last: '138'
+  pages: "128\u2013138"
+  paper_id: '12'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1012.jpg
+  title: Towards Efficient Named-Entity Rule Induction for Customizability
+  title_html: Towards Efficient Named-Entity Rule Induction for Customizability
+  url: https://www.aclweb.org/anthology/D12-1012
+  year: '2012'
+D12-1013:
+  address: Jeju Island, Korea
+  author:
+  - first: Shoushan
+    full: Shoushan Li
+    id: shoushan-li
+    last: Li
+  - first: Shengfeng
+    full: Shengfeng Ju
+    id: shengfeng-ju
+    last: Ju
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Xiaojun
+    full: Xiaojun Li
+    id: xiaojun-lin
+    last: Li
+  author_string: Shoushan Li, Shengfeng Ju, Guodong Zhou, Xiaojun Li
+  bibkey: li-etal-2012-active-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '139'
+  page_last: '148'
+  pages: "139\u2013148"
+  paper_id: '13'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1013.jpg
+  title: Active Learning for Imbalanced Sentiment Classification
+  title_html: Active Learning for Imbalanced Sentiment Classification
+  url: https://www.aclweb.org/anthology/D12-1013
+  year: '2012'
+D12-1014:
+  address: Jeju Island, Korea
+  author:
+  - first: Lizhen
+    full: Lizhen Qu
+    id: lizhen-qu
+    last: Qu
+  - first: Rainer
+    full: Rainer Gemulla
+    id: rainer-gemulla
+    last: Gemulla
+  - first: Gerhard
+    full: Gerhard Weikum
+    id: gerhard-weikum
+    last: Weikum
+  author_string: Lizhen Qu, Rainer Gemulla, Gerhard Weikum
+  bibkey: qu-etal-2012-weakly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '149'
+  page_last: '159'
+  pages: "149\u2013159"
+  paper_id: '14'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1014.jpg
+  title: A Weakly Supervised Model for Sentence-Level Semantic Orientation Analysis
+    with Multiple Experts
+  title_html: A Weakly Supervised Model for Sentence-Level Semantic Orientation Analysis
+    with Multiple Experts
+  url: https://www.aclweb.org/anthology/D12-1014
+  year: '2012'
+D12-1015:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1015.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1015.Attachment.pdf
+  author:
+  - first: Yanyan
+    full: Yanyan Zhao
+    id: yanyan-zhao
+    last: Zhao
+  - first: Bing
+    full: Bing Qin
+    id: bing-qin
+    last: Qin
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  author_string: Yanyan Zhao, Bing Qin, Ting Liu
+  bibkey: zhao-etal-2012-collocation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '160'
+  page_last: '170'
+  pages: "160\u2013170"
+  paper_id: '15'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1015.jpg
+  title: Collocation Polarity Disambiguation Using Web-based Pseudo Contexts
+  title_html: Collocation Polarity Disambiguation Using Web-based Pseudo Contexts
+  url: https://www.aclweb.org/anthology/D12-1015
+  year: '2012'
+D12-1016:
+  address: Jeju Island, Korea
+  author:
+  - first: Michael
+    full: Michael Roth
+    id: michael-roth
+    last: Roth
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  author_string: Michael Roth, Anette Frank
+  bibkey: roth-frank-2012-aligning-predicates
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '171'
+  page_last: '182'
+  pages: "171\u2013182"
+  paper_id: '16'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1016.jpg
+  title: Aligning Predicates across Monolingual Comparable Texts using Graph-based
+    Clustering
+  title_html: Aligning Predicates across Monolingual Comparable Texts using Graph-based
+    Clustering
+  url: https://www.aclweb.org/anthology/D12-1016
+  year: '2012'
+D12-1017:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1017.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1017.Attachment.pdf
+  author:
+  - first: Vivi
+    full: Vivi Nastase
+    id: vivi-nastase
+    last: Nastase
+  - first: Alex
+    full: Alex Judea
+    id: alex-judea
+    last: Judea
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Vivi Nastase, Alex Judea, Katja Markert, Michael Strube
+  bibkey: nastase-etal-2012-local
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '183'
+  page_last: '193'
+  pages: "183\u2013193"
+  paper_id: '17'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1017.jpg
+  title: Local and Global Context for Supervised and Unsupervised Metonymy Resolution
+  title_html: Local and Global Context for Supervised and Unsupervised Metonymy Resolution
+  url: https://www.aclweb.org/anthology/D12-1017
+  year: '2012'
+D12-1018:
+  address: Jeju Island, Korea
+  author:
+  - first: Hila
+    full: Hila Weisman
+    id: hila-weisman
+    last: Weisman
+  - first: Jonathan
+    full: Jonathan Berant
+    id: jonathan-berant
+    last: Berant
+  - first: Idan
+    full: Idan Szpektor
+    id: idan-szpektor
+    last: Szpektor
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Hila Weisman, Jonathan Berant, Idan Szpektor, Ido Dagan
+  bibkey: weisman-etal-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '194'
+  page_last: '204'
+  pages: "194\u2013204"
+  paper_id: '18'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1018.jpg
+  title: Learning Verb Inference Rules from Linguistically-Motivated Evidence
+  title_html: Learning Verb Inference Rules from Linguistically-Motivated Evidence
+  url: https://www.aclweb.org/anthology/D12-1018
+  year: '2012'
+D12-1019:
+  address: Jeju Island, Korea
+  author:
+  - first: Paramveer
+    full: Paramveer Dhillon
+    id: paramveer-s-dhillon
+    last: Dhillon
+  - first: Jordan
+    full: Jordan Rodu
+    id: jordan-rodu
+    last: Rodu
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Dean
+    full: Dean Foster
+    id: dean-foster
+    last: Foster
+  - first: Lyle
+    full: Lyle Ungar
+    id: lyle-ungar
+    last: Ungar
+  author_string: Paramveer Dhillon, Jordan Rodu, Michael Collins, Dean Foster, Lyle
+    Ungar
+  bibkey: dhillon-etal-2012-spectral
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '205'
+  page_last: '213'
+  pages: "205\u2013213"
+  paper_id: '19'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1019.jpg
+  title: Spectral Dependency Parsing with Latent Variables
+  title_html: Spectral Dependency Parsing with Latent Variables
+  url: https://www.aclweb.org/anthology/D12-1019
+  year: '2012'
+D12-1020:
+  address: Jeju Island, Korea
+  author:
+  - first: Robert
+    full: Robert Lindsey
+    id: robert-lindsey
+    last: Lindsey
+  - first: William
+    full: William Headden
+    id: william-headden
+    last: Headden
+  - first: Michael
+    full: Michael Stipicevic
+    id: michael-stipicevic
+    last: Stipicevic
+  author_string: Robert Lindsey, William Headden, Michael Stipicevic
+  bibkey: lindsey-etal-2012-phrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '214'
+  page_last: '222'
+  pages: "214\u2013222"
+  paper_id: '20'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1020.jpg
+  title: A Phrase-Discovering Topic Model Using Hierarchical Pitman-Yor Processes
+  title_html: A Phrase-Discovering Topic Model Using Hierarchical Pitman-Yor Processes
+  url: https://www.aclweb.org/anthology/D12-1020
+  year: '2012'
+D12-1021:
+  address: Jeju Island, Korea
+  author:
+  - first: Abby
+    full: Abby Levenberg
+    id: abby-levenberg
+    last: Levenberg
+  - first: Chris
+    full: Chris Dyer
+    id: chris-dyer
+    last: Dyer
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  author_string: Abby Levenberg, Chris Dyer, Phil Blunsom
+  bibkey: levenberg-etal-2012-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '223'
+  page_last: '232'
+  pages: "223\u2013232"
+  paper_id: '21'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1021.jpg
+  title: A Bayesian Model for Learning SCFGs with Discontiguous Rules
+  title_html: A <span class="acl-fixed-case">B</span>ayesian Model for Learning <span
+    class="acl-fixed-case">SCFG</span>s with Discontiguous Rules
+  url: https://www.aclweb.org/anthology/D12-1021
+  year: '2012'
+D12-1022:
+  address: Jeju Island, Korea
+  author:
+  - first: Kristian
+    full: Kristian Woodsend
+    id: kristian-woodsend
+    last: Woodsend
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Kristian Woodsend, Mirella Lapata
+  bibkey: woodsend-lapata-2012-multiple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '233'
+  page_last: '243'
+  pages: "233\u2013243"
+  paper_id: '22'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1022.jpg
+  title: Multiple Aspect Summarization Using Integer Linear Programming
+  title_html: Multiple Aspect Summarization Using Integer Linear Programming
+  url: https://www.aclweb.org/anthology/D12-1022
+  year: '2012'
+D12-1023:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1023.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1023.Attachment.zip
+  author:
+  - first: Michael
+    full: Michael White
+    id: michael-white
+    last: White
+  - first: Rajakrishnan
+    full: Rajakrishnan Rajkumar
+    id: rajakrishnan-rajkumar
+    last: Rajkumar
+  author_string: Michael White, Rajakrishnan Rajkumar
+  bibkey: white-rajkumar-2012-minimal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '244'
+  page_last: '255'
+  pages: "244\u2013255"
+  paper_id: '23'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1023.jpg
+  title: Minimal Dependency Length in Realization Ranking
+  title_html: Minimal Dependency Length in Realization Ranking
+  url: https://www.aclweb.org/anthology/D12-1023
+  year: '2012'
+D12-1024:
+  address: Jeju Island, Korea
+  author:
+  - first: Seonggi
+    full: Seonggi Ryang
+    id: seonggi-ryang
+    last: Ryang
+  - first: Takeshi
+    full: Takeshi Abekawa
+    id: takeshi-abekawa
+    last: Abekawa
+  author_string: Seonggi Ryang, Takeshi Abekawa
+  bibkey: ryang-abekawa-2012-framework
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '256'
+  page_last: '265'
+  pages: "256\u2013265"
+  paper_id: '24'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1024.jpg
+  title: Framework of Automatic Text Summarization Using Reinforcement Learning
+  title_html: Framework of Automatic Text Summarization Using Reinforcement Learning
+  url: https://www.aclweb.org/anthology/D12-1024
+  year: '2012'
+D12-1025:
+  address: Jeju Island, Korea
+  author:
+  - first: Qing
+    full: Qing Dou
+    id: qing-dou
+    last: Dou
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Qing Dou, Kevin Knight
+  bibkey: dou-knight-2012-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '266'
+  page_last: '275'
+  pages: "266\u2013275"
+  paper_id: '25'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1025.jpg
+  title: Large Scale Decipherment for Out-of-Domain Machine Translation
+  title_html: Large Scale Decipherment for Out-of-Domain Machine Translation
+  url: https://www.aclweb.org/anthology/D12-1025
+  year: '2012'
+D12-1026:
+  address: Jeju Island, Korea
+  author:
+  - first: Zhengxian
+    full: Zhengxian Gong
+    id: zhengxian-gong
+    last: Gong
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  author_string: Zhengxian Gong, Min Zhang, Chew Lim Tan, Guodong Zhou
+  bibkey: gong-etal-2012-n
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '276'
+  page_last: '285'
+  pages: "276\u2013285"
+  paper_id: '26'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1026.jpg
+  title: N-gram-based Tense Models for Statistical Machine Translation
+  title_html: N-gram-based Tense Models for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D12-1026
+  year: '2012'
+D12-1027:
+  address: Jeju Island, Korea
+  author:
+  - first: Pidong
+    full: Pidong Wang
+    id: pidong-wang
+    last: Wang
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Pidong Wang, Preslav Nakov, Hwee Tou Ng
+  bibkey: wang-etal-2012-source
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '286'
+  page_last: '296'
+  pages: "286\u2013296"
+  paper_id: '27'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1027.jpg
+  title: Source Language Adaptation for Resource-Poor Machine Translation
+  title_html: Source Language Adaptation for Resource-Poor Machine Translation
+  url: https://www.aclweb.org/anthology/D12-1027
+  year: '2012'
+D12-1028:
+  address: Jeju Island, Korea
+  author:
+  - first: David
+    full: "David Mare\u010Dek"
+    id: david-marecek
+    last: "Mare\u010Dek"
+  - first: "Zden\u011Bk"
+    full: "Zden\u011Bk \u017Dabokrtsk\xFD"
+    id: zdenek-zabokrtsky
+    last: "\u017Dabokrtsk\xFD"
+  author_string: "David Mare\u010Dek, Zden\u011Bk \u017Dabokrtsk\xFD"
+  bibkey: marecek-zabokrtsky-2012-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '297'
+  page_last: '307'
+  pages: "297\u2013307"
+  paper_id: '28'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1028.jpg
+  title: Exploiting Reducibility in Unsupervised Dependency Parsing
+  title_html: Exploiting Reducibility in Unsupervised Dependency Parsing
+  url: https://www.aclweb.org/anthology/D12-1028
+  year: '2012'
+D12-1029:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1029.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1029.Attachment.zip
+  author:
+  - first: Daniel
+    full: "Daniel Fern\xE1ndez-Gonz\xE1lez"
+    id: daniel-fernandez-gonzalez
+    last: "Fern\xE1ndez-Gonz\xE1lez"
+  - first: Carlos
+    full: "Carlos G\xF3mez-Rodr\xEDguez"
+    id: carlos-gomez-rodriguez
+    last: "G\xF3mez-Rodr\xEDguez"
+  author_string: "Daniel Fern\xE1ndez-Gonz\xE1lez, Carlos G\xF3mez-Rodr\xEDguez"
+  bibkey: fernandez-gonzalez-gomez-rodriguez-2012-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '308'
+  page_last: '319'
+  pages: "308\u2013319"
+  paper_id: '29'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1029.jpg
+  title: Improving Transition-Based Dependency Parsing with Buffer Transitions
+  title_html: Improving Transition-Based Dependency Parsing with Buffer Transitions
+  url: https://www.aclweb.org/anthology/D12-1029
+  year: '2012'
+D12-1030:
+  address: Jeju Island, Korea
+  author:
+  - first: Hao
+    full: Hao Zhang
+    id: hao-zhang
+    last: Zhang
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  author_string: Hao Zhang, Ryan McDonald
+  bibkey: zhang-mcdonald-2012-generalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '320'
+  page_last: '331'
+  pages: "320\u2013331"
+  paper_id: '30'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1030.jpg
+  title: Generalized Higher-Order Dependency Parsing with Cube Pruning
+  title_html: Generalized Higher-Order Dependency Parsing with Cube Pruning
+  url: https://www.aclweb.org/anthology/D12-1030
+  year: '2012'
+D12-1031:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1031.Attachment.gz
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1031.Attachment.gz
+  author:
+  - first: Young-Bum
+    full: Young-Bum Kim
+    id: young-bum-kim
+    last: Kim
+  - first: Benjamin
+    full: Benjamin Snyder
+    id: benjamin-snyder
+    last: Snyder
+  author_string: Young-Bum Kim, Benjamin Snyder
+  bibkey: kim-snyder-2012-universal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '332'
+  page_last: '343'
+  pages: "332\u2013343"
+  paper_id: '31'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1031.jpg
+  title: Universal Grapheme-to-Phoneme Prediction Over Latin Alphabets
+  title_html: Universal Grapheme-to-Phoneme Prediction Over <span class="acl-fixed-case">L</span>atin
+    Alphabets
+  url: https://www.aclweb.org/anthology/D12-1031
+  year: '2012'
+D12-1032:
+  address: Jeju Island, Korea
+  author:
+  - first: Nicholas
+    full: Nicholas Andrews
+    id: nicholas-andrews
+    last: Andrews
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  author_string: Nicholas Andrews, Jason Eisner, Mark Dredze
+  bibkey: andrews-etal-2012-name
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '344'
+  page_last: '355'
+  pages: "344\u2013355"
+  paper_id: '32'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1032.jpg
+  title: 'Name Phylogeny: A Generative Model of String Variation'
+  title_html: 'Name Phylogeny: A Generative Model of String Variation'
+  url: https://www.aclweb.org/anthology/D12-1032
+  year: '2012'
+D12-1033:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1033.Attachment.txt
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1033.Attachment.txt
+  author:
+  - first: Vera
+    full: Vera Demberg
+    id: vera-demberg
+    last: Demberg
+  - first: Asad
+    full: Asad Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  - first: Philip
+    full: Philip Gorinski
+    id: philip-gorinski
+    last: Gorinski
+  - first: Nikolaos
+    full: Nikolaos Engonopoulos
+    id: nikolaos-engonopoulos
+    last: Engonopoulos
+  author_string: Vera Demberg, Asad Sayeed, Philip Gorinski, Nikolaos Engonopoulos
+  bibkey: demberg-etal-2012-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '356'
+  page_last: '367'
+  pages: "356\u2013367"
+  paper_id: '33'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1033.jpg
+  title: Syntactic Surprisal Affects Spoken Word Duration in Conversational Contexts
+  title_html: Syntactic Surprisal Affects Spoken Word Duration in Conversational Contexts
+  url: https://www.aclweb.org/anthology/D12-1033
+  year: '2012'
+D12-1034:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1034.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1034.Attachment.pdf
+  author:
+  - first: Jong-Hoon
+    full: Jong-Hoon Oh
+    id: jong-hoon-oh
+    last: Oh
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  - first: Takuya
+    full: Takuya Kawada
+    id: takuya-kawada
+    last: Kawada
+  - first: Stijn
+    full: Stijn De Saeger
+    id: stijn-de-saeger
+    last: De Saeger
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Yiou
+    full: Yiou Wang
+    id: yiou-wang
+    last: Wang
+  author_string: "Jong-Hoon Oh, Kentaro Torisawa, Chikara Hashimoto, Takuya Kawada,\
+    \ Stijn De Saeger, Jun\u2019ichi Kazama, Yiou Wang"
+  bibkey: oh-etal-2012-question
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '368'
+  page_last: '378'
+  pages: "368\u2013378"
+  paper_id: '34'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1034.jpg
+  title: Why Question Answering using Sentiment Analysis and Word Classes
+  title_html: Why Question Answering using Sentiment Analysis and Word Classes
+  url: https://www.aclweb.org/anthology/D12-1034
+  year: '2012'
+D12-1035:
+  address: Jeju Island, Korea
+  author:
+  - first: Mohamed
+    full: Mohamed Yahya
+    id: mohamed-yahya
+    last: Yahya
+  - first: Klaus
+    full: Klaus Berberich
+    id: klaus-berberich
+    last: Berberich
+  - first: Shady
+    full: Shady Elbassuoni
+    id: shady-elbassuoni
+    last: Elbassuoni
+  - first: Maya
+    full: Maya Ramanath
+    id: maya-ramanath
+    last: Ramanath
+  - first: Volker
+    full: Volker Tresp
+    id: volker-tresp
+    last: Tresp
+  - first: Gerhard
+    full: Gerhard Weikum
+    id: gerhard-weikum
+    last: Weikum
+  author_string: Mohamed Yahya, Klaus Berberich, Shady Elbassuoni, Maya Ramanath,
+    Volker Tresp, Gerhard Weikum
+  bibkey: yahya-etal-2012-natural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '379'
+  page_last: '390'
+  pages: "379\u2013390"
+  paper_id: '35'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1035.jpg
+  title: Natural Language Questions for the Web of Data
+  title_html: Natural Language Questions for the Web of Data
+  url: https://www.aclweb.org/anthology/D12-1035
+  year: '2012'
+D12-1036:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1036.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1036.Attachment.zip
+  author:
+  - first: Jianxing
+    full: Jianxing Yu
+    id: jianxing-yu
+    last: Yu
+  - first: Zheng-Jun
+    full: Zheng-Jun Zha
+    id: zheng-jun-zha
+    last: Zha
+  - first: Tat-Seng
+    full: Tat-Seng Chua
+    id: tat-seng-chua
+    last: Chua
+  author_string: Jianxing Yu, Zheng-Jun Zha, Tat-Seng Chua
+  bibkey: yu-etal-2012-answering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '391'
+  page_last: '401'
+  pages: "391\u2013401"
+  paper_id: '36'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1036.jpg
+  title: Answering Opinion Questions on Products by Exploiting Hierarchical Organization
+    of Consumer Reviews
+  title_html: Answering Opinion Questions on Products by Exploiting Hierarchical Organization
+    of Consumer Reviews
+  url: https://www.aclweb.org/anthology/D12-1036
+  year: '2012'
+D12-1037:
+  address: Jeju Island, Korea
+  author:
+  - first: Lemao
+    full: Lemao Liu
+    id: lemao-liu
+    last: Liu
+  - first: Hailong
+    full: Hailong Cao
+    id: hailong-cao
+    last: Cao
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Tiejun
+    full: Tiejun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  - first: Mo
+    full: Mo Yu
+    id: mo-yu
+    last: Yu
+  - first: Conghui
+    full: Conghui Zhu
+    id: conghui-zhu
+    last: Zhu
+  author_string: Lemao Liu, Hailong Cao, Taro Watanabe, Tiejun Zhao, Mo Yu, Conghui
+    Zhu
+  bibkey: liu-etal-2012-locally
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '402'
+  page_last: '411'
+  pages: "402\u2013411"
+  paper_id: '37'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1037.jpg
+  title: Locally Training the Log-Linear Model for SMT
+  title_html: Locally Training the Log-Linear Model for <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/D12-1037
+  year: '2012'
+D12-1038:
+  address: Jeju Island, Korea
+  author:
+  - first: Wenbin
+    full: Wenbin Jiang
+    id: wenbin-jiang
+    last: Jiang
+  - first: Fandong
+    full: Fandong Meng
+    id: fandong-meng
+    last: Meng
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Yajuan
+    full: "Yajuan L\xFC"
+    id: yajuan-lu
+    last: "L\xFC"
+  author_string: "Wenbin Jiang, Fandong Meng, Qun Liu, Yajuan L\xFC"
+  bibkey: jiang-etal-2012-iterative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '412'
+  page_last: '420'
+  pages: "412\u2013420"
+  paper_id: '38'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1038.jpg
+  title: Iterative Annotation Transformation with Predict-Self Reestimation for Chinese
+    Word Segmentation
+  title_html: Iterative Annotation Transformation with Predict-Self Reestimation for
+    <span class="acl-fixed-case">C</span>hinese Word Segmentation
+  url: https://www.aclweb.org/anthology/D12-1038
+  year: '2012'
+D12-1039:
+  address: Jeju Island, Korea
+  author:
+  - first: Bo
+    full: Bo Han
+    id: bo-han
+    last: Han
+  - first: Paul
+    full: Paul Cook
+    id: paul-cook
+    last: Cook
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Bo Han, Paul Cook, Timothy Baldwin
+  bibkey: han-etal-2012-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '421'
+  page_last: '432'
+  pages: "421\u2013432"
+  paper_id: '39'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1039.jpg
+  title: Automatically Constructing a Normalisation Dictionary for Microblogs
+  title_html: Automatically Constructing a Normalisation Dictionary for Microblogs
+  url: https://www.aclweb.org/anthology/D12-1039
+  year: '2012'
+D12-1040:
+  address: Jeju Island, Korea
+  author:
+  - first: Joohyun
+    full: Joohyun Kim
+    id: joohyun-kim
+    last: Kim
+  - first: Raymond
+    full: Raymond Mooney
+    id: raymond-mooney
+    last: Mooney
+  author_string: Joohyun Kim, Raymond Mooney
+  bibkey: kim-mooney-2012-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '433'
+  page_last: '444'
+  pages: "433\u2013444"
+  paper_id: '40'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1040.jpg
+  title: Unsupervised PCFG Induction for Grounded Language Learning with Highly Ambiguous
+    Supervision
+  title_html: Unsupervised <span class="acl-fixed-case">PCFG</span> Induction for
+    Grounded Language Learning with Highly Ambiguous Supervision
+  url: https://www.aclweb.org/anthology/D12-1040
+  year: '2012'
+D12-1041:
+  address: Jeju Island, Korea
+  author:
+  - first: Nan
+    full: Nan Duan
+    id: nan-duan
+    last: Duan
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Nan Duan, Mu Li, Ming Zhou
+  bibkey: duan-etal-2012-forced
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '445'
+  page_last: '454'
+  pages: "445\u2013454"
+  paper_id: '41'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1041.jpg
+  title: Forced Derivation Tree based Model Training to Statistical Machine Translation
+  title_html: Forced Derivation Tree based Model Training to Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D12-1041
+  year: '2012'
+D12-1042:
+  address: Jeju Island, Korea
+  author:
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Julie
+    full: Julie Tibshirani
+    id: julie-tibshirani
+    last: Tibshirani
+  - first: Ramesh
+    full: Ramesh Nallapati
+    id: ramesh-nallapati
+    last: Nallapati
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati, Christopher D.
+    Manning
+  bibkey: surdeanu-etal-2012-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '455'
+  page_last: '465'
+  pages: "455\u2013465"
+  paper_id: '42'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1042.jpg
+  title: Multi-instance Multi-label Learning for Relation Extraction
+  title_html: Multi-instance Multi-label Learning for Relation Extraction
+  url: https://www.aclweb.org/anthology/D12-1042
+  year: '2012'
+D12-1043:
+  address: Jeju Island, Korea
+  author:
+  - first: Thomas
+    full: "Thomas Fran\xE7ois"
+    id: thomas-francois
+    last: "Fran\xE7ois"
+  - first: "C\xE9drick"
+    full: "C\xE9drick Fairon"
+    id: cedrick-fairon
+    last: Fairon
+  author_string: "Thomas Fran\xE7ois, C\xE9drick Fairon"
+  bibkey: francois-fairon-2012-ai
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '466'
+  page_last: '477'
+  pages: "466\u2013477"
+  paper_id: '43'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1043.jpg
+  title: "An \u201CAI readability\u201D Formula for French as a Foreign Language"
+  title_html: "An \u201C<span class=\"acl-fixed-case\">AI</span> readability\u201D\
+    \ Formula for <span class=\"acl-fixed-case\">F</span>rench as a Foreign Language"
+  url: https://www.aclweb.org/anthology/D12-1043
+  year: '2012'
+D12-1044:
+  address: Jeju Island, Korea
+  author:
+  - first: Emily
+    full: Emily Pitler
+    id: emily-pitler
+    last: Pitler
+  - first: Sampath
+    full: Sampath Kannan
+    id: sampath-kannan
+    last: Kannan
+  - first: Mitchell
+    full: Mitchell Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Emily Pitler, Sampath Kannan, Mitchell Marcus
+  bibkey: pitler-etal-2012-dynamic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '478'
+  page_last: '488'
+  pages: "478\u2013488"
+  paper_id: '44'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1044.jpg
+  title: Dynamic Programming for Higher Order Parsing of Gap-Minding Trees
+  title_html: Dynamic Programming for Higher Order Parsing of Gap-Minding Trees
+  url: https://www.aclweb.org/anthology/D12-1044
+  year: '2012'
+D12-1045:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1045.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1045.Attachment.zip
+  author:
+  - first: Heeyoung
+    full: Heeyoung Lee
+    id: heeyoung-lee
+    last: Lee
+  - first: Marta
+    full: Marta Recasens
+    id: marta-recasens
+    last: Recasens
+  - first: Angel
+    full: Angel Chang
+    id: angel-chang
+    last: Chang
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Dan
+    full: Dan Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Heeyoung Lee, Marta Recasens, Angel Chang, Mihai Surdeanu, Dan Jurafsky
+  bibkey: lee-etal-2012-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '489'
+  page_last: '500'
+  pages: "489\u2013500"
+  paper_id: '45'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1045.jpg
+  title: Joint Entity and Event Coreference Resolution across Documents
+  title_html: Joint Entity and Event Coreference Resolution across Documents
+  url: https://www.aclweb.org/anthology/D12-1045
+  year: '2012'
+D12-1046:
+  address: Jeju Island, Korea
+  author:
+  - first: Xian
+    full: Xian Qian
+    id: xian-qian
+    last: Qian
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Xian Qian, Yang Liu
+  bibkey: qian-liu-2012-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '501'
+  page_last: '511'
+  pages: "501\u2013511"
+  paper_id: '46'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1046.jpg
+  title: Joint Chinese Word Segmentation, POS Tagging and Parsing
+  title_html: Joint <span class="acl-fixed-case">C</span>hinese Word Segmentation,
+    <span class="acl-fixed-case">POS</span> Tagging and Parsing
+  url: https://www.aclweb.org/anthology/D12-1046
+  year: '2012'
+D12-1047:
+  address: Jeju Island, Korea
+  author:
+  - first: Shixiang
+    full: Shixiang Lu
+    id: shixiang-lu
+    last: Lu
+  - first: Wei
+    full: Wei Wei
+    id: wei-wei
+    last: Wei
+  - first: Xiaoyin
+    full: Xiaoyin Fu
+    id: xiaoyin-fu
+    last: Fu
+  - first: Bo
+    full: Bo Xu
+    id: bo-xu
+    last: Xu
+  author_string: Shixiang Lu, Wei Wei, Xiaoyin Fu, Bo Xu
+  bibkey: lu-etal-2012-translation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '512'
+  page_last: '522'
+  pages: "512\u2013522"
+  paper_id: '47'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1047.jpg
+  title: 'Translation Model Based Cross-Lingual Language Model Adaptation: from Word
+    Models to Phrase Models'
+  title_html: 'Translation Model Based Cross-Lingual Language Model Adaptation: from
+    Word Models to Phrase Models'
+  url: https://www.aclweb.org/anthology/D12-1047
+  year: '2012'
+D12-1048:
+  address: Jeju Island, Korea
+  author:
+  - first: ''
+    full: Mausam
+    id: mausam
+    last: Mausam
+  - first: Michael
+    full: Michael Schmitz
+    id: michael-schmitz
+    last: Schmitz
+  - first: Stephen
+    full: Stephen Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: Robert
+    full: Robert Bart
+    id: robert-bart
+    last: Bart
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Mausam, Michael Schmitz, Stephen Soderland, Robert Bart, Oren Etzioni
+  bibkey: mausam-etal-2012-open
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '523'
+  page_last: '534'
+  pages: "523\u2013534"
+  paper_id: '48'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1048.jpg
+  title: Open Language Learning for Information Extraction
+  title_html: Open Language Learning for Information Extraction
+  url: https://www.aclweb.org/anthology/D12-1048
+  year: '2012'
+D12-1049:
+  address: Jeju Island, Korea
+  author:
+  - first: Lan
+    full: Lan Du
+    id: lan-du
+    last: Du
+  - first: Wray
+    full: Wray Buntine
+    id: wray-buntine
+    last: Buntine
+  - first: Huidong
+    full: Huidong Jin
+    id: huidong-jin
+    last: Jin
+  author_string: Lan Du, Wray Buntine, Huidong Jin
+  bibkey: du-etal-2012-modelling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '535'
+  page_last: '545'
+  pages: "535\u2013545"
+  paper_id: '49'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1049.jpg
+  title: Modelling Sequential Text with an Adaptive Topic Model
+  title_html: Modelling Sequential Text with an Adaptive Topic Model
+  url: https://www.aclweb.org/anthology/D12-1049
+  year: '2012'
+D12-1050:
+  address: Jeju Island, Korea
+  author:
+  - first: William
+    full: William Blacoe
+    id: william-blacoe
+    last: Blacoe
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: William Blacoe, Mirella Lapata
+  bibkey: blacoe-lapata-2012-comparison
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '546'
+  page_last: '556'
+  pages: "546\u2013556"
+  paper_id: '50'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1050.jpg
+  title: A Comparison of Vector-based Representations for Semantic Composition
+  title_html: A Comparison of Vector-based Representations for Semantic Composition
+  url: https://www.aclweb.org/anthology/D12-1050
+  year: '2012'
+D12-1051:
+  address: Jeju Island, Korea
+  author:
+  - first: Junsheng
+    full: Junsheng Zhou
+    id: junsheng-zhou
+    last: Zhou
+  - first: Weiguang
+    full: Weiguang Qu
+    id: weiguang-qu
+    last: Qu
+  - first: Fen
+    full: Fen Zhang
+    id: fen-zhang
+    last: Zhang
+  author_string: Junsheng Zhou, Weiguang Qu, Fen Zhang
+  bibkey: zhou-etal-2012-exploiting-chunk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '557'
+  page_last: '567'
+  pages: "557\u2013567"
+  paper_id: '51'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1051.jpg
+  title: Exploiting Chunk-level Features to Improve Phrase Chunking
+  title_html: Exploiting Chunk-level Features to Improve Phrase Chunking
+  url: https://www.aclweb.org/anthology/D12-1051
+  year: '2012'
+D12-1052:
+  address: Jeju Island, Korea
+  author:
+  - first: Daniel
+    full: Daniel Dahlmeier
+    id: daniel-dahlmeier
+    last: Dahlmeier
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Daniel Dahlmeier, Hwee Tou Ng
+  bibkey: dahlmeier-ng-2012-beam
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '568'
+  page_last: '578'
+  pages: "568\u2013578"
+  paper_id: '52'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1052.jpg
+  title: A Beam-Search Decoder for Grammatical Error Correction
+  title_html: A Beam-Search Decoder for Grammatical Error Correction
+  url: https://www.aclweb.org/anthology/D12-1052
+  year: '2012'
+D12-1053:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1053.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1053.Attachment.zip
+  author:
+  - first: Mathias
+    full: Mathias Verbeke
+    id: mathias-verbeke
+    last: Verbeke
+  - first: Vincent
+    full: Vincent Van Asch
+    id: vincent-van-asch
+    last: Van Asch
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Paolo
+    full: Paolo Frasconi
+    id: paolo-frasconi
+    last: Frasconi
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  - first: Luc
+    full: Luc De Raedt
+    id: luc-de-raedt
+    last: De Raedt
+  author_string: Mathias Verbeke, Vincent Van Asch, Roser Morante, Paolo Frasconi,
+    Walter Daelemans, Luc De Raedt
+  bibkey: verbeke-etal-2012-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '579'
+  page_last: '589'
+  pages: "579\u2013589"
+  paper_id: '53'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1053.jpg
+  title: A Statistical Relational Learning Approach to Identifying Evidence Based
+    Medicine Categories
+  title_html: A Statistical Relational Learning Approach to Identifying Evidence Based
+    Medicine Categories
+  url: https://www.aclweb.org/anthology/D12-1053
+  year: '2012'
+D12-1054:
+  address: Jeju Island, Korea
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Rada Mihalcea, Carlo Strapparava
+  bibkey: mihalcea-strapparava-2012-lyrics
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '590'
+  page_last: '599'
+  pages: "590\u2013599"
+  paper_id: '54'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1054.jpg
+  title: Lyrics, Music, and Emotions
+  title_html: Lyrics, Music, and Emotions
+  url: https://www.aclweb.org/anthology/D12-1054
+  year: '2012'
+D12-1055:
+  address: Jeju Island, Korea
+  author:
+  - first: Su-Youn
+    full: Su-Youn Yoon
+    id: su-youn-yoon
+    last: Yoon
+  - first: Suma
+    full: Suma Bhat
+    id: suma-bhat
+    last: Bhat
+  author_string: Su-Youn Yoon, Suma Bhat
+  bibkey: yoon-bhat-2012-assessment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '600'
+  page_last: '608'
+  pages: "600\u2013608"
+  paper_id: '55'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1055.jpg
+  title: "Assessment of ESL Learners\u2019 Syntactic Competence Based on Similarity\
+    \ Measures"
+  title_html: "Assessment of <span class=\"acl-fixed-case\">ESL</span> Learners\u2019\
+    \ Syntactic Competence Based on Similarity Measures"
+  url: https://www.aclweb.org/anthology/D12-1055
+  year: '2012'
+D12-1056:
+  address: Jeju Island, Korea
+  author:
+  - first: Hisami
+    full: Hisami Suzuki
+    id: hisami-suzuki
+    last: Suzuki
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  author_string: Hisami Suzuki, Jianfeng Gao
+  bibkey: suzuki-gao-2012-unified
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '609'
+  page_last: '618'
+  pages: "609\u2013618"
+  paper_id: '56'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1056.jpg
+  title: A Unified Approach to Transliteration-based Text Input with Online Spelling
+    Correction
+  title_html: A Unified Approach to Transliteration-based Text Input with Online Spelling
+    Correction
+  url: https://www.aclweb.org/anthology/D12-1056
+  year: '2012'
+D12-1057:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1057.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1057.Attachment.pdf
+  author:
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: Stijn
+    full: Stijn De Saeger
+    id: stijn-de-saeger
+    last: De Saeger
+  - first: Jong-Hoon
+    full: Jong-Hoon Oh
+    id: jong-hoon-oh
+    last: Oh
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  author_string: "Chikara Hashimoto, Kentaro Torisawa, Stijn De Saeger, Jong-Hoon\
+    \ Oh, Jun\u2019ichi Kazama"
+  bibkey: hashimoto-etal-2012-excitatory
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '619'
+  page_last: '630'
+  pages: "619\u2013630"
+  paper_id: '57'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1057.jpg
+  title: 'Excitatory or Inhibitory: A New Semantic Orientation Extracts Contradiction
+    and Causality from the Web'
+  title_html: 'Excitatory or Inhibitory: A New Semantic Orientation Extracts Contradiction
+    and Causality from the Web'
+  url: https://www.aclweb.org/anthology/D12-1057
+  year: '2012'
+D12-1058:
+  address: Jeju Island, Korea
+  author:
+  - first: Atsushi
+    full: Atsushi Fujita
+    id: atsushi-fujita
+    last: Fujita
+  - first: Pierre
+    full: Pierre Isabelle
+    id: pierre-isabelle
+    last: Isabelle
+  - first: Roland
+    full: Roland Kuhn
+    id: roland-kuhn
+    last: Kuhn
+  author_string: Atsushi Fujita, Pierre Isabelle, Roland Kuhn
+  bibkey: fujita-etal-2012-enlarging
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '631'
+  page_last: '642'
+  pages: "631\u2013642"
+  paper_id: '58'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1058.jpg
+  title: Enlarging Paraphrase Collections through Generalization and Instantiation
+  title_html: Enlarging Paraphrase Collections through Generalization and Instantiation
+  url: https://www.aclweb.org/anthology/D12-1058
+  year: '2012'
+D12-1059:
+  address: Jeju Island, Korea
+  author:
+  - first: Afra
+    full: Afra Alishahi
+    id: afra-alishahi
+    last: Alishahi
+  - first: Grzegorz
+    full: Grzegorz Chrupala
+    id: grzegorz-chrupala
+    last: Chrupala
+  author_string: Afra Alishahi, Grzegorz Chrupala
+  bibkey: alishahi-chrupala-2012-concurrent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '643'
+  page_last: '654'
+  pages: "643\u2013654"
+  paper_id: '59'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1059.jpg
+  title: Concurrent Acquisition of Word Meaning and Lexical Categories
+  title_html: Concurrent Acquisition of Word Meaning and Lexical Categories
+  url: https://www.aclweb.org/anthology/D12-1059
+  year: '2012'
+D12-1060:
+  address: Jeju Island, Korea
+  author:
+  - first: Natalia
+    full: Natalia Ponomareva
+    id: natalia-ponomareva
+    last: Ponomareva
+  - first: Mike
+    full: Mike Thelwall
+    id: mike-thelwall
+    last: Thelwall
+  author_string: Natalia Ponomareva, Mike Thelwall
+  bibkey: ponomareva-thelwall-2012-neighbours
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '655'
+  page_last: '665'
+  pages: "655\u2013665"
+  paper_id: '60'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1060.jpg
+  title: Do Neighbours Help? An Exploration of Graph-based Algorithms for Cross-domain
+    Sentiment Classification
+  title_html: Do Neighbours Help? An Exploration of Graph-based Algorithms for Cross-domain
+    Sentiment Classification
+  url: https://www.aclweb.org/anthology/D12-1060
+  year: '2012'
+D12-1061:
+  address: Jeju Island, Korea
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Shasha
+    full: Shasha Xie
+    id: shasha-xie
+    last: Xie
+  - first: Xiaodong
+    full: Xiaodong He
+    id: xiaodong-he
+    last: He
+  - first: Alnur
+    full: Alnur Ali
+    id: alnur-ali
+    last: Ali
+  author_string: Jianfeng Gao, Shasha Xie, Xiaodong He, Alnur Ali
+  bibkey: gao-etal-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '666'
+  page_last: '676'
+  pages: "666\u2013676"
+  paper_id: '61'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1061.jpg
+  title: Learning Lexicon Models from Search Logs for Query Expansion
+  title_html: Learning Lexicon Models from Search Logs for Query Expansion
+  url: https://www.aclweb.org/anthology/D12-1061
+  year: '2012'
+D12-1062:
+  address: Jeju Island, Korea
+  author:
+  - first: Quang
+    full: Quang Do
+    id: quang-do
+    last: Do
+  - first: Wei
+    full: Wei Lu
+    id: wei-lu
+    last: Lu
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Quang Do, Wei Lu, Dan Roth
+  bibkey: do-etal-2012-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '677'
+  page_last: '687'
+  pages: "677\u2013687"
+  paper_id: '62'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1062.jpg
+  title: Joint Inference for Event Timeline Construction
+  title_html: Joint Inference for Event Timeline Construction
+  url: https://www.aclweb.org/anthology/D12-1062
+  year: '2012'
+D12-1063:
+  address: Jeju Island, Korea
+  author:
+  - first: Valentin I.
+    full: Valentin I. Spitkovsky
+    id: valentin-i-spitkovsky
+    last: Spitkovsky
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Valentin I. Spitkovsky, Hiyan Alshawi, Daniel Jurafsky
+  bibkey: spitkovsky-etal-2012-three
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '688'
+  page_last: '698'
+  pages: "688\u2013698"
+  paper_id: '63'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1063.jpg
+  title: Three Dependency-and-Boundary Models for Grammar Induction
+  title_html: Three Dependency-and-Boundary Models for Grammar Induction
+  url: https://www.aclweb.org/anthology/D12-1063
+  year: '2012'
+D12-1064:
+  address: Jeju Island, Korea
+  author:
+  - first: Sze-Meng Jojo
+    full: Sze-Meng Jojo Wong
+    id: sze-meng-jojo-wong
+    last: Wong
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Sze-Meng Jojo Wong, Mark Dras, Mark Johnson
+  bibkey: wong-etal-2012-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '699'
+  page_last: '709'
+  pages: "699\u2013709"
+  paper_id: '64'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1064.jpg
+  title: Exploring Adaptor Grammars for Native Language Identification
+  title_html: Exploring Adaptor Grammars for Native Language Identification
+  url: https://www.aclweb.org/anthology/D12-1064
+  year: '2012'
+D12-1065:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1065.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1065.Attachment.pdf
+  author:
+  - first: Jennifer
+    full: Jennifer Gillenwater
+    id: jennifer-gillenwater
+    last: Gillenwater
+  - first: Alex
+    full: Alex Kulesza
+    id: alex-kulesza
+    last: Kulesza
+  - first: Ben
+    full: Ben Taskar
+    id: ben-taskar
+    last: Taskar
+  author_string: Jennifer Gillenwater, Alex Kulesza, Ben Taskar
+  bibkey: gillenwater-etal-2012-discovering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '710'
+  page_last: '720'
+  pages: "710\u2013720"
+  paper_id: '65'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1065.jpg
+  title: Discovering Diverse and Salient Threads in Document Collections
+  title_html: Discovering Diverse and Salient Threads in Document Collections
+  url: https://www.aclweb.org/anthology/D12-1065
+  year: '2012'
+D12-1066:
+  address: Jeju Island, Korea
+  author:
+  - first: "Aur\xE9lien"
+    full: "Aur\xE9lien Max"
+    id: aurelien-max
+    last: Max
+  - first: Houda
+    full: Houda Bouamor
+    id: houda-bouamor
+    last: Bouamor
+  - first: Anne
+    full: Anne Vilnat
+    id: anne-vilnat
+    last: Vilnat
+  author_string: "Aur\xE9lien Max, Houda Bouamor, Anne Vilnat"
+  bibkey: max-etal-2012-generalizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '721'
+  page_last: '731'
+  pages: "721\u2013731"
+  paper_id: '66'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1066.jpg
+  title: Generalizing Sub-sentential Paraphrase Acquisition across Original Signal
+    Type of Text Pairs
+  title_html: Generalizing Sub-sentential Paraphrase Acquisition across Original Signal
+    Type of Text Pairs
+  url: https://www.aclweb.org/anthology/D12-1066
+  year: '2012'
+D12-1067:
+  address: Jeju Island, Korea
+  author:
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  - first: David
+    full: David Smith
+    id: david-a-smith
+    last: Smith
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Sebastian Riedel, David Smith, Andrew McCallum
+  bibkey: riedel-etal-2012-parse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '732'
+  page_last: '743'
+  pages: "732\u2013743"
+  paper_id: '67'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1067.jpg
+  title: "Parse, Price and Cut\u2014Delayed Column and Row Generation for Graph Based\
+    \ Parsers"
+  title_html: "Parse, Price and <span class=\"acl-fixed-case\">C</span>ut\u2014<span\
+    \ class=\"acl-fixed-case\">D</span>elayed Column and Row Generation for Graph\
+    \ Based Parsers"
+  url: https://www.aclweb.org/anthology/D12-1067
+  year: '2012'
+D12-1068:
+  address: Jeju Island, Korea
+  author:
+  - first: Jian Bo
+    full: Jian Bo Yang
+    id: jian-bo-yang
+    last: Yang
+  - first: Qi
+    full: Qi Mao
+    id: qi-mao
+    last: Mao
+  - first: Qiao Liang
+    full: Qiao Liang Xiang
+    id: qiao-liang-xiang
+    last: Xiang
+  - first: Ivor Wai-Hung
+    full: Ivor Wai-Hung Tsang
+    id: ivor-wai-hung-tsang
+    last: Tsang
+  - first: Kian Ming Adam
+    full: Kian Ming Adam Chai
+    id: kian-ming-a-chai
+    last: Chai
+  - first: Hai Leong
+    full: Hai Leong Chieu
+    id: hai-leong-chieu
+    last: Chieu
+  author_string: Jian Bo Yang, Qi Mao, Qiao Liang Xiang, Ivor Wai-Hung Tsang, Kian
+    Ming Adam Chai, Hai Leong Chieu
+  bibkey: yang-etal-2012-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '744'
+  page_last: '753'
+  pages: "744\u2013753"
+  paper_id: '68'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1068.jpg
+  title: 'Domain Adaptation for Coreference Resolution: An Adaptive Ensemble Approach'
+  title_html: 'Domain Adaptation for Coreference Resolution: An Adaptive Ensemble
+    Approach'
+  url: https://www.aclweb.org/anthology/D12-1068
+  year: '2012'
+D12-1069:
+  address: Jeju Island, Korea
+  author:
+  - first: Jayant
+    full: Jayant Krishnamurthy
+    id: jayant-krishnamurthy
+    last: Krishnamurthy
+  - first: Tom
+    full: Tom Mitchell
+    id: tom-mitchell
+    last: Mitchell
+  author_string: Jayant Krishnamurthy, Tom Mitchell
+  bibkey: krishnamurthy-mitchell-2012-weakly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '754'
+  page_last: '765'
+  pages: "754\u2013765"
+  paper_id: '69'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1069.jpg
+  title: Weakly Supervised Training of Semantic Parsers
+  title_html: Weakly Supervised Training of Semantic Parsers
+  url: https://www.aclweb.org/anthology/D12-1069
+  year: '2012'
+D12-1070:
+  address: Jeju Island, Korea
+  author:
+  - first: Ping
+    full: Ping Xu
+    id: ping-xu
+    last: Xu
+  - first: Pascale
+    full: Pascale Fung
+    id: pascale-fung
+    last: Fung
+  author_string: Ping Xu, Pascale Fung
+  bibkey: xu-fung-2012-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '766'
+  page_last: '776'
+  pages: "766\u2013776"
+  paper_id: '70'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1070.jpg
+  title: Cross-Lingual Language Modeling with Syntactic Reordering for Low-Resource
+    Speech Recognition
+  title_html: Cross-Lingual Language Modeling with Syntactic Reordering for Low-Resource
+    Speech Recognition
+  url: https://www.aclweb.org/anthology/D12-1070
+  year: '2012'
+D12-1071:
+  address: Jeju Island, Korea
+  author:
+  - first: Altaf
+    full: Altaf Rahman
+    id: altaf-rahman
+    last: Rahman
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Altaf Rahman, Vincent Ng
+  bibkey: rahman-ng-2012-resolving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '777'
+  page_last: '789'
+  pages: "777\u2013789"
+  paper_id: '71'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1071.jpg
+  title: 'Resolving Complex Cases of Definite Pronouns: The Winograd Schema Challenge'
+  title_html: 'Resolving Complex Cases of Definite Pronouns: The <span class="acl-fixed-case">W</span>inograd
+    Schema Challenge'
+  url: https://www.aclweb.org/anthology/D12-1071
+  year: '2012'
+D12-1072:
+  address: Jeju Island, Korea
+  author:
+  - first: Timothy
+    full: "Timothy O\u2019Keefe"
+    id: tim-okeefe
+    last: "O\u2019Keefe"
+  - first: Silvia
+    full: Silvia Pareti
+    id: silvia-pareti
+    last: Pareti
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  - first: Irena
+    full: Irena Koprinska
+    id: irena-koprinska
+    last: Koprinska
+  - first: Matthew
+    full: Matthew Honnibal
+    id: matthew-honnibal
+    last: Honnibal
+  author_string: "Timothy O\u2019Keefe, Silvia Pareti, James R. Curran, Irena Koprinska,\
+    \ Matthew Honnibal"
+  bibkey: okeefe-etal-2012-sequence
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '790'
+  page_last: '799'
+  pages: "790\u2013799"
+  paper_id: '72'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1072.jpg
+  title: A Sequence Labelling Approach to Quote Attribution
+  title_html: A Sequence Labelling Approach to Quote Attribution
+  url: https://www.aclweb.org/anthology/D12-1072
+  year: '2012'
+D12-1073:
+  address: Jeju Island, Korea
+  author:
+  - first: Xian-Ling
+    full: Xian-Ling Mao
+    id: xian-ling-mao
+    last: Mao
+  - first: Zhao-Yan
+    full: Zhao-Yan Ming
+    id: zhaoyan-ming
+    last: Ming
+  - first: Tat-Seng
+    full: Tat-Seng Chua
+    id: tat-seng-chua
+    last: Chua
+  - first: Si
+    full: Si Li
+    id: si-li
+    last: Li
+  - first: Hongfei
+    full: Hongfei Yan
+    id: hongfei-yan
+    last: Yan
+  - first: Xiaoming
+    full: Xiaoming Li
+    id: xiaoming-li
+    last: Li
+  author_string: Xian-Ling Mao, Zhao-Yan Ming, Tat-Seng Chua, Si Li, Hongfei Yan,
+    Xiaoming Li
+  bibkey: mao-etal-2012-sshlda
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '800'
+  page_last: '809'
+  pages: "800\u2013809"
+  paper_id: '73'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1073.jpg
+  title: 'SSHLDA: A Semi-Supervised Hierarchical Topic Model'
+  title_html: '<span class="acl-fixed-case">SSHLDA</span>: A Semi-Supervised Hierarchical
+    Topic Model'
+  url: https://www.aclweb.org/anthology/D12-1073
+  year: '2012'
+D12-1074:
+  address: Jeju Island, Korea
+  author:
+  - first: Jason
+    full: Jason Naradowsky
+    id: jason-naradowsky
+    last: Naradowsky
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  - first: David
+    full: David Smith
+    id: david-a-smith
+    last: Smith
+  author_string: Jason Naradowsky, Sebastian Riedel, David Smith
+  bibkey: naradowsky-etal-2012-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '810'
+  page_last: '820'
+  pages: "810\u2013820"
+  paper_id: '74'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1074.jpg
+  title: Improving NLP through Marginalization of Hidden Syntactic Structure
+  title_html: Improving <span class="acl-fixed-case">NLP</span> through Marginalization
+    of Hidden Syntactic Structure
+  url: https://www.aclweb.org/anthology/D12-1074
+  year: '2012'
+D12-1075:
+  address: Jeju Island, Korea
+  author:
+  - first: Dan
+    full: Dan Garrette
+    id: dan-garrette
+    last: Garrette
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  author_string: Dan Garrette, Jason Baldridge
+  bibkey: garrette-baldridge-2012-type
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '821'
+  page_last: '831'
+  pages: "821\u2013831"
+  paper_id: '75'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1075.jpg
+  title: Type-Supervised Hidden Markov Models for Part-of-Speech Tagging with Incomplete
+    Tag Dictionaries
+  title_html: Type-Supervised Hidden <span class="acl-fixed-case">M</span>arkov Models
+    for Part-of-Speech Tagging with Incomplete Tag Dictionaries
+  url: https://www.aclweb.org/anthology/D12-1075
+  year: '2012'
+D12-1076:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1076.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1076.Attachment.pdf
+  author:
+  - first: Liwei
+    full: Liwei Chen
+    id: liwei-chen
+    last: Chen
+  - first: Yansong
+    full: Yansong Feng
+    id: yansong-feng
+    last: Feng
+  - first: Lei
+    full: Lei Zou
+    id: lei-zou
+    last: Zou
+  - first: Dongyan
+    full: Dongyan Zhao
+    id: dongyan-zhao
+    last: Zhao
+  author_string: Liwei Chen, Yansong Feng, Lei Zou, Dongyan Zhao
+  bibkey: chen-etal-2012-explore
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '832'
+  page_last: '842'
+  pages: "832\u2013842"
+  paper_id: '76'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1076.jpg
+  title: Explore Person Specific Evidence in Web Person Name Disambiguation
+  title_html: Explore Person Specific Evidence in Web Person Name Disambiguation
+  url: https://www.aclweb.org/anthology/D12-1076
+  year: '2012'
+D12-1077:
+  address: Jeju Island, Korea
+  author:
+  - first: Graham
+    full: Graham Neubig
+    id: graham-neubig
+    last: Neubig
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Shinsuke
+    full: Shinsuke Mori
+    id: shinsuke-mori
+    last: Mori
+  author_string: Graham Neubig, Taro Watanabe, Shinsuke Mori
+  bibkey: neubig-etal-2012-inducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '843'
+  page_last: '853'
+  pages: "843\u2013853"
+  paper_id: '77'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1077.jpg
+  title: Inducing a Discriminative Parser to Optimize Machine Translation Reordering
+  title_html: Inducing a Discriminative Parser to Optimize Machine Translation Reordering
+  url: https://www.aclweb.org/anthology/D12-1077
+  year: '2012'
+D12-1078:
+  address: Jeju Island, Korea
+  author:
+  - first: Shujie
+    full: Shujie Liu
+    id: shujie-liu
+    last: Liu
+  - first: Chi-Ho
+    full: Chi-Ho Li
+    id: chi-ho-li
+    last: Li
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Shujie Liu, Chi-Ho Li, Mu Li, Ming Zhou
+  bibkey: liu-etal-2012-training
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '854'
+  page_last: '862'
+  pages: "854\u2013862"
+  paper_id: '78'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1078.jpg
+  title: Re-training Monolingual Parser Bilingually for Syntactic SMT
+  title_html: Re-training Monolingual Parser Bilingually for Syntactic <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/D12-1078
+  year: '2012'
+D12-1079:
+  address: Jeju Island, Korea
+  author:
+  - first: David
+    full: David Burkett
+    id: david-burkett
+    last: Burkett
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: David Burkett, Dan Klein
+  bibkey: burkett-klein-2012-transforming
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '863'
+  page_last: '872'
+  pages: "863\u2013872"
+  paper_id: '79'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1079.jpg
+  title: Transforming Trees to Improve Syntactic Convergence
+  title_html: Transforming Trees to Improve Syntactic Convergence
+  url: https://www.aclweb.org/anthology/D12-1079
+  year: '2012'
+D12-1080:
+  address: Jeju Island, Korea
+  author:
+  - first: David
+    full: David McClosky
+    id: david-mcclosky
+    last: McClosky
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: David McClosky, Christopher D. Manning
+  bibkey: mcclosky-manning-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '873'
+  page_last: '882'
+  pages: "873\u2013882"
+  paper_id: '80'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1080.jpg
+  title: Learning Constraints for Consistent Timeline Extraction
+  title_html: Learning Constraints for Consistent Timeline Extraction
+  url: https://www.aclweb.org/anthology/D12-1080
+  year: '2012'
+D12-1081:
+  address: Jeju Island, Korea
+  author:
+  - first: Yohei
+    full: Yohei Takaku
+    id: yohei-takaku
+    last: Takaku
+  - first: Nobuhiro
+    full: Nobuhiro Kaji
+    id: nobuhiro-kaji
+    last: Kaji
+  - first: Naoki
+    full: Naoki Yoshinaga
+    id: naoki-yoshinaga
+    last: Yoshinaga
+  - first: Masashi
+    full: Masashi Toyoda
+    id: masashi-toyoda
+    last: Toyoda
+  author_string: Yohei Takaku, Nobuhiro Kaji, Naoki Yoshinaga, Masashi Toyoda
+  bibkey: takaku-etal-2012-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '883'
+  page_last: '892'
+  pages: "883\u2013892"
+  paper_id: '81'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1081.jpg
+  title: Identifying Constant and Unique Relations by using Time-Series Text
+  title_html: Identifying Constant and Unique Relations by using Time-Series Text
+  url: https://www.aclweb.org/anthology/D12-1081
+  year: '2012'
+D12-1082:
+  address: Jeju Island, Korea
+  author:
+  - first: Thomas
+    full: Thomas Lin
+    id: thomas-lin
+    last: Lin
+  - first: ''
+    full: Mausam
+    id: mausam
+    last: Mausam
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Thomas Lin, Mausam, Oren Etzioni
+  bibkey: lin-etal-2012-noun
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '893'
+  page_last: '903'
+  pages: "893\u2013903"
+  paper_id: '82'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1082.jpg
+  title: 'No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities'
+  title_html: 'No Noun Phrase Left Behind: Detecting and Typing Unlinkable Entities'
+  url: https://www.aclweb.org/anthology/D12-1082
+  year: '2012'
+D12-1083:
+  address: Jeju Island, Korea
+  author:
+  - first: Shafiq
+    full: Shafiq Joty
+    id: shafiq-joty
+    last: Joty
+  - first: Giuseppe
+    full: Giuseppe Carenini
+    id: giuseppe-carenini
+    last: Carenini
+  - first: Raymond
+    full: Raymond Ng
+    id: raymond-ng
+    last: Ng
+  author_string: Shafiq Joty, Giuseppe Carenini, Raymond Ng
+  bibkey: joty-etal-2012-novel
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '904'
+  page_last: '915'
+  pages: "904\u2013915"
+  paper_id: '83'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1083.jpg
+  title: A Novel Discriminative Framework for Sentence-Level Discourse Analysis
+  title_html: A Novel Discriminative Framework for Sentence-Level Discourse Analysis
+  url: https://www.aclweb.org/anthology/D12-1083
+  year: '2012'
+D12-1084:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1084.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1084.Attachment.zip
+  author:
+  - first: Michaela
+    full: Michaela Regneri
+    id: michaela-regneri
+    last: Regneri
+  - first: Rui
+    full: Rui Wang
+    id: rui-wang
+    last: Wang
+  author_string: Michaela Regneri, Rui Wang
+  bibkey: regneri-wang-2012-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '916'
+  page_last: '927'
+  pages: "916\u2013927"
+  paper_id: '84'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1084.jpg
+  title: Using Discourse Information for Paraphrase Extraction
+  title_html: Using Discourse Information for Paraphrase Extraction
+  url: https://www.aclweb.org/anthology/D12-1084
+  year: '2012'
+D12-1085:
+  address: Jeju Island, Korea
+  author:
+  - first: Bernd
+    full: Bernd Bohnet
+    id: bernd-bohnet
+    last: Bohnet
+  - first: Anders
+    full: "Anders Bj\xF6rkelund"
+    id: anders-bjorkelund
+    last: "Bj\xF6rkelund"
+  - first: Jonas
+    full: Jonas Kuhn
+    id: jonas-kuhn
+    last: Kuhn
+  - first: Wolfgang
+    full: Wolfgang Seeker
+    id: wolfgang-seeker
+    last: Seeker
+  - first: Sina
+    full: Sina Zarriess
+    id: sina-zarriess
+    last: Zarriess
+  author_string: "Bernd Bohnet, Anders Bj\xF6rkelund, Jonas Kuhn, Wolfgang Seeker,\
+    \ Sina Zarriess"
+  bibkey: bohnet-etal-2012-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '928'
+  page_last: '939'
+  pages: "928\u2013939"
+  paper_id: '85'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1085.jpg
+  title: Generating Non-Projective Word Order in Statistical Linearization
+  title_html: Generating Non-Projective Word Order in Statistical Linearization
+  url: https://www.aclweb.org/anthology/D12-1085
+  year: '2012'
+D12-1086:
+  address: Jeju Island, Korea
+  author:
+  - first: Mehmet Ali
+    full: Mehmet Ali Yatbaz
+    id: mehmet-ali-yatbaz
+    last: Yatbaz
+  - first: Enis
+    full: Enis Sert
+    id: enis-sert
+    last: Sert
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  author_string: Mehmet Ali Yatbaz, Enis Sert, Deniz Yuret
+  bibkey: yatbaz-etal-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '940'
+  page_last: '951'
+  pages: "940\u2013951"
+  paper_id: '86'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1086.jpg
+  title: Learning Syntactic Categories Using Paradigmatic Representations of Word
+    Context
+  title_html: Learning Syntactic Categories Using Paradigmatic Representations of
+    Word Context
+  url: https://www.aclweb.org/anthology/D12-1086
+  year: '2012'
+D12-1087:
+  address: Jeju Island, Korea
+  author:
+  - first: Keith
+    full: Keith Stevens
+    id: keith-stevens
+    last: Stevens
+  - first: Philip
+    full: Philip Kegelmeyer
+    id: philip-kegelmeyer
+    last: Kegelmeyer
+  - first: David
+    full: David Andrzejewski
+    id: david-andrzejewski
+    last: Andrzejewski
+  - first: David
+    full: David Buttler
+    id: david-buttler
+    last: Buttler
+  author_string: Keith Stevens, Philip Kegelmeyer, David Andrzejewski, David Buttler
+  bibkey: stevens-etal-2012-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '952'
+  page_last: '961'
+  pages: "952\u2013961"
+  paper_id: '87'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1087.jpg
+  title: Exploring Topic Coherence over Many Models and Many Topics
+  title_html: Exploring Topic Coherence over Many Models and Many Topics
+  url: https://www.aclweb.org/anthology/D12-1087
+  year: '2012'
+D12-1088:
+  address: Jeju Island, Korea
+  author:
+  - first: Wang
+    full: Wang Ling
+    id: wang-ling
+    last: Ling
+  - first: "Jo\xE3o"
+    full: "Jo\xE3o Gra\xE7a"
+    id: joao-graca
+    last: "Gra\xE7a"
+  - first: Isabel
+    full: Isabel Trancoso
+    id: isabel-trancoso
+    last: Trancoso
+  - first: Alan
+    full: Alan Black
+    id: alan-w-black
+    last: Black
+  author_string: "Wang Ling, Jo\xE3o Gra\xE7a, Isabel Trancoso, Alan Black"
+  bibkey: ling-etal-2012-entropy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '962'
+  page_last: '971'
+  pages: "962\u2013971"
+  paper_id: '88'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1088.jpg
+  title: Entropy-based Pruning for Phrase-based Machine Translation
+  title_html: Entropy-based Pruning for Phrase-based Machine Translation
+  url: https://www.aclweb.org/anthology/D12-1088
+  year: '2012'
+D12-1089:
+  address: Jeju Island, Korea
+  author:
+  - first: Richard
+    full: Richard Zens
+    id: richard-zens
+    last: Zens
+  - first: Daisy
+    full: Daisy Stanton
+    id: daisy-stanton
+    last: Stanton
+  - first: Peng
+    full: Peng Xu
+    id: peng-xu
+    last: Xu
+  author_string: Richard Zens, Daisy Stanton, Peng Xu
+  bibkey: zens-etal-2012-systematic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '972'
+  page_last: '983'
+  pages: "972\u2013983"
+  paper_id: '89'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1089.jpg
+  title: A Systematic Comparison of Phrase Table Pruning Techniques
+  title_html: A Systematic Comparison of Phrase Table Pruning Techniques
+  url: https://www.aclweb.org/anthology/D12-1089
+  year: '2012'
+D12-1090:
+  address: Jeju Island, Korea
+  author:
+  - first: Mengqiu
+    full: Mengqiu Wang
+    id: mengqiu-wang
+    last: Wang
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Mengqiu Wang, Christopher D. Manning
+  bibkey: wang-manning-2012-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '984'
+  page_last: '994'
+  pages: "984\u2013994"
+  paper_id: '90'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1090.jpg
+  title: Probabilistic Finite State Machines for Regression-based MT Evaluation
+  title_html: Probabilistic Finite State Machines for Regression-based <span class="acl-fixed-case">MT</span>
+    Evaluation
+  url: https://www.aclweb.org/anthology/D12-1090
+  year: '2012'
+D12-1091:
+  address: Jeju Island, Korea
+  author:
+  - first: Taylor
+    full: Taylor Berg-Kirkpatrick
+    id: taylor-berg-kirkpatrick
+    last: Berg-Kirkpatrick
+  - first: David
+    full: David Burkett
+    id: david-burkett
+    last: Burkett
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Taylor Berg-Kirkpatrick, David Burkett, Dan Klein
+  bibkey: berg-kirkpatrick-etal-2012-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '995'
+  page_last: '1005'
+  pages: "995\u20131005"
+  paper_id: '91'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1091.jpg
+  title: An Empirical Investigation of Statistical Significance in NLP
+  title_html: An Empirical Investigation of Statistical Significance in <span class="acl-fixed-case">NLP</span>
+  url: https://www.aclweb.org/anthology/D12-1091
+  year: '2012'
+D12-1092:
+  address: Jeju Island, Korea
+  author:
+  - first: Peifeng
+    full: Peifeng Li
+    id: peifeng-li
+    last: Li
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Qiaoming
+    full: Qiaoming Zhu
+    id: qiaoming-zhu
+    last: Zhu
+  - first: Libin
+    full: Libin Hou
+    id: libin-hou
+    last: Hou
+  author_string: Peifeng Li, Guodong Zhou, Qiaoming Zhu, Libin Hou
+  bibkey: li-etal-2012-employing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1006'
+  page_last: '1016'
+  pages: "1006\u20131016"
+  paper_id: '92'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1092.jpg
+  title: Employing Compositional Semantics and Discourse Consistency in Chinese Event
+    Extraction
+  title_html: Employing Compositional Semantics and Discourse Consistency in <span
+    class="acl-fixed-case">C</span>hinese Event Extraction
+  url: https://www.aclweb.org/anthology/D12-1092
+  year: '2012'
+D12-1093:
+  address: Jeju Island, Korea
+  author:
+  - first: Ni
+    full: Ni Lao
+    id: ni-lao
+    last: Lao
+  - first: Amarnag
+    full: Amarnag Subramanya
+    id: amarnag-subramanya
+    last: Subramanya
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  author_string: Ni Lao, Amarnag Subramanya, Fernando Pereira, William W. Cohen
+  bibkey: lao-etal-2012-reading
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1017'
+  page_last: '1026'
+  pages: "1017\u20131026"
+  paper_id: '93'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1093.jpg
+  title: Reading The Web with Learned Syntactic-Semantic Inference Rules
+  title_html: Reading The Web with Learned Syntactic-Semantic Inference Rules
+  url: https://www.aclweb.org/anthology/D12-1093
+  year: '2012'
+D12-1094:
+  address: Jeju Island, Korea
+  author:
+  - first: Bonan
+    full: Bonan Min
+    id: bonan-min
+    last: Min
+  - first: Shuming
+    full: Shuming Shi
+    id: shuming-shi
+    last: Shi
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  author_string: Bonan Min, Shuming Shi, Ralph Grishman, Chin-Yew Lin
+  bibkey: min-etal-2012-ensemble
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1027'
+  page_last: '1037'
+  pages: "1027\u20131037"
+  paper_id: '94'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1094.jpg
+  title: Ensemble Semantics for Large-scale Unsupervised Relation Extraction
+  title_html: Ensemble Semantics for Large-scale Unsupervised Relation Extraction
+  url: https://www.aclweb.org/anthology/D12-1094
+  year: '2012'
+D12-1095:
+  address: Jeju Island, Korea
+  author:
+  - first: "Rich\xE1rd"
+    full: "Rich\xE1rd Farkas"
+    id: richard-farkas
+    last: Farkas
+  - first: Helmut
+    full: Helmut Schmid
+    id: helmut-schmid
+    last: Schmid
+  author_string: "Rich\xE1rd Farkas, Helmut Schmid"
+  bibkey: farkas-schmid-2012-forest
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1038'
+  page_last: '1047'
+  pages: "1038\u20131047"
+  paper_id: '95'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1095.jpg
+  title: Forest Reranking through Subtree Ranking
+  title_html: Forest Reranking through Subtree Ranking
+  url: https://www.aclweb.org/anthology/D12-1095
+  year: '2012'
+D12-1096:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1096.Attachment.gz
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1096.Attachment.gz
+  author:
+  - first: Jonathan K.
+    full: Jonathan K. Kummerfeld
+    id: jonathan-k-kummerfeld
+    last: Kummerfeld
+  - first: David
+    full: David Hall
+    id: david-hall
+    last: Hall
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Jonathan K. Kummerfeld, David Hall, James R. Curran, Dan Klein
+  bibkey: kummerfeld-etal-2012-parser
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1048'
+  page_last: '1059'
+  pages: "1048\u20131059"
+  paper_id: '96'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1096.jpg
+  title: 'Parser Showdown at the Wall Street Corral: An Empirical Investigation of
+    Error Types in Parser Output'
+  title_html: 'Parser Showdown at the Wall Street Corral: An Empirical Investigation
+    of Error Types in Parser Output'
+  url: https://www.aclweb.org/anthology/D12-1096
+  year: '2012'
+D12-1097:
+  address: Jeju Island, Korea
+  author:
+  - first: Billy T. M.
+    full: Billy T. M. Wong
+    id: billy-t-m-wong
+    last: Wong
+  - first: Chunyu
+    full: Chunyu Kit
+    id: chunyu-kit
+    last: Kit
+  author_string: Billy T. M. Wong, Chunyu Kit
+  bibkey: wong-kit-2012-extending
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1060'
+  page_last: '1068'
+  pages: "1060\u20131068"
+  paper_id: '97'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1097.jpg
+  title: Extending Machine Translation Evaluation Metrics with Lexical Cohesion to
+    Document Level
+  title_html: Extending Machine Translation Evaluation Metrics with Lexical Cohesion
+    to Document Level
+  url: https://www.aclweb.org/anthology/D12-1097
+  year: '2012'
+D12-1098:
+  address: Jeju Island, Korea
+  author:
+  - first: Amit
+    full: Amit Goyal
+    id: amit-goyal
+    last: Goyal
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Raul
+    full: Raul Guerra
+    id: raul-guerra
+    last: Guerra
+  author_string: "Amit Goyal, Hal Daum\xE9 III, Raul Guerra"
+  bibkey: goyal-etal-2012-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1069'
+  page_last: '1080'
+  pages: "1069\u20131080"
+  paper_id: '98'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1098.jpg
+  title: Fast Large-Scale Approximate Graph Construction for NLP
+  title_html: Fast Large-Scale Approximate Graph Construction for <span class="acl-fixed-case">NLP</span>
+  url: https://www.aclweb.org/anthology/D12-1098
+  year: '2012'
+D12-1099:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1099.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1099.Attachment.zip
+  author:
+  - first: Doo Soon
+    full: Doo Soon Kim
+    id: doo-soon-kim
+    last: Kim
+  - first: Kunal
+    full: Kunal Verma
+    id: kunal-verma
+    last: Verma
+  - first: Peter
+    full: Peter Yeh
+    id: peter-yeh
+    last: Yeh
+  author_string: Doo Soon Kim, Kunal Verma, Peter Yeh
+  bibkey: kim-etal-2012-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1081'
+  page_last: '1092'
+  pages: "1081\u20131092"
+  paper_id: '99'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1099.jpg
+  title: Building a Lightweight Semantic Model for Unsupervised Information Extraction
+    on Short Listings
+  title_html: Building a Lightweight Semantic Model for Unsupervised Information Extraction
+    on Short Listings
+  url: https://www.aclweb.org/anthology/D12-1099
+  year: '2012'
+D12-1100:
+  address: Jeju Island, Korea
+  author:
+  - first: Amit
+    full: Amit Goyal
+    id: amit-goyal
+    last: Goyal
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Graham
+    full: Graham Cormode
+    id: graham-cormode
+    last: Cormode
+  author_string: "Amit Goyal, Hal Daum\xE9 III, Graham Cormode"
+  bibkey: goyal-etal-2012-sketch
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1093'
+  page_last: '1103'
+  pages: "1093\u20131103"
+  paper_id: '100'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1100.jpg
+  title: Sketch Algorithms for Estimating Point Queries in NLP
+  title_html: Sketch Algorithms for Estimating Point Queries in <span class="acl-fixed-case">NLP</span>
+  url: https://www.aclweb.org/anthology/D12-1100
+  year: '2012'
+D12-1101:
+  address: Jeju Island, Korea
+  author:
+  - first: Sameer
+    full: Sameer Singh
+    id: sameer-singh
+    last: Singh
+  - first: Michael
+    full: Michael Wick
+    id: michael-wick
+    last: Wick
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Sameer Singh, Michael Wick, Andrew McCallum
+  bibkey: singh-etal-2012-monte-carlo
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1104'
+  page_last: '1113'
+  pages: "1104\u20131113"
+  paper_id: '101'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1101.jpg
+  title: 'Monte Carlo MCMC: Efficient Inference by Approximate Sampling'
+  title_html: 'Monte <span class="acl-fixed-case">C</span>arlo <span class="acl-fixed-case">MCMC</span>:
+    Efficient Inference by Approximate Sampling'
+  url: https://www.aclweb.org/anthology/D12-1101
+  year: '2012'
+D12-1102:
+  address: Jeju Island, Korea
+  author:
+  - first: Vivek
+    full: Vivek Srikumar
+    id: vivek-srikumar
+    last: Srikumar
+  - first: Gourab
+    full: Gourab Kundu
+    id: gourab-kundu
+    last: Kundu
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Vivek Srikumar, Gourab Kundu, Dan Roth
+  bibkey: srikumar-etal-2012-amortizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1114'
+  page_last: '1124'
+  pages: "1114\u20131124"
+  paper_id: '102'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1102.jpg
+  title: On Amortizing Inference Cost for Structured Prediction
+  title_html: On Amortizing Inference Cost for Structured Prediction
+  url: https://www.aclweb.org/anthology/D12-1102
+  year: '2012'
+D12-1103:
+  address: Jeju Island, Korea
+  author:
+  - first: Simon
+    full: Simon Carter
+    id: simon-carter
+    last: Carter
+  - first: Marc
+    full: Marc Dymetman
+    id: marc-dymetman
+    last: Dymetman
+  - first: Guillaume
+    full: Guillaume Bouchard
+    id: guillaume-bouchard
+    last: Bouchard
+  author_string: Simon Carter, Marc Dymetman, Guillaume Bouchard
+  bibkey: carter-etal-2012-exact
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1125'
+  page_last: '1134'
+  pages: "1125\u20131134"
+  paper_id: '103'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1103.jpg
+  title: Exact Sampling and Decoding in High-Order Hidden Markov Models
+  title_html: Exact Sampling and Decoding in High-Order Hidden <span class="acl-fixed-case">M</span>arkov
+    Models
+  url: https://www.aclweb.org/anthology/D12-1103
+  year: '2012'
+D12-1104:
+  address: Jeju Island, Korea
+  author:
+  - first: Ndapandula
+    full: Ndapandula Nakashole
+    id: ndapandula-nakashole
+    last: Nakashole
+  - first: Gerhard
+    full: Gerhard Weikum
+    id: gerhard-weikum
+    last: Weikum
+  - first: Fabian
+    full: Fabian Suchanek
+    id: fabian-suchanek
+    last: Suchanek
+  author_string: Ndapandula Nakashole, Gerhard Weikum, Fabian Suchanek
+  bibkey: nakashole-etal-2012-patty
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1135'
+  page_last: '1145'
+  pages: "1135\u20131145"
+  paper_id: '104'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1104.jpg
+  title: 'PATTY: A Taxonomy of Relational Patterns with Semantic Types'
+  title_html: '<span class="acl-fixed-case">PATTY</span>: A Taxonomy of Relational
+    Patterns with Semantic Types'
+  url: https://www.aclweb.org/anthology/D12-1104
+  year: '2012'
+D12-1105:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1105.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1105.Attachment.zip
+  author:
+  - first: David
+    full: David Hall
+    id: david-hall
+    last: Hall
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: David Hall, Dan Klein
+  bibkey: hall-klein-2012-training
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1146'
+  page_last: '1156'
+  pages: "1146\u20131156"
+  paper_id: '105'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1105.jpg
+  title: Training Factored PCFGs with Expectation Propagation
+  title_html: Training Factored <span class="acl-fixed-case">PCFG</span>s with Expectation
+    Propagation
+  url: https://www.aclweb.org/anthology/D12-1105
+  year: '2012'
+D12-1106:
+  address: Jeju Island, Korea
+  author:
+  - first: Annie
+    full: Annie Louis
+    id: annie-louis
+    last: Louis
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  author_string: Annie Louis, Ani Nenkova
+  bibkey: louis-nenkova-2012-coherence
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1157'
+  page_last: '1168'
+  pages: "1157\u20131168"
+  paper_id: '106'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1106.jpg
+  title: A Coherence Model Based on Syntactic Patterns
+  title_html: A Coherence Model Based on Syntactic Patterns
+  url: https://www.aclweb.org/anthology/D12-1106
+  year: '2012'
+D12-1107:
+  address: Jeju Island, Korea
+  author:
+  - first: Kenneth
+    full: Kenneth Heafield
+    id: kenneth-heafield
+    last: Heafield
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Alon
+    full: Alon Lavie
+    id: alon-lavie
+    last: Lavie
+  author_string: Kenneth Heafield, Philipp Koehn, Alon Lavie
+  bibkey: heafield-etal-2012-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1169'
+  page_last: '1178'
+  pages: "1169\u20131178"
+  paper_id: '107'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1107.jpg
+  title: Language Model Rest Costs and Space-Efficient Storage
+  title_html: Language Model Rest Costs and Space-Efficient Storage
+  url: https://www.aclweb.org/anthology/D12-1107
+  year: '2012'
+D12-1108:
+  address: Jeju Island, Korea
+  author:
+  - first: Christian
+    full: Christian Hardmeier
+    id: christian-hardmeier
+    last: Hardmeier
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: "J\xF6rg"
+    full: "J\xF6rg Tiedemann"
+    id: jorg-tiedemann
+    last: Tiedemann
+  author_string: "Christian Hardmeier, Joakim Nivre, J\xF6rg Tiedemann"
+  bibkey: hardmeier-etal-2012-document
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1179'
+  page_last: '1190'
+  pages: "1179\u20131190"
+  paper_id: '108'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1108.jpg
+  title: Document-Wide Decoding for Phrase-Based Statistical Machine Translation
+  title_html: Document-Wide Decoding for Phrase-Based Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D12-1108
+  year: '2012'
+D12-1109:
+  address: Jeju Island, Korea
+  author:
+  - first: Yang
+    full: Yang Feng
+    id: yang-feng
+    last: Feng
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  author_string: Yang Feng, Yang Liu, Qun Liu, Trevor Cohn
+  bibkey: feng-etal-2012-left
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1191'
+  page_last: '1200'
+  pages: "1191\u20131200"
+  paper_id: '109'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1109.jpg
+  title: Left-to-Right Tree-to-String Decoding with Prediction
+  title_html: Left-to-Right Tree-to-String Decoding with Prediction
+  url: https://www.aclweb.org/anthology/D12-1109
+  year: '2012'
+D12-1110:
+  address: Jeju Island, Korea
+  author:
+  - first: Richard
+    full: Richard Socher
+    id: richard-socher
+    last: Socher
+  - first: Brody
+    full: Brody Huval
+    id: brody-huval
+    last: Huval
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  - first: Andrew Y.
+    full: Andrew Y. Ng
+    id: andrew-y-ng
+    last: Ng
+  author_string: Richard Socher, Brody Huval, Christopher D. Manning, Andrew Y. Ng
+  bibkey: socher-etal-2012-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1201'
+  page_last: '1211'
+  pages: "1201\u20131211"
+  paper_id: '110'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1110.jpg
+  title: Semantic Compositionality through Recursive Matrix-Vector Spaces
+  title_html: Semantic Compositionality through Recursive Matrix-Vector Spaces
+  url: https://www.aclweb.org/anthology/D12-1110
+  year: '2012'
+D12-1111:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1111.Presentation.pptx
+    type: presentation
+    url: https://www.aclweb.org/anthology/attachments/D12-1111.Presentation.pptx
+  author:
+  - first: Wen-tau
+    full: Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  - first: Geoffrey
+    full: Geoffrey Zweig
+    id: geoffrey-zweig
+    last: Zweig
+  - first: John
+    full: John Platt
+    id: john-c-platt
+    last: Platt
+  author_string: Wen-tau Yih, Geoffrey Zweig, John Platt
+  bibkey: yih-etal-2012-polarity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1212'
+  page_last: '1222'
+  pages: "1212\u20131222"
+  paper_id: '111'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1111.jpg
+  title: Polarity Inducing Latent Semantic Analysis
+  title_html: Polarity Inducing Latent Semantic Analysis
+  url: https://www.aclweb.org/anthology/D12-1111
+  year: '2012'
+D12-1112:
+  address: Jeju Island, Korea
+  author:
+  - first: Gemma
+    full: Gemma Boleda
+    id: gemma-boleda
+    last: Boleda
+  - first: Eva Maria
+    full: Eva Maria Vecchi
+    id: eva-maria-vecchi
+    last: Vecchi
+  - first: Miquel
+    full: Miquel Cornudella
+    id: miquel-cornudella
+    last: Cornudella
+  - first: Louise
+    full: Louise McNally
+    id: louise-mcnally
+    last: McNally
+  author_string: Gemma Boleda, Eva Maria Vecchi, Miquel Cornudella, Louise McNally
+  bibkey: boleda-etal-2012-first
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1223'
+  page_last: '1233'
+  pages: "1223\u20131233"
+  paper_id: '112'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1112.jpg
+  title: First Order vs. Higher Order Modification in Distributional Semantics
+  title_html: First Order vs. Higher Order Modification in Distributional Semantics
+  url: https://www.aclweb.org/anthology/D12-1112
+  year: '2012'
+D12-1113:
+  address: Jeju Island, Korea
+  author:
+  - first: Lev
+    full: Lev Ratinov
+    id: lev-ratinov
+    last: Ratinov
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Lev Ratinov, Dan Roth
+  bibkey: ratinov-roth-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1234'
+  page_last: '1244'
+  pages: "1234\u20131244"
+  paper_id: '113'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1113.jpg
+  title: Learning-based Multi-Sieve Co-reference Resolution with Knowledge
+  title_html: Learning-based Multi-Sieve Co-reference Resolution with Knowledge
+  url: https://www.aclweb.org/anthology/D12-1113
+  year: '2012'
+D12-1114:
+  address: Jeju Island, Korea
+  author:
+  - first: Yang
+    full: Yang Song
+    id: yang-song
+    last: Song
+  - first: Jing
+    full: Jing Jiang
+    id: jing-jiang
+    last: Jiang
+  - first: Wayne Xin
+    full: Wayne Xin Zhao
+    id: wayne-xin-zhao
+    last: Zhao
+  - first: Sujian
+    full: Sujian Li
+    id: sujian-li
+    last: Li
+  - first: Houfeng
+    full: Houfeng Wang
+    id: houfeng-wang
+    last: Wang
+  author_string: Yang Song, Jing Jiang, Wayne Xin Zhao, Sujian Li, Houfeng Wang
+  bibkey: song-etal-2012-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1245'
+  page_last: '1254'
+  pages: "1245\u20131254"
+  paper_id: '114'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1114.jpg
+  title: Joint Learning for Coreference Resolution with Markov Logic
+  title_html: Joint Learning for Coreference Resolution with <span class="acl-fixed-case">M</span>arkov
+    Logic
+  url: https://www.aclweb.org/anthology/D12-1114
+  year: '2012'
+D12-1115:
+  address: Jeju Island, Korea
+  author:
+  - first: Varada
+    full: Varada Kolhatkar
+    id: varada-kolhatkar
+    last: Kolhatkar
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Varada Kolhatkar, Graeme Hirst
+  bibkey: kolhatkar-hirst-2012-resolving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1255'
+  page_last: '1265'
+  pages: "1255\u20131265"
+  paper_id: '115'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1115.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1115.jpg
+  title: "Resolving \u201CThis-issue\u201D Anaphora"
+  title_html: "Resolving \u201CThis-issue\u201D Anaphora"
+  url: https://www.aclweb.org/anthology/D12-1115
+  year: '2012'
+D12-1116:
+  address: Jeju Island, Korea
+  author:
+  - first: Amit
+    full: Amit Singh
+    id: amit-singh
+    last: Singh
+  author_string: Amit Singh
+  bibkey: singh-2012-entity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1266'
+  page_last: '1277'
+  pages: "1266\u20131277"
+  paper_id: '116'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1116.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1116.jpg
+  title: Entity based Q&A Retrieval
+  title_html: Entity based Q&amp;A Retrieval
+  url: https://www.aclweb.org/anthology/D12-1116
+  year: '2012'
+D12-1117:
+  address: Jeju Island, Korea
+  author:
+  - first: Hui
+    full: Hui Yang
+    id: hui-yang
+    last: Yang
+  author_string: Hui Yang
+  bibkey: yang-2012-constructing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1278'
+  page_last: '1289'
+  pages: "1278\u20131289"
+  paper_id: '117'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1117.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1117.jpg
+  title: Constructing Task-Specific Taxonomies for Document Collection Browsing
+  title_html: Constructing Task-Specific Taxonomies for Document Collection Browsing
+  url: https://www.aclweb.org/anthology/D12-1117
+  year: '2012'
+D12-1118:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1118.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1118.Attachment.pdf
+  author:
+  - first: Jordan
+    full: Jordan Boyd-Graber
+    id: jordan-boyd-graber
+    last: Boyd-Graber
+  - first: Brianna
+    full: Brianna Satinoff
+    id: brianna-satinoff
+    last: Satinoff
+  - first: He
+    full: He He
+    id: he-he
+    last: He
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  author_string: "Jordan Boyd-Graber, Brianna Satinoff, He He, Hal Daum\xE9 III"
+  bibkey: boyd-graber-etal-2012-besting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1290'
+  page_last: '1301'
+  pages: "1290\u20131301"
+  paper_id: '118'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1118.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1118.jpg
+  title: 'Besting the Quiz Master: Crowdsourcing Incremental Classification Games'
+  title_html: 'Besting the Quiz Master: Crowdsourcing Incremental Classification Games'
+  url: https://www.aclweb.org/anthology/D12-1118
+  year: '2012'
+D12-1119:
+  address: Jeju Island, Korea
+  author:
+  - first: Mahesh
+    full: Mahesh Joshi
+    id: mahesh-joshi
+    last: Joshi
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  - first: Carolyn
+    full: "Carolyn Ros\xE9"
+    id: carolyn-rose
+    last: "Ros\xE9"
+  author_string: "Mahesh Joshi, Mark Dredze, William W. Cohen, Carolyn Ros\xE9"
+  bibkey: joshi-etal-2012-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1302'
+  page_last: '1312'
+  pages: "1302\u20131312"
+  paper_id: '119'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1119.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1119.jpg
+  title: 'Multi-Domain Learning: When Do Domains Matter?'
+  title_html: 'Multi-Domain Learning: When Do Domains Matter?'
+  url: https://www.aclweb.org/anthology/D12-1119
+  year: '2012'
+D12-1120:
+  address: Jeju Island, Korea
+  author:
+  - first: Fei
+    full: Fei Huang
+    id: fei-huang
+    last: Huang
+  - first: Alexander
+    full: Alexander Yates
+    id: alexander-yates
+    last: Yates
+  author_string: Fei Huang, Alexander Yates
+  bibkey: huang-yates-2012-biased
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1313'
+  page_last: '1323'
+  pages: "1313\u20131323"
+  paper_id: '120'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1120.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1120.jpg
+  title: Biased Representation Learning for Domain Adaptation
+  title_html: Biased Representation Learning for Domain Adaptation
+  url: https://www.aclweb.org/anthology/D12-1120
+  year: '2012'
+D12-1121:
+  address: Jeju Island, Korea
+  author:
+  - first: Kewei
+    full: Kewei Tu
+    id: kewei-tu
+    last: Tu
+  - first: Vasant
+    full: Vasant Honavar
+    id: vasant-honavar
+    last: Honavar
+  author_string: Kewei Tu, Vasant Honavar
+  bibkey: tu-honavar-2012-unambiguity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1324'
+  page_last: '1334'
+  pages: "1324\u20131334"
+  paper_id: '121'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1121.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1121.jpg
+  title: Unambiguity Regularization for Unsupervised Learning of Probabilistic Grammars
+  title_html: Unambiguity Regularization for Unsupervised Learning of Probabilistic
+    Grammars
+  url: https://www.aclweb.org/anthology/D12-1121
+  year: '2012'
+D12-1122:
+  address: Jeju Island, Korea
+  author:
+  - first: Bishan
+    full: Bishan Yang
+    id: bishan-yang
+    last: Yang
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Bishan Yang, Claire Cardie
+  bibkey: yang-cardie-2012-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1335'
+  page_last: '1345'
+  pages: "1335\u20131345"
+  paper_id: '122'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1122.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1122.jpg
+  title: Extracting Opinion Expressions with semi-Markov Conditional Random Fields
+  title_html: Extracting Opinion Expressions with semi-<span class="acl-fixed-case">M</span>arkov
+    Conditional Random Fields
+  url: https://www.aclweb.org/anthology/D12-1122
+  year: '2012'
+D12-1123:
+  address: Jeju Island, Korea
+  author:
+  - first: Kang
+    full: Kang Liu
+    id: kang-liu
+    last: Liu
+  - first: Liheng
+    full: Liheng Xu
+    id: liheng-xu
+    last: Xu
+  - first: Jun
+    full: Jun Zhao
+    id: jun-zhao
+    last: Zhao
+  author_string: Kang Liu, Liheng Xu, Jun Zhao
+  bibkey: liu-etal-2012-opinion
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1346'
+  page_last: '1356'
+  pages: "1346\u20131356"
+  paper_id: '123'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1123.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1123.jpg
+  title: Opinion Target Extraction Using Word-Based Translation Model
+  title_html: Opinion Target Extraction Using Word-Based Translation Model
+  url: https://www.aclweb.org/anthology/D12-1123
+  year: '2012'
+D12-1124:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1124.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1124.Attachment.pdf
+  author:
+  - first: Victor
+    full: Victor Chahuneau
+    id: victor-chahuneau
+    last: Chahuneau
+  - first: Kevin
+    full: Kevin Gimpel
+    id: kevin-gimpel
+    last: Gimpel
+  - first: Bryan R.
+    full: Bryan R. Routledge
+    id: bryan-r-routledge
+    last: Routledge
+  - first: Lily
+    full: Lily Scherlis
+    id: lily-scherlis
+    last: Scherlis
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Victor Chahuneau, Kevin Gimpel, Bryan R. Routledge, Lily Scherlis,
+    Noah A. Smith
+  bibkey: chahuneau-etal-2012-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1357'
+  page_last: '1367'
+  pages: "1357\u20131367"
+  paper_id: '124'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1124.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1124.jpg
+  title: 'Word Salad: Relating Food Prices and Descriptions'
+  title_html: 'Word Salad: Relating Food Prices and Descriptions'
+  url: https://www.aclweb.org/anthology/D12-1124
+  year: '2012'
+D12-1125:
+  address: Jeju Island, Korea
+  attachment:
+  - filename: D12-1125.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D12-1125.Attachment.zip
+  author:
+  - first: Yuan
+    full: Yuan Zhang
+    id: yuan-zhang
+    last: Zhang
+  - first: Roi
+    full: Roi Reichart
+    id: roi-reichart
+    last: Reichart
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Amir
+    full: Amir Globerson
+    id: amir-globerson
+    last: Globerson
+  author_string: Yuan Zhang, Roi Reichart, Regina Barzilay, Amir Globerson
+  bibkey: zhang-etal-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1368'
+  page_last: '1378'
+  pages: "1368\u20131378"
+  paper_id: '125'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1125.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1125.jpg
+  title: Learning to Map into a Universal POS Tagset
+  title_html: Learning to Map into a Universal <span class="acl-fixed-case">POS</span>
+    Tagset
+  url: https://www.aclweb.org/anthology/D12-1125
+  year: '2012'
+D12-1126:
+  address: Jeju Island, Korea
+  author:
+  - first: Jiayi
+    full: Jiayi Zhao
+    id: jiayi-zhao
+    last: Zhao
+  - first: Xipeng
+    full: Xipeng Qiu
+    id: xipeng-qiu
+    last: Qiu
+  - first: Shu
+    full: Shu Zhang
+    id: shu-zhang
+    last: Zhang
+  - first: Feng
+    full: Feng Ji
+    id: feng-ji
+    last: Ji
+  - first: Xuanjing
+    full: Xuanjing Huang
+    id: xuan-jing-huang
+    last: Huang
+  author_string: Jiayi Zhao, Xipeng Qiu, Shu Zhang, Feng Ji, Xuanjing Huang
+  bibkey: zhao-etal-2012-part
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1379'
+  page_last: '1388'
+  pages: "1379\u20131388"
+  paper_id: '126'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1126.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1126.jpg
+  title: Part-of-Speech Tagging for Chinese-English Mixed Texts with Dynamic Features
+  title_html: Part-of-Speech Tagging for <span class="acl-fixed-case">C</span>hinese-<span
+    class="acl-fixed-case">E</span>nglish Mixed Texts with Dynamic Features
+  url: https://www.aclweb.org/anthology/D12-1126
+  year: '2012'
+D12-1127:
+  address: Jeju Island, Korea
+  author:
+  - first: Shen
+    full: Shen Li
+    id: shen-li
+    last: Li
+  - first: "Jo\xE3o"
+    full: "Jo\xE3o Gra\xE7a"
+    id: joao-graca
+    last: "Gra\xE7a"
+  - first: Ben
+    full: Ben Taskar
+    id: ben-taskar
+    last: Taskar
+  author_string: "Shen Li, Jo\xE3o Gra\xE7a, Ben Taskar"
+  bibkey: li-etal-2012-wiki
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1389'
+  page_last: '1398'
+  pages: "1389\u20131398"
+  paper_id: '127'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1127.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1127.jpg
+  title: Wiki-ly Supervised Part-of-Speech Tagging
+  title_html: <span class="acl-fixed-case">W</span>iki-ly Supervised Part-of-Speech
+    Tagging
+  url: https://www.aclweb.org/anthology/D12-1127
+  year: '2012'
+D12-1128:
+  address: Jeju Island, Korea
+  author:
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  - first: Simone Paolo
+    full: Simone Paolo Ponzetto
+    id: simone-paolo-ponzetto
+    last: Ponzetto
+  author_string: Roberto Navigli, Simone Paolo Ponzetto
+  bibkey: navigli-ponzetto-2012-joining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1399'
+  page_last: '1410'
+  pages: "1399\u20131410"
+  paper_id: '128'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1128.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1128.jpg
+  title: 'Joining Forces Pays Off: Multilingual Joint Word Sense Disambiguation'
+  title_html: 'Joining Forces Pays Off: Multilingual Joint Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/D12-1128
+  year: '2012'
+D12-1129:
+  address: Jeju Island, Korea
+  author:
+  - first: Stefano
+    full: Stefano Faralli
+    id: stefano-faralli
+    last: Faralli
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  author_string: Stefano Faralli, Roberto Navigli
+  bibkey: faralli-navigli-2012-new
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1411'
+  page_last: '1422'
+  pages: "1411\u20131422"
+  paper_id: '129'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1129.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1129.jpg
+  title: A New Minimally-Supervised Framework for Domain Word Sense Disambiguation
+  title_html: A New Minimally-Supervised Framework for Domain Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/D12-1129
+  year: '2012'
+D12-1130:
+  address: Jeju Island, Korea
+  author:
+  - first: Carina
+    full: Carina Silberer
+    id: carina-silberer
+    last: Silberer
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Carina Silberer, Mirella Lapata
+  bibkey: silberer-lapata-2012-grounded
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1423'
+  page_last: '1433'
+  pages: "1423\u20131433"
+  paper_id: '130'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1130.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1130.jpg
+  title: Grounded Models of Semantic Representation
+  title_html: Grounded Models of Semantic Representation
+  url: https://www.aclweb.org/anthology/D12-1130
+  year: '2012'
+D12-1131:
+  address: Jeju Island, Korea
+  author:
+  - first: Alexander
+    full: Alexander Rush
+    id: alexander-m-rush
+    last: Rush
+  - first: Roi
+    full: Roi Reichart
+    id: roi-reichart
+    last: Reichart
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Amir
+    full: Amir Globerson
+    id: amir-globerson
+    last: Globerson
+  author_string: Alexander Rush, Roi Reichart, Michael Collins, Amir Globerson
+  bibkey: rush-etal-2012-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1434'
+  page_last: '1444'
+  pages: "1434\u20131444"
+  paper_id: '131'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1131.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1131.jpg
+  title: Improved Parsing and POS Tagging Using Inter-Sentence Consistency Constraints
+  title_html: Improved Parsing and <span class="acl-fixed-case">POS</span> Tagging
+    Using Inter-Sentence Consistency Constraints
+  url: https://www.aclweb.org/anthology/D12-1131
+  year: '2012'
+D12-1132:
+  address: Jeju Island, Korea
+  author:
+  - first: Zhongguo
+    full: Zhongguo Li
+    id: zhongguo-li
+    last: Li
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  author_string: Zhongguo Li, Guodong Zhou
+  bibkey: li-zhou-2012-unified
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1445'
+  page_last: '1454'
+  pages: "1445\u20131454"
+  paper_id: '132'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1132.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1132.jpg
+  title: Unified Dependency Parsing of Chinese Morphological and Syntactic Structures
+  title_html: Unified Dependency Parsing of <span class="acl-fixed-case">C</span>hinese
+    Morphological and Syntactic Structures
+  url: https://www.aclweb.org/anthology/D12-1132
+  year: '2012'
+D12-1133:
+  address: Jeju Island, Korea
+  author:
+  - first: Bernd
+    full: Bernd Bohnet
+    id: bernd-bohnet
+    last: Bohnet
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Bernd Bohnet, Joakim Nivre
+  bibkey: bohnet-nivre-2012-transition
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1455'
+  page_last: '1465'
+  pages: "1455\u20131465"
+  paper_id: '133'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1133.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1133.jpg
+  title: A Transition-Based System for Joint Part-of-Speech Tagging and Labeled Non-Projective
+    Dependency Parsing
+  title_html: A Transition-Based System for Joint Part-of-Speech Tagging and Labeled
+    Non-Projective Dependency Parsing
+  url: https://www.aclweb.org/anthology/D12-1133
+  year: '2012'
+D12-1134:
+  address: Jeju Island, Korea
+  author:
+  - first: Xin
+    full: Xin Zhao
+    id: wayne-xin-zhao
+    last: Zhao
+  - first: Baihan
+    full: Baihan Shu
+    id: baihan-shu
+    last: Shu
+  - first: Jing
+    full: Jing Jiang
+    id: jing-jiang
+    last: Jiang
+  - first: Yang
+    full: Yang Song
+    id: yang-song
+    last: Song
+  - first: Hongfei
+    full: Hongfei Yan
+    id: hongfei-yan
+    last: Yan
+  - first: Xiaoming
+    full: Xiaoming Li
+    id: xiaoming-li
+    last: Li
+  author_string: Xin Zhao, Baihan Shu, Jing Jiang, Yang Song, Hongfei Yan, Xiaoming
+    Li
+  bibkey: zhao-etal-2012-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1466'
+  page_last: '1477'
+  pages: "1466\u20131477"
+  paper_id: '134'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1134.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1134.jpg
+  title: Identifying Event-related Bursts via Social Media Activities
+  title_html: Identifying Event-related Bursts via Social Media Activities
+  url: https://www.aclweb.org/anthology/D12-1134
+  year: '2012'
+D12-1135:
+  address: Jeju Island, Korea
+  author:
+  - first: Katja
+    full: Katja Filippova
+    id: katja-filippova
+    last: Filippova
+  author_string: Katja Filippova
+  bibkey: filippova-2012-user
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1478'
+  page_last: '1488'
+  pages: "1478\u20131488"
+  paper_id: '135'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1135.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1135.jpg
+  title: User Demographics and Language in an Implicit Social Network
+  title_html: User Demographics and Language in an Implicit Social Network
+  url: https://www.aclweb.org/anthology/D12-1135
+  year: '2012'
+D12-1136:
+  address: Jeju Island, Korea
+  author:
+  - first: Bo
+    full: Bo Pang
+    id: bo-pang
+    last: Pang
+  - first: Sujith
+    full: Sujith Ravi
+    id: sujith-ravi
+    last: Ravi
+  author_string: Bo Pang, Sujith Ravi
+  bibkey: pang-ravi-2012-revisiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1489'
+  page_last: '1499'
+  pages: "1489\u20131499"
+  paper_id: '136'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1136.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1136.jpg
+  title: 'Revisiting the Predictability of Language: Response Completion in Social
+    Media'
+  title_html: 'Revisiting the Predictability of Language: Response Completion in Social
+    Media'
+  url: https://www.aclweb.org/anthology/D12-1136
+  year: '2012'
+D12-1137:
+  address: Jeju Island, Korea
+  author:
+  - first: Stephen
+    full: Stephen Roller
+    id: stephen-roller
+    last: Roller
+  - first: Michael
+    full: Michael Speriosu
+    id: michael-speriosu
+    last: Speriosu
+  - first: Sarat
+    full: Sarat Rallapalli
+    id: sarat-rallapalli
+    last: Rallapalli
+  - first: Benjamin
+    full: Benjamin Wing
+    id: benjamin-wing
+    last: Wing
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  author_string: Stephen Roller, Michael Speriosu, Sarat Rallapalli, Benjamin Wing,
+    Jason Baldridge
+  bibkey: roller-etal-2012-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1500'
+  page_last: '1510'
+  pages: "1500\u20131510"
+  paper_id: '137'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1137.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1137.jpg
+  title: Supervised Text-based Geolocation Using Language Models on an Adaptive Grid
+  title_html: Supervised Text-based Geolocation Using Language Models on an Adaptive
+    Grid
+  url: https://www.aclweb.org/anthology/D12-1137
+  year: '2012'
+D12-1138:
+  address: Jeju Island, Korea
+  author:
+  - first: Huizhong
+    full: Huizhong Duan
+    id: huizhong-duan
+    last: Duan
+  - first: Yanen
+    full: Yanen Li
+    id: yanen-li
+    last: Li
+  - first: ChengXiang
+    full: ChengXiang Zhai
+    id: chengxiang-zhai
+    last: Zhai
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Huizhong Duan, Yanen Li, ChengXiang Zhai, Dan Roth
+  bibkey: duan-etal-2012-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1511'
+  page_last: '1521'
+  pages: "1511\u20131521"
+  paper_id: '138'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1138.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1138.jpg
+  title: A Discriminative Model for Query Spelling Correction with Latent Structural
+    SVM
+  title_html: A Discriminative Model for Query Spelling Correction with Latent Structural
+    <span class="acl-fixed-case">SVM</span>
+  url: https://www.aclweb.org/anthology/D12-1138
+  year: '2012'
+D12-1139:
+  address: Jeju Island, Korea
+  author:
+  - first: Song
+    full: Song Feng
+    id: song-feng
+    last: Feng
+  - first: Ritwik
+    full: Ritwik Banerjee
+    id: ritwik-banerjee
+    last: Banerjee
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  author_string: Song Feng, Ritwik Banerjee, Yejin Choi
+  bibkey: feng-etal-2012-characterizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
+    Language Processing and Computational Natural Language Learning
+  booktitle_html: Proceedings of the 2012 Joint Conference on Empirical Methods in
+    Natural Language Processing and Computational Natural Language Learning
+  month: July
+  page_first: '1522'
+  page_last: '1533'
+  pages: "1522\u20131533"
+  paper_id: '139'
+  parent_volume_id: D12-1
+  pdf: https://www.aclweb.org/anthology/D12-1139.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D12-1139.jpg
+  title: Characterizing Stylistic Elements in Syntactic Structure
+  title_html: Characterizing Stylistic Elements in Syntactic Structure
+  url: https://www.aclweb.org/anthology/D12-1139
+  year: '2012'

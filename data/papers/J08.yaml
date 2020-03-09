@@ -1,0 +1,979 @@
+J08-1000:
+  bibkey: cl-2008-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  paper_id: '0'
+  parent_volume_id: J08-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1000.jpg
+  title: Computational Linguistics, Volume 34, Number 1, March 2008
+  title_html: Computational Linguistics, Volume 34, Number 1, March 2008
+  year: '2008'
+J08-1001:
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Regina Barzilay, Mirella Lapata
+  bibkey: barzilay-lapata-2008-modeling
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.1
+  page_first: '1'
+  page_last: '34'
+  pages: "1\u201334"
+  paper_id: '1'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1001.jpg
+  title: 'Modeling Local Coherence: An Entity-Based Approach'
+  title_html: 'Modeling Local Coherence: An Entity-Based Approach'
+  url: https://www.aclweb.org/anthology/J08-1001
+  year: '2008'
+J08-1002:
+  author:
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Yusuke Miyao, Jun\u2019ichi Tsujii"
+  bibkey: miyao-tsujii-2008-feature
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.35
+  page_first: '35'
+  page_last: '80'
+  pages: "35\u201380"
+  paper_id: '2'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1002.jpg
+  title: Feature Forest Models for Probabilistic HPSG Parsing
+  title_html: Feature Forest Models for Probabilistic <span class="acl-fixed-case">HPSG</span>
+    Parsing
+  url: https://www.aclweb.org/anthology/J08-1002
+  year: '2008'
+J08-1003:
+  author:
+  - first: Aoife
+    full: Aoife Cahill
+    id: aoife-cahill
+    last: Cahill
+  - first: Michael
+    full: Michael Burke
+    id: michael-burke
+    last: Burke
+  - first: Ruth
+    full: "Ruth O\u2019Donovan"
+    id: ruth-odonovan
+    last: "O\u2019Donovan"
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  - first: Josef
+    full: Josef van Genabith
+    id: josef-van-genabith
+    last: van Genabith
+  - first: Andy
+    full: Andy Way
+    id: andy-way
+    last: Way
+  author_string: "Aoife Cahill, Michael Burke, Ruth O\u2019Donovan, Stefan Riezler,\
+    \ Josef van Genabith, Andy Way"
+  bibkey: cahill-etal-2008-wide
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.81
+  page_first: '81'
+  page_last: '124'
+  pages: "81\u2013124"
+  paper_id: '3'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1003.jpg
+  title: Wide-Coverage Deep Statistical Parsing Using Automatic Dependency Structure
+    Annotation
+  title_html: Wide-Coverage Deep Statistical Parsing Using Automatic Dependency Structure
+    Annotation
+  url: https://www.aclweb.org/anthology/J08-1003
+  year: '2008'
+J08-1004:
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Rada Mihalcea
+  bibkey: mihalcea-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.125
+  page_first: '125'
+  page_last: '127'
+  pages: "125\u2013127"
+  paper_id: '4'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1004.jpg
+  title: 'Book Reviews: The Text Mining Handbook: Advanced Approaches to Analyzing
+    Unstructured Data by Ronen Feldman and James Sanger'
+  title_html: 'Book Reviews: The Text Mining Handbook: Advanced Approaches to Analyzing
+    Unstructured Data by Ronen Feldman and <span class="acl-fixed-case">J</span>ames
+    Sanger'
+  url: https://www.aclweb.org/anthology/J08-1004
+  year: '2008'
+J08-1005:
+  author:
+  - first: Paul
+    full: Paul Piwek
+    id: paul-piwek
+    last: Piwek
+  author_string: Paul Piwek
+  bibkey: piwek-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.129
+  page_first: '129'
+  page_last: '132'
+  pages: "129\u2013132"
+  paper_id: '5'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1005.jpg
+  title: 'Book Reviews: Incremental Conceptualization for Language Production by Markus
+    Guhe'
+  title_html: 'Book Reviews: Incremental Conceptualization for Language Production
+    by Markus Guhe'
+  url: https://www.aclweb.org/anthology/J08-1005
+  year: '2008'
+J08-1006:
+  author:
+  - first: Pius
+    full: Pius ten Hacken
+    id: pius-ten-hacken
+    last: ten Hacken
+  author_string: Pius ten Hacken
+  bibkey: ten-hacken-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.133
+  page_first: '133'
+  page_last: '134'
+  pages: "133\u2013134"
+  paper_id: '6'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1006.jpg
+  title: 'Book Reviews: Errors and Intelligence in Computer-Assisted Language Learning:
+    Parsers and Pedagogues by Trude Heift and Mathias Schulze'
+  title_html: 'Book Reviews: Errors and Intelligence in Computer-Assisted Language
+    Learning: Parsers and Pedagogues by Trude Heift and Mathias Schulze'
+  url: https://www.aclweb.org/anthology/J08-1006
+  year: '2008'
+J08-1007:
+  bibkey: nn-2008-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.135
+  paper_id: '7'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1007.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J08-1007
+  year: '2008'
+J08-1008:
+  author:
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Mark Steedman
+  bibkey: steedman-2008-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 1, March 2008
+  doi: 10.1162/coli.2008.34.1.137
+  page_first: '137'
+  page_last: '144'
+  pages: "137\u2013144"
+  paper_id: '8'
+  parent_volume_id: J08-1
+  pdf: https://www.aclweb.org/anthology/J08-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-1008.jpg
+  title: 'Last Words: On Becoming a Discipline'
+  title_html: 'Last Words: On Becoming a Discipline'
+  url: https://www.aclweb.org/anthology/J08-1008
+  year: '2008'
+J08-2000:
+  bibkey: cl-2008-linguistics-34
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  paper_id: '0'
+  parent_volume_id: J08-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2000.jpg
+  title: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  title_html: Computational Linguistics, Volume 34, Number 2, June 2008 - Special
+    Issue on Semantic Role Labeling
+  year: '2008'
+J08-2001:
+  author:
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  - first: Kenneth C.
+    full: Kenneth C. Litkowski
+    id: kenneth-c-litkowski
+    last: Litkowski
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: "Llu\xEDs M\xE0rquez, Xavier Carreras, Kenneth C. Litkowski, Suzanne\
+    \ Stevenson"
+  bibkey: marquez-etal-2008-special
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.145
+  page_first: '145'
+  page_last: '159'
+  pages: "145\u2013159"
+  paper_id: '1'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2001.jpg
+  title: 'Special Issue Introduction: Semantic Role Labeling: An Introduction to the
+    Special Issue'
+  title_html: 'Special Issue Introduction: Semantic Role Labeling: An Introduction
+    to the Special Issue'
+  url: https://www.aclweb.org/anthology/J08-2001
+  year: '2008'
+J08-2002:
+  author:
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Kristina Toutanova, Aria Haghighi, Christopher D. Manning
+  bibkey: toutanova-etal-2008-global
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.161
+  page_first: '161'
+  page_last: '191'
+  pages: "161\u2013191"
+  paper_id: '2'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2002.jpg
+  title: A Global Joint Model for Semantic Role Labeling
+  title_html: A Global Joint Model for Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/J08-2002
+  year: '2008'
+J08-2003:
+  author:
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Daniele
+    full: Daniele Pighin
+    id: daniele-pighin
+    last: Pighin
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  author_string: Alessandro Moschitti, Daniele Pighin, Roberto Basili
+  bibkey: moschitti-etal-2008-tree
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.193
+  page_first: '193'
+  page_last: '224'
+  pages: "193\u2013224"
+  paper_id: '3'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2003.jpg
+  title: Tree Kernels for Semantic Role Labeling
+  title_html: Tree Kernels for Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/J08-2003
+  year: '2008'
+J08-2004:
+  author:
+  - first: Nianwen
+    full: Nianwen Xue
+    id: nianwen-xue
+    last: Xue
+  author_string: Nianwen Xue
+  bibkey: xue-2008-labeling
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.225
+  page_first: '225'
+  page_last: '255'
+  pages: "225\u2013255"
+  paper_id: '4'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2004.jpg
+  title: Labeling Chinese Predicates with Semantic Roles
+  title_html: Labeling <span class="acl-fixed-case">C</span>hinese Predicates with
+    Semantic Roles
+  url: https://www.aclweb.org/anthology/J08-2004
+  year: '2008'
+J08-2005:
+  author:
+  - first: Vasin
+    full: Vasin Punyakanok
+    id: vasin-punyakanok
+    last: Punyakanok
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  - first: Wen-tau
+    full: Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  author_string: Vasin Punyakanok, Dan Roth, Wen-tau Yih
+  bibkey: punyakanok-etal-2008-importance
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.257
+  page_first: '257'
+  page_last: '287'
+  pages: "257\u2013287"
+  paper_id: '5'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2005.jpg
+  title: The Importance of Syntactic Parsing and Inference in Semantic Role Labeling
+  title_html: The Importance of Syntactic Parsing and Inference in Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/J08-2005
+  year: '2008'
+J08-2006:
+  author:
+  - first: Sameer S.
+    full: Sameer S. Pradhan
+    id: sameer-pradhan
+    last: Pradhan
+  - first: Wayne
+    full: Wayne Ward
+    id: wayne-ward
+    last: Ward
+  - first: James H.
+    full: James H. Martin
+    id: james-h-martin
+    last: Martin
+  author_string: Sameer S. Pradhan, Wayne Ward, James H. Martin
+  bibkey: pradhan-etal-2008-towards
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.289
+  page_first: '289'
+  page_last: '310'
+  pages: "289\u2013310"
+  paper_id: '6'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2006.jpg
+  title: Towards Robust Semantic Role Labeling
+  title_html: Towards Robust Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/J08-2006
+  year: '2008'
+J08-2007:
+  author:
+  - first: Markus
+    full: Markus Egg
+    id: markus-egg
+    last: Egg
+  author_string: Markus Egg
+  bibkey: egg-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.311
+  page_first: '311'
+  page_last: '313'
+  pages: "311\u2013313"
+  paper_id: '7'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2007.jpg
+  title: 'Book Reviews: A Computational Model of Natural Language Communication by
+    Roland Hausser'
+  title_html: 'Book Reviews: A Computational Model of Natural Language Communication
+    by Roland Hausser'
+  url: https://www.aclweb.org/anthology/J08-2007
+  year: '2008'
+J08-2008:
+  author:
+  - first: Diana
+    full: Diana Maynard
+    id: diana-maynard
+    last: Maynard
+  author_string: Diana Maynard
+  bibkey: maynard-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 2, June 2008 - Special Issue
+    on Semantic Role Labeling
+  doi: 10.1162/coli.2008.34.2.315
+  page_first: '315'
+  page_last: '317'
+  pages: "315\u2013317"
+  paper_id: '8'
+  parent_volume_id: J08-2
+  pdf: https://www.aclweb.org/anthology/J08-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-2008.jpg
+  title: 'Book Reviews: Information Extraction: Algorithms and Prospects in a Retrieval
+    Context by Marie-Francine Moens'
+  title_html: 'Book Reviews: Information Extraction: Algorithms and Prospects in a
+    Retrieval Context by Marie-Francine Moens'
+  url: https://www.aclweb.org/anthology/J08-2008
+  year: '2008'
+J08-3000:
+  bibkey: cl-2008-linguistics-34-number
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  paper_id: '0'
+  parent_volume_id: J08-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3000.jpg
+  title: Computational Linguistics, Volume 34, Number 3, September 2008
+  title_html: Computational Linguistics, Volume 34, Number 3, September 2008
+  year: '2008'
+J08-3001:
+  author:
+  - first: Dennis
+    full: Dennis Reidsma
+    id: dennis-reidsma
+    last: Reidsma
+  - first: Jean
+    full: Jean Carletta
+    id: jean-carletta
+    last: Carletta
+  author_string: Dennis Reidsma, Jean Carletta
+  bibkey: reidsma-carletta-2008-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.34.3.319
+  page_first: '319'
+  page_last: '326'
+  pages: "319\u2013326"
+  paper_id: '1'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3001.jpg
+  title: 'Squibs: Reliability Measurement without Limits'
+  title_html: '<span class="acl-fixed-case">S</span>quibs: Reliability Measurement
+    without Limits'
+  url: https://www.aclweb.org/anthology/J08-3001
+  year: '2008'
+J08-3002:
+  author:
+  - first: Xiaofeng
+    full: Xiaofeng Yang
+    id: xiaofeng-yang
+    last: Yang
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Xiaofeng Yang, Jian Su, Chew Lim Tan
+  bibkey: yang-etal-2008-twin
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.07-004-R2-06-57
+  page_first: '327'
+  page_last: '356'
+  pages: "327\u2013356"
+  paper_id: '2'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3002.jpg
+  title: A Twin-Candidate Model for Learning-Based Anaphora Resolution
+  title_html: A Twin-Candidate Model for Learning-Based Anaphora Resolution
+  url: https://www.aclweb.org/anthology/J08-3002
+  year: '2008'
+J08-3003:
+  author:
+  - first: "G\xFCl\u015Fen"
+    full: "G\xFCl\u015Fen Eryi\u011Fit"
+    id: gulsen-eryigit
+    last: "Eryi\u011Fit"
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  author_string: "G\xFCl\u015Fen Eryi\u011Fit, Joakim Nivre, Kemal Oflazer"
+  bibkey: eryigit-etal-2008-dependency
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.07-017-R1-06-83
+  page_first: '357'
+  page_last: '389'
+  pages: "357\u2013389"
+  paper_id: '3'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3003.jpg
+  title: Dependency Parsing of Turkish
+  title_html: Dependency Parsing of <span class="acl-fixed-case">T</span>urkish
+  url: https://www.aclweb.org/anthology/J08-3003
+  year: '2008'
+J08-3004:
+  author:
+  - first: Jonathan
+    full: Jonathan Graehl
+    id: jonathan-graehl
+    last: Graehl
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Jonathan
+    full: Jonathan May
+    id: jonathan-may
+    last: May
+  author_string: Jonathan Graehl, Kevin Knight, Jonathan May
+  bibkey: graehl-etal-2008-training
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.07-051-R2-03-57
+  page_first: '391'
+  page_last: '427'
+  pages: "391\u2013427"
+  paper_id: '4'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3004.jpg
+  title: Training Tree Transducers
+  title_html: Training Tree Transducers
+  url: https://www.aclweb.org/anthology/J08-3004
+  year: '2008'
+J08-3005:
+  author:
+  - first: Ezra
+    full: Ezra Daya
+    id: ezra-daya
+    last: Daya
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Ezra Daya, Dan Roth, Shuly Wintner
+  bibkey: daya-etal-2008-identifying
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.07-002-R1-06-30
+  page_first: '429'
+  page_last: '448'
+  pages: "429\u2013448"
+  paper_id: '5'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3005.jpg
+  title: 'Identifying Semitic Roots: Machine Learning with Linguistic Constraints'
+  title_html: 'Identifying <span class="acl-fixed-case">S</span>emitic Roots: Machine
+    Learning with Linguistic Constraints'
+  url: https://www.aclweb.org/anthology/J08-3005
+  year: '2008'
+J08-3006:
+  author:
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Vincent Ng
+  bibkey: ng-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.34.3.449
+  page_first: '449'
+  page_last: '452'
+  pages: "449\u2013452"
+  paper_id: '6'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3006.jpg
+  title: 'Book Reviews: Semisupervised Learning for Computational Linguistics by Steven
+    Abney'
+  title_html: 'Book Reviews: Semisupervised Learning for Computational Linguistics
+    by Steven Abney'
+  url: https://www.aclweb.org/anthology/J08-3006
+  year: '2008'
+J08-3007:
+  author:
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Noah A. Smith
+  bibkey: smith-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.34.3.453
+  page_first: '453'
+  page_last: '457'
+  pages: "453\u2013457"
+  paper_id: '7'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3007.jpg
+  title: 'Book Reviews: Computational Approaches to Morphology and Syntax by Brian
+    Roark and Richard Sproat'
+  title_html: 'Book Reviews: Computational Approaches to Morphology and Syntax by
+    Brian Roark and Richard Sproat'
+  url: https://www.aclweb.org/anthology/J08-3007
+  year: '2008'
+J08-3008:
+  author:
+  - first: George
+    full: George Kiraz
+    id: george-anton-kiraz
+    last: Kiraz
+  author_string: George Kiraz
+  bibkey: kiraz-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.34.3.459
+  page_first: '459'
+  page_last: '462'
+  pages: "459\u2013462"
+  paper_id: '8'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3008.jpg
+  title: "Book Reviews: Arabic Computational Morphology: Knowledge-Based and Empirical\
+    \ Methods by Abdelhadi Soudi, Antal van den Bosch, and G\xFCnter Neumann (editors)"
+  title_html: "Book Reviews: <span class=\"acl-fixed-case\">A</span>rabic Computational\
+    \ Morphology: Knowledge-Based and Empirical Methods by Abdelhadi Soudi, Antal\
+    \ van den Bosch, and G\xFCnter Neumann (editors)"
+  url: https://www.aclweb.org/anthology/J08-3008
+  year: '2008'
+J08-3009:
+  bibkey: nn-2008-publications-received
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.34.3.463
+  paper_id: '9'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3009.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J08-3009
+  year: '2008'
+J08-3010:
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Ted Pedersen
+  bibkey: pedersen-2008-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 3, September 2008
+  doi: 10.1162/coli.2008.34.3.465
+  page_first: '465'
+  page_last: '470'
+  pages: "465\u2013470"
+  paper_id: '10'
+  parent_volume_id: J08-3
+  pdf: https://www.aclweb.org/anthology/J08-3010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-3010.jpg
+  title: 'Last Words: Empiricism Is Not a Matter of Faith'
+  title_html: 'Last Words: Empiricism Is Not a Matter of Faith'
+  url: https://www.aclweb.org/anthology/J08-3010
+  year: '2008'
+J08-4000:
+  bibkey: cl-2008-linguistics-34-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  paper_id: '0'
+  parent_volume_id: J08-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4000.jpg
+  title: Computational Linguistics, Volume 34, Number 4, December 2008
+  title_html: Computational Linguistics, Volume 34, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2008
+  year: '2008'
+J08-4001:
+  author:
+  - first: Yorick
+    full: Yorick Wilks
+    id: yorick-wilks
+    last: Wilks
+  author_string: Yorick Wilks
+  bibkey: wilks-2008-acl
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.34.4.471
+  page_first: '471'
+  page_last: '486'
+  pages: "471\u2013486"
+  paper_id: '1'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4001.jpg
+  title: 'ACL Lifetime Achievement Award: On Whose Shoulders?'
+  title_html: '<span class="acl-fixed-case">ACL</span> Lifetime Achievement Award:
+    On Whose Shoulders?'
+  url: https://www.aclweb.org/anthology/J08-4001
+  year: '2008'
+J08-4002:
+  author:
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  author_string: James Henderson, Oliver Lemon, Kallirroi Georgila
+  bibkey: henderson-etal-2008-hybrid
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.07-028-R2-05-82
+  page_first: '487'
+  page_last: '511'
+  pages: "487\u2013511"
+  paper_id: '2'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4002.jpg
+  title: Hybrid Reinforcement/Supervised Learning of Dialogue Policies from Fixed
+    Data Sets
+  title_html: Hybrid Reinforcement/Supervised Learning of Dialogue Policies from Fixed
+    Data Sets
+  url: https://www.aclweb.org/anthology/J08-4002
+  year: '2008'
+J08-4003:
+  author:
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Joakim Nivre
+  bibkey: nivre-2008-algorithms
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.07-056-R1-07-027
+  page_first: '513'
+  page_last: '553'
+  pages: "513\u2013553"
+  paper_id: '3'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4003.jpg
+  title: Algorithms for Deterministic Incremental Dependency Parsing
+  title_html: Algorithms for Deterministic Incremental Dependency Parsing
+  url: https://www.aclweb.org/anthology/J08-4003
+  year: '2008'
+J08-4004:
+  author:
+  - first: Ron
+    full: Ron Artstein
+    id: ron-artstein
+    last: Artstein
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Ron Artstein, Massimo Poesio
+  bibkey: artstein-poesio-2008-survey
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.07-034-R2
+  page_first: '555'
+  page_last: '596'
+  pages: "555\u2013596"
+  paper_id: '4'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4004.jpg
+  title: 'Survey Article: Inter-Coder Agreement for Computational Linguistics'
+  title_html: 'Survey Article: Inter-Coder Agreement for Computational Linguistics'
+  url: https://www.aclweb.org/anthology/J08-4004
+  year: '2008'
+J08-4005:
+  author:
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Trevor Cohn, Chris Callison-Burch, Mirella Lapata
+  bibkey: cohn-etal-2008-constructing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.08-003-R1-07-044
+  page_first: '597'
+  page_last: '614'
+  pages: "597\u2013614"
+  paper_id: '5'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4005.jpg
+  title: Constructing Corpora for the Development and Evaluation of Paraphrase Systems
+  title_html: Constructing Corpora for the Development and Evaluation of Paraphrase
+    Systems
+  url: https://www.aclweb.org/anthology/J08-4005
+  year: '2008'
+J08-4006:
+  author:
+  - first: Richard
+    full: Richard Sproat
+    id: richard-sproat
+    last: Sproat
+  - first: Roxana
+    full: "Roxana G\xEErju"
+    id: roxana-girju
+    last: "G\xEErju"
+  author_string: "Richard Sproat, Roxana G\xEErju"
+  bibkey: sproat-girju-2008-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.34.4.615
+  page_first: '615'
+  page_last: '617'
+  pages: "615\u2013617"
+  paper_id: '6'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4006.jpg
+  title: "Book Review: Mathematical Linguistics by Andr\xE1s Kornai"
+  title_html: "Book Review: Mathematical Linguistics by Andr\xE1s Kornai"
+  url: https://www.aclweb.org/anthology/J08-4006
+  year: '2008'
+J08-4007:
+  bibkey: nn-2008-publications-received-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.34.4.619
+  paper_id: '7'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4007.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J08-4007
+  year: '2008'
+J08-4008:
+  author:
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Robert Dale
+  bibkey: dale-2008-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.34.4.621
+  page_first: '621'
+  page_last: '624'
+  pages: "621\u2013624"
+  paper_id: '8'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4008.jpg
+  title: "Last Words: What\u2019s the Future for Computational Linguistics"
+  title_html: "Last Words: What\u2019s the Future for <i>Computational Linguistics</i>"
+  url: https://www.aclweb.org/anthology/J08-4008
+  year: '2008'
+J08-4009:
+  bibkey: nn-2008-reviewers
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.34.4.625
+  paper_id: '9'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4009.jpg
+  title: Reviewers for Volume 34
+  title_html: Reviewers for Volume 34
+  url: https://www.aclweb.org/anthology/J08-4009
+  year: '2008'
+J08-4010:
+  author:
+  - first: "G\xFCl\u015Fen"
+    full: "G\xFCl\u015Fen Eryi\u011Fit"
+    id: gulsen-eryigit
+    last: "Eryi\u011Fit"
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  author_string: "G\xFCl\u015Fen Eryi\u011Fit, Joakim Nivre, Kemal Oflazer"
+  bibkey: eryigit-etal-2008-erratum
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 34, Number 4, December 2008
+  doi: 10.1162/coli.2008.34.4.627
+  pages: '627'
+  paper_id: '10'
+  parent_volume_id: J08-4
+  pdf: https://www.aclweb.org/anthology/J08-4010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J08-4010.jpg
+  title: 'Erratum: Dependency Parsing of Turkish'
+  title_html: '<span class="acl-fixed-case">E</span>rratum: Dependency Parsing of
+    <span class="acl-fixed-case">T</span>urkish'
+  url: https://www.aclweb.org/anthology/J08-4010
+  year: '2008'

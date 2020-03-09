@@ -1,0 +1,1626 @@
+P95-1000:
+  address: Cambridge, Massachusetts, USA
+  bibkey: acl-1995-association
+  bibtype: proceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1000.jpg
+  title: 33rd Annual Meeting of the Association for Computational Linguistics
+  title_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P95-1000
+  year: '1995'
+P95-1001:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Gary
+    full: Gary Tajchman
+    id: gary-tajchman
+    last: Tajchman
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  - first: Eric
+    full: Eric Fosler
+    id: eric-fosler-lussier
+    last: Fosler
+  author_string: Gary Tajchman, Daniel Jurafsky, Eric Fosler
+  bibkey: tajchman-etal-1995-learning
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981659
+  month: June
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1001.jpg
+  title: Learning Phonological Rule Probabilities from Speech Corpora with Exploratory
+    Computational Phonology
+  title_html: Learning Phonological Rule Probabilities from Speech Corpora with Exploratory
+    Computational Phonology
+  url: https://www.aclweb.org/anthology/P95-1001
+  year: '1995'
+P95-1002:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Daniel Gildea, Daniel Jurafsky
+  bibkey: gildea-jurafsky-1995-automatic
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981660
+  month: June
+  page_first: '9'
+  page_last: '15'
+  pages: "9\u201315"
+  paper_id: '2'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1002.jpg
+  title: Automatic Induction of Finite State Transducers for Simple Phonological Rules
+  title_html: Automatic Induction of Finite State Transducers for Simple Phonological
+    Rules
+  url: https://www.aclweb.org/anthology/P95-1002
+  year: '1995'
+P95-1003:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Lauri
+    full: Lauri Karttunen
+    id: lauri-karttunen
+    last: Karttunen
+  author_string: Lauri Karttunen
+  bibkey: karttunen-1995-replace
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981661
+  month: June
+  page_first: '16'
+  page_last: '23'
+  pages: "16\u201323"
+  paper_id: '3'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1003.jpg
+  title: The Replace Operator
+  title_html: The Replace Operator
+  url: https://www.aclweb.org/anthology/P95-1003
+  year: '1995'
+P95-1004:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Tanya
+    full: Tanya Bowden
+    id: tanya-bowden
+    last: Bowden
+  - first: George Anton
+    full: George Anton Kiraz
+    id: george-anton-kiraz
+    last: Kiraz
+  author_string: Tanya Bowden, George Anton Kiraz
+  bibkey: bowden-kiraz-1995-morphographemic
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981662
+  month: June
+  page_first: '24'
+  page_last: '30'
+  pages: "24\u201330"
+  paper_id: '4'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1004.jpg
+  title: A Morphographemic Model for Error Correction in Nonconcatenative Strings
+  title_html: A Morphographemic Model for Error Correction in Nonconcatenative Strings
+  url: https://www.aclweb.org/anthology/P95-1004
+  year: '1995'
+P95-1005:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Carolyn Penstein
+    full: "Carolyn Penstein Ros\xE9"
+    id: carolyn-rose
+    last: "Ros\xE9"
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  - first: Lori S.
+    full: Lori S. Levin
+    id: lori-levin
+    last: Levin
+  - first: Carol
+    full: Carol Van Ess-Dykema
+    id: carol-van-ess-dykema
+    last: Van Ess-Dykema
+  author_string: "Carolyn Penstein Ros\xE9, Barbara Di Eugenio, Lori S. Levin, Carol\
+    \ Van Ess-Dykema"
+  bibkey: rose-etal-1995-discourse
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981663
+  month: June
+  page_first: '31'
+  page_last: '38'
+  pages: "31\u201338"
+  paper_id: '5'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1005.jpg
+  title: Discourse Processing of Dialogues with Multiple Threads
+  title_html: Discourse Processing of Dialogues with Multiple Threads
+  url: https://www.aclweb.org/anthology/P95-1005
+  year: '1995'
+P95-1006:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Tetsuya
+    full: Tetsuya Nasukawa
+    id: tetsuya-nasukawa
+    last: Nasukawa
+  author_string: Tetsuya Nasukawa
+  bibkey: nasukawa-1995-robust
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981664
+  month: June
+  page_first: '39'
+  page_last: '46'
+  pages: "39\u201346"
+  paper_id: '6'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1006.jpg
+  title: 'Robust Parsing Based on Discourse Information: Completing partial parses
+    of ill-formed sentences on the basis of discourse information'
+  title_html: 'Robust Parsing Based on Discourse Information: Completing partial parses
+    of ill-formed sentences on the basis of discourse information'
+  url: https://www.aclweb.org/anthology/P95-1006
+  year: '1995'
+P95-1007:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Mark
+    full: Mark Lauer
+    id: mark-lauer
+    last: Lauer
+  author_string: Mark Lauer
+  bibkey: lauer-1995-corpus
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981665
+  month: June
+  page_first: '47'
+  page_last: '54'
+  pages: "47\u201354"
+  paper_id: '7'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1007.jpg
+  title: 'Corpus Statistics Meet the Noun Compound: Some Empirical Results'
+  title_html: 'Corpus Statistics Meet the Noun Compound: Some Empirical Results'
+  url: https://www.aclweb.org/anthology/P95-1007
+  year: '1995'
+P95-1008:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Bill
+    full: Bill Keller
+    id: bill-keller
+    last: Keller
+  author_string: Bill Keller
+  bibkey: keller-1995-datr
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981666
+  month: June
+  page_first: '55'
+  page_last: '62'
+  pages: "55\u201362"
+  paper_id: '8'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1008.jpg
+  title: DATR Theories and DATR Models
+  title_html: <span class="acl-fixed-case">DATR</span> Theories and <span class="acl-fixed-case">DATR</span>
+    Models
+  url: https://www.aclweb.org/anthology/P95-1008
+  year: '1995'
+P95-1009:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Lena
+    full: Lena Stromback
+    id: lena-stromback
+    last: Stromback
+  author_string: Lena Stromback
+  bibkey: stromback-1995-user
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981667
+  month: June
+  page_first: '63'
+  page_last: '69'
+  pages: "63\u201369"
+  paper_id: '9'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1009.jpg
+  title: User-Defined Nonmonotonicity in Unification-Based Formalisms
+  title_html: User-Defined Nonmonotonicity in Unification-Based Formalisms
+  url: https://www.aclweb.org/anthology/P95-1009
+  year: '1995'
+P95-1010:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Sam
+    full: Sam Bayer
+    id: samuel-bayer
+    last: Bayer
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Sam Bayer, Mark Johnson
+  bibkey: bayer-johnson-1995-features
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981668
+  month: June
+  page_first: '70'
+  page_last: '76'
+  pages: "70\u201376"
+  paper_id: '10'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1010.jpg
+  title: Features and Agreement
+  title_html: Features and Agreement
+  url: https://www.aclweb.org/anthology/P95-1010
+  year: '1995'
+P95-1011:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Roger
+    full: Roger Evans
+    id: roger-evans
+    last: Evans
+  - first: Gerald
+    full: Gerald Gazdar
+    id: gerald-gazdar
+    last: Gazdar
+  - first: David
+    full: David Weir
+    id: david-weir
+    last: Weir
+  author_string: Roger Evans, Gerald Gazdar, David Weir
+  bibkey: evans-etal-1995-encoding
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981669
+  month: June
+  page_first: '77'
+  page_last: '84'
+  pages: "77\u201384"
+  paper_id: '11'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1011.jpg
+  title: Encoding Lexicalized Tree Adjoining Grammars with a Nonmonotonic Inheritance
+    Hierarchy
+  title_html: Encoding Lexicalized Tree Adjoining Grammars with a Nonmonotonic Inheritance
+    Hierarchy
+  url: https://www.aclweb.org/anthology/P95-1011
+  year: '1995'
+P95-1012:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Thilo
+    full: Thilo Gotz
+    id: thilo-gotz
+    last: Gotz
+  - first: Walt Detmar
+    full: Walt Detmar Meurers
+    id: detmar-meurers
+    last: Meurers
+  author_string: Thilo Gotz, Walt Detmar Meurers
+  bibkey: gotz-meurers-1995-compiling
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981670
+  month: June
+  page_first: '85'
+  page_last: '91'
+  pages: "85\u201391"
+  paper_id: '12'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1012.jpg
+  title: Compiling HPSG type constraints into definite clause programs
+  title_html: Compiling <span class="acl-fixed-case">HPSG</span> type constraints
+    into definite clause programs
+  url: https://www.aclweb.org/anthology/P95-1012
+  year: '1995'
+P95-1013:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Robert
+    full: Robert Kasper
+    id: robert-t-kasper
+    last: Kasper
+  - first: Bernd
+    full: Bernd Kiefer
+    id: bernd-kiefer
+    last: Kiefer
+  - first: Klaus
+    full: Klaus Netter
+    id: klaus-netter
+    last: Netter
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  author_string: Robert Kasper, Bernd Kiefer, Klaus Netter, K. Vijay-Shanker
+  bibkey: kasper-etal-1995-compilation
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981671
+  month: June
+  page_first: '92'
+  page_last: '99'
+  pages: "92\u201399"
+  paper_id: '13'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1013.jpg
+  title: Compilation of HPSG to TAG
+  title_html: Compilation of <span class="acl-fixed-case">HPSG</span> to <span class="acl-fixed-case">TAG</span>
+  url: https://www.aclweb.org/anthology/P95-1013
+  year: '1995'
+P95-1014:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Jochen
+    full: Jochen Dorre
+    id: jochen-dorre
+    last: Dorre
+  author_string: Mark Johnson, Jochen Dorre
+  bibkey: johnson-dorre-1995-memoization
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981672
+  month: June
+  page_first: '100'
+  page_last: '107'
+  pages: "100\u2013107"
+  paper_id: '14'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1014.jpg
+  title: Memoization of Coroutined Constraints
+  title_html: Memoization of Coroutined Constraints
+  url: https://www.aclweb.org/anthology/P95-1014
+  year: '1995'
+P95-1015:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Diane J.
+    full: Diane J. Litman
+    id: diane-litman
+    last: Litman
+  - first: Rebecca J.
+    full: Rebecca J. Passonneau
+    id: rebecca-j-passonneau
+    last: Passonneau
+  author_string: Diane J. Litman, Rebecca J. Passonneau
+  bibkey: litman-passonneau-1995-combining
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981673
+  month: June
+  page_first: '108'
+  page_last: '115'
+  pages: "108\u2013115"
+  paper_id: '15'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1015.jpg
+  title: Combining Multiple Knowledge Sources for Discourse Segmentation
+  title_html: Combining Multiple Knowledge Sources for Discourse Segmentation
+  url: https://www.aclweb.org/anthology/P95-1015
+  year: '1995'
+P95-1016:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Norbert
+    full: Norbert Reithinger
+    id: norbert-reithinger
+    last: Reithinger
+  - first: Elisabeth
+    full: Elisabeth Maier
+    id: elisabeth-maier
+    last: Maier
+  author_string: Norbert Reithinger, Elisabeth Maier
+  bibkey: reithinger-maier-1995-utilizing
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981674
+  month: June
+  page_first: '116'
+  page_last: '121'
+  pages: "116\u2013121"
+  paper_id: '16'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1016.jpg
+  title: Utilizing Statistical Dialogue Act Processing in Verbrnobil
+  title_html: Utilizing Statistical Dialogue Act Processing in Verbrnobil
+  url: https://www.aclweb.org/anthology/P95-1016
+  year: '1995'
+P95-1017:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Chinatsu
+    full: Chinatsu Aone
+    id: chinatsu-aone
+    last: Aone
+  - first: Scott
+    full: Scott William
+    id: scott-william
+    last: William
+  author_string: Chinatsu Aone, Scott William
+  bibkey: aone-william-1995-evaluating
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981675
+  month: June
+  page_first: '122'
+  page_last: '129'
+  pages: "122\u2013129"
+  paper_id: '17'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1017.jpg
+  title: Evaluating Automated and Manual Acquisition of Anaphora Resolution Strategies
+  title_html: Evaluating Automated and Manual Acquisition of Anaphora Resolution Strategies
+  url: https://www.aclweb.org/anthology/P95-1017
+  year: '1995'
+P95-1018:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Megan
+    full: Megan Moser
+    id: megan-moser
+    last: Moser
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: Megan Moser, Johanna D. Moore
+  bibkey: moser-moore-1995-investigating
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981676
+  month: June
+  page_first: '130'
+  page_last: '135'
+  pages: "130\u2013135"
+  paper_id: '18'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1018.jpg
+  title: Investigating Cue Selection and Placement in Tutorial Discourse
+  title_html: Investigating Cue Selection and Placement in Tutorial Discourse
+  url: https://www.aclweb.org/anthology/P95-1018
+  year: '1995'
+P95-1019:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  - first: Sandra
+    full: Sandra Carberry
+    id: sandra-carberry
+    last: Carberry
+  author_string: Jennifer Chu-Carroll, Sandra Carberry
+  bibkey: chu-carroll-carberry-1995-response
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981677
+  month: June
+  page_first: '136'
+  page_last: '143'
+  pages: "136\u2013143"
+  paper_id: '19'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1019.jpg
+  title: Response Generation in Collaborative Negotiation
+  title_html: Response Generation in Collaborative Negotiation
+  url: https://www.aclweb.org/anthology/P95-1019
+  year: '1995'
+P95-1020:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Daniel Marcu, Graeme Hirst
+  bibkey: marcu-hirst-1995-uniform
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981678
+  month: June
+  page_first: '144'
+  page_last: '150'
+  pages: "144\u2013150"
+  paper_id: '20'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1020.jpg
+  title: A Uniform Treatment of Pragmatic Inferences in Simple and Complex Utterances
+    and Sequences of Utterances
+  title_html: A Uniform Treatment of Pragmatic Inferences in Simple and Complex Utterances
+    and Sequences of Utterances
+  url: https://www.aclweb.org/anthology/P95-1020
+  year: '1995'
+P95-1021:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  - first: David
+    full: David Weir
+    id: david-weir
+    last: Weir
+  author_string: Owen Rambow, K. Vijay-Shanker, David Weir
+  bibkey: rambow-etal-1995-tree
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981679
+  month: June
+  page_first: '151'
+  page_last: '158'
+  pages: "151\u2013158"
+  paper_id: '21'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1021.jpg
+  title: D-Tree Grammars
+  title_html: <span class="acl-fixed-case">D</span>-Tree Grammars
+  url: https://www.aclweb.org/anthology/P95-1021
+  year: '1995'
+P95-1022:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Gertjan
+    full: Gertjan van Noord
+    id: gertjan-van-noord
+    last: van Noord
+  author_string: Gertjan van Noord
+  bibkey: van-noord-1995-intersection
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981680
+  month: June
+  page_first: '159'
+  page_last: '165'
+  pages: "159\u2013165"
+  paper_id: '22'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1022.jpg
+  title: The intersection of Finite State Automata and Definite Clause Grammars
+  title_html: The intersection of Finite State Automata and Definite Clause Grammars
+  url: https://www.aclweb.org/anthology/P95-1022
+  year: '1995'
+P95-1023:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Sanguthevar
+    full: Sanguthevar Rajasekaran
+    id: sanguthevar-rajasekaran
+    last: Rajasekaran
+  - first: Shibu
+    full: Shibu Yooseph
+    id: shibu-yooseph
+    last: Yooseph
+  author_string: Sanguthevar Rajasekaran, Shibu Yooseph
+  bibkey: rajasekaran-yooseph-1995-tal
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981681
+  month: June
+  page_first: '166'
+  page_last: '173'
+  pages: "166\u2013173"
+  paper_id: '23'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1023.jpg
+  title: TAL Recognition in O(M(n2)) Time Time
+  title_html: TAL Recognition in <span class="tex-math">O(M(n<sup>2</sup>))</span>
+    Time
+  url: https://www.aclweb.org/anthology/P95-1023
+  year: '1995'
+P95-1024:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Andreas
+    full: Andreas Kathol
+    id: andreas-kathol
+    last: Kathol
+  - first: Carl
+    full: Carl Pollard
+    id: carl-pollard
+    last: Pollard
+  author_string: Andreas Kathol, Carl Pollard
+  bibkey: kathol-pollard-1995-extraposition
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981682
+  month: June
+  page_first: '174'
+  page_last: '180'
+  pages: "174\u2013180"
+  paper_id: '24'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1024.jpg
+  title: Extraposition via Complex Domain Formation
+  title_html: Extraposition via Complex Domain Formation
+  url: https://www.aclweb.org/anthology/P95-1024
+  year: '1995'
+P95-1025:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Alpha K.
+    full: Alpha K. Luk
+    id: alpha-k-luk
+    last: Luk
+  author_string: Alpha K. Luk
+  bibkey: luk-1995-statistical
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981683
+  month: June
+  page_first: '181'
+  page_last: '188'
+  pages: "181\u2013188"
+  paper_id: '25'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1025.jpg
+  title: Statistical Sense Disambiguation with Relatively Small Corpora Using Dictionary
+    Definitions
+  title_html: Statistical Sense Disambiguation with Relatively Small Corpora Using
+    Dictionary Definitions
+  url: https://www.aclweb.org/anthology/P95-1025
+  year: '1995'
+P95-1026:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: David Yarowsky
+  bibkey: yarowsky-1995-unsupervised
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981684
+  month: June
+  page_first: '189'
+  page_last: '196'
+  pages: "189\u2013196"
+  paper_id: '26'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1026.jpg
+  title: Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+  title_html: Unsupervised Word Sense Disambiguation Rivaling Supervised Methods
+  url: https://www.aclweb.org/anthology/P95-1026
+  year: '1995'
+P95-1027:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Vasileios
+    full: Vasileios Hatzivassiloglou
+    id: vasileios-hatzivassiloglou
+    last: Hatzivassiloglou
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Vasileios Hatzivassiloglou, Kathleen McKeown
+  bibkey: hatzivassiloglou-mckeown-1995-quantitative
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981685
+  month: June
+  page_first: '197'
+  page_last: '204'
+  pages: "197\u2013204"
+  paper_id: '27'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1027.jpg
+  title: A Quantitative Evaluation of Linguistic Tests for the Automatic Prediction
+    of Semantic Markedness
+  title_html: A Quantitative Evaluation of Linguistic Tests for the Automatic Prediction
+    of Semantic Markedness
+  url: https://www.aclweb.org/anthology/P95-1027
+  year: '1995'
+P95-1028:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Jong C.
+    full: Jong C. Park
+    id: jong-c-park
+    last: Park
+  author_string: Jong C. Park
+  bibkey: park-1995-quantifier
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981686
+  month: June
+  page_first: '205'
+  page_last: '212'
+  pages: "205\u2013212"
+  paper_id: '28'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1028.jpg
+  title: Quantifier Scope and Constituency
+  title_html: Quantifier Scope and Constituency
+  url: https://www.aclweb.org/anthology/P95-1028
+  year: '1995'
+P95-1029:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Seth
+    full: Seth Kulick
+    id: seth-kulick
+    last: Kulick
+  author_string: Seth Kulick
+  bibkey: kulick-1995-using
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981687
+  month: June
+  page_first: '213'
+  page_last: '219'
+  pages: "213\u2013219"
+  paper_id: '29'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1029.jpg
+  title: Using Higher-Order Logic Programming for Semantic Interpretation of Coordinate
+    Constructs
+  title_html: Using Higher-Order Logic Programming for Semantic Interpretation of
+    Coordinate Constructs
+  url: https://www.aclweb.org/anthology/P95-1029
+  year: '1995'
+P95-1030:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Eric Sven
+    full: Eric Sven Ristad
+    id: eric-sven-ristad
+    last: Ristad
+  - first: Robert G.
+    full: Robert G. Thomas
+    id: robert-g-thomas
+    last: Thomas
+  author_string: Eric Sven Ristad, Robert G. Thomas
+  bibkey: ristad-thomas-1995-new
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981688
+  month: June
+  page_first: '220'
+  page_last: '227'
+  pages: "220\u2013227"
+  paper_id: '30'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1030.jpg
+  title: New Techniques for Context Modeling
+  title_html: New Techniques for Context Modeling
+  url: https://www.aclweb.org/anthology/P95-1030
+  year: '1995'
+P95-1031:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Stanley F.
+    full: Stanley F. Chen
+    id: stanley-f-chen
+    last: Chen
+  author_string: Stanley F. Chen
+  bibkey: chen-1995-bayesian
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981689
+  month: June
+  page_first: '228'
+  page_last: '235'
+  pages: "228\u2013235"
+  paper_id: '31'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1031.jpg
+  title: Bayesian Grammar Induction for Language Modeling
+  title_html: <span class="acl-fixed-case">B</span>ayesian Grammar Induction for Language
+    Modeling
+  url: https://www.aclweb.org/anthology/P95-1031
+  year: '1995'
+P95-1032:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Pascale
+    full: Pascale Fung
+    id: pascale-fung
+    last: Fung
+  author_string: Pascale Fung
+  bibkey: fung-1995-pattern
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981690
+  month: June
+  page_first: '236'
+  page_last: '243'
+  pages: "236\u2013243"
+  paper_id: '32'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1032.jpg
+  title: A Pattern Matching Method for Finding Noun and Proper Noun Translations from
+    Noisy Parallel Corpora
+  title_html: A Pattern Matching Method for Finding Noun and Proper Noun Translations
+    from Noisy Parallel Corpora
+  url: https://www.aclweb.org/anthology/P95-1032
+  year: '1995'
+P95-1033:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Dekai Wu
+  bibkey: wu-1995-algorithm
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981691
+  month: June
+  page_first: '244'
+  page_last: '251'
+  pages: "244\u2013251"
+  paper_id: '33'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1033.jpg
+  title: An Algorithm for Simultaneously Bracketing Parallel Texts by Aligning Words
+  title_html: An Algorithm for Simultaneously Bracketing Parallel Texts by Aligning
+    Words
+  url: https://www.aclweb.org/anthology/P95-1033
+  year: '1995'
+P95-1034:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Vasileios
+    full: Vasileios Hatzivassiloglou
+    id: vasileios-hatzivassiloglou
+    last: Hatzivassiloglou
+  author_string: Kevin Knight, Vasileios Hatzivassiloglou
+  bibkey: knight-hatzivassiloglou-1995-two
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981692
+  month: June
+  page_first: '252'
+  page_last: '260'
+  pages: "252\u2013260"
+  paper_id: '34'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1034.jpg
+  title: Two-Level, Many-Paths Generation
+  title_html: Two-Level, Many-Paths Generation
+  url: https://www.aclweb.org/anthology/P95-1034
+  year: '1995'
+P95-1035:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Victor
+    full: Victor Poznanski
+    id: victor-poznanski
+    last: Poznanski
+  - first: John L.
+    full: John L. Beaven
+    id: john-l-beaven
+    last: Beaven
+  - first: Pete
+    full: Pete Whitelock
+    id: pete-whitelock
+    last: Whitelock
+  author_string: Victor Poznanski, John L. Beaven, Pete Whitelock
+  bibkey: poznanski-etal-1995-efficient
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981693
+  month: June
+  page_first: '261'
+  page_last: '267'
+  pages: "261\u2013267"
+  paper_id: '35'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1035.jpg
+  title: An Efficient Generation Algorithm for Lexicalist MT
+  title_html: An Efficient Generation Algorithm for Lexicalist <span class="acl-fixed-case">MT</span>
+  url: https://www.aclweb.org/anthology/P95-1035
+  year: '1995'
+P95-1036:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: B.
+    full: B. Srinivas
+    id: srinivas-bangalore
+    last: Srinivas
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: B. Srinivas, Aravind K. Joshi
+  bibkey: srinivas-joshi-1995-novel
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981694
+  month: June
+  page_first: '268'
+  page_last: '275'
+  pages: "268\u2013275"
+  paper_id: '36'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1036.jpg
+  title: Some Novel Applications of Explanation-Based Learning to Parsing Lexicalized
+    Tree-Adjoining Grammars
+  title_html: Some Novel Applications of Explanation-Based Learning to Parsing Lexicalized
+    Tree-Adjoining Grammars
+  url: https://www.aclweb.org/anthology/P95-1036
+  year: '1995'
+P95-1037:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: David M.
+    full: David M. Magerman
+    id: david-m-magerman
+    last: Magerman
+  author_string: David M. Magerman
+  bibkey: magerman-1995-statistical
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981695
+  month: June
+  page_first: '276'
+  page_last: '283'
+  pages: "276\u2013283"
+  paper_id: '37'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1037.jpg
+  title: Statistical Decision-Tree Models for Parsing
+  title_html: Statistical Decision-Tree Models for Parsing
+  url: https://www.aclweb.org/anthology/P95-1037
+  year: '1995'
+P95-1038:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Rajeev
+    full: Rajeev Agarwal
+    id: rajeev-agarwal
+    last: Agarwal
+  author_string: Rajeev Agarwal
+  bibkey: agarwal-1995-evaluation
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981697
+  month: June
+  page_first: '284'
+  page_last: '286'
+  pages: "284\u2013286"
+  paper_id: '38'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1038.jpg
+  title: Evaluation of Semantic Clusters
+  title_html: Evaluation of Semantic Clusters
+  url: https://www.aclweb.org/anthology/P95-1038
+  year: '1995'
+P95-1039:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  author_string: Thorsten Brants
+  bibkey: brants-1995-tagset
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981698
+  month: June
+  page_first: '287'
+  page_last: '289'
+  pages: "287\u2013289"
+  paper_id: '39'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1039.jpg
+  title: Tagset Reduction Without Information Loss
+  title_html: Tagset Reduction Without Information Loss
+  url: https://www.aclweb.org/anthology/P95-1039
+  year: '1995'
+P95-1040:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Janet
+    full: Janet Cahn
+    id: janet-cahn
+    last: Cahn
+  author_string: Janet Cahn
+  bibkey: cahn-1995-effect
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981699
+  month: June
+  page_first: '290'
+  page_last: '292'
+  pages: "290\u2013292"
+  paper_id: '40'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1040.jpg
+  title: The Effect of Pitch Accenting on Pronoun Referent Resolution
+  title_html: The Effect of Pitch Accenting on Pronoun Referent Resolution
+  url: https://www.aclweb.org/anthology/P95-1040
+  year: '1995'
+P95-1041:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Anil S.
+    full: Anil S. Chakravarthy
+    id: anil-s-chakravarthy
+    last: Chakravarthy
+  author_string: Anil S. Chakravarthy
+  bibkey: chakravarthy-1995-sense
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981700
+  month: June
+  page_first: '293'
+  page_last: '295'
+  pages: "293\u2013295"
+  paper_id: '41'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1041.jpg
+  title: Sense Disambiguation Using Semantic Relations and Adjacency Information
+  title_html: Sense Disambiguation Using Semantic Relations and Adjacency Information
+  url: https://www.aclweb.org/anthology/P95-1041
+  year: '1995'
+P95-1042:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Jeremy
+    full: Jeremy Crowe
+    id: jeremy-crowe
+    last: Crowe
+  author_string: Jeremy Crowe
+  bibkey: crowe-1995-constraint
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981701
+  month: June
+  page_first: '296'
+  page_last: '298'
+  pages: "296\u2013298"
+  paper_id: '42'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1042.jpg
+  title: Constraint-Based Event Recognition for Information Extraction
+  title_html: Constraint-Based Event Recognition for Information Extraction
+  url: https://www.aclweb.org/anthology/P95-1042
+  year: '1995'
+P95-1043:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Lidia
+    full: Lidia Praczak
+    id: lidia-praczak
+    last: Praczak
+  author_string: Lidia Praczak
+  bibkey: praczak-1995-route
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981702
+  month: June
+  page_first: '299'
+  page_last: '301'
+  pages: "299\u2013301"
+  paper_id: '43'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1043.jpg
+  title: 'From route descriptions to sketches: a model for a text-to-image translator'
+  title_html: 'From route descriptions to sketches: a model for a text-to-image translator'
+  url: https://www.aclweb.org/anthology/P95-1043
+  year: '1995'
+P95-1044:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Elvan
+    full: Elvan Gocmen
+    id: elvan-gocmen
+    last: Gocmen
+  author_string: Elvan Gocmen
+  bibkey: gocmen-1995-computational
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981703
+  month: June
+  page_first: '302'
+  page_last: '304'
+  pages: "302\u2013304"
+  paper_id: '44'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1044.jpg
+  title: A Computational Framework for Composition in Multiple Linguistic Domains
+  title_html: A Computational Framework for Composition in Multiple Linguistic Domains
+  url: https://www.aclweb.org/anthology/P95-1044
+  year: '1995'
+P95-1045:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Jean-Michel
+    full: Jean-Michel Grandchamp
+    id: jean-michel-grandchamp
+    last: Grandchamp
+  author_string: Jean-Michel Grandchamp
+  bibkey: grandchamp-1995-polyphony
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981704
+  month: June
+  page_first: '305'
+  page_last: '307'
+  pages: "305\u2013307"
+  paper_id: '45'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1045.jpg
+  title: Polyphony and Argumentative Semantics
+  title_html: Polyphony and Argumentative Semantics
+  url: https://www.aclweb.org/anthology/P95-1045
+  year: '1995'
+P95-1046:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  author_string: Chin-Yew Lin
+  bibkey: lin-1995-knowledge
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981705
+  month: June
+  page_first: '308'
+  page_last: '310'
+  pages: "308\u2013310"
+  paper_id: '46'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1046.jpg
+  title: Knowledge-based Automatic Topic Identification
+  title_html: Knowledge-based Automatic Topic Identification
+  url: https://www.aclweb.org/anthology/P95-1046
+  year: '1995'
+P95-1047:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Carl
+    full: Carl de Marcken
+    id: carl-de-marcken
+    last: de Marcken
+  author_string: Carl de Marcken
+  bibkey: de-marcken-1995-acquiring
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981706
+  month: June
+  page_first: '311'
+  page_last: '313'
+  pages: "311\u2013313"
+  paper_id: '47'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1047.jpg
+  title: Acquiring a Lexicon from Unsegmented Speech
+  title_html: Acquiring a Lexicon from Unsegmented Speech
+  url: https://www.aclweb.org/anthology/P95-1047
+  year: '1995'
+P95-1048:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Milan
+    full: Milan Mosny
+    id: milan-mosny
+    last: Mosny
+  - first: Simon
+    full: Simon Fraser
+    id: simon-fraser
+    last: Fraser
+  author_string: Milan Mosny, Simon Fraser
+  bibkey: mosny-fraser-1995-semantic
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981707
+  month: June
+  page_first: '314'
+  page_last: '316'
+  pages: "314\u2013316"
+  paper_id: '48'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1048.jpg
+  title: Semantic Information Preprocessing for Natural Language Interfaces to Databases
+  title_html: Semantic Information Preprocessing for Natural Language Interfaces to
+    Databases
+  url: https://www.aclweb.org/anthology/P95-1048
+  year: '1995'
+P95-1049:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Hyun S.
+    full: Hyun S. Park
+    id: hyun-seok-park
+    last: Park
+  author_string: Hyun S. Park
+  bibkey: park-1995-mapping
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981708
+  month: June
+  page_first: '317'
+  page_last: '319'
+  pages: "317\u2013319"
+  paper_id: '49'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1049.jpg
+  title: Mapping Scrambled Korean Sentences into English Using Synchronous TAGs
+  title_html: Mapping Scrambled <span class="acl-fixed-case">K</span>orean Sentences
+    into <span class="acl-fixed-case">E</span>nglish Using Synchronous <span class="acl-fixed-case">TAG</span>s
+  url: https://www.aclweb.org/anthology/P95-1049
+  year: '1995'
+P95-1050:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Reinhard
+    full: Reinhard Rapp
+    id: reinhard-rapp
+    last: Rapp
+  author_string: Reinhard Rapp
+  bibkey: rapp-1995-identifying
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981709
+  month: June
+  page_first: '320'
+  page_last: '322'
+  pages: "320\u2013322"
+  paper_id: '50'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1050.jpg
+  title: Identifying Word Translations in Non-Parallel Texts
+  title_html: Identifying Word Translations in Non-Parallel Texts
+  url: https://www.aclweb.org/anthology/P95-1050
+  year: '1995'
+P95-1051:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Walid S.
+    full: Walid S. Saba
+    id: walid-s-saba
+    last: Saba
+  author_string: Walid S. Saba
+  bibkey: saba-1995-towards
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981710
+  month: June
+  page_first: '323'
+  page_last: '325'
+  pages: "323\u2013325"
+  paper_id: '51'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1051.jpg
+  title: Towards a Cognitively Plausible Model for Quantification
+  title_html: Towards a Cognitively Plausible Model for Quantification
+  url: https://www.aclweb.org/anthology/P95-1051
+  year: '1995'
+P95-1052:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Frank
+    full: Frank Schilder
+    id: frank-schilder
+    last: Schilder
+  author_string: Frank Schilder
+  bibkey: schilder-1995-aspect
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981711
+  month: June
+  page_first: '326'
+  page_last: '328'
+  pages: "326\u2013328"
+  paper_id: '52'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1052.jpg
+  title: 'Aspect and Discourse Structure: Is a Neutral Viewpoint Required?'
+  title_html: 'Aspect and Discourse Structure: Is a Neutral Viewpoint Required?'
+  url: https://www.aclweb.org/anthology/P95-1052
+  year: '1995'
+P95-1053:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: James
+    full: James Shaw
+    id: james-shaw
+    last: Shaw
+  author_string: James Shaw
+  bibkey: shaw-1995-conciseness
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981712
+  month: June
+  page_first: '329'
+  page_last: '331'
+  pages: "329\u2013331"
+  paper_id: '53'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1053.jpg
+  title: Conciseness through Aggregation in Text Generation
+  title_html: Conciseness through Aggregation in Text Generation
+  url: https://www.aclweb.org/anthology/P95-1053
+  year: '1995'
+P95-1054:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: V
+    full: "V Krip\u0227sundar"
+    id: v-kripasundar
+    last: "Krip\u0227sundar"
+  author_string: "V Krip\u0227sundar"
+  bibkey: kripasundar-1995-quantifying
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981713
+  month: June
+  page_first: '332'
+  page_last: '334'
+  pages: "332\u2013334"
+  paper_id: '54'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1054.jpg
+  title: 'Quantifying lexical influence: Giving direction to context'
+  title_html: 'Quantifying lexical influence: Giving direction to context'
+  url: https://www.aclweb.org/anthology/P95-1054
+  year: '1995'
+P95-1055:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Cynthia A.
+    full: Cynthia A. Thompson
+    id: cynthia-a-thompson
+    last: Thompson
+  author_string: Cynthia A. Thompson
+  bibkey: thompson-1995-acquisition
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981714
+  month: June
+  page_first: '335'
+  page_last: '337'
+  pages: "335\u2013337"
+  paper_id: '55'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1055.jpg
+  title: Acquisition of a Lexicon from Semantic Representations of Sentences
+  title_html: Acquisition of a Lexicon from Semantic Representations of Sentences
+  url: https://www.aclweb.org/anthology/P95-1055
+  year: '1995'
+P95-1056:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Mettina
+    full: Mettina Veenstra
+    id: mettina-veenstra
+    last: Veenstra
+  author_string: Mettina Veenstra
+  bibkey: veenstra-1995-minimalist
+  bibtype: inproceedings
+  booktitle: 33rd Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 33rd Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981658.981715
+  month: June
+  page_first: '338'
+  page_last: '340'
+  pages: "338\u2013340"
+  paper_id: '56'
+  parent_volume_id: P95-1
+  pdf: https://www.aclweb.org/anthology/P95-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P95-1056.jpg
+  title: A Minimalist Head-Corner Parser
+  title_html: A Minimalist Head-Corner Parser
+  url: https://www.aclweb.org/anthology/P95-1056
+  year: '1995'

@@ -1,0 +1,1626 @@
+A92-1000:
+  address: Trento, Italy
+  bibkey: anlp-1992-applied
+  bibtype: proceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  month: March
+  paper_id: '0'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1000.jpg
+  title: Third Conference on Applied Natural Language Processing
+  title_html: Third Conference on Applied Natural Language Processing
+  url: https://www.aclweb.org/anthology/A92-1000
+  year: '1992'
+A92-1001:
+  address: Trento, Italy
+  author:
+  - first: Manny
+    full: Manny Rayner
+    id: manny-rayner
+    last: Rayner
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  author_string: Manny Rayner, Hiyan Alshawi
+  bibkey: rayner-alshawi-1992-deriving
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974501
+  month: March
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1001.jpg
+  title: Deriving Database Queries from Logical Forms by Abductive Definition Expansion
+  title_html: Deriving Database Queries from Logical Forms by Abductive Definition
+    Expansion
+  url: https://www.aclweb.org/anthology/A92-1001
+  year: '1992'
+A92-1002:
+  address: Trento, Italy
+  author:
+  - first: Ronnie W.
+    full: Ronnie W. Smith
+    id: ronnie-w-smith
+    last: Smith
+  - first: D. Richard
+    full: D. Richard Hipp
+    id: d-richard-hipp
+    last: Hipp
+  - first: Alan W.
+    full: Alan W. Biermann
+    id: alan-w-biermann
+    last: Biermann
+  author_string: Ronnie W. Smith, D. Richard Hipp, Alan W. Biermann
+  bibkey: smith-etal-1992-dialog
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974502
+  month: March
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1002.jpg
+  title: A Dialog Control Algorithm and Its Performance
+  title_html: A Dialog Control Algorithm and Its Performance
+  url: https://www.aclweb.org/anthology/A92-1002
+  year: '1992'
+A92-1003:
+  address: Trento, Italy
+  author:
+  - first: Alberto
+    full: Alberto Lavelli
+    id: alberto-lavelli
+    last: Lavelli
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Alberto Lavelli, Bernardo Magnini, Carlo Strapparava
+  bibkey: lavelli-etal-1992-approach
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974503
+  month: March
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1003.jpg
+  title: An Approach to Multilevel Semantics for Applied Systems
+  title_html: An Approach to Multilevel Semantics for Applied Systems
+  url: https://www.aclweb.org/anthology/A92-1003
+  year: '1992'
+A92-1004:
+  address: Trento, Italy
+  author:
+  - first: Joan
+    full: Joan Bachenko
+    id: joan-bachenko
+    last: Bachenko
+  - first: Jeffrey
+    full: Jeffrey Daugherty
+    id: jeffrey-daugherty
+    last: Daugherty
+  - first: Eileen
+    full: Eileen Fitzpatrick
+    id: eileen-fitzpatrick
+    last: Fitzpatrick
+  author_string: Joan Bachenko, Jeffrey Daugherty, Eileen Fitzpatrick
+  bibkey: bachenko-etal-1992-parser
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974505
+  month: March
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1004.jpg
+  title: A Parser for Real-Time Speech Synthesis of Conversational Texts
+  title_html: A Parser for Real-Time Speech Synthesis of Conversational Texts
+  url: https://www.aclweb.org/anthology/A92-1004
+  year: '1992'
+A92-1005:
+  address: Trento, Italy
+  author:
+  - first: Paolo
+    full: Paolo Baggia
+    id: paolo-baggia
+    last: Baggia
+  - first: Elisabetta
+    full: Elisabetta Gerbino
+    id: elisabetta-gerbino
+    last: Gerbino
+  - first: Egidio
+    full: Egidio Giachin
+    id: egidio-giachin
+    last: Giachin
+  - first: Claudio
+    full: Claudio Rullent
+    id: claudio-rullent
+    last: Rullent
+  author_string: Paolo Baggia, Elisabetta Gerbino, Egidio Giachin, Claudio Rullent
+  bibkey: baggia-etal-1992-real
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974506
+  month: March
+  page_first: '33'
+  page_last: '39'
+  pages: "33\u201339"
+  paper_id: '5'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1005.jpg
+  title: Real-time linguistic analysis for continuous speech understanding
+  title_html: Real-time linguistic analysis for continuous speech understanding
+  url: https://www.aclweb.org/anthology/A92-1005
+  year: '1992'
+A92-1006:
+  address: Trento, Italy
+  author:
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: Tanya
+    full: Tanya Korelsky
+    id: tanya-korelsky
+    last: Korelsky
+  author_string: Owen Rambow, Tanya Korelsky
+  bibkey: rambow-korelsky-1992-applied
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974508
+  month: March
+  page_first: '40'
+  page_last: '47'
+  pages: "40\u201347"
+  paper_id: '6'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1006.jpg
+  title: Applied Text Generation
+  title_html: Applied Text Generation
+  url: https://www.aclweb.org/anthology/A92-1006
+  year: '1992'
+A92-1007:
+  address: Trento, Italy
+  author:
+  - first: Stephan M.
+    full: Stephan M. Kerpedjiev
+    id: stephan-m-kerpedjiev
+    last: Kerpedjiev
+  author_string: Stephan M. Kerpedjiev
+  bibkey: kerpedjiev-1992-automatic
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974509
+  month: March
+  page_first: '48'
+  page_last: '55'
+  pages: "48\u201355"
+  paper_id: '7'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1007.jpg
+  title: Automatic Generation of Multimodal Weather Reports from Datasets
+  title_html: Automatic Generation of Multimodal Weather Reports from Datasets
+  url: https://www.aclweb.org/anthology/A92-1007
+  year: '1992'
+A92-1008:
+  address: Trento, Italy
+  author:
+  - first: Peter
+    full: Peter Wazinski
+    id: peter-wazinski
+    last: Wazinski
+  author_string: Peter Wazinski
+  bibkey: wazinski-1992-generating
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974510
+  month: March
+  page_first: '56'
+  page_last: '63'
+  pages: "56\u201363"
+  paper_id: '8'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1008.jpg
+  title: Generating Spatial Descriptions for Cross-modal References
+  title_html: Generating Spatial Descriptions for Cross-modal References
+  url: https://www.aclweb.org/anthology/A92-1008
+  year: '1992'
+A92-1009:
+  address: Trento, Italy
+  author:
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  - first: Chris
+    full: Chris Mellish
+    id: chris-mellish
+    last: Mellish
+  - first: John
+    full: John Levine
+    id: john-levine
+    last: Levine
+  author_string: Ehud Reiter, Chris Mellish, John Levine
+  bibkey: reiter-etal-1992-automatic
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974511
+  month: March
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '9'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1009.jpg
+  title: Automatic Generation of On-Line Documentation in the IDAS Project
+  title_html: Automatic Generation of On-Line Documentation in the <span class="acl-fixed-case">IDAS</span>
+    Project
+  url: https://www.aclweb.org/anthology/A92-1009
+  year: '1992'
+A92-1010:
+  address: Trento, Italy
+  author:
+  - first: Stephan
+    full: Stephan Dilley
+    id: stephan-dilley
+    last: Dilley
+  - first: John
+    full: John Bateman
+    id: john-bateman
+    last: Bateman
+  - first: Ulrich
+    full: Ulrich Thiel
+    id: ulrich-thiel
+    last: Thiel
+  - first: Anne
+    full: Anne Tissen
+    id: anne-tissen
+    last: Tissen
+  author_string: Stephan Dilley, John Bateman, Ulrich Thiel, Anne Tissen
+  bibkey: dilley-etal-1992-integrating
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974512
+  month: March
+  page_first: '72'
+  page_last: '79'
+  pages: "72\u201379"
+  paper_id: '10'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1010.jpg
+  title: Integrating Natural Language Components into Graphical Discourse
+  title_html: Integrating Natural Language Components into Graphical Discourse
+  url: https://www.aclweb.org/anthology/A92-1010
+  year: '1992'
+A92-1011:
+  address: Trento, Italy
+  author:
+  - first: Antonio
+    full: Antonio Sanfilippo
+    id: antonio-sanfilippo
+    last: Sanfilippo
+  - first: Victor
+    full: Victor Poznatlski
+    id: victor-poznatlski
+    last: Poznatlski
+  author_string: Antonio Sanfilippo, Victor Poznatlski
+  bibkey: sanfilippo-poznatlski-1992-acquisition
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974514
+  month: March
+  page_first: '80'
+  page_last: '87'
+  pages: "80\u201387"
+  paper_id: '11'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1011.jpg
+  title: The Acquisition of Lexical Knowledge from Combined Machine-Readable Dictionary
+    Sources
+  title_html: The Acquisition of Lexical Knowledge from Combined Machine-Readable
+    Dictionary Sources
+  url: https://www.aclweb.org/anthology/A92-1011
+  year: '1992'
+A92-1012:
+  address: Trento, Italy
+  author:
+  - first: Ann
+    full: Ann Copestake
+    id: ann-copestake
+    last: Copestake
+  author_string: Ann Copestake
+  bibkey: copestake-1992-acquilex
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974515
+  month: March
+  page_first: '88'
+  page_last: '95'
+  pages: "88\u201395"
+  paper_id: '12'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1012.jpg
+  title: 'The ACQUILEX LKB: representation issues in semi-automatic acquisition of
+    large lexicons'
+  title_html: 'The <span class="acl-fixed-case">ACQUILEX</span> <span class="acl-fixed-case">LKB</span>:
+    representation issues in semi-automatic acquisition of large lexicons'
+  url: https://www.aclweb.org/anthology/A92-1012
+  year: '1992'
+A92-1013:
+  address: Trento, Italy
+  author:
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  - first: Maria Teresa
+    full: Maria Teresa Pazienza
+    id: maria-teresa-pazienza
+    last: Pazienza
+  - first: Paola
+    full: Paola Velardi
+    id: paola-velardi
+    last: Velardi
+  author_string: Roberto Basili, Maria Teresa Pazienza, Paola Velardi
+  bibkey: basili-etal-1992-computational
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974516
+  month: March
+  page_first: '96'
+  page_last: '103'
+  pages: "96\u2013103"
+  paper_id: '13'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1013.jpg
+  title: 'Computational Lexicons: the Neat Examples and the Odd Exemplars'
+  title_html: 'Computational Lexicons: the Neat Examples and the Odd Exemplars'
+  url: https://www.aclweb.org/anthology/A92-1013
+  year: '1992'
+A92-1014:
+  address: Trento, Italy
+  author:
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Jeremy J.
+    full: Jeremy J. Carroll
+    id: jeremy-j-carroll
+    last: Carroll
+  - first: Sofia
+    full: Sofia Ananiadou
+    id: sofia-ananiadou
+    last: Ananiadou
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Satoshi Sekine, Jeremy J. Carroll, Sofia Ananiadou, Jun\u2019ichi\
+    \ Tsujii"
+  bibkey: sekine-etal-1992-automatic
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974517
+  month: March
+  page_first: '104'
+  page_last: '110'
+  pages: "104\u2013110"
+  paper_id: '14'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1014.jpg
+  title: Automatic Learning for Semantic Collocation
+  title_html: Automatic Learning for Semantic Collocation
+  url: https://www.aclweb.org/anthology/A92-1014
+  year: '1992'
+A92-1015:
+  address: Trento, Italy
+  author:
+  - first: Theo
+    full: Theo Vosse
+    id: theo-vosse
+    last: Vosse
+  author_string: Theo Vosse
+  bibkey: vosse-1992-detecting
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974519
+  month: March
+  page_first: '111'
+  page_last: '118'
+  pages: "111\u2013118"
+  paper_id: '15'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1015.jpg
+  title: Detecting and Correcting Morpho-syntactic Errors in Real Texts
+  title_html: Detecting and Correcting Morpho-syntactic Errors in Real Texts
+  url: https://www.aclweb.org/anthology/A92-1015
+  year: '1992'
+A92-1016:
+  address: Trento, Italy
+  author:
+  - first: E.
+    full: E. Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: I
+    full: I Alegria
+    id: inaki-alegria
+    last: Alegria
+  - first: X
+    full: X Arregi
+    id: xabier-arregi
+    last: Arregi
+  - first: X
+    full: X Artola
+    id: xabier-artola
+    last: Artola
+  - first: A
+    full: A Diaz de Ilarraza
+    id: arantza-diaz-de-ilarraza
+    last: Diaz de Ilarraza
+  - first: M
+    full: M Maritxalar
+    id: montse-maritxalar
+    last: Maritxalar
+  - first: K
+    full: K Sarasola
+    id: kepa-sarasola
+    last: Sarasola
+  - first: M
+    full: M Urkia
+    id: miriam-urkia
+    last: Urkia
+  author_string: E. Agirre, I Alegria, X Arregi, X Artola, A Diaz de Ilarraza, M Maritxalar,
+    K Sarasola, M Urkia
+  bibkey: agirre-etal-1992-xuxen
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974520
+  month: March
+  page_first: '119'
+  page_last: '125'
+  pages: "119\u2013125"
+  paper_id: '16'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1016.jpg
+  title: 'XUXEN: A Spelling Checker/Corrector for Basque Based on Two-Level Morphology'
+  title_html: '<span class="acl-fixed-case">XUXEN</span>: A Spelling Checker/Corrector
+    for Basque Based on Two-Level Morphology'
+  url: https://www.aclweb.org/anthology/A92-1016
+  year: '1992'
+A92-1017:
+  address: Trento, Italy
+  author:
+  - first: Ralf
+    full: Ralf Kese
+    id: ralf-kese
+    last: Kese
+  - first: Friedrich
+    full: Friedrich Dudda
+    id: friedrich-dudda
+    last: Dudda
+  - first: Gerhard
+    full: Gerhard Heyer
+    id: gerhard-heyer
+    last: Heyer
+  - first: Marianne
+    full: Marianne Kugler
+    id: marianne-kugler
+    last: Kugler
+  author_string: Ralf Kese, Friedrich Dudda, Gerhard Heyer, Marianne Kugler
+  bibkey: kese-etal-1992-extended
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974521
+  month: March
+  page_first: '126'
+  page_last: '132'
+  pages: "126\u2013132"
+  paper_id: '17'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1017.jpg
+  title: Extended Spelling Correction for German
+  title_html: Extended Spelling Correction for <span class="acl-fixed-case">G</span>erman
+  url: https://www.aclweb.org/anthology/A92-1017
+  year: '1992'
+A92-1018:
+  address: Trento, Italy
+  author:
+  - first: Doug
+    full: Doug Cutting
+    id: douglass-cutting
+    last: Cutting
+  - first: Julian
+    full: Julian Kupiec
+    id: julian-kupiec
+    last: Kupiec
+  - first: Jan
+    full: Jan Pedersen
+    id: jan-pedersen
+    last: Pedersen
+  - first: Penelope
+    full: Penelope Sibun
+    id: penelope-sibun
+    last: Sibun
+  author_string: Doug Cutting, Julian Kupiec, Jan Pedersen, Penelope Sibun
+  bibkey: cutting-etal-1992-practical
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974523
+  month: March
+  page_first: '133'
+  page_last: '140'
+  pages: "133\u2013140"
+  paper_id: '18'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1018.jpg
+  title: A Practical Part-of-Speech Tagger
+  title_html: A Practical Part-of-Speech Tagger
+  url: https://www.aclweb.org/anthology/A92-1018
+  year: '1992'
+A92-1019:
+  address: Trento, Italy
+  author:
+  - first: Hans
+    full: Hans Paulussen
+    id: hans-paulussen
+    last: Paulussen
+  - first: Willy
+    full: Willy Martin
+    id: willy-martin
+    last: Martin
+  author_string: Hans Paulussen, Willy Martin
+  bibkey: paulussen-martin-1992-dilemma
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974524
+  month: March
+  page_first: '141'
+  page_last: '146'
+  pages: "141\u2013146"
+  paper_id: '19'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1019.jpg
+  title: 'DILEMMA-2: A Lemmatizer-Tagger for Medical Abstracts'
+  title_html: '<span class="acl-fixed-case">DILEMMA</span>-2: A Lemmatizer-Tagger
+    for Medical Abstracts'
+  url: https://www.aclweb.org/anthology/A92-1019
+  year: '1992'
+A92-1020:
+  address: Trento, Italy
+  author:
+  - first: Jyun-Sheng
+    full: Jyun-Sheng Chang
+    id: jyun-sheng-chang
+    last: Chang
+  - first: Tsung-Yih
+    full: Tsung-Yih Tseng
+    id: tsung-yih-tseng
+    last: Tseng
+  - first: Sur-Jin
+    full: Sur-Jin Ker
+    id: sue-j-ker
+    last: Ker
+  - first: Ying
+    full: Ying Cheng
+    id: ying-cheng
+    last: Cheng
+  - first: Huey-Chyun
+    full: Huey-Chyun Chen
+    id: huey-chyun-chen
+    last: Chen
+  - first: Shun-Der
+    full: Shun-Der Cheng
+    id: shun-der-chen
+    last: Cheng
+  - first: John S.
+    full: John S. Liu
+    id: john-s-liu
+    last: Liu
+  author_string: Jyun-Sheng Chang, Tsung-Yih Tseng, Sur-Jin Ker, Ying Cheng, Huey-Chyun
+    Chen, Shun-Der Cheng, John S. Liu
+  bibkey: chang-etal-1992-corpus
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974525
+  month: March
+  page_first: '147'
+  page_last: '151'
+  pages: "147\u2013151"
+  paper_id: '20'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1020.jpg
+  title: A Corpus-Based Statistical Approach to Automatic Book Indexing
+  title_html: A Corpus-Based Statistical Approach to Automatic Book Indexing
+  url: https://www.aclweb.org/anthology/A92-1020
+  year: '1992'
+A92-1021:
+  address: Trento, Italy
+  author:
+  - first: Eric
+    full: Eric Brill
+    id: eric-brill
+    last: Brill
+  author_string: Eric Brill
+  bibkey: brill-1992-simple-rule
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974526
+  month: March
+  page_first: '152'
+  page_last: '155'
+  pages: "152\u2013155"
+  paper_id: '21'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1021.jpg
+  title: A Simple Rule-Based Part of Speech Tagger
+  title_html: A Simple Rule-Based Part of Speech Tagger
+  url: https://www.aclweb.org/anthology/A92-1021
+  year: '1992'
+A92-1022:
+  address: Trento, Italy
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Catherine
+    full: Catherine Macleod
+    id: catherine-macleod
+    last: Macleod
+  - first: John
+    full: John Sterling
+    id: john-sterling
+    last: Sterling
+  author_string: Ralph Grishman, Catherine Macleod, John Sterling
+  bibkey: grishman-etal-1992-evaluating
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974528
+  month: March
+  page_first: '156'
+  page_last: '161'
+  pages: "156\u2013161"
+  paper_id: '22'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1022.jpg
+  title: Evaluating Parsing Strategies Using Standardized Parse Files
+  title_html: Evaluating Parsing Strategies Using Standardized Parse Files
+  url: https://www.aclweb.org/anthology/A92-1022
+  year: '1992'
+A92-1023:
+  address: Trento, Italy
+  author:
+  - first: Sean
+    full: Sean Boisen
+    id: sean-boisen
+    last: Boisen
+  - first: Madeleine
+    full: Madeleine Bates
+    id: madeleine-bates
+    last: Bates
+  author_string: Sean Boisen, Madeleine Bates
+  bibkey: boisen-bates-1992-practical
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974529
+  month: March
+  page_first: '162'
+  page_last: '169'
+  pages: "162\u2013169"
+  paper_id: '23'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1023.jpg
+  title: A Practical Methodology for the Evaluation of Spoken Language Systems
+  title_html: A Practical Methodology for the Evaluation of Spoken Language Systems
+  url: https://www.aclweb.org/anthology/A92-1023
+  year: '1992'
+A92-1024:
+  address: Trento, Italy
+  author:
+  - first: Peggy M.
+    full: Peggy M. Andersen
+    id: peggy-m-andersen
+    last: Andersen
+  - first: Philip J.
+    full: Philip J. Hayes
+    id: philip-j-hayes
+    last: Hayes
+  - first: Steven P.
+    full: Steven P. Weinstein
+    id: steven-p-weinstein
+    last: Weinstein
+  - first: Alison K.
+    full: Alison K. Huettner
+    id: alison-k-huettner
+    last: Huettner
+  - first: Linda M.
+    full: Linda M. Schmandt
+    id: linda-m-schmandt
+    last: Schmandt
+  - first: Irene B.
+    full: Irene B. Nirenburg
+    id: irene-nirenburg
+    last: Nirenburg
+  author_string: Peggy M. Andersen, Philip J. Hayes, Steven P. Weinstein, Alison K.
+    Huettner, Linda M. Schmandt, Irene B. Nirenburg
+  bibkey: andersen-etal-1992-automatic
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974531
+  month: March
+  page_first: '170'
+  page_last: '177'
+  pages: "170\u2013177"
+  paper_id: '24'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1024.jpg
+  title: Automatic Extraction of Facts from Press Releases to Generate News Stories
+  title_html: Automatic Extraction of Facts from Press Releases to Generate News Stories
+  url: https://www.aclweb.org/anthology/A92-1024
+  year: '1992'
+A92-1025:
+  address: Trento, Italy
+  author:
+  - first: Paul S.
+    full: Paul S. Jacobs
+    id: paul-s-jacobs
+    last: Jacobs
+  author_string: Paul S. Jacobs
+  bibkey: jacobs-1992-joining
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974532
+  month: March
+  page_first: '178'
+  page_last: '185'
+  pages: "178\u2013185"
+  paper_id: '25'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1025.jpg
+  title: Joining Statistics with NLP for Text Categorization
+  title_html: Joining Statistics with <span class="acl-fixed-case">NLP</span> for
+    Text Categorization
+  url: https://www.aclweb.org/anthology/A92-1025
+  year: '1992'
+A92-1026:
+  address: Trento, Italy
+  author:
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  - first: Douglas E.
+    full: Douglas E. Appelt
+    id: douglas-appelt
+    last: Appelt
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: Mabry
+    full: Mabry Tyson
+    id: mabry-tyson
+    last: Tyson
+  author_string: Jerry R. Hobbs, Douglas E. Appelt, John Bear, Mabry Tyson
+  bibkey: hobbs-etal-1992-robust
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974533
+  month: March
+  page_first: '186'
+  page_last: '192'
+  pages: "186\u2013192"
+  paper_id: '26'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1026.jpg
+  title: Robust Processing of Real-World Natural-Language Texts
+  title_html: Robust Processing of Real-World Natural-Language Texts
+  url: https://www.aclweb.org/anthology/A92-1026
+  year: '1992'
+A92-1027:
+  address: Trento, Italy
+  author:
+  - first: David D.
+    full: David D. McDonald
+    id: david-d-mcdonald
+    last: McDonald
+  author_string: David D. McDonald
+  bibkey: mcdonald-1992-efficient
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974534
+  month: March
+  page_first: '193'
+  page_last: '200'
+  pages: "193\u2013200"
+  paper_id: '27'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1027.jpg
+  title: An Efficient Chart-based Algorithm for Partial-Parsing of Unrestricted Texts
+  title_html: An Efficient Chart-based Algorithm for Partial-Parsing of Unrestricted
+    Texts
+  url: https://www.aclweb.org/anthology/A92-1027
+  year: '1992'
+A92-1028:
+  address: Trento, Italy
+  author:
+  - first: Hiromi
+    full: Hiromi Nakaiwa
+    id: hiromi-nakaiwa
+    last: Nakaiwa
+  - first: Satoru
+    full: Satoru Ikehara
+    id: satoru-ikehara
+    last: Ikehara
+  author_string: Hiromi Nakaiwa, Satoru Ikehara
+  bibkey: nakaiwa-ikehara-1992-zero
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974536
+  month: March
+  page_first: '201'
+  page_last: '208'
+  pages: "201\u2013208"
+  paper_id: '28'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1028.jpg
+  title: Zero Pronoun Resolution in a Machine Translation System by using Japanese
+    to English Verbal Semantic Attributes.
+  title_html: Zero Pronoun Resolution in a Machine Translation System by using <span
+    class="acl-fixed-case">J</span>apanese to <span class="acl-fixed-case">E</span>nglish
+    Verbal Semantic Attributes.
+  url: https://www.aclweb.org/anthology/A92-1028
+  year: '1992'
+A92-1029:
+  address: Trento, Italy
+  author:
+  - first: Pierrette
+    full: Pierrette Bouillon
+    id: pierrette-bouillon
+    last: Bouillon
+  - first: Katharina
+    full: Katharina Boesefeldt
+    id: katharina-boesefeldt
+    last: Boesefeldt
+  - first: Graham
+    full: Graham Russell
+    id: graham-russell
+    last: Russell
+  author_string: Pierrette Bouillon, Katharina Boesefeldt, Graham Russell
+  bibkey: bouillon-etal-1992-compound
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974537
+  month: March
+  page_first: '209'
+  page_last: '215'
+  pages: "209\u2013215"
+  paper_id: '29'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1029.jpg
+  title: Compound Nouns in a Unification-Based MT System
+  title_html: Compound Nouns in a Unification-Based <span class="acl-fixed-case">MT</span>
+    System
+  url: https://www.aclweb.org/anthology/A92-1029
+  year: '1992'
+A92-1030:
+  address: Trento, Italy
+  author:
+  - first: Patrick
+    full: Patrick Paroubek
+    id: patrick-paroubek
+    last: Paroubek
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Patrick Paroubek, Yves Schabes, Aravind K. Joshi
+  bibkey: paroubek-etal-1992-xtag
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974538
+  month: March
+  page_first: '223'
+  page_last: '230'
+  pages: "223\u2013230"
+  paper_id: '30'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1030.jpg
+  title: XTAG - A Graphical Workbench for Developing Tree-Adjoining Grammars
+  title_html: <span class="acl-fixed-case">XTAG</span> - A Graphical Workbench for
+    Developing Tree-Adjoining Grammars
+  url: https://www.aclweb.org/anthology/A92-1030
+  year: '1992'
+A92-1031:
+  address: Trento, Italy
+  author:
+  - first: A.
+    full: A. Winarske
+    id: amy-winarske
+    last: Winarske
+  - first: S.
+    full: S. Warwick-Armstrong
+    id: susan-armstrong
+    last: Warwick-Armstrong
+  - first: J.
+    full: "J. Haji\u010D"
+    id: jan-hajic
+    last: "Haji\u010D"
+  author_string: "A. Winarske, S. Warwick-Armstrong, J. Haji\u010D"
+  bibkey: winarske-etal-1992-tagging
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974540
+  month: March
+  page_first: '227'
+  page_last: '228'
+  pages: "227\u2013228"
+  paper_id: '31'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1031.jpg
+  title: 'Tagging and Alignment of Parallel Texts: Current Status of BCP'
+  title_html: 'Tagging and Alignment of Parallel Texts: Current Status of <span class="acl-fixed-case">BCP</span>'
+  url: https://www.aclweb.org/anthology/A92-1031
+  year: '1992'
+A92-1032:
+  address: Trento, Italy
+  author:
+  - first: Michela
+    full: Michela Fasolo
+    id: michela-fasolo
+    last: Fasolo
+  - first: Lorenzo
+    full: Lorenzo Garbuio
+    id: lorenzo-garbuio
+    last: Garbuio
+  - first: Nicola
+    full: Nicola Guarino
+    id: nicola-guarino
+    last: Guarino
+  author_string: Michela Fasolo, Lorenzo Garbuio, Nicola Guarino
+  bibkey: fasolo-etal-1992-robust
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974541
+  month: March
+  page_first: '229'
+  page_last: '230'
+  pages: "229\u2013230"
+  paper_id: '32'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1032.jpg
+  title: Robust parsing of natural language descriptions expressed in telegraphic
+    style
+  title_html: Robust parsing of natural language descriptions expressed in telegraphic
+    style
+  url: https://www.aclweb.org/anthology/A92-1032
+  year: '1992'
+A92-1033:
+  address: Trento, Italy
+  author:
+  - first: Eugene J.
+    full: Eugene J. Guglielmo
+    id: eugene-j-guglielmo
+    last: Guglielmo
+  - first: Neil C.
+    full: Neil C. Rowe
+    id: neil-c-rowe
+    last: Rowe
+  author_string: Eugene J. Guglielmo, Neil C. Rowe
+  bibkey: guglielmo-rowe-1992-overview
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974542
+  month: March
+  page_first: '231'
+  page_last: '232'
+  pages: "231\u2013232"
+  paper_id: '33'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1033.jpg
+  title: Overview of Natural Language Processing of Captions for Retrieving Multimedia
+    Data
+  title_html: Overview of Natural Language Processing of Captions for Retrieving Multimedia
+    Data
+  url: https://www.aclweb.org/anthology/A92-1033
+  year: '1992'
+A92-1034:
+  address: Trento, Italy
+  author:
+  - first: John R. R.
+    full: John R. R. Leavitt
+    id: john-r-r-leavitt
+    last: Leavitt
+  author_string: John R. R. Leavitt
+  bibkey: leavitt-1992-morphe
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974543
+  month: March
+  page_first: '233'
+  page_last: '234'
+  pages: "233\u2013234"
+  paper_id: '34'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1034.jpg
+  title: 'MORPHE: A Practical Compiler for Reversible Morphology Rules'
+  title_html: '<span class="acl-fixed-case">MORPHE</span>: A Practical Compiler for
+    Reversible Morphology Rules'
+  url: https://www.aclweb.org/anthology/A92-1034
+  year: '1992'
+A92-1035:
+  address: Trento, Italy
+  author:
+  - first: Lynn
+    full: Lynn Carlson
+    id: lynn-carlson
+    last: Carlson
+  - first: Sergei
+    full: Sergei Nirenburg
+    id: sergei-nirenburg
+    last: Nirenburg
+  author_string: Lynn Carlson, Sergei Nirenburg
+  bibkey: carlson-nirenburg-1992-practical
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974544
+  month: March
+  page_first: '235'
+  page_last: '236'
+  pages: "235\u2013236"
+  paper_id: '35'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1035.jpg
+  title: Practical World Modeling for NLP Applications
+  title_html: Practical World Modeling for <span class="acl-fixed-case">NLP</span>
+    Applications
+  url: https://www.aclweb.org/anthology/A92-1035
+  year: '1992'
+A92-1036:
+  address: Trento, Italy
+  author:
+  - first: Marie
+    full: Marie Meteer
+    id: marie-meteer
+    last: Meteer
+  author_string: Marie Meteer
+  bibkey: meteer-1992-portable
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974545
+  month: March
+  page_first: '237'
+  page_last: '238'
+  pages: "237\u2013238"
+  paper_id: '36'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1036.jpg
+  title: Portable Natural Language Generation using SPOKESMAN
+  title_html: Portable Natural Language Generation using <span class="acl-fixed-case">SPOKESMAN</span>
+  url: https://www.aclweb.org/anthology/A92-1036
+  year: '1992'
+A92-1037:
+  address: Trento, Italy
+  author:
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  - first: Makoto
+    full: Makoto Nagao
+    id: makoto-nagao
+    last: Nagao
+  - first: Satoshi
+    full: Satoshi Sato
+    id: satoshi-sato
+    last: Sato
+  - first: Masahiko
+    full: Masahiko Murakami
+    id: masahiko-murakami
+    last: Murakami
+  author_string: Sadao Kurohashi, Makoto Nagao, Satoshi Sato, Masahiko Murakami
+  bibkey: kurohashi-etal-1992-method
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974546
+  month: March
+  page_first: '239'
+  page_last: '240'
+  pages: "239\u2013240"
+  paper_id: '37'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1037.jpg
+  title: A Method of Automatic Hypertext Construction from an Encyclopedic Dictionary
+    of a Specific Field
+  title_html: A Method of Automatic Hypertext Construction from an Encyclopedic Dictionary
+    of a Specific Field
+  url: https://www.aclweb.org/anthology/A92-1037
+  year: '1992'
+A92-1038:
+  address: Trento, Italy
+  author:
+  - first: Harald
+    full: Harald Trost
+    id: harald-trost
+    last: Trost
+  - first: Wolfgang
+    full: Wolfgang Heinz
+    id: wolfgang-heinz
+    last: Heinz
+  - first: Johannes
+    full: Johannes Matiasek
+    id: johannes-matiasek
+    last: Matiasek
+  - first: Ernst
+    full: Ernst Buchberger
+    id: ernst-buchberger
+    last: Buchberger
+  author_string: Harald Trost, Wolfgang Heinz, Johannes Matiasek, Ernst Buchberger
+  bibkey: trost-etal-1992-datenbank
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974547
+  month: March
+  page_first: '241'
+  page_last: '242'
+  pages: "241\u2013242"
+  paper_id: '38'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1038.jpg
+  title: Datenbank-DIALOG and the Relevance of Habitability
+  title_html: Datenbank-<span class="acl-fixed-case">DIALOG</span> and the Relevance
+    of Habitability
+  url: https://www.aclweb.org/anthology/A92-1038
+  year: '1992'
+A92-1039:
+  address: Trento, Italy
+  author:
+  - first: Gregor
+    full: Gregor Erbach
+    id: gregor-erbach
+    last: Erbach
+  author_string: Gregor Erbach
+  bibkey: erbach-1992-tools
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974548
+  month: March
+  page_first: '243'
+  page_last: '244'
+  pages: "243\u2013244"
+  paper_id: '39'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1039.jpg
+  title: Tools for Grammar Engineering
+  title_html: Tools for Grammar Engineering
+  url: https://www.aclweb.org/anthology/A92-1039
+  year: '1992'
+A92-1040:
+  address: Trento, Italy
+  author:
+  - first: Scott
+    full: Scott McGlashan
+    id: scott-mcglashan
+    last: McGlashan
+  - first: Norman
+    full: Norman Fraser
+    id: norman-m-fraser
+    last: Fraser
+  - first: Nigel
+    full: Nigel Gilbert
+    id: nigel-gilbert
+    last: Gilbert
+  - first: Eric
+    full: Eric Bilange
+    id: eric-bilange
+    last: Bilange
+  - first: Paul
+    full: Paul Heisterkamp
+    id: paul-heisterkamp
+    last: Heisterkamp
+  - first: Nick
+    full: Nick Youd
+    id: nick-j-youd
+    last: Youd
+  author_string: Scott McGlashan, Norman Fraser, Nigel Gilbert, Eric Bilange, Paul
+    Heisterkamp, Nick Youd
+  bibkey: mcglashan-etal-1992-dialogue
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974549
+  month: March
+  page_first: '245'
+  page_last: '246'
+  pages: "245\u2013246"
+  paper_id: '40'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1040.jpg
+  title: Dialogue Management for Telephone Information Systems
+  title_html: Dialogue Management for Telephone Information Systems
+  url: https://www.aclweb.org/anthology/A92-1040
+  year: '1992'
+A92-1041:
+  address: Trento, Italy
+  author:
+  - first: Cristian
+    full: Cristian Dumitrescu
+    id: cristian-dumitrescu
+    last: Dumitrescu
+  author_string: Cristian Dumitrescu
+  bibkey: dumitrescu-1992-lexicon
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974550
+  month: March
+  page_first: '247'
+  page_last: '248'
+  pages: "247\u2013248"
+  paper_id: '41'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1041.jpg
+  title: Lexicon Design Using a Paradigmatic Approach
+  title_html: Lexicon Design Using a Paradigmatic Approach
+  url: https://www.aclweb.org/anthology/A92-1041
+  year: '1992'
+A92-1042:
+  address: Trento, Italy
+  author:
+  - first: Eyal
+    full: Eyal Shifroni
+    id: eyal-shifroni
+    last: Shifroni
+  - first: Uzzi
+    full: Uzzi Ornan
+    id: uzzi-ornan
+    last: Ornan
+  author_string: Eyal Shifroni, Uzzi Ornan
+  bibkey: shifroni-ornan-1992-acquiring
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974551
+  month: March
+  page_first: '249'
+  page_last: '250'
+  pages: "249\u2013250"
+  paper_id: '42'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1042.jpg
+  title: "Acquiring and Exploiting the User\u2019s Knowledge in Guidance Interactions"
+  title_html: "Acquiring and Exploiting the User\u2019s Knowledge in Guidance Interactions"
+  url: https://www.aclweb.org/anthology/A92-1042
+  year: '1992'
+A92-1043:
+  address: Trento, Italy
+  author:
+  - first: Stefan
+    full: Stefan Wermter
+    id: stefan-wermter
+    last: Wermter
+  author_string: Stefan Wermter
+  bibkey: wermter-1992-learning
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974552
+  month: March
+  page_first: '251'
+  page_last: '252'
+  pages: "251\u2013252"
+  paper_id: '43'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1043.jpg
+  title: "Learning a Scanning Understanding for \u201CReal-world\u201D Library Categorization"
+  title_html: "Learning a Scanning Understanding for \u201CReal-world\u201D Library\
+    \ Categorization"
+  url: https://www.aclweb.org/anthology/A92-1043
+  year: '1992'
+A92-1044:
+  address: Trento, Italy
+  author:
+  - first: Alicia
+    full: Alicia Ageno
+    id: alicia-ageno
+    last: Ageno
+  - first: Irene
+    full: Irene Castellon
+    id: irene-castellon
+    last: Castellon
+  - first: M. A.
+    full: M. A. Marti
+    id: m-antonia-marti
+    last: Marti
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  - first: Francesc
+    full: Francesc Ribas
+    id: francesc-ribas
+    last: Ribas
+  - first: Horacio
+    full: Horacio Rodriguez
+    id: horacio-rodriguez
+    last: Rodriguez
+  - first: Mariona
+    full: Mariona Taule
+    id: mariona-taule
+    last: Taule
+  - first: Felisa
+    full: Felisa Verdejo
+    id: felisa-verdejo
+    last: Verdejo
+  author_string: Alicia Ageno, Irene Castellon, M. A. Marti, German Rigau, Francesc
+    Ribas, Horacio Rodriguez, Mariona Taule, Felisa Verdejo
+  bibkey: ageno-etal-1992-seisd
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974553
+  month: March
+  page_first: '253'
+  page_last: '254'
+  pages: "253\u2013254"
+  paper_id: '44'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1044.jpg
+  title: 'SEISD: An environment for extraction of Semantic Information from on-line
+    dictionaries'
+  title_html: '<span class="acl-fixed-case">SEISD</span>: An environment for extraction
+    of Semantic Information from on-line dictionaries'
+  url: https://www.aclweb.org/anthology/A92-1044
+  year: '1992'
+A92-1045:
+  address: Trento, Italy
+  author:
+  - first: Sergei
+    full: Sergei Nirenburg
+    id: sergei-nirenburg
+    last: Nirenburg
+  - first: Peter
+    full: Peter Shell
+    id: peter-shell
+    last: Shell
+  - first: Ariel
+    full: Ariel Cohen
+    id: ariel-cohen
+    last: Cohen
+  - first: Peter
+    full: Peter Cousseau
+    id: peter-cousseau
+    last: Cousseau
+  - first: Dean
+    full: Dean Grannes
+    id: dean-grannes
+    last: Grannes
+  - first: Chris
+    full: Chris McNeilly
+    id: chris-mcneilly
+    last: McNeilly
+  author_string: Sergei Nirenburg, Peter Shell, Ariel Cohen, Peter Cousseau, Dean
+    Grannes, Chris McNeilly
+  bibkey: nirenburg-etal-1992-multi
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974554
+  month: March
+  page_first: '255'
+  page_last: '256'
+  pages: "255\u2013256"
+  paper_id: '45'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1045.jpg
+  title: Multi-Purpose Development and Operation Environments for Natural Language
+    Applications
+  title_html: Multi-Purpose Development and Operation Environments for Natural Language
+    Applications
+  url: https://www.aclweb.org/anthology/A92-1045
+  year: '1992'
+A92-1046:
+  address: Trento, Italy
+  author:
+  - first: Martin
+    full: Martin Volk
+    id: martin-volk
+    last: Volk
+  author_string: Martin Volk
+  bibkey: volk-1992-role
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974555
+  month: March
+  page_first: '257'
+  page_last: '258'
+  pages: "257\u2013258"
+  paper_id: '46'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1046.jpg
+  title: The Role of Testing in Grammar Engineering
+  title_html: The Role of Testing in Grammar Engineering
+  url: https://www.aclweb.org/anthology/A92-1046
+  year: '1992'
+A92-1047:
+  address: Trento, Italy
+  author:
+  - first: David M.
+    full: David M. Carter
+    id: david-carter
+    last: Carter
+  author_string: David M. Carter
+  bibkey: carter-1992-lexical
+  bibtype: inproceedings
+  booktitle: Third Conference on Applied Natural Language Processing
+  booktitle_html: Third Conference on Applied Natural Language Processing
+  doi: 10.3115/974499.974556
+  month: March
+  page_first: '259'
+  page_last: '260'
+  pages: "259\u2013260"
+  paper_id: '47'
+  parent_volume_id: A92-1
+  pdf: https://www.aclweb.org/anthology/A92-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A92-1047.jpg
+  title: Lexical Processing in the CLARE System
+  title_html: Lexical Processing in the <span class="acl-fixed-case">CLARE</span>
+    System
+  url: https://www.aclweb.org/anthology/A92-1047
+  year: '1992'

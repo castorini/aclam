@@ -1,0 +1,23 @@
+S98-1000:
+  address: Hermonceux Castle, Sussex, UK
+  author:
+  - first: Adam
+    full: Adam Kilgarriff
+    id: adam-kilgarriff
+    last: Kilgarriff
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Adam Kilgarriff, Martha Palmer
+  bibkey: semeval-1998-pilot
+  bibtype: proceedings
+  booktitle: Proceedings of the Pilot SENSEVAL
+  month: September
+  paper_id: '0'
+  parent_volume_id: S98-1
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S98-1000.jpg
+  title: Proceedings of the Pilot SENSEVAL
+  title_html: Proceedings of the Pilot <span class="acl-fixed-case">SENSEVAL</span>
+  year: '1998'

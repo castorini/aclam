@@ -1,0 +1,3260 @@
+R09-1000:
+  address: Borovets, Bulgaria
+  author:
+  - first: Galia
+    full: Galia Angelova
+    id: galia-angelova
+    last: Angelova
+  - first: Ruslan
+    full: Ruslan Mitkov
+    id: ruslan-mitkov
+    last: Mitkov
+  author_string: Galia Angelova, Ruslan Mitkov
+  bibkey: ranlp-2009-international
+  bibtype: proceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  month: September
+  paper_id: '0'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1000.jpg
+  title: Proceedings of the International Conference RANLP-2009
+  title_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  url: https://www.aclweb.org/anthology/R09-1000
+  year: '2009'
+R09-1001:
+  address: Borovets, Bulgaria
+  author:
+  - first: Naveed
+    full: Naveed Afzal
+    id: naveed-afzal
+    last: Afzal
+  - first: Viktor
+    full: Viktor Pekar
+    id: viktor-pekar
+    last: Pekar
+  author_string: Naveed Afzal, Viktor Pekar
+  bibkey: afzal-pekar-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '1'
+  page_last: '5'
+  pages: "1\u20135"
+  paper_id: '1'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1001.jpg
+  title: Unsupervised Relation Extraction for Automatic Generation of Multiple-Choice
+    Questions
+  title_html: Unsupervised Relation Extraction for Automatic Generation of Multiple-Choice
+    Questions
+  url: https://www.aclweb.org/anthology/R09-1001
+  year: '2009'
+R09-1002:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ahmet
+    full: Ahmet Aker
+    id: ahmet-aker
+    last: Aker
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  author_string: Ahmet Aker, Robert Gaizauskas
+  bibkey: aker-gaizauskas-2009-summary
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '6'
+  page_last: '11'
+  pages: "6\u201311"
+  paper_id: '2'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1002.jpg
+  title: Summary Generation for Toponym-referenced Images using Object Type Language
+    Models
+  title_html: Summary Generation for Toponym-referenced Images using Object Type Language
+    Models
+  url: https://www.aclweb.org/anthology/R09-1002
+  year: '2009'
+R09-1003:
+  address: Borovets, Bulgaria
+  author:
+  - first: Vincent
+    full: Vincent Van Asch
+    id: vincent-van-asch
+    last: Van Asch
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  author_string: Vincent Van Asch, Walter Daelemans
+  bibkey: van-asch-daelemans-2009-prepositional
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '12'
+  page_last: '17'
+  pages: "12\u201317"
+  paper_id: '3'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1003.jpg
+  title: Prepositional Phrase Attachment in Shallow Parsing
+  title_html: Prepositional Phrase Attachment in Shallow Parsing
+  url: https://www.aclweb.org/anthology/R09-1003
+  year: '2009'
+R09-1004:
+  address: Borovets, Bulgaria
+  author:
+  - first: Alexandra
+    full: Alexandra Balahur
+    id: alexandra-balahur
+    last: Balahur
+  - first: Ester
+    full: Ester Boldrini
+    id: ester-boldrini
+    last: Boldrini
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo"
+    id: andres-montoyo
+    last: Montoyo
+  - first: Patricio
+    full: "Patricio Mart\xEDnez-Barco"
+    id: patricio-martinez-barco
+    last: "Mart\xEDnez-Barco"
+  author_string: "Alexandra Balahur, Ester Boldrini, Andr\xE9s Montoyo, Patricio Mart\xED\
+    nez-Barco"
+  bibkey: balahur-etal-2009-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '18'
+  page_last: '22'
+  pages: "18\u201322"
+  paper_id: '4'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1004.jpg
+  title: A Comparative Study of Open Domain and Opinion Question Answering Systems
+    for Factual and Opinionated Queries
+  title_html: A Comparative Study of Open Domain and Opinion Question Answering Systems
+    for Factual and Opinionated Queries
+  url: https://www.aclweb.org/anthology/R09-1004
+  year: '2009'
+R09-1005:
+  address: Borovets, Bulgaria
+  author:
+  - first: Eduard
+    full: Eduard Barbu
+    id: eduard-barbu
+    last: Barbu
+  author_string: Eduard Barbu
+  bibkey: barbu-2009-acquisition
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '23'
+  page_last: '27'
+  pages: "23\u201327"
+  paper_id: '5'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1005.jpg
+  title: Acquisition of Common Sense Knowledge for Basic Level Concepts
+  title_html: Acquisition of Common Sense Knowledge for Basic Level Concepts
+  url: https://www.aclweb.org/anthology/R09-1005
+  year: '2009'
+R09-1006:
+  address: Borovets, Bulgaria
+  author:
+  - first: Eduard
+    full: Eduard Barbu
+    id: eduard-barbu
+    last: Barbu
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Eduard Barbu, Massimo Poesio
+  bibkey: barbu-poesio-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '28'
+  page_last: '32'
+  pages: "28\u201332"
+  paper_id: '6'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1006.jpg
+  title: Unsupervised Knowledge Extraction for Taxonomies of Concepts from Wikipedia
+  title_html: Unsupervised Knowledge Extraction for Taxonomies of Concepts from <span
+    class="acl-fixed-case">W</span>ikipedia
+  url: https://www.aclweb.org/anthology/R09-1006
+  year: '2009'
+R09-1007:
+  address: Borovets, Bulgaria
+  author:
+  - first: Kepa
+    full: Kepa Bengoetxea
+    id: kepa-bengoetxea
+    last: Bengoetxea
+  - first: Koldo
+    full: Koldo Gojenola
+    id: koldo-gojenola
+    last: Gojenola
+  author_string: Kepa Bengoetxea, Koldo Gojenola
+  bibkey: bengoetxea-gojenola-2009-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '33'
+  page_last: '38'
+  pages: "33\u201338"
+  paper_id: '7'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1007.jpg
+  title: Exploring Treebank Transformations in Dependency Parsing
+  title_html: Exploring Treebank Transformations in Dependency Parsing
+  url: https://www.aclweb.org/anthology/R09-1007
+  year: '2009'
+R09-1008:
+  address: Borovets, Bulgaria
+  author:
+  - first: Wauter
+    full: Wauter Bosma
+    id: wauter-bosma
+    last: Bosma
+  author_string: Wauter Bosma
+  bibkey: bosma-2009-contextual
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '39'
+  page_last: '44'
+  pages: "39\u201344"
+  paper_id: '8'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1008.jpg
+  title: Contextual Salience in Query-based Summarization
+  title_html: Contextual Salience in Query-based Summarization
+  url: https://www.aclweb.org/anthology/R09-1008
+  year: '2009'
+R09-1009:
+  address: Borovets, Bulgaria
+  author:
+  - first: "Aur\xE9lien"
+    full: "Aur\xE9lien Bossard"
+    id: aurelien-bossard
+    last: Bossard
+  - first: Thierry
+    full: Thierry Poibeau
+    id: thierry-poibeau
+    last: Poibeau
+  author_string: "Aur\xE9lien Bossard, Thierry Poibeau"
+  bibkey: bossard-poibeau-2009-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '45'
+  page_last: '49'
+  pages: "45\u201349"
+  paper_id: '9'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1009.jpg
+  title: Integrating Document Structure into a Multi-Document Summarizer
+  title_html: Integrating Document Structure into a Multi-Document Summarizer
+  url: https://www.aclweb.org/anthology/R09-1009
+  year: '2009'
+R09-1010:
+  address: Borovets, Bulgaria
+  author:
+  - first: Julian
+    full: Julian Brooke
+    id: julian-brooke
+    last: Brooke
+  - first: Milan
+    full: Milan Tofiloski
+    id: milan-tofiloski
+    last: Tofiloski
+  - first: Maite
+    full: Maite Taboada
+    id: maite-taboada
+    last: Taboada
+  author_string: Julian Brooke, Milan Tofiloski, Maite Taboada
+  bibkey: brooke-etal-2009-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '50'
+  page_last: '54'
+  pages: "50\u201354"
+  paper_id: '10'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1010.jpg
+  title: 'Cross-Linguistic Sentiment Analysis: From English to Spanish'
+  title_html: 'Cross-Linguistic Sentiment Analysis: From <span class="acl-fixed-case">E</span>nglish
+    to <span class="acl-fixed-case">S</span>panish'
+  url: https://www.aclweb.org/anthology/R09-1010
+  year: '2009'
+R09-1011:
+  address: Borovets, Bulgaria
+  author:
+  - first: Zdenek
+    full: Zdenek Ceska
+    id: zdenek-ceska
+    last: Ceska
+  - first: Chris
+    full: Chris Fox
+    id: chris-fox
+    last: Fox
+  author_string: Zdenek Ceska, Chris Fox
+  bibkey: ceska-fox-2009-influence
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '55'
+  page_last: '59'
+  pages: "55\u201359"
+  paper_id: '11'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1011.jpg
+  title: The Influence of Text Pre-processing on Plagiarism Detection
+  title_html: The Influence of Text Pre-processing on Plagiarism Detection
+  url: https://www.aclweb.org/anthology/R09-1011
+  year: '2009'
+R09-1012:
+  address: Borovets, Bulgaria
+  author:
+  - first: Kostadin
+    full: Kostadin Cholakov
+    id: kostadin-cholakov
+    last: Cholakov
+  - first: Gertjan van
+    full: Gertjan van Noord
+    id: gertjan-van-noord
+    last: Noord
+  author_string: Kostadin Cholakov, Gertjan van Noord
+  bibkey: cholakov-noord-2009-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '60'
+  page_last: '64'
+  pages: "60\u201364"
+  paper_id: '12'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1012.jpg
+  title: Combining Finite State and Corpus-based Techniques for Unknown Word Prediction
+  title_html: Combining Finite State and Corpus-based Techniques for Unknown Word
+    Prediction
+  url: https://www.aclweb.org/anthology/R09-1012
+  year: '2009'
+R09-1013:
+  address: Borovets, Bulgaria
+  author:
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  - first: Hendrik J.
+    full: Hendrik J. Groenewald
+    id: hendrik-johannes-groenewald
+    last: Groenewald
+  - first: Gerhard B. van
+    full: Gerhard B. van Huyssteen
+    id: gerhard-b-van-huyssteen
+    last: Huyssteen
+  author_string: Walter Daelemans, Hendrik J. Groenewald, Gerhard B. van Huyssteen
+  bibkey: daelemans-etal-2009-prototype
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '65'
+  page_last: '70'
+  pages: "65\u201370"
+  paper_id: '13'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1013.jpg
+  title: Prototype-based Active Learning for Lemmatization
+  title_html: Prototype-based Active Learning for Lemmatization
+  url: https://www.aclweb.org/anthology/R09-1013
+  year: '2009'
+R09-1014:
+  address: Borovets, Bulgaria
+  author:
+  - first: Heshaam
+    full: Heshaam Faili
+    id: heshaam-faili
+    last: Faili
+  author_string: Heshaam Faili
+  bibkey: faili-2009-partial
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '71'
+  page_last: '75'
+  pages: "71\u201375"
+  paper_id: '14'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1014.jpg
+  title: From Partial toward Full Parsing
+  title_html: From Partial toward Full Parsing
+  url: https://www.aclweb.org/anthology/R09-1014
+  year: '2009'
+R09-1015:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ingrid
+    full: Ingrid Falk
+    id: ingrid-falk
+    last: Falk
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Evelyne
+    full: Evelyne Jacquey
+    id: evelyne-jacquey
+    last: Jacquey
+  - first: Fabienne
+    full: Fabienne Venant
+    id: fabienne-venant
+    last: Venant
+  author_string: Ingrid Falk, Claire Gardent, Evelyne Jacquey, Fabienne Venant
+  bibkey: falk-etal-2009-grouping
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '76'
+  page_last: '81'
+  pages: "76\u201381"
+  paper_id: '15'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1015.jpg
+  title: Grouping Synonyms by Definitions
+  title_html: Grouping Synonyms by Definitions
+  url: https://www.aclweb.org/anthology/R09-1015
+  year: '2009'
+R09-1016:
+  address: Borovets, Bulgaria
+  author:
+  - first: Francesca
+    full: Francesca Fallucchi
+    id: francesca-fallucchi
+    last: Fallucchi
+  - first: Fabio Massimo
+    full: Fabio Massimo Zanzotto
+    id: fabio-massimo-zanzotto
+    last: Zanzotto
+  author_string: Francesca Fallucchi, Fabio Massimo Zanzotto
+  bibkey: fallucchi-zanzotto-2009-singular
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '82'
+  page_last: '87'
+  pages: "82\u201387"
+  paper_id: '16'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1016.jpg
+  title: Singular Value Decomposition for Feature Selection in Taxonomy Learning
+  title_html: Singular Value Decomposition for Feature Selection in Taxonomy Learning
+  url: https://www.aclweb.org/anthology/R09-1016
+  year: '2009'
+R09-1017:
+  address: Borovets, Bulgaria
+  author:
+  - first: Olivier
+    full: Olivier Ferret
+    id: olivier-ferret
+    last: Ferret
+  author_string: Olivier Ferret
+  bibkey: ferret-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '88'
+  page_last: '93'
+  pages: "88\u201393"
+  paper_id: '17'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1017.jpg
+  title: Improving Text Segmentation by Combining Endogenous and Exogenous Methods
+  title_html: Improving Text Segmentation by Combining Endogenous and Exogenous Methods
+  url: https://www.aclweb.org/anthology/R09-1017
+  year: '2009'
+R09-1018:
+  address: Borovets, Bulgaria
+  author:
+  - first: Kuzman
+    full: Kuzman Ganchev
+    id: kuzman-ganchev
+    last: Ganchev
+  - first: Georgi
+    full: Georgi Georgiev
+    id: georgi-georgiev
+    last: Georgiev
+  author_string: Kuzman Ganchev, Georgi Georgiev
+  bibkey: ganchev-georgiev-2009-edlin
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '94'
+  page_last: '98'
+  pages: "94\u201398"
+  paper_id: '18'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1018.jpg
+  title: 'Edlin: an Easy to Read Linear Learning Framework'
+  title_html: '<span class="acl-fixed-case">E</span>dlin: an Easy to Read Linear Learning
+    Framework'
+  url: https://www.aclweb.org/anthology/R09-1018
+  year: '2009'
+R09-1019:
+  address: Borovets, Bulgaria
+  author:
+  - first: Surya
+    full: Surya Ganesh
+    id: surya-ganesh
+    last: Ganesh
+  - first: Vasudeva
+    full: Vasudeva Varma
+    id: vasudeva-varma
+    last: Varma
+  author_string: Surya Ganesh, Vasudeva Varma
+  bibkey: ganesh-varma-2009-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '99'
+  page_last: '102'
+  pages: "99\u2013102"
+  paper_id: '19'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1019.jpg
+  title: Exploiting the Use of Prior Probabilities for Passage Retrieval in Question
+    Answering
+  title_html: Exploiting the Use of Prior Probabilities for Passage Retrieval in Question
+    Answering
+  url: https://www.aclweb.org/anthology/R09-1019
+  year: '2009'
+R09-1020:
+  address: Borovets, Bulgaria
+  author:
+  - first: Surya
+    full: Surya Ganesh
+    id: surya-ganesh
+    last: Ganesh
+  - first: Vasudeva
+    full: Vasudeva Varma
+    id: vasudeva-varma
+    last: Varma
+  author_string: Surya Ganesh, Vasudeva Varma
+  bibkey: ganesh-varma-2009-exploiting-structure
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '103'
+  page_last: '106'
+  pages: "103\u2013106"
+  paper_id: '20'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1020.jpg
+  title: Exploiting Structure and Content of Wikipedia for Query Expansion in the
+    Context
+  title_html: Exploiting Structure and Content of <span class="acl-fixed-case">W</span>ikipedia
+    for Query Expansion in the Context
+  url: https://www.aclweb.org/anthology/R09-1020
+  year: '2009'
+R09-1021:
+  address: Borovets, Bulgaria
+  author:
+  - first: Albert
+    full: Albert Gatt
+    id: albert-gatt
+    last: Gatt
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Portet"
+    id: francois-portet
+    last: Portet
+  author_string: "Albert Gatt, Fran\xE7ois Portet"
+  bibkey: gatt-portet-2009-text
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '107'
+  page_last: '112'
+  pages: "107\u2013112"
+  paper_id: '21'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1021.jpg
+  title: Text Content and Task Performance in the Evaluation of a Natural Language
+    Generation System
+  title_html: Text Content and Task Performance in the Evaluation of a Natural Language
+    Generation System
+  url: https://www.aclweb.org/anthology/R09-1021
+  year: '2009'
+R09-1022:
+  address: Borovets, Bulgaria
+  author:
+  - first: Georgi
+    full: Georgi Georgiev
+    id: georgi-georgiev
+    last: Georgiev
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Kuzman
+    full: Kuzman Ganchev
+    id: kuzman-ganchev
+    last: Ganchev
+  - first: Petya
+    full: Petya Osenova
+    id: petya-osenova
+    last: Osenova
+  - first: Kiril
+    full: Kiril Simov
+    id: kiril-simov
+    last: Simov
+  author_string: Georgi Georgiev, Preslav Nakov, Kuzman Ganchev, Petya Osenova, Kiril
+    Simov
+  bibkey: georgiev-etal-2009-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '113'
+  page_last: '117'
+  pages: "113\u2013117"
+  paper_id: '22'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1022.jpg
+  title: Feature-Rich Named Entity Recognition for Bulgarian Using Conditional Random
+    Fields
+  title_html: Feature-Rich Named Entity Recognition for <span class="acl-fixed-case">B</span>ulgarian
+    Using Conditional Random Fields
+  url: https://www.aclweb.org/anthology/R09-1022
+  year: '2009'
+R09-1023:
+  address: Borovets, Bulgaria
+  author:
+  - first: "B\xE9n\xE9dicte"
+    full: "B\xE9n\xE9dicte Goujon"
+    id: benedicte-goujon
+    last: Goujon
+  author_string: "B\xE9n\xE9dicte Goujon"
+  bibkey: goujon-2009-uncertainty
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '118'
+  page_last: '122'
+  pages: "118\u2013122"
+  paper_id: '23'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1023.jpg
+  title: Uncertainty Detection for Information Extraction
+  title_html: Uncertainty Detection for Information Extraction
+  url: https://www.aclweb.org/anthology/R09-1023
+  year: '2009'
+R09-1024:
+  address: Borovets, Bulgaria
+  author:
+  - first: Samer
+    full: Samer Hassan
+    id: samer-hassan
+    last: Hassan
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Samer Hassan, Rada Mihalcea
+  bibkey: hassan-mihalcea-2009-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '123'
+  page_last: '127'
+  pages: "123\u2013127"
+  paper_id: '24'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1024.jpg
+  title: Learning to Identify Educational Materials
+  title_html: Learning to Identify Educational Materials
+  url: https://www.aclweb.org/anthology/R09-1024
+  year: '2009'
+R09-1025:
+  address: Borovets, Bulgaria
+  author:
+  - first: Hany
+    full: Hany Hassan
+    id: hany-hassan
+    last: Hassan
+  - first: Khalil
+    full: "Khalil Sima\u2019an"
+    id: khalil-simaan
+    last: "Sima\u2019an"
+  - first: Andy
+    full: Andy Way
+    id: andy-way
+    last: Way
+  author_string: "Hany Hassan, Khalil Sima\u2019an, Andy Way"
+  bibkey: hassan-etal-2009-lexicalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '128'
+  page_last: '134'
+  pages: "128\u2013134"
+  paper_id: '25'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1025.jpg
+  title: Lexicalized Semi-incremental Dependency Parsing
+  title_html: Lexicalized Semi-incremental Dependency Parsing
+  url: https://www.aclweb.org/anthology/R09-1025
+  year: '2009'
+R09-1026:
+  address: Borovets, Bulgaria
+  author:
+  - first: Martin
+    full: Martin Hassel
+    id: martin-hassel
+    last: Hassel
+  - first: Hercules
+    full: Hercules Dalianis
+    id: hercules-dalianis
+    last: Dalianis
+  author_string: Martin Hassel, Hercules Dalianis
+  bibkey: hassel-dalianis-2009-identification
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '135'
+  page_last: '138'
+  pages: "135\u2013138"
+  paper_id: '26'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1026.jpg
+  title: Identification of Parallel Text Pairs Using Fingerprints
+  title_html: Identification of Parallel Text Pairs Using Fingerprints
+  url: https://www.aclweb.org/anthology/R09-1026
+  year: '2009'
+R09-1027:
+  address: Borovets, Bulgaria
+  author:
+  - first: Christian Theil
+    full: Christian Theil Have
+    id: christian-theil-have
+    last: Have
+  author_string: Christian Theil Have
+  bibkey: have-2009-stochastic
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '139'
+  page_last: '143'
+  pages: "139\u2013143"
+  paper_id: '27'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1027.jpg
+  title: Stochastic Definite Clause Grammars
+  title_html: Stochastic Definite Clause Grammars
+  url: https://www.aclweb.org/anthology/R09-1027
+  year: '2009'
+R09-1028:
+  address: Borovets, Bulgaria
+  author:
+  - first: Leonhard
+    full: Leonhard Hennig
+    id: leonhard-hennig
+    last: Hennig
+  author_string: Leonhard Hennig
+  bibkey: hennig-2009-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '144'
+  page_last: '149'
+  pages: "144\u2013149"
+  paper_id: '28'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1028.jpg
+  title: Topic-based Multi-Document Summarization with Probabilistic Latent Semantic
+    Analysis
+  title_html: Topic-based Multi-Document Summarization with Probabilistic Latent Semantic
+    Analysis
+  url: https://www.aclweb.org/anthology/R09-1028
+  year: '2009'
+R09-1029:
+  address: Borovets, Bulgaria
+  author:
+  - first: Yann Vigile
+    full: Yann Vigile Hoareau
+    id: yann-vigile-hoareau
+    last: Hoareau
+  - first: Adil
+    full: Adil El-Ghali
+    id: adil-el-ghali
+    last: El-Ghali
+  - first: Charles
+    full: Charles Tijus
+    id: charles-tijus
+    last: Tijus
+  author_string: Yann Vigile Hoareau, Adil El-Ghali, Charles Tijus
+  bibkey: hoareau-etal-2009-detection
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '150'
+  page_last: '154'
+  pages: "150\u2013154"
+  paper_id: '29'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1029.jpg
+  title: Detection of Opinions and Facts. A Cognitive Approach
+  title_html: Detection of Opinions and Facts. A Cognitive Approach
+  url: https://www.aclweb.org/anthology/R09-1029
+  year: '2009'
+R09-1030:
+  address: Borovets, Bulgaria
+  author:
+  - first: Arantza
+    full: "Arantza D\xEDaz de Ilarraza"
+    id: arantza-diaz-de-ilarraza
+    last: "D\xEDaz de Ilarraza"
+  - first: Koldo
+    full: Koldo Gojenola
+    id: koldo-gojenola
+    last: Gojenola
+  - first: Maite
+    full: Maite Oronoz
+    id: maite-oronoz
+    last: Oronoz
+  author_string: "Arantza D\xEDaz de Ilarraza, Koldo Gojenola, Maite Oronoz"
+  bibkey: diaz-de-ilarraza-etal-2009-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '155'
+  page_last: '160'
+  pages: "155\u2013160"
+  paper_id: '30'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1030.jpg
+  title: Evaluating the Impact of Morphosyntactic Ambiguity in Grammatical Error Detection
+  title_html: Evaluating the Impact of Morphosyntactic Ambiguity in Grammatical Error
+    Detection
+  url: https://www.aclweb.org/anthology/R09-1030
+  year: '2009'
+R09-1031:
+  address: Borovets, Bulgaria
+  author:
+  - first: Tomoya
+    full: Tomoya Iwakura
+    id: tomoya-iwakura
+    last: Iwakura
+  author_string: Tomoya Iwakura
+  bibkey: iwakura-2009-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '161'
+  page_last: '165'
+  pages: "161\u2013165"
+  paper_id: '31'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1031.jpg
+  title: Fast Boosting-based Part-of-Speech Tagging and Text Chunking with Efficient
+    Rule Representation for Sequential Labeling
+  title_html: Fast Boosting-based Part-of-Speech Tagging and Text Chunking with Efficient
+    Rule Representation for Sequential Labeling
+  url: https://www.aclweb.org/anthology/R09-1031
+  year: '2009'
+R09-1032:
+  address: Borovets, Bulgaria
+  author:
+  - first: Heng
+    full: Heng Ji
+    id: heng-ji
+    last: Ji
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Zheng
+    full: Zheng Chen
+    id: zheng-chen
+    last: Chen
+  - first: Prashant
+    full: Prashant Gupta
+    id: prashant-gupta
+    last: Gupta
+  author_string: Heng Ji, Ralph Grishman, Zheng Chen, Prashant Gupta
+  bibkey: ji-etal-2009-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '166'
+  page_last: '172'
+  pages: "166\u2013172"
+  paper_id: '32'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1032.jpg
+  title: 'Cross-document Event Extraction and Tracking: Task, Evaluation, Techniques
+    and Challenges'
+  title_html: 'Cross-document Event Extraction and Tracking: Task, Evaluation, Techniques
+    and Challenges'
+  url: https://www.aclweb.org/anthology/R09-1032
+  year: '2009'
+R09-1033:
+  address: Borovets, Bulgaria
+  author:
+  - first: Lidia
+    full: Lidia Khmylko
+    id: lidia-khmylko
+    last: Khmylko
+  - first: Kilian A.
+    full: Kilian A. Foth
+    id: kilian-a-foth
+    last: Foth
+  - first: Wolfgang
+    full: Wolfgang Menzel
+    id: wolfgang-menzel
+    last: Menzel
+  author_string: Lidia Khmylko, Kilian A. Foth, Wolfgang Menzel
+  bibkey: khmylko-etal-2009-co
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '173'
+  page_last: '179'
+  pages: "173\u2013179"
+  paper_id: '33'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1033.jpg
+  title: Co-Parsing with Competitive Models
+  title_html: Co-Parsing with Competitive Models
+  url: https://www.aclweb.org/anthology/R09-1033
+  year: '2009'
+R09-1034:
+  address: Borovets, Bulgaria
+  author:
+  - first: Manfred
+    full: Manfred Klenner
+    id: manfred-klenner
+    last: Klenner
+  - first: Stefanos
+    full: Stefanos Petrakis
+    id: stefanos-petrakis
+    last: Petrakis
+  - first: Angela
+    full: Angela Fahrni
+    id: angela-fahrni
+    last: Fahrni
+  author_string: Manfred Klenner, Stefanos Petrakis, Angela Fahrni
+  bibkey: klenner-etal-2009-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '180'
+  page_last: '184'
+  pages: "180\u2013184"
+  paper_id: '34'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1034.jpg
+  title: Robust Compositional Polarity Classification
+  title_html: Robust Compositional Polarity Classification
+  url: https://www.aclweb.org/anthology/R09-1034
+  year: '2009'
+R09-1035:
+  address: Borovets, Bulgaria
+  author:
+  - first: Roman
+    full: Roman Klinger
+    id: roman-klinger
+    last: Klinger
+  - first: Christoph M.
+    full: Christoph M. Friedrich
+    id: christoph-m-friedrich
+    last: Friedrich
+  author_string: Roman Klinger, Christoph M. Friedrich
+  bibkey: klinger-friedrich-2009-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '185'
+  page_last: '191'
+  pages: "185\u2013191"
+  paper_id: '35'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1035.jpg
+  title: Feature Subset Selection in Conditional Random Fields for Named Entity Recognition
+  title_html: Feature Subset Selection in Conditional Random Fields for Named Entity
+    Recognition
+  url: https://www.aclweb.org/anthology/R09-1035
+  year: '2009'
+R09-1036:
+  address: Borovets, Bulgaria
+  author:
+  - first: Roman
+    full: Roman Klinger
+    id: roman-klinger
+    last: Klinger
+  - first: Christoph M.
+    full: Christoph M. Friedrich
+    id: christoph-m-friedrich
+    last: Friedrich
+  author_string: Roman Klinger, Christoph M. Friedrich
+  bibkey: klinger-friedrich-2009-users
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '192'
+  page_last: '196'
+  pages: "192\u2013196"
+  paper_id: '36'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1036.jpg
+  title: "User\u2019s Choice of Precision and Recall in Named Entity Recognition"
+  title_html: "User\u2019s Choice of Precision and Recall in Named Entity Recognition"
+  url: https://www.aclweb.org/anthology/R09-1036
+  year: '2009'
+R09-1037:
+  address: Borovets, Bulgaria
+  author:
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  author_string: "Sandra K\xFCbler, Desislava Zhekova"
+  bibkey: kubler-zhekova-2009-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '197'
+  page_last: '202'
+  pages: "197\u2013202"
+  paper_id: '37'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1037.jpg
+  title: 'Semi-Supervised Learning for Word Sense Disambiguation: Quality vs. Quantity'
+  title_html: 'Semi-Supervised Learning for Word Sense Disambiguation: Quality vs.
+    Quantity'
+  url: https://www.aclweb.org/anthology/R09-1037
+  year: '2009'
+R09-1038:
+  address: Borovets, Bulgaria
+  author:
+  - first: Anna
+    full: "Anna Kup\u015B\u0107"
+    id: anna-kupsc
+    last: "Kup\u015B\u0107"
+  author_string: "Anna Kup\u015B\u0107"
+  bibkey: kupsc-2009-treelex
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '203'
+  page_last: '207'
+  pages: "203\u2013207"
+  paper_id: '38'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1038.jpg
+  title: Treelex Meets Adjectival Tables
+  title_html: Treelex Meets Adjectival Tables
+  url: https://www.aclweb.org/anthology/R09-1038
+  year: '2009'
+R09-1039:
+  address: Borovets, Bulgaria
+  author:
+  - first: Egoitz
+    full: Egoitz Laparra
+    id: egoitz-laparra
+    last: Laparra
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  author_string: Egoitz Laparra, German Rigau
+  bibkey: laparra-rigau-2009-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '208'
+  page_last: '213'
+  pages: "208\u2013213"
+  paper_id: '39'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1039.jpg
+  title: Integrating WordNet and FrameNet using a Knowledge-based Word Sense Disambiguation
+    Algorithm
+  title_html: Integrating <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et
+    and <span class="acl-fixed-case">F</span>rame<span class="acl-fixed-case">N</span>et
+    using a Knowledge-based Word Sense Disambiguation Algorithm
+  url: https://www.aclweb.org/anthology/R09-1039
+  year: '2009'
+R09-1040:
+  address: Borovets, Bulgaria
+  author:
+  - first: Adrien
+    full: Adrien Lardilleux
+    id: adrien-lardilleux
+    last: Lardilleux
+  - first: Yves
+    full: Yves Lepage
+    id: yves-lepage
+    last: Lepage
+  author_string: Adrien Lardilleux, Yves Lepage
+  bibkey: lardilleux-lepage-2009-sampling
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '214'
+  page_last: '218'
+  pages: "214\u2013218"
+  paper_id: '40'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1040.jpg
+  title: Sampling-based Multilingual Alignment
+  title_html: Sampling-based Multilingual Alignment
+  url: https://www.aclweb.org/anthology/R09-1040
+  year: '2009'
+R09-1041:
+  address: Borovets, Bulgaria
+  author:
+  - first: Hector
+    full: Hector Llorens
+    id: hector-llorens
+    last: Llorens
+  - first: Borja
+    full: Borja Navarro
+    id: borja-navarro
+    last: Navarro
+  - first: Estela
+    full: Estela Saquete
+    id: estela-saquete
+    last: Saquete
+  author_string: Hector Llorens, Borja Navarro, Estela Saquete
+  bibkey: llorens-etal-2009-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '219'
+  page_last: '224'
+  pages: "219\u2013224"
+  paper_id: '41'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1041.jpg
+  title: Using Semantic Networks to Identify Temporal Expressions from Semantic Roles
+  title_html: Using Semantic Networks to Identify Temporal Expressions from Semantic
+    Roles
+  url: https://www.aclweb.org/anthology/R09-1041
+  year: '2009'
+R09-1042:
+  address: Borovets, Bulgaria
+  author:
+  - first: Diego Jesus de
+    full: Diego Jesus de Lucena
+    id: diego-jesus-de-lucena
+    last: Lucena
+  - first: "Ivandr\xE9"
+    full: "Ivandr\xE9 Paraboni"
+    id: ivandre-paraboni
+    last: Paraboni
+  author_string: "Diego Jesus de Lucena, Ivandr\xE9 Paraboni"
+  bibkey: lucena-paraboni-2009-design
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '225'
+  page_last: '229'
+  pages: "225\u2013229"
+  paper_id: '42'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1042.jpg
+  title: The Design of an Experiment in Anaphora Resolution for Referring Expressions
+    Generation
+  title_html: The Design of an Experiment in Anaphora Resolution for Referring Expressions
+    Generation
+  url: https://www.aclweb.org/anthology/R09-1042
+  year: '2009'
+R09-1043:
+  address: Borovets, Bulgaria
+  author:
+  - first: Patrick
+    full: Patrick McCrae
+    id: patrick-mccrae
+    last: McCrae
+  author_string: Patrick McCrae
+  bibkey: mccrae-2009-model
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '230'
+  page_last: '235'
+  pages: "230\u2013235"
+  paper_id: '43'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1043.jpg
+  title: A Model for the Cross-Modal Influence of Visual Context upon Language Procesing
+  title_html: A Model for the Cross-Modal Influence of Visual Context upon Language
+    Procesing
+  url: https://www.aclweb.org/anthology/R09-1043
+  year: '2009'
+R09-1044:
+  address: Borovets, Bulgaria
+  author:
+  - first: Claudiu
+    full: "Claudiu Mih\u0103il\u0103"
+    id: claudiu-mihaila
+    last: "Mih\u0103il\u0103"
+  - first: Dalila
+    full: Dalila Mekhaldi
+    id: dalila-mekhaldi
+    last: Mekhaldi
+  author_string: "Claudiu Mih\u0103il\u0103, Dalila Mekhaldi"
+  bibkey: mihaila-mekhaldi-2009-bimodal
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '236'
+  page_last: '240'
+  pages: "236\u2013240"
+  paper_id: '44'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1044.jpg
+  title: 'Bimodal Corpora Terminology Extraction: Another Brick in the Wall'
+  title_html: 'Bimodal Corpora Terminology Extraction: Another Brick in the Wall'
+  url: https://www.aclweb.org/anthology/R09-1044
+  year: '2009'
+R09-1045:
+  address: Borovets, Bulgaria
+  author:
+  - first: Tristan
+    full: Tristan Miller
+    id: tristan-miller
+    last: Miller
+  - first: Bertin
+    full: Bertin Klein
+    id: bertin-klein
+    last: Klein
+  - first: Elisabeth
+    full: Elisabeth Wolf
+    id: elisabeth-wolf
+    last: Wolf
+  author_string: Tristan Miller, Bertin Klein, Elisabeth Wolf
+  bibkey: miller-etal-2009-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '241'
+  page_last: '245'
+  pages: "241\u2013245"
+  paper_id: '45'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1045.jpg
+  title: Exploiting Latent Semantic Relations in Highly Linked Hypertext for Information
+    Retrieval in Wikis
+  title_html: Exploiting Latent Semantic Relations in Highly Linked Hypertext for
+    Information Retrieval in Wikis
+  url: https://www.aclweb.org/anthology/R09-1045
+  year: '2009'
+R09-1046:
+  address: Borovets, Bulgaria
+  author:
+  - first: Petar
+    full: Petar Mitankin
+    id: petar-mitankin
+    last: Mitankin
+  - first: Stoyan
+    full: Stoyan Mihov
+    id: stoyan-mihov
+    last: Mihov
+  - first: Tinko
+    full: Tinko Tinchev
+    id: tinko-tinchev
+    last: Tinchev
+  author_string: Petar Mitankin, Stoyan Mihov, Tinko Tinchev
+  bibkey: mitankin-etal-2009-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '246'
+  page_last: '250'
+  pages: "246\u2013250"
+  paper_id: '46'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1046.jpg
+  title: Large Vocabulary Continuous Speech Recognition for Bulgarian
+  title_html: Large Vocabulary Continuous Speech Recognition for <span class="acl-fixed-case">B</span>ulgarian
+  url: https://www.aclweb.org/anthology/R09-1046
+  year: '2009'
+R09-1047:
+  address: Borovets, Bulgaria
+  author:
+  - first: Emad
+    full: Emad Mohamed
+    id: emad-mohamed
+    last: Mohamed
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  author_string: "Emad Mohamed, Sandra K\xFCbler"
+  bibkey: mohamed-kubler-2009-diacritization
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '251'
+  page_last: '257'
+  pages: "251\u2013257"
+  paper_id: '47'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1047.jpg
+  title: Diacritization for Real-World Arabic Texts
+  title_html: Diacritization for Real-World <span class="acl-fixed-case">A</span>rabic
+    Texts
+  url: https://www.aclweb.org/anthology/R09-1047
+  year: '2009'
+R09-1048:
+  address: Borovets, Bulgaria
+  author:
+  - first: Karo
+    full: Karo Moilanen
+    id: karo-moilanen
+    last: Moilanen
+  - first: Stephen
+    full: Stephen Pulman
+    id: stephen-pulman
+    last: Pulman
+  author_string: Karo Moilanen, Stephen Pulman
+  bibkey: moilanen-pulman-2009-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '258'
+  page_last: '263'
+  pages: "258\u2013263"
+  paper_id: '48'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1048.jpg
+  title: Multi-entity Sentiment Scoring
+  title_html: Multi-entity Sentiment Scoring
+  url: https://www.aclweb.org/anthology/R09-1048
+  year: '2009'
+R09-1049:
+  address: Borovets, Bulgaria
+  author:
+  - first: Miguel A.
+    full: Miguel A. Molinero
+    id: miguel-a-molinero
+    last: Molinero
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Sagot"
+    id: benoit-sagot
+    last: Sagot
+  - first: Lionel
+    full: Lionel Nicolas
+    id: lionel-nicolas
+    last: Nicolas
+  author_string: "Miguel A. Molinero, Beno\xEEt Sagot, Lionel Nicolas"
+  bibkey: molinero-etal-2009-morphological
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '264'
+  page_last: '269'
+  pages: "264\u2013269"
+  paper_id: '49'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1049.jpg
+  title: 'A Morphological and Syntactic Wide-coverage Lexicon for Spanish: The Leffe'
+  title_html: 'A Morphological and Syntactic Wide-coverage Lexicon for <span class="acl-fixed-case">S</span>panish:
+    The Leffe'
+  url: https://www.aclweb.org/anthology/R09-1049
+  year: '2009'
+R09-1050:
+  address: Borovets, Bulgaria
+  author:
+  - first: Prakash
+    full: Prakash Mondal
+    id: prakash-mondal
+    last: Mondal
+  author_string: Prakash Mondal
+  bibkey: mondal-2009-limited
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '270'
+  page_last: '274'
+  pages: "270\u2013274"
+  paper_id: '50'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1050.jpg
+  title: How Limited is the Limit?
+  title_html: How Limited is the Limit?
+  url: https://www.aclweb.org/anthology/R09-1050
+  year: '2009'
+R09-1051:
+  address: Borovets, Bulgaria
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Vincent
+    full: Vincent Van Asch
+    id: vincent-van-asch
+    last: Van Asch
+  - first: Antal
+    full: Antal van den Bosch
+    id: antal-van-den-bosch
+    last: van den Bosch
+  author_string: Roser Morante, Vincent Van Asch, Antal van den Bosch
+  bibkey: morante-etal-2009-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '275'
+  page_last: '280'
+  pages: "275\u2013280"
+  paper_id: '51'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1051.jpg
+  title: Dependency Parsing and Semantic Role Labeling as a Single Task
+  title_html: Dependency Parsing and Semantic Role Labeling as a Single Task
+  url: https://www.aclweb.org/anthology/R09-1051
+  year: '2009'
+R09-1052:
+  address: Borovets, Bulgaria
+  author:
+  - first: Hajime
+    full: Hajime Morita
+    id: hajime-morita
+    last: Morita
+  - first: Hiroya
+    full: Hiroya Takamura
+    id: hiroya-takamura
+    last: Takamura
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  author_string: Hajime Morita, Hiroya Takamura, Manabu Okumura
+  bibkey: morita-etal-2009-structured
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '281'
+  page_last: '286'
+  pages: "281\u2013286"
+  paper_id: '52'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1052.jpg
+  title: Structured Output Learning with Polynomial Kernel
+  title_html: Structured Output Learning with Polynomial Kernel
+  url: https://www.aclweb.org/anthology/R09-1052
+  year: '2009'
+R09-1053:
+  address: Borovets, Bulgaria
+  author:
+  - first: Claire
+    full: Claire Mouton
+    id: claire-mouton
+    last: Mouton
+  - first: Guillaume
+    full: Guillaume Pitel
+    id: guillaume-pitel
+    last: Pitel
+  - first: "Ga\xEBl de"
+    full: "Ga\xEBl de Chalendar"
+    id: gael-de-chalendar
+    last: Chalendar
+  - first: Anne
+    full: Anne Vilnat
+    id: anne-vilnat
+    last: Vilnat
+  author_string: "Claire Mouton, Guillaume Pitel, Ga\xEBl de Chalendar, Anne Vilnat"
+  bibkey: mouton-etal-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '287'
+  page_last: '291'
+  pages: "287\u2013291"
+  paper_id: '53'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1053.jpg
+  title: Unsupervised Word Sense Induction from Multiple Semantic Spaces with Locality
+    Sensitive Hashing
+  title_html: Unsupervised Word Sense Induction from Multiple Semantic Spaces with
+    Locality Sensitive Hashing
+  url: https://www.aclweb.org/anthology/R09-1053
+  year: '2009'
+R09-1054:
+  address: Borovets, Bulgaria
+  author:
+  - first: Svetlin
+    full: Svetlin Nakov
+    id: svetlin-nakov
+    last: Nakov
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Elena
+    full: Elena Paskaleva
+    id: elena-paskaleva
+    last: Paskaleva
+  author_string: Svetlin Nakov, Preslav Nakov, Elena Paskaleva
+  bibkey: nakov-etal-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '292'
+  page_last: '298'
+  pages: "292\u2013298"
+  paper_id: '54'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1054.jpg
+  title: Unsupervised Extraction of False Friends from Parallel Bi-Texts Using the
+    Web as a Corpus
+  title_html: Unsupervised Extraction of False <span class="acl-fixed-case">F</span>riends
+    from Parallel Bi-Texts Using the Web as a Corpus
+  url: https://www.aclweb.org/anthology/R09-1054
+  year: '2009'
+R09-1055:
+  address: Borovets, Bulgaria
+  author:
+  - first: Adeline
+    full: Adeline Nazarenko
+    id: adeline-nazarenko
+    last: Nazarenko
+  - first: "Ha\xEFfa"
+    full: "Ha\xEFfa Zargayouna"
+    id: haifa-zargayouna
+    last: Zargayouna
+  author_string: "Adeline Nazarenko, Ha\xEFfa Zargayouna"
+  bibkey: nazarenko-zargayouna-2009-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '299'
+  page_last: '304'
+  pages: "299\u2013304"
+  paper_id: '55'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1055.jpg
+  title: Evaluating Term Extraction
+  title_html: Evaluating Term Extraction
+  url: https://www.aclweb.org/anthology/R09-1055
+  year: '2009'
+R09-1056:
+  address: Borovets, Bulgaria
+  author:
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: Milen
+    full: Milen Kouylekov
+    id: milen-kouylekov
+    last: Kouylekov
+  author_string: Matteo Negri, Milen Kouylekov
+  bibkey: negri-kouylekov-2009-question
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '305'
+  page_last: '311'
+  pages: "305\u2013311"
+  paper_id: '56'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1056.jpg
+  title: 'Question Answering over Structured Data: an Entailment-Based Approach to
+    Question Analysis'
+  title_html: 'Question Answering over Structured Data: an Entailment-Based Approach
+    to Question Analysis'
+  url: https://www.aclweb.org/anthology/R09-1056
+  year: '2009'
+R09-1057:
+  address: Borovets, Bulgaria
+  author:
+  - first: Viet Cuong
+    full: Viet Cuong Nguyen
+    id: viet-cuong-nguyen
+    last: Nguyen
+  - first: Le Minh
+    full: Le Minh Nguyen
+    id: minh-le-nguyen
+    last: Nguyen
+  - first: Akira
+    full: Akira Shimazu
+    id: akira-shimazu
+    last: Shimazu
+  author_string: Viet Cuong Nguyen, Le Minh Nguyen, Akira Shimazu
+  bibkey: nguyen-etal-2009-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '312'
+  page_last: '317'
+  pages: "312\u2013317"
+  paper_id: '57'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1057.jpg
+  title: A Semi-supervised Approach for Generating a Table-of-Contents
+  title_html: A Semi-supervised Approach for Generating a Table-of-Contents
+  url: https://www.aclweb.org/anthology/R09-1057
+  year: '2009'
+R09-1058:
+  address: Borovets, Bulgaria
+  author:
+  - first: Lionel
+    full: Lionel Nicolas
+    id: lionel-nicolas
+    last: Nicolas
+  - first: Miguel A.
+    full: Miguel A. Molinero
+    id: miguel-a-molinero
+    last: Molinero
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Sagot"
+    id: benoit-sagot
+    last: Sagot
+  - first: Elena
+    full: Elena Trigo
+    id: elena-trigo
+    last: Trigo
+  - first: "\xC9ric"
+    full: "\xC9ric de La Clergerie"
+    id: eric-villemonte-de-la-clergerie
+    last: de La Clergerie
+  - first: Miguel
+    full: Miguel Alonso Pardo
+    id: miguel-a-alonso
+    last: Alonso Pardo
+  - first: Jacques
+    full: "Jacques Farr\xE9"
+    id: jacques-farre
+    last: "Farr\xE9"
+  - first: Joan Miquel
+    full: "Joan Miquel Verg\xE9s"
+    id: joan-miquel-verges
+    last: "Verg\xE9s"
+  author_string: "Lionel Nicolas, Miguel A. Molinero, Beno\xEEt Sagot, Elena Trigo,\
+    \ \xC9ric de La Clergerie, Miguel Alonso Pardo, Jacques Farr\xE9, Joan Miquel\
+    \ Verg\xE9s"
+  bibkey: nicolas-etal-2009-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '318'
+  page_last: '323'
+  pages: "318\u2013323"
+  paper_id: '58'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1058.jpg
+  title: 'Towards Efficient Production of Linguistic Resources: the Victoria Project'
+  title_html: 'Towards Efficient Production of Linguistic Resources: the Victoria
+    Project'
+  url: https://www.aclweb.org/anthology/R09-1058
+  year: '2009'
+R09-1059:
+  address: Borovets, Bulgaria
+  author:
+  - first: Rafael
+    full: Rafael Oliveira
+    id: rafael-oliveira
+    last: Oliveira
+  - first: Eder
+    full: Eder Novais
+    id: eder-novais
+    last: Novais
+  - first: Roberto
+    full: Roberto Araujo
+    id: roberto-araujo
+    last: Araujo
+  - first: "Ivandr\xE9"
+    full: "Ivandr\xE9 Paraboni"
+    id: ivandre-paraboni
+    last: Paraboni
+  author_string: "Rafael Oliveira, Eder Novais, Roberto Araujo, Ivandr\xE9 Paraboni"
+  bibkey: oliveira-etal-2009-classification
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '324'
+  page_last: '329'
+  pages: "324\u2013329"
+  paper_id: '59'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1059.jpg
+  title: A Classification-driven Approach to Document Planning
+  title_html: A Classification-driven Approach to Document Planning
+  url: https://www.aclweb.org/anthology/R09-1059
+  year: '2009'
+R09-1060:
+  address: Borovets, Bulgaria
+  author:
+  - first: Daniel
+    full: "Daniel Ortiz-Mart\xEDnez"
+    id: daniel-ortiz-martinez
+    last: "Ortiz-Mart\xEDnez"
+  - first: Ismael
+    full: "Ismael Garc\xEDa-Varea"
+    id: ismael-garcia-varea
+    last: "Garc\xEDa-Varea"
+  - first: Francisco
+    full: Francisco Casacuberta
+    id: francisco-casacuberta
+    last: Casacuberta
+  author_string: "Daniel Ortiz-Mart\xEDnez, Ismael Garc\xEDa-Varea, Francisco Casacuberta"
+  bibkey: ortiz-martinez-etal-2009-interactive
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '330'
+  page_last: '336'
+  pages: "330\u2013336"
+  paper_id: '60'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1060.jpg
+  title: Interactive Machine Translation Based on Partial Statistical Phrase-based
+    Alignments
+  title_html: Interactive Machine Translation Based on Partial Statistical Phrase-based
+    Alignments
+  url: https://www.aclweb.org/anthology/R09-1060
+  year: '2009'
+R09-1061:
+  address: Borovets, Bulgaria
+  author:
+  - first: Michael
+    full: Michael Paul
+    id: michael-paul
+    last: Paul
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  author_string: Michael Paul, Roxana Girju
+  bibkey: paul-girju-2009-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '337'
+  page_last: '342'
+  pages: "337\u2013342"
+  paper_id: '61'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1061.jpg
+  title: 'Topic Modeling of Research Fields: An Interdisciplinary Perspective'
+  title_html: 'Topic Modeling of Research Fields: An Interdisciplinary Perspective'
+  url: https://www.aclweb.org/anthology/R09-1061
+  year: '2009'
+R09-1062:
+  address: Borovets, Bulgaria
+  author:
+  - first: Guy
+    full: Guy Perrier
+    id: guy-perrier
+    last: Perrier
+  author_string: Guy Perrier
+  bibkey: perrier-2009-interaction
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '343'
+  page_last: '348'
+  pages: "343\u2013348"
+  paper_id: '62'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1062.jpg
+  title: An Interaction Grammar of Interrogative and Relative Clauses in French
+  title_html: An Interaction Grammar of Interrogative and Relative Clauses in <span
+    class="acl-fixed-case">F</span>rench
+  url: https://www.aclweb.org/anthology/R09-1062
+  year: '2009'
+R09-1063:
+  address: Borovets, Bulgaria
+  author:
+  - first: Marius
+    full: Marius Popescu
+    id: marius-popescu
+    last: Popescu
+  - first: Liviu P.
+    full: Liviu P. Dinu
+    id: liviu-p-dinu
+    last: Dinu
+  author_string: Marius Popescu, Liviu P. Dinu
+  bibkey: popescu-dinu-2009-comparing
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '349'
+  page_last: '354'
+  pages: "349\u2013354"
+  paper_id: '63'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1063.jpg
+  title: Comparing Statistical Similarity Measures for Stylistic Multivariate Analysis
+  title_html: Comparing Statistical Similarity Measures for Stylistic Multivariate
+    Analysis
+  url: https://www.aclweb.org/anthology/R09-1063
+  year: '2009'
+R09-1064:
+  address: Borovets, Bulgaria
+  author:
+  - first: Taraka
+    full: Taraka Rama
+    id: taraka-rama
+    last: Rama
+  - first: Anil Kumar
+    full: Anil Kumar Singh
+    id: anil-kumar-singh
+    last: Singh
+  author_string: Taraka Rama, Anil Kumar Singh
+  bibkey: rama-singh-2009-bag
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '355'
+  page_last: '359'
+  pages: "355\u2013359"
+  paper_id: '64'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1064.jpg
+  title: From Bag of Languages to Family Trees From Noisy Corpus
+  title_html: From Bag of Languages to Family Trees From Noisy Corpus
+  url: https://www.aclweb.org/anthology/R09-1064
+  year: '2009'
+R09-1065:
+  address: Borovets, Bulgaria
+  author:
+  - first: Veselin
+    full: Veselin Raychev
+    id: veselin-raychev
+    last: Raychev
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  author_string: Veselin Raychev, Preslav Nakov
+  bibkey: raychev-nakov-2009-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '360'
+  page_last: '364'
+  pages: "360\u2013364"
+  paper_id: '65'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1065.jpg
+  title: Language-Independent Sentiment Analysis Using Subjectivity and Positional
+    Information
+  title_html: Language-Independent Sentiment Analysis Using Subjectivity and Positional
+    Information
+  url: https://www.aclweb.org/anthology/R09-1065
+  year: '2009'
+R09-1066:
+  address: Borovets, Bulgaria
+  author:
+  - first: Siva
+    full: Siva Reddy
+    id: siva-reddy
+    last: Reddy
+  - first: Abhilash
+    full: Abhilash Inumella
+    id: abhilash-inumella
+    last: Inumella
+  - first: Rajeev
+    full: Rajeev Sangal
+    id: rajeev-sangal
+    last: Sangal
+  - first: Soma
+    full: Soma Paul
+    id: soma-paul
+    last: Paul
+  author_string: Siva Reddy, Abhilash Inumella, Rajeev Sangal, Soma Paul
+  bibkey: reddy-etal-2009-words
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '365'
+  page_last: '369'
+  pages: "365\u2013369"
+  paper_id: '66'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1066.jpg
+  title: All Words Unsupervised Semantic Category Labeling for Hindi
+  title_html: All Words Unsupervised Semantic Category Labeling for <span class="acl-fixed-case">H</span>indi
+  url: https://www.aclweb.org/anthology/R09-1066
+  year: '2009'
+R09-1067:
+  address: Borovets, Bulgaria
+  author:
+  - first: Vassiliki
+    full: Vassiliki Rentoumi
+    id: vassiliki-rentoumi
+    last: Rentoumi
+  - first: George
+    full: George Giannakopoulos
+    id: george-giannakopoulos
+    last: Giannakopoulos
+  - first: Vangelis
+    full: Vangelis Karkaletsis
+    id: vangelis-karkaletsis
+    last: Karkaletsis
+  - first: George A.
+    full: George A. Vouros
+    id: george-a-vouros
+    last: Vouros
+  author_string: Vassiliki Rentoumi, George Giannakopoulos, Vangelis Karkaletsis,
+    George A. Vouros
+  bibkey: rentoumi-etal-2009-sentiment
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '370'
+  page_last: '375'
+  pages: "370\u2013375"
+  paper_id: '67'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1067.jpg
+  title: Sentiment Analysis of Figurative Language using a Word Sense Disambiguation
+    Approach
+  title_html: Sentiment Analysis of Figurative Language using a Word Sense Disambiguation
+    Approach
+  url: https://www.aclweb.org/anthology/R09-1067
+  year: '2009'
+R09-1068:
+  address: Borovets, Bulgaria
+  author:
+  - first: Magnus
+    full: Magnus Rosell
+    id: magnus-rosell
+    last: Rosell
+  - first: Martin
+    full: Martin Hassel
+    id: martin-hassel
+    last: Hassel
+  - first: Viggo
+    full: Viggo Kann
+    id: viggo-kann
+    last: Kann
+  author_string: Magnus Rosell, Martin Hassel, Viggo Kann
+  bibkey: rosell-etal-2009-global
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '376'
+  page_last: '380'
+  pages: "376\u2013380"
+  paper_id: '68'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1068.jpg
+  title: "Global Evaluation of Random Indexing through Swedish Word Clustering Compared\
+    \ to the People\u2019s Dictionary of Synonyms"
+  title_html: "Global Evaluation of Random Indexing through <span class=\"acl-fixed-case\"\
+    >S</span>wedish Word Clustering Compared to the People\u2019s Dictionary of Synonyms"
+  url: https://www.aclweb.org/anthology/R09-1068
+  year: '2009'
+R09-1069:
+  address: Borovets, Bulgaria
+  author:
+  - first: Alla
+    full: Alla Rozovskaya
+    id: alla-rozovskaya
+    last: Rozovskaya
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  author_string: Alla Rozovskaya, Roxana Girju
+  bibkey: rozovskaya-girju-2009-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '381'
+  page_last: '387'
+  pages: "381\u2013387"
+  paper_id: '69'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1069.jpg
+  title: 'Identifying Semantic Relations in Context: Near-misses and Overlaps'
+  title_html: 'Identifying Semantic Relations in Context: Near-misses and Overlaps'
+  url: https://www.aclweb.org/anthology/R09-1069
+  year: '2009'
+R09-1070:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ricardo
+    full: "Ricardo S\xE1nchez-S\xE1ez"
+    id: ricardo-sanchez-saez
+    last: "S\xE1nchez-S\xE1ez"
+  - first: Joan-Andreu
+    full: "Joan-Andreu S\xE1nchez"
+    id: joan-andreu-sanchez
+    last: "S\xE1nchez"
+  - first: "Jos\xE9-Miguel"
+    full: "Jos\xE9-Miguel Bened\xED Ru\xEDz"
+    id: jose-miguel-benedi
+    last: "Bened\xED Ru\xEDz"
+  author_string: "Ricardo S\xE1nchez-S\xE1ez, Joan-Andreu S\xE1nchez, Jos\xE9-Miguel\
+    \ Bened\xED Ru\xEDz"
+  bibkey: sanchez-saez-etal-2009-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '388'
+  page_last: '392'
+  pages: "388\u2013392"
+  paper_id: '70'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1070.jpg
+  title: Statistical Confidence Measures for Probabilistic Parsing
+  title_html: Statistical Confidence Measures for Probabilistic Parsing
+  url: https://www.aclweb.org/anthology/R09-1070
+  year: '2009'
+R09-1071:
+  address: Borovets, Bulgaria
+  author:
+  - first: "Lu\xEDs"
+    full: "Lu\xEDs Sarmento"
+    id: luis-sarmento
+    last: Sarmento
+  - first: Paula
+    full: Paula Carvalho
+    id: paula-carvalho
+    last: Carvalho
+  - first: "Eug\xE9nio"
+    full: "Eug\xE9nio Oliveira"
+    id: eugenio-oliveira
+    last: Oliveira
+  author_string: "Lu\xEDs Sarmento, Paula Carvalho, Eug\xE9nio Oliveira"
+  bibkey: sarmento-etal-2009-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '393'
+  page_last: '398'
+  pages: "393\u2013398"
+  paper_id: '71'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1071.jpg
+  title: Exploring the Vector Space Model for Finding Verb Synonyms in Portuguese
+  title_html: Exploring the Vector Space Model for Finding Verb Synonyms in <span
+    class="acl-fixed-case">P</span>ortuguese
+  url: https://www.aclweb.org/anthology/R09-1071
+  year: '2009'
+R09-1072:
+  address: Borovets, Bulgaria
+  author:
+  - first: "B\xE1lint"
+    full: "B\xE1lint Sass"
+    id: balint-sass
+    last: Sass
+  author_string: "B\xE1lint Sass"
+  bibkey: sass-2009-unified
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '399'
+  page_last: '403'
+  pages: "399\u2013403"
+  paper_id: '72'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1072.jpg
+  title: A Unified Method for Extracting Simple and Multiword Verbs with Valence Information
+    and Application for Hungarian
+  title_html: A Unified Method for Extracting Simple and Multiword Verbs with Valence
+    Information and Application for <span class="acl-fixed-case">H</span>ungarian
+  url: https://www.aclweb.org/anthology/R09-1072
+  year: '2009'
+R09-1073:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ravi
+    full: Ravi Sinha
+    id: ravi-sinha
+    last: Sinha
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Ravi Sinha, Rada Mihalcea
+  bibkey: sinha-mihalcea-2009-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '404'
+  page_last: '410'
+  pages: "404\u2013410"
+  paper_id: '73'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1073.jpg
+  title: Combining Lexical Resources for Contextual Synonym Expansion
+  title_html: Combining Lexical Resources for Contextual Synonym Expansion
+  url: https://www.aclweb.org/anthology/R09-1073
+  year: '2009'
+R09-1074:
+  address: Borovets, Bulgaria
+  author:
+  - first: Jan
+    full: "Jan \u0160najder"
+    id: jan-snajder
+    last: "\u0160najder"
+  - first: Bojana
+    full: "Bojana Dalbelo Ba\u0161i\u0107"
+    id: bojana-dalbelo-basic
+    last: "Dalbelo Ba\u0161i\u0107"
+  author_string: "Jan \u0160najder, Bojana Dalbelo Ba\u0161i\u0107"
+  bibkey: snajder-dalbelo-basic-2009-string
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '411'
+  page_last: '415'
+  pages: "411\u2013415"
+  paper_id: '74'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1074.jpg
+  title: String Distance-Based Stemming of the Highly Inflected Croatian Language
+  title_html: String Distance-Based Stemming of the Highly Inflected <span class="acl-fixed-case">C</span>roatian
+    Language
+  url: https://www.aclweb.org/anthology/R09-1074
+  year: '2009'
+R09-1075:
+  address: Borovets, Bulgaria
+  author:
+  - first: Marina
+    full: Marina Sokolova
+    id: marina-sokolova
+    last: Sokolova
+  - first: Victoria
+    full: Victoria Bobicev
+    id: victoria-bobicev
+    last: Bobicev
+  author_string: Marina Sokolova, Victoria Bobicev
+  bibkey: sokolova-bobicev-2009-classification
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '416'
+  page_last: '420'
+  pages: "416\u2013420"
+  paper_id: '75'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1075.jpg
+  title: Classification of Emotion Words in Russian and Romanian Languages
+  title_html: Classification of Emotion Words in <span class="acl-fixed-case">R</span>ussian
+    and <span class="acl-fixed-case">R</span>omanian Languages
+  url: https://www.aclweb.org/anthology/R09-1075
+  year: '2009'
+R09-1076:
+  address: Borovets, Bulgaria
+  author:
+  - first: Marina
+    full: Marina Sokolova
+    id: marina-sokolova
+    last: Sokolova
+  - first: Guy
+    full: Guy Lapalme
+    id: guy-lapalme
+    last: Lapalme
+  author_string: Marina Sokolova, Guy Lapalme
+  bibkey: sokolova-lapalme-2009-classification
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '421'
+  page_last: '427'
+  pages: "421\u2013427"
+  paper_id: '76'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1076.jpg
+  title: Classification of Opinions with Non-affective Adverbs and Adjectives
+  title_html: Classification of Opinions with Non-affective Adverbs and Adjectives
+  url: https://www.aclweb.org/anthology/R09-1076
+  year: '2009'
+R09-1077:
+  address: Borovets, Bulgaria
+  author:
+  - first: Martha Yifiru
+    full: Martha Yifiru Tachbelie
+    id: martha-yifiru-tachbelie
+    last: Tachbelie
+  - first: Wolfgang
+    full: Wolfgang Menzel
+    id: wolfgang-menzel
+    last: Menzel
+  author_string: Martha Yifiru Tachbelie, Wolfgang Menzel
+  bibkey: tachbelie-menzel-2009-amharic
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '428'
+  page_last: '433'
+  pages: "428\u2013433"
+  paper_id: '77'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1077.jpg
+  title: Amharic Part-of-Speech Tagger for Factored Language Modeling
+  title_html: <span class="acl-fixed-case">A</span>mharic Part-of-Speech Tagger for
+    Factored Language Modeling
+  url: https://www.aclweb.org/anthology/R09-1077
+  year: '2009'
+R09-1078:
+  address: Borovets, Bulgaria
+  author:
+  - first: Vicent
+    full: Vicent Tamarit
+    id: vicent-tamarit
+    last: Tamarit
+  - first: Carlos-D.
+    full: "Carlos-D. Mart\xEDnez-Hinarejos"
+    id: carlos-d-martinez-hinarejos
+    last: "Mart\xEDnez-Hinarejos"
+  - first: "Jos\xE9 Miguel"
+    full: "Jos\xE9 Miguel Bened\xED Ru\xEDz"
+    id: jose-miguel-benedi
+    last: "Bened\xED Ru\xEDz"
+  author_string: "Vicent Tamarit, Carlos-D. Mart\xEDnez-Hinarejos, Jos\xE9 Miguel\
+    \ Bened\xED Ru\xEDz"
+  bibkey: tamarit-etal-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '434'
+  page_last: '440'
+  pages: "434\u2013440"
+  paper_id: '78'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1078.jpg
+  title: Improving Unsegmented Statistical Dialogue Act Labelling
+  title_html: Improving Unsegmented Statistical Dialogue Act Labelling
+  url: https://www.aclweb.org/anthology/R09-1078
+  year: '2009'
+R09-1079:
+  address: Borovets, Bulgaria
+  author:
+  - first: Sara
+    full: Sara Tonelli
+    id: sara-tonelli
+    last: Tonelli
+  - first: Emanuele
+    full: Emanuele Pianta
+    id: emanuele-pianta
+    last: Pianta
+  author_string: Sara Tonelli, Emanuele Pianta
+  bibkey: tonelli-pianta-2009-three
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '441'
+  page_last: '448'
+  pages: "441\u2013448"
+  paper_id: '79'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1079.jpg
+  title: Three Issues in Cross-Language Frame Information Transfer
+  title_html: Three Issues in Cross-Language Frame Information Transfer
+  url: https://www.aclweb.org/anthology/R09-1079
+  year: '2009'
+R09-1080:
+  address: Borovets, Bulgaria
+  author:
+  - first: Antonio
+    full: Antonio Toral
+    id: antonio-toral
+    last: Toral
+  - first: "\xD3scar"
+    full: "\xD3scar Ferr\xE1ndez"
+    id: oscar-ferrandez
+    last: "Ferr\xE1ndez"
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Rafael
+    full: "Rafael Mu\xF1oz"
+    id: rafael-munoz
+    last: "Mu\xF1oz"
+  author_string: "Antonio Toral, \xD3scar Ferr\xE1ndez, Eneko Agirre, Rafael Mu\xF1\
+    oz"
+  bibkey: toral-etal-2009-study
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '449'
+  page_last: '454'
+  pages: "449\u2013454"
+  paper_id: '80'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1080.jpg
+  title: A Study on Linking Wikipedia Categories to Wordnet Synsets using Text Similarity
+  title_html: A Study on Linking <span class="acl-fixed-case">W</span>ikipedia Categories
+    to <span class="acl-fixed-case">W</span>ordnet Synsets using Text Similarity
+  url: https://www.aclweb.org/anthology/R09-1080
+  year: '2009'
+R09-1081:
+  address: Borovets, Bulgaria
+  author:
+  - first: Jantine
+    full: Jantine Trapman
+    id: jantine-trapman
+    last: Trapman
+  - first: Paola
+    full: Paola Monachesi
+    id: paola-monachesi
+    last: Monachesi
+  author_string: Jantine Trapman, Paola Monachesi
+  bibkey: trapman-monachesi-2009-ontology
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '455'
+  page_last: '459'
+  pages: "455\u2013459"
+  paper_id: '81'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1081.jpg
+  title: Ontology Engineering and Knowledge Extraction for Cross-Lingual Retrieval
+  title_html: Ontology Engineering and Knowledge Extraction for Cross-Lingual Retrieval
+  url: https://www.aclweb.org/anthology/R09-1081
+  year: '2009'
+R09-1082:
+  address: Borovets, Bulgaria
+  author:
+  - first: Jernej
+    full: "Jernej Vi\u010Di\u010D"
+    id: jernej-vicic
+    last: "Vi\u010Di\u010D"
+  - first: Petr
+    full: Petr Homola
+    id: petr-homola
+    last: Homola
+  - first: Vladislav
+    full: "Vladislav Kubo\u0148"
+    id: vladislav-kubon
+    last: "Kubo\u0148"
+  author_string: "Jernej Vi\u010Di\u010D, Petr Homola, Vladislav Kubo\u0148"
+  bibkey: vicic-etal-2009-method
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '460'
+  page_last: '464'
+  pages: "460\u2013464"
+  paper_id: '82'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1082.jpg
+  title: A Method to Restrict the Blow-up of Hypotheses of a Non-disambiguated
+  title_html: A Method to Restrict the Blow-up of Hypotheses of a Non-disambiguated
+  url: https://www.aclweb.org/anthology/R09-1082
+  year: '2009'
+R09-1083:
+  address: Borovets, Bulgaria
+  author:
+  - first: Marc
+    full: Marc Vilain
+    id: marc-vilain
+    last: Vilain
+  - first: Jonathan
+    full: Jonathan Huggins
+    id: jonathan-huggins
+    last: Huggins
+  - first: Ben
+    full: Ben Wellner
+    id: ben-wellner
+    last: Wellner
+  author_string: Marc Vilain, Jonathan Huggins, Ben Wellner
+  bibkey: vilain-etal-2009-sources
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '465'
+  page_last: '470'
+  pages: "465\u2013470"
+  paper_id: '83'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1083.jpg
+  title: 'Sources of Performance in CRF Transfer Training: a Business Name-tagging
+    Case Study'
+  title_html: 'Sources of Performance in <span class="acl-fixed-case">CRF</span> Transfer
+    Training: a Business Name-tagging Case Study'
+  url: https://www.aclweb.org/anthology/R09-1083
+  year: '2009'
+R09-1084:
+  address: Borovets, Bulgaria
+  author:
+  - first: Tong
+    full: Tong Wang
+    id: tong-wang
+    last: Wang
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Tong Wang, Graeme Hirst
+  bibkey: wang-hirst-2009-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '471'
+  page_last: '477'
+  pages: "471\u2013477"
+  paper_id: '84'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1084.jpg
+  title: Extracting Synonyms from Dictionary Definitions
+  title_html: Extracting Synonyms from Dictionary Definitions
+  url: https://www.aclweb.org/anthology/R09-1084
+  year: '2009'
+R09-1085:
+  address: Borovets, Bulgaria
+  author:
+  - first: Holger
+    full: Holger Wunsch
+    id: holger-wunsch
+    last: Wunsch
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  - first: Rachael
+    full: Rachael Cantrell
+    id: rachael-cantrell
+    last: Cantrell
+  author_string: "Holger Wunsch, Sandra K\xFCbler, Rachael Cantrell"
+  bibkey: wunsch-etal-2009-instance
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '478'
+  page_last: '483'
+  pages: "478\u2013483"
+  paper_id: '85'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1085.jpg
+  title: Instance Sampling Methods for Pronoun Resolution
+  title_html: Instance Sampling Methods for Pronoun Resolution
+  url: https://www.aclweb.org/anthology/R09-1085
+  year: '2009'
+R09-1086:
+  address: Borovets, Bulgaria
+  author:
+  - first: Torsten
+    full: Torsten Zesch
+    id: torsten-zesch
+    last: Zesch
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Torsten Zesch, Iryna Gurevych
+  bibkey: zesch-gurevych-2009-approximate
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '484'
+  page_last: '489'
+  pages: "484\u2013489"
+  paper_id: '86'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1086.jpg
+  title: Approximate Matching for Evaluating Keyphrase Extraction
+  title_html: Approximate Matching for Evaluating Keyphrase Extraction
+  url: https://www.aclweb.org/anthology/R09-1086
+  year: '2009'
+R09-1087:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ziqi
+    full: Ziqi Zhang
+    id: ziqi-zhang
+    last: Zhang
+  - first: Lei
+    full: Lei Xia
+    id: lei-xia
+    last: Xia
+  - first: Mark A.
+    full: Mark A. Greenwood
+    id: mark-a-greenwood
+    last: Greenwood
+  - first: "Jos\xE9"
+    full: "Jos\xE9 Iria"
+    id: jose-iria
+    last: Iria
+  author_string: "Ziqi Zhang, Lei Xia, Mark A. Greenwood, Jos\xE9 Iria"
+  bibkey: zhang-etal-2009-many
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference RANLP-2009
+  booktitle_html: Proceedings of the International Conference <span class="acl-fixed-case">RANLP</span>-2009
+  month: September
+  page_first: '490'
+  page_last: '495'
+  pages: "490\u2013495"
+  paper_id: '87'
+  parent_volume_id: R09-1
+  pdf: https://www.aclweb.org/anthology/R09-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-1087.jpg
+  title: 'Too Many Mammals: Improving the Diversity of Automatically Recognized Terms'
+  title_html: 'Too Many Mammals: Improving the Diversity of Automatically Recognized
+    Terms'
+  url: https://www.aclweb.org/anthology/R09-1087
+  year: '2009'
+R09-2000:
+  address: Borovets, Bulgaria
+  author:
+  - first: Irina
+    full: Irina Temnikova
+    id: irina-temnikova
+    last: Temnikova
+  - first: Ivelina
+    full: Ivelina Nikolova
+    id: ivelina-nikolova
+    last: Nikolova
+  - first: Natalia
+    full: Natalia Konstantinova
+    id: natalia-konstantinova
+    last: Konstantinova
+  author_string: Irina Temnikova, Ivelina Nikolova, Natalia Konstantinova
+  bibkey: ranlp-2009-student
+  bibtype: proceedings
+  booktitle: Proceedings of the Student Research Workshop
+  month: September
+  paper_id: '0'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2000.jpg
+  title: Proceedings of the Student Research Workshop
+  title_html: Proceedings of the Student Research Workshop
+  url: https://www.aclweb.org/anthology/R09-2000
+  year: '2009'
+R09-2001:
+  address: Borovets, Bulgaria
+  author:
+  - first: Bharat Ram
+    full: Bharat Ram Ambati
+    id: bharat-ram-ambati
+    last: Ambati
+  - first: Pujitha
+    full: Pujitha Gade
+    id: raghu-pujitha-gade
+    last: Gade
+  - first: Chaitanya
+    full: Chaitanya GSK
+    id: chaitanya-gsk
+    last: GSK
+  - first: Samar
+    full: Samar Husain
+    id: samar-husain
+    last: Husain
+  author_string: Bharat Ram Ambati, Pujitha Gade, Chaitanya GSK, Samar Husain
+  bibkey: ambati-etal-2009-effect
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '1'
+  page_last: '5'
+  pages: "1\u20135"
+  paper_id: '1'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2001.jpg
+  title: Effect of Minimal Semantics on Dependency Parsing
+  title_html: Effect of Minimal Semantics on Dependency Parsing
+  url: https://www.aclweb.org/anthology/R09-2001
+  year: '2009'
+R09-2002:
+  address: Borovets, Bulgaria
+  author:
+  - first: Rachael
+    full: Rachael Cantrell
+    id: rachael-cantrell
+    last: Cantrell
+  author_string: Rachael Cantrell
+  bibkey: cantrell-2009-mink
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '6'
+  page_last: '11'
+  pages: "6\u201311"
+  paper_id: '2'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2002.jpg
+  title: 'Mink: An Incremental Data-Driven Dependency Parser with Integrated Conversion
+    to Semantics'
+  title_html: '<span class="acl-fixed-case">M</span>ink: An Incremental Data-Driven
+    Dependency Parser with Integrated Conversion to Semantics'
+  url: https://www.aclweb.org/anthology/R09-2002
+  year: '2009'
+R09-2003:
+  address: Borovets, Bulgaria
+  author:
+  - first: Julio Javier
+    full: Julio Javier Castillo
+    id: julio-castillo
+    last: Castillo
+  author_string: Julio Javier Castillo
+  bibkey: castillo-2009-study
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '12'
+  page_last: '17'
+  pages: "12\u201317"
+  paper_id: '3'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2003.jpg
+  title: A Study of Machine Learning Algorithms for Recognizing Textual Entailment
+  title_html: A Study of Machine Learning Algorithms for Recognizing Textual Entailment
+  url: https://www.aclweb.org/anthology/R09-2003
+  year: '2009'
+R09-2004:
+  address: Borovets, Bulgaria
+  author:
+  - first: Kais
+    full: Kais Dukes
+    id: kais-dukes
+    last: Dukes
+  author_string: Kais Dukes
+  bibkey: dukes-2009-logicon
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '18'
+  page_last: '22'
+  pages: "18\u201322"
+  paper_id: '4'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2004.jpg
+  title: 'LOGICON: A System for Extracting Semantic Structure using Partial Parsing'
+  title_html: '<span class="acl-fixed-case">LOGICON</span>: A System for Extracting
+    Semantic Structure using Partial Parsing'
+  url: https://www.aclweb.org/anthology/R09-2004
+  year: '2009'
+R09-2005:
+  address: Borovets, Bulgaria
+  author:
+  - first: Mosa Emhamed
+    full: Mosa Emhamed Elbendak
+    id: mosa-emhamed-elbendak
+    last: Elbendak
+  author_string: Mosa Emhamed Elbendak
+  bibkey: elbendak-2009-framework
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '23'
+  page_last: '28'
+  pages: "23\u201328"
+  paper_id: '5'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2005.jpg
+  title: Framework for using a Natural Language Approach to Object Identification
+  title_html: Framework for using a Natural Language Approach to Object Identification
+  url: https://www.aclweb.org/anthology/R09-2005
+  year: '2009'
+R09-2006:
+  address: Borovets, Bulgaria
+  author:
+  - first: Robert Michael
+    full: Robert Michael Foster
+    id: robert-michael-foster
+    last: Foster
+  author_string: Robert Michael Foster
+  bibkey: foster-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '29'
+  page_last: '34'
+  pages: "29\u201334"
+  paper_id: '6'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2006.jpg
+  title: Improving the Output from Software that Generates Multiple Choice Question
+    (MCQ) Test Items Automatically using Controlled Rhetorical Structure Theory
+  title_html: Improving the Output from Software that Generates Multiple Choice Question
+    (<span class="acl-fixed-case">MCQ</span>) Test Items Automatically using Controlled
+    Rhetorical Structure Theory
+  url: https://www.aclweb.org/anthology/R09-2006
+  year: '2009'
+R09-2007:
+  address: Borovets, Bulgaria
+  author:
+  - first: Saike
+    full: Saike He
+    id: saike-he
+    last: He
+  - first: Taozheng
+    full: Taozheng Zhang
+    id: taozheng-zhang
+    last: Zhang
+  - first: Xue
+    full: Xue Bai
+    id: xue-bai
+    last: Bai
+  - first: Xiaojie
+    full: Xiaojie Wang
+    id: xiaojie-wang
+    last: Wang
+  - first: Yuan
+    full: Yuan Dong
+    id: yuan-dong
+    last: Dong
+  author_string: Saike He, Taozheng Zhang, Xue Bai, Xiaojie Wang, Yuan Dong
+  bibkey: he-etal-2009-normalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '35'
+  page_last: '39'
+  pages: "35\u201339"
+  paper_id: '7'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2007.jpg
+  title: Normalized Accessor Variety Combined with Conditional Random Fields in Chinese
+    Word Segmentation
+  title_html: Normalized Accessor Variety Combined with Conditional Random Fields
+    in <span class="acl-fixed-case">C</span>hinese Word Segmentation
+  url: https://www.aclweb.org/anthology/R09-2007
+  year: '2009'
+R09-2008:
+  address: Borovets, Bulgaria
+  author:
+  - first: Laska
+    full: Laska Laskova
+    id: laska-laskova
+    last: Laskova
+  author_string: Laska Laskova
+  bibkey: laskova-2009-event
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '40'
+  page_last: '44'
+  pages: "40\u201344"
+  paper_id: '8'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2008.jpg
+  title: Event Ordering. Temporal Annotation on Top of the BulTreeBank
+  title_html: Event Ordering. Temporal Annotation on Top of the <span class="acl-fixed-case">B</span>ul<span
+    class="acl-fixed-case">T</span>ree<span class="acl-fixed-case">B</span>ank
+  url: https://www.aclweb.org/anthology/R09-2008
+  year: '2009'
+R09-2009:
+  address: Borovets, Bulgaria
+  author:
+  - first: Laroussi
+    full: Laroussi Merhbene
+    id: laroussi-merhbene
+    last: Merhbene
+  - first: Anis
+    full: Anis Zouaghi
+    id: anis-zouaghi
+    last: Zouaghi
+  - first: Mounir
+    full: Mounir Zrigui
+    id: mounir-zrigui
+    last: Zrigui
+  author_string: Laroussi Merhbene, Anis Zouaghi, Mounir Zrigui
+  bibkey: merhbene-etal-2009-ambiguous
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '45'
+  page_last: '52'
+  pages: "45\u201352"
+  paper_id: '9'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2009.jpg
+  title: 'Ambiguous Arabic Words Disambiguation: The Results'
+  title_html: 'Ambiguous <span class="acl-fixed-case">A</span>rabic Words Disambiguation:
+    The Results'
+  url: https://www.aclweb.org/anthology/R09-2009
+  year: '2009'
+R09-2010:
+  address: Borovets, Bulgaria
+  author:
+  - first: Simone
+    full: Simone Pereira
+    id: simone-pereira
+    last: Pereira
+  author_string: Simone Pereira
+  bibkey: pereira-2009-zac
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '53'
+  page_last: '59'
+  pages: "53\u201359"
+  paper_id: '10'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2010.jpg
+  title: 'ZAC.PB: An Annotated Corpus for Zero Anaphora Resolution in Portuguese'
+  title_html: '<span class="acl-fixed-case">ZAC</span>.<span class="acl-fixed-case">PB</span>:
+    An Annotated Corpus for Zero Anaphora Resolution in <span class="acl-fixed-case">P</span>ortuguese'
+  url: https://www.aclweb.org/anthology/R09-2010
+  year: '2009'
+R09-2011:
+  address: Borovets, Bulgaria
+  author:
+  - first: Luz
+    full: Luz Rello
+    id: luz-rello
+    last: Rello
+  - first: Iustina
+    full: Iustina Ilisei
+    id: iustina-ilisei
+    last: Ilisei
+  author_string: Luz Rello, Iustina Ilisei
+  bibkey: rello-ilisei-2009-rule
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '60'
+  page_last: '65'
+  pages: "60\u201365"
+  paper_id: '11'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2011.jpg
+  title: A Rule-Based Approach to the Identification of Spanish Zero Pronouns
+  title_html: A Rule-Based Approach to the Identification of <span class="acl-fixed-case">S</span>panish
+    Zero Pronouns
+  url: https://www.aclweb.org/anthology/R09-2011
+  year: '2009'
+R09-2012:
+  address: Borovets, Bulgaria
+  author:
+  - first: "Rapha\xEBl"
+    full: "Rapha\xEBl Rubino"
+    id: raphael-rubino
+    last: Rubino
+  author_string: "Rapha\xEBl Rubino"
+  bibkey: rubino-2009-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '66'
+  page_last: '70'
+  pages: "66\u201370"
+  paper_id: '12'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2012.jpg
+  title: Exploring Context Variation and Lexicon Coverage in Projection-based Approach
+    for Term Translation
+  title_html: Exploring Context Variation and Lexicon Coverage in Projection-based
+    Approach for Term Translation
+  url: https://www.aclweb.org/anthology/R09-2012
+  year: '2009'
+R09-2013:
+  address: Borovets, Bulgaria
+  author:
+  - first: Mitra
+    full: Mitra Shahabi
+    id: mitra-shahabi
+    last: Shahabi
+  author_string: Mitra Shahabi
+  bibkey: shahabi-2009-evaluation
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '71'
+  page_last: '75'
+  pages: "71\u201375"
+  paper_id: '13'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2013.jpg
+  title: An Evaluation of Output Quality of Machine Translation Program
+  title_html: An Evaluation of Output Quality of Machine Translation Program
+  url: https://www.aclweb.org/anthology/R09-2013
+  year: '2009'
+R09-2014:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ang
+    full: Ang Sun
+    id: ang-sun
+    last: Sun
+  author_string: Ang Sun
+  bibkey: sun-2009-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '76'
+  page_last: '82'
+  pages: "76\u201382"
+  paper_id: '14'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2014.jpg
+  title: A Two-stage Bootstrapping Algorithm for Relation Extraction
+  title_html: A Two-stage Bootstrapping Algorithm for Relation Extraction
+  url: https://www.aclweb.org/anthology/R09-2014
+  year: '2009'
+R09-2015:
+  address: Borovets, Bulgaria
+  author:
+  - first: Aneliya
+    full: Aneliya Tincheva
+    id: aneliya-tincheva
+    last: Tincheva
+  author_string: Aneliya Tincheva
+  bibkey: tincheva-2009-context
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '83'
+  page_last: '88'
+  pages: "83\u201388"
+  paper_id: '15'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2015.jpg
+  title: Context Driven XML Retrieval
+  title_html: Context Driven <span class="acl-fixed-case">XML</span> Retrieval
+  url: https://www.aclweb.org/anthology/R09-2015
+  year: '2009'
+R09-2016:
+  address: Borovets, Bulgaria
+  author:
+  - first: Ravikiran
+    full: Ravikiran Vadlapudi
+    id: ravikiran-vadlapudi
+    last: Vadlapudi
+  - first: Poornima
+    full: Poornima Malepati
+    id: poornima-malepati
+    last: Malepati
+  - first: Suman
+    full: Suman Yelati
+    id: suman-yelati
+    last: Yelati
+  author_string: Ravikiran Vadlapudi, Poornima Malepati, Suman Yelati
+  bibkey: vadlapudi-etal-2009-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop
+  booktitle_html: Proceedings of the Student Research Workshop
+  month: September
+  page_first: '89'
+  page_last: '93'
+  pages: "89\u201393"
+  paper_id: '16'
+  parent_volume_id: R09-2
+  pdf: https://www.aclweb.org/anthology/R09-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R09-2016.jpg
+  title: Hierarchical Discourse Parsing Based on Similarity Metrics
+  title_html: Hierarchical Discourse Parsing Based on Similarity Metrics
+  url: https://www.aclweb.org/anthology/R09-2016
+  year: '2009'

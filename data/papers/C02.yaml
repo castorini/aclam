@@ -1,0 +1,5364 @@
+C02-1000:
+  bibkey: coling-2002-coling
+  bibtype: proceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  paper_id: '0'
+  parent_volume_id: C02-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1000.jpg
+  title: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  title_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  year: '2002'
+C02-1001:
+  author:
+  - first: N.
+    full: N. Smaili
+    id: nasser-smaili
+    last: Smaili
+  - first: P.
+    full: P. Cardinal
+    id: patrick-cardinal
+    last: Cardinal
+  - first: G.
+    full: G. Boulianne
+    id: gilles-boulianne
+    last: Boulianne
+  - first: P.
+    full: P. Dumouchel
+    id: pierre-dumouchel
+    last: Dumouchel
+  author_string: N. Smaili, P. Cardinal, G. Boulianne, P. Dumouchel
+  bibkey: smaili-etal-2002-disambiguation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '1'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1001.jpg
+  title: Disambiguation of Finite-State Transducers
+  title_html: Disambiguation of Finite-State Transducers
+  url: https://www.aclweb.org/anthology/C02-1001
+  year: '2002'
+C02-1002:
+  author:
+  - first: Dan
+    full: Dan Tufis
+    id: dan-tufis
+    last: Tufis
+  author_string: Dan Tufis
+  bibkey: tufis-2002-cheap
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '2'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1002.jpg
+  title: A Cheap and Fast Way to Build Useful Translation Lexicons
+  title_html: A Cheap and Fast Way to Build Useful Translation Lexicons
+  url: https://www.aclweb.org/anthology/C02-1002
+  year: '2002'
+C02-1003:
+  author:
+  - first: Yajuan
+    full: "Yajuan L\xFC"
+    id: yajuan-lu
+    last: "L\xFC"
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  - first: Tiejun
+    full: Tiejun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  - first: Muyun
+    full: Muyun Yang
+    id: muyun-yang
+    last: Yang
+  author_string: "Yajuan L\xFC, Sheng Li, Tiejun Zhao, Muyun Yang"
+  bibkey: lu-etal-2002-learning
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '3'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1003.jpg
+  title: Learning Chinese Bracketing Knowledge Based on a Bilingual Language Model
+  title_html: Learning <span class="acl-fixed-case">C</span>hinese Bracketing Knowledge
+    Based on a Bilingual Language Model
+  url: https://www.aclweb.org/anthology/C02-1003
+  year: '2002'
+C02-1004:
+  author:
+  - first: Martin
+    full: Martin Volk
+    id: martin-volk
+    last: Volk
+  author_string: Martin Volk
+  bibkey: volk-2002-combining
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '4'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1004.jpg
+  title: Combining Unsupervised and Supervised Methods for PP Attachment Disambiguation
+  title_html: Combining Unsupervised and Supervised Methods for <span class="acl-fixed-case">PP</span>
+    Attachment Disambiguation
+  url: https://www.aclweb.org/anthology/C02-1004
+  year: '2002'
+C02-1005:
+  author:
+  - first: Sebastian
+    full: Sebastian Varges
+    id: sebastian-varges
+    last: Varges
+  author_string: Sebastian Varges
+  bibkey: varges-2002-fluency
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '5'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1005.jpg
+  title: Fluency and Completeness in Instance-based Natural Language Generation
+  title_html: Fluency and Completeness in Instance-based Natural Language Generation
+  url: https://www.aclweb.org/anthology/C02-1005
+  year: '2002'
+C02-1006:
+  author:
+  - first: Ying-Ju
+    full: Ying-Ju Chen
+    id: ying-ju-chen
+    last: Chen
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Ying-Ju Chen, Hsin-Hsi Chen
+  bibkey: chen-chen-2002-nlp
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '6'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1006.jpg
+  title: NLP and IR Approaches to Monolingual and Multilingual Link Detection
+  title_html: <span class="acl-fixed-case">NLP</span> and <span class="acl-fixed-case">IR</span>
+    Approaches to Monolingual and Multilingual Link Detection
+  url: https://www.aclweb.org/anthology/C02-1006
+  year: '2002'
+C02-1007:
+  author:
+  - first: Reinhard
+    full: Reinhard Rapp
+    id: reinhard-rapp
+    last: Rapp
+  author_string: Reinhard Rapp
+  bibkey: rapp-2002-computation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '7'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1007.jpg
+  title: 'The Computation of Word Associations: Comparing Syntagmatic and Paradigmatic
+    Approaches'
+  title_html: 'The Computation of Word Associations: Comparing Syntagmatic and Paradigmatic
+    Approaches'
+  url: https://www.aclweb.org/anthology/C02-1007
+  year: '2002'
+C02-1008:
+  author:
+  - first: Wen-Hsiang
+    full: Wen-Hsiang Lu
+    id: wen-hsiang-lu
+    last: Lu
+  - first: Lee-Feng
+    full: Lee-Feng Chien
+    id: lee-feng-chien
+    last: Chien
+  - first: Hsi-Jian
+    full: Hsi-Jian Lee
+    id: hsi-jian-lee
+    last: Lee
+  author_string: Wen-Hsiang Lu, Lee-Feng Chien, Hsi-Jian Lee
+  bibkey: lu-etal-2002-transitive
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '8'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1008.jpg
+  title: A Transitive Model for Extracting Translation Equivalents of Web Queries
+    through Anchor Text Mining
+  title_html: A Transitive Model for Extracting Translation Equivalents of Web Queries
+    through Anchor Text Mining
+  url: https://www.aclweb.org/anthology/C02-1008
+  year: '2002'
+C02-1009:
+  author:
+  - first: Tz-Liang
+    full: Tz-Liang Kueng
+    id: tz-liang-kueng
+    last: Kueng
+  - first: Keh-Yih
+    full: Keh-Yih Su
+    id: keh-yih-su
+    last: Su
+  author_string: Tz-Liang Kueng, Keh-Yih Su
+  bibkey: kueng-su-2002-robust
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '9'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1009.jpg
+  title: A Robust Cross-Style Bilingual Sentences Alignment Model
+  title_html: A Robust Cross-Style Bilingual Sentences Alignment Model
+  url: https://www.aclweb.org/anthology/C02-1009
+  year: '2002'
+C02-1010:
+  author:
+  - first: Wei
+    full: Wei Wang
+    id: wei-wang
+    last: Wang
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Jin-Xia
+    full: Jin-Xia Huang
+    id: jin-xia-huang
+    last: Huang
+  - first: Chang-Ning
+    full: Chang-Ning Huang
+    id: changning-huang
+    last: Huang
+  author_string: Wei Wang, Ming Zhou, Jin-Xia Huang, Chang-Ning Huang
+  bibkey: wang-etal-2002-structure
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '10'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1010.jpg
+  title: Structure Alignment Using Bilingual Chunking
+  title_html: Structure Alignment Using Bilingual Chunking
+  url: https://www.aclweb.org/anthology/C02-1010
+  year: '2002'
+C02-1011:
+  author:
+  - first: Yunbo
+    full: Yunbo Cao
+    id: yunbo-cao
+    last: Cao
+  - first: Hang
+    full: Hang Li
+    id: hang-li
+    last: Li
+  author_string: Yunbo Cao, Hang Li
+  bibkey: cao-li-2002-base
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '11'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1011.jpg
+  title: Base Noun Phrase Translation Using Web Data and the EM Algorithm
+  title_html: Base Noun Phrase Translation Using Web Data and the <span class="acl-fixed-case">EM</span>
+    Algorithm
+  url: https://www.aclweb.org/anthology/C02-1011
+  year: '2002'
+C02-1012:
+  author:
+  - first: Jian
+    full: Jian Sun
+    id: jian-sun
+    last: Sun
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Lei
+    full: Lei Zhang
+    id: lei-zhang
+    last: Zhang
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Changning
+    full: Changning Huang
+    id: changning-huang
+    last: Huang
+  author_string: Jian Sun, Jianfeng Gao, Lei Zhang, Ming Zhou, Changning Huang
+  bibkey: sun-etal-2002-chinese
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '12'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1012.jpg
+  title: Chinese Named Entity Identification Using Class-based Language Model
+  title_html: <span class="acl-fixed-case">C</span>hinese Named Entity Identification
+    Using Class-based Language Model
+  url: https://www.aclweb.org/anthology/C02-1012
+  year: '2002'
+C02-1013:
+  author:
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  author_string: John Carroll, Ted Briscoe
+  bibkey: carroll-briscoe-2002-high
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '13'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1013.jpg
+  title: High Precision Extraction of Grammatical Relations
+  title_html: High Precision Extraction of Grammatical Relations
+  url: https://www.aclweb.org/anthology/C02-1013
+  year: '2002'
+C02-1014:
+  author:
+  - first: Arantza
+    full: "Arantza D\xEDaz de Ilarraza"
+    id: arantza-diaz-de-ilarraza
+    last: "D\xEDaz de Ilarraza"
+  - first: Aingeru
+    full: Aingeru Mayor
+    id: aingeru-mayor
+    last: Mayor
+  - first: Kepa
+    full: Kepa Sarasola
+    id: kepa-sarasola
+    last: Sarasola
+  author_string: "Arantza D\xEDaz de Ilarraza, Aingeru Mayor, Kepa Sarasola"
+  bibkey: diaz-de-ilarraza-etal-2002-semiautomatic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '14'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1014.jpg
+  title: Semiautomatic Labelling of Semantic Features
+  title_html: Semiautomatic Labelling of Semantic Features
+  url: https://www.aclweb.org/anthology/C02-1014
+  year: '2002'
+C02-1015:
+  author:
+  - first: James
+    full: James Shaw
+    id: james-shaw
+    last: Shaw
+  author_string: James Shaw
+  bibkey: shaw-2002-corpus
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '15'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1015.jpg
+  title: A Corpus-based Analysis for the Ordering of Clause Aggregation Operators
+  title_html: A Corpus-based Analysis for the Ordering of Clause Aggregation Operators
+  url: https://www.aclweb.org/anthology/C02-1015
+  year: '2002'
+C02-1016:
+  author:
+  - first: Grzegorz
+    full: Grzegorz Kondrak
+    id: grzegorz-kondrak
+    last: Kondrak
+  author_string: Grzegorz Kondrak
+  bibkey: kondrak-2002-determining
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '16'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1016.jpg
+  title: Determining Recurrent Sound Correspondences by Inducing Translation Models
+  title_html: Determining Recurrent Sound Correspondences by Inducing Translation
+    Models
+  url: https://www.aclweb.org/anthology/C02-1016
+  year: '2002'
+C02-1017:
+  author:
+  - first: Michael
+    full: Michael Paul
+    id: michael-paul
+    last: Paul
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Seiichi
+    full: Seiichi Yamamoto
+    id: seiichi-yamamoto
+    last: Yamamoto
+  author_string: Michael Paul, Eiichiro Sumita, Seiichi Yamamoto
+  bibkey: paul-etal-2002-corpus
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '17'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1017.jpg
+  title: Corpus-based Generation of Numeral Classifier using Phrase Alignment
+  title_html: Corpus-based Generation of Numeral Classifier using Phrase Alignment
+  url: https://www.aclweb.org/anthology/C02-1017
+  year: '2002'
+C02-1018:
+  author:
+  - first: Tatsunori
+    full: Tatsunori Mori
+    id: tatsunori-mori
+    last: Mori
+  author_string: Tatsunori Mori
+  bibkey: mori-2002-information
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '18'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1018.jpg
+  title: 'Information Gain Ratio as Term Weight: The case of Summarization of IR Results'
+  title_html: 'Information Gain Ratio as Term Weight: The case of Summarization of
+    <span class="acl-fixed-case">IR</span> Results'
+  url: https://www.aclweb.org/anthology/C02-1018
+  year: '2002'
+C02-1019:
+  author:
+  - first: Songwook
+    full: Songwook Lee
+    id: songwook-lee
+    last: Lee
+  - first: Tae-Yeoub
+    full: Tae-Yeoub Jang
+    id: tae-yeoub-jang
+    last: Jang
+  - first: Jungyun
+    full: Jungyun Seo
+    id: jungyun-seo
+    last: Seo
+  author_string: Songwook Lee, Tae-Yeoub Jang, Jungyun Seo
+  bibkey: lee-etal-2002-grammatical
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '19'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1019.jpg
+  title: The Grammatical Function Analysis between Korean Adnoun Clause and Noun Phrase
+    by Using Support Vector Machines
+  title_html: The Grammatical Function Analysis between <span class="acl-fixed-case">K</span>orean
+    Adnoun Clause and Noun Phrase by Using Support Vector Machines
+  url: https://www.aclweb.org/anthology/C02-1019
+  year: '2002'
+C02-1020:
+  author:
+  - first: Kengo
+    full: Kengo Sato
+    id: kengo-sato
+    last: Sato
+  - first: Hiroaki
+    full: Hiroaki Saito
+    id: hiroaki-saito
+    last: Saito
+  author_string: Kengo Sato, Hiroaki Saito
+  bibkey: sato-saito-2002-extracting
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '20'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1020.jpg
+  title: Extracting Word Sequence Correspondences with Support Vector Machines
+  title_html: Extracting Word Sequence Correspondences with Support Vector Machines
+  url: https://www.aclweb.org/anthology/C02-1020
+  year: '2002'
+C02-1021:
+  author:
+  - first: Pavel
+    full: "Pavel Kv\u0115to\u0148"
+    id: pavel-kveton
+    last: "Kv\u0115to\u0148"
+  - first: Karel
+    full: Karel Oliva
+    id: karel-oliva
+    last: Oliva
+  author_string: "Pavel Kv\u0115to\u0148, Karel Oliva"
+  bibkey: kveton-oliva-2002-semi
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '21'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1021.jpg
+  title: (Semi-)Automatic Detection of Errors in PoS-Tagged Corpora
+  title_html: (Semi-)Automatic Detection of Errors in <span class="acl-fixed-case">P</span>o<span
+    class="acl-fixed-case">S</span>-Tagged Corpora
+  url: https://www.aclweb.org/anthology/C02-1021
+  year: '2002'
+C02-1022:
+  author:
+  - first: Helmut
+    full: Helmut Horacek
+    id: helmut-horacek
+    last: Horacek
+  author_string: Helmut Horacek
+  bibkey: horacek-2002-varying
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '22'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1022.jpg
+  title: Varying Cardinality in Metonymic Extensions to Nouns
+  title_html: Varying Cardinality in Metonymic Extensions to Nouns
+  url: https://www.aclweb.org/anthology/C02-1022
+  year: '2002'
+C02-1023:
+  author:
+  - first: Pascal
+    full: Pascal Vaillant
+    id: pascal-vaillant
+    last: Vaillant
+  author_string: Pascal Vaillant
+  bibkey: vaillant-2002-chart
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '23'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1023.jpg
+  title: A Chart-Parsing Algorithm for Efficient Semantic Analysis
+  title_html: A Chart-Parsing Algorithm for Efficient Semantic Analysis
+  url: https://www.aclweb.org/anthology/C02-1023
+  year: '2002'
+C02-1024:
+  author:
+  - first: William
+    full: William Schuler
+    id: william-schuler
+    last: Schuler
+  author_string: William Schuler
+  bibkey: schuler-2002-interleaved
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '24'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1024.jpg
+  title: Interleaved Semantic Interpretation in Environment-based Parsing
+  title_html: Interleaved Semantic Interpretation in Environment-based Parsing
+  url: https://www.aclweb.org/anthology/C02-1024
+  year: '2002'
+C02-1025:
+  author:
+  - first: Hai Leong
+    full: Hai Leong Chieu
+    id: hai-leong-chieu
+    last: Chieu
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Hai Leong Chieu, Hwee Tou Ng
+  bibkey: chieu-ng-2002-named
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '25'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1025.jpg
+  title: 'Named Entity Recognition: A Maximum Entropy Approach Using Global Information'
+  title_html: 'Named Entity Recognition: A Maximum Entropy Approach Using Global Information'
+  url: https://www.aclweb.org/anthology/C02-1025
+  year: '2002'
+C02-1026:
+  author:
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  author_string: Chin-Yew Lin
+  bibkey: lin-2002-effectiveness
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '26'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1026.jpg
+  title: The Effectiveness of Dictionary and Web-Based Answer Reranking
+  title_html: The Effectiveness of Dictionary and Web-Based Answer Reranking
+  url: https://www.aclweb.org/anthology/C02-1026
+  year: '2002'
+C02-1027:
+  author:
+  - first: Hristo
+    full: Hristo Tanev
+    id: hristo-tanev
+    last: Tanev
+  - first: Ruslan
+    full: Ruslan Mitkov
+    id: ruslan-mitkov
+    last: Mitkov
+  author_string: Hristo Tanev, Ruslan Mitkov
+  bibkey: tanev-mitkov-2002-shallow
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '27'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1027.jpg
+  title: Shallow Language Processing Architecture for Bulgarian
+  title_html: Shallow Language Processing Architecture for <span class="acl-fixed-case">B</span>ulgarian
+  url: https://www.aclweb.org/anthology/C02-1027
+  year: '2002'
+C02-1028:
+  author:
+  - first: "\xC9ric"
+    full: "\xC9ric Villemonte de la Clergerie"
+    id: eric-villemonte-de-la-clergerie
+    last: Villemonte de la Clergerie
+  author_string: "\xC9ric Villemonte de la Clergerie"
+  bibkey: villemonte-de-la-clergerie-2002-parsing-mildly
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '28'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1028.jpg
+  title: Parsing Mildly Context-Sensitive Languages with Thread Automata
+  title_html: Parsing Mildly Context-Sensitive Languages with Thread Automata
+  url: https://www.aclweb.org/anthology/C02-1028
+  year: '2002'
+C02-1029:
+  author:
+  - first: Helmut
+    full: Helmut Schmid
+    id: helmut-schmid
+    last: Schmid
+  author_string: Helmut Schmid
+  bibkey: schmid-2002-generative
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '29'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1029.jpg
+  title: A Generative Probability Model for Unification-Based Grammars
+  title_html: A Generative Probability Model for Unification-Based Grammars
+  url: https://www.aclweb.org/anthology/C02-1029
+  year: '2002'
+C02-1030:
+  author:
+  - first: Petr
+    full: Petr Sgall
+    id: petr-sgall
+    last: Sgall
+  - first: Alena
+    full: "Alena B\u014Fhmov\xE1"
+    id: alena-bohmova
+    last: "B\u014Fhmov\xE1"
+  author_string: "Petr Sgall, Alena B\u014Fhmov\xE1"
+  bibkey: sgall-bohmova-2002-simple
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '30'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1030.jpg
+  title: The Simple Core and the Complex Periphery of Natural Language - a Formal
+    and a Computational View
+  title_html: The Simple Core and the Complex Periphery of Natural Language - a Formal
+    and a Computational View
+  url: https://www.aclweb.org/anthology/C02-1030
+  year: '2002'
+C02-1031:
+  author:
+  - first: Guowen
+    full: Guowen Yang
+    id: guowen-yang
+    last: Yang
+  - first: John A.
+    full: John A. Bateman
+    id: john-bateman
+    last: Bateman
+  author_string: Guowen Yang, John A. Bateman
+  bibkey: yang-bateman-2002-chinese
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '31'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1031.jpg
+  title: The Chinese Aspect System and its Semantic Interpretation
+  title_html: The <span class="acl-fixed-case">C</span>hinese Aspect System and its
+    Semantic Interpretation
+  url: https://www.aclweb.org/anthology/C02-1031
+  year: '2002'
+C02-1032:
+  author:
+  - first: "Ismael Garc\xEDa"
+    full: "Ismael Garc\xEDa Varea"
+    id: ismael-garcia-varea
+    last: Varea
+  - first: Franz J.
+    full: Franz J. Och
+    id: franz-josef-och
+    last: Och
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  - first: Francisco
+    full: Francisco Casacuberta
+    id: francisco-casacuberta
+    last: Casacuberta
+  author_string: "Ismael Garc\xEDa Varea, Franz J. Och, Hermann Ney, Francisco Casacuberta"
+  bibkey: varea-etal-2002-improving
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '32'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1032.jpg
+  title: Improving Alignment Quality in Statistical Machine Translation Using Context-dependent
+    Maximum Entropy Models
+  title_html: Improving Alignment Quality in Statistical Machine Translation Using
+    Context-dependent Maximum Entropy Models
+  url: https://www.aclweb.org/anthology/C02-1032
+  year: '2002'
+C02-1033:
+  author:
+  - first: Olivier
+    full: Olivier Ferret
+    id: olivier-ferret
+    last: Ferret
+  author_string: Olivier Ferret
+  bibkey: ferret-2002-using
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '33'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1033.jpg
+  title: Using Collocations for Topic Segmentation and Link Detection
+  title_html: Using Collocations for Topic Segmentation and Link Detection
+  url: https://www.aclweb.org/anthology/C02-1033
+  year: '2002'
+C02-1034:
+  author:
+  - first: Karin
+    full: Karin Harbusch
+    id: karin-harbusch
+    last: Harbusch
+  - first: Gerard
+    full: Gerard Kempen
+    id: gerard-kempen
+    last: Kempen
+  author_string: Karin Harbusch, Gerard Kempen
+  bibkey: harbusch-kempen-2002-quantitative
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '34'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1034.jpg
+  title: A Quantitative Model of Word Order and Movement in English, Dutch and German
+    Complement Constructions
+  title_html: A Quantitative Model of Word Order and Movement in <span class="acl-fixed-case">E</span>nglish,
+    <span class="acl-fixed-case">D</span>utch and <span class="acl-fixed-case">G</span>erman
+    Complement Constructions
+  url: https://www.aclweb.org/anthology/C02-1034
+  year: '2002'
+C02-1035:
+  author:
+  - first: Joyce
+    full: Joyce Chai
+    id: joyce-chai
+    last: Chai
+  author_string: Joyce Chai
+  bibkey: chai-2002-semantics
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '35'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1035.jpg
+  title: Semantics-based Representation for Multimodal Interpretation in Conversational
+    Systems
+  title_html: Semantics-based Representation for Multimodal Interpretation in Conversational
+    Systems
+  url: https://www.aclweb.org/anthology/C02-1035
+  year: '2002'
+C02-1036:
+  author:
+  - first: Michael
+    full: Michael Gamon
+    id: michael-gamon
+    last: Gamon
+  - first: Eric
+    full: Eric Ringger
+    id: eric-ringger
+    last: Ringger
+  - first: Zhu
+    full: Zhu Zhang
+    id: zhu-zhang
+    last: Zhang
+  - first: Robert
+    full: Robert Moore
+    id: robert-c-moore
+    last: Moore
+  - first: Simon
+    full: Simon Corston-Oliver
+    id: simon-corston-oliver
+    last: Corston-Oliver
+  author_string: Michael Gamon, Eric Ringger, Zhu Zhang, Robert Moore, Simon Corston-Oliver
+  bibkey: gamon-etal-2002-extraposition
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '36'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1036.jpg
+  title: 'Extraposition: A Case Study in German Sentence Realization'
+  title_html: '<span class="acl-fixed-case">E</span>xtraposition: A Case Study in
+    <span class="acl-fixed-case">G</span>erman Sentence Realization'
+  url: https://www.aclweb.org/anthology/C02-1036
+  year: '2002'
+C02-1037:
+  author:
+  - first: Ibrahim A. Al
+    full: Ibrahim A. Al Kharashi
+    id: ibrahim-a-al-kharashi
+    last: Kharashi
+  - first: Imad A. Al
+    full: Imad A. Al Sughaiyer
+    id: imad-a-al-sughaiyer
+    last: Sughaiyer
+  author_string: Ibrahim A. Al Kharashi, Imad A. Al Sughaiyer
+  bibkey: kharashi-sughaiyer-2002-rule
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '37'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1037.jpg
+  title: Rule Merging in a Rule-Based Arabic Stemmer
+  title_html: Rule Merging in a Rule-Based <span class="acl-fixed-case">A</span>rabic
+    Stemmer
+  url: https://www.aclweb.org/anthology/C02-1037
+  year: '2002'
+C02-1038:
+  author:
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  author_string: Mark Stevenson
+  bibkey: stevenson-2002-augmenting
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '38'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1038.jpg
+  title: Augmenting Noun Taxonomies by Combining Lexical Similarity Metrics
+  title_html: Augmenting Noun Taxonomies by Combining Lexical Similarity Metrics
+  url: https://www.aclweb.org/anthology/C02-1038
+  year: '2002'
+C02-1039:
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Rada Mihalcea
+  bibkey: mihalcea-2002-instance
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '39'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1039.jpg
+  title: Instance Based Learning with Automatic Feature Selection Applied to Word
+    Sense Disambiguation
+  title_html: Instance Based Learning with Automatic Feature Selection Applied to
+    Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/C02-1039
+  year: '2002'
+C02-1040:
+  author:
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  - first: Woottiporn
+    full: Woottiporn Tripasai
+    id: woottiporn-tripasai
+    last: Tripasai
+  author_string: Anoop Sarkar, Woottiporn Tripasai
+  bibkey: sarkar-tripasai-2002-learning
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '40'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1040.jpg
+  title: Learning Verb Argument Structure from Minimally Annotated Corpora
+  title_html: Learning Verb Argument Structure from Minimally Annotated Corpora
+  url: https://www.aclweb.org/anthology/C02-1040
+  year: '2002'
+C02-1041:
+  author:
+  - first: Hassan
+    full: Hassan Alam
+    id: hassan-alam
+    last: Alam
+  - first: Hua
+    full: Hua Cheng
+    id: hua-cheng
+    last: Cheng
+  - first: Rachmat
+    full: Rachmat Hartono
+    id: rachmat-hartono
+    last: Hartono
+  - first: Aman
+    full: Aman Kumar
+    id: aman-kumar
+    last: Kumar
+  - first: Paul
+    full: Paul Llido
+    id: paul-llido
+    last: Llido
+  - first: Crystal
+    full: Crystal Nakatsu
+    id: crystal-nakatsu
+    last: Nakatsu
+  - first: Huy
+    full: Huy Nguyen
+    id: huy-nguyen
+    last: Nguyen
+  - first: Fuad
+    full: Fuad Rahman
+    id: fuad-rahman
+    last: Rahman
+  - first: Yuliya
+    full: Yuliya Tarnikova
+    id: yuliya-tarnikova
+    last: Tarnikova
+  - first: Timotius
+    full: Timotius Tjahjadi
+    id: timotius-tjahjadi
+    last: Tjahjadi
+  - first: Che
+    full: Che Wilcox
+    id: che-wilcox
+    last: Wilcox
+  author_string: Hassan Alam, Hua Cheng, Rachmat Hartono, Aman Kumar, Paul Llido,
+    Crystal Nakatsu, Huy Nguyen, Fuad Rahman, Yuliya Tarnikova, Timotius Tjahjadi,
+    Che Wilcox
+  bibkey: alam-etal-2002-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '41'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1041.jpg
+  title: Automatic Semantic Grouping in a Spoken Language User Interface Toolkit
+  title_html: Automatic Semantic Grouping in a Spoken Language User Interface Toolkit
+  url: https://www.aclweb.org/anthology/C02-1041
+  year: '2002'
+C02-1042:
+  author:
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  - first: Ulf
+    full: Ulf Hermjakob
+    id: ulf-hermjakob
+    last: Hermjakob
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Deepak
+    full: Deepak Ravichandran
+    id: deepak-ravichandran
+    last: Ravichandran
+  author_string: Eduard Hovy, Ulf Hermjakob, Chin-Yew Lin, Deepak Ravichandran
+  bibkey: hovy-etal-2002-using
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '42'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1042.jpg
+  title: Using Knowledge to Facilitate Factoid Answer Pinpointing
+  title_html: Using Knowledge to Facilitate Factoid Answer Pinpointing
+  url: https://www.aclweb.org/anthology/C02-1042
+  year: '2002'
+C02-1043:
+  author:
+  - first: Richard
+    full: Richard Campbell
+    id: richard-campbell
+    last: Campbell
+  author_string: Richard Campbell
+  bibkey: campbell-2002-computation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '43'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1043.jpg
+  title: Computation of Modifier Scope in NP by a Language-neutral Method
+  title_html: Computation of Modifier Scope in <span class="acl-fixed-case">NP</span>
+    by a Language-neutral Method
+  url: https://www.aclweb.org/anthology/C02-1043
+  year: '2002'
+C02-1044:
+  author:
+  - first: Changhua
+    full: Changhua Yang
+    id: changhua-yang
+    last: Yang
+  - first: Sue J.
+    full: Sue J. Ker
+    id: sue-j-ker
+    last: Ker
+  author_string: Changhua Yang, Sue J. Ker
+  bibkey: yang-ker-2002-considerations
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '44'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1044.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1044.jpg
+  title: Considerations of Linking WordNet with MRD
+  title_html: Considerations of Linking <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et with <span class="acl-fixed-case">MRD</span>
+  url: https://www.aclweb.org/anthology/C02-1044
+  year: '2002'
+C02-1045:
+  author:
+  - first: Akiko
+    full: Akiko Aizawa
+    id: akiko-aizawa
+    last: Aizawa
+  author_string: Akiko Aizawa
+  bibkey: aizawa-2002-method
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '45'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1045.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1045.jpg
+  title: A Method of Cluster-Based Indexing of Textual Data
+  title_html: A Method of Cluster-Based Indexing of Textual Data
+  url: https://www.aclweb.org/anthology/C02-1045
+  year: '2002'
+C02-1046:
+  author:
+  - first: Hyun Ah
+    full: Hyun Ah Lee
+    id: hyun-ah-lee
+    last: Lee
+  - first: Gil Chang
+    full: Gil Chang Kim
+    id: gil-chang-kim
+    last: Kim
+  author_string: Hyun Ah Lee, Gil Chang Kim
+  bibkey: lee-kim-2002-translation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '46'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1046.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1046.jpg
+  title: Translation Selection through Source Word Sense Disambiguation and Target
+    Word Selection
+  title_html: Translation Selection through Source Word Sense Disambiguation and Target
+    Word Selection
+  url: https://www.aclweb.org/anthology/C02-1046
+  year: '2002'
+C02-1047:
+  author:
+  - first: Ingrid
+    full: Ingrid Zukerman
+    id: ingrid-zukerman
+    last: Zukerman
+  - first: Sarah
+    full: Sarah George
+    id: sarah-george
+    last: George
+  author_string: Ingrid Zukerman, Sarah George
+  bibkey: zukerman-george-2002-towards
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '47'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1047.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1047.jpg
+  title: Towards a Noise-Tolerant, Representation-Independent Mechanism for Argument
+    Interpretation
+  title_html: Towards a Noise-Tolerant, Representation-Independent Mechanism for Argument
+    Interpretation
+  url: https://www.aclweb.org/anthology/C02-1047
+  year: '2002'
+C02-1048:
+  author:
+  - first: Tsuneaki
+    full: Tsuneaki Kato
+    id: tsuneaki-kato
+    last: Kato
+  - first: Mitsunori
+    full: Mitsunori Matsushita
+    id: mitsunori-matsushita
+    last: Matsushita
+  - first: Eisaku
+    full: Eisaku Maeda
+    id: eisaku-maeda
+    last: Maeda
+  author_string: Tsuneaki Kato, Mitsunori Matsushita, Eisaku Maeda
+  bibkey: kato-etal-2002-answering
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '48'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1048.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1048.jpg
+  title: 'Answering it with Charts: Dialogue in Natural Language and Charts'
+  title_html: 'Answering it with Charts: Dialogue in Natural Language and Charts'
+  url: https://www.aclweb.org/anthology/C02-1048
+  year: '2002'
+C02-1049:
+  author:
+  - first: Keh-Jiann
+    full: Keh-Jiann Chen
+    id: keh-jiann-chen
+    last: Chen
+  - first: Wei-Yun
+    full: Wei-Yun Ma
+    id: wei-yun-ma
+    last: Ma
+  author_string: Keh-Jiann Chen, Wei-Yun Ma
+  bibkey: chen-ma-2002-unknown
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '49'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1049.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1049.jpg
+  title: Unknown Word Extraction for Chinese Documents
+  title_html: Unknown Word Extraction for <span class="acl-fixed-case">C</span>hinese
+    Documents
+  url: https://www.aclweb.org/anthology/C02-1049
+  year: '2002'
+C02-1050:
+  author:
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Taro Watanabe, Eiichiro Sumita
+  bibkey: watanabe-sumita-2002-bidirectional
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '50'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1050.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1050.jpg
+  title: Bidirectional Decoding for Statistical Machine Translation
+  title_html: Bidirectional Decoding for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/C02-1050
+  year: '2002'
+C02-1051:
+  author:
+  - first: Mitsuko
+    full: Mitsuko Yamura-Takei
+    id: mitsuko-yamura-takei
+    last: Yamura-Takei
+  - first: Miho
+    full: Miho Fujiwara
+    id: miho-fujiwara
+    last: Fujiwara
+  - first: Makoto
+    full: Makoto Yoshie
+    id: makoto-yoshie
+    last: Yoshie
+  - first: Teruaki
+    full: Teruaki Aizawa
+    id: teruaki-aizawa
+    last: Aizawa
+  author_string: Mitsuko Yamura-Takei, Miho Fujiwara, Makoto Yoshie, Teruaki Aizawa
+  bibkey: yamura-takei-etal-2002-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '51'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1051.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1051.jpg
+  title: 'Automatic Linguistic Analysis for Language Teachers: The Case of Zeros'
+  title_html: 'Automatic Linguistic Analysis for Language Teachers: The Case of Zeros'
+  url: https://www.aclweb.org/anthology/C02-1051
+  year: '2002'
+C02-1052:
+  author:
+  - first: Francis
+    full: Francis Bond
+    id: francis-bond
+    last: Bond
+  - first: Caitlin
+    full: Caitlin Vatikiotis-Bateson
+    id: caitlin-vatikiotis-bateson
+    last: Vatikiotis-Bateson
+  author_string: Francis Bond, Caitlin Vatikiotis-Bateson
+  bibkey: bond-vatikiotis-bateson-2002-using
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '52'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1052.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1052.jpg
+  title: Using an Ontology to Determine English Countability
+  title_html: Using an Ontology to Determine <span class="acl-fixed-case">E</span>nglish
+    Countability
+  url: https://www.aclweb.org/anthology/C02-1052
+  year: '2002'
+C02-1053:
+  author:
+  - first: Tsutomu
+    full: Tsutomu Hirao
+    id: tsutomu-hirao
+    last: Hirao
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  - first: Eisaku
+    full: Eisaku Maeda
+    id: eisaku-maeda
+    last: Maeda
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Tsutomu Hirao, Hideki Isozaki, Eisaku Maeda, Yuji Matsumoto
+  bibkey: hirao-etal-2002-extracting
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '53'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1053.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1053.jpg
+  title: Extracting Important Sentences with Support Vector Machines
+  title_html: Extracting Important Sentences with Support Vector Machines
+  url: https://www.aclweb.org/anthology/C02-1053
+  year: '2002'
+C02-1054:
+  author:
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  - first: Hideto
+    full: Hideto Kazawa
+    id: hideto-kazawa
+    last: Kazawa
+  author_string: Hideki Isozaki, Hideto Kazawa
+  bibkey: isozaki-kazawa-2002-efficient
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '54'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1054.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1054.jpg
+  title: Efficient Support Vector Classifiers for Named Entity Recognition
+  title_html: Efficient Support Vector Classifiers for Named Entity Recognition
+  url: https://www.aclweb.org/anthology/C02-1054
+  year: '2002'
+C02-1055:
+  author:
+  - first: Xiao
+    full: Xiao Luo
+    id: xiao-luo
+    last: Luo
+  - first: Maosong
+    full: Maosong Sun
+    id: maosong-sun
+    last: Sun
+  - first: Benjamin K.
+    full: Benjamin K. Tsou
+    id: benjamin-k-tsou
+    last: Tsou
+  author_string: Xiao Luo, Maosong Sun, Benjamin K. Tsou
+  bibkey: luo-etal-2002-covering
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '55'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1055.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1055.jpg
+  title: Covering Ambiguity Resolution in Chinese Word Segmentation Based on Contextual
+    Information
+  title_html: Covering Ambiguity Resolution in <span class="acl-fixed-case">C</span>hinese
+    Word Segmentation Based on Contextual Information
+  url: https://www.aclweb.org/anthology/C02-1055
+  year: '2002'
+C02-1056:
+  author:
+  - first: Yujie
+    full: Yujie Zhang
+    id: yujie-zhang
+    last: Zhang
+  - first: Kazuhide
+    full: Kazuhide Yamamoto
+    id: kazuhide-yamamoto
+    last: Yamamoto
+  author_string: Yujie Zhang, Kazuhide Yamamoto
+  bibkey: zhang-yamamoto-2002-paraphrasing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '56'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1056.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1056.jpg
+  title: Paraphrasing of Chinese Utterances
+  title_html: Paraphrasing of <span class="acl-fixed-case">C</span>hinese Utterances
+  url: https://www.aclweb.org/anthology/C02-1056
+  year: '2002'
+C02-1057:
+  author:
+  - first: Jianmin
+    full: Jianmin Yao
+    id: jianmin-yao
+    last: Yao
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Tiejun
+    full: Tiejun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  - first: Hao
+    full: Hao Yu
+    id: hao-yu
+    last: Yu
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  author_string: Jianmin Yao, Ming Zhou, Tiejun Zhao, Hao Yu, Sheng Li
+  bibkey: yao-etal-2002-automatic-evaluation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '57'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1057.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1057.jpg
+  title: An Automatic Evaluation Method for Localization Oriented Lexicalised EBMT
+    System
+  title_html: An Automatic Evaluation Method for Localization Oriented Lexicalised
+    <span class="acl-fixed-case">EBMT</span> System
+  url: https://www.aclweb.org/anthology/C02-1057
+  year: '2002'
+C02-1058:
+  author:
+  - first: Hiroyuki
+    full: Hiroyuki Kaji
+    id: hiroyuki-kaji
+    last: Kaji
+  - first: Yasutsugu
+    full: Yasutsugu Morimoto
+    id: yasutsugu-morimoto
+    last: Morimoto
+  author_string: Hiroyuki Kaji, Yasutsugu Morimoto
+  bibkey: kaji-morimoto-2002-unsupervised
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '58'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1058.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1058.jpg
+  title: Unsupervised Word Sense Disambiguation Using Bilingual Comparable Corpora
+  title_html: Unsupervised Word Sense Disambiguation Using Bilingual Comparable Corpora
+  url: https://www.aclweb.org/anthology/C02-1058
+  year: '2002'
+C02-1059:
+  author:
+  - first: Kotaro
+    full: Kotaro Funakoshi
+    id: kotaro-funakoshi
+    last: Funakoshi
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  author_string: Kotaro Funakoshi, Takenobu Tokunaga, Hozumi Tanaka
+  bibkey: funakoshi-etal-2002-processing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '59'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1059.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1059.jpg
+  title: Processing Japanese Self-correction in Speech Dialog Systems
+  title_html: Processing <span class="acl-fixed-case">J</span>apanese Self-correction
+    in Speech Dialog Systems
+  url: https://www.aclweb.org/anthology/C02-1059
+  year: '2002'
+C02-1060:
+  author:
+  - first: Qing
+    full: Qing Ma
+    id: qing-ma
+    last: Ma
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Masaki
+    full: Masaki Murata
+    id: masaki-murata
+    last: Murata
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Qing Ma, Min Zhang, Masaki Murata, Ming Zhou, Hitoshi Isahara
+  bibkey: ma-etal-2002-self
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '60'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1060.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1060.jpg
+  title: Self-Organizing Chinese and Japanese Semantic Maps
+  title_html: Self-Organizing <span class="acl-fixed-case">C</span>hinese and <span
+    class="acl-fixed-case">J</span>apanese Semantic Maps
+  url: https://www.aclweb.org/anthology/C02-1060
+  year: '2002'
+C02-1061:
+  author:
+  - first: Didier
+    full: Didier Schwab
+    id: didier-schwab
+    last: Schwab
+  - first: Mathieu
+    full: Mathieu Lafourcade
+    id: mathieu-lafourcade
+    last: Lafourcade
+  - first: Violaine
+    full: Violaine Prince
+    id: violaine-prince
+    last: Prince
+  author_string: Didier Schwab, Mathieu Lafourcade, Violaine Prince
+  bibkey: schwab-etal-2002-antonymy
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '61'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1061.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1061.jpg
+  title: Antonymy and Conceptual Vectors
+  title_html: Antonymy and Conceptual Vectors
+  url: https://www.aclweb.org/anthology/C02-1061
+  year: '2002'
+C02-1062:
+  author:
+  - first: Dominique
+    full: Dominique Dutoit
+    id: dominique-dutoit
+    last: Dutoit
+  - first: Thierry
+    full: Thierry Poibeau
+    id: thierry-poibeau
+    last: Poibeau
+  author_string: Dominique Dutoit, Thierry Poibeau
+  bibkey: dutoit-poibeau-2002-inferring
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '62'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1062.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1062.jpg
+  title: Inferring Knowledge from a Large Semantic Network
+  title_html: Inferring Knowledge from a Large Semantic Network
+  url: https://www.aclweb.org/anthology/C02-1062
+  year: '2002'
+C02-1063:
+  author:
+  - first: Alexander
+    full: Alexander Mehler
+    id: alexander-mehler
+    last: Mehler
+  author_string: Alexander Mehler
+  bibkey: mehler-2002-hierarchical
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '63'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1063.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1063.jpg
+  title: Hierarchical Orderings of Textual Units
+  title_html: Hierarchical Orderings of Textual Units
+  url: https://www.aclweb.org/anthology/C02-1063
+  year: '2002'
+C02-1064:
+  author:
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Kiyotaka Uchimoto, Satoshi Sekine, Hitoshi Isahara
+  bibkey: uchimoto-etal-2002-text
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '64'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1064.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1064.jpg
+  title: Text Generation from Keywords
+  title_html: Text Generation from Keywords
+  url: https://www.aclweb.org/anthology/C02-1064
+  year: '2002'
+C02-1065:
+  author:
+  - first: Takaaki
+    full: Takaaki Tanaka
+    id: takaaki-tanaka
+    last: Tanaka
+  author_string: Takaaki Tanaka
+  bibkey: tanaka-2002-measuring
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '65'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1065.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1065.jpg
+  title: Measuring the Similarity between Compound Nouns in Different Languages Using
+    Non-Parallel Corpora
+  title_html: Measuring the Similarity between Compound Nouns in Different Languages
+    Using Non-Parallel Corpora
+  url: https://www.aclweb.org/anthology/C02-1065
+  year: '2002'
+C02-1066:
+  author:
+  - first: Efrat
+    full: Efrat Jaeger
+    id: efrat-jaeger
+    last: Jaeger
+  - first: Nissim
+    full: Nissim Francez
+    id: nissim-francez
+    last: Francez
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Efrat Jaeger, Nissim Francez, Shuly Wintner
+  bibkey: jaeger-etal-2002-guaranteeing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '66'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1066.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1066.jpg
+  title: Guaranteeing Parsing Termination of Unification Grammars
+  title_html: Guaranteeing Parsing Termination of Unification Grammars
+  url: https://www.aclweb.org/anthology/C02-1066
+  year: '2002'
+C02-1067:
+  author:
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  - first: Tetsushi
+    full: Tetsushi Oka
+    id: tetsushi-oka
+    last: Oka
+  author_string: Johan Bos, Tetsushi Oka
+  bibkey: bos-oka-2002-inference
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '67'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1067.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1067.jpg
+  title: An Inference-based Approach to Dialogue System Design
+  title_html: An Inference-based Approach to Dialogue System Design
+  url: https://www.aclweb.org/anthology/C02-1067
+  year: '2002'
+C02-1068:
+  author:
+  - first: Anja
+    full: Anja Belz
+    id: anja-belz
+    last: Belz
+  author_string: Anja Belz
+  bibkey: belz-2002-learning
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '68'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1068.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1068.jpg
+  title: Learning Grammars for Different Parsing Tasks by Partition Search
+  title_html: Learning Grammars for Different Parsing Tasks by Partition Search
+  url: https://www.aclweb.org/anthology/C02-1068
+  year: '2002'
+C02-1069:
+  author:
+  - first: Jason
+    full: Jason Sankey
+    id: jason-sankey
+    last: Sankey
+  - first: Raymond K.
+    full: Raymond K. Wong
+    id: raymond-wong
+    last: Wong
+  author_string: Jason Sankey, Raymond K. Wong
+  bibkey: sankey-wong-2002-effective
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '69'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1069.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1069.jpg
+  title: Effective Structural Inference for Large XML Documents
+  title_html: Effective Structural Inference for Large <span class="acl-fixed-case">XML</span>
+    Documents
+  url: https://www.aclweb.org/anthology/C02-1069
+  year: '2002'
+C02-1070:
+  author:
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  - first: Charles
+    full: Charles Schafer
+    id: charles-schafer
+    last: Schafer
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Ellen Riloff, Charles Schafer, David Yarowsky
+  bibkey: riloff-etal-2002-inducing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '70'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1070.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1070.jpg
+  title: Inducing Information Extraction Systems for New Languages via Cross-language
+    Projection
+  title_html: Inducing Information Extraction Systems for New Languages via Cross-language
+    Projection
+  url: https://www.aclweb.org/anthology/C02-1070
+  year: '2002'
+C02-1071:
+  author:
+  - first: Montserrat
+    full: Montserrat Marimon
+    id: montserrat-marimon
+    last: Marimon
+  author_string: Montserrat Marimon
+  bibkey: marimon-2002-integrating
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '71'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1071.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1071.jpg
+  title: Integrating Shallow Linguistic Processing into a Unification-based Spanish
+    Grammar
+  title_html: Integrating Shallow Linguistic Processing into a Unification-based <span
+    class="acl-fixed-case">S</span>panish Grammar
+  url: https://www.aclweb.org/anthology/C02-1071
+  year: '2002'
+C02-1072:
+  author:
+  - first: Yu-Seop
+    full: Yu-Seop Kim
+    id: yu-seop-kim
+    last: Kim
+  - first: Jeong-Ho
+    full: Jeong-Ho Chang
+    id: jeong-ho-chang
+    last: Chang
+  - first: Byoung-Tak
+    full: Byoung-Tak Zhang
+    id: byoung-tak-zhang
+    last: Zhang
+  author_string: Yu-Seop Kim, Jeong-Ho Chang, Byoung-Tak Zhang
+  bibkey: kim-etal-2002-comparative
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '72'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1072.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1072.jpg
+  title: A Comparative Evaluation of Data-driven Models in Translation Selection of
+    Machine Translation
+  title_html: A Comparative Evaluation of Data-driven Models in Translation Selection
+    of Machine Translation
+  url: https://www.aclweb.org/anthology/C02-1072
+  year: '2002'
+C02-1073:
+  author:
+  - first: Horacio
+    full: Horacio Saggion
+    id: horacio-saggion
+    last: Saggion
+  - first: Dragomir
+    full: Dragomir Radev
+    id: dragomir-radev
+    last: Radev
+  - first: Simone
+    full: Simone Teufel
+    id: simone-teufel
+    last: Teufel
+  - first: Wai
+    full: Wai Lam
+    id: wai-lam
+    last: Lam
+  author_string: Horacio Saggion, Dragomir Radev, Simone Teufel, Wai Lam
+  bibkey: saggion-etal-2002-meta
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '73'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1073.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1073.jpg
+  title: Meta-evaluation of Summaries in a Cross-lingual Environment using Content-based
+    Metrics
+  title_html: Meta-evaluation of Summaries in a Cross-lingual Environment using Content-based
+    Metrics
+  url: https://www.aclweb.org/anthology/C02-1073
+  year: '2002'
+C02-1074:
+  author:
+  - first: Youngjoong
+    full: Youngjoong Ko
+    id: youngjoong-ko
+    last: Ko
+  - first: Jungyun
+    full: Jungyun Seo
+    id: jungyun-seo
+    last: Seo
+  author_string: Youngjoong Ko, Jungyun Seo
+  bibkey: ko-seo-2002-text
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '74'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1074.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1074.jpg
+  title: Text Categorization using Feature Projections
+  title_html: Text Categorization using Feature Projections
+  url: https://www.aclweb.org/anthology/C02-1074
+  year: '2002'
+C02-1075:
+  author:
+  - first: Bernd
+    full: Bernd Kiefer
+    id: bernd-kiefer
+    last: Kiefer
+  - first: Hans-Ulrich
+    full: Hans-Ulrich Krieger
+    id: hans-ulrich-krieger
+    last: Krieger
+  - first: Detlef
+    full: Detlef Prescher
+    id: detlef-prescher
+    last: Prescher
+  author_string: Bernd Kiefer, Hans-Ulrich Krieger, Detlef Prescher
+  bibkey: kiefer-etal-2002-novel
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '75'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1075.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1075.jpg
+  title: A Novel Disambiguation Method for Unification-Based Grammars Using Probabilistic
+    Context-Free Approximations
+  title_html: A Novel Disambiguation Method for Unification-Based Grammars Using Probabilistic
+    Context-Free Approximations
+  url: https://www.aclweb.org/anthology/C02-1075
+  year: '2002'
+C02-1076:
+  author:
+  - first: Yasuhiro
+    full: Yasuhiro Akiba
+    id: yasuhiro-akiba
+    last: Akiba
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Yasuhiro Akiba, Taro Watanabe, Eiichiro Sumita
+  bibkey: akiba-etal-2002-using
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '76'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1076.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1076.jpg
+  title: Using Language and Translation Models to Select the Best among Outputs from
+    Multiple MT Systems
+  title_html: Using Language and Translation Models to Select the Best among Outputs
+    from Multiple <span class="acl-fixed-case">MT</span> Systems
+  url: https://www.aclweb.org/anthology/C02-1076
+  year: '2002'
+C02-1077:
+  author:
+  - first: Iain
+    full: Iain Bancarz
+    id: iain-bancarz
+    last: Bancarz
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: Iain Bancarz, Miles Osborne
+  bibkey: bancarz-osborne-2002-improved
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '77'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1077.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1077.jpg
+  title: Improved Iterative Scaling Can Yield Multiple Globally Optimal Models with
+    Radically Differing Performance Levels
+  title_html: Improved Iterative Scaling Can Yield Multiple Globally Optimal Models
+    with Radically Differing Performance Levels
+  url: https://www.aclweb.org/anthology/C02-1077
+  year: '2002'
+C02-1078:
+  author:
+  - first: Kazuhiro
+    full: Kazuhiro Seki
+    id: kazuhiro-seki
+    last: Seki
+  - first: Atsushi
+    full: Atsushi Fujii
+    id: atsushi-fujii
+    last: Fujii
+  - first: Tetsuya
+    full: Tetsuya Ishikawa
+    id: tetsuya-ishikawa
+    last: Ishikawa
+  author_string: Kazuhiro Seki, Atsushi Fujii, Tetsuya Ishikawa
+  bibkey: seki-etal-2002-probabilistic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '78'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1078.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1078.jpg
+  title: A Probabilistic Method for Analyzing Japanese Anaphora Integrating Zero Pronoun
+    Detection and Resolution
+  title_html: A Probabilistic Method for Analyzing <span class="acl-fixed-case">J</span>apanese
+    Anaphora Integrating Zero Pronoun Detection and Resolution
+  url: https://www.aclweb.org/anthology/C02-1078
+  year: '2002'
+C02-1079:
+  author:
+  - first: "Ale\u0161"
+    full: "Ale\u0161 Hor\xE1k"
+    id: ales-horak
+    last: "Hor\xE1k"
+  - first: Pavel
+    full: "Pavel Smr\u017E"
+    id: pavel-smrz
+    last: "Smr\u017E"
+  author_string: "Ale\u0161 Hor\xE1k, Pavel Smr\u017E"
+  bibkey: horak-smrz-2002-best
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '79'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1079.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1079.jpg
+  title: Best Analysis Selection in Inflectional Languages
+  title_html: Best Analysis Selection in Inflectional Languages
+  url: https://www.aclweb.org/anthology/C02-1079
+  year: '2002'
+C02-1080:
+  author:
+  - first: Shiren
+    full: Shiren Ye
+    id: shiren-ye
+    last: Ye
+  - first: Tat-Seng
+    full: Tat-Seng Chua
+    id: tat-seng-chua
+    last: Chua
+  - first: Jimin
+    full: Jimin Liu
+    id: jimin-liu
+    last: Liu
+  author_string: Shiren Ye, Tat-Seng Chua, Jimin Liu
+  bibkey: ye-etal-2002-agent
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '80'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1080.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1080.jpg
+  title: An Agent-based Approach to Chinese Named Entity Recognition
+  title_html: An Agent-based Approach to <span class="acl-fixed-case">C</span>hinese
+    Named Entity Recognition
+  url: https://www.aclweb.org/anthology/C02-1080
+  year: '2002'
+C02-1081:
+  author:
+  - first: Thomas
+    full: Thomas Portele
+    id: thomas-portele
+    last: Portele
+  author_string: Thomas Portele
+  bibkey: portele-2002-data
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '81'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1081.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1081.jpg
+  title: Data-driven Classification of Linguistic Styles in Spoken Dialogues
+  title_html: Data-driven Classification of Linguistic Styles in Spoken Dialogues
+  url: https://www.aclweb.org/anthology/C02-1081
+  year: '2002'
+C02-1082:
+  author:
+  - first: Takayuki
+    full: Takayuki Nakata
+    id: takayuki-nakata
+    last: Nakata
+  - first: Shinichi
+    full: Shinichi Ando
+    id: shinichi-ando
+    last: Ando
+  - first: Akitoshi
+    full: Akitoshi Okumura
+    id: akitoshi-okumura
+    last: Okumura
+  author_string: Takayuki Nakata, Shinichi Ando, Akitoshi Okumura
+  bibkey: nakata-etal-2002-topic-detection
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '82'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1082.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1082.jpg
+  title: Topic Detection Based on Dialogue History
+  title_html: Topic Detection Based on Dialogue History
+  url: https://www.aclweb.org/anthology/C02-1082
+  year: '2002'
+C02-1083:
+  author:
+  - first: Hideki
+    full: Hideki Mima
+    id: hideki-mima
+    last: Mima
+  - first: Sophia
+    full: Sophia Ananiadou
+    id: sophia-ananiadou
+    last: Ananiadou
+  - first: Goran
+    full: Goran Nenadic
+    id: goran-nenadic
+    last: Nenadic
+  - first: Jun-Ichi
+    full: Jun-Ichi Tsujii
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: Hideki Mima, Sophia Ananiadou, Goran Nenadic, Jun-Ichi Tsujii
+  bibkey: mima-etal-2002-methodology
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '83'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1083.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1083.jpg
+  title: A Methodology for Terminology-based Knowledge Acquisition and Integration
+  title_html: A Methodology for Terminology-based Knowledge Acquisition and Integration
+  url: https://www.aclweb.org/anthology/C02-1083
+  year: '2002'
+C02-1084:
+  author:
+  - first: Yoji
+    full: Yoji Kiyota
+    id: yoji-kiyota
+    last: Kiyota
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  - first: Fuyuko
+    full: Fuyuko Kido
+    id: fuyuko-kido
+    last: Kido
+  author_string: Yoji Kiyota, Sadao Kurohashi, Fuyuko Kido
+  bibkey: kiyota-etal-2002-dialog
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '84'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1084.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1084.jpg
+  title: "\u201CDialog Navigator\u201D: A Question Answering System Based on Large\
+    \ Text Knowledge Base"
+  title_html: "\u201CDialog Navigator\u201D: A Question Answering System Based on\
+    \ Large Text Knowledge Base"
+  url: https://www.aclweb.org/anthology/C02-1084
+  year: '2002'
+C02-1085:
+  author:
+  - first: Fumiyo
+    full: Fumiyo Fukumoto
+    id: fumiyo-fukumoto
+    last: Fukumoto
+  - first: Yoshimi
+    full: Yoshimi Suzuki
+    id: yoshimi-suzuki
+    last: Suzuki
+  author_string: Fumiyo Fukumoto, Yoshimi Suzuki
+  bibkey: fukumoto-suzuki-2002-detecting
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '85'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1085.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1085.jpg
+  title: Detecting Shifts in News Stories for Paragraph Extraction
+  title_html: Detecting Shifts in News Stories for Paragraph Extraction
+  url: https://www.aclweb.org/anthology/C02-1085
+  year: '2002'
+C02-1086:
+  author:
+  - first: Kyung-Soon
+    full: Kyung-Soon Lee
+    id: kyung-soon-lee
+    last: Lee
+  - first: Kyo
+    full: Kyo Kageura
+    id: kyo-kageura
+    last: Kageura
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  author_string: Kyung-Soon Lee, Kyo Kageura, Key-Sun Choi
+  bibkey: lee-etal-2002-implicit
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '86'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1086.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1086.jpg
+  title: Implicit Ambiguity Resolution Using Incremental Clustering in Korean-to-English
+    Cross-Language Information Retrieval
+  title_html: Implicit Ambiguity Resolution Using Incremental Clustering in <span
+    class="acl-fixed-case">K</span>orean-to-<span class="acl-fixed-case">E</span>nglish
+    Cross-Language Information Retrieval
+  url: https://www.aclweb.org/anthology/C02-1086
+  year: '2002'
+C02-1087:
+  author:
+  - first: Stefan
+    full: Stefan Wermter
+    id: stefan-wermter
+    last: Wermter
+  - first: Chihli
+    full: Chihli Hung
+    id: chihli-hung
+    last: Hung
+  author_string: Stefan Wermter, Chihli Hung
+  bibkey: wermter-hung-2002-selforganizing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '87'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1087.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1087.jpg
+  title: Selforganizing Classification on the Reuters News Corpus
+  title_html: Selforganizing Classification on the <span class="acl-fixed-case">R</span>euters
+    News Corpus
+  url: https://www.aclweb.org/anthology/C02-1087
+  year: '2002'
+C02-1088:
+  author:
+  - first: Jae-Ho
+    full: Jae-Ho Kim
+    id: jae-ho-kim
+    last: Kim
+  - first: In-Ho
+    full: In-Ho Kang
+    id: in-ho-kang
+    last: Kang
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  author_string: Jae-Ho Kim, In-Ho Kang, Key-Sun Choi
+  bibkey: kim-etal-2002-unsupervised
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '88'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1088.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1088.jpg
+  title: Unsupervised Named Entity Classification Models and their Ensembles
+  title_html: Unsupervised Named Entity Classification Models and their Ensembles
+  url: https://www.aclweb.org/anthology/C02-1088
+  year: '2002'
+C02-1089:
+  author:
+  - first: Jia-Lin
+    full: Jia-Lin Tsai
+    id: jia-lin-tsai
+    last: Tsai
+  - first: Wen-Lian
+    full: Wen-Lian Hsu
+    id: wen-lian-hsu
+    last: Hsu
+  author_string: Jia-Lin Tsai, Wen-Lian Hsu
+  bibkey: tsai-hsu-2002-applying
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '89'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1089.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1089.jpg
+  title: Applying an NVEF Word-Pair Identifier to the Chinese Syllable-to-Word Conversion
+    Problem
+  title_html: Applying an <span class="acl-fixed-case">NVEF</span> Word-Pair Identifier
+    to the <span class="acl-fixed-case">C</span>hinese Syllable-to-Word Conversion
+    Problem
+  url: https://www.aclweb.org/anthology/C02-1089
+  year: '2002'
+C02-1090:
+  author:
+  - first: Viktor
+    full: Viktor Pekar
+    id: viktor-pekar
+    last: Pekar
+  - first: Steffen
+    full: Steffen Staab
+    id: steffen-staab
+    last: Staab
+  author_string: Viktor Pekar, Steffen Staab
+  bibkey: pekar-staab-2002-taxonomy
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '90'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1090.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1090.jpg
+  title: Taxonomy Learning - Factoring the Structure of a Taxonomy into a Semantic
+    Classification Decision
+  title_html: Taxonomy Learning - Factoring the Structure of a Taxonomy into a Semantic
+    Classification Decision
+  url: https://www.aclweb.org/anthology/C02-1090
+  year: '2002'
+C02-1091:
+  author:
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  - first: Ivan
+    full: Ivan Petroff
+    id: ivan-petroff
+    last: Petroff
+  - first: Gerold
+    full: Gerold Schneider
+    id: gerold-schneider
+    last: Schneider
+  author_string: James Henderson, Paola Merlo, Ivan Petroff, Gerold Schneider
+  bibkey: henderson-etal-2002-using
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '91'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1091.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1091.jpg
+  title: Using Syntactic Analysis to Increase Efficiency in Visualizing Text Collections
+  title_html: Using Syntactic Analysis to Increase Efficiency in Visualizing Text
+    Collections
+  url: https://www.aclweb.org/anthology/C02-1091
+  year: '2002'
+C02-1092:
+  author:
+  - first: Kwangseob
+    full: Kwangseob Shim
+    id: kwangseob-shim
+    last: Shim
+  - first: Jaehyung
+    full: Jaehyung Yang
+    id: jaehyung-yang
+    last: Yang
+  author_string: Kwangseob Shim, Jaehyung Yang
+  bibkey: shim-yang-2002-mach
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '92'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1092.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1092.jpg
+  title: 'MACH : A Supersonic Korean Morphological Analyzer'
+  title_html: '<span class="acl-fixed-case">MACH</span> : A Supersonic <span class="acl-fixed-case">K</span>orean
+    Morphological Analyzer'
+  url: https://www.aclweb.org/anthology/C02-1092
+  year: '2002'
+C02-1093:
+  author:
+  - first: Markus
+    full: Markus Becker
+    id: markus-becker
+    last: Becker
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  author_string: Markus Becker, Anette Frank
+  bibkey: becker-frank-2002-stochastic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '93'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1093.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1093.jpg
+  title: A Stochastic Topological Parser for German
+  title_html: A Stochastic Topological Parser for <span class="acl-fixed-case">G</span>erman
+  url: https://www.aclweb.org/anthology/C02-1093
+  year: '2002'
+C02-1094:
+  author:
+  - first: Michaela
+    full: Michaela Atterer
+    id: michaela-atterer
+    last: Atterer
+  - first: Ewan
+    full: Ewan Klein
+    id: ewan-klein
+    last: Klein
+  author_string: Michaela Atterer, Ewan Klein
+  bibkey: atterer-klein-2002-integrating
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '94'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1094.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1094.jpg
+  title: Integrating Linguistic and Performance-Based Constraints for Assigning Phrase
+    Breaks
+  title_html: Integrating Linguistic and Performance-Based Constraints for Assigning
+    Phrase Breaks
+  url: https://www.aclweb.org/anthology/C02-1094
+  year: '2002'
+C02-1095:
+  author:
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  author_string: Johan Bos
+  bibkey: bos-2002-compilation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '95'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1095.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1095.jpg
+  title: Compilation of Unification Grammars with Compositional Semantics to Speech
+    Recognition Packages
+  title_html: Compilation of Unification Grammars with Compositional Semantics to
+    Speech Recognition Packages
+  url: https://www.aclweb.org/anthology/C02-1095
+  year: '2002'
+C02-1096:
+  author:
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  - first: Johannes
+    full: Johannes Matiasek
+    id: johannes-matiasek
+    last: Matiasek
+  - first: Harald
+    full: Harald Trost
+    id: harald-trost
+    last: Trost
+  author_string: Marco Baroni, Johannes Matiasek, Harald Trost
+  bibkey: baroni-etal-2002-wordform
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '96'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1096.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1096.jpg
+  title: Wordform- and Class-based Prediction of the Components of German Nominal
+    Compounds in an AAC System
+  title_html: Wordform- and Class-based Prediction of the Components of <span class="acl-fixed-case">G</span>erman
+    Nominal Compounds in an <span class="acl-fixed-case">AAC</span> System
+  url: https://www.aclweb.org/anthology/C02-1096
+  year: '2002'
+C02-1097:
+  author:
+  - first: Jong-Hoon
+    full: Jong-Hoon Oh
+    id: jong-hoon-oh
+    last: Oh
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  author_string: Jong-Hoon Oh, Key-Sun Choi
+  bibkey: oh-choi-2002-word
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '97'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1097.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1097.jpg
+  title: Word Sense Disambiguation using Static and Dynamic Sense Vectors
+  title_html: Word Sense Disambiguation using Static and Dynamic Sense Vectors
+  url: https://www.aclweb.org/anthology/C02-1097
+  year: '2002'
+C02-1098:
+  author:
+  - first: Katashi
+    full: Katashi Nagao
+    id: katashi-nagao
+    last: Nagao
+  - first: Shigeki
+    full: Shigeki Ohira
+    id: shigeki-ohira
+    last: Ohira
+  - first: Mitsuhiro
+    full: Mitsuhiro Yoneoka
+    id: mitsuhiro-yoneoka
+    last: Yoneoka
+  author_string: Katashi Nagao, Shigeki Ohira, Mitsuhiro Yoneoka
+  bibkey: nagao-etal-2002-annotation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '98'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1098.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1098.jpg
+  title: Annotation-Based Multimedia Summarization and Translation
+  title_html: Annotation-Based Multimedia Summarization and Translation
+  url: https://www.aclweb.org/anthology/C02-1098
+  year: '2002'
+C02-1099:
+  author:
+  - first: Jong-Hoon
+    full: Jong-Hoon Oh
+    id: jong-hoon-oh
+    last: Oh
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  author_string: Jong-Hoon Oh, Key-Sun Choi
+  bibkey: oh-choi-2002-english
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '99'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1099.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1099.jpg
+  title: An English-Korean Transliteration Model Using Pronunciation and Contextual
+    Rules
+  title_html: An <span class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">K</span>orean
+    Transliteration Model Using Pronunciation and Contextual Rules
+  url: https://www.aclweb.org/anthology/C02-1099
+  year: '2002'
+C02-1100:
+  author:
+  - first: Takashi
+    full: Takashi Ninomiya
+    id: takashi-ninomiya
+    last: Ninomiya
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: Jun-Ichi
+    full: Jun-Ichi Tsujii
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: Takashi Ninomiya, Yusuke Miyao, Jun-Ichi Tsujii
+  bibkey: ninomiya-etal-2002-lenient
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '100'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1100.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1100.jpg
+  title: Lenient Default Unification for Robust Processing within Unification Based
+    Grammar Formalisms
+  title_html: Lenient Default Unification for Robust Processing within Unification
+    Based Grammar Formalisms
+  url: https://www.aclweb.org/anthology/C02-1100
+  year: '2002'
+C02-1101:
+  author:
+  - first: Tetsuji
+    full: Tetsuji Nakagawa
+    id: tetsuji-nakagawa
+    last: Nakagawa
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Tetsuji Nakagawa, Yuji Matsumoto
+  bibkey: nakagawa-matsumoto-2002-detecting
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '101'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1101.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1101.jpg
+  title: Detecting Errors in Corpora Using Support Vector Machines
+  title_html: Detecting Errors in Corpora Using Support Vector Machines
+  url: https://www.aclweb.org/anthology/C02-1101
+  year: '2002'
+C02-1102:
+  author:
+  - first: Gideon S.
+    full: Gideon S. Mann
+    id: gideon-mann
+    last: Mann
+  author_string: Gideon S. Mann
+  bibkey: mann-2002-learning
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '102'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1102.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1102.jpg
+  title: Learning How to Answer Questions Using Trivia Games
+  title_html: Learning How to Answer Questions Using Trivia Games
+  url: https://www.aclweb.org/anthology/C02-1102
+  year: '2002'
+C02-1103:
+  author:
+  - first: Youngjoong
+    full: Youngjoong Ko
+    id: youngjoong-ko
+    last: Ko
+  - first: Jinwoo
+    full: Jinwoo Park
+    id: jinwoo-park
+    last: Park
+  - first: Jungyun
+    full: Jungyun Seo
+    id: jungyun-seo
+    last: Seo
+  author_string: Youngjoong Ko, Jinwoo Park, Jungyun Seo
+  bibkey: ko-etal-2002-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '103'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1103.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1103.jpg
+  title: Automatic Text Categorization using the Importance of Sentences
+  title_html: Automatic Text Categorization using the Importance of Sentences
+  url: https://www.aclweb.org/anthology/C02-1103
+  year: '2002'
+C02-1104:
+  author:
+  - first: Jean-Marie
+    full: Jean-Marie Balfourier
+    id: jean-marie-balfourier
+    last: Balfourier
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  - first: Tristan
+    full: Tristan van Rullen
+    id: tristan-vanrullen
+    last: van Rullen
+  author_string: Jean-Marie Balfourier, Philippe Blache, Tristan van Rullen
+  bibkey: balfourier-etal-2002-shallow
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '104'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1104.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1104.jpg
+  title: From Shallow to Deep Parsing Using Constraint Satisfaction
+  title_html: From Shallow to Deep Parsing Using Constraint Satisfaction
+  url: https://www.aclweb.org/anthology/C02-1104
+  year: '2002'
+C02-1105:
+  author:
+  - first: Maria
+    full: Maria Liakata
+    id: maria-liakata
+    last: Liakata
+  - first: Stephen
+    full: Stephen Pulman
+    id: stephen-pulman
+    last: Pulman
+  author_string: Maria Liakata, Stephen Pulman
+  bibkey: liakata-pulman-2002-trees
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '105'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1105.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1105.jpg
+  title: From Trees to Predicate-argument Structures
+  title_html: From Trees to Predicate-argument Structures
+  url: https://www.aclweb.org/anthology/C02-1105
+  year: '2002'
+C02-1106:
+  author:
+  - first: Piet
+    full: Piet Mertens
+    id: piet-mertens
+    last: Mertens
+  author_string: Piet Mertens
+  bibkey: mertens-2002-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '106'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1106.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1106.jpg
+  title: Parsing Dependency Grammar using ALE
+  title_html: Parsing Dependency Grammar using <span class="acl-fixed-case">ALE</span>
+  url: https://www.aclweb.org/anthology/C02-1106
+  year: '2002'
+C02-1107:
+  author:
+  - first: Shigeki
+    full: Shigeki Matsubara
+    id: shigeki-matsubara
+    last: Matsubara
+  - first: Shinichi
+    full: Shinichi Kimura
+    id: shinichi-kimura
+    last: Kimura
+  - first: Nobuo
+    full: Nobuo Kawaguchi
+    id: nobuo-kawaguchi
+    last: Kawaguchi
+  - first: Yukiko
+    full: Yukiko Yamaguchi
+    id: yukiko-yamaguchi
+    last: Yamaguchi
+  - first: Yasuyoshi
+    full: Yasuyoshi Inagaki
+    id: yasuyoshi-inagaki
+    last: Inagaki
+  author_string: Shigeki Matsubara, Shinichi Kimura, Nobuo Kawaguchi, Yukiko Yamaguchi,
+    Yasuyoshi Inagaki
+  bibkey: matsubara-etal-2002-example
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '107'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1107.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1107.jpg
+  title: Example-based Speech Intention Understanding and Its Application to In-Car
+    Spoken Dialogue System
+  title_html: Example-based Speech Intention Understanding and Its Application to
+    In-Car Spoken Dialogue System
+  url: https://www.aclweb.org/anthology/C02-1107
+  year: '2002'
+C02-1108:
+  author:
+  - first: Helmut
+    full: Helmut Schmid
+    id: helmut-schmid
+    last: Schmid
+  author_string: Helmut Schmid
+  bibkey: schmid-2002-lexicalization
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '108'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1108.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1108.jpg
+  title: Lexicalization of Probabilistic Grammars
+  title_html: Lexicalization of Probabilistic Grammars
+  url: https://www.aclweb.org/anthology/C02-1108
+  year: '2002'
+C02-1109:
+  author:
+  - first: Patrick
+    full: Patrick Ruch
+    id: patrick-ruch
+    last: Ruch
+  author_string: Patrick Ruch
+  bibkey: ruch-2002-using
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '109'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1109.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1109.jpg
+  title: Using Contextual Spelling Correction to Improve Retrieval Effectiveness in
+    Degraded Text Collections
+  title_html: Using Contextual Spelling Correction to Improve Retrieval Effectiveness
+    in Degraded Text Collections
+  url: https://www.aclweb.org/anthology/C02-1109
+  year: '2002'
+C02-1110:
+  author:
+  - first: Fredrik
+    full: Fredrik Olsson
+    id: fredrik-olsson
+    last: Olsson
+  - first: Gunnar
+    full: Gunnar Eriksson
+    id: gunnar-eriksson
+    last: Eriksson
+  - first: Kristofer
+    full: "Kristofer Franz\xE9n"
+    id: kristofer-franzen
+    last: "Franz\xE9n"
+  - first: Lars
+    full: Lars Asker
+    id: lars-asker
+    last: Asker
+  - first: Per
+    full: "Per Lid\xE9n"
+    id: per-liden
+    last: "Lid\xE9n"
+  author_string: "Fredrik Olsson, Gunnar Eriksson, Kristofer Franz\xE9n, Lars Asker,\
+    \ Per Lid\xE9n"
+  bibkey: olsson-etal-2002-notions
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '110'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1110.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1110.jpg
+  title: Notions of Correctness when Evaluating Protein Name Taggers
+  title_html: Notions of Correctness when Evaluating Protein Name Taggers
+  url: https://www.aclweb.org/anthology/C02-1110
+  year: '2002'
+C02-1111:
+  author:
+  - first: Annie
+    full: Annie Foret
+    id: annie-foret
+    last: Foret
+  - first: Yannick Le
+    full: Yannick Le Nir
+    id: yannick-le-nir
+    last: Nir
+  author_string: Annie Foret, Yannick Le Nir
+  bibkey: foret-nir-2002-rigid
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '111'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1111.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1111.jpg
+  title: Rigid Lambek Grammars Are Not Learnable from Strings
+  title_html: Rigid Lambek Grammars Are Not Learnable from Strings
+  url: https://www.aclweb.org/anthology/C02-1111
+  year: '2002'
+C02-1112:
+  author:
+  - first: David
+    full: "David Mart\xEDnez"
+    id: david-martinez
+    last: "Mart\xEDnez"
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  author_string: "David Mart\xEDnez, Eneko Agirre, Llu\xEDs M\xE0rquez"
+  bibkey: martinez-etal-2002-syntactic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '112'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1112.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1112.jpg
+  title: Syntactic Features for High Precision Word Sense Disambiguation
+  title_html: Syntactic Features for High Precision Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/C02-1112
+  year: '2002'
+C02-1113:
+  author:
+  - first: Malte
+    full: Malte Gabsdil
+    id: malte-gabsdil
+    last: Gabsdil
+  - first: Alexander
+    full: Alexander Koller
+    id: alexander-koller
+    last: Koller
+  - first: Kristina
+    full: Kristina Striegnitz
+    id: kristina-striegnitz
+    last: Striegnitz
+  author_string: Malte Gabsdil, Alexander Koller, Kristina Striegnitz
+  bibkey: gabsdil-etal-2002-natural
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '113'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1113.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1113.jpg
+  title: Natural Language and Inference in a Computer Game
+  title_html: Natural Language and Inference in a Computer Game
+  url: https://www.aclweb.org/anthology/C02-1113
+  year: '2002'
+C02-1114:
+  author:
+  - first: Dominic
+    full: Dominic Widdows
+    id: dominic-widdows
+    last: Widdows
+  - first: Beate
+    full: Beate Dorow
+    id: beate-dorow
+    last: Dorow
+  author_string: Dominic Widdows, Beate Dorow
+  bibkey: widdows-dorow-2002-graph
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '114'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1114.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1114.jpg
+  title: A Graph Model for Unsupervised Lexical Acquisition
+  title_html: A Graph Model for Unsupervised Lexical Acquisition
+  url: https://www.aclweb.org/anthology/C02-1114
+  year: '2002'
+C02-1115:
+  author:
+  - first: Armando
+    full: "Armando Su\xE1rez"
+    id: armando-suarez
+    last: "Su\xE1rez"
+  - first: Manuel
+    full: Manuel Palomar
+    id: manuel-palomar
+    last: Palomar
+  author_string: "Armando Su\xE1rez, Manuel Palomar"
+  bibkey: suarez-palomar-2002-maximum
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '115'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1115.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1115.jpg
+  title: A Maximum Entropy-based Word Sense Disambiguation System
+  title_html: A Maximum Entropy-based Word Sense Disambiguation System
+  url: https://www.aclweb.org/anthology/C02-1115
+  year: '2002'
+C02-1116:
+  author:
+  - first: Christian
+    full: Christian Korthals
+    id: christian-korthals
+    last: Korthals
+  - first: Ralph
+    full: Ralph Debusmann
+    id: ralph-debusmann
+    last: Debusmann
+  author_string: Christian Korthals, Ralph Debusmann
+  bibkey: korthals-debusmann-2002-linking
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '116'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1116.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1116.jpg
+  title: Linking Syntactic and Semantic Arguments in a Dependency-based Formalism
+  title_html: Linking Syntactic and Semantic Arguments in a Dependency-based Formalism
+  url: https://www.aclweb.org/anthology/C02-1116
+  year: '2002'
+C02-1117:
+  author:
+  - first: Le Quan
+    full: Le Quan Ha
+    id: le-quan-ha
+    last: Ha
+  - first: E. I.
+    full: E. I. Sicilia-Garcia
+    id: elvira-i-sicilia-garcia
+    last: Sicilia-Garcia
+  - first: Ji
+    full: Ji Ming
+    id: ji-ming
+    last: Ming
+  - first: F. J.
+    full: F. J. Smith
+    id: francis-j-smith
+    last: Smith
+  author_string: Le Quan Ha, E. I. Sicilia-Garcia, Ji Ming, F. J. Smith
+  bibkey: ha-etal-2002-extension
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '117'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1117.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1117.jpg
+  title: "Extension of Zipf\u2019s Law to Words and Phrases"
+  title_html: "Extension of <span class=\"acl-fixed-case\">Z</span>ipf\u2019s Law\
+    \ to Words and Phrases"
+  url: https://www.aclweb.org/anthology/C02-1117
+  year: '2002'
+C02-1118:
+  author:
+  - first: Daniel
+    full: Daniel Zeman
+    id: daniel-zeman
+    last: Zeman
+  author_string: Daniel Zeman
+  bibkey: zeman-2002-subcategorization
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '118'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1118.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1118.jpg
+  title: Can Subcategorization Help a Statistical Dependency Parser?
+  title_html: Can Subcategorization Help a Statistical Dependency Parser?
+  url: https://www.aclweb.org/anthology/C02-1118
+  year: '2002'
+C02-1119:
+  author:
+  - first: Jun
+    full: Jun Suzuki
+    id: jun-suzuki
+    last: Suzuki
+  - first: Yutaka
+    full: Yutaka Sasaki
+    id: yutaka-sasaki
+    last: Sasaki
+  - first: Eisaku
+    full: Eisaku Maeda
+    id: eisaku-maeda
+    last: Maeda
+  author_string: Jun Suzuki, Yutaka Sasaki, Eisaku Maeda
+  bibkey: suzuki-etal-2002-svm
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '119'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1119.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1119.jpg
+  title: SVM Answer Selection for Open-Domain Question Answering
+  title_html: <span class="acl-fixed-case">SVM</span> Answer Selection for Open-Domain
+    Question Answering
+  url: https://www.aclweb.org/anthology/C02-1119
+  year: '2002'
+C02-1120:
+  author:
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: Kentaro Torisawa
+  bibkey: torisawa-2002-unsupervised
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '120'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1120.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1120.jpg
+  title: An Unsupervised Learning Method for Associative Relationships between Verb
+    Phrases
+  title_html: An Unsupervised Learning Method for Associative Relationships between
+    Verb Phrases
+  url: https://www.aclweb.org/anthology/C02-1120
+  year: '2002'
+C02-1121:
+  author:
+  - first: Michael
+    full: Michael Schiehlen
+    id: michael-schiehlen
+    last: Schiehlen
+  author_string: Michael Schiehlen
+  bibkey: schiehlen-2002-experiments
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '121'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1121.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1121.jpg
+  title: Experiments in German Noun Chunking
+  title_html: Experiments in <span class="acl-fixed-case">G</span>erman Noun Chunking
+  url: https://www.aclweb.org/anthology/C02-1121
+  year: '2002'
+C02-1122:
+  author:
+  - first: Daisuke
+    full: Daisuke Kawahara
+    id: daisuke-kawahara
+    last: Kawahara
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Daisuke Kawahara, Sadao Kurohashi
+  bibkey: kawahara-kurohashi-2002-fertilization
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '122'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1122.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1122.jpg
+  title: Fertilization of Case Frame Dictionary for Robust Japanese Case Analysis
+  title_html: Fertilization of Case Frame Dictionary for Robust <span class="acl-fixed-case">J</span>apanese
+    Case Analysis
+  url: https://www.aclweb.org/anthology/C02-1122
+  year: '2002'
+C02-1123:
+  author:
+  - first: Hodong
+    full: Hodong Lee
+    id: hodong-lee
+    last: Lee
+  - first: Jong C.
+    full: Jong C. Park
+    id: jong-c-park
+    last: Park
+  author_string: Hodong Lee, Jong C. Park
+  bibkey: lee-park-2002-natural
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '123'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1123.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1123.jpg
+  title: Natural Language Interpretations for Heterogeneous Database Access
+  title_html: Natural Language Interpretations for Heterogeneous Database Access
+  url: https://www.aclweb.org/anthology/C02-1123
+  year: '2002'
+C02-1124:
+  author:
+  - first: Beum-Seuk
+    full: Beum-Seuk Lee
+    id: beum-seuk-lee
+    last: Lee
+  - first: Barrett R.
+    full: Barrett R. Bryant
+    id: barrett-r-bryant
+    last: Bryant
+  author_string: Beum-Seuk Lee, Barrett R. Bryant
+  bibkey: lee-bryant-2002-contextual
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '124'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1124.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1124.jpg
+  title: Contextual Natural Language Processing and DAML for Understanding Software
+    Requirements Specifications
+  title_html: Contextual Natural Language Processing and <span class="acl-fixed-case">DAML</span>
+    for Understanding Software Requirements Specifications
+  url: https://www.aclweb.org/anthology/C02-1124
+  year: '2002'
+C02-1125:
+  author:
+  - first: Toru
+    full: Toru Hisamitsu
+    id: toru-hisamitsu
+    last: Hisamitsu
+  - first: Yoshiki
+    full: Yoshiki Niwa
+    id: yoshiki-niwa
+    last: Niwa
+  author_string: Toru Hisamitsu, Yoshiki Niwa
+  bibkey: hisamitsu-niwa-2002-measure
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '125'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1125.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1125.jpg
+  title: A Measure of Term Representativeness Based on the Number of Co-occurring
+    Salient Words
+  title_html: A Measure of Term Representativeness Based on the Number of Co-occurring
+    Salient Words
+  url: https://www.aclweb.org/anthology/C02-1125
+  year: '2002'
+C02-1126:
+  author:
+  - first: David
+    full: David Chiang
+    id: david-chiang
+    last: Chiang
+  - first: Daniel M.
+    full: Daniel M. Bikel
+    id: daniel-m-bikel
+    last: Bikel
+  author_string: David Chiang, Daniel M. Bikel
+  bibkey: chiang-bikel-2002-recovering
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '126'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1126.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1126.jpg
+  title: Recovering Latent Information in Treebanks
+  title_html: Recovering Latent Information in Treebanks
+  url: https://www.aclweb.org/anthology/C02-1126
+  year: '2002'
+C02-1127:
+  author:
+  - first: Huifeng
+    full: Huifeng Li
+    id: huifeng-li
+    last: Li
+  - first: Rohini K.
+    full: Rohini K. Srihari
+    id: rohini-k-srihari
+    last: Srihari
+  - first: Cheng
+    full: Cheng Niu
+    id: cheng-niu
+    last: Niu
+  - first: Wei
+    full: Wei Li
+    id: wei-li
+    last: Li
+  author_string: Huifeng Li, Rohini K. Srihari, Cheng Niu, Wei Li
+  bibkey: li-etal-2002-location
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '127'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1127.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1127.jpg
+  title: Location Normalization for Information Extraction
+  title_html: Location Normalization for Information Extraction
+  url: https://www.aclweb.org/anthology/C02-1127
+  year: '2002'
+C02-1128:
+  author:
+  - first: Marc
+    full: Marc Dymetman
+    id: marc-dymetman
+    last: Dymetman
+  author_string: Marc Dymetman
+  bibkey: dymetman-2002-text
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '128'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1128.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1128.jpg
+  title: Text Authoring, Knowledge Acquisition and Description Logics
+  title_html: Text Authoring, Knowledge Acquisition and Description Logics
+  url: https://www.aclweb.org/anthology/C02-1128
+  year: '2002'
+C02-1129:
+  author:
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  - first: Maria Teresa
+    full: Maria Teresa Pazienza
+    id: maria-teresa-pazienza
+    last: Pazienza
+  - first: Fabio Massimo
+    full: Fabio Massimo Zanzotto
+    id: fabio-massimo-zanzotto
+    last: Zanzotto
+  author_string: Roberto Basili, Maria Teresa Pazienza, Fabio Massimo Zanzotto
+  bibkey: basili-etal-2002-decision
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '129'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1129.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1129.jpg
+  title: Decision Trees as Explicit Domain Term Definitions
+  title_html: Decision Trees as Explicit Domain Term Definitions
+  url: https://www.aclweb.org/anthology/C02-1129
+  year: '2002'
+C02-1130:
+  author:
+  - first: Michael
+    full: Michael Fleischman
+    id: michael-fleischman
+    last: Fleischman
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Michael Fleischman, Eduard Hovy
+  bibkey: fleischman-hovy-2002-fine
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '130'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1130.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1130.jpg
+  title: Fine Grained Classification of Named Entities
+  title_html: Fine Grained Classification of Named Entities
+  url: https://www.aclweb.org/anthology/C02-1130
+  year: '2002'
+C02-1131:
+  author:
+  - first: Frank Henrik
+    full: "Frank Henrik M\xFCller"
+    id: frank-henrik-muller
+    last: "M\xFCller"
+  - first: Tylman
+    full: Tylman Ule
+    id: tylman-ule
+    last: Ule
+  author_string: "Frank Henrik M\xFCller, Tylman Ule"
+  bibkey: muller-ule-2002-annotating
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '131'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1131.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1131.jpg
+  title: Annotating Topological Fields and Chunks - and Revising POS Tags at the Same
+    Time
+  title_html: Annotating Topological Fields and Chunks - and Revising <span class="acl-fixed-case">POS</span>
+    Tags at the Same Time
+  url: https://www.aclweb.org/anthology/C02-1131
+  year: '2002'
+C02-1132:
+  author:
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  author_string: Daniel Gildea
+  bibkey: gildea-2002-probabilistic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '132'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1132.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1132.jpg
+  title: Probabilistic Models of Verb-Argument Structure
+  title_html: Probabilistic Models of Verb-Argument Structure
+  url: https://www.aclweb.org/anthology/C02-1132
+  year: '2002'
+C02-1133:
+  author:
+  - first: Yasuko
+    full: Yasuko Senda
+    id: yasuko-senda
+    last: Senda
+  - first: Yaushi
+    full: Yaushi Shinohara
+    id: yaushi-shinohara
+    last: Shinohara
+  author_string: Yasuko Senda, Yaushi Shinohara
+  bibkey: senda-shinohara-2002-analysis
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '133'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1133.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1133.jpg
+  title: Analysis of Titles and Readers for Title Generation Centered on the Readers
+  title_html: Analysis of Titles and Readers for Title Generation Centered on the
+    Readers
+  url: https://www.aclweb.org/anthology/C02-1133
+  year: '2002'
+C02-1134:
+  author:
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: Vanessa
+    full: Vanessa Murdock
+    id: vanessa-murdock
+    last: Murdock
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  author_string: Srinivas Bangalore, Vanessa Murdock, Giuseppe Riccardi
+  bibkey: bangalore-etal-2002-bootstrapping
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '134'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1134.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1134.jpg
+  title: Bootstrapping Bilingual Data using Consensus Translation for a Multilingual
+    Instant Messaging System
+  title_html: Bootstrapping Bilingual Data using Consensus Translation for a Multilingual
+    Instant Messaging System
+  url: https://www.aclweb.org/anthology/C02-1134
+  year: '2002'
+C02-1135:
+  author:
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  author_string: "Raquel Fern\xE1ndez, Jonathan Ginzburg"
+  bibkey: fernandez-ginzburg-2002-non-sentential
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '135'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1135.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1135.jpg
+  title: 'Non-Sentential Utterances: Grammar and Dialogue Dynamics in Corpus Annotation'
+  title_html: 'Non-Sentential Utterances: Grammar and Dialogue Dynamics in Corpus
+    Annotation'
+  url: https://www.aclweb.org/anthology/C02-1135
+  year: '2002'
+C02-1136:
+  author:
+  - first: Shigeki
+    full: Shigeki Matsubara
+    id: shigeki-matsubara
+    last: Matsubara
+  - first: Takahisa
+    full: Takahisa Murase
+    id: takahisa-murase
+    last: Murase
+  - first: Nobuo
+    full: Nobuo Kawaguchi
+    id: nobuo-kawaguchi
+    last: Kawaguchi
+  - first: Yasuyoshi
+    full: Yasuyoshi Inagaki
+    id: yasuyoshi-inagaki
+    last: Inagaki
+  author_string: Shigeki Matsubara, Takahisa Murase, Nobuo Kawaguchi, Yasuyoshi Inagaki
+  bibkey: matsubara-etal-2002-stochastic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '136'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1136.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1136.jpg
+  title: Stochastic Dependency Parsing of Spontaneous Japanese Spoken Language
+  title_html: Stochastic Dependency Parsing of Spontaneous <span class="acl-fixed-case">J</span>apanese
+    Spoken Language
+  url: https://www.aclweb.org/anthology/C02-1136
+  year: '2002'
+C02-1137:
+  author:
+  - first: Rong
+    full: Rong Jin
+    id: rong-jin
+    last: Jin
+  - first: Alexander G.
+    full: Alexander G. Hauptmann
+    id: alexander-g-hauptmann
+    last: Hauptmann
+  author_string: Rong Jin, Alexander G. Hauptmann
+  bibkey: jin-hauptmann-2002-new
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '137'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1137.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1137.jpg
+  title: A New Probabilistic Model for Title Generation
+  title_html: A New Probabilistic Model for Title Generation
+  url: https://www.aclweb.org/anthology/C02-1137
+  year: '2002'
+C02-1138:
+  author:
+  - first: John
+    full: John Chen
+    id: john-chen
+    last: Chen
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: Marilyn A.
+    full: Marilyn A. Walker
+    id: marilyn-walker
+    last: Walker
+  author_string: John Chen, Srinivas Bangalore, Owen Rambow, Marilyn A. Walker
+  bibkey: chen-etal-2002-towards
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '138'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1138.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1138.jpg
+  title: Towards Automatic Generation of Natural Language Generation Systems
+  title_html: Towards Automatic Generation of Natural Language Generation Systems
+  url: https://www.aclweb.org/anthology/C02-1138
+  year: '2002'
+C02-1139:
+  author:
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Vincent Ng, Claire Cardie
+  bibkey: ng-cardie-2002-identifying
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '139'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1139.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1139.jpg
+  title: Identifying Anaphoric and Non-Anaphoric Noun Phrases to Improve Coreference
+    Resolution
+  title_html: Identifying Anaphoric and Non-Anaphoric Noun Phrases to Improve Coreference
+    Resolution
+  url: https://www.aclweb.org/anthology/C02-1139
+  year: '2002'
+C02-1140:
+  author:
+  - first: Slaven
+    full: Slaven Bilac
+    id: slaven-bilac
+    last: Bilac
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  author_string: Slaven Bilac, Timothy Baldwin, Hozumi Tanaka
+  bibkey: bilac-etal-2002-bringing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '140'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1140.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1140.jpg
+  title: 'Bringing the Dictionary to the User: The FOKS System'
+  title_html: 'Bringing the Dictionary to the User: The <span class="acl-fixed-case">FOKS</span>
+    System'
+  url: https://www.aclweb.org/anthology/C02-1140
+  year: '2002'
+C02-1141:
+  author:
+  - first: Laurence
+    full: Laurence Danlos
+    id: laurence-danlos
+    last: Danlos
+  - first: Adil
+    full: Adil El Ghali
+    id: adil-el-ghali
+    last: El Ghali
+  author_string: Laurence Danlos, Adil El Ghali
+  bibkey: danlos-el-ghali-2002-complete
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '141'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1141.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1141.jpg
+  title: A Complete Integrated NLG System Using AI and NLU Tools
+  title_html: A Complete Integrated <span class="acl-fixed-case">NLG</span> System
+    Using <span class="acl-fixed-case">AI</span> and <span class="acl-fixed-case">NLU</span>
+    Tools
+  url: https://www.aclweb.org/anthology/C02-1141
+  year: '2002'
+C02-1142:
+  author:
+  - first: Youngja
+    full: Youngja Park
+    id: youngja-park
+    last: Park
+  - first: Roy J.
+    full: Roy J. Byrd
+    id: roy-j-byrd
+    last: Byrd
+  - first: Branimir K.
+    full: Branimir K. Boguraev
+    id: branimir-boguraev
+    last: Boguraev
+  author_string: Youngja Park, Roy J. Byrd, Branimir K. Boguraev
+  bibkey: park-etal-2002-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '142'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1142.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1142.jpg
+  title: 'Automatic Glossary Extraction: Beyond Terminology Identification'
+  title_html: 'Automatic Glossary Extraction: Beyond Terminology Identification'
+  url: https://www.aclweb.org/anthology/C02-1142
+  year: '2002'
+C02-1143:
+  author:
+  - first: Hoa Trang
+    full: Hoa Trang Dang
+    id: hoa-trang-dang
+    last: Dang
+  - first: Ching-yi
+    full: Ching-yi Chia
+    id: ching-yi-chia
+    last: Chia
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  - first: Fu-Dong
+    full: Fu-Dong Chiou
+    id: fu-dong-chiou
+    last: Chiou
+  author_string: Hoa Trang Dang, Ching-yi Chia, Martha Palmer, Fu-Dong Chiou
+  bibkey: dang-etal-2002-simple
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '143'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1143.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1143.jpg
+  title: Simple Features for Chinese Word Sense Disambiguation
+  title_html: Simple Features for <span class="acl-fixed-case">C</span>hinese Word
+    Sense Disambiguation
+  url: https://www.aclweb.org/anthology/C02-1143
+  year: '2002'
+C02-1144:
+  author:
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  author_string: Dekang Lin, Patrick Pantel
+  bibkey: lin-pantel-2002-concept
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '144'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1144.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1144.jpg
+  title: Concept Discovery from Text
+  title_html: Concept Discovery from Text
+  url: https://www.aclweb.org/anthology/C02-1144
+  year: '2002'
+C02-1145:
+  author:
+  - first: Nianwen
+    full: Nianwen Xue
+    id: nianwen-xue
+    last: Xue
+  - first: Fu-Dong
+    full: Fu-Dong Chiou
+    id: fu-dong-chiou
+    last: Chiou
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Nianwen Xue, Fu-Dong Chiou, Martha Palmer
+  bibkey: xue-etal-2002-building
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '145'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1145.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1145.jpg
+  title: Building a Large-Scale Annotated Chinese Corpus
+  title_html: Building a Large-Scale Annotated <span class="acl-fixed-case">C</span>hinese
+    Corpus
+  url: https://www.aclweb.org/anthology/C02-1145
+  year: '2002'
+C02-1146:
+  author:
+  - first: Vivian
+    full: Vivian Tsang
+    id: vivian-tsang
+    last: Tsang
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  author_string: Vivian Tsang, Suzanne Stevenson, Paola Merlo
+  bibkey: tsang-etal-2002-crosslinguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '146'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1146.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1146.jpg
+  title: Crosslinguistic Transfer in Automatic Verb Classification
+  title_html: Crosslinguistic Transfer in Automatic Verb Classification
+  url: https://www.aclweb.org/anthology/C02-1146
+  year: '2002'
+C02-1147:
+  author:
+  - first: Matthias
+    full: Matthias Denecke
+    id: matthias-denecke
+    last: Denecke
+  author_string: Matthias Denecke
+  bibkey: denecke-2002-rapid
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '147'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1147.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1147.jpg
+  title: Rapid Prototyping for Spoken Dialogue Systems
+  title_html: Rapid Prototyping for Spoken Dialogue Systems
+  url: https://www.aclweb.org/anthology/C02-1147
+  year: '2002'
+C02-1148:
+  author:
+  - first: Fuchun
+    full: Fuchun Peng
+    id: fuchun-peng
+    last: Peng
+  - first: Xiangji
+    full: Xiangji Huang
+    id: xiangji-huang
+    last: Huang
+  - first: Dale
+    full: Dale Schuurmans
+    id: dale-schuurmans
+    last: Schuurmans
+  - first: Nick
+    full: Nick Cercone
+    id: nick-cercone
+    last: Cercone
+  author_string: Fuchun Peng, Xiangji Huang, Dale Schuurmans, Nick Cercone
+  bibkey: peng-etal-2002-investigating
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '148'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1148.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1148.jpg
+  title: Investigating the Relationship between Word Segmentation Performance and
+    Retrieval Performance in Chinese IR
+  title_html: Investigating the Relationship between Word Segmentation Performance
+    and Retrieval Performance in <span class="acl-fixed-case">C</span>hinese <span
+    class="acl-fixed-case">IR</span>
+  url: https://www.aclweb.org/anthology/C02-1148
+  year: '2002'
+C02-1149:
+  author:
+  - first: Kumiko
+    full: Kumiko Tanaka-Ishii
+    id: kumiko-tanaka-ishii
+    last: Tanaka-Ishii
+  - first: Yusuke
+    full: Yusuke Inutsuka
+    id: yusuke-inutsuka
+    last: Inutsuka
+  - first: Masato
+    full: Masato Takeichi
+    id: masato-takeichi
+    last: Takeichi
+  author_string: Kumiko Tanaka-Ishii, Yusuke Inutsuka, Masato Takeichi
+  bibkey: tanaka-ishii-etal-2002-entering
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '149'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1149.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1149.jpg
+  title: Entering Text with a Four-Button Device
+  title_html: Entering Text with a Four-Button Device
+  url: https://www.aclweb.org/anthology/C02-1149
+  year: '2002'
+C02-1150:
+  author:
+  - first: Xin
+    full: Xin Li
+    id: xin-li
+    last: Li
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Xin Li, Dan Roth
+  bibkey: li-roth-2002-learning
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '150'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1150.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1150.jpg
+  title: Learning Question Classifiers
+  title_html: Learning Question Classifiers
+  url: https://www.aclweb.org/anthology/C02-1150
+  year: '2002'
+C02-1151:
+  author:
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  - first: Wen-tau
+    full: Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  author_string: Dan Roth, Wen-tau Yih
+  bibkey: roth-yih-2002-probabilistic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '151'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1151.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1151.jpg
+  title: Probabilistic Reasoning for Entity & Relation Recognition
+  title_html: Probabilistic Reasoning for Entity &amp; Relation Recognition
+  url: https://www.aclweb.org/anthology/C02-1151
+  year: '2002'
+C02-1152:
+  author:
+  - first: Kazunori
+    full: Kazunori Komatani
+    id: kazunori-komatani
+    last: Komatani
+  - first: Tatsuya
+    full: Tatsuya Kawahara
+    id: tatsuya-kawahara
+    last: Kawahara
+  - first: Ryosuke
+    full: Ryosuke Ito
+    id: ryosuke-ito
+    last: Ito
+  - first: Hiroshi G.
+    full: Hiroshi G. Okuno
+    id: hiroshi-g-okuno
+    last: Okuno
+  author_string: Kazunori Komatani, Tatsuya Kawahara, Ryosuke Ito, Hiroshi G. Okuno
+  bibkey: komatani-etal-2002-efficient
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '152'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1152.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1152.jpg
+  title: "Efficient Dialogue Strategy to Find Users\u2019 Intended Items from Information\
+    \ Query Results"
+  title_html: "Efficient Dialogue Strategy to Find Users\u2019 Intended Items from\
+    \ Information Query Results"
+  url: https://www.aclweb.org/anthology/C02-1152
+  year: '2002'
+C02-1153:
+  author:
+  - first: Carlos A.
+    full: Carlos A. Prolo
+    id: carlos-a-prolo
+    last: Prolo
+  author_string: Carlos A. Prolo
+  bibkey: prolo-2002-generating
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '153'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1153.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1153.jpg
+  title: Generating the XTAG English Grammar Using Metarules
+  title_html: Generating the <span class="acl-fixed-case">XTAG</span> <span class="acl-fixed-case">E</span>nglish
+    Grammar Using Metarules
+  url: https://www.aclweb.org/anthology/C02-1153
+  year: '2002'
+C02-1154:
+  author:
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  - first: Winston
+    full: Winston Lin
+    id: winston-lin
+    last: Lin
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Roman Yangarber, Winston Lin, Ralph Grishman
+  bibkey: yangarber-etal-2002-unsupervised
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '154'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1154.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1154.jpg
+  title: Unsupervised Learning of Generalized Names
+  title_html: Unsupervised Learning of Generalized Names
+  url: https://www.aclweb.org/anthology/C02-1154
+  year: '2002'
+C02-1155:
+  author:
+  - first: Thanaruk
+    full: Thanaruk Theeramunkong
+    id: thanaruk-theeramunkong
+    last: Theeramunkong
+  - first: Verayuth
+    full: Verayuth Lertnattee
+    id: verayuth-lertnattee
+    last: Lertnattee
+  author_string: Thanaruk Theeramunkong, Verayuth Lertnattee
+  bibkey: theeramunkong-lertnattee-2002-multi
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '155'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1155.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1155.jpg
+  title: Multi-Dimensional Text Classification
+  title_html: Multi-Dimensional Text Classification
+  url: https://www.aclweb.org/anthology/C02-1155
+  year: '2002'
+C02-1156:
+  author:
+  - first: Nancy
+    full: Nancy Chang
+    id: nancy-chang
+    last: Chang
+  - first: Srini
+    full: Srini Narayanan
+    id: srini-narayanan
+    last: Narayanan
+  - first: Miriam R.L.
+    full: Miriam R.L. Petruck
+    id: miriam-r-l-petruck
+    last: Petruck
+  author_string: Nancy Chang, Srini Narayanan, Miriam R.L. Petruck
+  bibkey: chang-etal-2002-putting
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '156'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1156.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1156.jpg
+  title: Putting Frames in Perspective
+  title_html: Putting Frames in Perspective
+  url: https://www.aclweb.org/anthology/C02-1156
+  year: '2002'
+C02-1157:
+  author:
+  - first: Shinsuke
+    full: Shinsuke Mori
+    id: shinsuke-mori
+    last: Mori
+  author_string: Shinsuke Mori
+  bibkey: mori-2002-stochastic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '157'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1157.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1157.jpg
+  title: A Stochastic Parser Based on an SLM with Arboreal Context Trees
+  title_html: A Stochastic Parser Based on an <span class="acl-fixed-case">SLM</span>
+    with Arboreal Context Trees
+  url: https://www.aclweb.org/anthology/C02-1157
+  year: '2002'
+C02-1158:
+  author:
+  - first: Hiroshi
+    full: Hiroshi Echizen-ya
+    id: hiroshi-echizen-ya
+    last: Echizen-ya
+  - first: Kenji
+    full: Kenji Araki
+    id: kenji-araki
+    last: Araki
+  - first: Yoshio
+    full: Yoshio Momouchi
+    id: yoshio-momouchi
+    last: Momouchi
+  - first: Koji
+    full: Koji Tochinai
+    id: koji-tochinai
+    last: Tochinai
+  author_string: Hiroshi Echizen-ya, Kenji Araki, Yoshio Momouchi, Koji Tochinai
+  bibkey: echizen-ya-etal-2002-study
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '158'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1158.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1158.jpg
+  title: Study of Practical Effectiveness for Machine Translation Using Recursive
+    Chain-link-type Learning
+  title_html: Study of Practical Effectiveness for Machine Translation Using Recursive
+    Chain-link-type Learning
+  url: https://www.aclweb.org/anthology/C02-1158
+  year: '2002'
+C02-1159:
+  author:
+  - first: Hassan
+    full: Hassan Alam
+    id: hassan-alam
+    last: Alam
+  - first: Hua
+    full: Hua Cheng
+    id: hua-cheng
+    last: Cheng
+  - first: Rachmat
+    full: Rachmat Hartono
+    id: rachmat-hartono
+    last: Hartono
+  - first: Aman
+    full: Aman Kumar
+    id: aman-kumar
+    last: Kumar
+  - first: Paul
+    full: Paul Llido
+    id: paul-llido
+    last: Llido
+  - first: Crystal
+    full: Crystal Nakatsu
+    id: crystal-nakatsu
+    last: Nakatsu
+  - first: Fuad
+    full: Fuad Rahman
+    id: fuad-rahman
+    last: Rahman
+  - first: Yuliya
+    full: Yuliya Tarnikova
+    id: yuliya-tarnikova
+    last: Tarnikova
+  - first: Timotius
+    full: Timotius Tjahjadi
+    id: timotius-tjahjadi
+    last: Tjahjadi
+  - first: Che
+    full: Che Wilcox
+    id: che-wilcox
+    last: Wilcox
+  author_string: Hassan Alam, Hua Cheng, Rachmat Hartono, Aman Kumar, Paul Llido,
+    Crystal Nakatsu, Fuad Rahman, Yuliya Tarnikova, Timotius Tjahjadi, Che Wilcox
+  bibkey: alam-etal-2002-extending
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '159'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1159.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1159.jpg
+  title: Extending a Broad-Coverage Parser for a General NLP Toolkit
+  title_html: Extending a Broad-Coverage Parser for a General <span class="acl-fixed-case">NLP</span>
+    Toolkit
+  url: https://www.aclweb.org/anthology/C02-1159
+  year: '2002'
+C02-1160:
+  author:
+  - first: Jessie
+    full: Jessie Pinkham
+    id: jessie-pinkham
+    last: Pinkham
+  - first: Martine
+    full: Martine Smets
+    id: martine-smets
+    last: Smets
+  author_string: Jessie Pinkham, Martine Smets
+  bibkey: pinkham-smets-2002-modular
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '160'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1160.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1160.jpg
+  title: 'Modular MT with a Learned Bilingual Dictionary: Rapid Deployment of a New
+    Language Pair'
+  title_html: 'Modular <span class="acl-fixed-case">MT</span> with a Learned Bilingual
+    Dictionary: Rapid Deployment of a New Language Pair'
+  url: https://www.aclweb.org/anthology/C02-1160
+  year: '2002'
+C02-1161:
+  author:
+  - first: Ingrid
+    full: Ingrid Zukerman
+    id: ingrid-zukerman
+    last: Zukerman
+  - first: Bhavani
+    full: Bhavani Raskutti
+    id: bhavani-raskutti
+    last: Raskutti
+  author_string: Ingrid Zukerman, Bhavani Raskutti
+  bibkey: zukerman-raskutti-2002-lexical
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '161'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1161.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1161.jpg
+  title: Lexical Query Paraphrasing for Document Retrieval
+  title_html: Lexical Query Paraphrasing for Document Retrieval
+  url: https://www.aclweb.org/anthology/C02-1161
+  year: '2002'
+C02-1162:
+  author:
+  - first: Grace
+    full: Grace Ngai
+    id: grace-ngai
+    last: Ngai
+  - first: Marine
+    full: Marine Carpuat
+    id: marine-carpuat
+    last: Carpuat
+  - first: Pascale
+    full: Pascale Fung
+    id: pascale-fung
+    last: Fung
+  author_string: Grace Ngai, Marine Carpuat, Pascale Fung
+  bibkey: ngai-etal-2002-identifying
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '162'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1162.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1162.jpg
+  title: 'Identifying Concepts Across Languages: A First Step towards a Corpus-based
+    Approach to Automatic Ontology Alignment'
+  title_html: 'Identifying Concepts Across Languages: A First Step towards a Corpus-based
+    Approach to Automatic Ontology Alignment'
+  url: https://www.aclweb.org/anthology/C02-1162
+  year: '2002'
+C02-1163:
+  author:
+  - first: Kazuhide
+    full: Kazuhide Yamamoto
+    id: kazuhide-yamamoto
+    last: Yamamoto
+  author_string: Kazuhide Yamamoto
+  bibkey: yamamoto-2002-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '163'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1163.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1163.jpg
+  title: Machine Translation by Interaction between Paraphraser and Transfer
+  title_html: Machine Translation by Interaction between Paraphraser and Transfer
+  url: https://www.aclweb.org/anthology/C02-1163
+  year: '2002'
+C02-1164:
+  author:
+  - first: Hideharu
+    full: Hideharu Nakajima
+    id: hideharu-nakajima
+    last: Nakajima
+  - first: Hirofumi
+    full: Hirofumi Yamamoto
+    id: hirofumi-yamamoto
+    last: Yamamoto
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  author_string: Hideharu Nakajima, Hirofumi Yamamoto, Taro Watanabe
+  bibkey: nakajima-etal-2002-language
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '164'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1164.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1164.jpg
+  title: Language Model Adaptation with Additional Text Generated by Machine Translation
+  title_html: Language Model Adaptation with Additional Text Generated by Machine
+    Translation
+  url: https://www.aclweb.org/anthology/C02-1164
+  year: '2002'
+C02-1165:
+  author:
+  - first: Silja
+    full: Silja Huttunen
+    id: silja-huttunen
+    last: Huttunen
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Silja Huttunen, Roman Yangarber, Ralph Grishman
+  bibkey: huttunen-etal-2002-complexity
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '165'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1165.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1165.jpg
+  title: Complexity of Event Structure in IE Scenarios
+  title_html: Complexity of Event Structure in <span class="acl-fixed-case">IE</span>
+    Scenarios
+  url: https://www.aclweb.org/anthology/C02-1165
+  year: '2002'
+C02-1166:
+  author:
+  - first: "Herv\xE9"
+    full: "Herv\xE9 D\xE9jean"
+    id: herve-dejean
+    last: "D\xE9jean"
+  - first: "\xC9ric"
+    full: "\xC9ric Gaussier"
+    id: eric-gaussier
+    last: Gaussier
+  - first: Fatiha
+    full: Fatiha Sadat
+    id: fatiha-sadat
+    last: Sadat
+  author_string: "Herv\xE9 D\xE9jean, \xC9ric Gaussier, Fatiha Sadat"
+  bibkey: dejean-etal-2002-approach
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '166'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1166.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1166.jpg
+  title: An Approach Based on Multilingual Thesauri and Model Combination for Bilingual
+    Lexicon Extraction
+  title_html: An Approach Based on Multilingual Thesauri and Model Combination for
+    Bilingual Lexicon Extraction
+  url: https://www.aclweb.org/anthology/C02-1166
+  year: '2002'
+C02-1167:
+  author:
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Adrian
+    full: Adrian Novischi
+    id: adrian-novischi
+    last: Novischi
+  author_string: Dan Moldovan, Adrian Novischi
+  bibkey: moldovan-novischi-2002-lexical
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '167'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1167.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1167.jpg
+  title: Lexical Chains for Question Answering
+  title_html: Lexical Chains for Question Answering
+  url: https://www.aclweb.org/anthology/C02-1167
+  year: '2002'
+C02-1168:
+  author:
+  - first: Gerald
+    full: Gerald Chao
+    id: gerald-chao
+    last: Chao
+  - first: Michael G.
+    full: Michael G. Dyer
+    id: michael-g-dyer
+    last: Dyer
+  author_string: Gerald Chao, Michael G. Dyer
+  bibkey: chao-dyer-2002-maximum
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '168'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1168.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1168.jpg
+  title: Maximum Entropy Models for Word Sense Disambiguation
+  title_html: Maximum Entropy Models for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/C02-1168
+  year: '2002'
+C02-1169:
+  author:
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Joe
+    full: Joe Picone
+    id: joe-picone
+    last: Picone
+  author_string: Sanda Harabagiu, Dan Moldovan, Joe Picone
+  bibkey: harabagiu-etal-2002-open
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '169'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1169.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1169.jpg
+  title: Open-Domain Voice-Activated Question Answering
+  title_html: Open-Domain Voice-Activated Question Answering
+  url: https://www.aclweb.org/anthology/C02-1169
+  year: '2002'
+C02-1170:
+  author:
+  - first: "Herv\xE9"
+    full: "Herv\xE9 Blanchon"
+    id: herve-blanchon
+    last: Blanchon
+  author_string: "Herv\xE9 Blanchon"
+  bibkey: blanchon-2002-pattern
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 19th International Conference on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 19th International
+    Conference on Computational Linguistics'
+  paper_id: '170'
+  parent_volume_id: C02-1
+  pdf: https://www.aclweb.org/anthology/C02-1170.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-1170.jpg
+  title: 'A Pattern-based Analyzer for French in the Context of Spoken Language Translation:
+    First Prototype and Evaluation'
+  title_html: 'A Pattern-based Analyzer for <span class="acl-fixed-case">F</span>rench
+    in the Context of Spoken Language Translation: First Prototype and Evaluation'
+  url: https://www.aclweb.org/anthology/C02-1170
+  year: '2002'
+C02-2000:
+  bibkey: coling-2002-coling-2002
+  bibtype: proceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  paper_id: '0'
+  parent_volume_id: C02-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2000.jpg
+  title: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  title_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  year: '2002'
+C02-2001:
+  author:
+  - first: Yu-Sheng
+    full: Yu-Sheng Lai
+    id: yu-sheng-lai
+    last: Lai
+  - first: Ren-Jr
+    full: Ren-Jr Wang
+    id: ren-jr-wang
+    last: Wang
+  - first: Wei-Tek
+    full: Wei-Tek Hsu
+    id: wei-tek-hsu
+    last: Hsu
+  author_string: Yu-Sheng Lai, Ren-Jr Wang, Wei-Tek Hsu
+  bibkey: lai-etal-2002-daml
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '1'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2001.jpg
+  title: A DAML+OIL-Compliant Chinese Lexical Ontology
+  title_html: A <span class="acl-fixed-case">DAML</span>+<span class="acl-fixed-case">OIL</span>-Compliant
+    <span class="acl-fixed-case">C</span>hinese Lexical Ontology
+  url: https://www.aclweb.org/anthology/C02-2001
+  year: '2002'
+C02-2002:
+  author:
+  - first: Andi
+    full: Andi Wu
+    id: andi-wu
+    last: Wu
+  - first: Joseph
+    full: Joseph Pentheroudakis
+    id: joseph-pentheroudakis
+    last: Pentheroudakis
+  - first: Zixin
+    full: Zixin Jiang
+    id: zixin-jiang
+    last: Jiang
+  author_string: Andi Wu, Joseph Pentheroudakis, Zixin Jiang
+  bibkey: wu-etal-2002-dynamic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '2'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2002.jpg
+  title: Dynamic Lexical Acquisition in Chinese Sentence Analysis
+  title_html: Dynamic Lexical Acquisition in <span class="acl-fixed-case">C</span>hinese
+    Sentence Analysis
+  url: https://www.aclweb.org/anthology/C02-2002
+  year: '2002'
+C02-2003:
+  author:
+  - first: Alexander
+    full: Alexander Franz
+    id: alexander-franz
+    last: Franz
+  - first: Brian
+    full: Brian Milch
+    id: brian-milch
+    last: Milch
+  author_string: Alexander Franz, Brian Milch
+  bibkey: franz-milch-2002-searching
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '3'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2003.jpg
+  title: Searching the Web by Voice
+  title_html: Searching the Web by Voice
+  url: https://www.aclweb.org/anthology/C02-2003
+  year: '2002'
+C02-2004:
+  author:
+  - first: Vladimir
+    full: Vladimir Pericliev
+    id: vladimir-pericliev
+    last: Pericliev
+  author_string: Vladimir Pericliev
+  bibkey: pericliev-2002-linguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '4'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2004.jpg
+  title: A Linguistic Discovery Program that Verbalizes its Discoveries
+  title_html: A Linguistic Discovery Program that Verbalizes its Discoveries
+  url: https://www.aclweb.org/anthology/C02-2004
+  year: '2002'
+C02-2005:
+  author:
+  - first: Tibor
+    full: Tibor Kiss
+    id: tibor-kiss
+    last: Kiss
+  - first: Jan
+    full: Jan Strunk
+    id: jan-strunk
+    last: Strunk
+  author_string: Tibor Kiss, Jan Strunk
+  bibkey: kiss-strunk-2002-scaled
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '5'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2005.jpg
+  title: Scaled Log Likelihood Ratios for the Detection of Abbreviations in Text Corpora
+  title_html: Scaled Log Likelihood Ratios for the Detection of Abbreviations in Text
+    Corpora
+  url: https://www.aclweb.org/anthology/C02-2005
+  year: '2002'
+C02-2006:
+  author:
+  - first: Hideo
+    full: Hideo Watanabe
+    id: hideo-watanabe
+    last: Watanabe
+  - first: Katashi
+    full: Katashi Nagao
+    id: katashi-nagao
+    last: Nagao
+  - first: Michael C.
+    full: Michael C. McCord
+    id: michael-c-mccord
+    last: McCord
+  - first: Arendse
+    full: Arendse Bernth
+    id: arendse-bernth
+    last: Bernth
+  author_string: Hideo Watanabe, Katashi Nagao, Michael C. McCord, Arendse Bernth
+  bibkey: watanabe-etal-2002-annotation
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '6'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2006.jpg
+  title: An Annotation System for Enhancing Quality of Natural Language Processing
+  title_html: An Annotation System for Enhancing Quality of Natural Language Processing
+  url: https://www.aclweb.org/anthology/C02-2006
+  year: '2002'
+C02-2007:
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Shiwen
+    full: Shiwen Yu
+    id: shiwen-yu
+    last: Yu
+  - first: Jiangsheng
+    full: Jiangsheng Yu
+    id: jiangsheng-yu
+    last: Yu
+  author_string: Yang Liu, Shiwen Yu, Jiangsheng Yu
+  bibkey: liu-etal-2002-building
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '7'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2007.jpg
+  title: 'Building a Bilingual WordNet-Like Lexicon: The New Approach and Algorithms'
+  title_html: 'Building a Bilingual <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et-Like Lexicon: The New Approach and Algorithms'
+  url: https://www.aclweb.org/anthology/C02-2007
+  year: '2002'
+C02-2008:
+  author:
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Katashi
+    full: Katashi Nagao
+    id: katashi-nagao
+    last: Nagao
+  author_string: Ryuichiro Higashinaka, Katashi Nagao
+  bibkey: higashinaka-nagao-2002-interactive
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '8'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2008.jpg
+  title: Interactive Paraphrasing Based on Linguistic Annotation
+  title_html: Interactive Paraphrasing Based on Linguistic Annotation
+  url: https://www.aclweb.org/anthology/C02-2008
+  year: '2002'
+C02-2009:
+  author:
+  - first: Yohei
+    full: Yohei Seki
+    id: yohei-seki
+    last: Seki
+  - first: "Ken\u2019ichi"
+    full: "Ken\u2019ichi Harada"
+    id: kenichi-harada
+    last: Harada
+  author_string: "Yohei Seki, Ken\u2019ichi Harada"
+  bibkey: seki-harada-2002-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '9'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2009.jpg
+  title: Machine Translation Based on NLG from XML-DB
+  title_html: Machine Translation Based on <span class="acl-fixed-case">NLG</span>
+    from <span class="acl-fixed-case">XML</span>-<span class="acl-fixed-case">DB</span>
+  url: https://www.aclweb.org/anthology/C02-2009
+  year: '2002'
+C02-2010:
+  author:
+  - first: Janne Bondi
+    full: Janne Bondi Johannessen
+    id: janne-bondi-johannessen
+    last: Johannessen
+  - first: Kristin
+    full: Kristin Hagen
+    id: kristin-hagen
+    last: Hagen
+  - first: Pia
+    full: Pia Lane
+    id: pia-lane
+    last: Lane
+  author_string: Janne Bondi Johannessen, Kristin Hagen, Pia Lane
+  bibkey: johannessen-etal-2002-performance
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '10'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2010.jpg
+  title: The Performance of a Grammar Checker with Deviant Language Input
+  title_html: The Performance of a Grammar Checker with Deviant Language Input
+  url: https://www.aclweb.org/anthology/C02-2010
+  year: '2002'
+C02-2011:
+  author:
+  - first: Rik De
+    full: Rik De Busser
+    id: rik-de-busser
+    last: Busser
+  - first: Roxana
+    full: Roxana Angheluta
+    id: roxana-angheluta
+    last: Angheluta
+  - first: Marie-Francine
+    full: Marie-Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: Rik De Busser, Roxana Angheluta, Marie-Francine Moens
+  bibkey: busser-etal-2002-semantic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '11'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2011.jpg
+  title: Semantic Case Role Detection for Information Extraction
+  title_html: Semantic Case Role Detection for Information Extraction
+  url: https://www.aclweb.org/anthology/C02-2011
+  year: '2002'
+C02-2012:
+  author:
+  - first: Yoshimi
+    full: Yoshimi Suzuki
+    id: yoshimi-suzuki
+    last: Suzuki
+  - first: Fumiyo
+    full: Fumiyo Fukumoto
+    id: fumiyo-fukumoto
+    last: Fukumoto
+  - first: Yoshihiro
+    full: Yoshihiro Sekiguchi
+    id: yoshihiro-sekiguchi
+    last: Sekiguchi
+  author_string: Yoshimi Suzuki, Fumiyo Fukumoto, Yoshihiro Sekiguchi
+  bibkey: suzuki-etal-2002-topic
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '12'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2012.jpg
+  title: Topic Tracking using Subject Templates and Clustering Positive Training Instances
+  title_html: Topic Tracking using Subject Templates and Clustering Positive Training
+    Instances
+  url: https://www.aclweb.org/anthology/C02-2012
+  year: '2002'
+C02-2013:
+  author:
+  - first: Shih-Hung
+    full: Shih-Hung Wu
+    id: shih-hung-wu
+    last: Wu
+  - first: Wen-Lian
+    full: Wen-Lian Hsu
+    id: wen-lian-hsu
+    last: Hsu
+  author_string: Shih-Hung Wu, Wen-Lian Hsu
+  bibkey: wu-hsu-2002-soat
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '13'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2013.jpg
+  title: 'SOAT: A Semi-Automatic Domain Ontology Acquisition Tool from Chinese Corpus'
+  title_html: '<span class="acl-fixed-case">SOAT</span>: A Semi-Automatic Domain Ontology
+    Acquisition Tool from <span class="acl-fixed-case">C</span>hinese Corpus'
+  url: https://www.aclweb.org/anthology/C02-2013
+  year: '2002'
+C02-2014:
+  author:
+  - first: "G\xE1bor"
+    full: "G\xE1bor Pr\xF3sz\xE9ky"
+    id: gabor-proszeky
+    last: "Pr\xF3sz\xE9ky"
+  - first: "M\xE1ty\xE1s"
+    full: "M\xE1ty\xE1s Nasz\xF3di"
+    id: matyas-naszodi
+    last: "Nasz\xF3di"
+  - first: "Bal\xE1zs"
+    full: "Bal\xE1zs Kis"
+    id: balazs-kis
+    last: Kis
+  author_string: "G\xE1bor Pr\xF3sz\xE9ky, M\xE1ty\xE1s Nasz\xF3di, Bal\xE1zs Kis"
+  bibkey: proszeky-etal-2002-recognition
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '14'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2014.jpg
+  title: Recognition Assistance - Treating Errors in Texts Acquired from Various Recognition
+    Processes
+  title_html: Recognition Assistance - Treating Errors in Texts Acquired from Various
+    Recognition Processes
+  url: https://www.aclweb.org/anthology/C02-2014
+  year: '2002'
+C02-2015:
+  author:
+  - first: "G\xE1bor"
+    full: "G\xE1bor Pr\xF3sz\xE9ky"
+    id: gabor-proszeky
+    last: "Pr\xF3sz\xE9ky"
+  - first: "Bal\xE1zs"
+    full: "Bal\xE1zs Kis"
+    id: balazs-kis
+    last: Kis
+  author_string: "G\xE1bor Pr\xF3sz\xE9ky, Bal\xE1zs Kis"
+  bibkey: proszeky-kis-2002-context
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '15'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2015.jpg
+  title: Context-Sensitive Electronic Dictionaries
+  title_html: Context-Sensitive Electronic Dictionaries
+  url: https://www.aclweb.org/anthology/C02-2015
+  year: '2002'
+C02-2016:
+  author:
+  - first: Vincent
+    full: Vincent Berment
+    id: vincent-berment
+    last: Berment
+  author_string: Vincent Berment
+  bibkey: berment-2002-several
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '16'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2016.jpg
+  title: Several Directions for Minority Languages Computerization
+  title_html: Several Directions for Minority Languages Computerization
+  url: https://www.aclweb.org/anthology/C02-2016
+  year: '2002'
+C02-2017:
+  author:
+  - first: Alexandra
+    full: Alexandra Klein
+    id: alexandra-klein
+    last: Klein
+  - first: Estela
+    full: "Estela Puig-Waldm\xFCller"
+    id: estela-puig-waldmuller
+    last: "Puig-Waldm\xFCller"
+  - first: Harald
+    full: Harald Trost
+    id: harald-trost
+    last: Trost
+  author_string: "Alexandra Klein, Estela Puig-Waldm\xFCller, Harald Trost"
+  bibkey: klein-etal-2002-robust
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '17'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2017.jpg
+  title: Robust Interpretation of User Requests for Text Retrieval in a Multimodal
+    Environment
+  title_html: Robust Interpretation of User Requests for Text Retrieval in a Multimodal
+    Environment
+  url: https://www.aclweb.org/anthology/C02-2017
+  year: '2002'
+C02-2018:
+  author:
+  - first: Dietmar
+    full: "Dietmar R\xF6sner"
+    id: dietmar-rosner
+    last: "R\xF6sner"
+  - first: Manuela
+    full: Manuela Kunze
+    id: manuela-kunze
+    last: Kunze
+  author_string: "Dietmar R\xF6sner, Manuela Kunze"
+  bibkey: rosner-kunze-2002-xml
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '18'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2018.jpg
+  title: An XML-based Document Suite
+  title_html: An <span class="acl-fixed-case">XML</span>-based Document Suite
+  url: https://www.aclweb.org/anthology/C02-2018
+  year: '2002'
+C02-2019:
+  author:
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Chikashi
+    full: Chikashi Nobata
+    id: chikashi-nobata
+    last: Nobata
+  - first: Atsushi
+    full: Atsushi Yamada
+    id: atsushi-yamada
+    last: Yamada
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Kiyotaka Uchimoto, Chikashi Nobata, Atsushi Yamada, Satoshi Sekine,
+    Hitoshi Isahara
+  bibkey: uchimoto-etal-2002-morphological
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '19'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2019.jpg
+  title: Morphological Analysis of the Spontaneous Speech Corpus
+  title_html: Morphological Analysis of the Spontaneous Speech Corpus
+  url: https://www.aclweb.org/anthology/C02-2019
+  year: '2002'
+C02-2020:
+  author:
+  - first: Yun-Chuang
+    full: Yun-Chuang Chiao
+    id: yun-chuang-chiao
+    last: Chiao
+  - first: Pierre
+    full: Pierre Zweigenbaum
+    id: pierre-zweigenbaum
+    last: Zweigenbaum
+  author_string: Yun-Chuang Chiao, Pierre Zweigenbaum
+  bibkey: chiao-zweigenbaum-2002-looking
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '20'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2020.jpg
+  title: Looking for Candidate Translational Equivalents in Specialized, Comparable
+    Corpora
+  title_html: Looking for Candidate Translational Equivalents in Specialized, Comparable
+    Corpora
+  url: https://www.aclweb.org/anthology/C02-2020
+  year: '2002'
+C02-2021:
+  author:
+  - first: John
+    full: John Barnden
+    id: john-barnden
+    last: Barnden
+  - first: Sheila
+    full: Sheila Glasbey
+    id: sheila-r-glasbey
+    last: Glasbey
+  - first: Mark
+    full: Mark Lee
+    id: mark-lee
+    last: Lee
+  - first: Alan
+    full: Alan Wallington
+    id: alan-wallington
+    last: Wallington
+  author_string: John Barnden, Sheila Glasbey, Mark Lee, Alan Wallington
+  bibkey: barnden-etal-2002-reasoning
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '21'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2021.jpg
+  title: 'Reasoning in Metaphor Understanding: The ATT-Meta Approach and System'
+  title_html: 'Reasoning in Metaphor Understanding: The <span class="acl-fixed-case">ATT</span>-Meta
+    Approach and System'
+  url: https://www.aclweb.org/anthology/C02-2021
+  year: '2002'
+C02-2022:
+  author:
+  - first: Lynne
+    full: Lynne Cahill
+    id: lynne-cahill
+    last: Cahill
+  - first: Carole
+    full: Carole Tiberius
+    id: carole-tiberius
+    last: Tiberius
+  author_string: Lynne Cahill, Carole Tiberius
+  bibkey: cahill-tiberius-2002-cross
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '22'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2022.jpg
+  title: Cross Linguistic Phoneme Correspondences
+  title_html: Cross Linguistic Phoneme Correspondences
+  url: https://www.aclweb.org/anthology/C02-2022
+  year: '2002'
+C02-2023:
+  author:
+  - first: Lyle F.
+    full: Lyle F. Bachman
+    id: lyle-f-bachman
+    last: Bachman
+  - first: Nathan
+    full: Nathan Carr
+    id: nathan-carr
+    last: Carr
+  - first: Greg
+    full: Greg Kamei
+    id: greg-kamei
+    last: Kamei
+  - first: Mikyung
+    full: Mikyung Kim
+    id: mikyung-kim
+    last: Kim
+  - first: Michael J.
+    full: Michael J. Pan
+    id: michael-j-pan
+    last: Pan
+  - first: Chris
+    full: Chris Salvador
+    id: chris-salvador
+    last: Salvador
+  - first: Yasuyo
+    full: Yasuyo Sawaki
+    id: yasuyo-sawaki
+    last: Sawaki
+  author_string: Lyle F. Bachman, Nathan Carr, Greg Kamei, Mikyung Kim, Michael J.
+    Pan, Chris Salvador, Yasuyo Sawaki
+  bibkey: bachman-etal-2002-reliable
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '23'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2023.jpg
+  title: A Reliable Approach to Automatic Assessment of Short Answer Free Responses
+  title_html: A Reliable Approach to Automatic Assessment of Short Answer Free Responses
+  url: https://www.aclweb.org/anthology/C02-2023
+  year: '2002'
+C02-2024:
+  author:
+  - first: Takashi
+    full: Takashi Ninomiya
+    id: takashi-ninomiya
+    last: Ninomiya
+  - first: Takaki
+    full: Takaki Makino
+    id: takaki-makino
+    last: Makino
+  - first: Jun-Ichi
+    full: Jun-Ichi Tsujii
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: Takashi Ninomiya, Takaki Makino, Jun-Ichi Tsujii
+  bibkey: ninomiya-etal-2002-indexing
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '24'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2024.jpg
+  title: An Indexing Scheme for Typed Feature Structures
+  title_html: An Indexing Scheme for Typed Feature Structures
+  url: https://www.aclweb.org/anthology/C02-2024
+  year: '2002'
+C02-2025:
+  author:
+  - first: Stephan
+    full: Stephan Oepen
+    id: stephan-oepen
+    last: Oepen
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Stuart
+    full: Stuart Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  - first: Christopher
+    full: Christopher Manning
+    id: christopher-d-manning
+    last: Manning
+  - first: Dan
+    full: Dan Flickinger
+    id: dan-flickinger
+    last: Flickinger
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  author_string: Stephan Oepen, Kristina Toutanova, Stuart Shieber, Christopher Manning,
+    Dan Flickinger, Thorsten Brants
+  bibkey: oepen-etal-2002-lingo
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '25'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2025.jpg
+  title: 'The LinGO Redwoods Treebank: Motivation and Preliminary Applications'
+  title_html: 'The <span class="acl-fixed-case">L</span>in<span class="acl-fixed-case">GO</span>
+    Redwoods Treebank: Motivation and Preliminary Applications'
+  url: https://www.aclweb.org/anthology/C02-2025
+  year: '2002'
+C02-2026:
+  author:
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: Tahir
+    full: Tahir Butt
+    id: tahir-butt
+    last: Butt
+  - first: Alexis
+    full: Alexis Nasr
+    id: alexis-nasr
+    last: Nasr
+  - first: Richard
+    full: Richard Sproat
+    id: richard-sproat
+    last: Sproat
+  author_string: Owen Rambow, Srinivas Bangalore, Tahir Butt, Alexis Nasr, Richard
+    Sproat
+  bibkey: rambow-etal-2002-creating
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '26'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2026.jpg
+  title: Creating a Finite-State Parser with Application Semantics
+  title_html: Creating a Finite-State Parser with Application Semantics
+  url: https://www.aclweb.org/anthology/C02-2026
+  year: '2002'
+C02-2027:
+  author:
+  - first: Manfred
+    full: Manfred Stede
+    id: manfred-stede
+    last: Stede
+  author_string: Manfred Stede
+  bibkey: stede-2002-polibox
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '27'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2027.jpg
+  title: 'Polibox: Generating Descriptions, Comparisons, and Recommendations from
+    a Database'
+  title_html: '<span class="acl-fixed-case">P</span>olibox: Generating Descriptions,
+    Comparisons, and Recommendations from a Database'
+  url: https://www.aclweb.org/anthology/C02-2027
+  year: '2002'
+C02-2028:
+  author:
+  - first: Yan
+    full: Yan Zhang
+    id: yan-zhang
+    last: Zhang
+  - first: Bo
+    full: Bo Xu
+    id: bo-xu
+    last: Xu
+  - first: Chengqing
+    full: Chengqing Zong
+    id: chengqing-zong
+    last: Zong
+  author_string: Yan Zhang, Bo Xu, Chengqing Zong
+  bibkey: zhang-etal-2002-chinese
+  bibtype: inproceedings
+  booktitle: 'COLING 2002: The 17th International Conference on Computational Linguistics:
+    Project Notes'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 2002: The 17th International
+    Conference on Computational Linguistics: Project Notes'
+  paper_id: '28'
+  parent_volume_id: C02-2
+  pdf: https://www.aclweb.org/anthology/C02-2028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C02-2028.jpg
+  title: Chinese Syntactic Parsing Based on Extended GLR Parsing Algorithm with PCFG*
+  title_html: <span class="acl-fixed-case">C</span>hinese Syntactic Parsing Based
+    on Extended <span class="acl-fixed-case">GLR</span> Parsing Algorithm with <span
+    class="acl-fixed-case">PCFG</span>*
+  url: https://www.aclweb.org/anthology/C02-2028
+  year: '2002'

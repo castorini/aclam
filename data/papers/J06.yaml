@@ -1,0 +1,973 @@
+J06-1000:
+  bibkey: cl-2006-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  paper_id: '0'
+  parent_volume_id: J06-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1000.jpg
+  title: Computational Linguistics, Volume 32, Number 1, March 2006
+  title_html: Computational Linguistics, Volume 32, Number 1, March 2006
+  year: '2006'
+J06-1001:
+  author:
+  - first: George A.
+    full: George A. Miller
+    id: george-a-miller
+    last: Miller
+  - first: Florentina
+    full: Florentina Hristea
+    id: florentina-hristea
+    last: Hristea
+  author_string: George A. Miller, Florentina Hristea
+  bibkey: miller-hristea-2006-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  doi: 10.1162/coli.2006.32.1.1
+  page_first: '1'
+  page_last: '3'
+  pages: "1\u20133"
+  paper_id: '1'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1001.jpg
+  title: 'Squibs and Discussions: WordNet Nouns: Classes and Instances'
+  title_html: 'Squibs and Discussions: <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et Nouns: Classes and Instances'
+  url: https://www.aclweb.org/anthology/J06-1001
+  year: '2006'
+J06-1002:
+  author:
+  - first: Yves
+    full: Yves Bestgen
+    id: yves-bestgen
+    last: Bestgen
+  author_string: Yves Bestgen
+  bibkey: bestgen-2006-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  doi: 10.1162/coli.2006.32.1.5
+  page_first: '5'
+  page_last: '12'
+  pages: "5\u201312"
+  paper_id: '2'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1002.jpg
+  title: 'Squibs and Discussions: Improving Text Segmentation Using Latent Semantic
+    Analysis: A Reanalysis of Choi, Wiemer-Hastings, and Moore (2001)'
+  title_html: 'Squibs and Discussions: Improving Text Segmentation Using Latent Semantic
+    Analysis: A Reanalysis of <span class="acl-fixed-case">C</span>hoi, Wiemer-Hastings,
+    and Moore (2001)'
+  url: https://www.aclweb.org/anthology/J06-1002
+  year: '2006'
+J06-1003:
+  author:
+  - first: Alexander
+    full: Alexander Budanitsky
+    id: alexander-budanitsky
+    last: Budanitsky
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Alexander Budanitsky, Graeme Hirst
+  bibkey: budanitsky-hirst-2006-evaluating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  doi: 10.1162/coli.2006.32.1.13
+  page_first: '13'
+  page_last: '47'
+  pages: "13\u201347"
+  paper_id: '3'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1003.jpg
+  title: Evaluating WordNet-based Measures of Lexical Semantic Relatedness
+  title_html: Evaluating <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et-based
+    Measures of Lexical Semantic Relatedness
+  url: https://www.aclweb.org/anthology/J06-1003
+  year: '2006'
+J06-1004:
+  author:
+  - first: Yael
+    full: Yael Cohen-Sygal
+    id: yael-cohen-sygal
+    last: Cohen-Sygal
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Yael Cohen-Sygal, Shuly Wintner
+  bibkey: cohen-sygal-wintner-2006-finite
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  doi: 10.1162/coli.2006.32.1.49
+  page_first: '49'
+  page_last: '82'
+  pages: "49\u201382"
+  paper_id: '4'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1004.jpg
+  title: Finite-State Registered Automata for Non-Concatenative Morphology
+  title_html: Finite-State Registered Automata for Non-Concatenative Morphology
+  url: https://www.aclweb.org/anthology/J06-1004
+  year: '2006'
+J06-1005:
+  author:
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  - first: Adriana
+    full: Adriana Badulescu
+    id: adriana-badulescu
+    last: Badulescu
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  author_string: Roxana Girju, Adriana Badulescu, Dan Moldovan
+  bibkey: girju-etal-2006-automatic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  doi: 10.1162/coli.2006.32.1.83
+  page_first: '83'
+  page_last: '135'
+  pages: "83\u2013135"
+  paper_id: '5'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1005.jpg
+  title: Automatic Discovery of Part-Whole Relations
+  title_html: Automatic Discovery of Part-Whole Relations
+  url: https://www.aclweb.org/anthology/J06-1005
+  year: '2006'
+J06-1006:
+  author:
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  author_string: Mary Harper
+  bibkey: harper-2006-introducing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  paper_id: '6'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1006.jpg
+  title: Introducing Speech and Language Processing, by John Coleman
+  title_html: Introducing Speech and Language Processing, by John Coleman
+  url: https://www.aclweb.org/anthology/J06-1006
+  year: '2006'
+J06-1007:
+  author:
+  - first: David
+    full: David Nathan
+    id: david-nathan
+    last: Nathan
+  author_string: David Nathan
+  bibkey: nathan-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  paper_id: '7'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1007.jpg
+  title: 'Book Reviews: Multilingualism and Electronic Language Management, edited
+    by Walter Daelemans, Theo du Plessis, Cobus Snyman and Lut Teck'
+  title_html: 'Book Reviews: Multilingualism and Electronic Language Management, edited
+    by Walter Daelemans, Theo du Plessis, Cobus Snyman and Lut Teck'
+  url: https://www.aclweb.org/anthology/J06-1007
+  year: '2006'
+J06-1008:
+  author:
+  - first: Chris
+    full: Chris Mellish
+    id: chris-mellish
+    last: Mellish
+  author_string: Chris Mellish
+  bibkey: mellish-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  paper_id: '8'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1008.jpg
+  title: 'Book Reviews: Computational and Quantitative Studies by M. A. K. Halliday,
+    edited by Jonathan J. Webster'
+  title_html: 'Book Reviews: Computational and Quantitative Studies by M. A. K. Halliday,
+    edited by Jonathan J. Webster'
+  url: https://www.aclweb.org/anthology/J06-1008
+  year: '2006'
+J06-1009:
+  author:
+  - first: Robert
+    full: Robert Malouf
+    id: robert-malouf
+    last: Malouf
+  author_string: Robert Malouf
+  bibkey: malouf-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  paper_id: '9'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1009.jpg
+  title: 'Book Reviews: Corpus Linguistics: Readings in a Widening Discipline, edited
+    by Geoffrey Sampson and Diana McCarthy'
+  title_html: 'Book Reviews: Corpus Linguistics: Readings in a Widening Discipline,
+    edited by Geoffrey Sampson and Diana <span class="acl-fixed-case">M</span>c<span
+    class="acl-fixed-case">C</span>arthy'
+  url: https://www.aclweb.org/anthology/J06-1009
+  year: '2006'
+J06-1010:
+  author:
+  - first: C. J.
+    full: C. J. van Rijsbergen
+    id: c-j-van-rijsbergen
+    last: van Rijsbergen
+  author_string: C. J. van Rijsbergen
+  bibkey: van-rijsbergen-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 1, March 2006
+  paper_id: '10'
+  parent_volume_id: J06-1
+  pdf: https://www.aclweb.org/anthology/J06-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-1010.jpg
+  title: 'Book Reviews: Geometry and Meaning, by Dominic Widdows'
+  title_html: 'Book Reviews: Geometry and Meaning, by Dominic Widdows'
+  url: https://www.aclweb.org/anthology/J06-1010
+  year: '2006'
+J06-2000:
+  bibkey: cl-2006-linguistics-32
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  paper_id: '0'
+  parent_volume_id: J06-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2000.jpg
+  title: Computational Linguistics, Volume 32, Number 2, June 2006
+  title_html: Computational Linguistics, Volume 32, Number 2, June 2006
+  year: '2006'
+J06-2001:
+  author:
+  - first: Sabine
+    full: Sabine Schulte im Walde
+    id: sabine-schulte-im-walde
+    last: Schulte im Walde
+  author_string: Sabine Schulte im Walde
+  bibkey: schulte-im-walde-2006-experiments
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  doi: 10.1162/coli.2006.32.2.159
+  page_first: '159'
+  page_last: '194'
+  pages: "159\u2013194"
+  paper_id: '1'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2001.jpg
+  title: Experiments on the Automatic Induction of German Semantic Verb Classes
+  title_html: Experiments on the Automatic Induction of <span class="acl-fixed-case">G</span>erman
+    Semantic Verb Classes
+  url: https://www.aclweb.org/anthology/J06-2001
+  year: '2006'
+J06-2002:
+  author:
+  - first: Kees
+    full: Kees van Deemter
+    id: kees-van-deemter
+    last: van Deemter
+  author_string: Kees van Deemter
+  bibkey: van-deemter-2006-generating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  doi: 10.1162/coli.2006.32.2.195
+  page_first: '195'
+  page_last: '222'
+  pages: "195\u2013222"
+  paper_id: '2'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2002.jpg
+  title: Generating Referring Expressions that Involve Gradable Properties
+  title_html: Generating Referring Expressions that Involve Gradable Properties
+  url: https://www.aclweb.org/anthology/J06-2002
+  year: '2006'
+J06-2003:
+  author:
+  - first: Diana
+    full: Diana Inkpen
+    id: diana-inkpen
+    last: Inkpen
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Diana Inkpen, Graeme Hirst
+  bibkey: inkpen-hirst-2006-building
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  doi: 10.1162/coli.2006.32.2.223
+  page_first: '223'
+  page_last: '262'
+  pages: "223\u2013262"
+  paper_id: '3'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2003.jpg
+  title: Building and Using a Lexical Knowledge Base of Near-Synonym Differences
+  title_html: Building and Using a Lexical Knowledge Base of Near-Synonym Differences
+  url: https://www.aclweb.org/anthology/J06-2003
+  year: '2006'
+J06-2004:
+  author:
+  - first: Melita
+    full: Melita Hajdinjak
+    id: melita-hajdinjak
+    last: Hajdinjak
+  - first: France
+    full: France Mihelic
+    id: france-mihelic
+    last: Mihelic
+  author_string: Melita Hajdinjak, France Mihelic
+  bibkey: hajdinjak-mihelic-2006-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  doi: 10.1162/coli.2006.32.2.263
+  page_first: '263'
+  page_last: '272'
+  pages: "263\u2013272"
+  paper_id: '4'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2004.jpg
+  title: 'Squibs: The PARADISE Evaluation Framework: Issues and Findings'
+  title_html: '<span class="acl-fixed-case">S</span>quibs: The <span class="acl-fixed-case">PARADISE</span>
+    Evaluation Framework: Issues and Findings'
+  url: https://www.aclweb.org/anthology/J06-2004
+  year: '2006'
+J06-2005:
+  author:
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  author_string: Roberto Navigli
+  bibkey: navigli-2006-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  doi: 10.1162/coli.2006.32.2.273
+  page_first: '273'
+  page_last: '281'
+  pages: "273\u2013281"
+  paper_id: '5'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2005.jpg
+  title: 'Squibs: Consistent Validation of Manual and Automatic Sense Annotations
+    with the Aid of Semantic Graphs'
+  title_html: '<span class="acl-fixed-case">S</span>quibs: Consistent Validation of
+    Manual and Automatic Sense Annotations with the Aid of Semantic Graphs'
+  url: https://www.aclweb.org/anthology/J06-2005
+  year: '2006'
+J06-2006:
+  author:
+  - first: Francis Jeffry
+    full: Francis Jeffry Pelletier
+    id: francis-jeffry-pelletier
+    last: Pelletier
+  author_string: Francis Jeffry Pelletier
+  bibkey: pelletier-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  paper_id: '6'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2006.jpg
+  title: 'Book Reviews: Representation and Inference for Natural Language: A First
+    Course in Computational Semantics, by Patrick Blackburn and Johan Bos'
+  title_html: 'Book Reviews: Representation and Inference for Natural Language: A
+    First Course in Computational Semantics, by Patrick Blackburn and Johan Bos'
+  url: https://www.aclweb.org/anthology/J06-2006
+  year: '2006'
+J06-2007:
+  author:
+  - first: Tony Berber
+    full: Tony Berber Sardinha
+    id: tony-berber-sardinha
+    last: Sardinha
+  author_string: Tony Berber Sardinha
+  bibkey: sardinha-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  paper_id: '7'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2007.jpg
+  title: 'Book Reviews: Building Coherence and Cohesion: Task-oriented Dialogue in
+    English and Spanish, by Maria Teresa Taboada'
+  title_html: 'Book Reviews: Building Coherence and Cohesion: Task-oriented Dialogue
+    in <span class="acl-fixed-case">E</span>nglish and <span class="acl-fixed-case">S</span>panish,
+    by Maria Teresa Taboada'
+  url: https://www.aclweb.org/anthology/J06-2007
+  year: '2006'
+J06-2008:
+  bibkey: nn-2006-briefly
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  paper_id: '8'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2008.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J06-2008
+  year: '2006'
+J06-2009:
+  bibkey: nn-2006-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 2, June 2006
+  paper_id: '9'
+  parent_volume_id: J06-2
+  pdf: https://www.aclweb.org/anthology/J06-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-2009.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J06-2009
+  year: '2006'
+J06-3000:
+  bibkey: cl-2006-linguistics-32-number
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '0'
+  parent_volume_id: J06-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3000.jpg
+  title: Computational Linguistics, Volume 32, Number 3, September 2006
+  title_html: Computational Linguistics, Volume 32, Number 3, September 2006
+  year: '2006'
+J06-3001:
+  author:
+  - first: Christoph
+    full: Christoph Ringlstetter
+    id: christoph-ringlstetter
+    last: Ringlstetter
+  - first: Klaus U.
+    full: Klaus U. Schulz
+    id: klaus-u-schulz
+    last: Schulz
+  - first: Stoyan
+    full: Stoyan Mihov
+    id: stoyan-mihov
+    last: Mihov
+  author_string: Christoph Ringlstetter, Klaus U. Schulz, Stoyan Mihov
+  bibkey: ringlstetter-etal-2006-orthographic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  doi: 10.1162/coli.2006.32.3.295
+  page_first: '295'
+  page_last: '340'
+  pages: "295\u2013340"
+  paper_id: '1'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3001.jpg
+  title: 'Orthographic Errors in Web Pages: Toward Cleaner Web Corpora'
+  title_html: 'Orthographic Errors in Web Pages: Toward Cleaner Web Corpora'
+  url: https://www.aclweb.org/anthology/J06-3001
+  year: '2006'
+J06-3002:
+  author:
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  - first: Eva Esteve
+    full: Eva Esteve Ferrer
+    id: eva-esteve-ferrer
+    last: Ferrer
+  author_string: Paola Merlo, Eva Esteve Ferrer
+  bibkey: merlo-ferrer-2006-notion
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  doi: 10.1162/coli.2006.32.3.341
+  page_first: '341'
+  page_last: '378'
+  pages: "341\u2013378"
+  paper_id: '2'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3002.jpg
+  title: The Notion of Argument in Prepositional Phrase Attachment
+  title_html: The Notion of Argument in Prepositional Phrase Attachment
+  url: https://www.aclweb.org/anthology/J06-3002
+  year: '2006'
+J06-3003:
+  author:
+  - first: Peter D.
+    full: Peter D. Turney
+    id: peter-turney
+    last: Turney
+  author_string: Peter D. Turney
+  bibkey: turney-2006-similarity
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  doi: 10.1162/coli.2006.32.3.379
+  page_first: '379'
+  page_last: '416'
+  pages: "379\u2013416"
+  paper_id: '3'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3003.jpg
+  title: Similarity of Semantic Relations
+  title_html: Similarity of Semantic Relations
+  url: https://www.aclweb.org/anthology/J06-3003
+  year: '2006'
+J06-3004:
+  author:
+  - first: Diane
+    full: Diane Litman
+    id: diane-litman
+    last: Litman
+  - first: Marc
+    full: Marc Swerts
+    id: marc-swerts
+    last: Swerts
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  author_string: Diane Litman, Marc Swerts, Julia Hirschberg
+  bibkey: litman-etal-2006-characterizing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  doi: 10.1162/coli.2006.32.3.417
+  page_first: '417'
+  page_last: '438'
+  pages: "417\u2013438"
+  paper_id: '4'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3004.jpg
+  title: Characterizing and Predicting Corrections in Spoken Dialogue Systems
+  title_html: Characterizing and Predicting Corrections in Spoken Dialogue Systems
+  url: https://www.aclweb.org/anthology/J06-3004
+  year: '2006'
+J06-3005:
+  author:
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  author_string: Stefan Riezler
+  bibkey: riezler-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '5'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3005.jpg
+  title: 'Book Reviews: New Developments in Parsing Technology, edited by Harry Bunt,
+    John Carroll and Giorgio Satta'
+  title_html: 'Book Reviews: New Developments in Parsing Technology, edited by Harry
+    Bunt, John <span class="acl-fixed-case">C</span>arroll and Giorgio <span class="acl-fixed-case">S</span>atta'
+  url: https://www.aclweb.org/anthology/J06-3005
+  year: '2006'
+J06-3006:
+  author:
+  - first: Anna
+    full: Anna Feldman
+    id: anna-feldman
+    last: Feldman
+  author_string: Anna Feldman
+  bibkey: feldman-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '6'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3006.jpg
+  title: 'Book Reviews: Computational Linguistics: Models, Resources, Applications,
+    edited by Igor A. Bolshakov and Alexander Gelbukh'
+  title_html: 'Book Reviews: Computational Linguistics: Models, Resources, Applications,
+    edited by Igor A. Bolshakov and Alexander Gelbukh'
+  url: https://www.aclweb.org/anthology/J06-3006
+  year: '2006'
+J06-3007:
+  author:
+  - first: Patrick
+    full: Patrick Blackburn
+    id: patrick-blackburn
+    last: Blackburn
+  author_string: Patrick Blackburn
+  bibkey: blackburn-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '7'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3007.jpg
+  title: 'Book Reviews: The Language of Time: A Reader, edited by Inderjeet Mani,
+    James Pustejovsky and Rob Gaizauskas'
+  title_html: 'Book Reviews: The Language of Time: A Reader, edited by Inderjeet Mani,
+    <span class="acl-fixed-case">J</span>ames <span class="acl-fixed-case">P</span>ustejovsky
+    and Rob Gaizauskas'
+  url: https://www.aclweb.org/anthology/J06-3007
+  year: '2006'
+J06-3008:
+  author:
+  - first: Karin
+    full: Karin Kipper
+    id: karin-kipper
+    last: Kipper
+  author_string: Karin Kipper
+  bibkey: kipper-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '8'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3008.jpg
+  title: 'Book Reviews: Argument Realization, by Beth Levin and Malka Rappaport Hovav'
+  title_html: 'Book Reviews: Argument Realization, by Beth Levin and Malka Rappaport
+    Hovav'
+  url: https://www.aclweb.org/anthology/J06-3008
+  year: '2006'
+J06-3009:
+  bibkey: nn-2006-briefly-noted
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '9'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3009.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J06-3009
+  year: '2006'
+J06-3010:
+  bibkey: nn-2006-publications-received
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '10'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3010.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J06-3010
+  year: '2006'
+J06-3011:
+  bibkey: nn-2006-errata
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 3, September 2006
+  paper_id: '11'
+  parent_volume_id: J06-3
+  pdf: https://www.aclweb.org/anthology/J06-3011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-3011.jpg
+  title: Errata
+  title_html: Errata
+  url: https://www.aclweb.org/anthology/J06-3011
+  year: '2006'
+J06-4000:
+  bibkey: cl-2006-linguistics-32-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '0'
+  parent_volume_id: J06-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4000.jpg
+  title: Computational Linguistics, Volume 32, Number 4, December 2006
+  title_html: Computational Linguistics, Volume 32, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2006
+  year: '2006'
+J06-4001:
+  author:
+  - first: Eva
+    full: Eva Hajicova
+    id: eva-hajicova
+    last: Hajicova
+  author_string: Eva Hajicova
+  bibkey: hajicova-2006-acl
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  doi: 10.1162/coli.2006.32.4.457
+  page_first: '457'
+  page_last: '469'
+  pages: "457\u2013469"
+  paper_id: '1'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4001.jpg
+  title: 'ACL Lifetime Achievement Award: Old Linguists Never Die, They Only Get Obligatorily
+    Deleted'
+  title_html: '<span class="acl-fixed-case">ACL</span> Lifetime Achievement Award:
+    Old Linguists Never Die, They Only Get Obligatorily Deleted'
+  url: https://www.aclweb.org/anthology/J06-4001
+  year: '2006'
+J06-4002:
+  author:
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Mirella Lapata
+  bibkey: lapata-2006-automatic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  doi: 10.1162/coli.2006.32.4.471
+  page_first: '471'
+  page_last: '484'
+  pages: "471\u2013484"
+  paper_id: '2'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4002.jpg
+  title: "Automatic Evaluation of Information Ordering: Kendall\u2019s Tau"
+  title_html: "Automatic Evaluation of Information Ordering: Kendall\u2019s Tau"
+  url: https://www.aclweb.org/anthology/J06-4002
+  year: '2006'
+J06-4003:
+  author:
+  - first: Tibor
+    full: Tibor Kiss
+    id: tibor-kiss
+    last: Kiss
+  - first: Jan
+    full: Jan Strunk
+    id: jan-strunk
+    last: Strunk
+  author_string: Tibor Kiss, Jan Strunk
+  bibkey: kiss-strunk-2006-unsupervised
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  doi: 10.1162/coli.2006.32.4.485
+  page_first: '485'
+  page_last: '525'
+  pages: "485\u2013525"
+  paper_id: '3'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4003.jpg
+  title: Unsupervised Multilingual Sentence Boundary Detection
+  title_html: Unsupervised Multilingual Sentence Boundary Detection
+  url: https://www.aclweb.org/anthology/J06-4003
+  year: '2006'
+J06-4004:
+  author:
+  - first: "Jos\xE9"
+    full: "Jos\xE9 Mari\xF1o"
+    id: jose-b-marino
+    last: "Mari\xF1o"
+  - first: Rafael E.
+    full: Rafael E. Banchs
+    id: rafael-e-banchs
+    last: Banchs
+  - first: Josep M.
+    full: Josep M. Crego
+    id: josep-m-crego
+    last: Crego
+  - first: "Adri\xE0"
+    full: "Adri\xE0 de Gispert"
+    id: adria-de-gispert
+    last: de Gispert
+  - first: Patrik
+    full: Patrik Lambert
+    id: patrik-lambert
+    last: Lambert
+  - first: "Jos\xE9 A. R."
+    full: "Jos\xE9 A. R. Fonollosa"
+    id: jose-a-r-fonollosa
+    last: Fonollosa
+  - first: Marta R.
+    full: "Marta R. Costa-juss\xE0"
+    id: marta-r-costa-jussa
+    last: "Costa-juss\xE0"
+  author_string: "Jos\xE9 Mari\xF1o, Rafael E. Banchs, Josep M. Crego, Adri\xE0 de\
+    \ Gispert, Patrik Lambert, Jos\xE9 A. R. Fonollosa, Marta R. Costa-juss\xE0"
+  bibkey: marino-etal-2006-n
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  doi: 10.1162/coli.2006.32.4.527
+  page_first: '527'
+  page_last: '549'
+  pages: "527\u2013549"
+  paper_id: '4'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4004.jpg
+  title: N-gram-based Machine Translation
+  title_html: N-gram-based Machine Translation
+  url: https://www.aclweb.org/anthology/J06-4004
+  year: '2006'
+J06-4005:
+  author:
+  - first: John F.
+    full: John F. Sowa
+    id: john-f-sowa
+    last: Sowa
+  author_string: John F. Sowa
+  bibkey: sowa-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '5'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4005.jpg
+  title: 'Book Review: Language, Cohesion and Form, by Margaret Masterman'
+  title_html: 'Book Review: Language, Cohesion and Form, by Margaret Masterman'
+  url: https://www.aclweb.org/anthology/J06-4005
+  year: '2006'
+J06-4006:
+  author:
+  - first: Pamela
+    full: Pamela Jordan
+    id: pamela-jordan
+    last: Jordan
+  author_string: Pamela Jordan
+  bibkey: jordan-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '6'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4006.jpg
+  title: 'Book Review: One-on-One Tutoring by Humans and Computers, by Martha Evens
+    and Joel Michael'
+  title_html: 'Book Review: One-on-One Tutoring by Humans and Computers, by Martha
+    Evens and Joel <span class="acl-fixed-case">M</span>ichael'
+  url: https://www.aclweb.org/anthology/J06-4006
+  year: '2006'
+J06-4007:
+  author:
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  author_string: "Sandra K\xFCbler"
+  bibkey: kubler-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '7'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4007.jpg
+  title: 'Book Review: Memory-Based Language Processing, by Walter Daelemans and Antal
+    van den Bosch'
+  title_html: 'Book Review: Memory-Based Language Processing, by Walter Daelemans
+    and Antal van den Bosch'
+  url: https://www.aclweb.org/anthology/J06-4007
+  year: '2006'
+J06-4008:
+  author:
+  - first: Nicola
+    full: Nicola Stokes
+    id: nicola-stokes
+    last: Stokes
+  author_string: Nicola Stokes
+  bibkey: stokes-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '8'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4008.jpg
+  title: 'Book Review: TREC: Experiment and Evaluation in Information Retrieval, edited
+    by Ellen M. Voorhees and Donna K. Harman'
+  title_html: 'Book Review: <span class="acl-fixed-case">TREC</span>: Experiment and
+    Evaluation in Information Retrieval, edited by Ellen M. <span class="acl-fixed-case">V</span>oorhees
+    and Donna K. Harman'
+  url: https://www.aclweb.org/anthology/J06-4008
+  year: '2006'
+J06-4009:
+  author:
+  - first: Christopher
+    full: Christopher Brewster
+    id: christopher-brewster
+    last: Brewster
+  author_string: Christopher Brewster
+  bibkey: brewster-2006-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '9'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4009.jpg
+  title: 'Book Review: Ontology Learning from Text: Methods, Evaluation and Applications,
+    edited by Paul Buitelaar, Philipp Cimiano and Bernado Magnini'
+  title_html: 'Book Review: Ontology Learning from Text: Methods, Evaluation and Applications,
+    edited by <span class="acl-fixed-case">P</span>aul Buitelaar, Philipp Cimiano
+    and Bernado Magnini'
+  url: https://www.aclweb.org/anthology/J06-4009
+  year: '2006'
+J06-4010:
+  bibkey: nn-2006-briefly-noted-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '10'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4010.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J06-4010
+  year: '2006'
+J06-4011:
+  bibkey: nn-2006-publications-received-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '11'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4011.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J06-4011
+  year: '2006'
+J06-4012:
+  author:
+  - first: Annie
+    full: Annie Zaenen
+    id: annie-zaenen
+    last: Zaenen
+  author_string: Annie Zaenen
+  bibkey: zaenen-2006-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  doi: 10.1162/coli.2006.32.4.577
+  page_first: '577'
+  page_last: '580'
+  pages: "577\u2013580"
+  paper_id: '12'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4012.jpg
+  title: 'Last Words: Mark-up Barking Up the Wrong Tree'
+  title_html: 'Last Words: Mark-up Barking Up the Wrong Tree'
+  url: https://www.aclweb.org/anthology/J06-4012
+  year: '2006'
+J06-4013:
+  bibkey: nn-2006-reviewers
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '13'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4013.jpg
+  title: Reviewers for Volume 32
+  title_html: Reviewers for Volume 32
+  url: https://www.aclweb.org/anthology/J06-4013
+  year: '2006'
+J06-4014:
+  bibkey: nn-2006-errata-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 32, Number 4, December 2006
+  paper_id: '14'
+  parent_volume_id: J06-4
+  pdf: https://www.aclweb.org/anthology/J06-4014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J06-4014.jpg
+  title: Errata
+  title_html: Errata
+  url: https://www.aclweb.org/anthology/J06-4014
+  year: '2006'

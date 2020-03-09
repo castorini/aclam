@@ -1,0 +1,1478 @@
+Y02-1000:
+  address: Jeju, Korea
+  author:
+  - first: Ik-Hwan
+    full: Ik-Hwan Lee
+    id: ik-hwan-lee
+    last: Lee
+  - first: Yong-Beom
+    full: Yong-Beom Kim
+    id: yong-beom-kim
+    last: Kim
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  - first: Minhaeng
+    full: Minhaeng Lee
+    id: minhaeng-lee
+    last: Lee
+  author_string: Ik-Hwan Lee, Yong-Beom Kim, Key-Sun Choi, Minhaeng Lee
+  bibkey: paclic-2001-pacific
+  bibtype: proceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  month: January/February
+  paper_id: '0'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1000.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1000.jpg
+  title: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  title_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  url: https://www.aclweb.org/anthology/Y02-1000
+  year: '2001'
+Y02-1001:
+  address: Jeju, Korea
+  author:
+  - first: Erhard W.
+    full: Erhard W. Hinrichs
+    id: erhard-hinrichs
+    last: Hinrichs
+  author_string: Erhard W. Hinrichs
+  bibkey: hinrichs-2001-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12215
+  month: January/February
+  page_first: '1'
+  page_last: '1'
+  pages: "1\u20131"
+  paper_id: '1'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1001.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1001.jpg
+  title: Robust Syntactic Annotation of Corpora and Memory-based Parsing
+  title_html: Robust Syntactic Annotation of Corpora and Memory-based Parsing
+  url: https://www.aclweb.org/anthology/Y02-1001
+  year: '2001'
+Y02-1002:
+  address: Jeju, Korea
+  author:
+  - first: Kiyong
+    full: Kiyong Lee
+    id: kiyong-lee
+    last: Lee
+  author_string: Kiyong Lee
+  bibkey: lee-2001-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12226
+  month: January/February
+  page_first: '2'
+  page_last: '27'
+  pages: "2\u201327"
+  paper_id: '2'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1002.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1002.jpg
+  title: A Simple Syntax for Complex Semantics
+  title_html: A Simple Syntax for Complex Semantics
+  url: https://www.aclweb.org/anthology/Y02-1002
+  year: '2001'
+Y02-1003:
+  address: Jeju, Korea
+  author:
+  - first: Lawrence
+    full: Lawrence Cheung
+    id: lawrence-cheung
+    last: Cheung
+  - first: Benjamin K.
+    full: Benjamin K. Tsou
+    id: benjamin-k-tsou
+    last: Tsou
+  - first: Maosong
+    full: Maosong Sun
+    id: maosong-sun
+    last: Sun
+  author_string: Lawrence Cheung, Benjamin K. Tsou, Maosong Sun
+  bibkey: cheung-etal-2001-identification
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12234
+  month: January/February
+  page_first: '28'
+  page_last: '35'
+  pages: "28\u201335"
+  paper_id: '3'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1003.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1003.jpg
+  title: Identification of Chinese Personal Names in Unrestricted Texts
+  title_html: Identification of <span class="acl-fixed-case">C</span>hinese Personal
+    Names in Unrestricted Texts
+  url: https://www.aclweb.org/anthology/Y02-1003
+  year: '2001'
+Y02-1004:
+  address: Jeju, Korea
+  author:
+  - first: Chan
+    full: Chan Chung
+    id: chan-chung
+    last: Chung
+  - first: Jong-Bok
+    full: Jong-Bok Kim
+    id: jong-bok-kim
+    last: Kim
+  author_string: Chan Chung, Jong-Bok Kim
+  bibkey: chung-kim-2001-mismatches
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12243
+  month: January/February
+  page_first: '36'
+  page_last: '49'
+  pages: "36\u201349"
+  paper_id: '4'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1004.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1004.jpg
+  title: Mismatches in Korean Copula Constructions and Linearization Effects
+  title_html: Mismatches in <span class="acl-fixed-case">K</span>orean Copula Constructions
+    and Linearization Effects
+  url: https://www.aclweb.org/anthology/Y02-1004
+  year: '2001'
+Y02-1005:
+  address: Jeju, Korea
+  author:
+  - first: Euisok
+    full: Euisok Chung
+    id: euisok-chung
+    last: Chung
+  - first: Soojong
+    full: Soojong Lim
+    id: soojong-lim
+    last: Lim
+  - first: Bo-Hyun
+    full: Bo-Hyun Yun
+    id: bo-hyun-yun
+    last: Yun
+  author_string: Euisok Chung, Soojong Lim, Bo-Hyun Yun
+  bibkey: chung-etal-2001-heuristic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12254
+  month: January/February
+  page_first: '50'
+  page_last: '58'
+  pages: "50\u201358"
+  paper_id: '5'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1005.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1005.jpg
+  title: Heuristic-based Korean Coreference Resolution for Information Extraction
+  title_html: Heuristic-based <span class="acl-fixed-case">K</span>orean Coreference
+    Resolution for Information Extraction
+  url: https://www.aclweb.org/anthology/Y02-1005
+  year: '2001'
+Y02-1006:
+  address: Jeju, Korea
+  author:
+  - first: Chung-hye
+    full: Chung-hye Han
+    id: chung-hye-han
+    last: Han
+  - first: Chung-min
+    full: Chung-min Lee
+    id: chungmin-lee
+    last: Lee
+  author_string: Chung-hye Han, Chung-min Lee
+  bibkey: han-lee-2001-negative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12255
+  month: January/February
+  page_first: '59'
+  page_last: '68'
+  pages: "59\u201368"
+  paper_id: '6'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1006.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1006.jpg
+  title: On Negative Imperatives in Korean
+  title_html: On Negative Imperatives in <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y02-1006
+  year: '2001'
+Y02-1007:
+  address: Jeju, Korea
+  author:
+  - first: Chung-hye
+    full: Chung-hye Han
+    id: chung-hye-han
+    last: Han
+  - first: Na-Rae
+    full: Na-Rae Han
+    id: na-rae-han
+    last: Han
+  - first: Eon-Suk
+    full: Eon-Suk Ko
+    id: eon-suk-ko
+    last: Ko
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  - first: Heejong
+    full: Heejong Yi
+    id: heejong-yi
+    last: Yi
+  author_string: Chung-hye Han, Na-Rae Han, Eon-Suk Ko, Martha Palmer, Heejong Yi
+  bibkey: han-etal-2001-penn
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12256
+  month: January/February
+  page_first: '69'
+  page_last: '78'
+  pages: "69\u201378"
+  paper_id: '7'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1007.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1007.jpg
+  title: 'Penn Korean Treebank : Development and Evaluation'
+  title_html: '<span class="acl-fixed-case">P</span>enn <span class="acl-fixed-case">K</span>orean
+    Treebank : Development and Evaluation'
+  url: https://www.aclweb.org/anthology/Y02-1007
+  year: '2001'
+Y02-1008:
+  address: Jeju, Korea
+  author:
+  - first: Dongli
+    full: Dongli Han
+    id: dongli-han
+    last: Han
+  - first: Takeshi
+    full: Takeshi Ito
+    id: takeshi-ito
+    last: Ito
+  - first: Teiji
+    full: Teiji Furugori
+    id: teiji-furugori
+    last: Furugori
+  author_string: Dongli Han, Takeshi Ito, Teiji Furugori
+  bibkey: han-etal-2001-deterministic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12257
+  month: January/February
+  page_first: '79'
+  page_last: '91'
+  pages: "79\u201391"
+  paper_id: '8'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1008.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1008.jpg
+  title: A Deterministic Method for Structural Analysis of Compound Words in Japanese
+  title_html: A Deterministic Method for Structural Analysis of Compound Words in
+    <span class="acl-fixed-case">J</span>apanese
+  url: https://www.aclweb.org/anthology/Y02-1008
+  year: '2001'
+Y02-1009:
+  address: Jeju, Korea
+  author:
+  - first: Akira
+    full: Akira Ikeya
+    id: akira-ikeya
+    last: Ikeya
+  - first: Hisako
+    full: Hisako Ikawa
+    id: hisako-ikawa
+    last: Ikawa
+  author_string: Akira Ikeya, Hisako Ikawa
+  bibkey: ikeya-ikawa-2001-implicit
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12258
+  month: January/February
+  page_first: '92'
+  page_last: '102'
+  pages: "92\u2013102"
+  paper_id: '9'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1009.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1009.jpg
+  title: 'Implicit Adjuncts : The Cases of Degree Modifiers in Japanese and English'
+  title_html: 'Implicit Adjuncts : The Cases of Degree Modifiers in <span class="acl-fixed-case">J</span>apanese
+    and <span class="acl-fixed-case">E</span>nglish'
+  url: https://www.aclweb.org/anthology/Y02-1009
+  year: '2001'
+Y02-1010:
+  address: Jeju, Korea
+  author:
+  - first: Seohyun
+    full: Seohyun Im
+    id: seohyun-im
+    last: Im
+  - first: Chungmin
+    full: Chungmin Lee
+    id: chungmin-lee
+    last: Lee
+  author_string: Seohyun Im, Chungmin Lee
+  bibkey: im-lee-2001-type
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12216
+  month: January/February
+  page_first: '103'
+  page_last: '112'
+  pages: "103\u2013112"
+  paper_id: '10'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1010.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1010.jpg
+  title: "Type Construction of Nouns with the Verb ha- \u2018do\u2019"
+  title_html: "Type Construction of Nouns with the Verb ha- \u2018do\u2019"
+  url: https://www.aclweb.org/anthology/Y02-1010
+  year: '2001'
+Y02-1011:
+  address: Jeju, Korea
+  author:
+  - first: Akira
+    full: Akira Ishikawa
+    id: akira-ishikawa
+    last: Ishikawa
+  author_string: Akira Ishikawa
+  bibkey: ishikawa-2001-event
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12217
+  month: January/February
+  page_first: '113'
+  page_last: '122'
+  pages: "113\u2013122"
+  paper_id: '11'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1011.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1011.jpg
+  title: An Event-Based Semantics for Japanese Emphatic Particles
+  title_html: An Event-Based Semantics for <span class="acl-fixed-case">J</span>apanese
+    Emphatic Particles
+  url: https://www.aclweb.org/anthology/Y02-1011
+  year: '2001'
+Y02-1012:
+  address: Jeju, Korea
+  author:
+  - first: Youngjun
+    full: Youngjun Jang
+    id: youngjun-jang
+    last: Jang
+  author_string: Youngjun Jang
+  bibkey: jang-2001-small
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12218
+  month: January/February
+  page_first: '123'
+  page_last: '134'
+  pages: "123\u2013134"
+  paper_id: '12'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1012.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1012.jpg
+  title: Small Clauses and Default Case
+  title_html: Small Clauses and Default Case
+  url: https://www.aclweb.org/anthology/Y02-1012
+  year: '2001'
+Y02-1013:
+  address: Jeju, Korea
+  author:
+  - first: Eungyeong
+    full: Eungyeong Kang
+    id: eungyeong-kang
+    last: Kang
+  author_string: Eungyeong Kang
+  bibkey: kang-2001-edge
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12219
+  month: January/February
+  page_first: '135'
+  page_last: '146'
+  pages: "135\u2013146"
+  paper_id: '13'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1013.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1013.jpg
+  title: Edge-Integrity and the Syllable Structure in Korean
+  title_html: Edge-Integrity and the Syllable Structure in <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y02-1013
+  year: '2001'
+Y02-1014:
+  address: Jeju, Korea
+  author:
+  - first: Sue J.
+    full: Sue J. Ker
+    id: sue-j-ker
+    last: Ker
+  - first: Chun-Hsien
+    full: Chun-Hsien Lin
+    id: chun-hsien-lin
+    last: Lin
+  author_string: Sue J. Ker, Chun-Hsien Lin
+  bibkey: ker-lin-2001-alignment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12220
+  month: January/February
+  page_first: '147'
+  page_last: '156'
+  pages: "147\u2013156"
+  paper_id: '14'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1014.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1014.jpg
+  title: An Alignment Based Technique for Text Translation between Traditional Chinese
+    and Simplified Chinese
+  title_html: An Alignment Based Technique for Text Translation between Traditional
+    <span class="acl-fixed-case">C</span>hinese and Simplified <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/Y02-1014
+  year: '2001'
+Y02-1015:
+  address: Jeju, Korea
+  author:
+  - first: Changhyun
+    full: Changhyun Kim
+    id: chang-hyun-kim
+    last: Kim
+  - first: Young Kil
+    full: Young Kil Kim
+    id: young-gil-kim
+    last: Kim
+  - first: Munpyo
+    full: Munpyo Hong
+    id: munpyo-hong
+    last: Hong
+  - first: Young Ae
+    full: Young Ae Seo
+    id: young-ae-seo
+    last: Seo
+  - first: Sung Il
+    full: Sung Il Yang
+    id: sung-il-yang
+    last: Yang
+  - first: Sung-Kwon
+    full: Sung-Kwon Choi
+    id: sung-kwon-choi
+    last: Choi
+  author_string: Changhyun Kim, Young Kil Kim, Munpyo Hong, Young Ae Seo, Sung Il
+    Yang, Sung-Kwon Choi
+  bibkey: kim-etal-2001-verb
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12221
+  month: January/February
+  page_first: '157'
+  page_last: '165'
+  pages: "157\u2013165"
+  paper_id: '15'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1015.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1015.jpg
+  title: Verb Pattern Based Korean-Chinese Machine Translation System
+  title_html: Verb Pattern Based <span class="acl-fixed-case">K</span>orean-<span
+    class="acl-fixed-case">C</span>hinese Machine Translation System
+  url: https://www.aclweb.org/anthology/Y02-1015
+  year: '2001'
+Y02-1016:
+  address: Jeju, Korea
+  author:
+  - first: Jun-Su
+    full: Jun-Su Kim
+    id: jun-su-kim
+    last: Kim
+  - first: Wang-Woo
+    full: Wang-Woo Lee
+    id: wang-woo-lee
+    last: Lee
+  - first: Chang-Hwan
+    full: Chang-Hwan Kim
+    id: chang-hwan-kim
+    last: Kim
+  - first: Cheol-young
+    full: Cheol-young Ock
+    id: cheol-young-ock
+    last: Ock
+  author_string: Jun-Su Kim, Wang-Woo Lee, Chang-Hwan Kim, Cheol-young Ock
+  bibkey: kim-etal-2001-korean
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12222
+  month: January/February
+  page_first: '166'
+  page_last: '176'
+  pages: "166\u2013176"
+  paper_id: '16'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1016.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1016.jpg
+  title: A Korean Homonym Disambiguation System Based on Statistical Model Using Weights
+  title_html: A <span class="acl-fixed-case">K</span>orean Homonym Disambiguation
+    System Based on Statistical Model Using Weights
+  url: https://www.aclweb.org/anthology/Y02-1016
+  year: '2001'
+Y02-1017:
+  address: Jeju, Korea
+  author:
+  - first: Soora
+    full: Soora Kim
+    id: soora-kim
+    last: Kim
+  author_string: Soora Kim
+  bibkey: kim-2001-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12223
+  month: January/February
+  page_first: '177'
+  page_last: '186'
+  pages: "177\u2013186"
+  paper_id: '17'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1017.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1017.jpg
+  title: Analysis of Korean Predicative Verb Forms in LAG Framework
+  title_html: Analysis of <span class="acl-fixed-case">K</span>orean Predicative Verb
+    Forms in <span class="acl-fixed-case">LAG</span> Framework
+  url: https://www.aclweb.org/anthology/Y02-1017
+  year: '2001'
+Y02-1018:
+  address: Jeju, Korea
+  author:
+  - first: Yong-Beom
+    full: Yong-Beom Kim
+    id: yong-beom-kim
+    last: Kim
+  author_string: Yong-Beom Kim
+  bibkey: kim-2001-concession
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12224
+  month: January/February
+  page_first: '187'
+  page_last: '194'
+  pages: "187\u2013194"
+  paper_id: '18'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1018.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1018.jpg
+  title: Concession and Linguistic Inference
+  title_html: Concession and Linguistic Inference
+  url: https://www.aclweb.org/anthology/Y02-1018
+  year: '2001'
+Y02-1019:
+  address: Jeju, Korea
+  author:
+  - first: Yoon-shin
+    full: Yoon-shin Kim
+    id: yoon-shin-kim
+    last: Kim
+  author_string: Yoon-shin Kim
+  bibkey: kim-2001-morphological
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12225
+  month: January/February
+  page_first: '195'
+  page_last: '204'
+  pages: "195\u2013204"
+  paper_id: '19'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1019.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1019.jpg
+  title: Morphological Passivization and the Change of Lexical-Semantic Structures
+    in Korean
+  title_html: Morphological Passivization and the Change of Lexical-Semantic Structures
+    in <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y02-1019
+  year: '2001'
+Y02-1020:
+  address: Jeju, Korea
+  author:
+  - first: Youngsun
+    full: Youngsun Kim
+    id: youngsun-kim
+    last: Kim
+  author_string: Youngsun Kim
+  bibkey: kim-2001-phase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12227
+  month: January/February
+  page_first: '205'
+  page_last: '216'
+  pages: "205\u2013216"
+  paper_id: '20'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1020.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1020.jpg
+  title: A Phase-based Approach to ECM across CP in Korean
+  title_html: A Phase-based Approach to <span class="acl-fixed-case">ECM</span> across
+    <span class="acl-fixed-case">CP</span> in <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y02-1020
+  year: '2001'
+Y02-1021:
+  address: Jeju, Korea
+  author:
+  - first: Takeyuki
+    full: Takeyuki Kojima
+    id: takeyuki-kojima
+    last: Kojima
+  - first: Yoshiyuki
+    full: Yoshiyuki Kotani
+    id: yoshiyuki-kotani
+    last: Kotani
+  author_string: Takeyuki Kojima, Yoshiyuki Kotani
+  bibkey: kojima-kotani-2001-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12228
+  month: January/February
+  page_first: '217'
+  page_last: '226'
+  pages: "217\u2013226"
+  paper_id: '21'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1021.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1021.jpg
+  title: Generating a Category Set of Words Using a Hierarchical Part-of-Speech System
+    and Tagged Corpus
+  title_html: Generating a Category Set of Words Using a Hierarchical Part-of-Speech
+    System and Tagged Corpus
+  url: https://www.aclweb.org/anthology/Y02-1021
+  year: '2001'
+Y02-1022:
+  address: Jeju, Korea
+  author:
+  - first: Yoshiyuki
+    full: Yoshiyuki Kotani
+    id: yoshiyuki-kotani
+    last: Kotani
+  author_string: Yoshiyuki Kotani
+  bibkey: kotani-2001-disambiguation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12229
+  month: January/February
+  page_first: '227'
+  page_last: '236'
+  pages: "227\u2013236"
+  paper_id: '22'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1022.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1022.jpg
+  title: Disambiguation of Coordinate Expressions in Japanese by Extracting Mutual
+    Case Relation
+  title_html: Disambiguation of Coordinate Expressions in <span class="acl-fixed-case">J</span>apanese
+    by Extracting Mutual Case Relation
+  url: https://www.aclweb.org/anthology/Y02-1022
+  year: '2001'
+Y02-1023:
+  address: Jeju, Korea
+  author:
+  - first: Masakazu
+    full: Masakazu Kuno
+    id: masakazu-kuno
+    last: Kuno
+  author_string: Masakazu Kuno
+  bibkey: kuno-2001-finite
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12230
+  month: January/February
+  page_first: '237'
+  page_last: '248'
+  pages: "237\u2013248"
+  paper_id: '23'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1023.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1023.jpg
+  title: Finite Small Clauses in Japanese and Their Theoretical Implications
+  title_html: Finite Small Clauses in <span class="acl-fixed-case">J</span>apanese
+    and Their Theoretical Implications
+  url: https://www.aclweb.org/anthology/Y02-1023
+  year: '2001'
+Y02-1024:
+  address: Jeju, Korea
+  author:
+  - first: Oi Yee
+    full: Oi Yee Kwong
+    id: olivia-o-y-kwong
+    last: Kwong
+  author_string: Oi Yee Kwong
+  bibkey: kwong-2001-toward
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12231
+  month: January/February
+  page_first: '249'
+  page_last: '258'
+  pages: "249\u2013258"
+  paper_id: '24'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1024.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1024.jpg
+  title: Toward a Bilingual Legal Term Glossary from Context Profiles
+  title_html: Toward a Bilingual Legal Term Glossary from Context Profiles
+  url: https://www.aclweb.org/anthology/Y02-1024
+  year: '2001'
+Y02-1025:
+  address: Jeju, Korea
+  author:
+  - first: Richard S.
+    full: Richard S. Lavin
+    id: richard-s-lavin
+    last: Lavin
+  author_string: Richard S. Lavin
+  bibkey: lavin-2001-issues
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12232
+  month: January/February
+  page_first: '259'
+  page_last: '270'
+  pages: "259\u2013270"
+  paper_id: '25'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1025.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1025.jpg
+  title: 'Issues in Chinese Prosody : Conceptual Foundations of a Linguistically-Motivated
+    Text-to-Speech System for Mandarin'
+  title_html: 'Issues in <span class="acl-fixed-case">C</span>hinese Prosody : Conceptual
+    Foundations of a Linguistically-Motivated Text-to-Speech System for <span class="acl-fixed-case">M</span>andarin'
+  url: https://www.aclweb.org/anthology/Y02-1025
+  year: '2001'
+Y02-1026:
+  address: Jeju, Korea
+  author:
+  - first: Chun-Jen
+    full: Chun-Jen Lee
+    id: chun-jen-lee
+    last: Lee
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Chun-Jen Lee, Jason S. Chang
+  bibkey: lee-chang-2001-operator
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12233
+  month: January/February
+  page_first: '271'
+  page_last: '280'
+  pages: "271\u2013280"
+  paper_id: '26'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1026.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1026.jpg
+  title: An Operator Assisted Call Routing System
+  title_html: An Operator Assisted Call Routing System
+  url: https://www.aclweb.org/anthology/Y02-1026
+  year: '2001'
+Y02-1027:
+  address: Jeju, Korea
+  author:
+  - first: Hyeran
+    full: Hyeran Lee
+    id: hyeran-lee
+    last: Lee
+  author_string: Hyeran Lee
+  bibkey: lee-2001-backward
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12235
+  month: January/February
+  page_first: '281'
+  page_last: '289'
+  pages: "281\u2013289"
+  paper_id: '27'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1027.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1027.jpg
+  title: Backward Anaphora
+  title_html: Backward Anaphora
+  url: https://www.aclweb.org/anthology/Y02-1027
+  year: '2001'
+Y02-1028:
+  address: Jeju, Korea
+  author:
+  - first: Juho
+    full: Juho Lee
+    id: juho-lee
+    last: Lee
+  - first: Koaunghi
+    full: Koaunghi Un
+    id: koaunghi-un
+    last: Un
+  - first: Hee-Sook
+    full: Hee-Sook Bae
+    id: hee-sook-bae
+    last: Bae
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  author_string: Juho Lee, Koaunghi Un, Hee-Sook Bae, Key-Sun Choi
+  bibkey: lee-etal-2001-korean
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12236
+  month: January/February
+  page_first: '290'
+  page_last: '295'
+  pages: "290\u2013295"
+  paper_id: '28'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1028.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1028.jpg
+  title: A Korean Noun Semantic Hierarchy (Wordnet) Construction
+  title_html: A <span class="acl-fixed-case">K</span>orean Noun Semantic Hierarchy
+    (<span class="acl-fixed-case">W</span>ordnet) Construction
+  url: https://www.aclweb.org/anthology/Y02-1028
+  year: '2001'
+Y02-1029:
+  address: Jeju, Korea
+  author:
+  - first: Yong-hun
+    full: Yong-hun Lee
+    id: yong-hun-lee
+    last: Lee
+  author_string: Yong-hun Lee
+  bibkey: lee-2001-implementation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12237
+  month: January/February
+  page_first: '296'
+  page_last: '307'
+  pages: "296\u2013307"
+  paper_id: '29'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1029.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1029.jpg
+  title: 'Implementation of Long-distance Reflexives in Korean : A Categorial Grammar
+    Approach'
+  title_html: 'Implementation of Long-distance Reflexives in <span class="acl-fixed-case">K</span>orean
+    : A Categorial Grammar Approach'
+  url: https://www.aclweb.org/anthology/Y02-1029
+  year: '2001'
+Y02-1030:
+  address: Jeju, Korea
+  author:
+  - first: Huei-Ling
+    full: Huei-Ling Lin
+    id: huei-ling-lin
+    last: Lin
+  author_string: Huei-Ling Lin
+  bibkey: lin-2001-interface
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12238
+  month: January/February
+  page_first: '308'
+  page_last: '319'
+  pages: "308\u2013319"
+  paper_id: '30'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1030.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1030.jpg
+  title: 'The Interface between Syntax and Morphology : Taiwanese Verbal Complexes'
+  title_html: 'The Interface between Syntax and Morphology : <span class="acl-fixed-case">T</span>aiwanese
+    Verbal Complexes'
+  url: https://www.aclweb.org/anthology/Y02-1030
+  year: '2001'
+Y02-1031:
+  address: Jeju, Korea
+  author:
+  - first: Jen-Yi
+    full: Jen-Yi Lin
+    id: jen-yi-lin
+    last: Lin
+  - first: Chang-Hua
+    full: Chang-Hua Yang
+    id: chang-hua-yang
+    last: Yang
+  - first: Shu-Chuan
+    full: Shu-Chuan Tseng
+    id: shu-chuan-tseng
+    last: Tseng
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  author_string: Jen-Yi Lin, Chang-Hua Yang, Shu-Chuan Tseng, Chu-Ren Huang
+  bibkey: lin-etal-2001-structure
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12239
+  month: January/February
+  page_first: '320'
+  page_last: '329'
+  pages: "320\u2013329"
+  paper_id: '31'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1031.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1031.jpg
+  title: 'The Structure of Polysemy : A Study of Multi-sense Words Based on WordNet'
+  title_html: 'The Structure of Polysemy : A Study of Multi-sense Words Based on <span
+    class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et'
+  url: https://www.aclweb.org/anthology/Y02-1031
+  year: '2001'
+Y02-1032:
+  address: Jeju, Korea
+  author:
+  - first: Yoshiki
+    full: Yoshiki Mori
+    id: yoshiki-mori
+    last: Mori
+  - first: Kei
+    full: Kei Yoshimoto
+    id: kei-yoshimoto
+    last: Yoshimoto
+  author_string: Yoshiki Mori, Kei Yoshimoto
+  bibkey: mori-yoshimoto-2001-quantifier
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12240
+  month: January/February
+  page_first: '330'
+  page_last: '347'
+  pages: "330\u2013347"
+  paper_id: '32'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1032.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1032.jpg
+  title: 'If a Quantifier is not floated, but moored or even incorporated : Complexity
+    of Presuppositions in Local Domain'
+  title_html: 'If a Quantifier is not floated, but moored or even incorporated : Complexity
+    of Presuppositions in Local Domain'
+  url: https://www.aclweb.org/anthology/Y02-1032
+  year: '2001'
+Y02-1033:
+  address: Jeju, Korea
+  author:
+  - first: Tetsuharu
+    full: Tetsuharu Moriya
+    id: tetsuharu-moriya
+    last: Moriya
+  - first: Kaoru
+    full: Kaoru Horie
+    id: kaoru-horie
+    last: Horie
+  author_string: Tetsuharu Moriya, Kaoru Horie
+  bibkey: moriya-horie-2001-grammaticalization
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12241
+  month: January/February
+  page_first: '348'
+  page_last: '357'
+  pages: "348\u2013357"
+  paper_id: '33'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1033.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1033.jpg
+  title: 'Grammaticalization and Semantic Typology : Time-relationship Adverbs in
+    Japanese, Korean, English and German'
+  title_html: 'Grammaticalization and Semantic Typology : Time-relationship Adverbs
+    in <span class="acl-fixed-case">J</span>apanese, <span class="acl-fixed-case">K</span>orean,
+    <span class="acl-fixed-case">E</span>nglish and <span class="acl-fixed-case">G</span>erman'
+  url: https://www.aclweb.org/anthology/Y02-1033
+  year: '2001'
+Y02-1034:
+  address: Jeju, Korea
+  author:
+  - first: Hiroaki
+    full: Hiroaki Nakamura
+    id: hiroaki-nakamura
+    last: Nakamura
+  author_string: Hiroaki Nakamura
+  bibkey: nakamura-2001-double
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12242
+  month: January/February
+  page_first: '358'
+  page_last: '369'
+  pages: "358\u2013369"
+  paper_id: '34'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1034.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1034.jpg
+  title: Double Subject, Double Nominative Object and Double Accusative Object Constructions
+    in Japanese and Korean
+  title_html: Double Subject, Double Nominative Object and Double Accusative Object
+    Constructions in <span class="acl-fixed-case">J</span>apanese and <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y02-1034
+  year: '2001'
+Y02-1035:
+  address: Jeju, Korea
+  author:
+  - first: Ryoya
+    full: Ryoya Okabe
+    id: ryoya-okabe
+    last: Okabe
+  author_string: Ryoya Okabe
+  bibkey: okabe-2001-focus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12244
+  month: January/February
+  page_first: '370'
+  page_last: '381'
+  pages: "370\u2013381"
+  paper_id: '35'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1035.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1035.jpg
+  title: A Focus-based Approach to Scope Ambiguity in Japanese
+  title_html: A Focus-based Approach to Scope Ambiguity in <span class="acl-fixed-case">J</span>apanese
+  url: https://www.aclweb.org/anthology/Y02-1035
+  year: '2001'
+Y02-1036:
+  address: Jeju, Korea
+  author:
+  - first: Haihua
+    full: Haihua Pan
+    id: haihua-pan
+    last: Pan
+  - first: Jianhua
+    full: Jianhua Hu
+    id: jianhua-hu
+    last: Hu
+  author_string: Haihua Pan, Jianhua Hu
+  bibkey: pan-hu-2001-representing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12245
+  month: January/February
+  page_first: '382'
+  page_last: '390'
+  pages: "382\u2013390"
+  paper_id: '36'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1036.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1036.jpg
+  title: Representing Topic-Comment Structures in Chinese
+  title_html: Representing Topic-Comment Structures in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/Y02-1036
+  year: '2001'
+Y02-1037:
+  address: Jeju, Korea
+  author:
+  - first: Byung-Soo
+    full: Byung-Soo Park
+    id: byung-soo-park
+    last: Park
+  author_string: Byung-Soo Park
+  bibkey: park-2001-transitive
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12246
+  month: January/February
+  page_first: '391'
+  page_last: '403'
+  pages: "391\u2013403"
+  paper_id: '37'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1037.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1037.jpg
+  title: Do Transitive Adjectives Really Exist?
+  title_html: Do Transitive Adjectives Really Exist?
+  url: https://www.aclweb.org/anthology/Y02-1037
+  year: '2001'
+Y02-1038:
+  address: Jeju, Korea
+  author:
+  - first: Michiyuki
+    full: Michiyuki Sato
+    id: michiyuki-sato
+    last: Sato
+  author_string: Michiyuki Sato
+  bibkey: sato-2001-adverbial
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12247
+  month: January/February
+  page_first: '404'
+  page_last: '410'
+  pages: "404\u2013410"
+  paper_id: '38'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1038.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1038.jpg
+  title: 'This Adverbial Accusative : A Corpus-based Observation and More'
+  title_html: 'This Adverbial Accusative : A Corpus-based Observation and More'
+  url: https://www.aclweb.org/anthology/Y02-1038
+  year: '2001'
+Y02-1039:
+  address: Jeju, Korea
+  author:
+  - first: Markus
+    full: Markus Schulze
+    id: markus-schulze
+    last: Schulze
+  author_string: Markus Schulze
+  bibkey: schulze-2001-loom
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12248
+  month: January/February
+  page_first: '411'
+  page_last: '420'
+  pages: "411\u2013420"
+  paper_id: '39'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1039.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1039.jpg
+  title: 'The Loom-LAG for Syntax Analysis : Adding a Language-independent Level to
+    LAG'
+  title_html: 'The Loom-<span class="acl-fixed-case">LAG</span> for Syntax Analysis
+    : Adding a Language-independent Level to <span class="acl-fixed-case">LAG</span>'
+  url: https://www.aclweb.org/anthology/Y02-1039
+  year: '2001'
+Y02-1040:
+  address: Jeju, Korea
+  author:
+  - first: Eri
+    full: Eri Tanaka
+    id: eri-tanaka
+    last: Tanaka
+  author_string: Eri Tanaka
+  bibkey: tanaka-2001-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12249
+  month: January/February
+  page_first: '421'
+  page_last: '432'
+  pages: "421\u2013432"
+  paper_id: '40'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1040.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1040.jpg
+  title: A Japanese Compound Verb V-te-iku and Event Composition
+  title_html: A <span class="acl-fixed-case">J</span>apanese Compound Verb V-te-iku
+    and Event Composition
+  url: https://www.aclweb.org/anthology/Y02-1040
+  year: '2001'
+Y02-1041:
+  address: Jeju, Korea
+  author:
+  - first: Erin Yaoling
+    full: Erin Yaoling Wang
+    id: erin-yaoling-wang
+    last: Wang
+  author_string: Erin Yaoling Wang
+  bibkey: wang-2001-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12250
+  month: January/February
+  page_first: '433'
+  page_last: '446'
+  pages: "433\u2013446"
+  paper_id: '41'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1041.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1041.jpg
+  title: Syntactic Interference in Chinese-English Bilingual Children
+  title_html: Syntactic Interference in <span class="acl-fixed-case">C</span>hinese-<span
+    class="acl-fixed-case">E</span>nglish Bilingual Children
+  url: https://www.aclweb.org/anthology/Y02-1041
+  year: '2001'
+Y02-1042:
+  address: Jeju, Korea
+  author:
+  - first: Dan-Hee
+    full: Dan-Hee Yang
+    id: dan-hee-yang
+    last: Yang
+  - first: Ik-Hwan
+    full: Ik-Hwan Lee
+    id: ik-hwan-lee
+    last: Lee
+  author_string: Dan-Hee Yang, Ik-Hwan Lee
+  bibkey: yang-lee-2001-argumentness
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12251
+  month: January/February
+  page_first: '447'
+  page_last: '454'
+  pages: "447\u2013454"
+  paper_id: '42'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1042.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1042.jpg
+  title: Argumentness and Probabilistic Case Structures
+  title_html: Argumentness and Probabilistic Case Structures
+  url: https://www.aclweb.org/anthology/Y02-1042
+  year: '2001'
+Y02-1043:
+  address: Jeju, Korea
+  author:
+  - first: Qi Xiao
+    full: Qi Xiao Yang
+    id: qi-xiao-yang
+    last: Yang
+  - first: Sung Sam
+    full: Sung Sam Yuan
+    id: sung-sam-yuan
+    last: Yuan
+  - first: Lu
+    full: Lu Chun
+    id: lu-chun
+    last: Chun
+  - first: Jay
+    full: Jay Rajasekera
+    id: jay-rajasekera
+    last: Rajasekera
+  author_string: Qi Xiao Yang, Sung Sam Yuan, Lu Chun, Jay Rajasekera
+  bibkey: yang-etal-2001-important
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12252
+  month: January/February
+  page_first: '455'
+  page_last: '464'
+  pages: "455\u2013464"
+  paper_id: '43'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1043.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1043.jpg
+  title: 'An Important Issue in Data Mining : Data Cleaning'
+  title_html: 'An Important Issue in Data Mining : Data Cleaning'
+  url: https://www.aclweb.org/anthology/Y02-1043
+  year: '2001'
+Y02-1044:
+  address: Jeju, Korea
+  author:
+  - first: Aesun
+    full: Aesun Yoon
+    id: aesun-yoon
+    last: Yoon
+  author_string: Aesun Yoon
+  bibkey: yoon-2001-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  doi: http://hdl.handle.net/2065/12253
+  month: January/February
+  page_first: '465'
+  page_last: '474'
+  pages: "465\u2013474"
+  paper_id: '44'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1044.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1044.jpg
+  title: Building a Domain-Specific French-Korean Lexicon
+  title_html: Building a Domain-Specific <span class="acl-fixed-case">F</span>rench-<span
+    class="acl-fixed-case">K</span>orean Lexicon
+  url: https://www.aclweb.org/anthology/Y02-1044
+  year: '2001'
+Y02-1045:
+  address: Jeju, Korea
+  bibkey: nn-2001-author
+  bibtype: inproceedings
+  booktitle: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 16th Pacific Asia Conference on Language, Information
+    and Computation
+  month: January/February
+  paper_id: '45'
+  parent_volume_id: Y02-1
+  pdf: https://www.aclweb.org/anthology/Y02-1045.pdf
+  publisher: The Korean Society for Language and Information
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y02-1045.jpg
+  title: Author Index
+  title_html: Author Index
+  url: https://www.aclweb.org/anthology/Y02-1045
+  year: '2001'

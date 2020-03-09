@@ -1,0 +1,955 @@
+J09-1000:
+  bibkey: cl-2009-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  paper_id: '0'
+  parent_volume_id: J09-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1000.jpg
+  title: Computational Linguistics, Volume 35, Number 1, March 2009
+  title_html: Computational Linguistics, Volume 35, Number 1, March 2009
+  year: '2009'
+J09-1001:
+  author:
+  - first: Sean
+    full: Sean Fulop
+    id: sean-a-fulop
+    last: Fulop
+  author_string: Sean Fulop
+  bibkey: fulop-2009-letter
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.2009.35.1.001
+  pages: '1'
+  paper_id: '1'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1001.jpg
+  title: Letter to the Editor
+  title_html: Letter to the Editor
+  url: https://www.aclweb.org/anthology/J09-1001
+  year: '2009'
+J09-1002:
+  author:
+  - first: Sergio
+    full: Sergio Barrachina
+    id: sergio-barrachina
+    last: Barrachina
+  - first: Oliver
+    full: Oliver Bender
+    id: oliver-bender
+    last: Bender
+  - first: Francisco
+    full: Francisco Casacuberta
+    id: francisco-casacuberta
+    last: Casacuberta
+  - first: Jorge
+    full: Jorge Civera
+    id: jorge-civera
+    last: Civera
+  - first: Elsa
+    full: Elsa Cubel
+    id: elsa-cubel
+    last: Cubel
+  - first: Shahram
+    full: Shahram Khadivi
+    id: shahram-khadivi
+    last: Khadivi
+  - first: Antonio
+    full: Antonio Lagarda
+    id: antonio-l-lagarda
+    last: Lagarda
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Tom\xE1s"
+    id: jesus-tomas
+    last: "Tom\xE1s"
+  - first: Enrique
+    full: Enrique Vidal
+    id: enrique-vidal
+    last: Vidal
+  - first: Juan-Miguel
+    full: Juan-Miguel Vilar
+    id: juan-miguel-vilar
+    last: Vilar
+  author_string: "Sergio Barrachina, Oliver Bender, Francisco Casacuberta, Jorge Civera,\
+    \ Elsa Cubel, Shahram Khadivi, Antonio Lagarda, Hermann Ney, Jes\xFAs Tom\xE1\
+    s, Enrique Vidal, Juan-Miguel Vilar"
+  bibkey: barrachina-etal-2009-statistical
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.2008.07-055-R2-06-29
+  page_first: '3'
+  page_last: '28'
+  pages: "3\u201328"
+  paper_id: '2'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1002.jpg
+  title: Statistical Approaches to Computer-Assisted Translation
+  title_html: Statistical Approaches to Computer-Assisted Translation
+  url: https://www.aclweb.org/anthology/J09-1002
+  year: '2009'
+J09-1003:
+  author:
+  - first: Nikiforos
+    full: Nikiforos Karamanis
+    id: nikiforos-karamanis
+    last: Karamanis
+  - first: Chris
+    full: Chris Mellish
+    id: chris-mellish
+    last: Mellish
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  author_string: Nikiforos Karamanis, Chris Mellish, Massimo Poesio, Jon Oberlander
+  bibkey: karamanis-etal-2009-evaluating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.07-036-R2-06-22
+  page_first: '29'
+  page_last: '46'
+  pages: "29\u201346"
+  paper_id: '3'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1003.jpg
+  title: Evaluating Centering for Information Ordering Using Corpora
+  title_html: Evaluating Centering for Information Ordering Using Corpora
+  url: https://www.aclweb.org/anthology/J09-1003
+  year: '2009'
+J09-1004:
+  author:
+  - first: Jason
+    full: Jason Riggle
+    id: jason-riggle
+    last: Riggle
+  author_string: Jason Riggle
+  bibkey: riggle-2009-complexity
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.07-031-R2-06-98
+  page_first: '47'
+  page_last: '59'
+  pages: "47\u201359"
+  paper_id: '4'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1004.jpg
+  title: The Complexity of Ranking Hypotheses in Optimality Theory
+  title_html: The Complexity of Ranking Hypotheses in Optimality Theory
+  url: https://www.aclweb.org/anthology/J09-1004
+  year: '2009'
+J09-1005:
+  author:
+  - first: Afsaneh
+    full: Afsaneh Fazly
+    id: afsaneh-fazly
+    last: Fazly
+  - first: Paul
+    full: Paul Cook
+    id: paul-cook
+    last: Cook
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: Afsaneh Fazly, Paul Cook, Suzanne Stevenson
+  bibkey: fazly-etal-2009-unsupervised
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.08-010-R1-07-048
+  page_first: '61'
+  page_last: '103'
+  pages: "61\u2013103"
+  paper_id: '5'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1005.jpg
+  title: Unsupervised Type and Token Identification of Idiomatic Expressions
+  title_html: Unsupervised Type and Token Identification of Idiomatic Expressions
+  url: https://www.aclweb.org/anthology/J09-1005
+  year: '2009'
+J09-1006:
+  author:
+  - first: Marina
+    full: Marina Santini
+    id: marina-santini
+    last: Santini
+  author_string: Marina Santini
+  bibkey: santini-2009-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.2009.35.1.105
+  paper_id: '6'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1006.jpg
+  title: 'Book Review: Discourse on the Move: Using Corpus Analysis to Describe Discourse
+    Structure by Douglas Biber, Ulla Connor, and Thomas A. Upton'
+  title_html: 'Book Review: Discourse on the Move: Using Corpus Analysis to Describe
+    Discourse Structure by Douglas Biber, Ulla <span class="acl-fixed-case">C</span>onnor,
+    and <span class="acl-fixed-case">T</span>homas A. Upton'
+  url: https://www.aclweb.org/anthology/J09-1006
+  year: '2009'
+J09-1007:
+  bibkey: nn-2009-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.2009.35.1.109
+  paper_id: '7'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1007.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J09-1007
+  year: '2009'
+J09-1008:
+  author:
+  - first: Anja
+    full: Anja Belz
+    id: anja-belz
+    last: Belz
+  author_string: Anja Belz
+  bibkey: belz-2009-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 1, March 2009
+  doi: 10.1162/coli.2009.35.1.111
+  paper_id: '8'
+  parent_volume_id: J09-1
+  pdf: https://www.aclweb.org/anthology/J09-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-1008.jpg
+  title: "Last Words: That\u2019s Nice ... What Can You Do With It?"
+  title_html: "Last Words: That\u2019s Nice ... What Can You Do With It?"
+  url: https://www.aclweb.org/anthology/J09-1008
+  year: '2009'
+J09-2000:
+  bibkey: cl-2009-linguistics-35
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  paper_id: '0'
+  parent_volume_id: J09-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2000.jpg
+  title: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  title_html: Computational Linguistics, Volume 35, Number 2, June 2009 - Special
+    Issue on Prepositions
+  year: '2009'
+J09-2001:
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Valia
+    full: Valia Kordoni
+    id: valia-kordoni
+    last: Kordoni
+  - first: Aline
+    full: Aline Villavicencio
+    id: aline-villavicencio
+    last: Villavicencio
+  author_string: Timothy Baldwin, Valia Kordoni, Aline Villavicencio
+  bibkey: baldwin-etal-2009-prepositions
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.2009.35.2.119
+  page_first: '119'
+  page_last: '149'
+  pages: "119\u2013149"
+  paper_id: '1'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2001.jpg
+  title: 'Prepositions in Applications: A Survey and Introduction to the Special Issue'
+  title_html: 'Prepositions in Applications: A Survey and Introduction to the Special
+    Issue'
+  url: https://www.aclweb.org/anthology/J09-2001
+  year: '2009'
+J09-2002:
+  author:
+  - first: Tom
+    full: "Tom O\u2019Hara"
+    id: tom-ohara
+    last: "O\u2019Hara"
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  author_string: "Tom O\u2019Hara, Janyce Wiebe"
+  bibkey: ohara-wiebe-2009-exploiting
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.06-79-prep15
+  page_first: '151'
+  page_last: '184'
+  pages: "151\u2013184"
+  paper_id: '2'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2002.jpg
+  title: Exploiting Semantic Role Resources for Preposition Disambiguation
+  title_html: Exploiting Semantic Role Resources for Preposition Disambiguation
+  url: https://www.aclweb.org/anthology/J09-2002
+  year: '2009'
+J09-2003:
+  author:
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  author_string: Roxana Girju
+  bibkey: girju-2009-syntax
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.06-77-prep13
+  page_first: '185'
+  page_last: '228'
+  pages: "185\u2013228"
+  paper_id: '3'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2003.jpg
+  title: 'The Syntax and Semantics of Prepositions in the Task of Automatic Interpretation
+    of Nominal Phrases and Compounds: A Cross-Linguistic Study'
+  title_html: 'The Syntax and Semantics of Prepositions in the Task of Automatic Interpretation
+    of Nominal Phrases and Compounds: A Cross-Linguistic Study'
+  url: https://www.aclweb.org/anthology/J09-2003
+  year: '2009'
+J09-2004:
+  author:
+  - first: Fredrik
+    full: "Fredrik J\xF8rgensen"
+    id: fredrik-jorgensen
+    last: "J\xF8rgensen"
+  - first: Jan Tore
+    full: "Jan Tore L\xF8nning"
+    id: jan-tore-lonning
+    last: "L\xF8nning"
+  author_string: "Fredrik J\xF8rgensen, Jan Tore L\xF8nning"
+  bibkey: jorgensen-lonning-2009-minimal
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.06-69-prep5
+  page_first: '229'
+  page_last: '270'
+  pages: "229\u2013270"
+  paper_id: '4'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2004.jpg
+  title: A Minimal Recursion Semantic Analysis of Locatives
+  title_html: A Minimal Recursion Semantic Analysis of Locatives
+  url: https://www.aclweb.org/anthology/J09-2004
+  year: '2009'
+J09-2005:
+  author:
+  - first: John D.
+    full: John D. Kelleher
+    id: john-kelleher
+    last: Kelleher
+  - first: Fintan J.
+    full: Fintan J. Costello
+    id: fintan-j-costello
+    last: Costello
+  author_string: John D. Kelleher, Fintan J. Costello
+  bibkey: kelleher-costello-2009-applying
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.06-78-prep14
+  page_first: '271'
+  page_last: '306'
+  pages: "271\u2013306"
+  paper_id: '5'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2005.jpg
+  title: Applying Computational Models of Spatial Prepositions to Visually Situated
+    Dialog
+  title_html: Applying Computational Models of Spatial Prepositions to Visually Situated
+    Dialog
+  url: https://www.aclweb.org/anthology/J09-2005
+  year: '2009'
+J09-2006:
+  author:
+  - first: Olga
+    full: Olga Vechtomova
+    id: olga-vechtomova
+    last: Vechtomova
+  author_string: Olga Vechtomova
+  bibkey: vechtomova-2009-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.2009.35.2.307
+  paper_id: '6'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2006.jpg
+  title: "Book Review: Introduction to Information Retrieval by Christopher D. Manning,\
+    \ Prabhakar Raghavan, and Hinrich Sch\xFCtze"
+  title_html: "Book Review: Introduction to Information Retrieval by Christopher D.\
+    \ Manning, Prabhakar Raghavan, and Hinrich <span class=\"acl-fixed-case\">S</span>ch\xFC\
+    tze"
+  url: https://www.aclweb.org/anthology/J09-2006
+  year: '2009'
+J09-2007:
+  bibkey: nn-2009-briefly
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 2, June 2009 - Special Issue
+    on Prepositions
+  doi: 10.1162/coli.2009.35.2.311
+  paper_id: '7'
+  parent_volume_id: J09-2
+  pdf: https://www.aclweb.org/anthology/J09-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-2007.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J09-2007
+  year: '2009'
+J09-3000:
+  bibkey: cl-2009-linguistics-35-number
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  paper_id: '0'
+  parent_volume_id: J09-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3000.jpg
+  title: Computational Linguistics, Volume 35, Number 3, September 2009
+  title_html: Computational Linguistics, Volume 35, Number 3, September 2009
+  year: '2009'
+J09-3001:
+  author:
+  - first: William
+    full: William Schuler
+    id: william-schuler
+    last: Schuler
+  - first: Stephen
+    full: Stephen Wu
+    id: stephen-wu
+    last: Wu
+  - first: Lane
+    full: Lane Schwartz
+    id: lane-schwartz
+    last: Schwartz
+  author_string: William Schuler, Stephen Wu, Lane Schwartz
+  bibkey: schuler-etal-2009-articles
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.08-011-R2-07-021
+  page_first: '313'
+  page_last: '343'
+  pages: "313\u2013343"
+  paper_id: '1'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3001.jpg
+  title: 'Articles: A Framework for Fast Incremental Interpretation during Speech
+    Decoding'
+  title_html: '<span class="acl-fixed-case">A</span>rticles: A Framework for Fast
+    Incremental Interpretation during Speech Decoding'
+  url: https://www.aclweb.org/anthology/J09-3001
+  year: '2009'
+J09-3002:
+  author:
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: Michael
+    full: Michael Johnston
+    id: michael-johnston
+    last: Johnston
+  author_string: Srinivas Bangalore, Michael Johnston
+  bibkey: bangalore-johnston-2009-articles
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.08-022-R2-06-26
+  page_first: '345'
+  page_last: '397'
+  pages: "345\u2013397"
+  paper_id: '2'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3002.jpg
+  title: 'Articles: Robust Understanding in Multimodal Interfaces'
+  title_html: '<span class="acl-fixed-case">A</span>rticles: Robust Understanding
+    in Multimodal Interfaces'
+  url: https://www.aclweb.org/anthology/J09-3002
+  year: '2009'
+J09-3003:
+  author:
+  - first: Theresa
+    full: Theresa Wilson
+    id: theresa-wilson
+    last: Wilson
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Paul
+    full: Paul Hoffmann
+    id: paul-hoffmann
+    last: Hoffmann
+  author_string: Theresa Wilson, Janyce Wiebe, Paul Hoffmann
+  bibkey: wilson-etal-2009-articles
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.08-012-R1-06-90
+  page_first: '399'
+  page_last: '433'
+  pages: "399\u2013433"
+  paper_id: '3'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3003.jpg
+  title: 'Articles: Recognizing Contextual Polarity: An Exploration of Features for
+    Phrase-Level Sentiment Analysis'
+  title_html: '<span class="acl-fixed-case">A</span>rticles: Recognizing Contextual
+    Polarity: An Exploration of Features for Phrase-Level Sentiment Analysis'
+  url: https://www.aclweb.org/anthology/J09-3003
+  year: '2009'
+J09-3004:
+  author:
+  - first: Maayan
+    full: Maayan Zhitomirsky-Geffet
+    id: maayan-geffet
+    last: Zhitomirsky-Geffet
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Maayan Zhitomirsky-Geffet, Ido Dagan
+  bibkey: zhitomirsky-geffet-dagan-2009-articles
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.08-032-R1-06-96
+  page_first: '435'
+  page_last: '461'
+  pages: "435\u2013461"
+  paper_id: '4'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3004.jpg
+  title: 'Articles: Bootstrapping Distributional Feature Vector Quality'
+  title_html: '<span class="acl-fixed-case">A</span>rticles: Bootstrapping Distributional
+    Feature Vector Quality'
+  url: https://www.aclweb.org/anthology/J09-3004
+  year: '2009'
+J09-3005:
+  author:
+  - first: Vlado
+    full: Vlado Keselj
+    id: vlado-keselj
+    last: Keselj
+  author_string: Vlado Keselj
+  bibkey: keselj-2009-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.B09-001
+  paper_id: '5'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3005.jpg
+  title: 'Book Review: Speech and Language Processing (second edition) by Daniel Jurafsky
+    and James H. Martin'
+  title_html: 'Book Review: Speech and Language Processing (second edition) by Daniel
+    <span class="acl-fixed-case">J</span>urafsky and <span class="acl-fixed-case">J</span>ames
+    H. Martin'
+  url: https://www.aclweb.org/anthology/J09-3005
+  year: '2009'
+J09-3006:
+  bibkey: nn-2009-publications-received
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.35.3.467
+  paper_id: '6'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3006.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J09-3006
+  year: '2009'
+J09-3007:
+  author:
+  - first: Steven
+    full: Steven Bird
+    id: steven-bird
+    last: Bird
+  author_string: Steven Bird
+  bibkey: bird-2009-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 3, September 2009
+  doi: 10.1162/coli.35.3.469
+  page_first: '469'
+  page_last: '474'
+  pages: "469\u2013474"
+  paper_id: '7'
+  parent_volume_id: J09-3
+  pdf: https://www.aclweb.org/anthology/J09-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-3007.jpg
+  title: 'Last Words: Natural Language Processing and Linguistic Fieldwork'
+  title_html: 'Last Words: Natural Language Processing and Linguistic Fieldwork'
+  url: https://www.aclweb.org/anthology/J09-3007
+  year: '2009'
+J09-4000:
+  bibkey: cl-2009-linguistics-35-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  paper_id: '0'
+  parent_volume_id: J09-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4000.jpg
+  title: Computational Linguistics, Volume 35, Number 4, December 2009
+  title_html: Computational Linguistics, Volume 35, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2009
+  year: '2009'
+J09-4001:
+  author:
+  - first: Greg
+    full: Greg Michaelson
+    id: greg-michaelson
+    last: Michaelson
+  author_string: Greg Michaelson
+  bibkey: michaelson-2009-obituaries
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35400
+  page_first: '475'
+  page_last: '481'
+  pages: "475\u2013481"
+  paper_id: '1'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4001.jpg
+  title: 'Obituaries: Alison Cawsey'
+  title_html: '<span class="acl-fixed-case">O</span>bituaries: Alison Cawsey'
+  url: https://www.aclweb.org/anthology/J09-4001
+  year: '2009'
+J09-4002:
+  author:
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: David
+    full: David Day
+    id: david-day
+    last: Day
+  - first: Inderjeet
+    full: Inderjeet Mani
+    id: inderjeet-mani
+    last: Mani
+  author_string: Massimo Poesio, David Day, Inderjeet Mani
+  bibkey: poesio-etal-2009-obituaries
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35411
+  page_first: '475'
+  page_last: '481'
+  pages: "475\u2013481"
+  paper_id: '2'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4002.jpg
+  title: 'Obituaries: Janet Hitzeman'
+  title_html: '<span class="acl-fixed-case">O</span>bituaries: Janet Hitzeman'
+  url: https://www.aclweb.org/anthology/J09-4002
+  year: '2009'
+J09-4003:
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Timothy Baldwin, Takenobu Tokunaga, Jun\u2019ichi Tsujii"
+  bibkey: baldwin-etal-2009-obituaries
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35412
+  page_first: '475'
+  page_last: '481'
+  pages: "475\u2013481"
+  paper_id: '3'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4003.jpg
+  title: 'Obituaries: Hozumi Tanaka'
+  title_html: '<span class="acl-fixed-case">O</span>bituaries: Hozumi <span class="acl-fixed-case">T</span>anaka'
+  url: https://www.aclweb.org/anthology/J09-4003
+  year: '2009'
+J09-4004:
+  author:
+  - first: Frederick
+    full: Frederick Jelinek
+    id: frederick-jelinek
+    last: Jelinek
+  author_string: Frederick Jelinek
+  bibkey: jelinek-2009-acl
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35401
+  page_first: '483'
+  page_last: '494'
+  pages: "483\u2013494"
+  paper_id: '4'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4004.jpg
+  title: 'ACL Lifetime Achievement Award: The Dawn of Statistical ASR and MT'
+  title_html: '<span class="acl-fixed-case">ACL</span> Lifetime Achievement Award:
+    The Dawn of Statistical <span class="acl-fixed-case">ASR</span> and <span class="acl-fixed-case">MT</span>'
+  url: https://www.aclweb.org/anthology/J09-4004
+  year: '2009'
+J09-4005:
+  author:
+  - first: Beata
+    full: Beata Beigman Klebanov
+    id: beata-beigman-klebanov
+    last: Beigman Klebanov
+  - first: Eyal
+    full: Eyal Beigman
+    id: eyal-beigman
+    last: Beigman
+  author_string: Beata Beigman Klebanov, Eyal Beigman
+  bibkey: beigman-klebanov-beigman-2009-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35402
+  page_first: '495'
+  page_last: '503'
+  pages: "495\u2013503"
+  paper_id: '5'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4005.jpg
+  title: 'Squibs: From Annotator Agreement to Noise Models'
+  title_html: '<span class="acl-fixed-case">S</span>quibs: From Annotator Agreement
+    to Noise Models'
+  url: https://www.aclweb.org/anthology/J09-4005
+  year: '2009'
+J09-4006:
+  author:
+  - first: Zhongguo
+    full: Zhongguo Li
+    id: zhongguo-li
+    last: Li
+  - first: Maosong
+    full: Maosong Sun
+    id: maosong-sun
+    last: Sun
+  author_string: Zhongguo Li, Maosong Sun
+  bibkey: li-sun-2009-punctuation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35403
+  page_first: '505'
+  page_last: '512'
+  pages: "505\u2013512"
+  paper_id: '6'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4006.jpg
+  title: Punctuation as Implicit Annotations for Chinese Word Segmentation
+  title_html: Punctuation as Implicit Annotations for <span class="acl-fixed-case">C</span>hinese
+    Word Segmentation
+  url: https://www.aclweb.org/anthology/J09-4006
+  year: '2009'
+J09-4007:
+  author:
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  - first: Alfio Massimiliano
+    full: Alfio Massimiliano Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Claudio Giuliano, Alfio Massimiliano Gliozzo, Carlo Strapparava
+  bibkey: giuliano-etal-2009-kernel
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35407
+  page_first: '513'
+  page_last: '528'
+  pages: "513\u2013528"
+  paper_id: '7'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4007.jpg
+  title: Kernel Methods for Minimally Supervised WSD
+  title_html: Kernel Methods for Minimally Supervised <span class="acl-fixed-case">WSD</span>
+  url: https://www.aclweb.org/anthology/J09-4007
+  year: '2009'
+J09-4008:
+  author:
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  - first: Anja
+    full: Anja Belz
+    id: anja-belz
+    last: Belz
+  author_string: Ehud Reiter, Anja Belz
+  bibkey: reiter-belz-2009-investigation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35405
+  page_first: '529'
+  page_last: '558'
+  pages: "529\u2013558"
+  paper_id: '8'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4008.jpg
+  title: An Investigation into the Validity of Some Metrics for Automatically Evaluating
+    Natural Language Generation Systems
+  title_html: An Investigation into the Validity of Some Metrics for Automatically
+    Evaluating Natural Language Generation Systems
+  url: https://www.aclweb.org/anthology/J09-4008
+  year: '2009'
+J09-4009:
+  author:
+  - first: Liang
+    full: Liang Huang
+    id: liang-huang
+    last: Huang
+  - first: Hao
+    full: Hao Zhang
+    id: hao-zhang
+    last: Zhang
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Liang Huang, Hao Zhang, Daniel Gildea, Kevin Knight
+  bibkey: huang-etal-2009-binarization
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35406
+  page_first: '559'
+  page_last: '595'
+  pages: "559\u2013595"
+  paper_id: '9'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4009.jpg
+  title: Binarization of Synchronous Context-Free Grammars
+  title_html: Binarization of Synchronous Context-Free Grammars
+  url: https://www.aclweb.org/anthology/J09-4009
+  year: '2009'
+J09-4010:
+  author:
+  - first: Yuval
+    full: Yuval Marom
+    id: yuval-marom
+    last: Marom
+  - first: Ingrid
+    full: Ingrid Zukerman
+    id: ingrid-zukerman
+    last: Zukerman
+  author_string: Yuval Marom, Ingrid Zukerman
+  bibkey: marom-zukerman-2009-empirical
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35404
+  page_first: '597'
+  page_last: '635'
+  pages: "597\u2013635"
+  paper_id: '10'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4010.jpg
+  title: An Empirical Study of Corpus-Based Response Automation Methods for an E-mail-Based
+    Help-Desk Domain
+  title_html: An Empirical Study of Corpus-Based Response Automation Methods for an
+    E-mail-Based Help-Desk Domain
+  url: https://www.aclweb.org/anthology/J09-4010
+  year: '2009'
+J09-4011:
+  author:
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  author_string: Phil Blunsom
+  bibkey: blunsom-2009-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35408
+  paper_id: '11'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4011.jpg
+  title: 'Book Review: Learning Machine Translation by Cyril Goutte, Nicola Cancedda,
+    Marc Dymetman, and George Foster (editors)'
+  title_html: 'Book Review: Learning Machine Translation by Cyril Goutte, Nicola Cancedda,
+    Marc Dymetman, and <span class="acl-fixed-case">G</span>eorge Foster (editors)'
+  url: https://www.aclweb.org/anthology/J09-4011
+  year: '2009'
+J09-4012:
+  author:
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Shuly Wintner
+  bibkey: wintner-2009-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35409
+  page_first: '641'
+  page_last: '644'
+  pages: "641\u2013644"
+  paper_id: '12'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4012.jpg
+  title: 'Last Words: What Science Underlies Natural Language Engineering?'
+  title_html: 'Last Words: What Science Underlies Natural Language Engineering?'
+  url: https://www.aclweb.org/anthology/J09-4012
+  year: '2009'
+J09-4013:
+  bibkey: nn-2009-reviewers
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 35, Number 4, December 2009
+  doi: 10.1162/coli.2009.35.4.35410
+  paper_id: '13'
+  parent_volume_id: J09-4
+  pdf: https://www.aclweb.org/anthology/J09-4013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J09-4013.jpg
+  title: Reviewers for Volume 35
+  title_html: Reviewers for Volume 35
+  url: https://www.aclweb.org/anthology/J09-4013
+  year: '2009'

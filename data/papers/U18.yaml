@@ -1,0 +1,586 @@
+U18-1000:
+  address: Dunedin, New Zealand
+  author:
+  - first: Sunghwan Mac
+    full: Sunghwan Mac Kim
+    id: sunghwan-mac-kim
+    last: Kim
+  - first: Xiuzhen (Jenny)
+    full: Xiuzhen (Jenny) Zhang
+    id: xiuzhen-jenny-zhang
+    last: Zhang
+  author_string: Sunghwan Mac Kim, Xiuzhen (Jenny) Zhang
+  bibkey: alta-2018-australasian
+  bibtype: proceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  month: December
+  paper_id: '0'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1000.jpg
+  title: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  title_html: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  url: https://www.aclweb.org/anthology/U18-1000
+  year: '2018'
+U18-1001:
+  abstract: In this work, we investigate whether side information is helpful in neural
+    machine translation (NMT). We study various kinds of side information, including
+    topical information, personal trait, then propose different ways of incorporating
+    them into the existing NMT models. Our experimental results show the benefits
+    of side information in improving the NMT models.
+  address: Dunedin, New Zealand
+  author:
+  - first: Cong Duy Vu
+    full: Cong Duy Vu Hoang
+    id: cong-duy-vu-hoang
+    last: Hoang
+  - first: Gholamreza
+    full: Gholamreza Haffari
+    id: gholamreza-haffari
+    last: Haffari
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  author_string: Cong Duy Vu Hoang, Gholamreza Haffari, Trevor Cohn
+  bibkey: hoang-etal-2018-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '6'
+  page_last: '16'
+  pages: "6\u201316"
+  paper_id: '1'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1001.jpg
+  title: Improved Neural Machine Translation using Side Information
+  title_html: Improved Neural Machine Translation using Side Information
+  url: https://www.aclweb.org/anthology/U18-1001
+  year: '2018'
+U18-1002:
+  abstract: 'Among the more typical forensic voice comparison (FVC) approaches, the
+    acoustic-phonetic statistical approach is suitable for text-dependent FVC, but
+    it does not fully exploit available time-varying information of speech in its
+    modelling. The automatic approach, on the other hand, essentially deals with text-independent
+    cases, which means temporal information is not explicitly incorporated in the
+    modelling. Text-dependent likelihood ratio (LR)-based FVC studies, in particular
+    those that adopt the automatic approach, are few. This preliminary LR-based FVC
+    study compares two statistical models, the Hidden Markov Model (HMM) and the Gaussian
+    Mixture Model (GMM), for the calculation of forensic LRs using the same speech
+    data. FVC experiments were carried out using different lengths of Japanese short
+    words under a forensically realistic, but challenging condition: only two speech
+    tokens for model training and LR estimation. Log-likelihood-ratio cost (Cllr)
+    was used as the assessment metric. The study demonstrates that the HMM system
+    constantly outperforms the GMM system in terms of average Cllr values. However,
+    words longer than three mora are needed if the advantage of the HMM is to become
+    evident. With a seven-mora word, for example, the HMM outperformed the GMM by
+    a Cllr value of 0.073.'
+  address: Dunedin, New Zealand
+  author:
+  - first: Satoru
+    full: Satoru Tsuge
+    id: satoru-tsuge
+    last: Tsuge
+  - first: Shunichi
+    full: Shunichi Ishihara
+    id: shunichi-ishihara
+    last: Ishihara
+  author_string: Satoru Tsuge, Shunichi Ishihara
+  bibkey: tsuge-ishihara-2018-text
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '17'
+  page_last: '25'
+  pages: "17\u201325"
+  paper_id: '2'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1002.jpg
+  title: 'Text-dependent Forensic Voice Comparison: Likelihood Ratio Estimation with
+    the Hidden Markov Model (HMM) and Gaussian Mixture Model'
+  title_html: 'Text-dependent Forensic Voice Comparison: Likelihood Ratio Estimation
+    with the Hidden <span class="acl-fixed-case">M</span>arkov Model (<span class="acl-fixed-case">HMM</span>)
+    and <span class="acl-fixed-case">G</span>aussian Mixture Model'
+  url: https://www.aclweb.org/anthology/U18-1002
+  year: '2018'
+U18-1003:
+  abstract: 'This paper presents three ongoing projects for NLP in Cook Islands Maori:
+    Untrained Forced Alignment (approx. 9% error when detecting the center of words),
+    speech-to-text (37% WER in the best trained models) and POS tagging (92% accuracy
+    for the best performing model). Included as part of these projects are new resources
+    filling in a gap in Australasian languages, including gold standard POS-tagged
+    written corpora, transcribed speech corpora, time-aligned corpora down to the
+    level of phonemes. These are part of efforts to accelerate the documentation of
+    Cook Islands Maori and to increase its vitality amongst its users.'
+  address: Dunedin, New Zealand
+  author:
+  - first: Rolando Coto
+    full: Rolando Coto Solano
+    id: rolando-coto-solano
+    last: Solano
+  - first: Sally Akevai
+    full: Sally Akevai Nicholas
+    id: sally-akevai-nicholas
+    last: Nicholas
+  - first: Samantha
+    full: Samantha Wray
+    id: samantha-wray
+    last: Wray
+  author_string: Rolando Coto Solano, Sally Akevai Nicholas, Samantha Wray
+  bibkey: solano-etal-2018-development
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '26'
+  page_last: '33'
+  pages: "26\u201333"
+  paper_id: '3'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1003.jpg
+  title: "Development of Natural Language Processing Tools for Cook Islands M\u0101\
+    ori"
+  title_html: "Development of Natural Language Processing Tools for Cook Islands M\u0101\
+    ori"
+  url: https://www.aclweb.org/anthology/U18-1003
+  year: '2018'
+U18-1004:
+  abstract: It has been demonstrated that vector-based representations of words trained
+    on large text corpora encode linguistic regularities that may be exploited via
+    the use of vector space arithmetic. This capability has been extensively explored
+    and is generally measured via tasks which involve the automated completion of
+    linguistic proportional analogies. The question remains, however, as to what extent
+    it is possible to induce relations from word embeddings in a principled and systematic
+    way, without the provision of exemplars or seed terms. In this paper we propose
+    an extensible and efficient framework for inducing relations via the use of constraint
+    satisfaction. The method is efficient, unsupervised and can be customized in various
+    ways. We provide both quantitative and qualitative analysis of the results.
+  address: Dunedin, New Zealand
+  author:
+  - first: Lance De
+    full: Lance De Vine
+    id: lance-de-vine
+    last: Vine
+  - first: Shlomo
+    full: Shlomo Geva
+    id: shlomo-geva
+    last: Geva
+  - first: Peter
+    full: Peter Bruza
+    id: peter-bruza
+    last: Bruza
+  author_string: Lance De Vine, Shlomo Geva, Peter Bruza
+  bibkey: vine-etal-2018-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '34'
+  page_last: '43'
+  pages: "34\u201343"
+  paper_id: '4'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1004.jpg
+  title: Unsupervised Mining of Analogical Frames by Constraint Satisfaction
+  title_html: Unsupervised Mining of Analogical Frames by Constraint Satisfaction
+  url: https://www.aclweb.org/anthology/U18-1004
+  year: '2018'
+U18-1005:
+  abstract: The key activity to design an information system is conceptual modelling
+    which brings out and describes the general knowledge that is required to build
+    a system. In this paper we propose a novel approach to conceptual modelling where
+    the domain experts will be able to specify and construct a model using a restricted
+    form of natural language. A restricted natural language is a subset of a natural
+    language that has well-defined computational properties and therefore can be translated
+    unambiguously into a formal notation. We will argue that a restricted natural
+    language is suitable for writing precise and consistent specifications that lead
+    to executable conceptual models. Using a restricted natural language will allow
+    the domain experts to describe a scenario in the terminology of the application
+    domain without the need to formally encode this scenario. The resulting textual
+    specification can then be automatically translated into the language of the desired
+    conceptual modelling framework.
+  address: Dunedin, New Zealand
+  author:
+  - first: Bayzid Ashik
+    full: Bayzid Ashik Hossain
+    id: bayzid-ashik-hossain
+    last: Hossain
+  - first: Rolf
+    full: Rolf Schwitter
+    id: rolf-schwitter
+    last: Schwitter
+  author_string: Bayzid Ashik Hossain, Rolf Schwitter
+  bibkey: hossain-schwitter-2018-specifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '44'
+  page_last: '52'
+  pages: "44\u201352"
+  paper_id: '5'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1005.jpg
+  title: Specifying Conceptual Models Using Restricted Natural Language
+  title_html: Specifying Conceptual Models Using Restricted Natural Language
+  url: https://www.aclweb.org/anthology/U18-1005
+  year: '2018'
+U18-1006:
+  abstract: "Business documents encode a wealth of information in a format tailored\
+    \ to human consumption \u2013 i.e. aesthetically disbursed natural language text,\
+    \ graphics and tables. We address the task of extracting key fields (e.g. the\
+    \ amount due on an invoice) from a wide-variety of potentially unseen document\
+    \ formats. In contrast to traditional template driven extraction systems, we introduce\
+    \ a content-driven machine-learning approach which is both robust to noise and\
+    \ generalises to unseen document formats. In a comparison of our approach with\
+    \ alternative invoice extraction systems, we observe an absolute accuracy gain\
+    \ of 20\\% across compared fields, and a 25\\%\u201394\\% reduction in extraction\
+    \ latency."
+  address: Dunedin, New Zealand
+  author:
+  - first: Xavier
+    full: Xavier Holt
+    id: xavier-holt
+    last: Holt
+  - first: Andrew
+    full: Andrew Chisholm
+    id: andrew-chisholm
+    last: Chisholm
+  author_string: Xavier Holt, Andrew Chisholm
+  bibkey: holt-chisholm-2018-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '53'
+  page_last: '59'
+  pages: "53\u201359"
+  paper_id: '6'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1006.jpg
+  title: Extracting structured data from invoices
+  title_html: Extracting structured data from invoices
+  url: https://www.aclweb.org/anthology/U18-1006
+  year: '2018'
+U18-1007:
+  abstract: "In spite of the recent success of Dialogue Act (DA) classification, the\
+    \ majority of prior works focus on text-based classification with oracle transcriptions,\
+    \ i.e. human transcriptions, instead of Automatic Speech Recognition (ASR)\u2019\
+    s transcriptions. In spoken dialog systems, however, the agent would only have\
+    \ access to noisy ASR transcriptions, which may further suffer performance degradation\
+    \ due to domain shift. In this paper, we explore the effectiveness of using both\
+    \ acoustic and textual signals, either oracle or ASR transcriptions, and investigate\
+    \ speaker domain adaptation for DA classification. Our multimodal model proves\
+    \ to be superior to the unimodal models, particularly when the oracle transcriptions\
+    \ are not available. We also propose an effective method for speaker domain adaptation,\
+    \ which achieves competitive results."
+  address: Dunedin, New Zealand
+  author:
+  - first: Xuanli
+    full: Xuanli He
+    id: xuanli-he
+    last: He
+  - first: Quan
+    full: Quan Tran
+    id: quan-hung-tran
+    last: Tran
+  - first: William
+    full: William Havard
+    id: william-havard
+    last: Havard
+  - first: Laurent
+    full: Laurent Besacier
+    id: laurent-besacier
+    last: Besacier
+  - first: Ingrid
+    full: Ingrid Zukerman
+    id: ingrid-zukerman
+    last: Zukerman
+  - first: Gholamreza
+    full: Gholamreza Haffari
+    id: gholamreza-haffari
+    last: Haffari
+  author_string: Xuanli He, Quan Tran, William Havard, Laurent Besacier, Ingrid Zukerman,
+    Gholamreza Haffari
+  bibkey: he-etal-2018-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '61'
+  page_last: '65'
+  pages: "61\u201365"
+  paper_id: '7'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1007.jpg
+  title: Exploring Textual and Speech information in Dialogue Act Classification with
+    Speaker Domain Adaptation
+  title_html: Exploring Textual and Speech information in Dialogue Act Classification
+    with Speaker Domain Adaptation
+  url: https://www.aclweb.org/anthology/U18-1007
+  year: '2018'
+U18-1008:
+  abstract: Cluster labeling is the assignment of representative labels to clusters
+    obtained from the organization of a document collection. Once assigned, the labels
+    can play an important role in applications such as navigation, search and document
+    classification. However, finding appropriately descriptive labels is still a challenging
+    task. In this paper, we propose various approaches for assigning labels to word
+    clusters by leveraging word embeddings and the synonymity and hypernymy relations
+    in the WordNet lexical ontology. Experiments carried out using the WebAP document
+    dataset have shown that one of the approaches stand out in the comparison and
+    is capable of selecting labels that are reasonably aligned with those chosen by
+    a pool of four human annotators.
+  address: Dunedin, New Zealand
+  author:
+  - first: Hanieh
+    full: Hanieh Poostchi
+    id: hanieh-poostchi
+    last: Poostchi
+  - first: Massimo
+    full: Massimo Piccardi
+    id: massimo-piccardi
+    last: Piccardi
+  author_string: Hanieh Poostchi, Massimo Piccardi
+  bibkey: poostchi-piccardi-2018-cluster
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '66'
+  page_last: '70'
+  pages: "66\u201370"
+  paper_id: '8'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1008.jpg
+  title: Cluster Labeling by Word Embeddings and WordNet's Hypernymy
+  title_html: Cluster Labeling by Word Embeddings and <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et's Hypernymy
+  url: https://www.aclweb.org/anthology/U18-1008
+  year: '2018'
+U18-1009:
+  abstract: In this paper, we perform a comparative evaluation of off-the-shelf embedding
+    models over the task of compositionality prediction of multiword expressions("MWEs").
+    Our experimental results suggest that character- and document-level models capture
+    knowledge of MWE compositionality and are effective in modelling varying levels
+    of compositionality, with the advantage over word-level models that they do not
+    require token-level identification of MWEs in the training corpus.
+  address: Dunedin, New Zealand
+  author:
+  - first: Navnita
+    full: Navnita Nandakumar
+    id: navnita-nandakumar
+    last: Nandakumar
+  - first: Bahar
+    full: Bahar Salehi
+    id: bahar-salehi
+    last: Salehi
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Navnita Nandakumar, Bahar Salehi, Timothy Baldwin
+  bibkey: nandakumar-etal-2018-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '71'
+  page_last: '76'
+  pages: "71\u201376"
+  paper_id: '9'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1009.jpg
+  title: A Comparative Study of Embedding Models in Predicting the Compositionality
+    of Multiword Expressions
+  title_html: A Comparative Study of Embedding Models in Predicting the Compositionality
+    of Multiword Expressions
+  url: https://www.aclweb.org/anthology/U18-1009
+  year: '2018'
+U18-1010:
+  abstract: Accurate evaluation of translation has long been a difficult, yet important
+    problem. Current evaluations use direct assessment (DA), based on crowd sourcing
+    judgements from a large pool of workers, along with quality control checks, and
+    a robust method for combining redundant judgements. In this paper we show that
+    the quality control mechanism is overly conservative, which increases the time
+    and expense of the evaluation. We propose a model that does not rely on a pre-processing
+    step to filter workers and takes into account varying annotator reliabilities.
+    Our model effectively weights each worker's scores based on the inferred precision
+    of the worker, and is much more reliable than the mean of either the raw scores
+    or the standardised scores. We also show that DA does not deliver on the promise
+    of longitudinal evaluation, and propose redesigning the structure of the annotation
+    tasks that can solve this problem.
+  address: Dunedin, New Zealand
+  author:
+  - first: Nitika
+    full: Nitika Mathur
+    id: nitika-mathur
+    last: Mathur
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  author_string: Nitika Mathur, Timothy Baldwin, Trevor Cohn
+  bibkey: mathur-etal-2018-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '77'
+  page_last: '82'
+  pages: "77\u201382"
+  paper_id: '10'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1010.jpg
+  title: Towards Efficient Machine Translation Evaluation by Modelling Annotators
+  title_html: Towards Efficient Machine Translation Evaluation by Modelling Annotators
+  url: https://www.aclweb.org/anthology/U18-1010
+  year: '2018'
+U18-1011:
+  abstract: We present an overview of the 2018 ALTA shared task. This is the 9th of
+    the series of shared tasks organised by ALTA since 2010. The task was to classify
+    Australian patent classifications following the sections defined by the International
+    Patient Classification (IPC), using data made available by IP Australia. We introduce
+    the task, describe the data and present the results of the participating teams.
+    Some of the participating teams outperformed state of the art.
+  address: Dunedin, New Zealand
+  author:
+  - first: Diego
+    full: "Diego Moll\xE1"
+    id: diego-molla
+    last: "Moll\xE1"
+  - first: Dilesha
+    full: Dilesha Seneviratne
+    id: dilesha-seneviratne
+    last: Seneviratne
+  author_string: "Diego Moll\xE1, Dilesha Seneviratne"
+  bibkey: molla-seneviratne-2018-overview
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '84'
+  page_last: '88'
+  pages: "84\u201388"
+  paper_id: '11'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1011.jpg
+  title: 'Overview of the 2018 ALTA Shared Task: Classifying Patent Applications'
+  title_html: 'Overview of the 2018 <span class="acl-fixed-case">ALTA</span> Shared
+    Task: Classifying Patent Applications'
+  url: https://www.aclweb.org/anthology/U18-1011
+  year: '2018'
+U18-1012:
+  abstract: We present methods for the automatic classification of patent applications
+    using an annotated dataset provided by the organizers of the ALTA 2018 shared
+    task - Classifying Patent Applications. The goal of the task is to use computational
+    methods to categorize patent applications according to a coarse-grained taxonomy
+    of eight classes based on the International Patent Classification (IPC). We tested
+    a variety of approaches for this task and the best results, 0.778 micro-averaged
+    F1-Score, were achieved by SVM ensembles using a combination of words and characters
+    as features. Our team, BMZ, was ranked first among 14 teams in the competition.
+  address: Dunedin, New Zealand
+  author:
+  - first: Fernando
+    full: Fernando Benites
+    id: fernando-benites
+    last: Benites
+  - first: Shervin
+    full: Shervin Malmasi
+    id: shervin-malmasi
+    last: Malmasi
+  - first: Marcos
+    full: Marcos Zampieri
+    id: marcos-zampieri
+    last: Zampieri
+  author_string: Fernando Benites, Shervin Malmasi, Marcos Zampieri
+  bibkey: benites-etal-2018-classifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '89'
+  page_last: '92'
+  pages: "89\u201392"
+  paper_id: '12'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1012.jpg
+  title: Classifying Patent Applications with Ensemble Methods
+  title_html: Classifying Patent Applications with Ensemble Methods
+  url: https://www.aclweb.org/anthology/U18-1012
+  year: '2018'
+U18-1013:
+  abstract: This paper describes the methods used for the 2018 ALTA Shared Task. The
+    task this year was to automatically classify Australian patents into their main
+    International Patent Classification section. Our final submission used a Support
+    Vector Machine (SVM) and Universal Language Model with Fine-tuning (ULMFiT). Our
+    system achieved the best results in the student category.
+  address: Dunedin, New Zealand
+  author:
+  - first: Jason
+    full: Jason Hepburn
+    id: jason-hepburn
+    last: Hepburn
+  author_string: Jason Hepburn
+  bibkey: hepburn-2018-universal
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Association Workshop
+    2018
+  booktitle_html: Proceedings of the Australasian Language Technology Association
+    Workshop 2018
+  month: December
+  page_first: '93'
+  page_last: '96'
+  pages: "93\u201396"
+  paper_id: '13'
+  parent_volume_id: U18-1
+  pdf: https://www.aclweb.org/anthology/U18-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U18-1013.jpg
+  title: Universal Language Model Fine-tuning for Patent Classification
+  title_html: Universal Language Model Fine-tuning for Patent Classification
+  url: https://www.aclweb.org/anthology/U18-1013
+  year: '2018'

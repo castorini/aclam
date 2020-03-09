@@ -1,0 +1,1374 @@
+O11-1000:
+  address: Taipei, Taiwan
+  author:
+  - first: Wei-Ho
+    full: Wei-Ho Tsai
+    id: wei-ho-tsai
+    last: Tsai
+  - first: Liang-Chih
+    full: Liang-Chih Yu
+    id: liang-chih-yu
+    last: Yu
+  author_string: Wei-Ho Tsai, Liang-Chih Yu
+  bibkey: rocling-ijclclp-2011-linguistics
+  bibtype: proceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  month: September
+  paper_id: '0'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1000.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1000.jpg
+  title: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  title_html: Proceedings of the 23rd Conference on Computational Linguistics and
+    Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  url: https://www.aclweb.org/anthology/O11-1000
+  year: '2011'
+O11-1001:
+  address: Taipei, Taiwan
+  author:
+  - first: Min-Hsuan
+    full: Min-Hsuan Lai
+    id: min-hsuan-lai
+    last: Lai
+  - first: Bang-Xuan
+    full: Bang-Xuan Huang
+    id: bang-xuan-huang
+    last: Huang
+  - first: Kuan-Yu
+    full: Kuan-Yu Chen
+    id: kuan-yu-chen
+    last: Chen
+  - first: Berlin
+    full: Berlin Chen
+    id: berlin-chen
+    last: Chen
+  author_string: Min-Hsuan Lai, Bang-Xuan Huang, Kuan-Yu Chen, Berlin Chen
+  bibkey: lai-etal-2011-shi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '4'
+  page_last: '20'
+  pages: "4\u201320"
+  paper_id: '1'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1001.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1001.jpg
+  title: "\u5BE6\u8B49\u63A2\u7A76\u591A\u7A2E\u9451\u5225\u5F0F\u8A9E\u8A00\u6A21\
+    \u578B\u65BC\u8A9E\u97F3\u8FA8\u8B58\u4E4B\u7814\u7A76 (Empirical Comparisons\
+    \ of Various Discriminative Language Models for Speech Recognition) [In Chinese]"
+  title_html: "\u5BE6\u8B49\u63A2\u7A76\u591A\u7A2E\u9451\u5225\u5F0F\u8A9E\u8A00\u6A21\
+    \u578B\u65BC\u8A9E\u97F3\u8FA8\u8B58\u4E4B\u7814\u7A76 (Empirical Comparisons\
+    \ of Various Discriminative Language Models for Speech Recognition) [In <span\
+    \ class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1001
+  year: '2011'
+O11-1002:
+  address: Taipei, Taiwan
+  author:
+  - first: Hsin-Ju
+    full: Hsin-Ju Hsieh
+    id: hsin-ju-hsieh
+    last: Hsieh
+  - first: Wen-hsiang
+    full: Wen-hsiang Tu
+    id: wen-hsiang-tu
+    last: Tu
+  - first: Jeih-weih
+    full: Jeih-weih Hung
+    id: jeih-weih-hung
+    last: Hung
+  author_string: Hsin-Ju Hsieh, Wen-hsiang Tu, Jeih-weih Hung
+  bibkey: hsieh-etal-2011-compensating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '21'
+  page_last: '42'
+  pages: "21\u201342"
+  paper_id: '2'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1002.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1002.jpg
+  title: "Compensating the Speech Features via Discrete Cosine Transform for Robust\
+    \ Speech Recognition (\u57FA\u65BC\u96E2\u6563\u9918\u5F26\u8F49\u63DB\u4E4B\u8A9E\
+    \u97F3\u7279\u5FB5\u7684\u5F37\u5065\u6027\u88DC\u511F\u6CD5)"
+  title_html: "Compensating the Speech Features via Discrete Cosine Transform for\
+    \ Robust Speech Recognition (\u57FA\u65BC\u96E2\u6563\u9918\u5F26\u8F49\u63DB\u4E4B\
+    \u8A9E\u97F3\u7279\u5FB5\u7684\u5F37\u5065\u6027\u88DC\u511F\u6CD5)"
+  url: https://www.aclweb.org/anthology/O11-1002
+  year: '2011'
+O11-1003:
+  address: Taipei, Taiwan
+  author:
+  - first: Sheng-Tang
+    full: Sheng-Tang Wu
+    id: sheng-tang-wu
+    last: Wu
+  - first: Wei-Te
+    full: Wei-Te Fang
+    id: wei-te-fang
+    last: Fang
+  - first: Yuan-Fu
+    full: Yuan-Fu Liao
+    id: yuan-fu-liao
+    last: Liao
+  author_string: Sheng-Tang Wu, Wei-Te Fang, Yuan-Fu Liao
+  bibkey: wu-etal-2011-lian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '43'
+  page_last: '63'
+  pages: "43\u201363"
+  paper_id: '3'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1003.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1003.jpg
+  title: "\u806F\u5408\u8A9E\u8005\u3001\u96DC\u8A0A\u74B0\u5883\u8207\u8AAA\u8A71\
+    \u5167\u5BB9\u56E0\u7D20\u5206\u6790\u4E4B\u5F37\u5065\u6027\u8A9E\u97F3\u8FA8\
+    \u8A8D (Joint Factor Analysis for Robust Speech Recognition) [In Chinese]"
+  title_html: "\u806F\u5408\u8A9E\u8005\u3001\u96DC\u8A0A\u74B0\u5883\u8207\u8AAA\u8A71\
+    \u5167\u5BB9\u56E0\u7D20\u5206\u6790\u4E4B\u5F37\u5065\u6027\u8A9E\u97F3\u8FA8\
+    \u8A8D (Joint Factor Analysis for Robust Speech Recognition) [In <span class=\"\
+    acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1003
+  year: '2011'
+O11-1004:
+  address: Taipei, Taiwan
+  author:
+  - first: Yu-Yun
+    full: Yu-Yun Chang
+    id: yu-yun-chang
+    last: Chang
+  author_string: Yu-Yun Chang
+  bibkey: chang-2011-evaluation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '64'
+  page_last: '78'
+  pages: "64\u201378"
+  paper_id: '4'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1004.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1004.jpg
+  title: Evaluation of TTS Systems in Intelligibility and Comprehension Tasks
+  title_html: Evaluation of <span class="acl-fixed-case">TTS</span> Systems in Intelligibility
+    and Comprehension Tasks
+  url: https://www.aclweb.org/anthology/O11-1004
+  year: '2011'
+O11-1005:
+  address: Taipei, Taiwan
+  author:
+  - first: Ming-Chuan
+    full: Ming-Chuan Chiang
+    id: ming-chuan-chiang
+    last: Chiang
+  - first: Chung-Chi
+    full: Chung-Chi Huang
+    id: chung-chi-huang
+    last: Huang
+  - first: "\u201CHe,Ho-Ching\u201D"
+    full: "\u201CHe,Ho-Ching\u201D Yen"
+    id: he-ho-ching-yen
+    last: Yen
+  - first: Shih-Ting
+    full: Shih-Ting Huang
+    id: shih-ting-huang
+    last: Huang
+  - first: Chun-Sheng
+    full: Chun-Sheng Chang
+    id: chun-sheng-chang
+    last: Chang
+  - first: Ping-Che
+    full: Ping-Che Yang
+    id: ping-che-yang
+    last: Yang
+  - first: Tsun
+    full: Tsun Ku
+    id: tsun-ku
+    last: Ku
+  author_string: "Ming-Chuan Chiang, Chung-Chi Huang, \u201CHe,Ho-Ching\u201D Yen,\
+    \ Shih-Ting Huang, Chun-Sheng Chang, Ping-Che Yang, Tsun Ku"
+  bibkey: chiang-etal-2011-pian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '79'
+  page_last: '93'
+  pages: "79\u201393"
+  paper_id: '5'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1005.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1005.jpg
+  title: "\u7247\u8A9E\u5F0F\u6A5F\u5668\u7FFB\u8B6F\u4E2D\u672A\u77E5\u8A5E\u8207\
+    \u843D\u55AE\u5B57\u7684\u554F\u984C\u63A2\u8A0E (Learning to Deal with the OOV\
+    \ Problem in Phrase-based MT System) [In Chinese]"
+  title_html: "\u7247\u8A9E\u5F0F\u6A5F\u5668\u7FFB\u8B6F\u4E2D\u672A\u77E5\u8A5E\u8207\
+    \u843D\u55AE\u5B57\u7684\u554F\u984C\u63A2\u8A0E (Learning to Deal with the <span\
+    \ class=\"acl-fixed-case\">OOV</span> Problem in Phrase-based <span class=\"acl-fixed-case\"\
+    >MT</span> System) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1005
+  year: '2011'
+O11-1006:
+  address: Taipei, Taiwan
+  author:
+  - first: Yi-Hsuan
+    full: Yi-Hsuan Chuang
+    id: yi-hsuan-chuang
+    last: Chuang
+  - first: Jui-Ping
+    full: Jui-Ping Wang
+    id: jui-ping-wang
+    last: Wang
+  - first: Chia-Chi
+    full: Chia-Chi Tsai
+    id: chia-chi-tsai
+    last: Tsai
+  - first: Chao-Lin
+    full: Chao-Lin Liu
+    id: chao-lin-liu
+    last: Liu
+  author_string: Yi-Hsuan Chuang, Jui-Ping Wang, Chia-Chi Tsai, Chao-Lin Liu
+  bibkey: chuang-etal-2011-ying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '94'
+  page_last: '108'
+  pages: "94\u2013108"
+  paper_id: '6'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1006.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1006.jpg
+  title: "\u82F1\u6587\u6280\u8853\u6587\u737B\u4E2D\u4E00\u822C\u52D5\u8A5E\u8207\
+    \u5176\u53D7\u8A5E\u4E4B\u4E2D\u6587\u7FFB\u8B6F\u7684\u8A9E\u5883\u6548\u7528\
+    \ (Collocational Influences on the Chinese Translations of Non-Technical English\
+    \ Verbs and Their Objects in Technical Documents) [In Chinese]"
+  title_html: "\u82F1\u6587\u6280\u8853\u6587\u737B\u4E2D\u4E00\u822C\u52D5\u8A5E\u8207\
+    \u5176\u53D7\u8A5E\u4E4B\u4E2D\u6587\u7FFB\u8B6F\u7684\u8A9E\u5883\u6548\u7528\
+    \ (Collocational Influences on the <span class=\"acl-fixed-case\">C</span>hinese\
+    \ Translations of Non-Technical <span class=\"acl-fixed-case\">E</span>nglish\
+    \ Verbs and Their Objects in Technical Documents) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1006
+  year: '2011'
+O11-1007:
+  address: Taipei, Taiwan
+  author:
+  - first: Ting-hao
+    full: Ting-hao Yang
+    id: ting-hao-yang
+    last: Yang
+  - first: Tian-Jian
+    full: Tian-Jian Jiang
+    id: mike-tian-jian-jiang
+    last: Jiang
+  - first: Chan-hung
+    full: Chan-hung Kuo
+    id: chan-hung-kuo
+    last: Kuo
+  - first: Richard Tzong-han
+    full: Richard Tzong-han Tsai
+    id: richard-tzong-han-tsai
+    last: Tsai
+  - first: Wen-lian
+    full: Wen-lian Hsu
+    id: wen-lian-hsu
+    last: Hsu
+  author_string: Ting-hao Yang, Tian-Jian Jiang, Chan-hung Kuo, Richard Tzong-han
+    Tsai, Wen-lian Hsu
+  bibkey: yang-etal-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '109'
+  page_last: '122'
+  pages: "109\u2013122"
+  paper_id: '7'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1007.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1007.jpg
+  title: Unsupervised Overlapping Feature Selection for Conditional Random Fields
+    Learning in Chinese Word Segmentation
+  title_html: Unsupervised Overlapping Feature Selection for Conditional Random Fields
+    Learning in <span class="acl-fixed-case">C</span>hinese Word Segmentation
+  url: https://www.aclweb.org/anthology/O11-1007
+  year: '2011'
+O11-1008:
+  address: Taipei, Taiwan
+  author:
+  - first: Chuan-Chieh
+    full: Chuan-Chieh Lin
+    id: chuan-chieh-lin
+    last: Lin
+  - first: Chia-Cheng
+    full: Chia-Cheng Chan
+    id: chia-cheng-chan
+    last: Chan
+  - first: Yen-Heng
+    full: Yen-Heng Chen
+    id: yen-heng-chen
+    last: Chen
+  - first: Chien-Wei
+    full: Chien-Wei Pao
+    id: chien-wei-pao
+    last: Pao
+  author_string: Chuan-Chieh Lin, Chia-Cheng Chan, Yen-Heng Chen, Chien-Wei Pao
+  bibkey: lin-etal-2011-fan
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '123'
+  page_last: '138'
+  pages: "123\u2013138"
+  paper_id: '8'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1008.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1008.jpg
+  title: "\u7E41\u9AD4\u4E2D\u6587\u6587\u672C\u4E2D\u5C0D\u65BC\u65E5\u6587\u4EBA\
+    \u540D\u53CA\u7570\u9AD4\u5B57\u7684\u8655\u7406\u7B56\u7565 (Strategies of Processing\
+    \ Japanese Names and Variant Characters in Traditional Chinese Text) [In Chinese]"
+  title_html: "\u7E41\u9AD4\u4E2D\u6587\u6587\u672C\u4E2D\u5C0D\u65BC\u65E5\u6587\u4EBA\
+    \u540D\u53CA\u7570\u9AD4\u5B57\u7684\u8655\u7406\u7B56\u7565 (Strategies of Processing\
+    \ <span class=\"acl-fixed-case\">J</span>apanese Names and Variant Characters\
+    \ in Traditional <span class=\"acl-fixed-case\">C</span>hinese Text) [In <span\
+    \ class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1008
+  year: '2011'
+O11-1009:
+  address: Taipei, Taiwan
+  author:
+  - first: You-shan
+    full: You-shan Chung
+    id: you-shan-chung
+    last: Chung
+  - first: Keh-Jiann
+    full: Keh-Jiann Chen
+    id: keh-jiann-chen
+    last: Chen
+  author_string: You-shan Chung, Keh-Jiann Chen
+  bibkey: chung-chen-2011-dong
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '139'
+  page_last: '150'
+  pages: "139\u2013150"
+  paper_id: '9'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1009.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1009.jpg
+  title: "\u52D5\u88DC\u7D50\u69CB\u7684\u53CA\u7269\u6027\u53CA\u4FEE\u98FE\u5C0D\
+    \u8C61 (Transitivity of a Chinese Verb-result Compound and Affected Argument of\
+    \ the Result Verb) [In Chinese]"
+  title_html: "\u52D5\u88DC\u7D50\u69CB\u7684\u53CA\u7269\u6027\u53CA\u4FEE\u98FE\u5C0D\
+    \u8C61 (Transitivity of a <span class=\"acl-fixed-case\">C</span>hinese Verb-result\
+    \ Compound and Affected Argument of the Result Verb) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1009
+  year: '2011'
+O11-1010:
+  address: Taipei, Taiwan
+  author:
+  - first: Cheng-Ru
+    full: Cheng-Ru Li
+    id: cheng-ru-li
+    last: Li
+  - first: Chi-Hsin
+    full: Chi-Hsin Yu
+    id: chi-hsin-yu
+    last: Yu
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Cheng-Ru Li, Chi-Hsin Yu, Hsin-Hsi Chen
+  bibkey: li-etal-2011-guang
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '151'
+  page_last: '165'
+  pages: "151\u2013165"
+  paper_id: '10'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1010.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1010.jpg
+  title: "\u5EE3\u7FA9\u77E5\u7DB2\u8A5E\u5F59\u610F\u898B\u6975\u6027\u7684\u9810\
+    \u6E2C (Predicting the Semantic Orientation of Terms in E-HowNet) [In Chinese]"
+  title_html: "\u5EE3\u7FA9\u77E5\u7DB2\u8A5E\u5F59\u610F\u898B\u6975\u6027\u7684\u9810\
+    \u6E2C (Predicting the Semantic Orientation of Terms in E-<span class=\"acl-fixed-case\"\
+    >H</span>ow<span class=\"acl-fixed-case\">N</span>et) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1010
+  year: '2011'
+O11-1011:
+  address: Taipei, Taiwan
+  author:
+  - first: Chia-Hui
+    full: Chia-Hui Chang
+    id: chia-hui-chang
+    last: Chang
+  - first: Shu-Yen
+    full: Shu-Yen Lin
+    id: shu-yen-lin
+    last: Lin
+  author_string: Chia-Hui Chang, Shu-Yen Lin
+  bibkey: chang-lin-2011-sheng
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '166'
+  page_last: '178'
+  pages: "166\u2013178"
+  paper_id: '11'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1011.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1011.jpg
+  title: "\u8072\u7B26\u90E8\u4EF6\u6392\u5E8F\u8207\u5F62\u8072\u5B57\u767C\u97F3\
+    \u898F\u5247\u63A2\u52D8 (Pronunciation Rules Discovery for Picto-Phonetic Chinese\
+    \ Characters) [In Chinese]"
+  title_html: "\u8072\u7B26\u90E8\u4EF6\u6392\u5E8F\u8207\u5F62\u8072\u5B57\u767C\u97F3\
+    \u898F\u5247\u63A2\u52D8 (Pronunciation Rules Discovery for Picto-Phonetic <span\
+    \ class=\"acl-fixed-case\">C</span>hinese Characters) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-1011
+  year: '2011'
+O11-1012:
+  address: Taipei, Taiwan
+  author:
+  - first: Sheng-Fu
+    full: Sheng-Fu Wang
+    id: sheng-fu-wang
+    last: Wang
+  - first: Jing-Chen
+    full: Jing-Chen Yang
+    id: jing-chen-yang
+    last: Yang
+  - first: Yu-Yun
+    full: Yu-Yun Chang
+    id: yu-yun-chang
+    last: Chang
+  - first: Yu-Wen
+    full: Yu-Wen Liu
+    id: yu-wen-liu
+    last: Liu
+  - first: Shu-Kai
+    full: Shu-Kai Hsieh
+    id: shu-kai-hsieh
+    last: Hsieh
+  author_string: Sheng-Fu Wang, Jing-Chen Yang, Yu-Yun Chang, Yu-Wen Liu, Shu-Kai
+    Hsieh
+  bibkey: wang-etal-2011-frequency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 23rd Conference on Computational Linguistics and Speech
+    Processing (ROCLING 2011)
+  booktitle_html: Proceedings of the 23rd Conference on Computational Linguistics
+    and Speech Processing (<span class="acl-fixed-case">ROCLING</span> 2011)
+  month: September
+  page_first: '179'
+  page_last: '193'
+  pages: "179\u2013193"
+  paper_id: '12'
+  parent_volume_id: O11-1
+  pdf: https://www.aclweb.org/anthology/O11-1012.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-1012.jpg
+  title: 'Frequency, Collocation, and Statistical Modeling of Lexical Items: A Case
+    Study of Temporal Expressions in an Elderly Speaker Corpus'
+  title_html: 'Frequency, Collocation, and Statistical Modeling of Lexical Items:
+    A Case Study of Temporal Expressions in an Elderly Speaker Corpus'
+  url: https://www.aclweb.org/anthology/O11-1012
+  year: '2011'
+O11-2000:
+  address: Taipei, Taiwan
+  bibkey: rocling-ijclclp-2011-rocling
+  bibtype: proceedings
+  booktitle: ROCLING 2011 Poster Papers
+  month: September
+  paper_id: '0'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2000.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2000.jpg
+  title: ROCLING 2011 Poster Papers
+  title_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  url: https://www.aclweb.org/anthology/O11-2000
+  year: '2011'
+O11-2001:
+  address: Taipei, Taiwan
+  author:
+  - first: Wen-Yi
+    full: Wen-Yi Chu
+    id: wen-yi-chu
+    last: Chu
+  - first: Yu-Chen
+    full: Yu-Chen Kao
+    id: yu-chen-kao
+    last: Kao
+  - first: Berlin
+    full: Berlin Chen
+    id: berlin-chen
+    last: Chen
+  - first: Jeih-Weih
+    full: Jeih-Weih Hung
+    id: jeih-weih-hung
+    last: Hung
+  author_string: Wen-Yi Chu, Yu-Chen Kao, Berlin Chen, Jeih-Weih Hung
+  bibkey: chu-etal-2011-ji
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '194'
+  page_last: '206'
+  pages: "194\u2013206"
+  paper_id: '1'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2001.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2001.jpg
+  title: "\u6A5F\u7387\u5F0F\u8ABF\u8B8A\u983B\u8B5C\u5206\u89E3\u65BC\u5F37\u5065\
+    \u6027\u8A9E\u97F3\u8FA8\u8B58 (Probabilistic Modulation Spectrum Factorization\
+    \ for Robust Speech Recognition) [In Chinese]"
+  title_html: "\u6A5F\u7387\u5F0F\u8ABF\u8B8A\u983B\u8B5C\u5206\u89E3\u65BC\u5F37\u5065\
+    \u6027\u8A9E\u97F3\u8FA8\u8B58 (Probabilistic Modulation Spectrum Factorization\
+    \ for Robust Speech Recognition) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2001
+  year: '2011'
+O11-2002:
+  address: Taipei, Taiwan
+  author:
+  - first: Wei-En
+    full: Wei-En Liao
+    id: wei-en-liao
+    last: Liao
+  - first: Hsin-Chieh
+    full: Hsin-Chieh Lee
+    id: hsin-chieh-lee
+    last: Lee
+  - first: Wei-Ho
+    full: Wei-Ho Tsai
+    id: wei-ho-tsai
+    last: Tsai
+  author_string: Wei-En Liao, Hsin-Chieh Lee, Wei-Ho Tsai
+  bibkey: liao-etal-2011-ying
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '207'
+  page_last: '215'
+  pages: "207\u2013215"
+  paper_id: '2'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2002.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2002.jpg
+  title: "\u61C9\u7528\u8A9E\u97F3\u8FA8\u8B58\u6280\u8853\u65BC\u9CE5\u9CF4\u8072\
+    \u8FA8\u8B58 (Bird Species Recognition Based on Speech Processing Techniques)\
+    \ [In Chinese]"
+  title_html: "\u61C9\u7528\u8A9E\u97F3\u8FA8\u8B58\u6280\u8853\u65BC\u9CE5\u9CF4\u8072\
+    \u8FA8\u8B58 (Bird Species Recognition Based on Speech Processing Techniques)\
+    \ [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2002
+  year: '2011'
+O11-2003:
+  address: Taipei, Taiwan
+  author:
+  - first: Hung-Yan
+    full: Hung-Yan Gu
+    id: hung-yan-gu
+    last: Gu
+  - first: Sung-Fung
+    full: Sung-Fung Tsai
+    id: sung-fung-tsai
+    last: Tsai
+  author_string: Hung-Yan Gu, Sung-Fung Tsai
+  bibkey: gu-tsai-2011-shi
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '216'
+  page_last: '226'
+  pages: "216\u2013226"
+  paper_id: '3'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2003.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2003.jpg
+  title: "\u4F7F\u7528\u5206\u6BB5\u5F0FGMM \u53CA\u81EA\u52D5GMM \u6311\u9078\u4E4B\
+    \u8A9E\u97F3\u8F49\u63DB\u65B9\u6CD5 (A Voice Conversion Method Using Segmental\
+    \ GMMs and Automatic GMM Selection) [In Chinese]"
+  title_html: "\u4F7F\u7528\u5206\u6BB5\u5F0F<span class=\"acl-fixed-case\">GMM</span>\
+    \ \u53CA\u81EA\u52D5<span class=\"acl-fixed-case\">GMM</span> \u6311\u9078\u4E4B\
+    \u8A9E\u97F3\u8F49\u63DB\u65B9\u6CD5 (A Voice Conversion Method Using Segmental\
+    \ <span class=\"acl-fixed-case\">GMM</span>s and Automatic <span class=\"acl-fixed-case\"\
+    >GMM</span> Selection) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2003
+  year: '2011'
+O11-2004:
+  address: Taipei, Taiwan
+  author:
+  - first: Tao-Hsing
+    full: Tao-Hsing Chang
+    id: tao-hsing-chang
+    last: Chang
+  - first: Chia-Bin
+    full: Chia-Bin Chou
+    id: chia-bin-chou
+    last: Chou
+  - first: Shou-Yen
+    full: Shou-Yen Su
+    id: shou-yen-su
+    last: Su
+  - first: Chien-Liang
+    full: Chien-Liang Liu
+    id: chien-liang-liu
+    last: Liu
+  author_string: Tao-Hsing Chang, Chia-Bin Chou, Shou-Yen Su, Chien-Liang Liu
+  bibkey: chang-etal-2011-ying
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '227'
+  page_last: '239'
+  pages: "227\u2013239"
+  paper_id: '4'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2004.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2004.jpg
+  title: "\u61C9\u7528\u8A5E\u5F59\u3001\u8A9E\u6CD5\u8207\u8A9E\u6599\u898F\u5247\
+    \u65BC\u4E2D\u6587\u624B\u5BEB\u53E5\u8FA8\u8B58\u4E4B\u6821\u6B63\u6A21\u7D44\
+    \ (Revision for Recognizing Chinese Handwritten Sentences Based on Lexical, Syntactical\
+    \ and Corpus Rules) [In Chinese]"
+  title_html: "\u61C9\u7528\u8A5E\u5F59\u3001\u8A9E\u6CD5\u8207\u8A9E\u6599\u898F\u5247\
+    \u65BC\u4E2D\u6587\u624B\u5BEB\u53E5\u8FA8\u8B58\u4E4B\u6821\u6B63\u6A21\u7D44\
+    \ (Revision for Recognizing <span class=\"acl-fixed-case\">C</span>hinese Handwritten\
+    \ Sentences Based on Lexical, Syntactical and Corpus Rules) [In <span class=\"\
+    acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2004
+  year: '2011'
+O11-2005:
+  address: Taipei, Taiwan
+  author:
+  - first: Bruno
+    full: Bruno Galmar
+    id: bruno-galmar
+    last: Galmar
+  author_string: Bruno Galmar
+  bibkey: galmar-2011-using
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '240'
+  page_last: '251'
+  pages: "240\u2013251"
+  paper_id: '5'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2005.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2005.jpg
+  title: Using Kohonen Maps of Chinese Morphological Families to Visualize the Interplay
+    of Morphology and Semantics in Chinese
+  title_html: Using Kohonen Maps of <span class="acl-fixed-case">C</span>hinese Morphological
+    Families to Visualize the Interplay of Morphology and Semantics in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/O11-2005
+  year: '2011'
+O11-2006:
+  address: Taipei, Taiwan
+  author:
+  - first: Shu-Ping
+    full: Shu-Ping Gong
+    id: shu-ping-gong
+    last: Gong
+  - first: Kathleen
+    full: Kathleen Ahrens
+    id: kathleen-ahrens
+    last: Ahrens
+  author_string: Shu-Ping Gong, Kathleen Ahrens
+  bibkey: gong-ahrens-2011-prior
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '252'
+  page_last: '264'
+  pages: "252\u2013264"
+  paper_id: '6'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2006.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2006.jpg
+  title: The Prior Knowledge Effect on the Processing of Vague Discourse in Mandarin
+    Chinese
+  title_html: The Prior Knowledge Effect on the Processing of Vague Discourse in <span
+    class="acl-fixed-case">M</span>andarin <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/O11-2006
+  year: '2011'
+O11-2007:
+  address: Taipei, Taiwan
+  author:
+  - first: Tzu-Hui
+    full: Tzu-Hui Hsieh
+    id: tzu-hui-hsieh
+    last: Hsieh
+  - first: Yi-Chun
+    full: Yi-Chun Kuo
+    id: yi-chun-kuo
+    last: Kuo
+  - first: Shu-Chun
+    full: Shu-Chun Chung
+    id: shu-chun-chung
+    last: Chung
+  - first: Jiun-Shiung
+    full: Jiun-Shiung Wu
+    id: jiun-shiung-wu
+    last: Wu
+  author_string: Tzu-Hui Hsieh, Yi-Chun Kuo, Shu-Chun Chung, Jiun-Shiung Wu
+  bibkey: hsieh-etal-2011-learning
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '265'
+  page_last: '280'
+  pages: "265\u2013280"
+  paper_id: '7'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2007.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2007.jpg
+  title: "On the Learning of Chinese Aspect Markers through Multimedia Program (\u591A\
+    \u5A92\u9AD4\u8AB2\u7A0B\u5C0D\u83EF\u8A9E\u6642\u8C8C\u6A19\u8A18\u5B78\u7FD2\
+    \u6210\u6548\u4E4B\u7814\u7A76)"
+  title_html: "On the Learning of <span class=\"acl-fixed-case\">C</span>hinese Aspect\
+    \ Markers through Multimedia Program (\u591A\u5A92\u9AD4\u8AB2\u7A0B\u5C0D\u83EF\
+    \u8A9E\u6642\u8C8C\u6A19\u8A18\u5B78\u7FD2\u6210\u6548\u4E4B\u7814\u7A76)"
+  url: https://www.aclweb.org/anthology/O11-2007
+  year: '2011'
+O11-2008:
+  address: Taipei, Taiwan
+  author:
+  - first: Wan-Chi
+    full: Wan-Chi Huang
+    id: wan-chi-huang
+    last: Huang
+  - first: Shih-Hung
+    full: Shih-Hung Wu
+    id: shih-hung-wu
+    last: Wu
+  - first: Liang-Pu
+    full: Liang-Pu Chen
+    id: liang-pu-chen
+    last: Chen
+  - first: Tsun
+    full: Tsun Ku
+    id: tsun-ku
+    last: Ku
+  author_string: Wan-Chi Huang, Shih-Hung Wu, Liang-Pu Chen, Tsun Ku
+  bibkey: huang-etal-2011-zhong
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '281'
+  page_last: '296'
+  pages: "281\u2013296"
+  paper_id: '8'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2008.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2008.jpg
+  title: "\u4E2D\u6587\u6587\u5B57\u860A\u6DB5\u7CFB\u7D71\u4E4B\u7279\u5FB5\u5206\
+    \u6790 (Feature Analysis of Chinese Textual Entailment System) [In Chinese]"
+  title_html: "\u4E2D\u6587\u6587\u5B57\u860A\u6DB5\u7CFB\u7D71\u4E4B\u7279\u5FB5\u5206\
+    \u6790 (Feature Analysis of <span class=\"acl-fixed-case\">C</span>hinese Textual\
+    \ Entailment System) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2008
+  year: '2011'
+O11-2009:
+  address: Taipei, Taiwan
+  author:
+  - first: Yu-Jui
+    full: Yu-Jui Huang
+    id: yu-jui-huang
+    last: Huang
+  - first: Ming-Chin
+    full: Ming-Chin Yen
+    id: ming-chin-yen
+    last: Yen
+  - first: Guan-Huei
+    full: Guan-Huei Wu
+    id: guan-huei-wu
+    last: Wu
+  - first: Yao-Yi
+    full: Yao-Yi Wang
+    id: yao-yi-wang
+    last: Wang
+  - first: Jui-Feng
+    full: Jui-Feng Yeh
+    id: jui-feng-yeh
+    last: Yeh
+  author_string: Yu-Jui Huang, Ming-Chin Yen, Guan-Huei Wu, Yao-Yi Wang, Jui-Feng
+    Yeh
+  bibkey: huang-etal-2011-jie
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '297'
+  page_last: '309'
+  pages: "297\u2013309"
+  paper_id: '9'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2009.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2009.jpg
+  title: "\u7D50\u5408\u8A9E\u8A00\u6A21\u578B\u8207\u7DB2\u8DEF\u77E5\u8B58\u6E90\
+    \u65BC\u5217\u5370\u524D\u6AA2\u67E5 (Print Pickets Combined Language Models and\
+    \ Knowledge Resources in Web) [In Chinese]"
+  title_html: "\u7D50\u5408\u8A9E\u8A00\u6A21\u578B\u8207\u7DB2\u8DEF\u77E5\u8B58\u6E90\
+    \u65BC\u5217\u5370\u524D\u6AA2\u67E5 (Print Pickets Combined Language Models and\
+    \ Knowledge Resources in Web) [In <span class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2009
+  year: '2011'
+O11-2010:
+  address: Taipei, Taiwan
+  author:
+  - first: Tung-yu
+    full: Tung-yu Kao
+    id: tung-yu-kao
+    last: Kao
+  - first: Li-mei
+    full: Li-mei Chen
+    id: li-mei-chen
+    last: Chen
+  author_string: Tung-yu Kao, Li-mei Chen
+  bibkey: kao-chen-2011-diagnosing
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '310'
+  page_last: '322'
+  pages: "310\u2013322"
+  paper_id: '10'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2010.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2010.jpg
+  title: "Diagnosing Discoursal Organization in Learner Writing via Conjunctive Adverbials\
+    \ (\u8A3A\u65B7\u5B78\u7FD2\u8005\u82F1\u8A9E\u5BEB\u4F5C\u7BC7\u7AE0\u7D50\u69CB\
+    \uFF1A\u4EE5\u7BC7\u7AE0\u9023\u63A5\u526F\u8A5E\u70BA\u4F8B)"
+  title_html: "Diagnosing Discoursal Organization in Learner Writing via Conjunctive\
+    \ Adverbials (\u8A3A\u65B7\u5B78\u7FD2\u8005\u82F1\u8A9E\u5BEB\u4F5C\u7BC7\u7AE0\
+    \u7D50\u69CB\uFF1A\u4EE5\u7BC7\u7AE0\u9023\u63A5\u526F\u8A5E\u70BA\u4F8B)"
+  url: https://www.aclweb.org/anthology/O11-2010
+  year: '2011'
+O11-2011:
+  address: Taipei, Taiwan
+  author:
+  - first: Li-Chuan
+    full: Li-Chuan Ku
+    id: li-chuan-ku
+    last: Ku
+  author_string: Li-Chuan Ku
+  bibkey: ku-2011-compositional
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '323'
+  page_last: '332'
+  pages: "323\u2013332"
+  paper_id: '11'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2011.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2011.jpg
+  title: "Compositional Operations of Mandarin Chinese Verb \u201Cda3\u201D: A Generative\
+    \ Lexicon Approach"
+  title_html: "Compositional Operations of <span class=\"acl-fixed-case\">M</span>andarin\
+    \ <span class=\"acl-fixed-case\">C</span>hinese Verb \u201Cda3\u201D: A Generative\
+    \ Lexicon Approach"
+  url: https://www.aclweb.org/anthology/O11-2011
+  year: '2011'
+O11-2012:
+  address: Taipei, Taiwan
+  author:
+  - first: Chin-Chin
+    full: Chin-Chin Tseng
+    id: chin-chin-tseng
+    last: Tseng
+  author_string: Chin-Chin Tseng
+  bibkey: tseng-2011-typological
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '333'
+  page_last: '348'
+  pages: "333\u2013348"
+  paper_id: '12'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2012.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2012.jpg
+  title: Typological Universals and Intrinsic Universals on the L2 Acquisition of
+    Consonant Clusters
+  title_html: Typological Universals and Intrinsic Universals on the <span class="acl-fixed-case">L</span>2
+    Acquisition of Consonant Clusters
+  url: https://www.aclweb.org/anthology/O11-2012
+  year: '2011'
+O11-2013:
+  address: Taipei, Taiwan
+  author:
+  - first: Yi-Lun
+    full: Yi-Lun Wu
+    id: yi-lun-wu
+    last: Wu
+  - first: Chaio-Wen
+    full: Chaio-Wen Hsieh
+    id: chaio-wen-hsieh
+    last: Hsieh
+  - first: Wei-Hsuan
+    full: Wei-Hsuan Lin
+    id: wei-hsuan-lin
+    last: Lin
+  - first: Chun-Yi
+    full: Chun-Yi Liu
+    id: chun-yi-liu
+    last: Liu
+  - first: Liang-Chih
+    full: Liang-Chih Yu
+    id: liang-chih-yu
+    last: Yu
+  author_string: Yi-Lun Wu, Chaio-Wen Hsieh, Wei-Hsuan Lin, Chun-Yi Liu, Liang-Chih
+    Yu
+  bibkey: wu-etal-2011-duo
+  bibtype: inproceedings
+  booktitle: ROCLING 2011 Poster Papers
+  booktitle_html: <span class="acl-fixed-case">ROCLING</span> 2011 Poster Papers
+  month: September
+  page_first: '349'
+  page_last: '360'
+  pages: "349\u2013360"
+  paper_id: '13'
+  parent_volume_id: O11-2
+  pdf: https://www.aclweb.org/anthology/O11-2013.pdf
+  publisher: The Association for Computational Linguistics and Chinese Language Processing
+    (ACLCLP)
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-2013.jpg
+  title: "\u591A\u8A9E\u8A9E\u78BC\u8F49\u63DB\u4E4B\u672A\u77E5\u8A5E\u64F7\u53D6\
+    \ (Unknown Word Extraction from Multilingual Code-Switching Sentences) [In Chinese]"
+  title_html: "\u591A\u8A9E\u8A9E\u78BC\u8F49\u63DB\u4E4B\u672A\u77E5\u8A5E\u64F7\u53D6\
+    \ (Unknown Word Extraction from Multilingual Code-Switching Sentences) [In <span\
+    \ class=\"acl-fixed-case\">C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-2013
+  year: '2011'
+O11-3000:
+  author:
+  - first: Yuen-Hsien
+    full: Yuen-Hsien Tseng
+    id: yuen-hsien-tseng
+    last: Tseng
+  - first: Kuang-hua
+    full: Kuang-hua Chen
+    id: kuang-hua-chen
+    last: Chen
+  author_string: Yuen-Hsien Tseng, Kuang-hua Chen
+  bibkey: rocling-ijclclp-2011-international
+  bibtype: proceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 1-2, March/June 2011
+  month: March/June
+  paper_id: '0'
+  parent_volume_id: O11-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-3000.jpg
+  title: International Journal of Computational Linguistics & Chinese Language Processing,
+    Volume 16, Number 1-2, March/June 2011
+  title_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 1-2, March/June 2011
+  year: '2011'
+O11-3001:
+  author:
+  - first: Wei-Ho
+    full: Wei-Ho Tsai
+    id: wei-ho-tsai
+    last: Tsai
+  - first: Hsin-Chieh
+    full: Hsin-Chieh Lee
+    id: hsin-chieh-lee
+    last: Lee
+  author_string: Wei-Ho Tsai, Hsin-Chieh Lee
+  bibkey: tsai-lee-2011-performance
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 1-2, March/June 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 1-2, March/June 2011
+  month: March/June
+  paper_id: '1'
+  parent_volume_id: O11-3
+  pdf: https://www.aclweb.org/anthology/O11-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-3001.jpg
+  title: Performance Evaluation of Speaker-Identification Systems for Singing Voice
+    Data
+  title_html: Performance Evaluation of Speaker-Identification Systems for Singing
+    Voice Data
+  url: https://www.aclweb.org/anthology/O11-3001
+  year: '2011'
+O11-3002:
+  author:
+  - first: Tyne
+    full: Tyne Liang
+    id: tyne-liang
+    last: Liang
+  - first: Jyun-Hua
+    full: Jyun-Hua Cheng
+    id: jyun-hua-cheng
+    last: Cheng
+  author_string: Tyne Liang, Jyun-Hua Cheng
+  bibkey: liang-cheng-2011-resolving
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 1-2, March/June 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 1-2, March/June 2011
+  month: March/June
+  paper_id: '2'
+  parent_volume_id: O11-3
+  pdf: https://www.aclweb.org/anthology/O11-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-3002.jpg
+  title: Resolving Abstract Definite Anaphora in Chinese Texts
+  title_html: Resolving Abstract Definite Anaphora in <span class="acl-fixed-case">C</span>hinese
+    Texts
+  url: https://www.aclweb.org/anthology/O11-3002
+  year: '2011'
+O11-3003:
+  author:
+  - first: Chao-Lin
+    full: Chao-Lin Liu
+    id: chao-lin-liu
+    last: Liu
+  - first: Guantao
+    full: Guantao Jin
+    id: guantao-jin
+    last: Jin
+  - first: Qingfeng
+    full: Qingfeng Liu
+    id: qingfeng-liu
+    last: Liu
+  - first: Wei-Yun
+    full: Wei-Yun Chiu
+    id: wei-yun-chiu
+    last: Chiu
+  - first: Yih-Soong
+    full: Yih-Soong Yu
+    id: yih-soong-yu
+    last: Yu
+  author_string: Chao-Lin Liu, Guantao Jin, Qingfeng Liu, Wei-Yun Chiu, Yih-Soong
+    Yu
+  bibkey: liu-etal-2011-chances
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 1-2, March/June 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 1-2, March/June 2011
+  month: March/June
+  paper_id: '3'
+  parent_volume_id: O11-3
+  pdf: https://www.aclweb.org/anthology/O11-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-3003.jpg
+  title: Some Chances and Challenges in Applying Language Technologies to Historical
+    Studies in Chinese
+  title_html: Some Chances and Challenges in Applying Language Technologies to Historical
+    Studies in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/O11-3003
+  year: '2011'
+O11-3004:
+  author:
+  - first: Chih-Chuan
+    full: Chih-Chuan Hsu
+    id: chih-chuan-hsu
+    last: Hsu
+  - first: Shih-Hung
+    full: Shih-Hung Wu
+    id: shih-hung-wu
+    last: Wu
+  author_string: Chih-Chuan Hsu, Shih-Hung Wu
+  bibkey: hsu-wu-2011-yi
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 1-2, March/June 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 1-2, March/June 2011
+  month: March/June
+  paper_id: '4'
+  parent_volume_id: O11-3
+  pdf: https://www.aclweb.org/anthology/O11-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-3004.jpg
+  title: "\u4EE5\u7C60\u7D71\u67E5\u8A62\u8A55\u4F30\u67E5\u8A62\u64F4\u5C55\u65B9\
+    \u6CD5\u8207\u7DDA\u4E0A\u641C\u5C0B\u5F15\u64CE\u4E4B\u8CC7\u8A0A\u6AA2\u7D22\
+    \u6548\u80FD (Evaluating the Information Retrieval Performance of Query Expansion\
+    \ Method and On-line Search Engine on General Query) [In Chinese]"
+  title_html: "\u4EE5\u7C60\u7D71\u67E5\u8A62\u8A55\u4F30\u67E5\u8A62\u64F4\u5C55\u65B9\
+    \u6CD5\u8207\u7DDA\u4E0A\u641C\u5C0B\u5F15\u64CE\u4E4B\u8CC7\u8A0A\u6AA2\u7D22\
+    \u6548\u80FD (Evaluating the Information Retrieval Performance of Query Expansion\
+    \ Method and On-line Search Engine on General Query) [In <span class=\"acl-fixed-case\"\
+    >C</span>hinese]"
+  url: https://www.aclweb.org/anthology/O11-3004
+  year: '2011'
+O11-4000:
+  author:
+  - first: Yuen-Hsien
+    full: Yuen-Hsien Tseng
+    id: yuen-hsien-tseng
+    last: Tseng
+  - first: Kuang-hua
+    full: Kuang-hua Chen
+    id: kuang-hua-chen
+    last: Chen
+  author_string: Yuen-Hsien Tseng, Kuang-hua Chen
+  bibkey: rocling-ijclclp-2011-international-journal
+  bibtype: proceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 3-4, September/December 2011
+  month: September/December
+  paper_id: '0'
+  parent_volume_id: O11-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-4000.jpg
+  title: International Journal of Computational Linguistics & Chinese Language Processing,
+    Volume 16, Number 3-4, September/December 2011
+  title_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 3-4, September/<span class="acl-fixed-case">D</span>ecember
+    2011
+  year: '2011'
+O11-4001:
+  author:
+  - first: Neil Edward
+    full: Neil Edward Barrett
+    id: neil-edward-barrett
+    last: Barrett
+  - first: Li-mei
+    full: Li-mei Chen
+    id: li-mei-chen
+    last: Chen
+  author_string: Neil Edward Barrett, Li-mei Chen
+  bibkey: barrett-chen-2011-english
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 3-4, September/December 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 3-4, September/<span class="acl-fixed-case">D</span>ecember
+    2011
+  month: September/December
+  paper_id: '1'
+  parent_volume_id: O11-4
+  pdf: https://www.aclweb.org/anthology/O11-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-4001.jpg
+  title: "English Article Errors in Taiwanese College Students\u2019 EFL Writing"
+  title_html: "<span class=\"acl-fixed-case\">E</span>nglish Article Errors in <span\
+    \ class=\"acl-fixed-case\">T</span>aiwanese College Students\u2019 <span class=\"\
+    acl-fixed-case\">EFL</span> Writing"
+  url: https://www.aclweb.org/anthology/O11-4001
+  year: '2011'
+O11-4002:
+  author:
+  - first: F. Y. August
+    full: F. Y. August Chao
+    id: f-y-august-chao
+    last: Chao
+  - first: Siaw-Fong
+    full: Siaw-Fong Chung
+    id: siaw-fong-chung
+    last: Chung
+  author_string: F. Y. August Chao, Siaw-Fong Chung
+  bibkey: chao-chung-2011-ji
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 3-4, September/December 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 3-4, September/<span class="acl-fixed-case">D</span>ecember
+    2011
+  month: September/December
+  paper_id: '2'
+  parent_volume_id: O11-4
+  pdf: https://www.aclweb.org/anthology/O11-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-4002.jpg
+  title: "\u57FA\u65BC\u8FAD\u5178\u8FAD\u5F59\u91CB\u7FA9\u4E4B\u591A\u968E\u5C64\
+    \u91CB\u7FA9\u95DC\u806F\u7A0B\u5EA6\u8A08\u91CF-\u4EE5\u300C\u76EE\u300D\u5B57\
+    \u90E8\u70BA\u4F8B (A Measurement of Multi-Level Semantic Relations among Mandarin\
+    \ Lexemes with Radical mu4: A Study based on Dictionary Explanations)"
+  title_html: "\u57FA\u65BC\u8FAD\u5178\u8FAD\u5F59\u91CB\u7FA9\u4E4B\u591A\u968E\u5C64\
+    \u91CB\u7FA9\u95DC\u806F\u7A0B\u5EA6\u8A08\u91CF-\u4EE5\u300C\u76EE\u300D\u5B57\
+    \u90E8\u70BA\u4F8B (A Measurement of Multi-Level Semantic Relations among <span\
+    \ class=\"acl-fixed-case\">M</span>andarin Lexemes with Radical mu4: A Study based\
+    \ on Dictionary Explanations)"
+  url: https://www.aclweb.org/anthology/O11-4002
+  year: '2011'
+O11-4003:
+  author:
+  - first: Bor-Shen
+    full: Bor-Shen Lin
+    id: bor-shen-lin
+    last: Lin
+  - first: Yi-Cong
+    full: Yi-Cong Chen
+    id: yi-cong-chen
+    last: Chen
+  author_string: Bor-Shen Lin, Yi-Cong Chen
+  bibkey: lin-chen-2011-histogram
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 3-4, September/December 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 3-4, September/<span class="acl-fixed-case">D</span>ecember
+    2011
+  month: September/December
+  paper_id: '3'
+  parent_volume_id: O11-4
+  pdf: https://www.aclweb.org/anthology/O11-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-4003.jpg
+  title: Histogram Equalization on Statistical Approaches for Chinese Unknown Word
+    Extraction
+  title_html: Histogram Equalization on Statistical Approaches for <span class="acl-fixed-case">C</span>hinese
+    Unknown Word Extraction
+  url: https://www.aclweb.org/anthology/O11-4003
+  year: '2011'
+O11-4004:
+  author:
+  - first: Chieh-Jen
+    full: Chieh-Jen Wang
+    id: chieh-jen-wang
+    last: Wang
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Chieh-Jen Wang, Hsin-Hsi Chen
+  bibkey: wang-chen-2011-intent
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 3-4, September/December 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 3-4, September/<span class="acl-fixed-case">D</span>ecember
+    2011
+  month: September/December
+  paper_id: '4'
+  parent_volume_id: O11-4
+  pdf: https://www.aclweb.org/anthology/O11-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-4004.jpg
+  title: Intent Shift Detection Using Search Query Logs
+  title_html: Intent Shift Detection Using Search Query Logs
+  url: https://www.aclweb.org/anthology/O11-4004
+  year: '2011'
+O11-4005:
+  author:
+  - first: Darren Hsin-Hung
+    full: Darren Hsin-Hung Lin
+    id: darren-hsin-hung-lin
+    last: Lin
+  - first: Shelley Ching-Yu
+    full: Shelley Ching-Yu Hsieh
+    id: shelley-ching-yu-hsieh
+    last: Hsieh
+  author_string: Darren Hsin-Hung Lin, Shelley Ching-Yu Hsieh
+  bibkey: lin-hsieh-2011-characteristics
+  bibtype: inproceedings
+  booktitle: International Journal of Computational Linguistics & Chinese Language
+    Processing, Volume 16, Number 3-4, September/December 2011
+  booktitle_html: International Journal of Computational Linguistics &amp; <span class="acl-fixed-case">C</span>hinese
+    Language Processing, Volume 16, Number 3-4, September/<span class="acl-fixed-case">D</span>ecember
+    2011
+  month: September/December
+  paper_id: '5'
+  parent_volume_id: O11-4
+  pdf: https://www.aclweb.org/anthology/O11-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/O11-4005.jpg
+  title: 'Characteristics of Independent Claim: A Corpus-Linguistic Approach to Contemporary
+    English Patents'
+  title_html: 'Characteristics of Independent Claim: A Corpus-Linguistic Approach
+    to Contemporary <span class="acl-fixed-case">E</span>nglish Patents'
+  url: https://www.aclweb.org/anthology/O11-4005
+  year: '2011'

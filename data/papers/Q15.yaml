@@ -1,0 +1,1901 @@
+Q15-1000:
+  bibkey: tacl-2015-transactions
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  paper_id: '0'
+  parent_volume_id: Q15-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1000.jpg
+  title: Transactions of the Association for Computational Linguistics, Volume 3
+  title_html: Transactions of the Association for Computational Linguistics, Volume
+    3
+  year: '2015'
+Q15-1001:
+  abstract: Little work from the Natural Language Processing community has targeted
+    the role of quantities in Natural Language Understanding. This paper takes some
+    key steps towards facilitating reasoning about quantities expressed in natural
+    language. We investigate two different tasks of numerical reasoning. First, we
+    consider Quantity Entailment, a new task formulated to understand the role of
+    quantities in general textual inference tasks. Second, we consider the problem
+    of automatically understanding and solving elementary school math word problems.
+    In order to address these quantitative reasoning problems we first develop a computational
+    approach which we show to successfully recognize and normalize textual expressions
+    of quantities. We then use these capabilities to further develop algorithms to
+    assist reasoning in the context of the aforementioned tasks.
+  author:
+  - first: Subhro
+    full: Subhro Roy
+    id: subhro-roy
+    last: Roy
+  - first: Tim
+    full: Tim Vieira
+    id: tim-vieira
+    last: Vieira
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Subhro Roy, Tim Vieira, Dan Roth
+  bibkey: roy-etal-2015-reasoning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00118
+  page_first: '1'
+  page_last: '13'
+  pages: "1\u201313"
+  paper_id: '1'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1001.jpg
+  title: Reasoning about Quantities in Natural Language
+  title_html: Reasoning about Quantities in Natural Language
+  url: https://www.aclweb.org/anthology/Q15-1001
+  year: '2015'
+Q15-1002:
+  abstract: 'Identifying and linking named entities across information sources is
+    the basis of knowledge acquisition and at the heart of Web search, recommendations,
+    and analytics. An important problem in this context is cross-document co-reference
+    resolution (CCR): computing equivalence classes of textual mentions denoting the
+    same entity, within and across documents. Prior methods employ ranking, clustering,
+    or probabilistic graphical models using syntactic features and distant features
+    from knowledge bases. However, these methods exhibit limitations regarding run-time
+    and robustness. This paper presents the CROCS framework for unsupervised CCR,
+    improving the state of the art in two ways. First, we extend the way knowledge
+    bases are harnessed, by constructing a notion of semantic summaries for intra-document
+    co-reference chains using co-occurring entity mentions belonging to different
+    chains. Second, we reduce the computational cost by a new algorithm that embeds
+    sample-based bisection, using spectral clustering or graph partitioning, in a
+    hierarchical clustering process. This allows scaling up CCR to large corpora.
+    Experiments with three datasets show significant gains in output quality, compared
+    to the best prior methods, and the run-time efficiency of CROCS.'
+  author:
+  - first: Sourav
+    full: Sourav Dutta
+    id: sourav-dutta
+    last: Dutta
+  - first: Gerhard
+    full: Gerhard Weikum
+    id: gerhard-weikum
+    last: Weikum
+  author_string: Sourav Dutta, Gerhard Weikum
+  bibkey: dutta-weikum-2015-cross
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00119
+  page_first: '15'
+  page_last: '28'
+  pages: "15\u201328"
+  paper_id: '2'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1002.jpg
+  title: Cross-Document Co-Reference Resolution using Sample-Based Clustering with
+    Knowledge Enrichment
+  title_html: Cross-Document Co-Reference Resolution using Sample-Based Clustering
+    with Knowledge Enrichment
+  url: https://www.aclweb.org/anthology/Q15-1002
+  year: '2015'
+Q15-1003:
+  abstract: We present a dynamic programming algorithm for efficient constrained inference
+    in semantic role labeling. The algorithm tractably captures a majority of the
+    structural constraints examined by prior work in this area, which has resorted
+    to either approximate methods or off-the-shelf integer linear programming solvers.
+    In addition, it allows training a globally-normalized log-linear model with respect
+    to constrained conditional likelihood. We show that the dynamic program is several
+    times faster than an off-the-shelf integer linear programming solver, while reaching
+    the same solution. Furthermore, we show that our structured model results in significant
+    improvements over its local counterpart, achieving state-of-the-art results on
+    both PropBank- and FrameNet-annotated corpora.
+  attachment:
+  - filename: https://techtalks.tv/talks/efficient-inference-and-structured-learning-for-semantic-role-labeling/61788/
+    type: video
+    url: https://techtalks.tv/talks/efficient-inference-and-structured-learning-for-semantic-role-labeling/61788/
+  author:
+  - first: Oscar
+    full: "Oscar T\xE4ckstr\xF6m"
+    id: oscar-tackstrom
+    last: "T\xE4ckstr\xF6m"
+  - first: Kuzman
+    full: Kuzman Ganchev
+    id: kuzman-ganchev
+    last: Ganchev
+  - first: Dipanjan
+    full: Dipanjan Das
+    id: dipanjan-das
+    last: Das
+  author_string: "Oscar T\xE4ckstr\xF6m, Kuzman Ganchev, Dipanjan Das"
+  bibkey: tackstrom-etal-2015-efficient
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00120
+  page_first: '29'
+  page_last: '41'
+  pages: "29\u201341"
+  paper_id: '3'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1003.jpg
+  title: Efficient Inference and Structured Learning for Semantic Role Labeling
+  title_html: Efficient Inference and Structured Learning for Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/Q15-1003
+  year: '2015'
+Q15-1004:
+  abstract: We introduce Sprite, a family of topic models that incorporates structure
+    into model priors as a function of underlying components. The structured priors
+    can be constrained to model topic hierarchies, factorizations, correlations, and
+    supervision, allowing Sprite to be tailored to particular settings. We demonstrate
+    this flexibility by constructing a Sprite-based model to jointly infer topic hierarchies
+    and author perspective, which we apply to corpora of political debates and online
+    reviews. We show that the model learns intuitive topics, outperforming several
+    other topic models at predictive tasks.
+  author:
+  - first: Michael J.
+    full: Michael J. Paul
+    id: michael-paul
+    last: Paul
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  author_string: Michael J. Paul, Mark Dredze
+  bibkey: paul-dredze-2015-sprite
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00121
+  page_first: '43'
+  page_last: '57'
+  pages: "43\u201357"
+  paper_id: '4'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1004.jpg
+  title: 'Sprite: Generalizing Topic Models with Structured Priors'
+  title_html: '<span class="acl-fixed-case">S</span>prite: Generalizing Topic Models
+    with Structured Priors'
+  url: https://www.aclweb.org/anthology/Q15-1004
+  year: '2015'
+Q15-1005:
+  abstract: Word sense induction (WSI) seeks to automatically discover the senses
+    of a word in a corpus via unsupervised methods. We propose a sense-topic model
+    for WSI, which treats sense and topic as two separate latent variables to be inferred
+    jointly. Topics are informed by the entire document, while senses are informed
+    by the local context surrounding the ambiguous word. We also discuss unsupervised
+    ways of enriching the original corpus in order to improve model performance, including
+    using neural word embeddings and external corpora to expand the context of each
+    data instance. We demonstrate significant improvements over the previous state-of-the-art,
+    achieving the best results reported to date on the SemEval-2013 WSI task.
+  author:
+  - first: Jing
+    full: Jing Wang
+    id: jing-wang
+    last: Wang
+  - first: Mohit
+    full: Mohit Bansal
+    id: mohit-bansal
+    last: Bansal
+  - first: Kevin
+    full: Kevin Gimpel
+    id: kevin-gimpel
+    last: Gimpel
+  - first: Brian D.
+    full: Brian D. Ziebart
+    id: brian-d-ziebart
+    last: Ziebart
+  - first: Clement T.
+    full: Clement T. Yu
+    id: clement-t-yu
+    last: Yu
+  author_string: Jing Wang, Mohit Bansal, Kevin Gimpel, Brian D. Ziebart, Clement
+    T. Yu
+  bibkey: wang-etal-2015-sense
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00122
+  page_first: '59'
+  page_last: '71'
+  pages: "59\u201371"
+  paper_id: '5'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1005.jpg
+  title: A Sense-Topic Model for Word Sense Induction with Unsupervised Data Enrichment
+  title_html: A Sense-Topic Model for Word Sense Induction with Unsupervised Data
+    Enrichment
+  url: https://www.aclweb.org/anthology/Q15-1005
+  year: '2015'
+Q15-1006:
+  abstract: 'Online discussion forums and community question-answering websites provide
+    one of the primary avenues for online users to share information. In this paper,
+    we propose text mining techniques which aid users navigate troubleshooting-oriented
+    data such as questions asked on forums and their suggested solutions. We introduce
+    Bayesian generative models of the troubleshooting data and apply them to two interrelated
+    tasks: (a) predicting the complexity of the solutions (e.g., plugging a keyboard
+    in the computer is easier compared to installing a special driver) and (b) presenting
+    them in a ranked order from least to most complex. Experimental results show that
+    our models are on par with human performance on these tasks, while outperforming
+    baselines based on solution length or readability.'
+  attachment:
+  - filename: https://vimeo.com/160938279
+    type: video
+    url: https://vimeo.com/160938279
+  author:
+  - first: Annie
+    full: Annie Louis
+    id: annie-louis
+    last: Louis
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Annie Louis, Mirella Lapata
+  bibkey: louis-lapata-2015-step
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00123
+  page_first: '73'
+  page_last: '85'
+  pages: "73\u201385"
+  paper_id: '6'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1006.jpg
+  title: Which Step Do I Take First? Troubleshooting with Bayesian Models
+  title_html: Which Step Do <span class="acl-fixed-case">I</span> Take First? Troubleshooting
+    with <span class="acl-fixed-case">B</span>ayesian Models
+  url: https://www.aclweb.org/anthology/Q15-1006
+  year: '2015'
+Q15-1007:
+  abstract: Grammars for machine translation can be materialized on demand by finding
+    source phrases in an indexed parallel corpus and extracting their translations.
+    This approach is limited in practical applications by the computational expense
+    of online lookup and extraction. For phrase-based models, recent work has shown
+    that on-demand grammar extraction can be greatly accelerated by parallelization
+    on general purpose graphics processing units (GPUs), but these algorithms do not
+    work for hierarchical models, which require matching patterns that contain gaps.
+    We address this limitation by presenting a novel GPU algorithm for on-demand hierarchical
+    grammar extraction that is at least an order of magnitude faster than a comparable
+    CPU algorithm when processing large batches of sentences. In terms of end-to-end
+    translation, with decoding on the CPU, we increase throughput by roughly two thirds
+    on a standard MT evaluation dataset. The GPU necessary to achieve these improvements
+    increases the cost of a server by about a third. We believe that GPU-based extraction
+    of hierarchical grammars is an attractive proposition, particularly for MT applications
+    that demand high throughput.
+  author:
+  - first: Hua
+    full: Hua He
+    id: hua-he
+    last: He
+  - first: Jimmy
+    full: Jimmy Lin
+    id: jimmy-lin
+    last: Lin
+  - first: Adam
+    full: Adam Lopez
+    id: adam-lopez
+    last: Lopez
+  author_string: Hua He, Jimmy Lin, Adam Lopez
+  bibkey: he-etal-2015-gappy
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00124
+  page_first: '87'
+  page_last: '100'
+  pages: "87\u2013100"
+  paper_id: '7'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1007.jpg
+  title: Gappy Pattern Matching on GPUs for On-Demand Extraction of Hierarchical Translation
+    Grammars
+  title_html: Gappy Pattern Matching on <span class="acl-fixed-case">GPU</span>s for
+    On-Demand Extraction of Hierarchical Translation Grammars
+  url: https://www.aclweb.org/anthology/Q15-1007
+  year: '2015'
+Q15-1008:
+  abstract: 'Natural language meanings allow speakers to encode important real-world
+    distinctions, but corpora of grounded language use also reveal that speakers categorize
+    the world in different ways and describe situations with different terminology.
+    To learn meanings from data, we therefore need to link underlying representations
+    of meaning to models of speaker judgment and speaker choice. This paper describes
+    a new approach to this problem: we model variability through uncertainty in categorization
+    boundaries and distributions over preferred vocabulary. We apply the approach
+    to a large data set of color descriptions, where statistical evaluation documents
+    its accuracy. The results are available as a Lexicon of Uncertain Color Standards
+    (LUX), which supports future efforts in grounded language understanding and generation
+    by probabilistically mapping 829 English color descriptions to potentially context-sensitive
+    regions in HSV color space.'
+  author:
+  - first: Brian
+    full: Brian McMahan
+    id: brian-mcmahan
+    last: McMahan
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  author_string: Brian McMahan, Matthew Stone
+  bibkey: mcmahan-stone-2015-bayesian
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00126
+  page_first: '103'
+  page_last: '115'
+  pages: "103\u2013115"
+  paper_id: '8'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1008.jpg
+  title: A Bayesian Model of Grounded Color Semantics
+  title_html: A <span class="acl-fixed-case">B</span>ayesian Model of Grounded Color
+    Semantics
+  url: https://www.aclweb.org/anthology/Q15-1008
+  year: '2015'
+Q15-1009:
+  abstract: "Most approaches to relation extraction, the task of extracting ground\
+    \ facts from natural language text, are based on machine learning and thus starved\
+    \ by scarce training data. Manual annotation is too expensive to scale to a comprehensive\
+    \ set of relations. Distant supervision, which automatically creates training\
+    \ data, only works with relations that already populate a knowledge base (KB).\
+    \ Unfortunately, KBs such as FreeBase rarely cover event relations (e.g. \u201C\
+    person travels to location\u201D). Thus, the problem of extracting a wide range\
+    \ of events \u2014 e.g., from news streams \u2014 is an important, open challenge.\
+    \ This paper introduces NewsSpike-RE, a novel, unsupervised algorithm that discovers\
+    \ event relations and then learns to extract them. NewsSpike-RE uses a novel probabilistic\
+    \ graphical model to cluster sentences describing similar events from parallel\
+    \ news streams. These clusters then comprise training data for the extractor.\
+    \ Our evaluation shows that NewsSpike-RE generates high quality training sentences\
+    \ and learns extractors that perform much better than rival approaches, more than\
+    \ doubling the area under a precision-recall curve compared to Universal Schemas."
+  author:
+  - first: Congle
+    full: Congle Zhang
+    id: congle-zhang
+    last: Zhang
+  - first: Stephen
+    full: Stephen Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: Daniel S.
+    full: Daniel S. Weld
+    id: daniel-s-weld
+    last: Weld
+  author_string: Congle Zhang, Stephen Soderland, Daniel S. Weld
+  bibkey: zhang-etal-2015-exploiting
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00127
+  page_first: '117'
+  page_last: '129'
+  pages: "117\u2013129"
+  paper_id: '9'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1009.jpg
+  title: Exploiting Parallel News Streams for Unsupervised Event Extraction
+  title_html: Exploiting Parallel News Streams for Unsupervised Event Extraction
+  url: https://www.aclweb.org/anthology/Q15-1009
+  year: '2015'
+Q15-1010:
+  abstract: Inferring the information structure of scientific documents is useful
+    for many NLP applications. Existing approaches to this task require substantial
+    human effort. We propose a framework for constraint learning that reduces human
+    involvement considerably. Our model uses topic models to identify latent topics
+    and their key linguistic features in input documents, induces constraints from
+    this information and maps sentences to their dominant information structure categories
+    through a constrained unsupervised model. When the induced constraints are combined
+    with a fully unsupervised model, the resulting model challenges existing lightly
+    supervised feature-based models as well as unsupervised models that use manually
+    constructed declarative knowledge. Our results demonstrate that useful declarative
+    knowledge can be learned from data with very limited human involvement.
+  author:
+  - first: Yufan
+    full: Yufan Guo
+    id: yufan-guo
+    last: Guo
+  - first: Roi
+    full: Roi Reichart
+    id: roi-reichart
+    last: Reichart
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: Yufan Guo, Roi Reichart, Anna Korhonen
+  bibkey: guo-etal-2015-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00128
+  page_first: '131'
+  page_last: '143'
+  pages: "131\u2013143"
+  paper_id: '10'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1010.jpg
+  title: Unsupervised Declarative Knowledge Induction for Constraint-Based Learning
+    of Information Structure in Scientific Documents
+  title_html: Unsupervised Declarative Knowledge Induction for Constraint-Based Learning
+    of Information Structure in Scientific Documents
+  url: https://www.aclweb.org/anthology/Q15-1010
+  year: '2015'
+Q15-1011:
+  abstract: Entity disambiguation with Wikipedia relies on structured information
+    from redirect pages, article text, inter-article links, and categories. We explore
+    whether web links can replace a curated encyclopaedia, obtaining entity prior,
+    name, context, and coherence models from a corpus of web pages with links to Wikipedia.
+    Experiments compare web link models to Wikipedia models on well-known conll and
+    tac data sets. Results show that using 34 million web links approaches Wikipedia
+    performance. Combining web link and Wikipedia models produces the best-known disambiguation
+    accuracy of 88.7 on standard newswire test data.
+  author:
+  - first: Andrew
+    full: Andrew Chisholm
+    id: andrew-chisholm
+    last: Chisholm
+  - first: Ben
+    full: Ben Hachey
+    id: ben-hachey
+    last: Hachey
+  author_string: Andrew Chisholm, Ben Hachey
+  bibkey: chisholm-hachey-2015-entity
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00129
+  page_first: '145'
+  page_last: '156'
+  pages: "145\u2013156"
+  paper_id: '11'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1011.jpg
+  title: Entity Disambiguation with Web Links
+  title_html: Entity Disambiguation with Web Links
+  url: https://www.aclweb.org/anthology/Q15-1011
+  year: '2015'
+Q15-1012:
+  abstract: Most state-of-the-art systems today produce morphological analysis based
+    only on orthographic patterns. In contrast, we propose a model for unsupervised
+    morphological analysis that integrates orthographic and semantic views of words.
+    We model word formation in terms of morphological chains, from base words to the
+    observed words, breaking the chains into parent-child relations. We use log-linear
+    models with morpheme and word-level features to predict possible parents, including
+    their modifications, for each word. The limited set of candidate parents for each
+    word render contrastive estimation feasible. Our model consistently matches or
+    outperforms five state-of-the-art systems on Arabic, English and Turkish.
+  attachment:
+  - filename: https://techtalks.tv/talks/an-unsupervised-method-for-uncovering-morphological-chains/61836/
+    type: video
+    url: https://techtalks.tv/talks/an-unsupervised-method-for-uncovering-morphological-chains/61836/
+  author:
+  - first: Karthik
+    full: Karthik Narasimhan
+    id: karthik-narasimhan
+    last: Narasimhan
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Tommi
+    full: Tommi Jaakkola
+    id: tommi-jaakkola
+    last: Jaakkola
+  author_string: Karthik Narasimhan, Regina Barzilay, Tommi Jaakkola
+  bibkey: narasimhan-etal-2015-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00130
+  page_first: '157'
+  page_last: '167'
+  pages: "157\u2013167"
+  paper_id: '12'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1012.jpg
+  title: An Unsupervised Method for Uncovering Morphological Chains
+  title_html: An Unsupervised Method for Uncovering Morphological Chains
+  url: https://www.aclweb.org/anthology/Q15-1012
+  year: '2015'
+Q15-1013:
+  abstract: The role of language models in SMT is to promote fluent translation output,
+    but traditional n-gram language models are unable to capture fluency phenomena
+    between distant words, such as some morphological agreement phenomena, subcategorisation,
+    and syntactic collocations with string-level gaps. Syntactic language models have
+    the potential to fill this modelling gap. We propose a language model for dependency
+    structures that is relational rather than configurational and thus particularly
+    suited for languages with a (relatively) free word order. It is trainable with
+    Neural Networks, and not only improves over standard n-gram language models, but
+    also outperforms related syntactic language models. We empirically demonstrate
+    its effectiveness in terms of perplexity and as a feature function in string-to-tree
+    SMT from English to German and Russian. We also show that using a syntactic evaluation
+    metric to tune the log-linear parameters of an SMT system further increases translation
+    quality when coupled with a syntactic language model.
+  attachment:
+  - filename: https://vimeo.com/154064165
+    type: video
+    url: https://vimeo.com/154064165
+  author:
+  - first: Rico
+    full: Rico Sennrich
+    id: rico-sennrich
+    last: Sennrich
+  author_string: Rico Sennrich
+  bibkey: sennrich-2015-modelling
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00131
+  page_first: '169'
+  page_last: '182'
+  pages: "169\u2013182"
+  paper_id: '13'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1013.jpg
+  title: Modelling and Optimizing on Syntactic N-Grams for Statistical Machine Translation
+  title_html: Modelling and Optimizing on Syntactic N-Grams for Statistical Machine
+    Translation
+  url: https://www.aclweb.org/anthology/Q15-1013
+  year: '2015'
+Q15-1014:
+  abstract: "As automated image analysis progresses, there is increasing interest\
+    \ in richer linguistic annotation of pictures, with attributes of objects (e.g.,\
+    \ furry, brown\u2026) attracting most attention. By building on the recent \u201C\
+    zero-shot learning\u201D approach, and paying attention to the linguistic nature\
+    \ of attributes as noun modifiers, and specifically adjectives, we show that it\
+    \ is possible to tag images with attribute-denoting adjectives even when no training\
+    \ data containing the relevant annotation are available. Our approach relies on\
+    \ two key observations. First, objects can be seen as bundles of attributes, typically\
+    \ expressed as adjectival modifiers (a dog is something furry, brown, etc.), and\
+    \ thus a function trained to map visual representations of objects to nominal\
+    \ labels can implicitly learn to map attributes to adjectives. Second, objects\
+    \ and attributes come together in pictures (the same thing is a dog and it is\
+    \ brown). We can thus achieve better attribute (and object) label retrieval by\
+    \ treating images as \u201Cvisual phrases\u201D, and decomposing their linguistic\
+    \ representation into an attribute-denoting adjective and an object-denoting noun.\
+    \ Our approach performs comparably to a method exploiting manual attribute annotation,\
+    \ it out-performs various competitive alternatives in both attribute and object\
+    \ annotation, and it automatically constructs attribute-centric representations\
+    \ that significantly improve performance in supervised object recognition."
+  author:
+  - first: Angeliki
+    full: Angeliki Lazaridou
+    id: angeliki-lazaridou
+    last: Lazaridou
+  - first: Georgiana
+    full: Georgiana Dinu
+    id: georgiana-dinu
+    last: Dinu
+  - first: Adam
+    full: Adam Liska
+    id: adam-liska
+    last: Liska
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  author_string: Angeliki Lazaridou, Georgiana Dinu, Adam Liska, Marco Baroni
+  bibkey: lazaridou-etal-2015-visual
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00132
+  page_first: '183'
+  page_last: '196'
+  pages: "183\u2013196"
+  paper_id: '14'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1014.jpg
+  title: From Visual Attributes to Adjectives through Decompositional Distributional
+    Semantics
+  title_html: From Visual Attributes to Adjectives through Decompositional Distributional
+    Semantics
+  url: https://www.aclweb.org/anthology/Q15-1014
+  year: '2015'
+Q15-1015:
+  abstract: Lexical semantic models provide robust performance for question answering,
+    but, in general, can only capitalize on direct evidence seen during training.
+    For example, monolingual alignment models acquire term alignment probabilities
+    from semi-structured data such as question-answer pairs; neural network language
+    models learn term embeddings from unstructured text. All this knowledge is then
+    used to estimate the semantic similarity between question and answer candidates.
+    We introduce a higher-order formalism that allows all these lexical semantic models
+    to chain direct evidence to construct indirect associations between question and
+    answer texts, by casting the task as the traversal of graphs that encode direct
+    term associations. Using a corpus of 10,000 questions from Yahoo! Answers, we
+    experimentally demonstrate that higher-order methods are broadly applicable to
+    alignment and language models, across both word and syntactic representations.
+    We show that an important criterion for success is controlling for the semantic
+    drift that accumulates during graph traversal. All in all, the proposed higher-order
+    approach improves five out of the six lexical semantic models investigated, with
+    relative gains of up to +13% over their first-order variants.
+  attachment:
+  - filename: https://techtalks.tv/talks/higher-order-lexical-semantic-models-for-non-factoid-answer-reranking/61701/
+    type: video
+    url: https://techtalks.tv/talks/higher-order-lexical-semantic-models-for-non-factoid-answer-reranking/61701/
+  author:
+  - first: Daniel
+    full: Daniel Fried
+    id: daniel-fried
+    last: Fried
+  - first: Peter
+    full: Peter Jansen
+    id: peter-jansen
+    last: Jansen
+  - first: Gustave
+    full: Gustave Hahn-Powell
+    id: gus-hahn-powell
+    last: Hahn-Powell
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Peter
+    full: Peter Clark
+    id: peter-clark
+    last: Clark
+  author_string: Daniel Fried, Peter Jansen, Gustave Hahn-Powell, Mihai Surdeanu,
+    Peter Clark
+  bibkey: fried-etal-2015-higher
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00133
+  page_first: '197'
+  page_last: '210'
+  pages: "197\u2013210"
+  paper_id: '15'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1015.jpg
+  title: Higher-order Lexical Semantic Models for Non-factoid Answer Reranking
+  title_html: Higher-order Lexical Semantic Models for Non-factoid Answer Reranking
+  url: https://www.aclweb.org/anthology/Q15-1015
+  year: '2015'
+Q15-1016:
+  abstract: Recent trends suggest that neural-network-inspired word embedding models
+    outperform traditional count-based distributional models on word similarity and
+    analogy detection tasks. We reveal that much of the performance gains of word
+    embeddings are due to certain system design choices and hyperparameter optimizations,
+    rather than the embedding algorithms themselves. Furthermore, we show that these
+    modifications can be transferred to traditional distributional models, yielding
+    similar gains. In contrast to prior reports, we observe mostly local or insignificant
+    performance differences between the methods, with no global advantage to any single
+    approach over the others.
+  attachment:
+  - filename: https://techtalks.tv/talks/improving-distributional-similarity-with-lessons-learned-from-word-embeddings/61709/
+    type: video
+    url: https://techtalks.tv/talks/improving-distributional-similarity-with-lessons-learned-from-word-embeddings/61709/
+  author:
+  - first: Omer
+    full: Omer Levy
+    id: omer-levy
+    last: Levy
+  - first: Yoav
+    full: Yoav Goldberg
+    id: yoav-goldberg
+    last: Goldberg
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Omer Levy, Yoav Goldberg, Ido Dagan
+  bibkey: levy-etal-2015-improving
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00134
+  page_first: '211'
+  page_last: '225'
+  pages: "211\u2013225"
+  paper_id: '16'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1016.jpg
+  title: Improving Distributional Similarity with Lessons Learned from Word Embeddings
+  title_html: Improving Distributional Similarity with Lessons Learned from Word Embeddings
+  url: https://www.aclweb.org/anthology/Q15-1016
+  year: '2015'
+Q15-1017:
+  abstract: Lexical embeddings can serve as useful representations for words for a
+    variety of NLP tasks, but learning embeddings for phrases can be challenging.
+    While separate embeddings are learned for each word, this is infeasible for every
+    phrase. We construct phrase embeddings by learning how to compose word embeddings
+    using features that capture phrase structure and context. We propose efficient
+    unsupervised and task-specific learning objectives that scale our model to large
+    datasets. We demonstrate improvements on both language modeling and several phrase
+    semantic similarity tasks with various phrase lengths. We make the implementation
+    of our model and the datasets available for general use.
+  author:
+  - first: Mo
+    full: Mo Yu
+    id: mo-yu
+    last: Yu
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  author_string: Mo Yu, Mark Dredze
+  bibkey: yu-dredze-2015-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00135
+  page_first: '227'
+  page_last: '242'
+  pages: "227\u2013242"
+  paper_id: '17'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1017.jpg
+  title: Learning Composition Models for Phrase Embeddings
+  title_html: Learning Composition Models for Phrase Embeddings
+  url: https://www.aclweb.org/anthology/Q15-1017
+  year: '2015'
+Q15-1018:
+  abstract: Supervised methods can achieve high performance on NLP tasks, such as
+    Named Entity Recognition (NER), but new annotations are required for every new
+    domain and/or genre change. This has motivated research in minimally supervised
+    methods such as semi-supervised learning and distant learning, but neither technique
+    has yet achieved performance levels comparable to those of supervised methods.
+    Semi-supervised methods tend to have very high precision but comparatively low
+    recall, whereas distant learning tends to achieve higher recall but lower precision.
+    This complementarity suggests that better results may be obtained by combining
+    the two types of minimally supervised methods. In this paper we present a novel
+    approach to Arabic NER using a combination of semi-supervised and distant learning
+    techniques. We trained a semi-supervised NER classifier and another one using
+    distant learning techniques, and then combined them using a variety of classifier
+    combination schemes, including the Bayesian Classifier Combination (BCC) procedure
+    recently proposed for sentiment analysis. According to our results, the BCC model
+    leads to an increase in performance of 8 percentage points over the best base
+    classifiers.
+  author:
+  - first: Maha
+    full: Maha Althobaiti
+    id: maha-althobaiti
+    last: Althobaiti
+  - first: Udo
+    full: Udo Kruschwitz
+    id: udo-kruschwitz
+    last: Kruschwitz
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Maha Althobaiti, Udo Kruschwitz, Massimo Poesio
+  bibkey: althobaiti-etal-2015-combining
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00136
+  page_first: '243'
+  page_last: '255'
+  pages: "243\u2013255"
+  paper_id: '18'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1018.jpg
+  title: Combining Minimally-supervised Methods for Arabic Named Entity Recognition
+  title_html: Combining Minimally-supervised Methods for <span class="acl-fixed-case">A</span>rabic
+    Named Entity Recognition
+  url: https://www.aclweb.org/anthology/Q15-1018
+  year: '2015'
+Q15-1019:
+  abstract: "We present an approach to learning a model-theoretic semantics for natural\
+    \ language tied to Freebase. Crucially, our approach uses an open predicate vocabulary,\
+    \ enabling it to produce denotations for phrases such as \u201CRepublican front-runner\
+    \ from Texas\u201D whose semantics cannot be represented using the Freebase schema.\
+    \ Our approach directly converts a sentence\u2019s syntactic CCG parse into a\
+    \ logical form containing predicates derived from the words in the sentence, assigning\
+    \ each word a consistent semantics across sentences. This logical form is evaluated\
+    \ against a learned probabilistic database that defines a distribution over denotations\
+    \ for each textual predicate. A training phase produces this probabilistic database\
+    \ using a corpus of entity-linked text and probabilistic matrix factorization\
+    \ with a novel ranking objective function. We evaluate our approach on a compositional\
+    \ question answering task where it outperforms several competitive baselines.\
+    \ We also compare our approach against manually annotated Freebase queries, finding\
+    \ that our open predicate vocabulary enables us to answer many questions that\
+    \ Freebase cannot."
+  attachment:
+  - filename: https://techtalks.tv/talks/learning-a-compositional-semantics-for-freebase-with-an-open-predicate-vocabulary/61714/
+    type: video
+    url: https://techtalks.tv/talks/learning-a-compositional-semantics-for-freebase-with-an-open-predicate-vocabulary/61714/
+  author:
+  - first: Jayant
+    full: Jayant Krishnamurthy
+    id: jayant-krishnamurthy
+    last: Krishnamurthy
+  - first: Tom M.
+    full: Tom M. Mitchell
+    id: tom-mitchell
+    last: Mitchell
+  author_string: Jayant Krishnamurthy, Tom M. Mitchell
+  bibkey: krishnamurthy-mitchell-2015-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00137
+  page_first: '257'
+  page_last: '270'
+  pages: "257\u2013270"
+  paper_id: '19'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1019.jpg
+  title: Learning a Compositional Semantics for Freebase with an Open Predicate Vocabulary
+  title_html: Learning a Compositional Semantics for <span class="acl-fixed-case">F</span>reebase
+    with an Open Predicate Vocabulary
+  url: https://www.aclweb.org/anthology/Q15-1019
+  year: '2015'
+Q15-1020:
+  abstract: In current systems for syntactic and semantic dependency parsing, people
+    usually define a very high-dimensional feature space to achieve good performance.
+    But these systems often suffer severe performance drops on out-of-domain test
+    data due to the diversity of features of different domains. This paper focuses
+    on how to relieve this domain adaptation problem with the help of unlabeled target
+    domain data. We propose a deep learning method to adapt both syntactic and semantic
+    parsers. With additional unlabeled target domain data, our method can learn a
+    latent feature representation (LFR) that is beneficial to both domains. Experiments
+    on English data in the CoNLL 2009 shared task show that our method largely reduced
+    the performance drop on out-of-domain test data. Moreover, we get a Macro F1 score
+    that is 2.32 points higher than the best system in the CoNLL 2009 shared task
+    in out-of-domain tests.
+  author:
+  - first: Haitong
+    full: Haitong Yang
+    id: haitong-yang
+    last: Yang
+  - first: Tao
+    full: Tao Zhuang
+    id: tao-zhuang
+    last: Zhuang
+  - first: Chengqing
+    full: Chengqing Zong
+    id: chengqing-zong
+    last: Zong
+  author_string: Haitong Yang, Tao Zhuang, Chengqing Zong
+  bibkey: yang-etal-2015-domain
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00138
+  page_first: '271'
+  page_last: '282'
+  pages: "271\u2013282"
+  paper_id: '20'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1020.jpg
+  title: Domain Adaptation for Syntactic and Semantic Dependency Parsing Using Deep
+    Belief Networks
+  title_html: Domain Adaptation for Syntactic and Semantic Dependency Parsing Using
+    Deep Belief Networks
+  url: https://www.aclweb.org/anthology/Q15-1020
+  year: '2015'
+Q15-1021:
+  abstract: Simple Wikipedia has dominated simplification research in the past 5 years.
+    In this opinion paper, we argue that focusing on Wikipedia limits simplification
+    research. We back up our arguments with corpus analysis and by highlighting statements
+    that other researchers have made in the simplification literature. We introduce
+    a new simplification dataset that is a significant improvement over Simple Wikipedia,
+    and present a novel quantitative-comparative approach to study the quality of
+    simplification data resources.
+  attachment:
+  - filename: https://vimeo.com/150290363
+    type: video
+    url: https://vimeo.com/150290363
+  author:
+  - first: Wei
+    full: Wei Xu
+    id: wei-xu
+    last: Xu
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Courtney
+    full: Courtney Napoles
+    id: courtney-napoles
+    last: Napoles
+  author_string: Wei Xu, Chris Callison-Burch, Courtney Napoles
+  bibkey: xu-etal-2015-problems
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00139
+  page_first: '283'
+  page_last: '297'
+  pages: "283\u2013297"
+  paper_id: '21'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1021.jpg
+  title: 'Problems in Current Text Simplification Research: New Data Can Help'
+  title_html: 'Problems in Current Text Simplification Research: New Data Can Help'
+  url: https://www.aclweb.org/anthology/Q15-1021
+  year: '2015'
+Q15-1022:
+  abstract: Probabilistic topic models are widely used to discover latent topics in
+    document collections, while latent feature vector representations of words have
+    been used to obtain high performance in many NLP tasks. In this paper, we extend
+    two different Dirichlet multinomial topic models by incorporating latent feature
+    vector representations of words trained on very large corpora to improve the word-topic
+    mapping learnt on a smaller corpus. Experimental results show that by using information
+    from the external corpora, our new models produce significant improvements on
+    topic coherence, document clustering and document classification tasks, especially
+    on datasets with few or short documents.
+  attachment:
+  - filename: https://vimeo.com/156257115
+    type: video
+    url: https://vimeo.com/156257115
+  author:
+  - first: Dat Quoc
+    full: Dat Quoc Nguyen
+    id: dat-quoc-nguyen
+    last: Nguyen
+  - first: Richard
+    full: Richard Billingsley
+    id: richard-billingsley
+    last: Billingsley
+  - first: Lan
+    full: Lan Du
+    id: lan-du
+    last: Du
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Dat Quoc Nguyen, Richard Billingsley, Lan Du, Mark Johnson
+  bibkey: nguyen-etal-2015-improving-topic
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00140
+  erratum:
+  - id: '1'
+    url: https://www.aclweb.org/anthology/Q15-1022e1.pdf
+    value: Q15-1022e1
+  page_first: '299'
+  page_last: '313'
+  pages: "299\u2013313"
+  paper_id: '22'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1022.pdf
+  revision:
+  - id: '1'
+    url: https://www.aclweb.org/anthology/Q15-1022v1.pdf
+    value: Q15-1022v1
+  - explanation: No description of the changes were recorded.
+    id: '2'
+    url: https://www.aclweb.org/anthology/Q15-1022v2.pdf
+    value: Q15-1022v2
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1022.jpg
+  title: Improving Topic Models with Latent Feature Word Representations
+  title_html: Improving Topic Models with Latent Feature Word Representations
+  url: https://www.aclweb.org/anthology/Q15-1022
+  year: '2015'
+Q15-1023:
+  abstract: Recent research on entity linking (EL) has introduced a plethora of promising
+    techniques, ranging from deep neural networks to joint inference. But despite
+    numerous papers there is surprisingly little understanding of the state of the
+    art in EL. We attack this confusion by analyzing differences between several versions
+    of the EL problem and presenting a simple yet effective, modular, unsupervised
+    system, called Vinculum, for entity linking. We conduct an extensive evaluation
+    on nine data sets, comparing Vinculum with two state-of-the-art systems, and elucidate
+    key aspects of the system that include mention extraction, candidate generation,
+    entity type prediction, entity coreference, and coherence.
+  attachment:
+  - filename: https://techtalks.tv/talks/design-challenges-for-entity-linking/61748/
+    type: video
+    url: https://techtalks.tv/talks/design-challenges-for-entity-linking/61748/
+  author:
+  - first: Xiao
+    full: Xiao Ling
+    id: xiao-ling
+    last: Ling
+  - first: Sameer
+    full: Sameer Singh
+    id: sameer-singh
+    last: Singh
+  - first: Daniel S.
+    full: Daniel S. Weld
+    id: daniel-s-weld
+    last: Weld
+  author_string: Xiao Ling, Sameer Singh, Daniel S. Weld
+  bibkey: ling-etal-2015-design
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00141
+  page_first: '315'
+  page_last: '328'
+  pages: "315\u2013328"
+  paper_id: '23'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1023.jpg
+  title: Design Challenges for Entity Linking
+  title_html: Design Challenges for Entity Linking
+  url: https://www.aclweb.org/anthology/Q15-1023
+  year: '2015'
+Q15-1024:
+  abstract: Discourse relations bind smaller linguistic units into coherent texts.
+    Automatically identifying discourse relations is difficult, because it requires
+    understanding the semantics of the linked arguments. A more subtle challenge is
+    that it is not enough to represent the meaning of each argument of a discourse
+    relation, because the relation may depend on links between lowerlevel components,
+    such as entity mentions. Our solution computes distributed meaning representations
+    for each discourse argument by composition up the syntactic parse tree. We also
+    perform a downward compositional pass to capture the meaning of coreferent entity
+    mentions. Implicit discourse relations are then predicted from these two representations,
+    obtaining substantial improvements on the Penn Discourse Treebank.
+  attachment:
+  - filename: https://vimeo.com/160938225
+    type: video
+    url: https://vimeo.com/160938225
+  author:
+  - first: Yangfeng
+    full: Yangfeng Ji
+    id: yangfeng-ji
+    last: Ji
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  author_string: Yangfeng Ji, Jacob Eisenstein
+  bibkey: ji-eisenstein-2015-one
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00142
+  page_first: '329'
+  page_last: '344'
+  pages: "329\u2013344"
+  paper_id: '24'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1024.jpg
+  title: 'One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse
+    Relations'
+  title_html: 'One Vector is Not Enough: Entity-Augmented Distributed Semantics for
+    Discourse Relations'
+  url: https://www.aclweb.org/anthology/Q15-1024
+  year: '2015'
+Q15-1025:
+  abstract: "The Paraphrase Database (PPDB; Ganitkevitch et al., 2013) is an extensive\
+    \ semantic resource, consisting of a list of phrase pairs with (heuristic) confidence\
+    \ estimates. However, it is still unclear how it can best be used, due to the\
+    \ heuristic nature of the confidences and its necessarily incomplete coverage.\
+    \ We propose models to leverage the phrase pairs from the PPDB to build parametric\
+    \ paraphrase models that score paraphrase pairs more accurately than the PPDB\u2019\
+    s internal scores while simultaneously improving its coverage. They allow for\
+    \ learning phrase embeddings as well as improved word embeddings. Moreover, we\
+    \ introduce two new, manually annotated datasets to evaluate short-phrase paraphrasing\
+    \ models. Using our paraphrase model trained using PPDB, we achieve state-of-the-art\
+    \ results on standard word and bigram similarity tasks and beat strong baselines\
+    \ on our new short phrase paraphrase tasks."
+  attachment:
+  - filename: https://vimeo.com/164556675
+    type: video
+    url: https://vimeo.com/164556675
+  author:
+  - first: John
+    full: John Wieting
+    id: john-wieting
+    last: Wieting
+  - first: Mohit
+    full: Mohit Bansal
+    id: mohit-bansal
+    last: Bansal
+  - first: Kevin
+    full: Kevin Gimpel
+    id: kevin-gimpel
+    last: Gimpel
+  - first: Karen
+    full: Karen Livescu
+    id: karen-livescu
+    last: Livescu
+  author_string: John Wieting, Mohit Bansal, Kevin Gimpel, Karen Livescu
+  bibkey: wieting-etal-2015-paraphrase
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00143
+  erratum:
+  - id: '1'
+    url: https://www.aclweb.org/anthology/Q15-1025e1.pdf
+    value: Q15-1025e1
+  page_first: '345'
+  page_last: '358'
+  pages: "345\u2013358"
+  paper_id: '25'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1025.pdf
+  revision:
+  - id: '1'
+    url: https://www.aclweb.org/anthology/Q15-1025v1.pdf
+    value: Q15-1025v1
+  - explanation: No description of the changes were recorded.
+    id: '2'
+    url: https://www.aclweb.org/anthology/Q15-1025v2.pdf
+    value: Q15-1025v2
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1025.jpg
+  title: From Paraphrase Database to Compositional Paraphrase Model and Back
+  title_html: From Paraphrase Database to Compositional Paraphrase Model and Back
+  url: https://www.aclweb.org/anthology/Q15-1025
+  year: '2015'
+Q15-1026:
+  abstract: Space-delimited words in Turkish and Hebrew text can be further segmented
+    into meaningful units, but syntactic and semantic context is necessary to predict
+    segmentation. At the same time, predicting correct syntactic structures relies
+    on correct segmentation. We present a graph-based lattice dependency parser that
+    operates on morphological lattices to represent different segmentations and morphological
+    analyses for a given input sentence. The lattice parser predicts a dependency
+    tree over a path in the lattice and thus solves the joint task of segmentation,
+    morphological analysis, and syntactic parsing. We conduct experiments on the Turkish
+    and the Hebrew treebank and show that the joint model outperforms three state-of-the-art
+    pipeline systems on both data sets. Our work corroborates findings from constituency
+    lattice parsing for Hebrew and presents the first results for full lattice parsing
+    on Turkish.
+  author:
+  - first: Wolfgang
+    full: Wolfgang Seeker
+    id: wolfgang-seeker
+    last: Seeker
+  - first: "\xD6zlem"
+    full: "\xD6zlem \xC7etino\u011Flu"
+    id: ozlem-cetinoglu
+    last: "\xC7etino\u011Flu"
+  author_string: "Wolfgang Seeker, \xD6zlem \xC7etino\u011Flu"
+  bibkey: seeker-cetinoglu-2015-graph
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00144
+  page_first: '359'
+  page_last: '373'
+  pages: "359\u2013373"
+  paper_id: '26'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1026.jpg
+  title: A Graph-based Lattice Dependency Parser for Joint Morphological Segmentation
+    and Syntactic Analysis
+  title_html: A Graph-based Lattice Dependency Parser for Joint Morphological Segmentation
+    and Syntactic Analysis
+  url: https://www.aclweb.org/anthology/Q15-1026
+  year: '2015'
+Q15-1027:
+  abstract: Corpus-based distributional semantic models capture degrees of semantic
+    relatedness among the words of very large vocabularies, but have problems with
+    logical phenomena such as entailment, that are instead elegantly handled by model-theoretic
+    approaches, which, in turn, do not scale up. We combine the advantages of the
+    two views by inducing a mapping from distributional vectors of words (or sentences)
+    into a Boolean structure of the kind in which natural language terms are assumed
+    to denote. We evaluate this Boolean Distributional Semantic Model (BDSM) on recognizing
+    entailment between words and sentences. The method achieves results comparable
+    to a state-of-the-art SVM, degrades more gracefully when less training data are
+    available and displays interesting qualitative properties.
+  attachment:
+  - filename: https://vimeo.com/154291279
+    type: video
+    url: https://vimeo.com/154291279
+  author:
+  - first: German
+    full: German Kruszewski
+    id: german-kruszewski
+    last: Kruszewski
+  - first: Denis
+    full: Denis Paperno
+    id: denis-paperno
+    last: Paperno
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  author_string: German Kruszewski, Denis Paperno, Marco Baroni
+  bibkey: kruszewski-etal-2015-deriving
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00145
+  page_first: '375'
+  page_last: '388'
+  pages: "375\u2013388"
+  paper_id: '27'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1027.jpg
+  title: Deriving Boolean structures from distributional vectors
+  title_html: Deriving <span class="acl-fixed-case">B</span>oolean structures from
+    distributional vectors
+  url: https://www.aclweb.org/anthology/Q15-1027
+  year: '2015'
+Q15-1028:
+  abstract: "We present a model of unsupervised phonological lexicon discovery\u2014\
+    the problem of simultaneously learning phoneme-like and word-like units from acoustic\
+    \ input. Our model builds on earlier models of unsupervised phone-like unit discovery\
+    \ from acoustic data (Lee and Glass, 2012), and unsupervised symbolic lexicon\
+    \ discovery using the Adaptor Grammar framework (Johnson et al., 2006), integrating\
+    \ these earlier approaches using a probabilistic model of phonological variation.\
+    \ We show that the model is competitive with state-of-the-art spoken term discovery\
+    \ systems, and present analyses exploring the model\u2019s behavior and the kinds\
+    \ of linguistic structures it learns."
+  author:
+  - first: Chia-ying
+    full: Chia-ying Lee
+    id: chia-ying-lee
+    last: Lee
+  - first: Timothy J.
+    full: "Timothy J. O\u2019Donnell"
+    id: timothy-odonnell
+    last: "O\u2019Donnell"
+  - first: James
+    full: James Glass
+    id: james-glass
+    last: Glass
+  author_string: "Chia-ying Lee, Timothy J. O\u2019Donnell, James Glass"
+  bibkey: lee-etal-2015-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00146
+  page_first: '389'
+  page_last: '403'
+  pages: "389\u2013403"
+  paper_id: '28'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1028.jpg
+  title: Unsupervised Lexicon Discovery from Acoustic Input
+  title_html: Unsupervised Lexicon Discovery from Acoustic Input
+  url: https://www.aclweb.org/anthology/Q15-1028
+  year: '2015'
+Q15-1029:
+  abstract: 'Machine learning approaches to coreference resolution vary greatly in
+    the modeling of the problem: while early approaches operated on the mention pair
+    level, current research focuses on ranking architectures and antecedent trees.
+    We propose a unified representation of different approaches to coreference resolution
+    in terms of the structure they operate on. We represent several coreference resolution
+    approaches proposed in the literature in our framework and evaluate their performance.
+    Finally, we conduct a systematic analysis of the output of these approaches, highlighting
+    differences and similarities.'
+  attachment:
+  - filename: https://vimeo.com/160938254
+    type: video
+    url: https://vimeo.com/160938254
+  author:
+  - first: Sebastian
+    full: Sebastian Martschat
+    id: sebastian-martschat
+    last: Martschat
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Sebastian Martschat, Michael Strube
+  bibkey: martschat-strube-2015-latent
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00147
+  page_first: '405'
+  page_last: '418'
+  pages: "405\u2013418"
+  paper_id: '29'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1029.jpg
+  title: Latent Structures for Coreference Resolution
+  title_html: Latent Structures for Coreference Resolution
+  url: https://www.aclweb.org/anthology/Q15-1029
+  year: '2015'
+Q15-1030:
+  abstract: Translated texts are distinctively different from original ones, to the
+    extent that supervised text classification methods can distinguish between them
+    with high accuracy. These differences were proven useful for statistical machine
+    translation. However, it has been suggested that the accuracy of translation detection
+    deteriorates when the classifier is evaluated outside the domain it was trained
+    on. We show that this is indeed the case, in a variety of evaluation scenarios.
+    We then show that unsupervised classification is highly accurate on this task.
+    We suggest a method for determining the correct labels of the clustering outcomes,
+    and then use the labels for voting, improving the accuracy even further. Moreover,
+    we suggest a simple method for clustering in the challenging case of mixed-domain
+    datasets, in spite of the dominance of domain-related features over translation-related
+    ones. The result is an effective, fully-unsupervised method for distinguishing
+    between original and translated texts that can be applied to new domains with
+    reasonable accuracy.
+  attachment:
+  - filename: https://vimeo.com/160938277
+    type: video
+    url: https://vimeo.com/160938277
+  author:
+  - first: Ella
+    full: Ella Rabinovich
+    id: ella-rabinovich
+    last: Rabinovich
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Ella Rabinovich, Shuly Wintner
+  bibkey: rabinovich-wintner-2015-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00148
+  page_first: '419'
+  page_last: '432'
+  pages: "419\u2013432"
+  paper_id: '30'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1030.jpg
+  title: Unsupervised Identification of Translationese
+  title_html: Unsupervised Identification of Translationese
+  url: https://www.aclweb.org/anthology/Q15-1030
+  year: '2015'
+Q15-1031:
+  abstract: "The observed pronunciations or spellings of words are often explained\
+    \ as arising from the \u201Cunderlying forms\u201D of their morphemes. These forms\
+    \ are latent strings that linguists try to reconstruct by hand. We propose to\
+    \ reconstruct them automatically at scale, enabling generalization to new words.\
+    \ Given some surface word types of a concatenative language along with the abstract\
+    \ morpheme sequences that they express, we show how to recover consistent underlying\
+    \ forms for these morphemes, together with the (stochastic) phonology that maps\
+    \ each concatenation of underlying forms to a surface form. Our technique involves\
+    \ loopy belief propagation in a natural directed graphical model whose variables\
+    \ are unknown strings and whose conditional distributions are encoded as finite-state\
+    \ machines with trainable weights. We define training and evaluation paradigms\
+    \ for the task of surface word prediction, and report results on subsets of 7\
+    \ languages."
+  attachment:
+  - filename: https://techtalks.tv/talks/tacl-modeling-word-forms-using-latent-underlying-morphs-and-phonology/61837/
+    type: video
+    url: https://techtalks.tv/talks/tacl-modeling-word-forms-using-latent-underlying-morphs-and-phonology/61837/
+  author:
+  - first: Ryan
+    full: Ryan Cotterell
+    id: ryan-cotterell
+    last: Cotterell
+  - first: Nanyun
+    full: Nanyun Peng
+    id: nanyun-peng
+    last: Peng
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Ryan Cotterell, Nanyun Peng, Jason Eisner
+  bibkey: cotterell-etal-2015-modeling
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00149
+  page_first: '433'
+  page_last: '447'
+  pages: "433\u2013447"
+  paper_id: '31'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1031.jpg
+  title: Modeling Word Forms Using Latent Underlying Morphs and Phonology
+  title_html: Modeling Word Forms Using Latent Underlying Morphs and Phonology
+  url: https://www.aclweb.org/anthology/Q15-1031
+  year: '2015'
+Q15-1032:
+  abstract: Frame semantic representations have been useful in several applications
+    ranging from text-to-scene generation, to question answering and social network
+    analysis. Predicting such representations from raw text is, however, a challenging
+    task and corresponding models are typically only trained on a small set of sentence-level
+    annotations. In this paper, we present a semantic role labeling system that takes
+    into account sentence and discourse context. We introduce several new features
+    which we motivate based on linguistic insights and experimentally demonstrate
+    that they lead to significant improvements over the current state-of-the-art in
+    FrameNet-based semantic role labeling.
+  author:
+  - first: Michael
+    full: Michael Roth
+    id: michael-roth
+    last: Roth
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Michael Roth, Mirella Lapata
+  bibkey: roth-lapata-2015-context
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00150
+  page_first: '449'
+  page_last: '460'
+  pages: "449\u2013460"
+  paper_id: '32'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1032.jpg
+  title: Context-aware Frame-Semantic Role Labeling
+  title_html: Context-aware Frame-Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/Q15-1032
+  year: '2015'
+Q15-1033:
+  abstract: Structural kernels are a flexible learning paradigm that has been widely
+    used in Natural Language Processing. However, the problem of model selection in
+    kernel-based methods is usually overlooked. Previous approaches mostly rely on
+    setting default values for kernel hyperparameters or using grid search, which
+    is slow and coarse-grained. In contrast, Bayesian methods allow efficient model
+    selection by maximizing the evidence on the training data through gradient-based
+    methods. In this paper we show how to perform this in the context of structural
+    kernels by using Gaussian Processes. Experimental results on tree kernels show
+    that this procedure results in better prediction performance compared to hyperparameter
+    optimization via grid search. The framework proposed in this paper can be adapted
+    to other structures besides trees, e.g., strings and graphs, thereby extending
+    the utility of kernel-based methods.
+  attachment:
+  - filename: https://vimeo.com/173979463
+    type: video
+    url: https://vimeo.com/173979463
+  author:
+  - first: Daniel
+    full: Daniel Beck
+    id: daniel-beck
+    last: Beck
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Christian
+    full: Christian Hardmeier
+    id: christian-hardmeier
+    last: Hardmeier
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Daniel Beck, Trevor Cohn, Christian Hardmeier, Lucia Specia
+  bibkey: beck-etal-2015-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00151
+  page_first: '461'
+  page_last: '473'
+  pages: "461\u2013473"
+  paper_id: '33'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1033.jpg
+  title: Learning Structural Kernels for Natural Language Processing
+  title_html: Learning Structural Kernels for Natural Language Processing
+  url: https://www.aclweb.org/anthology/Q15-1033
+  year: '2015'
+Q15-1034:
+  abstract: "We present the first large-scale, corpus based verification of Dowty\u2019\
+    s seminal theory of proto-roles. Our results demonstrate both the need for and\
+    \ the feasibility of a property-based annotation scheme of semantic relationships,\
+    \ as opposed to the currently dominant notion of categorical roles."
+  attachment:
+  - filename: https://vimeo.com/160173528
+    type: video
+    url: https://vimeo.com/160173528
+  author:
+  - first: Drew
+    full: Drew Reisinger
+    id: drew-reisinger
+    last: Reisinger
+  - first: Rachel
+    full: Rachel Rudinger
+    id: rachel-rudinger
+    last: Rudinger
+  - first: Francis
+    full: Francis Ferraro
+    id: francis-ferraro
+    last: Ferraro
+  - first: Craig
+    full: Craig Harman
+    id: craig-harman
+    last: Harman
+  - first: Kyle
+    full: Kyle Rawlins
+    id: kyle-rawlins
+    last: Rawlins
+  - first: Benjamin
+    full: Benjamin Van Durme
+    id: benjamin-van-durme
+    last: Van Durme
+  author_string: Drew Reisinger, Rachel Rudinger, Francis Ferraro, Craig Harman, Kyle
+    Rawlins, Benjamin Van Durme
+  bibkey: reisinger-etal-2015-semantic
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00152
+  page_first: '475'
+  page_last: '488'
+  pages: "475\u2013488"
+  paper_id: '34'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1034.jpg
+  title: Semantic Proto-Roles
+  title_html: Semantic Proto-Roles
+  url: https://www.aclweb.org/anthology/Q15-1034
+  year: '2015'
+Q15-1035:
+  abstract: "We show how to train the fast dependency parser of Smith and Eisner (2008)\
+    \ for improved accuracy. This parser can consider higher-order interactions among\
+    \ edges while retaining O(n3) runtime. It outputs the parse with maximum expected\
+    \ recall\u2014but for speed, this expectation is taken under a posterior distribution\
+    \ that is constructed only approximately, using loopy belief propagation through\
+    \ structured factors. We show how to adjust the model parameters to compensate\
+    \ for the errors introduced by this approximation, by following the gradient of\
+    \ the actual loss on training data. We find this gradient by back-propagation.\
+    \ That is, we treat the entire parser (approximations and all) as a differentiable\
+    \ circuit, as others have done for loopy CRFs (Domke, 2010; Stoyanov et al., 2011;\
+    \ Domke, 2011; Stoyanov and Eisner, 2012). The resulting parser obtains higher\
+    \ accuracy with fewer iterations of belief propagation than one trained by conditional\
+    \ log-likelihood."
+  attachment:
+  - filename: https://vimeo.com/150290362
+    type: video
+    url: https://vimeo.com/150290362
+  author:
+  - first: Matthew R.
+    full: Matthew R. Gormley
+    id: matthew-r-gormley
+    last: Gormley
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Matthew R. Gormley, Mark Dredze, Jason Eisner
+  bibkey: gormley-etal-2015-approximation
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00153
+  page_first: '489'
+  page_last: '501'
+  pages: "489\u2013501"
+  paper_id: '35'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1035.jpg
+  title: Approximation-Aware Dependency Parsing by Belief Propagation
+  title_html: Approximation-Aware Dependency Parsing by Belief Propagation
+  url: https://www.aclweb.org/anthology/Q15-1035
+  year: '2015'
+Q15-1036:
+  abstract: We present Plato, a probabilistic model for entity resolution that includes
+    a novel approach for handling noisy or uninformative features, and supplements
+    labeled training data derived from Wikipedia with a very large unlabeled text
+    corpus. Training and inference in the proposed model can easily be distributed
+    across many servers, allowing it to scale to over 107 entities. We evaluate Plato
+    on three standard datasets for entity resolution. Our approach achieves the best
+    results to-date on TAC KBP 2011 and is highly competitive on both the CoNLL 2003
+    and TAC KBP 2012 datasets.
+  author:
+  - first: Nevena
+    full: Nevena Lazic
+    id: nevena-lazic
+    last: Lazic
+  - first: Amarnag
+    full: Amarnag Subramanya
+    id: amarnag-subramanya
+    last: Subramanya
+  - first: Michael
+    full: Michael Ringgaard
+    id: michael-ringgaard
+    last: Ringgaard
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: Nevena Lazic, Amarnag Subramanya, Michael Ringgaard, Fernando Pereira
+  bibkey: lazic-etal-2015-plato
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00154
+  page_first: '503'
+  page_last: '515'
+  pages: "503\u2013515"
+  paper_id: '36'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1036.jpg
+  title: 'Plato: A Selective Context Model for Entity Resolution'
+  title_html: '<span class="acl-fixed-case">P</span>lato: A Selective Context Model
+    for Entity Resolution'
+  url: https://www.aclweb.org/anthology/Q15-1036
+  year: '2015'
+Q15-1037:
+  abstract: "We present a novel hierarchical distance-dependent Bayesian model for\
+    \ event coreference resolution. While existing generative models for event coreference\
+    \ resolution are completely unsupervised, our model allows for the incorporation\
+    \ of pairwise distances between event mentions \u2014 information that is widely\
+    \ used in supervised coreference models to guide the generative clustering processing\
+    \ for better event clustering both within and across documents. We model the distances\
+    \ between event mentions using a feature-rich learnable distance function and\
+    \ encode them as Bayesian priors for nonparametric clustering. Experiments on\
+    \ the ECB+ corpus show that our model outperforms state-of-the-art methods for\
+    \ both within- and cross-document event coreference resolution."
+  author:
+  - first: Bishan
+    full: Bishan Yang
+    id: bishan-yang
+    last: Yang
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Peter
+    full: Peter Frazier
+    id: peter-frazier
+    last: Frazier
+  author_string: Bishan Yang, Claire Cardie, Peter Frazier
+  bibkey: yang-etal-2015-hierarchical
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00155
+  page_first: '517'
+  page_last: '528'
+  pages: "517\u2013528"
+  paper_id: '37'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1037.jpg
+  title: A Hierarchical Distance-dependent Bayesian Model for Event Coreference Resolution
+  title_html: A Hierarchical Distance-dependent <span class="acl-fixed-case">B</span>ayesian
+    Model for Event Coreference Resolution
+  url: https://www.aclweb.org/anthology/Q15-1037
+  year: '2015'
+Q15-1038:
+  abstract: We present DefIE, an approach to large-scale Information Extraction (IE)
+    based on a syntactic-semantic analysis of textual definitions. Given a large corpus
+    of definitions we leverage syntactic dependencies to reduce data sparsity, then
+    disambiguate the arguments and content words of the relation strings, and finally
+    exploit the resulting information to organize the acquired relations hierarchically.
+    The output of DefIE is a high-quality knowledge base consisting of several million
+    automatically acquired semantic relations.
+  author:
+  - first: Claudio
+    full: Claudio Delli Bovi
+    id: claudio-delli-bovi
+    last: Delli Bovi
+  - first: Luca
+    full: Luca Telesca
+    id: luca-telesca
+    last: Telesca
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  author_string: Claudio Delli Bovi, Luca Telesca, Roberto Navigli
+  bibkey: delli-bovi-etal-2015-large
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00156
+  page_first: '529'
+  page_last: '543'
+  pages: "529\u2013543"
+  paper_id: '38'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1038.jpg
+  title: Large-Scale Information Extraction from Textual Definitions through Deep
+    Syntactic and Semantic Analysis
+  title_html: Large-Scale Information Extraction from Textual Definitions through
+    Deep Syntactic and Semantic Analysis
+  url: https://www.aclweb.org/anthology/Q15-1038
+  year: '2015'
+Q15-1039:
+  abstract: Semantic parsers conventionally construct logical forms bottom-up in a
+    fixed order, resulting in the generation of many extraneous partial logical forms.
+    In this paper, we combine ideas from imitation learning and agenda-based parsing
+    to train a semantic parser that searches partial logical forms in a more strategic
+    order. Empirically, our parser reduces the number of constructed partial logical
+    forms by an order of magnitude, and obtains a 6x-9x speedup over fixed-order parsing,
+    while maintaining comparable accuracy.
+  author:
+  - first: Jonathan
+    full: Jonathan Berant
+    id: jonathan-berant
+    last: Berant
+  - first: Percy
+    full: Percy Liang
+    id: percy-liang
+    last: Liang
+  author_string: Jonathan Berant, Percy Liang
+  bibkey: berant-liang-2015-imitation
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00157
+  page_first: '545'
+  page_last: '558'
+  pages: "545\u2013558"
+  paper_id: '39'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1039.jpg
+  title: Imitation Learning of Agenda-based Semantic Parsers
+  title_html: Imitation Learning of Agenda-based Semantic Parsers
+  url: https://www.aclweb.org/anthology/Q15-1039
+  year: '2015'
+Q15-1040:
+  abstract: "We study the generalization of maximum spanning tree dependency parsing\
+    \ to maximum acyclic subgraphs. Because the underlying optimization problem is\
+    \ intractable even under an arc-factored model, we consider the restriction to\
+    \ noncrossing dependency graphs. Our main contribution is a cubic-time exact inference\
+    \ algorithm for this class. We extend this algorithm into a practical parser and\
+    \ evaluate its performance on four linguistic data sets used in semantic dependency\
+    \ parsing. We also explore a generalization of our parsing framework to dependency\
+    \ graphs with pagenumber at most k and show that the resulting optimization problem\
+    \ is NP-hard for k \u2265 2."
+  author:
+  - first: Marco
+    full: Marco Kuhlmann
+    id: marco-kuhlmann
+    last: Kuhlmann
+  - first: Peter
+    full: Peter Jonsson
+    id: peter-jonsson
+    last: Jonsson
+  author_string: Marco Kuhlmann, Peter Jonsson
+  bibkey: kuhlmann-jonsson-2015-parsing
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00158
+  page_first: '559'
+  page_last: '570'
+  pages: "559\u2013570"
+  paper_id: '40'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1040.jpg
+  title: Parsing to Noncrossing Dependency Graphs
+  title_html: Parsing to Noncrossing Dependency Graphs
+  url: https://www.aclweb.org/anthology/Q15-1040
+  year: '2015'
+Q15-1041:
+  abstract: We propose a new method for semantic parsing of ambiguous and ungrammatical
+    input, such as search queries. We do so by building on an existing semantic parsing
+    framework that uses synchronous context free grammars (SCFG) to jointly model
+    the input sentence and output meaning representation. We generalize this SCFG
+    framework to allow not one, but multiple outputs. Using this formalism, we construct
+    a grammar that takes an ambiguous input string and jointly maps it into both a
+    meaning representation and a natural language paraphrase that is less ambiguous
+    than the original input. This paraphrase can be used to disambiguate the meaning
+    representation via verification using a language model that calculates the probability
+    of each paraphrase.
+  author:
+  - first: Philip
+    full: Philip Arthur
+    id: philip-arthur
+    last: Arthur
+  - first: Graham
+    full: Graham Neubig
+    id: graham-neubig
+    last: Neubig
+  - first: Sakriani
+    full: Sakriani Sakti
+    id: sakriani-sakti
+    last: Sakti
+  - first: Tomoki
+    full: Tomoki Toda
+    id: tomoki-toda
+    last: Toda
+  - first: Satoshi
+    full: Satoshi Nakamura
+    id: satoshi-nakamura
+    last: Nakamura
+  author_string: Philip Arthur, Graham Neubig, Sakriani Sakti, Tomoki Toda, Satoshi
+    Nakamura
+  bibkey: arthur-etal-2015-semantic
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00159
+  page_first: '571'
+  page_last: '584'
+  pages: "571\u2013584"
+  paper_id: '41'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1041.jpg
+  title: Semantic Parsing of Ambiguous Input through Paraphrasing and Verification
+  title_html: Semantic Parsing of Ambiguous Input through Paraphrasing and Verification
+  url: https://www.aclweb.org/anthology/Q15-1041
+  year: '2015'
+Q15-1042:
+  abstract: This paper formalizes the problem of solving multi-sentence algebraic
+    word problems as that of generating and scoring equation trees. We use integer
+    linear programming to generate equation trees and score their likelihood by learning
+    local and global discriminative models. These models are trained on a small set
+    of word problems and their answers, without any manual annotation, in order to
+    choose the equation that best matches the problem text. We refer to the overall
+    system as Alges. We compare Alges with previous work and show that it covers the
+    full gamut of arithmetic operations whereas Hosseini et al. (2014) only handle
+    addition and subtraction. In addition, Alges overcomes the brittleness of the
+    Kushman et al. (2014) approach on single-equation problems, yielding a 15% to
+    50% reduction in error.
+  author:
+  - first: Rik
+    full: Rik Koncel-Kedziorski
+    id: rik-koncel-kedziorski
+    last: Koncel-Kedziorski
+  - first: Hannaneh
+    full: Hannaneh Hajishirzi
+    id: hannaneh-hajishirzi
+    last: Hajishirzi
+  - first: Ashish
+    full: Ashish Sabharwal
+    id: ashish-sabharwal
+    last: Sabharwal
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  - first: Siena Dumas
+    full: Siena Dumas Ang
+    id: siena-dumas-ang
+    last: Ang
+  author_string: Rik Koncel-Kedziorski, Hannaneh Hajishirzi, Ashish Sabharwal, Oren
+    Etzioni, Siena Dumas Ang
+  bibkey: koncel-kedziorski-etal-2015-parsing
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    3
+  doi: 10.1162/tacl_a_00160
+  page_first: '585'
+  page_last: '597'
+  pages: "585\u2013597"
+  paper_id: '42'
+  parent_volume_id: Q15-1
+  pdf: https://www.aclweb.org/anthology/Q15-1042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q15-1042.jpg
+  title: Parsing Algebraic Word Problems into Equations
+  title_html: Parsing Algebraic Word Problems into Equations
+  url: https://www.aclweb.org/anthology/Q15-1042
+  year: '2015'

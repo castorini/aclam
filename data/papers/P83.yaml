@@ -1,0 +1,728 @@
+P83-1000:
+  address: Cambridge, Massachusetts, USA
+  bibkey: acl-1983-association
+  bibtype: proceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1000.jpg
+  title: 21st Annual Meeting of the Association for Computational Linguistics
+  title_html: 21st Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P83-1000
+  year: '1983'
+P83-1001:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Geoffrey K.
+    full: Geoffrey K. Pullum
+    id: geoffrey-k-pullum
+    last: Pullum
+  author_string: Geoffrey K. Pullum
+  bibkey: pullum-1983-context
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981313
+  month: June
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1001.jpg
+  title: Context-Freeness and the Computer Processing of Human Languages
+  title_html: Context-Freeness and the Computer Processing of Human Languages
+  url: https://www.aclweb.org/anthology/P83-1001
+  year: '1983'
+P83-1002:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Aravind K. Joshi
+  bibkey: joshi-1983-factoring
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981314
+  month: June
+  page_first: '7'
+  page_last: '15'
+  pages: "7\u201315"
+  paper_id: '2'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1002.jpg
+  title: 'Factoring Recursion and Dependencies: An Aspect of Tree Adjoining Grammars
+    (TAG) and a Comparison of Some Formal Properties of TAGs, GPSGs, PLGs, and LPGs'
+  title_html: 'Factoring Recursion and Dependencies: An Aspect of Tree Adjoining Grammars
+    (<span class="acl-fixed-case">TAG</span>) and a Comparison of Some Formal Properties
+    of <span class="acl-fixed-case">TAG</span>s, <span class="acl-fixed-case">GPSG</span>s,
+    <span class="acl-fixed-case">PLG</span>s, and <span class="acl-fixed-case">LPG</span>s'
+  url: https://www.aclweb.org/anthology/P83-1002
+  year: '1983'
+P83-1003:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Henry
+    full: Henry Thompson
+    id: henry-s-thompson
+    last: Thompson
+  author_string: Henry Thompson
+  bibkey: thompson-1983-crossed
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981315
+  month: June
+  page_first: '16'
+  page_last: '21'
+  pages: "16\u201321"
+  paper_id: '3'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1003.jpg
+  title: 'Crossed Serial Dependencies: A low-power parseable extension to GPSG'
+  title_html: 'Crossed Serial Dependencies: A low-power parseable extension to <span
+    class="acl-fixed-case">GPSG</span>'
+  url: https://www.aclweb.org/anthology/P83-1003
+  year: '1983'
+P83-1004:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  - first: Swan U.
+    full: Swan U. Stucky
+    id: swan-u-stucky
+    last: Stucky
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  - first: Jane J.
+    full: Jane J. Robinson
+    id: jane-j-robinson
+    last: Robinson
+  author_string: Stuart M. Shieber, Swan U. Stucky, Hans Uszkoreit, Jane J. Robinson
+  bibkey: shieber-etal-1983-formal
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981316
+  month: June
+  page_first: '22'
+  page_last: '27'
+  pages: "22\u201327"
+  paper_id: '4'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1004.jpg
+  title: Formal Constraints on Metarules
+  title_html: Formal Constraints on Metarules
+  url: https://www.aclweb.org/anthology/P83-1004
+  year: '1983'
+P83-1005:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: David J.
+    full: David J. Israel
+    id: david-israel
+    last: Israel
+  author_string: David J. Israel
+  bibkey: israel-1983-prolegomenon
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981318
+  month: June
+  page_first: '28'
+  page_last: '37'
+  pages: "28\u201337"
+  paper_id: '5'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1005.jpg
+  title: A Prolegomenon to Situation Semantics
+  title_html: A Prolegomenon to Situation Semantics
+  url: https://www.aclweb.org/anthology/P83-1005
+  year: '1983'
+P83-1006:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Eric
+    full: Eric Mays
+    id: eric-mays
+    last: Mays
+  author_string: Eric Mays
+  bibkey: mays-1983-modal
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981319
+  month: June
+  page_first: '38'
+  page_last: '43'
+  pages: "38\u201343"
+  paper_id: '6'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1006.jpg
+  title: A Modal Temporal Logic for Reasoning about Change
+  title_html: A Modal Temporal Logic for Reasoning about Change
+  url: https://www.aclweb.org/anthology/P83-1006
+  year: '1983'
+P83-1007:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Barbara J.
+    full: Barbara J. Grosz
+    id: barbara-j-grosz
+    last: Grosz
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  - first: Scott
+    full: Scott Weinstein
+    id: scott-weinstein
+    last: Weinstein
+  author_string: Barbara J. Grosz, Aravind K. Joshi, Scott Weinstein
+  bibkey: grosz-etal-1983-providing
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981320
+  month: June
+  page_first: '44'
+  page_last: '50'
+  pages: "44\u201350"
+  paper_id: '7'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1007.jpg
+  title: Providing a Unified Account of Definite Noun Phrases in Discourse
+  title_html: Providing a Unified Account of Definite Noun Phrases in Discourse
+  url: https://www.aclweb.org/anthology/P83-1007
+  year: '1983'
+P83-1008:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: David Scott
+    full: David Scott Warren
+    id: david-scott-warren
+    last: Warren
+  author_string: David Scott Warren
+  bibkey: warren-1983-using
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981321
+  month: June
+  page_first: '51'
+  page_last: '56'
+  pages: "51\u201356"
+  paper_id: '8'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1008.jpg
+  title: "Using \u03BB-Calculus to Represent Meanings in Logic Grammars"
+  title_html: "Using \u03BB-Calculus to Represent Meanings in Logic Grammars"
+  url: https://www.aclweb.org/anthology/P83-1008
+  year: '1983'
+P83-1009:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  author_string: Jerry R. Hobbs
+  bibkey: hobbs-1983-improper
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981322
+  month: June
+  page_first: '57'
+  page_last: '63'
+  pages: "57\u201363"
+  paper_id: '9'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1009.jpg
+  title: An Improper Treatment of Quantification in Ordinary English
+  title_html: An Improper Treatment of Quantification in Ordinary <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/P83-1009
+  year: '1983'
+P83-1010:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Graeme Hirst
+  bibkey: hirst-1983-foundation
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981323
+  month: June
+  page_first: '64'
+  page_last: '73'
+  pages: "64\u201373"
+  paper_id: '10'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1010.jpg
+  title: A Foundation for Semantic Interpretation
+  title_html: A Foundation for Semantic Interpretation
+  url: https://www.aclweb.org/anthology/P83-1010
+  year: '1983'
+P83-1011:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Douglas E.
+    full: Douglas E. Appelt
+    id: douglas-appelt
+    last: Appelt
+  author_string: Douglas E. Appelt
+  bibkey: appelt-1983-telegram
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981325
+  month: June
+  page_first: '74'
+  page_last: '78'
+  pages: "74\u201378"
+  paper_id: '11'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1011.jpg
+  title: 'TELEGRAM: A Grammar Formalism for Language Planning'
+  title_html: '<span class="acl-fixed-case">TELEGRAM</span>: A Grammar Formalism for
+    Language Planning'
+  url: https://www.aclweb.org/anthology/P83-1011
+  year: '1983'
+P83-1012:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: William C.
+    full: William C. Mann
+    id: william-c-mann
+    last: Mann
+  author_string: William C. Mann
+  bibkey: mann-1983-overview
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981326
+  month: June
+  page_first: '79'
+  page_last: '84'
+  pages: "79\u201384"
+  paper_id: '12'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1012.jpg
+  title: An Overview of the Nigel Text Generation Grammar
+  title_html: An Overview of the <span class="acl-fixed-case">N</span>igel Text Generation
+    Grammar
+  url: https://www.aclweb.org/anthology/P83-1012
+  year: '1983'
+P83-1013:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Janet B.
+    full: Janet B. Pierrehumbert
+    id: janet-pierrehumbert
+    last: Pierrehumbert
+  author_string: Janet B. Pierrehumbert
+  bibkey: pierrehumbert-1983-automatic
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981328
+  month: June
+  page_first: '85'
+  page_last: '90'
+  pages: "85\u201390"
+  paper_id: '13'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1013.jpg
+  title: Automatic Recognition of Intonation Patterns
+  title_html: Automatic Recognition of Intonation Patterns
+  url: https://www.aclweb.org/anthology/P83-1013
+  year: '1983'
+P83-1014:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Kenneth W.
+    full: Kenneth W. Church
+    id: kenneth-church
+    last: Church
+  author_string: Kenneth W. Church
+  bibkey: church-1983-finite
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981329
+  month: June
+  page_first: '91'
+  page_last: '97'
+  pages: "91\u201397"
+  paper_id: '14'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1014.jpg
+  title: A Finite-State Parser for Use in Speech Recognition
+  title_html: A Finite-State Parser for Use in Speech Recognition
+  url: https://www.aclweb.org/anthology/P83-1014
+  year: '1983'
+P83-1015:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: C. Raymond
+    full: C. Raymond Perrault
+    id: c-raymond-perrault
+    last: Perrault
+  author_string: C. Raymond Perrault
+  bibkey: perrault-1983-mathematical
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981331
+  month: June
+  page_first: '98'
+  page_last: '105'
+  pages: "98\u2013105"
+  paper_id: '15'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1015.jpg
+  title: On the Mathematical Properties of Linguistic Theories
+  title_html: On the Mathematical Properties of Linguistic Theories
+  url: https://www.aclweb.org/anthology/P83-1015
+  year: '1983'
+P83-1016:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  author_string: Hans Uszkoreit
+  bibkey: uszkoreit-1983-framework
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981333
+  month: June
+  page_first: '106'
+  page_last: '112'
+  pages: "106\u2013112"
+  paper_id: '16'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1016.jpg
+  title: A Framework for Processing Partially Free Word Order
+  title_html: A Framework for Processing Partially Free Word Order
+  url: https://www.aclweb.org/anthology/P83-1016
+  year: '1983'
+P83-1017:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  author_string: Stuart M. Shieber
+  bibkey: shieber-1983-sentence
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981334
+  month: June
+  page_first: '113'
+  page_last: '118'
+  pages: "113\u2013118"
+  paper_id: '17'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1017.jpg
+  title: Sentence Disambiguation by a Shift-Reduce Parsing Technique
+  title_html: Sentence Disambiguation by a Shift-Reduce Parsing Technique
+  url: https://www.aclweb.org/anthology/P83-1017
+  year: '1983'
+P83-1018:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Robert C.
+    full: Robert C. Berwick
+    id: robert-c-berwick
+    last: Berwick
+  - first: Amy S.
+    full: Amy S. Weinberg
+    id: amy-weinberg
+    last: Weinberg
+  author_string: Robert C. Berwick, Amy S. Weinberg
+  bibkey: berwick-weinberg-1983-syntactic
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981335
+  month: June
+  page_first: '119'
+  page_last: '122'
+  pages: "119\u2013122"
+  paper_id: '18'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1018.jpg
+  title: Syntactic Constraints and Efficient Parsability
+  title_html: Syntactic Constraints and Efficient Parsability
+  url: https://www.aclweb.org/anthology/P83-1018
+  year: '1983'
+P83-1019:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Donald
+    full: Donald Hindle
+    id: donald-hindle
+    last: Hindle
+  author_string: Donald Hindle
+  bibkey: hindle-1983-deterministic
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981336
+  month: June
+  page_first: '123'
+  page_last: '128'
+  pages: "123\u2013128"
+  paper_id: '19'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1019.jpg
+  title: Deterministic Parsing of Syntactic Non-fluencies
+  title_html: Deterministic Parsing of Syntactic Non-fluencies
+  url: https://www.aclweb.org/anthology/P83-1019
+  year: '1983'
+P83-1020:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Mitchell P.
+    full: Mitchell P. Marcus
+    id: mitch-marcus
+    last: Marcus
+  - first: Donald
+    full: Donald Hindle
+    id: donald-hindle
+    last: Hindle
+  - first: Margaret M.
+    full: Margaret M. Fleck
+    id: margaret-m-fleck
+    last: Fleck
+  author_string: Mitchell P. Marcus, Donald Hindle, Margaret M. Fleck
+  bibkey: marcus-etal-1983-theory
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981337
+  month: June
+  page_first: '129'
+  page_last: '136'
+  pages: "129\u2013136"
+  paper_id: '20'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1020.jpg
+  title: 'D-Theory: Talking about Talking about Trees'
+  title_html: 'D-Theory: Talking about Talking about Trees'
+  url: https://www.aclweb.org/anthology/P83-1020
+  year: '1983'
+P83-1021:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Fernando C. N.
+    full: Fernando C. N. Pereira
+    id: fernando-c-n-pereira
+    last: Pereira
+  - first: David H. D.
+    full: David H. D. Warren
+    id: david-h-d-warren
+    last: Warren
+  author_string: Fernando C. N. Pereira, David H. D. Warren
+  bibkey: pereira-warren-1983-parsing
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981338
+  month: June
+  page_first: '137'
+  page_last: '144'
+  pages: "137\u2013144"
+  paper_id: '21'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1021.jpg
+  title: Parsing as Deduction
+  title_html: Parsing as Deduction
+  url: https://www.aclweb.org/anthology/P83-1021
+  year: '1983'
+P83-1022:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Karen
+    full: Karen Kukich
+    id: karen-kukich
+    last: Kukich
+  author_string: Karen Kukich
+  bibkey: kukich-1983-design
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981340
+  month: June
+  page_first: '145'
+  page_last: '150'
+  pages: "145\u2013150"
+  paper_id: '22'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1022.jpg
+  title: Design of a Knowledge-Based Report Generator
+  title_html: Design of a Knowledge-Based Report Generator
+  url: https://www.aclweb.org/anthology/P83-1022
+  year: '1983'
+P83-1023:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Harry R.
+    full: Harry R. Tennant
+    id: harry-tennant
+    last: Tennant
+  - first: Kenneth M.
+    full: Kenneth M. Ross
+    id: kenneth-m-ross
+    last: Ross
+  - first: Richard M.
+    full: Richard M. Saenz
+    id: richard-m-saenz
+    last: Saenz
+  - first: Craig W.
+    full: Craig W. Thompson
+    id: craig-w-thompson
+    last: Thompson
+  - first: James R.
+    full: James R. Miller
+    id: james-r-miller
+    last: Miller
+  author_string: Harry R. Tennant, Kenneth M. Ross, Richard M. Saenz, Craig W. Thompson,
+    James R. Miller
+  bibkey: tennant-etal-1983-menu
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981341
+  month: June
+  page_first: '151'
+  page_last: '158'
+  pages: "151\u2013158"
+  paper_id: '23'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1023.jpg
+  title: Menu-Based Natural Language Understanding
+  title_html: Menu-Based Natural Language Understanding
+  url: https://www.aclweb.org/anthology/P83-1023
+  year: '1983'
+P83-1024:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: David N.
+    full: David N. Chin
+    id: david-n-chin
+    last: Chin
+  author_string: David N. Chin
+  bibkey: chin-1983-knowledge
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981342
+  month: June
+  page_first: '159'
+  page_last: '163'
+  pages: "159\u2013163"
+  paper_id: '24'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1024.jpg
+  title: Knowledge Structures in UC, the UNIX Consultant
+  title_html: Knowledge Structures in <span class="acl-fixed-case">UC</span>, the
+    <span class="acl-fixed-case">UNIX</span> Consultant
+  url: https://www.aclweb.org/anthology/P83-1024
+  year: '1983'
+P83-1025:
+  address: Cambridge, Massachusetts, USA
+  author:
+  - first: Jaime G.
+    full: Jaime G. Carbonell
+    id: jaime-g-carbonell
+    last: Carbonell
+  author_string: Jaime G. Carbonell
+  bibkey: carbonell-1983-discourse
+  bibtype: inproceedings
+  booktitle: 21st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 21st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981311.981343
+  month: June
+  page_first: '164'
+  page_last: '168'
+  pages: "164\u2013168"
+  paper_id: '25'
+  parent_volume_id: P83-1
+  pdf: https://www.aclweb.org/anthology/P83-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P83-1025.jpg
+  title: Discourse Pragmatics and Ellipsis Resolution in Task-Oriented Natural Language
+    Interfaces
+  title_html: Discourse Pragmatics and Ellipsis Resolution in Task-Oriented Natural
+    Language Interfaces
+  url: https://www.aclweb.org/anthology/P83-1025
+  year: '1983'

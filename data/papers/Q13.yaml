@@ -1,0 +1,1561 @@
+Q13-1000:
+  bibkey: tacl-2013-transactions
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  paper_id: '0'
+  parent_volume_id: Q13-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1000.jpg
+  title: Transactions of the Association for Computational Linguistics, Volume 1
+  title_html: Transactions of the Association for Computational Linguistics, Volume
+    1
+  year: '2013'
+Q13-1001:
+  abstract: We consider the construction of part-of-speech taggers for resource-poor
+    languages. Recently, manually constructed tag dictionaries from Wiktionary and
+    dictionaries projected via bitext have been used as type constraints to overcome
+    the scarcity of annotated data in this setting. In this paper, we show that additional
+    token constraints can be projected from a resource-rich source language to a resource-poor
+    target language via word-aligned bitext. We present several models to this end;
+    in particular a partially observed conditional random field model, where coupled
+    token and type constraints provide a partial signal for training. Averaged across
+    eight previously studied Indo-European languages, our model achieves a 25% relative
+    error reduction over the prior state of the art. We further present successful
+    results on seven additional languages from different families, empirically demonstrating
+    the applicability of coupled token and type constraints across a diverse set of
+    languages.
+  author:
+  - first: Oscar
+    full: "Oscar T\xE4ckstr\xF6m"
+    id: oscar-tackstrom
+    last: "T\xE4ckstr\xF6m"
+  - first: Dipanjan
+    full: Dipanjan Das
+    id: dipanjan-das
+    last: Das
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: "Oscar T\xE4ckstr\xF6m, Dipanjan Das, Slav Petrov, Ryan McDonald,\
+    \ Joakim Nivre"
+  bibkey: tackstrom-etal-2013-token
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00205
+  page_first: '1'
+  page_last: '12'
+  pages: "1\u201312"
+  paper_id: '1'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1001.jpg
+  title: Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging
+  title_html: Token and Type Constraints for Cross-Lingual Part-of-Speech Tagging
+  url: https://www.aclweb.org/anthology/Q13-1001
+  year: '2013'
+Q13-1002:
+  abstract: "Dependency parsing algorithms capable of producing the types of crossing\
+    \ dependencies seen in natural language sentences have traditionally been orders\
+    \ of magnitude slower than algorithms for projective trees. For 95.8\u201399.8%\
+    \ of dependency parses in various natural language treebanks, whenever an edge\
+    \ is crossed, the edges that cross it all have a common vertex. The optimal dependency\
+    \ tree that satisfies this 1-Endpoint-Crossing property can be found with an O(n4)\
+    \ parsing algorithm that recursively combines forests over intervals with one\
+    \ exterior point. 1-Endpoint-Crossing trees also have natural connections to linguistics\
+    \ and another class of graphs that has been studied in NLP."
+  attachment:
+  - filename: https://techtalks.tv/talks/tacl-finding-optimal-1-endpoint-crossing-trees/58443/
+    type: video
+    url: https://techtalks.tv/talks/tacl-finding-optimal-1-endpoint-crossing-trees/58443/
+  author:
+  - first: Emily
+    full: Emily Pitler
+    id: emily-pitler
+    last: Pitler
+  - first: Sampath
+    full: Sampath Kannan
+    id: sampath-kannan
+    last: Kannan
+  - first: Mitchell
+    full: Mitchell Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Emily Pitler, Sampath Kannan, Mitchell Marcus
+  bibkey: pitler-etal-2013-finding
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00206
+  page_first: '13'
+  page_last: '24'
+  pages: "13\u201324"
+  paper_id: '2'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1002.jpg
+  title: Finding Optimal 1-Endpoint-Crossing Trees
+  title_html: Finding Optimal 1-Endpoint-Crossing Trees
+  url: https://www.aclweb.org/anthology/Q13-1002
+  year: '2013'
+Q13-1003:
+  abstract: Recent work has shown that the integration of visual information into
+    text-based models can substantially improve model predictions, but so far only
+    visual information extracted from static images has been used. In this paper,
+    we consider the problem of grounding sentences describing actions in visual information
+    extracted from videos. We present a general purpose corpus that aligns high quality
+    videos with multiple natural language descriptions of the actions portrayed in
+    the videos, together with an annotation of how similar the action descriptions
+    are to each other. Experimental results demonstrate that a text-based model of
+    similarity between actions improves substantially when combined with visual information
+    from videos depicting the described actions.
+  author:
+  - first: Michaela
+    full: Michaela Regneri
+    id: michaela-regneri
+    last: Regneri
+  - first: Marcus
+    full: Marcus Rohrbach
+    id: marcus-rohrbach
+    last: Rohrbach
+  - first: Dominikus
+    full: Dominikus Wetzel
+    id: dominikus-wetzel
+    last: Wetzel
+  - first: Stefan
+    full: Stefan Thater
+    id: stefan-thater
+    last: Thater
+  - first: Bernt
+    full: Bernt Schiele
+    id: bernt-schiele
+    last: Schiele
+  - first: Manfred
+    full: Manfred Pinkal
+    id: manfred-pinkal
+    last: Pinkal
+  author_string: Michaela Regneri, Marcus Rohrbach, Dominikus Wetzel, Stefan Thater,
+    Bernt Schiele, Manfred Pinkal
+  bibkey: regneri-etal-2013-grounding
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00207
+  page_first: '25'
+  page_last: '36'
+  pages: "25\u201336"
+  paper_id: '3'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1003.jpg
+  title: Grounding Action Descriptions in Videos
+  title_html: Grounding Action Descriptions in Videos
+  url: https://www.aclweb.org/anthology/Q13-1003
+  year: '2013'
+Q13-1004:
+  abstract: 'Graph based dependency parsing is inefficient when handling non-local
+    features due to high computational complexity of inference. In this paper, we
+    proposed an exact and efficient decoding algorithm based on the Branch and Bound
+    (B&B) framework where non-local features are bounded by a linear combination of
+    local features. Dynamic programming is used to search the upper bound. Experiments
+    are conducted on English PTB and Chinese CTB datasets. We achieved competitive
+    Unlabeled Attachment Score (UAS) when no additional resources are available: 93.17%
+    for English and 87.25% for Chinese. Parsing speed is 177 words per second for
+    English and 97 words per second for Chinese. Our algorithm is general and can
+    be adapted to non-projective dependency parsing or other graphical models.'
+  author:
+  - first: Xian
+    full: Xian Qian
+    id: xian-qian
+    last: Qian
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Xian Qian, Yang Liu
+  bibkey: qian-liu-2013-branch
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00208
+  page_first: '37'
+  page_last: '48'
+  pages: "37\u201348"
+  paper_id: '4'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1004.jpg
+  title: Branch and Bound Algorithm for Dependency Parsing with Non-local Features
+  title_html: Branch and Bound Algorithm for Dependency Parsing with Non-local Features
+  url: https://www.aclweb.org/anthology/Q13-1004
+  year: '2013'
+Q13-1005:
+  abstract: The context in which language is used provides a strong signal for learning
+    to recover its meaning. In this paper, we show it can be used within a grounded
+    CCG semantic parsing approach that learns a joint model of meaning and context
+    for interpreting and executing natural language instructions, using various types
+    of weak supervision. The joint nature provides crucial benefits by allowing situated
+    cues, such as the set of visible objects, to directly influence learning. It also
+    enables algorithms that learn while executing instructions, for example by trying
+    to replicate human actions. Experiments on a benchmark navigational dataset demonstrate
+    strong performance under differing forms of supervision, including correctly executing
+    60% more instruction sets relative to the previous state of the art.
+  attachment:
+  - filename: https://techtalks.tv/talks/tacl-weakly-supervised-learning-of-semantic-parsers-for-mapping-instructions-to-actions/58484/
+    type: video
+    url: https://techtalks.tv/talks/tacl-weakly-supervised-learning-of-semantic-parsers-for-mapping-instructions-to-actions/58484/
+  author:
+  - first: Yoav
+    full: Yoav Artzi
+    id: yoav-artzi
+    last: Artzi
+  - first: Luke
+    full: Luke Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  author_string: Yoav Artzi, Luke Zettlemoyer
+  bibkey: artzi-zettlemoyer-2013-weakly
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00209
+  page_first: '49'
+  page_last: '62'
+  pages: "49\u201362"
+  paper_id: '5'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1005.jpg
+  title: Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to
+    Actions
+  title_html: Weakly Supervised Learning of Semantic Parsers for Mapping Instructions
+    to Actions
+  url: https://www.aclweb.org/anthology/Q13-1005
+  year: '2013'
+Q13-1006:
+  abstract: Unsupervised parsing is a difficult task that infants readily perform.
+    Progress has been made on this task using text-based models, but few computational
+    approaches have considered how infants might benefit from acoustic cues. This
+    paper explores the hypothesis that word duration can help with learning syntax.
+    We describe how duration information can be incorporated into an unsupervised
+    Bayesian dependency parser whose only other source of information is the words
+    themselves (without punctuation or parts of speech). Our results, evaluated on
+    both adult-directed and child-directed utterances, show that using word duration
+    can improve parse quality relative to words-only baselines. These results support
+    the idea that acoustic cues provide useful evidence about syntactic structure
+    for language-learning infants, and motivate the use of word duration cues in NLP
+    tasks with speech.
+  attachment:
+  - filename: https://techtalks.tv/talks/tacl-unsupervised-dependency-parsing-with-acoustic-cues/58509/
+    type: video
+    url: https://techtalks.tv/talks/tacl-unsupervised-dependency-parsing-with-acoustic-cues/58509/
+  author:
+  - first: John K
+    full: John K Pate
+    id: john-k-pate
+    last: Pate
+  - first: Sharon
+    full: Sharon Goldwater
+    id: sharon-goldwater
+    last: Goldwater
+  author_string: John K Pate, Sharon Goldwater
+  bibkey: pate-goldwater-2013-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00210
+  page_first: '63'
+  page_last: '74'
+  pages: "63\u201374"
+  paper_id: '6'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1006.jpg
+  title: Unsupervised Dependency Parsing with Acoustic Cues
+  title_html: Unsupervised Dependency Parsing with Acoustic Cues
+  url: https://www.aclweb.org/anthology/Q13-1006
+  year: '2013'
+Q13-1007:
+  abstract: We introduce a novel nonparametric Bayesian model for the induction of
+    Combinatory Categorial Grammars from POS-tagged text. It achieves state of the
+    art performance on a number of languages, and induces linguistically plausible
+    lexicons.
+  attachment:
+  - filename: https://techtalks.tv/talks/tacl-an-hdp-model-for-inducing-combinatory-categorial-grammars/58520/
+    type: video
+    url: https://techtalks.tv/talks/tacl-an-hdp-model-for-inducing-combinatory-categorial-grammars/58520/
+  author:
+  - first: Yonatan
+    full: Yonatan Bisk
+    id: yonatan-bisk
+    last: Bisk
+  - first: Julia
+    full: Julia Hockenmaier
+    id: julia-hockenmaier
+    last: Hockenmaier
+  author_string: Yonatan Bisk, Julia Hockenmaier
+  bibkey: bisk-hockenmaier-2013-hdp
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00211
+  page_first: '75'
+  page_last: '88'
+  pages: "75\u201388"
+  paper_id: '7'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1007.jpg
+  title: An HDP Model for Inducing Combinatory Categorial Grammars
+  title_html: An <span class="acl-fixed-case">HDP</span> Model for Inducing Combinatory
+    Categorial Grammars
+  url: https://www.aclweb.org/anthology/Q13-1007
+  year: '2013'
+Q13-1008:
+  abstract: Supervised learning methods and LDA based topic model have been successfully
+    applied in the field of multi-document summarization. In this paper, we propose
+    a novel supervised approach that can incorporate rich sentence features into Bayesian
+    topic models in a principled way, thus taking advantages of both topic model and
+    feature based supervised learning methods. Experimental results on DUC2007, TAC2008
+    and TAC2009 demonstrate the effectiveness of our approach.
+  author:
+  - first: Jiwei
+    full: Jiwei Li
+    id: jiwei-li
+    last: Li
+  - first: Sujian
+    full: Sujian Li
+    id: sujian-li
+    last: Li
+  author_string: Jiwei Li, Sujian Li
+  bibkey: li-li-2013-novel
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00212
+  page_first: '89'
+  page_last: '98'
+  pages: "89\u201398"
+  paper_id: '8'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1008.jpg
+  title: A Novel Feature-based Bayesian Model for Query Focused Multi-document Summarization
+  title_html: A Novel Feature-based <span class="acl-fixed-case">B</span>ayesian Model
+    for Query Focused Multi-document Summarization
+  url: https://www.aclweb.org/anthology/Q13-1008
+  year: '2013'
+Q13-1009:
+  abstract: We demonstrate a method of improving a seed sentiment lexicon developed
+    on essay data by using a pivot-based paraphrasing system for lexical expansion
+    coupled with sentiment profile enrichment using crowdsourcing. Profile enrichment
+    alone yields up to 15% improvement in the accuracy of the seed lexicon on 3-way
+    sentence-level sentiment polarity classification of essay data. Using lexical
+    expansion in addition to sentiment profiles provides a further 7% improvement
+    in performance. Additional experiments show that the proposed method is also effective
+    with other subjectivity lexicons and in a different domain of application (product
+    reviews).
+  author:
+  - first: Beata
+    full: Beata Beigman Klebanov
+    id: beata-beigman-klebanov
+    last: Beigman Klebanov
+  - first: Nitin
+    full: Nitin Madnani
+    id: nitin-madnani
+    last: Madnani
+  - first: Jill
+    full: Jill Burstein
+    id: jill-burstein
+    last: Burstein
+  author_string: Beata Beigman Klebanov, Nitin Madnani, Jill Burstein
+  bibkey: beigman-klebanov-etal-2013-using
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00213
+  page_first: '99'
+  page_last: '110'
+  pages: "99\u2013110"
+  paper_id: '9'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1009.jpg
+  title: Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity
+    Lexicon for Essay Data
+  title_html: Using Pivot-Based Paraphrasing and Sentiment Profiles to Improve a Subjectivity
+    Lexicon for Essay Data
+  url: https://www.aclweb.org/anthology/Q13-1009
+  year: '2013'
+Q13-1010:
+  abstract: In this paper, we present the first incremental parser for Tree Substitution
+    Grammar (TSG). A TSG allows arbitrarily large syntactic fragments to be combined
+    into complete trees; we show how constraints (including lexicalization) can be
+    imposed on the shape of the TSG fragments to enable incremental processing. We
+    propose an efficient Earley-based algorithm for incremental TSG parsing and report
+    an F-score competitive with other incremental parsers. In addition to whole-sentence
+    F-score, we also evaluate the partial trees that the parser constructs for sentence
+    prefixes; partial trees play an important role in incremental interpretation,
+    language modeling, and psycholinguistics. Unlike existing parsers, our incremental
+    TSG parser can generate partial trees that include predictions about the upcoming
+    words in a sentence. We show that it outperforms an n-gram model in predicting
+    more than one upcoming word.
+  author:
+  - first: Federico
+    full: Federico Sangati
+    id: federico-sangati
+    last: Sangati
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  author_string: Federico Sangati, Frank Keller
+  bibkey: sangati-keller-2013-incremental
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00214
+  page_first: '111'
+  page_last: '124'
+  pages: "111\u2013124"
+  paper_id: '10'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1010.jpg
+  title: Incremental Tree Substitution Grammar for Parsing and Sentence Prediction
+  title_html: Incremental Tree Substitution Grammar for Parsing and Sentence Prediction
+  url: https://www.aclweb.org/anthology/Q13-1010
+  year: '2013'
+Q13-1011:
+  abstract: During the course of first language acquisition, children produce linguistic
+    forms that do not conform to adult grammar. In this paper, we introduce a data
+    set and approach for systematically modeling this child-adult grammar divergence.
+    Our corpus consists of child sentences with corrected adult forms. We bridge the
+    gap between these forms with a discriminatively reranked noisy channel model that
+    translates child sentences into equivalent adult utterances. Our method outperforms
+    MT and ESL baselines, reducing child error by 20%. Our model allows us to chart
+    specific aspects of grammar development in longitudinal studies of children, and
+    investigate the hypothesis that children share a common developmental path in
+    language acquisition.
+  author:
+  - first: Sam
+    full: Sam Sahakian
+    id: sam-sahakian
+    last: Sahakian
+  - first: Benjamin
+    full: Benjamin Snyder
+    id: benjamin-snyder
+    last: Snyder
+  author_string: Sam Sahakian, Benjamin Snyder
+  bibkey: sahakian-snyder-2013-modeling
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00215
+  page_first: '125'
+  page_last: '138'
+  pages: "125\u2013138"
+  paper_id: '11'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1011.jpg
+  title: Modeling Child Divergences from Adult Grammar
+  title_html: Modeling Child Divergences from Adult Grammar
+  url: https://www.aclweb.org/anthology/Q13-1011
+  year: '2013'
+Q13-1012:
+  abstract: This paper proposes a discriminative forest reranking algorithm for dependency
+    parsing that can be seen as a form of efficient stacked parsing. A dynamic programming
+    shift-reduce parser produces a packed derivation forest which is then scored by
+    a discriminative reranker, using the 1-best tree output by the shift-reduce parser
+    as guide features in addition to third-order graph-based features. To improve
+    efficiency and accuracy, this paper also proposes a novel shift-reduce parser
+    that eliminates the spurious ambiguity of arc-standard transition systems. Testing
+    on the English Penn Treebank data, forest reranking gave a state-of-the-art unlabeled
+    dependency accuracy of 93.12.
+  author:
+  - first: Katsuhiko
+    full: Katsuhiko Hayashi
+    id: katsuhiko-hayashi
+    last: Hayashi
+  - first: Shuhei
+    full: Shuhei Kondo
+    id: shuhei-kondo
+    last: Kondo
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Katsuhiko Hayashi, Shuhei Kondo, Yuji Matsumoto
+  bibkey: hayashi-etal-2013-efficient
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00216
+  page_first: '139'
+  page_last: '150'
+  pages: "139\u2013150"
+  paper_id: '12'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1012.jpg
+  title: Efficient Stacked Dependency Parsing by Forest Reranking
+  title_html: Efficient Stacked Dependency Parsing by Forest Reranking
+  url: https://www.aclweb.org/anthology/Q13-1012
+  year: '2013'
+Q13-1013:
+  abstract: In this paper, we present Dijkstra-WSA, a novel graph-based algorithm
+    for word sense alignment. We evaluate it on four different pairs of lexical-semantic
+    resources with different characteristics (WordNet-OmegaWiki, WordNet-Wiktionary,
+    GermaNet-Wiktionary and WordNet-Wikipedia) and show that it achieves competitive
+    performance on 3 out of 4 datasets. Dijkstra-WSA outperforms the state of the
+    art on every dataset if it is combined with a back-off based on gloss similarity.
+    We also demonstrate that Dijkstra-WSA is not only flexibly applicable to different
+    resources but also highly parameterizable to optimize for precision or recall.
+  author:
+  - first: Michael
+    full: Michael Matuschek
+    id: michael-matuschek
+    last: Matuschek
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Michael Matuschek, Iryna Gurevych
+  bibkey: matuschek-gurevych-2013-dijkstra
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00217
+  page_first: '151'
+  page_last: '164'
+  pages: "151\u2013164"
+  paper_id: '13'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1013.jpg
+  title: 'Dijkstra-WSA: A Graph-Based Approach to Word Sense Alignment'
+  title_html: 'Dijkstra-<span class="acl-fixed-case">WSA</span>: A Graph-Based Approach
+    to Word Sense Alignment'
+  url: https://www.aclweb.org/anthology/Q13-1013
+  year: '2013'
+Q13-1014:
+  abstract: 'Machine translation (MT) draws from several different disciplines, making
+    it a complex subject to teach. There are excellent pedagogical texts, but problems
+    in MT and current algorithms for solving them are best learned by doing. As a
+    centerpiece of our MT course, we devised a series of open-ended challenges for
+    students in which the goal was to improve performance on carefully constrained
+    instances of four key MT tasks: alignment, decoding, evaluation, and reranking.
+    Students brought a diverse set of techniques to the problems, including some novel
+    solutions which performed remarkably well. A surprising and exciting outcome was
+    that student solutions or their combinations fared competitively on some tasks,
+    demonstrating that even newcomers to the field can help improve the state-of-the-art
+    on hard NLP problems while simultaneously learning a great deal. The problems,
+    baseline code, and results are freely available.'
+  author:
+  - first: Adam
+    full: Adam Lopez
+    id: adam-lopez
+    last: Lopez
+  - first: Matt
+    full: Matt Post
+    id: matt-post
+    last: Post
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Jonathan
+    full: Jonathan Weese
+    id: jonathan-weese
+    last: Weese
+  - first: Juri
+    full: Juri Ganitkevitch
+    id: juri-ganitkevitch
+    last: Ganitkevitch
+  - first: Narges
+    full: Narges Ahmidi
+    id: narges-ahmidi
+    last: Ahmidi
+  - first: Olivia
+    full: Olivia Buzek
+    id: olivia-buzek
+    last: Buzek
+  - first: Leah
+    full: Leah Hanson
+    id: leah-hanson
+    last: Hanson
+  - first: Beenish
+    full: Beenish Jamil
+    id: beenish-jamil
+    last: Jamil
+  - first: Matthias
+    full: Matthias Lee
+    id: matthias-lee
+    last: Lee
+  - first: Ya-Ting
+    full: Ya-Ting Lin
+    id: ya-ting-lin
+    last: Lin
+  - first: Henry
+    full: Henry Pao
+    id: henry-pao
+    last: Pao
+  - first: Fatima
+    full: Fatima Rivera
+    id: fatima-rivera
+    last: Rivera
+  - first: Leili
+    full: Leili Shahriyari
+    id: leili-shahriyari
+    last: Shahriyari
+  - first: Debu
+    full: Debu Sinha
+    id: debu-sinha
+    last: Sinha
+  - first: Adam
+    full: Adam Teichert
+    id: adam-teichert
+    last: Teichert
+  - first: Stephen
+    full: Stephen Wampler
+    id: stephen-wampler
+    last: Wampler
+  - first: Michael
+    full: Michael Weinberger
+    id: michael-weinberger
+    last: Weinberger
+  - first: Daguang
+    full: Daguang Xu
+    id: daguang-xu
+    last: Xu
+  - first: Lin
+    full: Lin Yang
+    id: lin-yang
+    last: Yang
+  - first: Shang
+    full: Shang Zhao
+    id: shang-zhao
+    last: Zhao
+  author_string: Adam Lopez, Matt Post, Chris Callison-Burch, Jonathan Weese, Juri
+    Ganitkevitch, Narges Ahmidi, Olivia Buzek, Leah Hanson, Beenish Jamil, Matthias
+    Lee, Ya-Ting Lin, Henry Pao, Fatima Rivera, Leili Shahriyari, Debu Sinha, Adam
+    Teichert, Stephen Wampler, Michael Weinberger, Daguang Xu, Lin Yang, Shang Zhao
+  bibkey: lopez-etal-2013-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00218
+  page_first: '165'
+  page_last: '178'
+  pages: "165\u2013178"
+  paper_id: '14'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1014.jpg
+  title: 'Learning to translate with products of novices: a suite of open-ended challenge
+    problems for teaching MT'
+  title_html: 'Learning to translate with products of novices: a suite of open-ended
+    challenge problems for teaching <span class="acl-fixed-case">MT</span>'
+  url: https://www.aclweb.org/anthology/Q13-1014
+  year: '2013'
+Q13-1015:
+  abstract: We introduce a new approach to semantics which combines the benefits of
+    distributional and formal logical semantics. Distributional models have been successful
+    in modelling the meanings of content words, but logical semantics is necessary
+    to adequately represent many function words. We follow formal semantics in mapping
+    language to logical representations, but differ in that the relational constants
+    used are induced by offline distributional clustering at the level of predicate-argument
+    structure. Our clustering algorithm is highly scalable, allowing us to run on
+    corpora the size of Gigaword. Different senses of a word are disambiguated based
+    on their induced types. We outperform a variety of existing approaches on a wide-coverage
+    question answering task, and demonstrate the ability to make complex multi-sentence
+    inferences involving quantifiers on the FraCaS suite.
+  author:
+  - first: Mike
+    full: Mike Lewis
+    id: mike-lewis
+    last: Lewis
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Mike Lewis, Mark Steedman
+  bibkey: lewis-steedman-2013-combined
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00219
+  page_first: '179'
+  page_last: '192'
+  pages: "179\u2013192"
+  paper_id: '15'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1015.jpg
+  title: Combined Distributional and Logical Semantics
+  title_html: Combined Distributional and Logical Semantics
+  url: https://www.aclweb.org/anthology/Q13-1015
+  year: '2013'
+Q13-1016:
+  abstract: "This paper introduces Logical Semantics with Perception (LSP), a model\
+    \ for grounded language acquisition that learns to map natural language statements\
+    \ to their referents in a physical environment. For example, given an image, LSP\
+    \ can map the statement \u201Cblue mug on the table\u201D to the set of image\
+    \ segments showing blue mugs on tables. LSP learns physical representations for\
+    \ both categorical (\u201Cblue,\u201D \u201Cmug\u201D) and relational (\u201C\
+    on\u201D) language, and also learns to compose these representations to produce\
+    \ the referents of entire statements. We further introduce a weakly supervised\
+    \ training procedure that estimates LSP\u2019s parameters using annotated referents\
+    \ for entire statements, without annotated referents for individual words or the\
+    \ parse structure of the statement. We perform experiments on two applications:\
+    \ scene understanding and geographical question answering. We find that LSP outperforms\
+    \ existing, less expressive models that cannot represent relational language.\
+    \ We further find that weakly supervised training is competitive with fully supervised\
+    \ training while requiring significantly less annotation effort."
+  author:
+  - first: Jayant
+    full: Jayant Krishnamurthy
+    id: jayant-krishnamurthy
+    last: Krishnamurthy
+  - first: Thomas
+    full: Thomas Kollar
+    id: thomas-kollar
+    last: Kollar
+  author_string: Jayant Krishnamurthy, Thomas Kollar
+  bibkey: krishnamurthy-kollar-2013-jointly
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00220
+  page_first: '193'
+  page_last: '206'
+  pages: "193\u2013206"
+  paper_id: '16'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1016.jpg
+  title: 'Jointly Learning to Parse and Perceive: Connecting Natural Language to the
+    Physical World'
+  title_html: 'Jointly Learning to Parse and Perceive: Connecting Natural Language
+    to the Physical World'
+  url: https://www.aclweb.org/anthology/Q13-1016
+  year: '2013'
+Q13-1017:
+  abstract: Due to the nature of complex NLP problems, structured prediction algorithms
+    have been important modeling tools for a wide range of tasks. While there exists
+    evidence showing that linear Structural Support Vector Machine (SSVM) algorithm
+    performs better than structured Perceptron, the SSVM algorithm is still less frequently
+    chosen in the NLP community because of its relatively slow training speed. In
+    this paper, we propose a fast and easy-to-implement dual coordinate descent algorithm
+    for SSVMs. Unlike algorithms such as Perceptron and stochastic gradient descent,
+    our method keeps track of dual variables and updates the weight vector more aggressively.
+    As a result, this training process is as efficient as existing online learning
+    methods, and yet derives consistently better models, as evaluated on four benchmark
+    NLP datasets for part-of-speech tagging, named-entity recognition and dependency
+    parsing.
+  author:
+  - first: Ming-Wei
+    full: Ming-Wei Chang
+    id: ming-wei-chang
+    last: Chang
+  - first: Wen-tau
+    full: Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  author_string: Ming-Wei Chang, Wen-tau Yih
+  bibkey: chang-yih-2013-dual
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00221
+  page_first: '207'
+  page_last: '218'
+  pages: "207\u2013218"
+  paper_id: '17'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1017.jpg
+  title: Dual Coordinate Descent Algorithms for Efficient Large Margin Structured
+    Prediction
+  title_html: Dual Coordinate Descent Algorithms for Efficient Large Margin Structured
+    Prediction
+  url: https://www.aclweb.org/anthology/Q13-1017
+  year: '2013'
+Q13-1018:
+  abstract: In this paper we introduce a joint arc-factored model for syntactic and
+    semantic dependency parsing. The semantic role labeler predicts the full syntactic
+    paths that connect predicates with their arguments. This process is framed as
+    a linear assignment task, which allows to control some well-formedness constraints.
+    For the syntactic part, we define a standard arc-factored dependency model that
+    predicts the full syntactic tree. Finally, we employ dual decomposition techniques
+    to produce consistent syntactic and predicate-argument structures while searching
+    over a large space of syntactic configurations. In experiments on the CoNLL-2009
+    English benchmark we observe very competitive results.
+  author:
+  - first: Xavier
+    full: "Xavier Llu\xEDs"
+    id: xavier-lluis
+    last: "Llu\xEDs"
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  author_string: "Xavier Llu\xEDs, Xavier Carreras, Llu\xEDs M\xE0rquez"
+  bibkey: lluis-etal-2013-joint
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00222
+  page_first: '219'
+  page_last: '230'
+  pages: "219\u2013230"
+  paper_id: '18'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1018.jpg
+  title: Joint Arc-factored Parsing of Syntactic and Semantic Dependencies
+  title_html: Joint Arc-factored Parsing of Syntactic and Semantic Dependencies
+  url: https://www.aclweb.org/anthology/Q13-1018
+  year: '2013'
+Q13-1019:
+  abstract: This paper introduces the problem of predicting semantic relations expressed
+    by prepositions and develops statistical learning models for predicting the relations,
+    their arguments and the semantic types of the arguments. We define an inventory
+    of 32 relations, building on the word sense disambiguation task for prepositions
+    and collapsing related senses across prepositions. Given a preposition in a sentence,
+    our computational task to jointly model the preposition relation and its arguments
+    along with their semantic types, as a way to support the relation prediction.
+    The annotated data, however, only provides labels for the relation label, and
+    not the arguments and types. We address this by presenting two models for preposition
+    relation labeling. Our generalization of latent structure SVM gives close to 90%
+    accuracy on relation labeling. Further, by jointly predicting the relation, arguments,
+    and their types along with preposition sense, we show that we can not only improve
+    the relation accuracy, but also significantly improve sense prediction accuracy.
+  attachment:
+  - filename: https://techtalks.tv/talks/tacl-modeling-semantic-relations-expressed-by-prepositions/58504/
+    type: video
+    url: https://techtalks.tv/talks/tacl-modeling-semantic-relations-expressed-by-prepositions/58504/
+  author:
+  - first: Vivek
+    full: Vivek Srikumar
+    id: vivek-srikumar
+    last: Srikumar
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Vivek Srikumar, Dan Roth
+  bibkey: srikumar-roth-2013-modeling
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00223
+  page_first: '231'
+  page_last: '242'
+  pages: "231\u2013242"
+  paper_id: '19'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1019.jpg
+  title: Modeling Semantic Relations Expressed by Prepositions
+  title_html: Modeling Semantic Relations Expressed by Prepositions
+  url: https://www.aclweb.org/anthology/Q13-1019
+  year: '2013'
+Q13-1020:
+  abstract: In current research, most tree-based translation models are built directly
+    from parse trees. In this study, we go in another direction and build a translation
+    model with an unsupervised tree structure derived from a novel non-parametric
+    Bayesian model. In the model, we utilize synchronous tree substitution grammars
+    (STSG) to capture the bilingual mapping between language pairs. To train the model
+    efficiently, we develop a Gibbs sampler with three novel Gibbs operators. The
+    sampler is capable of exploring the infinite space of tree structures by performing
+    local changes on the tree nodes. Experimental results show that the string-to-tree
+    translation system using our Bayesian tree structures significantly outperforms
+    the strong baseline string-to-tree system using parse trees.
+  author:
+  - first: Feifei
+    full: Feifei Zhai
+    id: feifei-zhai
+    last: Zhai
+  - first: Jiajun
+    full: Jiajun Zhang
+    id: jiajun-zhang
+    last: Zhang
+  - first: Yu
+    full: Yu Zhou
+    id: yu-zhou
+    last: Zhou
+  - first: Chengqing
+    full: Chengqing Zong
+    id: chengqing-zong
+    last: Zong
+  author_string: Feifei Zhai, Jiajun Zhang, Yu Zhou, Chengqing Zong
+  bibkey: zhai-etal-2013-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00224
+  page_first: '243'
+  page_last: '254'
+  pages: "243\u2013254"
+  paper_id: '20'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1020.jpg
+  title: Unsupervised Tree Induction for Tree-based Translation
+  title_html: Unsupervised Tree Induction for Tree-based Translation
+  url: https://www.aclweb.org/anthology/Q13-1020
+  year: '2013'
+Q13-1021:
+  abstract: 'This paper explores the use of Adaptor Grammars, a nonparametric Bayesian
+    modelling framework, for minimally supervised morphological segmentation. We compare
+    three training methods: unsupervised training, semi-supervised training, and a
+    novel model selection method. In the model selection method, we train unsupervised
+    Adaptor Grammars using an over-articulated metagrammar, then use a small labelled
+    data set to select which potential morph boundaries identified by the metagrammar
+    should be returned in the final output. We evaluate on five languages and show
+    that semi-supervised training provides a boost over unsupervised training, while
+    the model selection method yields the best average results over all languages
+    and is competitive with state-of-the-art semi-supervised systems. Moreover, this
+    method provides the potential to tune performance according to different evaluation
+    metrics or downstream tasks.'
+  author:
+  - first: Kairit
+    full: Kairit Sirts
+    id: kairit-sirts
+    last: Sirts
+  - first: Sharon
+    full: Sharon Goldwater
+    id: sharon-goldwater
+    last: Goldwater
+  author_string: Kairit Sirts, Sharon Goldwater
+  bibkey: sirts-goldwater-2013-minimally
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00225
+  page_first: '255'
+  page_last: '266'
+  pages: "255\u2013266"
+  paper_id: '21'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1021.jpg
+  title: Minimally-Supervised Morphological Segmentation using Adaptor Grammars
+  title_html: Minimally-Supervised Morphological Segmentation using Adaptor Grammars
+  url: https://www.aclweb.org/anthology/Q13-1021
+  year: '2013'
+Q13-1022:
+  abstract: Head splitting techniques have been successfully exploited to improve
+    the asymptotic runtime of parsing algorithms for projective dependency trees,
+    under the arc-factored model. In this article we extend these techniques to a
+    class of non-projective dependency trees, called well-nested dependency trees
+    with block-degree at most 2, which has been previously investigated in the literature.
+    We define a structural property that allows head splitting for these trees, and
+    present two algorithms that improve over the runtime of existing algorithms at
+    no significant loss in coverage.
+  author:
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  - first: Marco
+    full: Marco Kuhlmann
+    id: marco-kuhlmann
+    last: Kuhlmann
+  author_string: Giorgio Satta, Marco Kuhlmann
+  bibkey: satta-kuhlmann-2013-efficient
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00226
+  page_first: '267'
+  page_last: '278'
+  pages: "267\u2013278"
+  paper_id: '22'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1022.jpg
+  title: Efficient Parsing for Head-Split Dependency Trees
+  title_html: Efficient Parsing for Head-Split Dependency Trees
+  url: https://www.aclweb.org/anthology/Q13-1022
+  year: '2013'
+Q13-1023:
+  abstract: Adjectives like good, great, and excellent are similar in meaning, but
+    differ in intensity. Intensity order information is very useful for language learners
+    as well as in several NLP tasks, but is missing in most lexical resources (dictionaries,
+    WordNet, and thesauri). In this paper, we present a primarily unsupervised approach
+    that uses semantics from Web-scale data (e.g., phrases like good but not excellent)
+    to rank words by assigning them positions on a continuous scale. We rely on Mixed
+    Integer Linear Programming to jointly determine the ranks, such that individual
+    decisions benefit from global information. When ranking English adjectives, our
+    global algorithm achieves substantial improvements over previous work on both
+    pairwise and rank correlation metrics (specifically, 70% pairwise accuracy as
+    compared to only 56% by previous work). Moreover, our approach can incorporate
+    external synonymy information (increasing its pairwise accuracy to 78%) and extends
+    easily to new languages. We also make our code and data freely available.
+  author:
+  - first: Gerard
+    full: Gerard de Melo
+    id: gerard-de-melo
+    last: de Melo
+  - first: Mohit
+    full: Mohit Bansal
+    id: mohit-bansal
+    last: Bansal
+  author_string: Gerard de Melo, Mohit Bansal
+  bibkey: de-melo-bansal-2013-good
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00227
+  page_first: '279'
+  page_last: '290'
+  pages: "279\u2013290"
+  paper_id: '23'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1023.jpg
+  title: 'Good, Great, Excellent: Global Inference of Semantic Intensities'
+  title_html: 'Good, Great, Excellent: Global Inference of Semantic Intensities'
+  url: https://www.aclweb.org/anthology/Q13-1023
+  year: '2013'
+Q13-1024:
+  abstract: Dependency cohesion refers to the observation that phrases dominated by
+    disjoint dependency subtrees in the source language generally do not overlap in
+    the target language. It has been verified to be a useful constraint for word alignment.
+    However, previous work either treats this as a hard constraint or uses it as a
+    feature in discriminative models, which is ineffective for large-scale tasks.
+    In this paper, we take dependency cohesion as a soft constraint, and integrate
+    it into a generative model for large-scale word alignment experiments. We also
+    propose an approximate EM algorithm and a Gibbs sampling algorithm to estimate
+    model parameters in an unsupervised manner. Experiments on large-scale Chinese-English
+    translation tasks demonstrate that our model achieves improvements in both alignment
+    quality and translation quality.
+  author:
+  - first: Zhiguo
+    full: Zhiguo Wang
+    id: zhiguo-wang
+    last: Wang
+  - first: Chengqing
+    full: Chengqing Zong
+    id: chengqing-zong
+    last: Zong
+  author_string: Zhiguo Wang, Chengqing Zong
+  bibkey: wang-zong-2013-large
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00228
+  page_first: '291'
+  page_last: '300'
+  pages: "291\u2013300"
+  paper_id: '24'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1024.jpg
+  title: Large-scale Word Alignment Using Soft Dependency Cohesion Constraints
+  title_html: Large-scale Word Alignment Using Soft Dependency Cohesion Constraints
+  url: https://www.aclweb.org/anthology/Q13-1024
+  year: '2013'
+Q13-1025:
+  abstract: We present a comparative study of transition-, graph- and PCFG-based models
+    aimed at illuminating more precisely the likely contribution of CFGs in improving
+    Chinese dependency parsing accuracy, especially by combining heterogeneous models.
+    Inspired by the impact of a constituency grammar on dependency parsing, we propose
+    several strategies to acquire pseudo CFGs only from dependency annotations. Compared
+    to linguistic grammars learned from rich phrase-structure treebanks, well designed
+    pseudo grammars achieve similar parsing accuracy and have equivalent contributions
+    to parser ensemble. Moreover, pseudo grammars increase the diversity of base models;
+    therefore, together with all other models, further improve system combination.
+    Based on automatic POS tagging, our final model achieves a UAS of 87.23%, resulting
+    in a significant improvement of the state of the art.
+  author:
+  - first: Weiwei
+    full: Weiwei Sun
+    id: weiwei-sun
+    last: Sun
+  - first: Xiaojun
+    full: Xiaojun Wan
+    id: xiaojun-wan
+    last: Wan
+  author_string: Weiwei Sun, Xiaojun Wan
+  bibkey: sun-wan-2013-data
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00229
+  page_first: '301'
+  page_last: '314'
+  pages: "301\u2013314"
+  paper_id: '25'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1025.jpg
+  title: Data-driven, PCFG-based and Pseudo-PCFG-based Models for Chinese Dependency
+    Parsing
+  title_html: Data-driven, <span class="acl-fixed-case">PCFG</span>-based and Pseudo-<span
+    class="acl-fixed-case">PCFG</span>-based Models for <span class="acl-fixed-case">C</span>hinese
+    Dependency Parsing
+  url: https://www.aclweb.org/anthology/Q13-1025
+  year: '2013'
+Q13-1026:
+  abstract: "Grounded language learning, the task of mapping from natural language\
+    \ to a representation of meaning, has attracted more and more interest in recent\
+    \ years. In most work on this topic, however, utterances in a conversation are\
+    \ treated independently and discourse structure information is largely ignored.\
+    \ In the context of language acquisition, this independence assumption discards\
+    \ cues that are important to the learner, e.g., the fact that consecutive utterances\
+    \ are likely to share the same referent (Frank et al., 2013). The current paper\
+    \ describes an approach to the problem of simultaneously modeling grounded language\
+    \ at the sentence and discourse levels. We combine ideas from parsing and grammar\
+    \ induction to produce a parser that can handle long input strings with thousands\
+    \ of tokens, creating parse trees that represent full discourses. By casting grounded\
+    \ language learning as a grammatical inference task, we use our parser to extend\
+    \ the work of Johnson et al. (2012), investigating the importance of discourse\
+    \ continuity in children\u2019s language acquisition and its interaction with\
+    \ social cues. Our model boosts performance in a language acquisition task and\
+    \ yields good discourse segmentations compared with human annotators."
+  author:
+  - first: Minh-Thang
+    full: Minh-Thang Luong
+    id: minh-thang-luong
+    last: Luong
+  - first: Michael C.
+    full: Michael C. Frank
+    id: michael-c-frank
+    last: Frank
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Minh-Thang Luong, Michael C. Frank, Mark Johnson
+  bibkey: luong-etal-2013-parsing
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00230
+  page_first: '315'
+  page_last: '326'
+  pages: "315\u2013326"
+  paper_id: '26'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1026.jpg
+  title: 'Parsing entire discourses as very long strings: Capturing topic continuity
+    in grounded language learning'
+  title_html: 'Parsing entire discourses as very long strings: Capturing topic continuity
+    in grounded language learning'
+  url: https://www.aclweb.org/anthology/Q13-1026
+  year: '2013'
+Q13-1027:
+  abstract: Defining the reordering search space is a crucial issue in phrase-based
+    SMT between distant languages. In fact, the optimal trade-off between accuracy
+    and complexity of decoding is nowadays reached by harshly limiting the input permutation
+    space. We propose a method to dynamically shape such space and, thus, capture
+    long-range word movements without hurting translation quality nor decoding time.
+    The space defined by loose reordering constraints is dynamically pruned through
+    a binary classifier that predicts whether a given input word should be translated
+    right after another. The integration of this model into a phrase-based decoder
+    improves a strong Arabic-English baseline already including state-of-the-art early
+    distortion cost (Moore and Quirk, 2007) and hierarchical phrase orientation models
+    (Galley and Manning, 2008). Significant improvements in the reordering of verbs
+    are achieved by a system that is notably faster than the baseline, while bleu
+    and meteor remain stable, or even increase, at a very high distortion limit.
+  author:
+  - first: Arianna
+    full: Arianna Bisazza
+    id: arianna-bisazza
+    last: Bisazza
+  - first: Marcello
+    full: Marcello Federico
+    id: marcello-federico
+    last: Federico
+  author_string: Arianna Bisazza, Marcello Federico
+  bibkey: bisazza-federico-2013-dynamically
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00231
+  page_first: '327'
+  page_last: '340'
+  pages: "327\u2013340"
+  paper_id: '27'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1027.jpg
+  title: Dynamically Shaping the Reordering Search Space of Phrase-Based Statistical
+    Machine Translation
+  title_html: Dynamically Shaping the Reordering Search Space of Phrase-Based Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/Q13-1027
+  year: '2013'
+Q13-1028:
+  abstract: Great writing is rare and highly admired. Readers seek out articles that
+    are beautifully written, informative and entertaining. Yet information-access
+    technologies lack capabilities for predicting article quality at this level. In
+    this paper we present first experiments on article quality prediction in the science
+    journalism domain. We introduce a corpus of great pieces of science journalism,
+    along with typical articles from the genre. We implement features to capture aspects
+    of great writing, including surprising, visual and emotional content, as well
+    as general features related to discourse organization and sentence structure.
+    We show that the distinction between great and typical articles can be detected
+    fairly accurately, and that the entire spectrum of our features contribute to
+    the distinction.
+  author:
+  - first: Annie
+    full: Annie Louis
+    id: annie-louis
+    last: Louis
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  author_string: Annie Louis, Ani Nenkova
+  bibkey: louis-nenkova-2013-makes
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00232
+  page_first: '341'
+  page_last: '352'
+  pages: "341\u2013352"
+  paper_id: '28'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1028.jpg
+  title: What Makes Writing Great? First Experiments on Article Quality Prediction
+    in the Science Journalism Domain
+  title_html: What Makes Writing Great? First Experiments on Article Quality Prediction
+    in the Science Journalism Domain
+  url: https://www.aclweb.org/anthology/Q13-1028
+  year: '2013'
+Q13-1029:
+  abstract: There have been several efforts to extend distributional semantics beyond
+    individual words, to measure the similarity of word pairs, phrases, and sentences
+    (briefly, tuples; ordered sets of words, contiguous or noncontiguous). One way
+    to extend beyond words is to compare two tuples using a function that combines
+    pairwise similarities between the component words in the tuples. A strength of
+    this approach is that it works with both relational similarity (analogy) and compositional
+    similarity (paraphrase). However, past work required hand-coding the combination
+    function for different tasks. The main contribution of this paper is that combination
+    functions are generated by supervised learning. We achieve state-of-the-art results
+    in measuring relational similarity between word pairs (SAT analogies and SemEval
+    2012 Task 2) and measuring compositional similarity between noun-modifier phrases
+    and unigrams (multiple-choice paraphrase questions).
+  author:
+  - first: Peter D.
+    full: Peter D. Turney
+    id: peter-turney
+    last: Turney
+  author_string: Peter D. Turney
+  bibkey: turney-2013-distributional
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00233
+  page_first: '353'
+  page_last: '366'
+  pages: "353\u2013366"
+  paper_id: '29'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1029.jpg
+  title: 'Distributional Semantics Beyond Words: Supervised Learning of Analogy and
+    Paraphrase'
+  title_html: 'Distributional Semantics Beyond Words: Supervised Learning of Analogy
+    and Paraphrase'
+  url: https://www.aclweb.org/anthology/Q13-1029
+  year: '2013'
+Q13-1030:
+  abstract: Distant supervision algorithms learn information extraction models given
+    only large readily available databases and text collections. Most previous work
+    has used heuristics for generating labeled data, for example assuming that facts
+    not contained in the database are not mentioned in the text, and facts in the
+    database must be mentioned at least once. In this paper, we propose a new latent-variable
+    approach that models missing data. This provides a natural way to incorporate
+    side information, for instance modeling the intuition that text will often mention
+    rare entities which are likely to be missing in the database. Despite the added
+    complexity introduced by reasoning about missing data, we demonstrate that a carefully
+    designed local search approach to inference is very accurate and scales to large
+    datasets. Experiments demonstrate improved performance for binary and unary relation
+    extraction when compared to learning with heuristic labels, including on average
+    a 27% increase in area under the precision recall curve in the binary case.
+  author:
+  - first: Alan
+    full: Alan Ritter
+    id: alan-ritter
+    last: Ritter
+  - first: Luke
+    full: Luke Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  - first: ''
+    full: Mausam
+    id: mausam
+    last: Mausam
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Alan Ritter, Luke Zettlemoyer, Mausam, Oren Etzioni
+  bibkey: ritter-etal-2013-modeling
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00234
+  page_first: '367'
+  page_last: '378'
+  pages: "367\u2013378"
+  paper_id: '30'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1030.jpg
+  title: Modeling Missing Data in Distant Supervision for Information Extraction
+  title_html: Modeling Missing Data in Distant Supervision for Information Extraction
+  url: https://www.aclweb.org/anthology/Q13-1030
+  year: '2013'
+Q13-1031:
+  abstract: Recognizing metaphors and identifying the source-target mappings is an
+    important task as metaphorical text poses a big challenge for machine reading.
+    To address this problem, we automatically acquire a metaphor knowledge base and
+    an isA knowledge base from billions of web pages. Using the knowledge bases, we
+    develop an inference mechanism to recognize and explain the metaphors in the text.
+    To our knowledge, this is the first purely data-driven approach of probabilistic
+    metaphor acquisition, recognition, and explanation. Our results shows that it
+    significantly outperforms other state-of-the-art methods in recognizing and explaining
+    metaphors.
+  author:
+  - first: Hongsong
+    full: Hongsong Li
+    id: hongsong-li
+    last: Li
+  - first: Kenny Q.
+    full: Kenny Q. Zhu
+    id: kenny-zhu
+    last: Zhu
+  - first: Haixun
+    full: Haixun Wang
+    id: haixun-wang
+    last: Wang
+  author_string: Hongsong Li, Kenny Q. Zhu, Haixun Wang
+  bibkey: li-etal-2013-data
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00235
+  page_first: '379'
+  page_last: '390'
+  pages: "379\u2013390"
+  paper_id: '31'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1031.jpg
+  title: Data-Driven Metaphor Recognition and Explanation
+  title_html: Data-Driven Metaphor Recognition and Explanation
+  url: https://www.aclweb.org/anthology/Q13-1031
+  year: '2013'
+Q13-1032:
+  abstract: "We introduce a new approach to the machine-assisted grading of short\
+    \ answer questions. We follow past work in automated grading by first training\
+    \ a similarity metric between student responses, but then go on to use this metric\
+    \ to group responses into clusters and subclusters. The resulting groupings allow\
+    \ teachers to grade multiple responses with a single action, provide rich feedback\
+    \ to groups of similar answers, and discover modalities of misunderstanding among\
+    \ students; we refer to this amplification of grader effort as \u201Cpowergrading.\u201D\
+    \ We develop the means to further reduce teacher effort by automatically performing\
+    \ actions when an answer key is available. We show results in terms of grading\
+    \ progress with a small \u201Cbudget\u201D of human actions, both from our method\
+    \ and an LDA-based approach, on a test corpus of 10 questions answered by 698\
+    \ respondents."
+  author:
+  - first: Sumit
+    full: Sumit Basu
+    id: sumit-basu
+    last: Basu
+  - first: Chuck
+    full: Chuck Jacobs
+    id: chuck-jacobs
+    last: Jacobs
+  - first: Lucy
+    full: Lucy Vanderwende
+    id: lucy-vanderwende
+    last: Vanderwende
+  author_string: Sumit Basu, Chuck Jacobs, Lucy Vanderwende
+  bibkey: basu-etal-2013-powergrading
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00236
+  page_first: '391'
+  page_last: '402'
+  pages: "391\u2013402"
+  paper_id: '32'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1032.jpg
+  title: 'Powergrading: a Clustering Approach to Amplify Human Effort for Short Answer
+    Grading'
+  title_html: '<span class="acl-fixed-case">P</span>owergrading: a Clustering Approach
+    to Amplify Human Effort for Short Answer Grading'
+  url: https://www.aclweb.org/anthology/Q13-1032
+  year: '2013'
+Q13-1033:
+  abstract: "Greedy transition-based parsers are very fast but tend to suffer from\
+    \ error propagation. This problem is aggravated by the fact that they are normally\
+    \ trained using oracles that are deterministic and incomplete in the sense that\
+    \ they assume a unique canonical path through the transition system and are only\
+    \ valid as long as the parser does not stray from this path. In this paper, we\
+    \ give a general characterization of oracles that are nondeterministic and complete,\
+    \ present a method for deriving such oracles for transition systems that satisfy\
+    \ a property we call arc decomposition, and instantiate this method for three\
+    \ well-known transition systems from the literature. We say that these oracles\
+    \ are dynamic, because they allow us to dynamically explore alternative and nonoptimal\
+    \ paths during training \u2014 in contrast to oracles that statically assume a\
+    \ unique optimal path. Experimental evaluation on a wide range of data sets clearly\
+    \ shows that using dynamic oracles to train greedy parsers gives substantial improvements\
+    \ in accuracy. Moreover, this improvement comes at no cost in terms of efficiency,\
+    \ unlike other techniques like beam search."
+  author:
+  - first: Yoav
+    full: Yoav Goldberg
+    id: yoav-goldberg
+    last: Goldberg
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Yoav Goldberg, Joakim Nivre
+  bibkey: goldberg-nivre-2013-training
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00237
+  page_first: '403'
+  page_last: '414'
+  pages: "403\u2013414"
+  paper_id: '33'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1033.jpg
+  title: Training Deterministic Parsers with Non-Deterministic Oracles
+  title_html: Training Deterministic Parsers with Non-Deterministic Oracles
+  url: https://www.aclweb.org/anthology/Q13-1033
+  year: '2013'
+Q13-1034:
+  abstract: Joint morphological and syntactic analysis has been proposed as a way
+    of improving parsing accuracy for richly inflected languages. Starting from a
+    transition-based model for joint part-of-speech tagging and dependency parsing,
+    we explore different ways of integrating morphological features into the model.
+    We also investigate the use of rule-based morphological analyzers to provide hard
+    or soft lexical constraints and the use of word clusters to tackle the sparsity
+    of lexical features. Evaluation on five morphologically rich languages (Czech,
+    Finnish, German, Hungarian, and Russian) shows consistent improvements in both
+    morphological and syntactic accuracy for joint prediction over a pipeline model,
+    with further improvements thanks to lexical constraints and word clusters. The
+    final results improve the state of the art in dependency parsing for all languages.
+  author:
+  - first: Bernd
+    full: Bernd Bohnet
+    id: bernd-bohnet
+    last: Bohnet
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Igor
+    full: Igor Boguslavsky
+    id: igor-boguslavsky
+    last: Boguslavsky
+  - first: "Rich\xE1rd"
+    full: "Rich\xE1rd Farkas"
+    id: richard-farkas
+    last: Farkas
+  - first: Filip
+    full: Filip Ginter
+    id: filip-ginter
+    last: Ginter
+  - first: Jan
+    full: "Jan Haji\u010D"
+    id: jan-hajic
+    last: "Haji\u010D"
+  author_string: "Bernd Bohnet, Joakim Nivre, Igor Boguslavsky, Rich\xE1rd Farkas,\
+    \ Filip Ginter, Jan Haji\u010D"
+  bibkey: bohnet-etal-2013-joint
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00238
+  page_first: '415'
+  page_last: '428'
+  pages: "415\u2013428"
+  paper_id: '34'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1034.jpg
+  title: Joint Morphological and Syntactic Analysis for Richly Inflected Languages
+  title_html: Joint Morphological and Syntactic Analysis for Richly Inflected Languages
+  url: https://www.aclweb.org/anthology/Q13-1034
+  year: '2013'
+Q13-1035:
+  abstract: 'We develop two techniques for analyzing the effect of porting a machine
+    translation system to a new domain. One is a macro-level analysis that measures
+    how domain shift affects corpus-level evaluation; the second is a micro-level
+    analysis for word-level errors. We apply these methods to understand what happens
+    when a Parliament-trained phrase-based machine translation system is applied in
+    four very different domains: news, medical texts, scientific articles and movie
+    subtitles. We present quantitative and qualitative experiments that highlight
+    opportunities for future research in domain adaptation for machine translation.'
+  author:
+  - first: Ann
+    full: Ann Irvine
+    id: ann-irvine
+    last: Irvine
+  - first: John
+    full: John Morgan
+    id: john-morgan
+    last: Morgan
+  - first: Marine
+    full: Marine Carpuat
+    id: marine-carpuat
+    last: Carpuat
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Dragos
+    full: Dragos Munteanu
+    id: dragos-stefan-munteanu
+    last: Munteanu
+  author_string: "Ann Irvine, John Morgan, Marine Carpuat, Hal Daum\xE9 III, Dragos\
+    \ Munteanu"
+  bibkey: irvine-etal-2013-measuring
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    1
+  doi: 10.1162/tacl_a_00239
+  page_first: '429'
+  page_last: '440'
+  pages: "429\u2013440"
+  paper_id: '35'
+  parent_volume_id: Q13-1
+  pdf: https://www.aclweb.org/anthology/Q13-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q13-1035.jpg
+  title: Measuring Machine Translation Errors in New Domains
+  title_html: Measuring Machine Translation Errors in New Domains
+  url: https://www.aclweb.org/anthology/Q13-1035
+  year: '2013'

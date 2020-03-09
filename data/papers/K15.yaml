@@ -1,0 +1,2075 @@
+K15-1000:
+  address: Beijing, China
+  bibkey: conll-2015-natural
+  bibtype: proceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  doi: 10.18653/v1/K15-1
+  month: July
+  paper_id: '0'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1000.jpg
+  title: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  title_html: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  url: https://www.aclweb.org/anthology/K15-1000
+  year: '2015'
+K15-1001:
+  address: Beijing, China
+  author:
+  - first: Artem
+    full: Artem Sokolov
+    id: artem-sokolov
+    last: Sokolov
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  author_string: Artem Sokolov, Stefan Riezler, Shay B. Cohen
+  bibkey: sokolov-etal-2015-coactive
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1001
+  month: July
+  page_first: '1'
+  page_last: '11'
+  pages: "1\u201311"
+  paper_id: '1'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1001.jpg
+  title: A Coactive Learning View of Online Structured Prediction in Statistical Machine
+    Translation
+  title_html: A Coactive Learning View of Online Structured Prediction in Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/K15-1001
+  year: '2015'
+K15-1002:
+  address: Beijing, China
+  author:
+  - first: Haoruo
+    full: Haoruo Peng
+    id: haoruo-peng
+    last: Peng
+  - first: Kai-Wei
+    full: Kai-Wei Chang
+    id: kai-wei-chang
+    last: Chang
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Haoruo Peng, Kai-Wei Chang, Dan Roth
+  bibkey: peng-etal-2015-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1002
+  month: July
+  page_first: '12'
+  page_last: '21'
+  pages: "12\u201321"
+  paper_id: '2'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1002.jpg
+  title: A Joint Framework for Coreference Resolution and Mention Head Detection
+  title_html: A Joint Framework for Coreference Resolution and Mention Head Detection
+  url: https://www.aclweb.org/anthology/K15-1002
+  year: '2015'
+K15-1003:
+  address: Beijing, China
+  author:
+  - first: Dan
+    full: Dan Garrette
+    id: dan-garrette
+    last: Garrette
+  - first: Chris
+    full: Chris Dyer
+    id: chris-dyer
+    last: Dyer
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Dan Garrette, Chris Dyer, Jason Baldridge, Noah A. Smith
+  bibkey: garrette-etal-2015-supertag
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1003
+  month: July
+  page_first: '22'
+  page_last: '31'
+  pages: "22\u201331"
+  paper_id: '3'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1003.jpg
+  title: A Supertag-Context Model for Weakly-Supervised CCG Parser Learning
+  title_html: A Supertag-Context Model for Weakly-Supervised <span class="acl-fixed-case">CCG</span>
+    Parser Learning
+  url: https://www.aclweb.org/anthology/K15-1003
+  year: '2015'
+K15-1004:
+  address: Beijing, China
+  author:
+  - first: Xiaochang
+    full: Xiaochang Peng
+    id: xiaochang-peng
+    last: Peng
+  - first: Linfeng
+    full: Linfeng Song
+    id: linfeng-song
+    last: Song
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  author_string: Xiaochang Peng, Linfeng Song, Daniel Gildea
+  bibkey: peng-etal-2015-synchronous
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1004
+  month: July
+  page_first: '32'
+  page_last: '41'
+  pages: "32\u201341"
+  paper_id: '4'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1004.jpg
+  title: A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing
+  title_html: A Synchronous Hyperedge Replacement Grammar based approach for <span
+    class="acl-fixed-case">AMR</span> parsing
+  url: https://www.aclweb.org/anthology/K15-1004
+  year: '2015'
+K15-1005:
+  address: Beijing, China
+  author:
+  - first: Mohamed
+    full: Mohamed Al-Badrashiny
+    id: mohamed-al-badrashiny
+    last: Al-Badrashiny
+  - first: Heba
+    full: Heba Elfardy
+    id: heba-elfardy
+    last: Elfardy
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  author_string: Mohamed Al-Badrashiny, Heba Elfardy, Mona Diab
+  bibkey: al-badrashiny-etal-2015-aida2
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1005
+  month: July
+  page_first: '42'
+  page_last: '51'
+  pages: "42\u201351"
+  paper_id: '5'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1005.jpg
+  title: 'AIDA2: A Hybrid Approach for Token and Sentence Level Dialect Identification
+    in Arabic'
+  title_html: '<span class="acl-fixed-case">AIDA</span>2: A Hybrid Approach for Token
+    and Sentence Level Dialect Identification in <span class="acl-fixed-case">A</span>rabic'
+  url: https://www.aclweb.org/anthology/K15-1005
+  year: '2015'
+K15-1006:
+  address: Beijing, China
+  author:
+  - first: Himanshu Sharad
+    full: Himanshu Sharad Bhatt
+    id: himanshu-sharad-bhatt
+    last: Bhatt
+  - first: Deepali
+    full: Deepali Semwal
+    id: deepali-semwal
+    last: Semwal
+  - first: Shourya
+    full: Shourya Roy
+    id: shourya-roy
+    last: Roy
+  author_string: Himanshu Sharad Bhatt, Deepali Semwal, Shourya Roy
+  bibkey: bhatt-etal-2015-iterative
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1006
+  month: July
+  page_first: '52'
+  page_last: '61'
+  pages: "52\u201361"
+  paper_id: '6'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1006.jpg
+  title: An Iterative Similarity based Adaptation Technique for Cross-domain Text
+    Classification
+  title_html: An Iterative Similarity based Adaptation Technique for Cross-domain
+    Text Classification
+  url: https://www.aclweb.org/anthology/K15-1006
+  year: '2015'
+K15-1007:
+  address: Beijing, China
+  author:
+  - first: Francisco
+    full: "Francisco Guzm\xE1n"
+    id: francisco-guzman
+    last: "Guzm\xE1n"
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Stephan
+    full: Stephan Vogel
+    id: stephan-vogel
+    last: Vogel
+  author_string: "Francisco Guzm\xE1n, Preslav Nakov, Stephan Vogel"
+  bibkey: guzman-etal-2015-analyzing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1007
+  month: July
+  page_first: '62'
+  page_last: '72'
+  pages: "62\u201372"
+  paper_id: '7'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1007.jpg
+  title: 'Analyzing Optimization for Statistical Machine Translation: MERT Learns
+    Verbosity, PRO Learns Length'
+  title_html: 'Analyzing Optimization for Statistical Machine Translation: <span class="acl-fixed-case">MERT</span>
+    Learns Verbosity, <span class="acl-fixed-case">PRO</span> Learns Length'
+  url: https://www.aclweb.org/anthology/K15-1007
+  year: '2015'
+K15-1008:
+  address: Beijing, China
+  author:
+  - first: Min
+    full: Min Xiao
+    id: min-xiao
+    last: Xiao
+  - first: Yuhong
+    full: Yuhong Guo
+    id: yuhong-guo
+    last: Guo
+  author_string: Min Xiao, Yuhong Guo
+  bibkey: xiao-guo-2015-annotation
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1008
+  month: July
+  page_first: '73'
+  page_last: '82'
+  pages: "73\u201382"
+  paper_id: '8'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1008.jpg
+  title: Annotation Projection-based Representation Learning for Cross-lingual Dependency
+    Parsing
+  title_html: Annotation Projection-based Representation Learning for Cross-lingual
+    Dependency Parsing
+  url: https://www.aclweb.org/anthology/K15-1008
+  year: '2015'
+K15-1009:
+  address: Beijing, China
+  author:
+  - first: Lizhen
+    full: Lizhen Qu
+    id: lizhen-qu
+    last: Qu
+  - first: Gabriela
+    full: Gabriela Ferraro
+    id: gabriela-ferraro
+    last: Ferraro
+  - first: Liyuan
+    full: Liyuan Zhou
+    id: liyuan-zhou
+    last: Zhou
+  - first: Weiwei
+    full: Weiwei Hou
+    id: weiwei-hou
+    last: Hou
+  - first: Nathan
+    full: Nathan Schneider
+    id: nathan-schneider
+    last: Schneider
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Lizhen Qu, Gabriela Ferraro, Liyuan Zhou, Weiwei Hou, Nathan Schneider,
+    Timothy Baldwin
+  bibkey: qu-etal-2015-big
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1009
+  month: July
+  page_first: '83'
+  page_last: '93'
+  pages: "83\u201393"
+  paper_id: '9'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1009.jpg
+  title: 'Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word: The
+    Impact of Word Representations on Sequence Labelling Tasks'
+  title_html: 'Big Data Small Data, In Domain Out-of Domain, Known Word Unknown Word:
+    The Impact of Word Representations on Sequence Labelling Tasks'
+  url: https://www.aclweb.org/anthology/K15-1009
+  year: '2015'
+K15-1010:
+  address: Beijing, China
+  author:
+  - first: Yevgeni
+    full: Yevgeni Berzak
+    id: yevgeni-berzak
+    last: Berzak
+  - first: Roi
+    full: Roi Reichart
+    id: roi-reichart
+    last: Reichart
+  - first: Boris
+    full: Boris Katz
+    id: boris-katz
+    last: Katz
+  author_string: Yevgeni Berzak, Roi Reichart, Boris Katz
+  bibkey: berzak-etal-2015-contrastive
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1010
+  month: July
+  page_first: '94'
+  page_last: '102'
+  pages: "94\u2013102"
+  paper_id: '10'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1010.jpg
+  title: 'Contrastive Analysis with Predictive Power: Typology Driven Estimation of
+    Grammatical Error Distributions in ESL'
+  title_html: 'Contrastive Analysis with Predictive Power: Typology Driven Estimation
+    of Grammatical Error Distributions in <span class="acl-fixed-case">ESL</span>'
+  url: https://www.aclweb.org/anthology/K15-1010
+  year: '2015'
+K15-1011:
+  address: Beijing, China
+  author:
+  - first: Anders
+    full: Anders Johannsen
+    id: anders-johannsen
+    last: Johannsen
+  - first: Dirk
+    full: Dirk Hovy
+    id: dirk-hovy
+    last: Hovy
+  - first: Anders
+    full: "Anders S\xF8gaard"
+    id: anders-sogaard
+    last: "S\xF8gaard"
+  author_string: "Anders Johannsen, Dirk Hovy, Anders S\xF8gaard"
+  bibkey: johannsen-etal-2015-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1011
+  month: July
+  page_first: '103'
+  page_last: '112'
+  pages: "103\u2013112"
+  paper_id: '11'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1011.jpg
+  title: Cross-lingual syntactic variation over age and gender
+  title_html: Cross-lingual syntactic variation over age and gender
+  url: https://www.aclweb.org/anthology/K15-1011
+  year: '2015'
+K15-1012:
+  address: Beijing, China
+  author:
+  - first: Long
+    full: Long Duong
+    id: long-duong
+    last: Duong
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Steven
+    full: Steven Bird
+    id: steven-bird
+    last: Bird
+  - first: Paul
+    full: Paul Cook
+    id: paul-cook
+    last: Cook
+  author_string: Long Duong, Trevor Cohn, Steven Bird, Paul Cook
+  bibkey: duong-etal-2015-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1012
+  month: July
+  page_first: '113'
+  page_last: '122'
+  pages: "113\u2013122"
+  paper_id: '12'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1012.jpg
+  title: Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel
+    Data
+  title_html: Cross-lingual Transfer for Unsupervised Dependency Parsing Without Parallel
+    Data
+  url: https://www.aclweb.org/anthology/K15-1012
+  year: '2015'
+K15-1013:
+  address: Beijing, China
+  author:
+  - first: Dasha
+    full: Dasha Bogdanova
+    id: dasha-bogdanova
+    last: Bogdanova
+  - first: "C\xEDcero"
+    full: "C\xEDcero dos Santos"
+    id: cicero-dos-santos
+    last: dos Santos
+  - first: Luciano
+    full: Luciano Barbosa
+    id: luciano-barbosa
+    last: Barbosa
+  - first: Bianca
+    full: Bianca Zadrozny
+    id: bianca-zadrozny
+    last: Zadrozny
+  author_string: "Dasha Bogdanova, C\xEDcero dos Santos, Luciano Barbosa, Bianca Zadrozny"
+  bibkey: bogdanova-etal-2015-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1013
+  month: July
+  page_first: '123'
+  page_last: '131'
+  pages: "123\u2013131"
+  paper_id: '13'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1013.jpg
+  title: Detecting Semantically Equivalent Questions in Online User Forums
+  title_html: Detecting Semantically Equivalent Questions in Online User Forums
+  url: https://www.aclweb.org/anthology/K15-1013
+  year: '2015'
+K15-1014:
+  address: Beijing, China
+  author:
+  - first: Youngsik
+    full: Youngsik Kim
+    id: youngsik-kim
+    last: Kim
+  - first: Key-Sun
+    full: Key-Sun Choi
+    id: key-sun-choi
+    last: Choi
+  author_string: Youngsik Kim, Key-Sun Choi
+  bibkey: kim-choi-2015-entity
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1014
+  month: July
+  page_first: '132'
+  page_last: '141'
+  pages: "132\u2013141"
+  paper_id: '14'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1014.jpg
+  title: 'Entity Linking Korean Text: An Unsupervised Learning Approach using Semantic
+    Relations'
+  title_html: 'Entity Linking <span class="acl-fixed-case">K</span>orean Text: An
+    Unsupervised Learning Approach using Semantic Relations'
+  url: https://www.aclweb.org/anthology/K15-1014
+  year: '2015'
+K15-1015:
+  address: Beijing, China
+  author:
+  - first: Majid
+    full: Majid Yazdani
+    id: majid-yazdani
+    last: Yazdani
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  author_string: Majid Yazdani, James Henderson
+  bibkey: yazdani-henderson-2015-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1015
+  month: July
+  page_first: '142'
+  page_last: '152'
+  pages: "142\u2013152"
+  paper_id: '15'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1015.jpg
+  title: Incremental Recurrent Neural Network Dependency Parser with Search-based
+    Discriminative Training
+  title_html: Incremental Recurrent Neural Network Dependency Parser with Search-based
+    Discriminative Training
+  url: https://www.aclweb.org/anthology/K15-1015
+  year: '2015'
+K15-1016:
+  address: Beijing, China
+  author:
+  - first: Roman
+    full: Roman Klinger
+    id: roman-klinger
+    last: Klinger
+  - first: Philipp
+    full: Philipp Cimiano
+    id: philipp-cimiano
+    last: Cimiano
+  author_string: Roman Klinger, Philipp Cimiano
+  bibkey: klinger-cimiano-2015-instance
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1016
+  month: July
+  page_first: '153'
+  page_last: '163'
+  pages: "153\u2013163"
+  paper_id: '16'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1016.jpg
+  title: Instance Selection Improves Cross-Lingual Model Training for Fine-Grained
+    Sentiment Analysis
+  title_html: Instance Selection Improves Cross-Lingual Model Training for Fine-Grained
+    Sentiment Analysis
+  url: https://www.aclweb.org/anthology/K15-1016
+  year: '2015'
+K15-1017:
+  address: Beijing, China
+  author:
+  - first: Ryan
+    full: Ryan Cotterell
+    id: ryan-cotterell
+    last: Cotterell
+  - first: Thomas
+    full: "Thomas M\xFCller"
+    id: thomas-mueller
+    last: "M\xFCller"
+  - first: Alexander
+    full: Alexander Fraser
+    id: alexander-fraser
+    last: Fraser
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Ryan Cotterell, Thomas M\xFCller, Alexander Fraser, Hinrich Sch\xFC\
+    tze"
+  bibkey: cotterell-etal-2015-labeled
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1017
+  month: July
+  page_first: '164'
+  page_last: '174'
+  pages: "164\u2013174"
+  paper_id: '17'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1017.jpg
+  title: Labeled Morphological Segmentation with Semi-Markov Models
+  title_html: Labeled Morphological Segmentation with Semi-<span class="acl-fixed-case">M</span>arkov
+    Models
+  url: https://www.aclweb.org/anthology/K15-1017
+  year: '2015'
+K15-1018:
+  address: Beijing, China
+  author:
+  - first: Vered
+    full: Vered Shwartz
+    id: vered-shwartz
+    last: Shwartz
+  - first: Omer
+    full: Omer Levy
+    id: omer-levy
+    last: Levy
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Jacob
+    full: Jacob Goldberger
+    id: jacob-goldberger
+    last: Goldberger
+  author_string: Vered Shwartz, Omer Levy, Ido Dagan, Jacob Goldberger
+  bibkey: shwartz-etal-2015-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1018
+  month: July
+  page_first: '175'
+  page_last: '184'
+  pages: "175\u2013184"
+  paper_id: '18'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1018.jpg
+  title: Learning to Exploit Structured Resources for Lexical Inference
+  title_html: Learning to Exploit Structured Resources for Lexical Inference
+  url: https://www.aclweb.org/anthology/K15-1018
+  year: '2015'
+K15-1019:
+  address: Beijing, China
+  author:
+  - first: Rebecka
+    full: Rebecka Weegar
+    id: rebecka-weegar
+    last: Weegar
+  - first: Kalle
+    full: "Kalle \xC5str\xF6m"
+    id: kalle-astrom
+    last: "\xC5str\xF6m"
+  - first: Pierre
+    full: Pierre Nugues
+    id: pierre-nugues
+    last: Nugues
+  author_string: "Rebecka Weegar, Kalle \xC5str\xF6m, Pierre Nugues"
+  bibkey: weegar-etal-2015-linking
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1019
+  month: July
+  page_first: '185'
+  page_last: '193'
+  pages: "185\u2013193"
+  paper_id: '19'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1019.jpg
+  title: Linking Entities Across Images and Text
+  title_html: Linking Entities Across Images and Text
+  url: https://www.aclweb.org/anthology/K15-1019
+  year: '2015'
+K15-1020:
+  address: Beijing, China
+  author:
+  - first: Paul
+    full: Paul Felt
+    id: paul-felt
+    last: Felt
+  - first: Eric
+    full: Eric Ringger
+    id: eric-ringger
+    last: Ringger
+  - first: Jordan
+    full: Jordan Boyd-Graber
+    id: jordan-boyd-graber
+    last: Boyd-Graber
+  - first: Kevin
+    full: Kevin Seppi
+    id: kevin-seppi
+    last: Seppi
+  author_string: Paul Felt, Eric Ringger, Jordan Boyd-Graber, Kevin Seppi
+  bibkey: felt-etal-2015-making
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1020
+  month: July
+  page_first: '194'
+  page_last: '203'
+  pages: "194\u2013203"
+  paper_id: '20'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1020.jpg
+  title: 'Making the Most of Crowdsourced Document Annotations: Confused Supervised
+    LDA'
+  title_html: 'Making the Most of Crowdsourced Document Annotations: Confused Supervised
+    <span class="acl-fixed-case">LDA</span>'
+  url: https://www.aclweb.org/anthology/K15-1020
+  year: '2015'
+K15-1021:
+  address: Beijing, China
+  author:
+  - first: Wenpeng
+    full: Wenpeng Yin
+    id: wenpeng-yin
+    last: Yin
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Wenpeng Yin, Hinrich Sch\xFCtze"
+  bibkey: yin-schutze-2015-multichannel
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1021
+  month: July
+  page_first: '204'
+  page_last: '214'
+  pages: "204\u2013214"
+  paper_id: '21'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1021.jpg
+  title: Multichannel Variable-Size Convolution for Sentence Classification
+  title_html: Multichannel Variable-Size Convolution for Sentence Classification
+  url: https://www.aclweb.org/anthology/K15-1021
+  year: '2015'
+K15-1022:
+  address: Beijing, China
+  author:
+  - first: Michael
+    full: Michael Wiegand
+    id: michael-wiegand
+    last: Wiegand
+  - first: Josef
+    full: Josef Ruppenhofer
+    id: josef-ruppenhofer
+    last: Ruppenhofer
+  author_string: Michael Wiegand, Josef Ruppenhofer
+  bibkey: wiegand-ruppenhofer-2015-opinion
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1022
+  month: July
+  page_first: '215'
+  page_last: '225'
+  pages: "215\u2013225"
+  paper_id: '22'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1022.jpg
+  title: Opinion Holder and Target Extraction based on the Induction of Verbal Categories
+  title_html: Opinion Holder and Target Extraction based on the Induction of Verbal
+    Categories
+  url: https://www.aclweb.org/anthology/K15-1022
+  year: '2015'
+K15-1023:
+  address: Beijing, China
+  author:
+  - first: Ian
+    full: Ian Perera
+    id: ian-perera
+    last: Perera
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  author_string: Ian Perera, James Allen
+  bibkey: perera-allen-2015-quantity
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1023
+  month: July
+  page_first: '226'
+  page_last: '236'
+  pages: "226\u2013236"
+  paper_id: '23'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1023.jpg
+  title: Quantity, Contrast, and Convention in Cross-Situated Language Comprehension
+  title_html: Quantity, Contrast, and Convention in Cross-Situated Language Comprehension
+  url: https://www.aclweb.org/anthology/K15-1023
+  year: '2015'
+K15-1024:
+  address: Beijing, China
+  author:
+  - first: Zeheng
+    full: Zeheng Li
+    id: zeheng-li
+    last: Li
+  - first: Mingrui
+    full: Mingrui Chen
+    id: mingrui-chen
+    last: Chen
+  - first: LiGuo
+    full: LiGuo Huang
+    id: liguo-huang
+    last: Huang
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Zeheng Li, Mingrui Chen, LiGuo Huang, Vincent Ng
+  bibkey: li-etal-2015-recovering
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1024
+  month: July
+  page_first: '237'
+  page_last: '246'
+  pages: "237\u2013246"
+  paper_id: '24'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1024.jpg
+  title: Recovering Traceability Links in Requirements Documents
+  title_html: Recovering Traceability Links in Requirements Documents
+  url: https://www.aclweb.org/anthology/K15-1024
+  year: '2015'
+K15-1025:
+  address: Beijing, China
+  author:
+  - first: Kristina
+    full: Kristina Gulordava
+    id: kristina-gulordava
+    last: Gulordava
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  author_string: Kristina Gulordava, Paola Merlo
+  bibkey: gulordava-merlo-2015-structural
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1025
+  month: July
+  page_first: '247'
+  page_last: '257'
+  pages: "247\u2013257"
+  paper_id: '25'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1025.jpg
+  title: Structural and lexical factors in adjective placement in complex noun phrases
+    across Romance languages
+  title_html: Structural and lexical factors in adjective placement in complex noun
+    phrases across Romance languages
+  url: https://www.aclweb.org/anthology/K15-1025
+  year: '2015'
+K15-1026:
+  address: Beijing, China
+  author:
+  - first: Roy
+    full: Roy Schwartz
+    id: roy-schwartz
+    last: Schwartz
+  - first: Roi
+    full: Roi Reichart
+    id: roi-reichart
+    last: Reichart
+  - first: Ari
+    full: Ari Rappoport
+    id: ari-rappoport
+    last: Rappoport
+  author_string: Roy Schwartz, Roi Reichart, Ari Rappoport
+  bibkey: schwartz-etal-2015-symmetric
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1026
+  month: July
+  page_first: '258'
+  page_last: '267'
+  pages: "258\u2013267"
+  paper_id: '26'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1026.jpg
+  title: Symmetric Pattern Based Word Embeddings for Improved Word Similarity Prediction
+  title_html: Symmetric Pattern Based Word Embeddings for Improved Word Similarity
+    Prediction
+  url: https://www.aclweb.org/anthology/K15-1026
+  year: '2015'
+K15-1027:
+  address: Beijing, China
+  author:
+  - first: Kazuma
+    full: Kazuma Hashimoto
+    id: kazuma-hashimoto
+    last: Hashimoto
+  - first: Pontus
+    full: Pontus Stenetorp
+    id: pontus-stenetorp
+    last: Stenetorp
+  - first: Makoto
+    full: Makoto Miwa
+    id: makoto-miwa
+    last: Miwa
+  - first: Yoshimasa
+    full: Yoshimasa Tsuruoka
+    id: yoshimasa-tsuruoka
+    last: Tsuruoka
+  author_string: Kazuma Hashimoto, Pontus Stenetorp, Makoto Miwa, Yoshimasa Tsuruoka
+  bibkey: hashimoto-etal-2015-task
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1027
+  month: July
+  page_first: '268'
+  page_last: '278'
+  pages: "268\u2013278"
+  paper_id: '27'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1027.jpg
+  title: Task-Oriented Learning of Word Embeddings for Semantic Relation Classification
+  title_html: Task-Oriented Learning of Word Embeddings for Semantic Relation Classification
+  url: https://www.aclweb.org/anthology/K15-1027
+  year: '2015'
+K15-1028:
+  address: Beijing, China
+  author:
+  - first: Young-Seob
+    full: Young-Seob Jeong
+    id: young-seob-jeong
+    last: Jeong
+  - first: Zae Myung
+    full: Zae Myung Kim
+    id: zae-myung-kim
+    last: Kim
+  - first: Hyun-Woo
+    full: Hyun-Woo Do
+    id: hyun-woo-do
+    last: Do
+  - first: Chae-Gyun
+    full: Chae-Gyun Lim
+    id: chae-gyun-lim
+    last: Lim
+  - first: Ho-Jin
+    full: Ho-Jin Choi
+    id: ho-jin-choi
+    last: Choi
+  author_string: Young-Seob Jeong, Zae Myung Kim, Hyun-Woo Do, Chae-Gyun Lim, Ho-Jin
+    Choi
+  bibkey: jeong-etal-2015-temporal
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1028
+  month: July
+  page_first: '279'
+  page_last: '288'
+  pages: "279\u2013288"
+  paper_id: '28'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1028.jpg
+  title: Temporal Information Extraction from Korean Texts
+  title_html: Temporal Information Extraction from <span class="acl-fixed-case">K</span>orean
+    Texts
+  url: https://www.aclweb.org/anthology/K15-1028
+  year: '2015'
+K15-1029:
+  address: Beijing, China
+  author:
+  - first: Miguel
+    full: Miguel Ballesteros
+    id: miguel-ballesteros
+    last: Ballesteros
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  author_string: Miguel Ballesteros, Xavier Carreras
+  bibkey: ballesteros-carreras-2015-transition
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1029
+  month: July
+  page_first: '289'
+  page_last: '299'
+  pages: "289\u2013299"
+  paper_id: '29'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1029.jpg
+  title: Transition-based Spinal Parsing
+  title_html: Transition-based Spinal Parsing
+  url: https://www.aclweb.org/anthology/K15-1029
+  year: '2015'
+K15-1030:
+  address: Beijing, China
+  author:
+  - first: Shonosuke
+    full: Shonosuke Ishiwatari
+    id: shonosuke-ishiwatari
+    last: Ishiwatari
+  - first: Nobuhiro
+    full: Nobuhiro Kaji
+    id: nobuhiro-kaji
+    last: Kaji
+  - first: Naoki
+    full: Naoki Yoshinaga
+    id: naoki-yoshinaga
+    last: Yoshinaga
+  - first: Masashi
+    full: Masashi Toyoda
+    id: masashi-toyoda
+    last: Toyoda
+  - first: Masaru
+    full: Masaru Kitsuregawa
+    id: masaru-kitsuregawa
+    last: Kitsuregawa
+  author_string: Shonosuke Ishiwatari, Nobuhiro Kaji, Naoki Yoshinaga, Masashi Toyoda,
+    Masaru Kitsuregawa
+  bibkey: ishiwatari-etal-2015-accurate
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1030
+  month: July
+  page_first: '300'
+  page_last: '304'
+  pages: "300\u2013304"
+  paper_id: '30'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1030.jpg
+  title: Accurate Cross-lingual Projection between Count-based Word Vectors by Exploiting
+    Translatable Context Pairs
+  title_html: Accurate Cross-lingual Projection between Count-based Word Vectors by
+    Exploiting Translatable Context Pairs
+  url: https://www.aclweb.org/anthology/K15-1030
+  year: '2015'
+K15-1031:
+  address: Beijing, China
+  author:
+  - first: Thang
+    full: Thang Luong
+    id: minh-thang-luong
+    last: Luong
+  - first: Michael
+    full: Michael Kayser
+    id: michael-kayser
+    last: Kayser
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Thang Luong, Michael Kayser, Christopher D. Manning
+  bibkey: luong-etal-2015-deep
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1031
+  month: July
+  page_first: '305'
+  page_last: '309'
+  pages: "305\u2013309"
+  paper_id: '31'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1031.jpg
+  title: Deep Neural Language Models for Machine Translation
+  title_html: Deep Neural Language Models for Machine Translation
+  url: https://www.aclweb.org/anthology/K15-1031
+  year: '2015'
+K15-1032:
+  address: Beijing, China
+  author:
+  - first: Todor
+    full: Todor Mihaylov
+    id: todor-mihaylov
+    last: Mihaylov
+  - first: Georgi
+    full: Georgi Georgiev
+    id: georgi-georgiev
+    last: Georgiev
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  author_string: Todor Mihaylov, Georgi Georgiev, Preslav Nakov
+  bibkey: mihaylov-etal-2015-finding
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1032
+  month: July
+  page_first: '310'
+  page_last: '314'
+  pages: "310\u2013314"
+  paper_id: '32'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1032.jpg
+  title: Finding Opinion Manipulation Trolls in News Community Forums
+  title_html: Finding Opinion Manipulation Trolls in News Community Forums
+  url: https://www.aclweb.org/anthology/K15-1032
+  year: '2015'
+K15-1033:
+  address: Beijing, China
+  author:
+  - first: Barbara
+    full: Barbara Plank
+    id: barbara-plank
+    last: Plank
+  - first: "H\xE9ctor"
+    full: "H\xE9ctor Mart\xEDnez Alonso"
+    id: hector-martinez-alonso
+    last: "Mart\xEDnez Alonso"
+  - first: "\u017Deljko"
+    full: "\u017Deljko Agi\u0107"
+    id: zeljko-agic
+    last: "Agi\u0107"
+  - first: Danijela
+    full: Danijela Merkler
+    id: danijela-merkler
+    last: Merkler
+  - first: Anders
+    full: "Anders S\xF8gaard"
+    id: anders-sogaard
+    last: "S\xF8gaard"
+  author_string: "Barbara Plank, H\xE9ctor Mart\xEDnez Alonso, \u017Deljko Agi\u0107\
+    , Danijela Merkler, Anders S\xF8gaard"
+  bibkey: plank-etal-2015-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1033
+  month: July
+  page_first: '315'
+  page_last: '320'
+  pages: "315\u2013320"
+  paper_id: '33'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1033.jpg
+  title: Do dependency parsing metrics correlate with human judgments?
+  title_html: Do dependency parsing metrics correlate with human judgments?
+  url: https://www.aclweb.org/anthology/K15-1033
+  year: '2015'
+K15-1034:
+  address: Beijing, China
+  author:
+  - first: Anuj
+    full: Anuj Mahajan
+    id: anuj-mahajan
+    last: Mahajan
+  - first: Sharmistha
+    full: Sharmistha Jat
+    id: sharmistha-jat
+    last: Jat
+  - first: Shourya
+    full: Shourya Roy
+    id: shourya-roy
+    last: Roy
+  author_string: Anuj Mahajan, Sharmistha Jat, Shourya Roy
+  bibkey: mahajan-etal-2015-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1034
+  month: July
+  page_first: '321'
+  page_last: '326'
+  pages: "321\u2013326"
+  paper_id: '34'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1034.jpg
+  title: Feature Selection for Short Text Classification using Wavelet Packet Transform
+  title_html: Feature Selection for Short Text Classification using Wavelet Packet
+    Transform
+  url: https://www.aclweb.org/anthology/K15-1034
+  year: '2015'
+K15-1035:
+  address: Beijing, China
+  author:
+  - first: Jean
+    full: Jean Maillard
+    id: jean-maillard
+    last: Maillard
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  author_string: Jean Maillard, Stephen Clark
+  bibkey: maillard-clark-2015-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1035
+  month: July
+  page_first: '327'
+  page_last: '331'
+  pages: "327\u2013331"
+  paper_id: '35'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1035.jpg
+  title: Learning Adjective Meanings with a Tensor-Based Skip-Gram Model
+  title_html: Learning Adjective Meanings with a Tensor-Based Skip-Gram Model
+  url: https://www.aclweb.org/anthology/K15-1035
+  year: '2015'
+K15-1036:
+  address: Beijing, China
+  author:
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Waleed
+    full: Waleed Ammar
+    id: waleed-ammar
+    last: Ammar
+  - first: Pallavi
+    full: Pallavi Choudhury
+    id: pallavi-choudhury
+    last: Choudhury
+  - first: Hoifung
+    full: Hoifung Poon
+    id: hoifung-poon
+    last: Poon
+  author_string: Kristina Toutanova, Waleed Ammar, Pallavi Choudhury, Hoifung Poon
+  bibkey: toutanova-etal-2015-model
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1036
+  month: July
+  page_first: '332'
+  page_last: '337'
+  pages: "332\u2013337"
+  paper_id: '36'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1036.jpg
+  title: Model Selection for Type-Supervised Learning with Application to POS Tagging
+  title_html: Model Selection for Type-Supervised Learning with Application to <span
+    class="acl-fixed-case">POS</span> Tagging
+  url: https://www.aclweb.org/anthology/K15-1036
+  year: '2015'
+K15-1037:
+  address: Beijing, China
+  author:
+  - first: Kaveh
+    full: Kaveh Taghipour
+    id: kaveh-taghipour
+    last: Taghipour
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Kaveh Taghipour, Hwee Tou Ng
+  bibkey: taghipour-ng-2015-one
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1037
+  month: July
+  page_first: '338'
+  page_last: '344'
+  pages: "338\u2013344"
+  paper_id: '37'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1037.jpg
+  title: One Million Sense-Tagged Instances for Word Sense Disambiguation and Induction
+  title_html: One Million Sense-Tagged Instances for Word Sense Disambiguation and
+    Induction
+  url: https://www.aclweb.org/anthology/K15-1037
+  year: '2015'
+K15-1038:
+  address: Beijing, China
+  author:
+  - first: Maria
+    full: Maria Barrett
+    id: maria-barrett
+    last: Barrett
+  - first: Anders
+    full: "Anders S\xF8gaard"
+    id: anders-sogaard
+    last: "S\xF8gaard"
+  author_string: "Maria Barrett, Anders S\xF8gaard"
+  bibkey: barrett-sogaard-2015-reading
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning
+  doi: 10.18653/v1/K15-1038
+  month: July
+  page_first: '345'
+  page_last: '349'
+  pages: "345\u2013349"
+  paper_id: '38'
+  parent_volume_id: K15-1
+  pdf: https://www.aclweb.org/anthology/K15-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-1038.jpg
+  title: Reading behavior predicts syntactic categories
+  title_html: Reading behavior predicts syntactic categories
+  url: https://www.aclweb.org/anthology/K15-1038
+  year: '2015'
+K15-2000:
+  address: Beijing, China
+  bibkey: conll-2015-natural-language
+  bibtype: proceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  doi: 10.18653/v1/K15-2
+  month: July
+  paper_id: '0'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2000.jpg
+  title: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  title_html: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  url: https://www.aclweb.org/anthology/K15-2000
+  year: '2015'
+K15-2001:
+  address: Beijing, China
+  author:
+  - first: Nianwen
+    full: Nianwen Xue
+    id: nianwen-xue
+    last: Xue
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Sameer
+    full: Sameer Pradhan
+    id: sameer-pradhan
+    last: Pradhan
+  - first: Rashmi
+    full: Rashmi Prasad
+    id: rashmi-prasad
+    last: Prasad
+  - first: Christopher
+    full: Christopher Bryant
+    id: christopher-bryant
+    last: Bryant
+  - first: Attapol
+    full: Attapol Rutherford
+    id: attapol-rutherford
+    last: Rutherford
+  author_string: Nianwen Xue, Hwee Tou Ng, Sameer Pradhan, Rashmi Prasad, Christopher
+    Bryant, Attapol Rutherford
+  bibkey: xue-etal-2015-conll
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2001
+  month: July
+  page_first: '1'
+  page_last: '16'
+  pages: "1\u201316"
+  paper_id: '1'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2001.jpg
+  title: The CoNLL-2015 Shared Task on Shallow Discourse Parsing
+  title_html: The <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>-2015
+    Shared Task on Shallow Discourse Parsing
+  url: https://www.aclweb.org/anthology/K15-2001
+  year: '2015'
+K15-2002:
+  address: Beijing, China
+  author:
+  - first: Jianxiang
+    full: Jianxiang Wang
+    id: jianxiang-wang
+    last: Wang
+  - first: Man
+    full: Man Lan
+    id: man-lan
+    last: Lan
+  author_string: Jianxiang Wang, Man Lan
+  bibkey: wang-lan-2015-refined
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2002
+  month: July
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '2'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2002.jpg
+  title: A Refined End-to-End Discourse Parser
+  title_html: A Refined End-to-End Discourse Parser
+  url: https://www.aclweb.org/anthology/K15-2002
+  year: '2015'
+K15-2003:
+  address: Beijing, China
+  author:
+  - first: Evgeny
+    full: Evgeny Stepanov
+    id: evgeny-stepanov
+    last: Stepanov
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  - first: Ali Orkan
+    full: Ali Orkan Bayer
+    id: ali-orkan-bayer
+    last: Bayer
+  author_string: Evgeny Stepanov, Giuseppe Riccardi, Ali Orkan Bayer
+  bibkey: stepanov-etal-2015-unitn
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2003
+  month: July
+  page_first: '25'
+  page_last: '31'
+  pages: "25\u201331"
+  paper_id: '3'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2003.jpg
+  title: 'The UniTN Discourse Parser in CoNLL 2015 Shared Task: Token-level Sequence
+    Labeling with Argument-specific Models'
+  title_html: 'The <span class="acl-fixed-case">U</span>ni<span class="acl-fixed-case">TN</span>
+    Discourse Parser in <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>
+    2015 Shared Task: Token-level Sequence Labeling with Argument-specific Models'
+  url: https://www.aclweb.org/anthology/K15-2003
+  year: '2015'
+K15-2004:
+  address: Beijing, China
+  author:
+  - first: Fang
+    full: Fang Kong
+    id: fang-kong
+    last: Kong
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  author_string: Fang Kong, Sheng Li, Guodong Zhou
+  bibkey: kong-etal-2015-sonlp
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2004
+  month: July
+  page_first: '32'
+  page_last: '36'
+  pages: "32\u201336"
+  paper_id: '4'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2004.jpg
+  title: The SoNLP-DP System in the CoNLL-2015 shared Task
+  title_html: The <span class="acl-fixed-case">S</span>o<span class="acl-fixed-case">NLP</span>-<span
+    class="acl-fixed-case">DP</span> System in the <span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span>-2015 shared Task
+  url: https://www.aclweb.org/anthology/K15-2004
+  year: '2015'
+K15-2005:
+  address: Beijing, China
+  author:
+  - first: Changge
+    full: Changge Chen
+    id: changge-chen
+    last: Chen
+  - first: Peilu
+    full: Peilu Wang
+    id: peilu-wang
+    last: Wang
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  author_string: Changge Chen, Peilu Wang, Hai Zhao
+  bibkey: chen-etal-2015-shallow
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2005
+  month: July
+  page_first: '37'
+  page_last: '41'
+  pages: "37\u201341"
+  paper_id: '5'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2005.jpg
+  title: Shallow Discourse Parsing Using Constituent Parsing Tree
+  title_html: Shallow Discourse Parsing Using Constituent Parsing Tree
+  url: https://www.aclweb.org/anthology/K15-2005
+  year: '2015'
+K15-2006:
+  address: Beijing, China
+  author:
+  - first: Christian
+    full: Christian Chiarcos
+    id: christian-chiarcos
+    last: Chiarcos
+  - first: Niko
+    full: Niko Schenk
+    id: niko-schenk
+    last: Schenk
+  author_string: Christian Chiarcos, Niko Schenk
+  bibkey: chiarcos-schenk-2015-minimalist
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2006
+  month: July
+  page_first: '42'
+  page_last: '49'
+  pages: "42\u201349"
+  paper_id: '6'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2006.jpg
+  title: A Minimalist Approach to Shallow Discourse Parsing and Implicit Relation
+    Recognition
+  title_html: A Minimalist Approach to Shallow Discourse Parsing and Implicit Relation
+    Recognition
+  url: https://www.aclweb.org/anthology/K15-2006
+  year: '2015'
+K15-2007:
+  address: Beijing, China
+  author:
+  - first: Sobha
+    full: Sobha Lalitha Devi
+    id: sobha-lalitha-devi
+    last: Lalitha Devi
+  - first: Sindhuja
+    full: Sindhuja Gopalan
+    id: sindhuja-gopalan
+    last: Gopalan
+  - first: Lakshmi
+    full: Lakshmi S.
+    id: lakshmi-s
+    last: S.
+  - first: Pattabhi
+    full: Pattabhi RK Rao
+    id: pattabhi-rk-rao
+    last: RK Rao
+  - first: Vijay
+    full: Vijay Sundar Ram
+    id: vijay-sundar-ram
+    last: Sundar Ram
+  - first: Malarkodi
+    full: Malarkodi C.S.
+    id: malarkodi-c-s
+    last: C.S.
+  author_string: Sobha Lalitha Devi, Sindhuja Gopalan, Lakshmi S., Pattabhi RK Rao,
+    Vijay Sundar Ram, Malarkodi C.S.
+  bibkey: lalitha-devi-etal-2015-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2007
+  month: July
+  page_first: '50'
+  page_last: '55'
+  pages: "50\u201355"
+  paper_id: '7'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2007.jpg
+  title: A Hybrid Discourse Relation Parser in CoNLL 2015
+  title_html: A Hybrid Discourse Relation Parser in <span class="acl-fixed-case">C</span>o<span
+    class="acl-fixed-case">NLL</span> 2015
+  url: https://www.aclweb.org/anthology/K15-2007
+  year: '2015'
+K15-2008:
+  address: Beijing, China
+  author:
+  - first: Majid
+    full: Majid Laali
+    id: majid-laali
+    last: Laali
+  - first: Elnaz
+    full: Elnaz Davoodi
+    id: elnaz-davoodi
+    last: Davoodi
+  - first: Leila
+    full: Leila Kosseim
+    id: leila-kosseim
+    last: Kosseim
+  author_string: Majid Laali, Elnaz Davoodi, Leila Kosseim
+  bibkey: laali-etal-2015-clac
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2008
+  month: July
+  page_first: '56'
+  page_last: '60'
+  pages: "56\u201360"
+  paper_id: '8'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2008.jpg
+  title: The CLaC Discourse Parser at CoNLL-2015
+  title_html: The <span class="acl-fixed-case">CL</span>a<span class="acl-fixed-case">C</span>
+    Discourse Parser at <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>-2015
+  url: https://www.aclweb.org/anthology/K15-2008
+  year: '2015'
+K15-2009:
+  address: Beijing, China
+  author:
+  - first: Shubham
+    full: Shubham Mukherjee
+    id: shubham-mukherjee
+    last: Mukherjee
+  - first: Abhishek
+    full: Abhishek Tiwari
+    id: abhishek-tiwari
+    last: Tiwari
+  - first: Mohit
+    full: Mohit Gupta
+    id: mohit-gupta
+    last: Gupta
+  - first: Anil
+    full: Anil Kumar Singh
+    id: anil-kumar-singh
+    last: Kumar Singh
+  author_string: Shubham Mukherjee, Abhishek Tiwari, Mohit Gupta, Anil Kumar Singh
+  bibkey: mukherjee-etal-2015-shallow
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2009
+  month: July
+  page_first: '61'
+  page_last: '65'
+  pages: "61\u201365"
+  paper_id: '9'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2009.jpg
+  title: Shallow Discourse Parsing with Syntactic and (a Few) Semantic Features
+  title_html: Shallow Discourse Parsing with Syntactic and (a Few) Semantic Features
+  url: https://www.aclweb.org/anthology/K15-2009
+  year: '2015'
+K15-2010:
+  address: Beijing, China
+  author:
+  - first: Truong Son
+    full: Truong Son Nguyen
+    id: truong-son-nguyen
+    last: Nguyen
+  - first: Bao Quoc
+    full: Bao Quoc Ho
+    id: bao-quoc-ho
+    last: Ho
+  - first: Le Minh
+    full: Le Minh Nguyen
+    id: minh-le-nguyen
+    last: Nguyen
+  author_string: Truong Son Nguyen, Bao Quoc Ho, Le Minh Nguyen
+  bibkey: nguyen-etal-2015-jaist
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2010
+  month: July
+  page_first: '66'
+  page_last: '70'
+  pages: "66\u201370"
+  paper_id: '10'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2010.jpg
+  title: 'JAIST: A two-phase machine learning approach for identifying discourse relations
+    in newswire texts'
+  title_html: '<span class="acl-fixed-case">JAIST</span>: A two-phase machine learning
+    approach for identifying discourse relations in newswire texts'
+  url: https://www.aclweb.org/anthology/K15-2010
+  year: '2015'
+K15-2011:
+  address: Beijing, China
+  author:
+  - first: Tsuyoshi
+    full: Tsuyoshi Okita
+    id: tsuyoshi-okita
+    last: Okita
+  - first: Longyue
+    full: Longyue Wang
+    id: longyue-wang
+    last: Wang
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Tsuyoshi Okita, Longyue Wang, Qun Liu
+  bibkey: okita-etal-2015-dcu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2011
+  month: July
+  page_first: '71'
+  page_last: '77'
+  pages: "71\u201377"
+  paper_id: '11'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2011.jpg
+  title: 'The DCU Discourse Parser: A Sense Classification Task'
+  title_html: 'The <span class="acl-fixed-case">DCU</span> Discourse Parser: A Sense
+    Classification Task'
+  url: https://www.aclweb.org/anthology/K15-2011
+  year: '2015'
+K15-2012:
+  address: Beijing, China
+  author:
+  - first: Yangqiu
+    full: Yangqiu Song
+    id: yangqiu-song
+    last: Song
+  - first: Haoruo
+    full: Haoruo Peng
+    id: haoruo-peng
+    last: Peng
+  - first: Parisa
+    full: Parisa Kordjamshidi
+    id: parisa-kordjamshidi
+    last: Kordjamshidi
+  - first: Mark
+    full: Mark Sammons
+    id: mark-sammons
+    last: Sammons
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Yangqiu Song, Haoruo Peng, Parisa Kordjamshidi, Mark Sammons, Dan
+    Roth
+  bibkey: song-etal-2015-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2012
+  month: July
+  page_first: '78'
+  page_last: '83'
+  pages: "78\u201383"
+  paper_id: '12'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2012.jpg
+  title: Improving a Pipeline Architecture for Shallow Discourse Parsing
+  title_html: Improving a Pipeline Architecture for Shallow Discourse Parsing
+  url: https://www.aclweb.org/anthology/K15-2012
+  year: '2015'
+K15-2013:
+  address: Beijing, China
+  author:
+  - first: Jia
+    full: Jia Sun
+    id: jia-sun
+    last: Sun
+  - first: Peijia
+    full: Peijia Li
+    id: peijia-li
+    last: Li
+  - first: Weiqun
+    full: Weiqun Xu
+    id: weiqun-xu
+    last: Xu
+  - first: Yonghong
+    full: Yonghong Yan
+    id: yonghong-yan
+    last: Yan
+  author_string: Jia Sun, Peijia Li, Weiqun Xu, Yonghong Yan
+  bibkey: sun-etal-2015-shallow
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2013
+  month: July
+  page_first: '84'
+  page_last: '88'
+  pages: "84\u201388"
+  paper_id: '13'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2013.jpg
+  title: A Shallow Discourse Parsing System Based On Maximum Entropy Model
+  title_html: A Shallow Discourse Parsing System Based On Maximum Entropy Model
+  url: https://www.aclweb.org/anthology/K15-2013
+  year: '2015'
+K15-2014:
+  address: Beijing, China
+  author:
+  - first: Longyue
+    full: Longyue Wang
+    id: longyue-wang
+    last: Wang
+  - first: Chris
+    full: Chris Hokamp
+    id: chris-hokamp
+    last: Hokamp
+  - first: Tsuyoshi
+    full: Tsuyoshi Okita
+    id: tsuyoshi-okita
+    last: Okita
+  - first: Xiaojun
+    full: Xiaojun Zhang
+    id: xiaojun-zhang
+    last: Zhang
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Longyue Wang, Chris Hokamp, Tsuyoshi Okita, Xiaojun Zhang, Qun Liu
+  bibkey: wang-etal-2015-dcu
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2014
+  month: July
+  page_first: '89'
+  page_last: '94'
+  pages: "89\u201394"
+  paper_id: '14'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2014.jpg
+  title: The DCU Discourse Parser for Connective, Argument Identification and Explicit
+    Sense Classification
+  title_html: The <span class="acl-fixed-case">DCU</span> Discourse Parser for Connective,
+    Argument Identification and Explicit Sense Classification
+  url: https://www.aclweb.org/anthology/K15-2014
+  year: '2015'
+K15-2015:
+  address: Beijing, China
+  author:
+  - first: Yasuhisa
+    full: Yasuhisa Yoshida
+    id: yasuhisa-yoshida
+    last: Yoshida
+  - first: Katsuhiko
+    full: Katsuhiko Hayashi
+    id: katsuhiko-hayashi
+    last: Hayashi
+  - first: Tsutomu
+    full: Tsutomu Hirao
+    id: tsutomu-hirao
+    last: Hirao
+  - first: Masaaki
+    full: Masaaki Nagata
+    id: masaaki-nagata
+    last: Nagata
+  author_string: Yasuhisa Yoshida, Katsuhiko Hayashi, Tsutomu Hirao, Masaaki Nagata
+  bibkey: yoshida-etal-2015-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the Nineteenth Conference on Computational Natural Language
+    Learning - Shared Task
+  booktitle_html: Proceedings of the Nineteenth Conference on Computational Natural
+    Language Learning - Shared Task
+  doi: 10.18653/v1/K15-2015
+  month: July
+  page_first: '95'
+  page_last: '99'
+  pages: "95\u201399"
+  paper_id: '15'
+  parent_volume_id: K15-2
+  pdf: https://www.aclweb.org/anthology/K15-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/K15-2015.jpg
+  title: Hybrid Approach to PDTB-styled Discourse Parsing for CoNLL-2015
+  title_html: Hybrid Approach to <span class="acl-fixed-case">PDTB</span>-styled Discourse
+    Parsing for <span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">NLL</span>-2015
+  url: https://www.aclweb.org/anthology/K15-2015
+  year: '2015'

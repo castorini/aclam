@@ -1,0 +1,2579 @@
+E06-1000:
+  address: Trento, Italy
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Diana McCarthy, Shuly Wintner
+  bibkey: eacl-2006-european
+  bibtype: proceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  month: April
+  paper_id: '0'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1000.jpg
+  title: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  title_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/E06-1000
+  year: '2006'
+E06-1001:
+  address: Trento, Italy
+  author:
+  - first: Mark
+    full: Mark McConville
+    id: mark-mcconville
+    last: McConville
+  author_string: Mark McConville
+  bibkey: mcconville-2006-inheritance
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '1'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1001.jpg
+  title: Inheritance and the CCG Lexicon
+  title_html: Inheritance and the <span class="acl-fixed-case">CCG</span> Lexicon
+  url: https://www.aclweb.org/anthology/E06-1001
+  year: '2006'
+E06-1002:
+  address: Trento, Italy
+  author:
+  - first: Razvan
+    full: Razvan Bunescu
+    id: razvan-bunescu
+    last: Bunescu
+  - first: Marius
+    full: "Marius Pa\u015Fca"
+    id: marius-pasca
+    last: "Pa\u015Fca"
+  author_string: "Razvan Bunescu, Marius Pa\u015Fca"
+  bibkey: bunescu-pasca-2006-using
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '2'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1002.jpg
+  title: Using Encyclopedic Knowledge for Named entity Disambiguation
+  title_html: Using Encyclopedic Knowledge for Named entity Disambiguation
+  url: https://www.aclweb.org/anthology/E06-1002
+  year: '2006'
+E06-1003:
+  address: Trento, Italy
+  author:
+  - first: Hristo
+    full: Hristo Tanev
+    id: hristo-tanev
+    last: Tanev
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  author_string: Hristo Tanev, Bernardo Magnini
+  bibkey: tanev-magnini-2006-weakly
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '3'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1003.jpg
+  title: Weakly Supervised Approaches for Ontology Population
+  title_html: Weakly Supervised Approaches for Ontology Population
+  url: https://www.aclweb.org/anthology/E06-1003
+  year: '2006'
+E06-1004:
+  address: Trento, Italy
+  author:
+  - first: Raghavendra Udupa
+    full: Raghavendra Udupa U.
+    id: raghavendra-udupa
+    last: U.
+  - first: Hemanta K.
+    full: Hemanta K. Maji
+    id: hemanta-k-maji
+    last: Maji
+  author_string: Raghavendra Udupa U., Hemanta K. Maji
+  bibkey: u-maji-2006-computational
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '4'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1004.jpg
+  title: Computational Complexity of Statistical Machine Translation
+  title_html: Computational Complexity of Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/E06-1004
+  year: '2006'
+E06-1005:
+  address: Trento, Italy
+  author:
+  - first: Evgeny
+    full: Evgeny Matusov
+    id: evgeny-matusov
+    last: Matusov
+  - first: Nicola
+    full: Nicola Ueffing
+    id: nicola-ueffing
+    last: Ueffing
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Evgeny Matusov, Nicola Ueffing, Hermann Ney
+  bibkey: matusov-etal-2006-computing
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '5'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1005.jpg
+  title: Computing Consensus Translation for Multiple Machine Translation Systems
+    Using Enhanced Hypothesis Alignment
+  title_html: Computing Consensus Translation for Multiple Machine Translation Systems
+    Using Enhanced Hypothesis Alignment
+  url: https://www.aclweb.org/anthology/E06-1005
+  year: '2006'
+E06-1006:
+  address: Trento, Italy
+  author:
+  - first: Mei
+    full: Mei Yang
+    id: mei-yang
+    last: Yang
+  - first: Katrin
+    full: Katrin Kirchhoff
+    id: katrin-kirchhoff
+    last: Kirchhoff
+  author_string: Mei Yang, Katrin Kirchhoff
+  bibkey: yang-kirchhoff-2006-phrase
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '6'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1006.jpg
+  title: Phrase-Based Backoff Models for Machine Translation of Highly Inflected Languages
+  title_html: Phrase-Based Backoff Models for Machine Translation of Highly Inflected
+    Languages
+  url: https://www.aclweb.org/anthology/E06-1006
+  year: '2006'
+E06-1007:
+  address: Trento, Italy
+  author:
+  - first: Christoph
+    full: "Christoph M\xFCller"
+    id: christoph-muller
+    last: "M\xFCller"
+  author_string: "Christoph M\xFCller"
+  bibkey: muller-2006-automatic
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '7'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1007.jpg
+  title: Automatic Detection of Nonreferential It in Spoken Multi-Party Dialog
+  title_html: Automatic Detection of Nonreferential It in Spoken Multi-Party Dialog
+  url: https://www.aclweb.org/anthology/E06-1007
+  year: '2006'
+E06-1008:
+  address: Trento, Italy
+  author:
+  - first: Rebecca
+    full: Rebecca Jonson
+    id: rebecca-jonson
+    last: Jonson
+  author_string: Rebecca Jonson
+  bibkey: jonson-2006-generating
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '8'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1008.jpg
+  title: Generating Statistical Language Models from Interpretation Grammars in Dialogue
+    Systems
+  title_html: Generating Statistical Language Models from Interpretation Grammars
+    in Dialogue Systems
+  url: https://www.aclweb.org/anthology/E06-1008
+  year: '2006'
+E06-1009:
+  address: Trento, Italy
+  author:
+  - first: Vera
+    full: Vera Demberg
+    id: vera-demberg
+    last: Demberg
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: Vera Demberg, Johanna D. Moore
+  bibkey: demberg-moore-2006-information
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '9'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1009.jpg
+  title: Information Presentation in Spoken Dialogue Systems
+  title_html: Information Presentation in Spoken Dialogue Systems
+  url: https://www.aclweb.org/anthology/E06-1009
+  year: '2006'
+E06-1010:
+  address: Trento, Italy
+  author:
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Joakim Nivre
+  bibkey: nivre-2006-constraints
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '10'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1010.jpg
+  title: Constraints on Non-Projective Dependency Parsing
+  title_html: Constraints on Non-Projective Dependency Parsing
+  url: https://www.aclweb.org/anthology/E06-1010
+  year: '2006'
+E06-1011:
+  address: Trento, Italy
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: Ryan McDonald, Fernando Pereira
+  bibkey: mcdonald-pereira-2006-online
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '11'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1011.jpg
+  title: Online Learning of Approximate Dependency Parsing Algorithms
+  title_html: Online Learning of Approximate Dependency Parsing Algorithms
+  url: https://www.aclweb.org/anthology/E06-1011
+  year: '2006'
+E06-1012:
+  address: Trento, Italy
+  author:
+  - first: "G\xFCl\u015Fen"
+    full: "G\xFCl\u015Fen Eryi\u01E7it"
+    id: gulsen-eryigit
+    last: "Eryi\u01E7it"
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  author_string: "G\xFCl\u015Fen Eryi\u01E7it, Kemal Oflazer"
+  bibkey: eryigit-oflazer-2006-statistical
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '12'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1012.jpg
+  title: Statistical Dependency Parsing for Turkish
+  title_html: Statistical Dependency Parsing for <span class="acl-fixed-case">T</span>urkish
+  url: https://www.aclweb.org/anthology/E06-1012
+  year: '2006'
+E06-1013:
+  address: Trento, Italy
+  author:
+  - first: Genevieve
+    full: Genevieve Gorrell
+    id: genevieve-gorrell
+    last: Gorrell
+  author_string: Genevieve Gorrell
+  bibkey: gorrell-2006-generalized
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '13'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1013.jpg
+  title: Generalized Hebbian Algorithm for Incremental Singular Value Decomposition
+    in Natural Language Processing
+  title_html: Generalized Hebbian Algorithm for Incremental Singular Value Decomposition
+    in Natural Language Processing
+  url: https://www.aclweb.org/anthology/E06-1013
+  year: '2006'
+E06-1014:
+  address: Trento, Italy
+  author:
+  - first: Ayman
+    full: Ayman Farahat
+    id: ayman-farahat
+    last: Farahat
+  - first: Francine
+    full: Francine Chen
+    id: francine-chen
+    last: Chen
+  author_string: Ayman Farahat, Francine Chen
+  bibkey: farahat-chen-2006-improving
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '14'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1014.jpg
+  title: Improving Probabilistic Latent Semantic Analysis with Principal Component
+    Analysis
+  title_html: Improving Probabilistic Latent Semantic Analysis with Principal Component
+    Analysis
+  url: https://www.aclweb.org/anthology/E06-1014
+  year: '2006'
+E06-1015:
+  address: Trento, Italy
+  author:
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  author_string: Alessandro Moschitti
+  bibkey: moschitti-2006-making
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '15'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1015.jpg
+  title: Making Tree Kernels Practical for Natural Language Learning
+  title_html: Making Tree Kernels Practical for Natural Language Learning
+  url: https://www.aclweb.org/anthology/E06-1015
+  year: '2006'
+E06-1016:
+  address: Trento, Italy
+  author:
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Saif Mohammad, Graeme Hirst
+  bibkey: mohammad-hirst-2006-determining
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '16'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1016.jpg
+  title: Determining Word Sense Dominance Using a Thesaurus
+  title_html: Determining Word Sense Dominance Using a Thesaurus
+  url: https://www.aclweb.org/anthology/E06-1016
+  year: '2006'
+E06-1017:
+  address: Trento, Italy
+  author:
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  author_string: Roberto Navigli
+  bibkey: navigli-2006-experiments
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '17'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1017.jpg
+  title: Experiments on the Validation of Sense Annotations Assisted by Lexical Chains
+  title_html: Experiments on the Validation of Sense Annotations Assisted by Lexical
+    Chains
+  url: https://www.aclweb.org/anthology/E06-1017
+  year: '2006'
+E06-1018:
+  address: Trento, Italy
+  author:
+  - first: Stefan
+    full: Stefan Bordag
+    id: stefan-bordag
+    last: Bordag
+  author_string: Stefan Bordag
+  bibkey: bordag-2006-word
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '18'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1018.jpg
+  title: 'Word Sense Induction: Triplet-Based Clustering and Automatic Evaluation'
+  title_html: 'Word Sense Induction: Triplet-Based Clustering and Automatic Evaluation'
+  url: https://www.aclweb.org/anthology/E06-1018
+  year: '2006'
+E06-1019:
+  address: Trento, Italy
+  author:
+  - first: Colin
+    full: Colin Cherry
+    id: colin-cherry
+    last: Cherry
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Colin Cherry, Dekang Lin
+  bibkey: cherry-lin-2006-comparison
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '19'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1019.jpg
+  title: A Comparison of Syntactically Motivated Word Alignment Spaces
+  title_html: A Comparison of Syntactically Motivated Word Alignment Spaces
+  url: https://www.aclweb.org/anthology/E06-1019
+  year: '2006'
+E06-1020:
+  address: Trento, Italy
+  author:
+  - first: Dan
+    full: "Dan Tufi\u015F"
+    id: dan-tufis
+    last: "Tufi\u015F"
+  - first: Radu
+    full: Radu Ion
+    id: radu-ion
+    last: Ion
+  - first: Alexandru
+    full: "Alexandru Ceau\u015Fu"
+    id: alexandru-ceausu
+    last: "Ceau\u015Fu"
+  - first: Dan
+    full: "Dan \u015Etef\u0103nescu"
+    id: dan-stefanescu
+    last: "\u015Etef\u0103nescu"
+  author_string: "Dan Tufi\u015F, Radu Ion, Alexandru Ceau\u015Fu, Dan \u015Etef\u0103\
+    nescu"
+  bibkey: tufis-etal-2006-improved
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '20'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1020.jpg
+  title: Improved Lexical Alignment by Combining Multiple Reified Alignments
+  title_html: Improved Lexical Alignment by Combining Multiple Reified Alignments
+  url: https://www.aclweb.org/anthology/E06-1020
+  year: '2006'
+E06-1021:
+  address: Trento, Italy
+  author:
+  - first: Rani
+    full: Rani Nelken
+    id: rani-nelken
+    last: Nelken
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  author_string: Rani Nelken, Stuart M. Shieber
+  bibkey: nelken-shieber-2006-towards
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '21'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1021.jpg
+  title: Towards Robust Context-Sensitive Sentence Alignment for Monolingual Corpora
+  title_html: Towards Robust Context-Sensitive Sentence Alignment for Monolingual
+    Corpora
+  url: https://www.aclweb.org/anthology/E06-1021
+  year: '2006'
+E06-1022:
+  address: Trento, Italy
+  author:
+  - first: Natasa
+    full: Natasa Jovanovic
+    id: natasa-jovanovic
+    last: Jovanovic
+  - first: Rieks
+    full: Rieks op den Akker
+    id: rieks-op-den-akker
+    last: op den Akker
+  - first: Anton
+    full: Anton Nijholt
+    id: anton-nijholt
+    last: Nijholt
+  author_string: Natasa Jovanovic, Rieks op den Akker, Anton Nijholt
+  bibkey: jovanovic-etal-2006-addressee
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '22'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1022.jpg
+  title: Addressee Identification in Face-to-Face Meetings
+  title_html: Addressee Identification in Face-to-Face Meetings
+  url: https://www.aclweb.org/anthology/E06-1022
+  year: '2006'
+E06-1023:
+  address: Trento, Italy
+  author:
+  - first: Kotaro
+    full: Kotaro Funakoshi
+    id: kotaro-funakoshi
+    last: Funakoshi
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  author_string: Kotaro Funakoshi, Takenobu Tokunaga
+  bibkey: funakoshi-tokunaga-2006-identifying
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '23'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1023.jpg
+  title: Identifying Repair Targets in Action Control Dialogue
+  title_html: Identifying Repair Targets in Action Control Dialogue
+  url: https://www.aclweb.org/anthology/E06-1023
+  year: '2006'
+E06-1024:
+  address: Trento, Italy
+  author:
+  - first: Kerstin
+    full: Kerstin Fischer
+    id: kerstin-fischer
+    last: Fischer
+  - first: John A.
+    full: John A. Bateman
+    id: john-bateman
+    last: Bateman
+  author_string: Kerstin Fischer, John A. Bateman
+  bibkey: fischer-bateman-2006-keeping
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '24'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1024.jpg
+  title: 'Keeping the Initiative: An Empirically-Motivated Approach to Predicting
+    User-Initiated Dialogue Contribution in HCI'
+  title_html: 'Keeping the Initiative: An Empirically-Motivated Approach to Predicting
+    User-Initiated Dialogue Contribution in <span class="acl-fixed-case">HCI</span>'
+  url: https://www.aclweb.org/anthology/E06-1024
+  year: '2006'
+E06-1025:
+  address: Trento, Italy
+  author:
+  - first: Andrea
+    full: Andrea Esuli
+    id: andrea-esuli
+    last: Esuli
+  - first: Fabrizio
+    full: Fabrizio Sebastiani
+    id: fabrizio-sebastiani
+    last: Sebastiani
+  author_string: Andrea Esuli, Fabrizio Sebastiani
+  bibkey: esuli-sebastiani-2006-determining
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '25'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1025.jpg
+  title: Determining Term Subjectivity and Term Orientation for Opinion Mining
+  title_html: Determining Term Subjectivity and Term Orientation for Opinion Mining
+  url: https://www.aclweb.org/anthology/E06-1025
+  year: '2006'
+E06-1026:
+  address: Trento, Italy
+  author:
+  - first: Hiroya
+    full: Hiroya Takamura
+    id: hiroya-takamura
+    last: Takamura
+  - first: Takashi
+    full: Takashi Inui
+    id: takashi-inui
+    last: Inui
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  author_string: Hiroya Takamura, Takashi Inui, Manabu Okumura
+  bibkey: takamura-etal-2006-latent
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '26'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1026.jpg
+  title: Latent Variable Models for Semantic Orientations of Phrases
+  title_html: Latent Variable Models for Semantic Orientations of Phrases
+  url: https://www.aclweb.org/anthology/E06-1026
+  year: '2006'
+E06-1027:
+  address: Trento, Italy
+  author:
+  - first: Alina
+    full: Alina Andreevskaia
+    id: alina-andreevskaia
+    last: Andreevskaia
+  - first: Sabine
+    full: Sabine Bergler
+    id: sabine-bergler
+    last: Bergler
+  author_string: Alina Andreevskaia, Sabine Bergler
+  bibkey: andreevskaia-bergler-2006-mining
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '27'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1027.jpg
+  title: 'Mining WordNet for a Fuzzy Sentiment: Sentiment Tag Extraction from WordNet
+    Glosses'
+  title_html: 'Mining <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et
+    for a Fuzzy Sentiment: Sentiment Tag Extraction from <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et Glosses'
+  url: https://www.aclweb.org/anthology/E06-1027
+  year: '2006'
+E06-1028:
+  address: Trento, Italy
+  author:
+  - first: Massimiliano
+    full: Massimiliano Ciaramita
+    id: massimiliano-ciaramita
+    last: Ciaramita
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  author_string: Massimiliano Ciaramita, Marco Baroni
+  bibkey: ciaramita-baroni-2006-figure
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '28'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1028.jpg
+  title: A Figure of Merit for the Evaluation of Web-Corpus Randomness
+  title_html: A Figure of Merit for the Evaluation of Web-Corpus Randomness
+  url: https://www.aclweb.org/anthology/E06-1028
+  year: '2006'
+E06-1029:
+  address: Trento, Italy
+  author:
+  - first: Xavier
+    full: Xavier Robitaille
+    id: xavier-robitaille
+    last: Robitaille
+  - first: Yasuhiro
+    full: Yasuhiro Sasaki
+    id: yasuhiro-sasaki
+    last: Sasaki
+  - first: Masatsugu
+    full: Masatsugu Tonoike
+    id: masatsugu-tonoike
+    last: Tonoike
+  - first: Satoshi
+    full: Satoshi Sato
+    id: satoshi-sato
+    last: Sato
+  - first: Takehito
+    full: Takehito Utsuro
+    id: takehito-utsuro
+    last: Utsuro
+  author_string: Xavier Robitaille, Yasuhiro Sasaki, Masatsugu Tonoike, Satoshi Sato,
+    Takehito Utsuro
+  bibkey: robitaille-etal-2006-compiling
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '29'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1029.jpg
+  title: Compiling French-Japanese Terminologies from the Web
+  title_html: Compiling <span class="acl-fixed-case">F</span>rench-<span class="acl-fixed-case">J</span>apanese
+    Terminologies from the Web
+  url: https://www.aclweb.org/anthology/E06-1029
+  year: '2006'
+E06-1030:
+  address: Trento, Italy
+  author:
+  - first: Vinci
+    full: Vinci Liu
+    id: vinci-liu
+    last: Liu
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: Vinci Liu, James R. Curran
+  bibkey: liu-curran-2006-web
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '30'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1030.jpg
+  title: Web Text Corpus for Natural Language Processing
+  title_html: Web Text Corpus for Natural Language Processing
+  url: https://www.aclweb.org/anthology/E06-1030
+  year: '2006'
+E06-1031:
+  address: Trento, Italy
+  author:
+  - first: Gregor
+    full: Gregor Leusch
+    id: gregor-leusch
+    last: Leusch
+  - first: Nicola
+    full: Nicola Ueffing
+    id: nicola-ueffing
+    last: Ueffing
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Gregor Leusch, Nicola Ueffing, Hermann Ney
+  bibkey: leusch-etal-2006-cder
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '31'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1031.jpg
+  title: 'CDER: Efficient MT Evaluation Using Block Movements'
+  title_html: '<span class="acl-fixed-case">CDER</span>: Efficient <span class="acl-fixed-case">MT</span>
+    Evaluation Using Block Movements'
+  url: https://www.aclweb.org/anthology/E06-1031
+  year: '2006'
+E06-1032:
+  address: Trento, Italy
+  author:
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  author_string: Chris Callison-Burch, Miles Osborne, Philipp Koehn
+  bibkey: callison-burch-etal-2006-evaluating
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '32'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1032.jpg
+  title: Re-evaluating the Role of Bleu in Machine Translation Research
+  title_html: Re-evaluating the Role of <span class="acl-fixed-case">B</span>leu in
+    Machine Translation Research
+  url: https://www.aclweb.org/anthology/E06-1032
+  year: '2006'
+E06-1033:
+  address: Trento, Italy
+  author:
+  - first: Burcu
+    full: Burcu Karagol-Ayan
+    id: burcu-karagol-ayan
+    last: Karagol-Ayan
+  - first: David
+    full: David Doermann
+    id: david-doermann
+    last: Doermann
+  - first: Amy
+    full: Amy Weinberg
+    id: amy-weinberg
+    last: Weinberg
+  author_string: Burcu Karagol-Ayan, David Doermann, Amy Weinberg
+  bibkey: karagol-ayan-etal-2006-adaptive
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '33'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1033.jpg
+  title: Adaptive Transformation-Based Learning for Improving Dictionary Tagging
+  title_html: Adaptive Transformation-Based Learning for Improving Dictionary Tagging
+  url: https://www.aclweb.org/anthology/E06-1033
+  year: '2006'
+E06-1034:
+  address: Trento, Italy
+  author:
+  - first: Markus
+    full: Markus Dickinson
+    id: markus-dickinson
+    last: Dickinson
+  author_string: Markus Dickinson
+  bibkey: dickinson-2006-detecting
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '34'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1034.jpg
+  title: From Detecting Errors to Automatically Correcting Them
+  title_html: From Detecting Errors to Automatically Correcting Them
+  url: https://www.aclweb.org/anthology/E06-1034
+  year: '2006'
+E06-1035:
+  address: Trento, Italy
+  author:
+  - first: Pei-Yun
+    full: Pei-Yun Hsueh
+    id: pei-yun-hsueh
+    last: Hsueh
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  - first: Steve
+    full: Steve Renals
+    id: steve-renals
+    last: Renals
+  author_string: Pei-Yun Hsueh, Johanna D. Moore, Steve Renals
+  bibkey: hsueh-etal-2006-automatic
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '35'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1035.jpg
+  title: Automatic Segmentation of Multiparty Dialogue
+  title_html: Automatic Segmentation of Multiparty Dialogue
+  url: https://www.aclweb.org/anthology/E06-1035
+  year: '2006'
+E06-1036:
+  address: Trento, Italy
+  author:
+  - first: Marie
+    full: "Marie Gu\xE9gan"
+    id: marie-guegan
+    last: "Gu\xE9gan"
+  - first: Nicolas
+    full: Nicolas Hernandez
+    id: nicolas-hernandez
+    last: Hernandez
+  author_string: "Marie Gu\xE9gan, Nicolas Hernandez"
+  bibkey: guegan-hernandez-2006-recognizing
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '36'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1036.jpg
+  title: Recognizing Textual Parallelisms with Edit Distance and Similarity Degree
+  title_html: Recognizing Textual Parallelisms with Edit Distance and Similarity Degree
+  url: https://www.aclweb.org/anthology/E06-1036
+  year: '2006'
+E06-1037:
+  address: Trento, Italy
+  author:
+  - first: Joel R.
+    full: Joel R. Tetreault
+    id: joel-tetreault
+    last: Tetreault
+  - first: Diane J.
+    full: Diane J. Litman
+    id: diane-litman
+    last: Litman
+  author_string: Joel R. Tetreault, Diane J. Litman
+  bibkey: tetreault-litman-2006-using
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '37'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1037.jpg
+  title: Using Reinforcement Learning to Build a Better Model of Dialogue State
+  title_html: Using Reinforcement Learning to Build a Better Model of Dialogue State
+  url: https://www.aclweb.org/anthology/E06-1037
+  year: '2006'
+E06-1038:
+  address: Trento, Italy
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  author_string: Ryan McDonald
+  bibkey: mcdonald-2006-discriminative
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '38'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1038.jpg
+  title: Discriminative Sentence Compression with Soft Syntactic Evidence
+  title_html: Discriminative Sentence Compression with Soft Syntactic Evidence
+  url: https://www.aclweb.org/anthology/E06-1038
+  year: '2006'
+E06-1039:
+  address: Trento, Italy
+  author:
+  - first: Giuseppe
+    full: Giuseppe Carenini
+    id: giuseppe-carenini
+    last: Carenini
+  - first: Raymond
+    full: Raymond Ng
+    id: raymond-ng
+    last: Ng
+  - first: Adam
+    full: Adam Pauls
+    id: adam-pauls
+    last: Pauls
+  author_string: Giuseppe Carenini, Raymond Ng, Adam Pauls
+  bibkey: carenini-etal-2006-multi
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '39'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1039.jpg
+  title: Multi-Document Summarization of Evaluative Text
+  title_html: Multi-Document Summarization of Evaluative Text
+  url: https://www.aclweb.org/anthology/E06-1039
+  year: '2006'
+E06-1040:
+  address: Trento, Italy
+  author:
+  - first: Anja
+    full: Anja Belz
+    id: anja-belz
+    last: Belz
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  author_string: Anja Belz, Ehud Reiter
+  bibkey: belz-reiter-2006-comparing
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '40'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1040.jpg
+  title: Comparing Automatic and Human Evaluation of NLG Systems
+  title_html: Comparing Automatic and Human Evaluation of <span class="acl-fixed-case">NLG</span>
+    Systems
+  url: https://www.aclweb.org/anthology/E06-1040
+  year: '2006'
+E06-1041:
+  address: Trento, Italy
+  author:
+  - first: Albert
+    full: Albert Gatt
+    id: albert-gatt
+    last: Gatt
+  author_string: Albert Gatt
+  bibkey: gatt-2006-structuring
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '41'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1041.jpg
+  title: 'Structuring Knowledge for Reference Generation: A Clustering Algorithm'
+  title_html: 'Structuring Knowledge for Reference Generation: A Clustering Algorithm'
+  url: https://www.aclweb.org/anthology/E06-1041
+  year: '2006'
+E06-1042:
+  address: Trento, Italy
+  author:
+  - first: Julia
+    full: Julia Birke
+    id: julia-birke
+    last: Birke
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  author_string: Julia Birke, Anoop Sarkar
+  bibkey: birke-sarkar-2006-clustering
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '42'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1042.jpg
+  title: A Clustering Approach for Nearly Unsupervised Recognition of Nonliteral Language
+  title_html: A Clustering Approach for Nearly Unsupervised Recognition of Nonliteral
+    Language
+  url: https://www.aclweb.org/anthology/E06-1042
+  year: '2006'
+E06-1043:
+  address: Trento, Italy
+  author:
+  - first: Afsaneh
+    full: Afsaneh Fazly
+    id: afsaneh-fazly
+    last: Fazly
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: Afsaneh Fazly, Suzanne Stevenson
+  bibkey: fazly-stevenson-2006-automatically
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '43'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1043.jpg
+  title: Automatically Constructing a Lexicon of Verb Phrase Idiomatic Combinations
+  title_html: Automatically Constructing a Lexicon of Verb Phrase Idiomatic Combinations
+  url: https://www.aclweb.org/anthology/E06-1043
+  year: '2006'
+E06-1044:
+  address: Trento, Italy
+  author:
+  - first: Ulrike
+    full: "Ulrike Pad\xF3"
+    id: ulrike-pado
+    last: "Pad\xF3"
+  - first: Matthew
+    full: Matthew Crocker
+    id: matthew-crocker
+    last: Crocker
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  author_string: "Ulrike Pad\xF3, Matthew Crocker, Frank Keller"
+  bibkey: pado-etal-2006-modelling
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '44'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1044.jpg
+  title: Modelling Semantic Role Pausibility in Human Sentence Processing
+  title_html: Modelling Semantic Role Pausibility in Human Sentence Processing
+  url: https://www.aclweb.org/anthology/E06-1044
+  year: '2006'
+E06-1045:
+  address: Trento, Italy
+  author:
+  - first: Mary Ellen
+    full: Mary Ellen Foster
+    id: mary-ellen-foster
+    last: Foster
+  - first: Jon
+    full: Jon Oberlander
+    id: jon-oberlander
+    last: Oberlander
+  author_string: Mary Ellen Foster, Jon Oberlander
+  bibkey: foster-oberlander-2006-data
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '45'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1045.jpg
+  title: Data-Driven Generation of Emphatic Facial Displays
+  title_html: Data-Driven Generation of Emphatic Facial Displays
+  url: https://www.aclweb.org/anthology/E06-1045
+  year: '2006'
+E06-1046:
+  address: Trento, Italy
+  author:
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: Michael
+    full: Michael Johnston
+    id: michael-johnston
+    last: Johnston
+  author_string: Srinivas Bangalore, Michael Johnston
+  bibkey: bangalore-johnston-2006-edit
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '46'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1046.jpg
+  title: Edit Machines for Robust Multimodal Language Processing
+  title_html: Edit Machines for Robust Multimodal Language Processing
+  url: https://www.aclweb.org/anthology/E06-1046
+  year: '2006'
+E06-1047:
+  address: Trento, Italy
+  author:
+  - first: David
+    full: David Chiang
+    id: david-chiang
+    last: Chiang
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: Safiullah
+    full: Safiullah Shareef
+    id: safiullah-shareef
+    last: Shareef
+  author_string: David Chiang, Mona Diab, Nizar Habash, Owen Rambow, Safiullah Shareef
+  bibkey: chiang-etal-2006-parsing
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '47'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1047.jpg
+  title: Parsing Arabic Dialects
+  title_html: Parsing <span class="acl-fixed-case">A</span>rabic Dialects
+  url: https://www.aclweb.org/anthology/E06-1047
+  year: '2006'
+E06-1048:
+  address: Trento, Italy
+  author:
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  author_string: Stuart M. Shieber
+  bibkey: shieber-2006-unifying
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '48'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1048.jpg
+  title: Unifying Synchronous Tree Adjoining Grammars and Tree Transducers via Bimorphisms
+  title_html: Unifying Synchronous Tree Adjoining Grammars and Tree Transducers via
+    Bimorphisms
+  url: https://www.aclweb.org/anthology/E06-1048
+  year: '2006'
+E06-1049:
+  address: Trento, Italy
+  author:
+  - first: Anders
+    full: Anders Berglund
+    id: anders-berglund
+    last: Berglund
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  - first: Pierre
+    full: Pierre Nugues
+    id: pierre-nugues
+    last: Nugues
+  author_string: Anders Berglund, Richard Johansson, Pierre Nugues
+  bibkey: berglund-etal-2006-machine
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '49'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1049.jpg
+  title: A Machine Learning Approach to Extract Temporal Information from Texts in
+    Swedish and Generate Animated 3D Scenes
+  title_html: A Machine Learning Approach to Extract Temporal Information from Texts
+    in <span class="acl-fixed-case">S</span>wedish and Generate Animated 3<span class="acl-fixed-case">D</span>
+    Scenes
+  url: https://www.aclweb.org/anthology/E06-1049
+  year: '2006'
+E06-1050:
+  address: Trento, Italy
+  author:
+  - first: Christopher
+    full: Christopher Pinchak
+    id: christopher-pinchak
+    last: Pinchak
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Christopher Pinchak, Dekang Lin
+  bibkey: pinchak-lin-2006-probabilistic
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '50'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1050.jpg
+  title: A Probabilistic Answer Type Model
+  title_html: A Probabilistic Answer Type Model
+  url: https://www.aclweb.org/anthology/E06-1050
+  year: '2006'
+E06-1051:
+  address: Trento, Italy
+  author:
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  - first: Alberto
+    full: Alberto Lavelli
+    id: alberto-lavelli
+    last: Lavelli
+  - first: Lorenza
+    full: Lorenza Romano
+    id: lorenza-romano
+    last: Romano
+  author_string: Claudio Giuliano, Alberto Lavelli, Lorenza Romano
+  bibkey: giuliano-etal-2006-exploiting
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '51'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1051.jpg
+  title: Exploiting Shallow Linguistic Information for Relation Extraction from Biomedical
+    Literature
+  title_html: Exploiting Shallow Linguistic Information for Relation Extraction from
+    Biomedical Literature
+  url: https://www.aclweb.org/anthology/E06-1051
+  year: '2006'
+E06-1052:
+  address: Trento, Italy
+  author:
+  - first: Lorenza
+    full: Lorenza Romano
+    id: lorenza-romano
+    last: Romano
+  - first: Milen
+    full: Milen Kouylekov
+    id: milen-kouylekov
+    last: Kouylekov
+  - first: Idan
+    full: Idan Szpektor
+    id: idan-szpektor
+    last: Szpektor
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Alberto
+    full: Alberto Lavelli
+    id: alberto-lavelli
+    last: Lavelli
+  author_string: Lorenza Romano, Milen Kouylekov, Idan Szpektor, Ido Dagan, Alberto
+    Lavelli
+  bibkey: romano-etal-2006-investigating
+  bibtype: inproceedings
+  booktitle: 11th Conference of the European Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 11th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '52'
+  parent_volume_id: E06-1
+  pdf: https://www.aclweb.org/anthology/E06-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-1052.jpg
+  title: Investigating a Generic Paraphrase-Based Approach for Relation Extraction
+  title_html: Investigating a Generic Paraphrase-Based Approach for Relation Extraction
+  url: https://www.aclweb.org/anthology/E06-1052
+  year: '2006'
+E06-2000:
+  bibkey: eacl-2006-demonstrations
+  bibtype: proceedings
+  booktitle: Demonstrations
+  paper_id: '0'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2000.jpg
+  title: Demonstrations
+  title_html: Demonstrations
+  url: https://www.aclweb.org/anthology/E06-2000
+  year: '2006'
+E06-2001:
+  author:
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  - first: Adam
+    full: Adam Kilgarriff
+    id: adam-kilgarriff
+    last: Kilgarriff
+  author_string: Marco Baroni, Adam Kilgarriff
+  bibkey: baroni-kilgarriff-2006-large
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '1'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2001.jpg
+  title: Large Linguistically-Processed Web Corpora for Multiple Languages
+  title_html: Large Linguistically-Processed Web Corpora for Multiple Languages
+  url: https://www.aclweb.org/anthology/E06-2001
+  year: '2006'
+E06-2002:
+  author:
+  - first: Roldano
+    full: Roldano Cattoni
+    id: roldano-cattoni
+    last: Cattoni
+  - first: Nicola
+    full: Nicola Bertoldi
+    id: nicola-bertoldi
+    last: Bertoldi
+  - first: Mauro
+    full: Mauro Cettolo
+    id: mauro-cettolo
+    last: Cettolo
+  - first: Boxing
+    full: Boxing Chen
+    id: boxing-chen
+    last: Chen
+  - first: Marcello
+    full: Marcello Federico
+    id: marcello-federico
+    last: Federico
+  author_string: Roldano Cattoni, Nicola Bertoldi, Mauro Cettolo, Boxing Chen, Marcello
+    Federico
+  bibkey: cattoni-etal-2006-web
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '2'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2002.jpg
+  title: A Web-based Demonstrator of a Multi-lingual Phrase-based Translation System
+  title_html: A Web-based Demonstrator of a Multi-lingual Phrase-based Translation
+    System
+  url: https://www.aclweb.org/anthology/E06-2002
+  year: '2006'
+E06-2003:
+  author:
+  - first: "Fr\xE9d\xE9rik"
+    full: "Fr\xE9d\xE9rik Bilhaut"
+    id: frederik-bilhaut
+    last: Bilhaut
+  - first: Antoine
+    full: "Antoine Widl\xF6cher"
+    id: antoine-widlocher
+    last: "Widl\xF6cher"
+  author_string: "Fr\xE9d\xE9rik Bilhaut, Antoine Widl\xF6cher"
+  bibkey: bilhaut-widlocher-2006-linguastream
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '3'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2003.jpg
+  title: 'LinguaStream: An Integrated Environment for Computational Linguistics Experimentation'
+  title_html: '<span class="acl-fixed-case">L</span>ingua<span class="acl-fixed-case">S</span>tream:
+    An Integrated Environment for Computational Linguistics Experimentation'
+  url: https://www.aclweb.org/anthology/E06-2003
+  year: '2006'
+E06-2004:
+  author:
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Xingkun
+    full: Xingkun Liu
+    id: xingkun-liu
+    last: Liu
+  author_string: Oliver Lemon, Xingkun Liu
+  bibkey: lemon-liu-2006-dude
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '4'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2004.jpg
+  title: 'DUDE: A Dialogue and Understanding Development Environment, Mapping Business
+    Process Models to Information State Update Dialogue Systems'
+  title_html: '<span class="acl-fixed-case">DUDE</span>: A Dialogue and Understanding
+    Development Environment, Mapping Business Process Models to Information State
+    Update Dialogue Systems'
+  url: https://www.aclweb.org/anthology/E06-2004
+  year: '2006'
+E06-2005:
+  author:
+  - first: Yannick
+    full: Yannick Parmentier
+    id: yannick-parmentier
+    last: Parmentier
+  - first: Joseph Le
+    full: Joseph Le Roux
+    id: joseph-le-roux
+    last: Roux
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Crabb\xE9"
+    id: benoit-crabbe
+    last: "Crabb\xE9"
+  author_string: "Yannick Parmentier, Joseph Le Roux, Beno\xEEt Crabb\xE9"
+  bibkey: parmentier-etal-2006-xmg
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '5'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2005.jpg
+  title: XMG - An Expressive Formalism for Describing Tree-Based Grammars
+  title_html: <span class="acl-fixed-case">XMG</span> - An Expressive Formalism for
+    Describing Tree-Based Grammars
+  url: https://www.aclweb.org/anthology/E06-2005
+  year: '2006'
+E06-2006:
+  author:
+  - first: Roberto
+    full: Roberto Navigli
+    id: roberto-navigli
+    last: Navigli
+  author_string: Roberto Navigli
+  bibkey: navigli-2006-online
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '6'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2006.jpg
+  title: Online Word Sense Disambiguation with Structural Semantic Interconnections
+  title_html: Online Word Sense Disambiguation with Structural Semantic Interconnections
+  url: https://www.aclweb.org/anthology/E06-2006
+  year: '2006'
+E06-2007:
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  - first: Anagha
+    full: Anagha Kulkarni
+    id: anagha-kulkarni
+    last: Kulkarni
+  author_string: Ted Pedersen, Anagha Kulkarni
+  bibkey: pedersen-kulkarni-2006-selecting
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '7'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2007.jpg
+  title: "Selecting the \u201CRight\u201D Number of Senses Based on Clustering Criterion\
+    \ Functions"
+  title_html: "Selecting the \u201CRight\u201D Number of Senses Based on Clustering\
+    \ Criterion Functions"
+  url: https://www.aclweb.org/anthology/E06-2007
+  year: '2006'
+E06-2008:
+  author:
+  - first: Karin
+    full: Karin Harbusch
+    id: karin-harbusch
+    last: Harbusch
+  - first: Gerard
+    full: Gerard Kempen
+    id: gerard-kempen
+    last: Kempen
+  author_string: Karin Harbusch, Gerard Kempen
+  bibkey: harbusch-kempen-2006-elleipo
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '8'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2008.jpg
+  title: "ELLEIPO: A Module that Computes Coordinative Ellipsis for Generators that\
+    \ Don\u2019t"
+  title_html: "<span class=\"acl-fixed-case\">ELLEIPO</span>: A Module that Computes\
+    \ Coordinative Ellipsis for Generators that Don\u2019t"
+  url: https://www.aclweb.org/anthology/E06-2008
+  year: '2006'
+E06-2009:
+  author:
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  - first: Kallirroi
+    full: Kallirroi Georgila
+    id: kallirroi-georgila
+    last: Georgila
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Matthew
+    full: Matthew Stuttle
+    id: matthew-stuttle
+    last: Stuttle
+  author_string: Oliver Lemon, Kallirroi Georgila, James Henderson, Matthew Stuttle
+  bibkey: lemon-etal-2006-isu
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '9'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2009.jpg
+  title: 'An ISU Dialogue System Exhibiting Reinforcement Learning of Dialogue Policies:
+    Generic Slot-Filling in the TALK In-car System'
+  title_html: 'An <span class="acl-fixed-case">ISU</span> Dialogue System Exhibiting
+    Reinforcement Learning of Dialogue Policies: Generic Slot-Filling in the <span
+    class="acl-fixed-case">TALK</span> In-car System'
+  url: https://www.aclweb.org/anthology/E06-2009
+  year: '2006'
+E06-2010:
+  author:
+  - first: Paul
+    full: Paul Buitelaar
+    id: paul-buitelaar
+    last: Buitelaar
+  - first: Thomas
+    full: Thomas Eigner
+    id: thomas-eigner
+    last: Eigner
+  - first: Greg
+    full: Greg Gul-rajani
+    id: greg-gul-rajani
+    last: Gul-rajani
+  - first: Alexander
+    full: Alexander Schutz
+    id: alexander-schutz
+    last: Schutz
+  - first: Melanie
+    full: Melanie Siegel
+    id: melanie-siegel
+    last: Siegel
+  - first: Nicolas
+    full: Nicolas Weber
+    id: nicolas-weber
+    last: Weber
+  - first: Philipp
+    full: Philipp Cimiano
+    id: philipp-cimiano
+    last: Cimiano
+  - first: "G\xFCnter"
+    full: "G\xFCnter Ladwig"
+    id: gunter-ladwig
+    last: Ladwig
+  - first: Matthias
+    full: Matthias Mantel
+    id: matthias-mantel
+    last: Mantel
+  - first: Honggang
+    full: Honggang Zhu
+    id: honggang-zhu
+    last: Zhu
+  author_string: "Paul Buitelaar, Thomas Eigner, Greg Gul-rajani, Alexander Schutz,\
+    \ Melanie Siegel, Nicolas Weber, Philipp Cimiano, G\xFCnter Ladwig, Matthias Mantel,\
+    \ Honggang Zhu"
+  bibkey: buitelaar-etal-2006-generating
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '10'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2010.jpg
+  title: Generating and Visualizing a Soccer Knowledge Base
+  title_html: Generating and Visualizing a Soccer Knowledge Base
+  url: https://www.aclweb.org/anthology/E06-2010
+  year: '2006'
+E06-2011:
+  author:
+  - first: "Lu\xEDs Fernando"
+    full: "Lu\xEDs Fernando Costa"
+    id: luis-fernando-costa
+    last: Costa
+  author_string: "Lu\xEDs Fernando Costa"
+  bibkey: costa-2006-esfinge
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '11'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2011.jpg
+  title: "Esfinge \u2014 a Question Answering System in the Web using the Web"
+  title_html: "<span class=\"acl-fixed-case\">E</span>sfinge \u2014 a Question Answering\
+    \ System in the Web using the Web"
+  url: https://www.aclweb.org/anthology/E06-2011
+  year: '2006'
+E06-2012:
+  author:
+  - first: Conrad
+    full: Conrad Chang
+    id: conrad-chang
+    last: Chang
+  - first: Lisa
+    full: Lisa Ferro
+    id: lisa-ferro
+    last: Ferro
+  - first: John
+    full: John Gibson
+    id: john-gibson
+    last: Gibson
+  - first: Janet
+    full: Janet Hitzeman
+    id: janet-hitzeman
+    last: Hitzeman
+  - first: Suzi
+    full: Suzi Lubar
+    id: suzi-lubar
+    last: Lubar
+  - first: Justin
+    full: Justin Palmer
+    id: justin-palmer
+    last: Palmer
+  - first: Sean
+    full: Sean Munson
+    id: sean-munson
+    last: Munson
+  - first: Marc
+    full: Marc Vilain
+    id: marc-vilain
+    last: Vilain
+  - first: Benjamin
+    full: Benjamin Wellner
+    id: ben-wellner
+    last: Wellner
+  author_string: Conrad Chang, Lisa Ferro, John Gibson, Janet Hitzeman, Suzi Lubar,
+    Justin Palmer, Sean Munson, Marc Vilain, Benjamin Wellner
+  bibkey: chang-etal-2006-maytag
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '12'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2012.jpg
+  title: 'Maytag: A Multi-Staged Approach to Identifying Complex Events in Textual
+    Data'
+  title_html: '<span class="acl-fixed-case">M</span>aytag: A Multi-Staged Approach
+    to Identifying Complex Events in Textual Data'
+  url: https://www.aclweb.org/anthology/E06-2012
+  year: '2006'
+E06-2013:
+  author:
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  - first: Pierre
+    full: Pierre Nugues
+    id: pierre-nugues
+    last: Nugues
+  author_string: Richard Johansson, Pierre Nugues
+  bibkey: johansson-nugues-2006-automatic
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '13'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2013.jpg
+  title: Automatic Annotation for All Semantic Layers in FrameNet
+  title_html: Automatic Annotation for All Semantic Layers in <span class="acl-fixed-case">F</span>rame<span
+    class="acl-fixed-case">N</span>et
+  url: https://www.aclweb.org/anthology/E06-2013
+  year: '2006'
+E06-2014:
+  author:
+  - first: Serge
+    full: Serge Sharoff
+    id: serge-sharoff
+    last: Sharoff
+  - first: Bogdan
+    full: Bogdan Babych
+    id: bogdan-babych
+    last: Babych
+  - first: Paul
+    full: Paul Rayson
+    id: paul-rayson
+    last: Rayson
+  - first: Olga
+    full: Olga Mudraya
+    id: olga-mudraya
+    last: Mudraya
+  - first: Scott
+    full: Scott Piao
+    id: scott-s-l-piao
+    last: Piao
+  author_string: Serge Sharoff, Bogdan Babych, Paul Rayson, Olga Mudraya, Scott Piao
+  bibkey: sharoff-etal-2006-assist
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '14'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2014.jpg
+  title: 'ASSIST: Automated Semantic Assistance for Translators'
+  title_html: '<span class="acl-fixed-case">ASSIST</span>: Automated Semantic Assistance
+    for Translators'
+  url: https://www.aclweb.org/anthology/E06-2014
+  year: '2006'
+E06-2015:
+  author:
+  - first: Simone Paolo
+    full: Simone Paolo Ponzetto
+    id: simone-paolo-ponzetto
+    last: Ponzetto
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Simone Paolo Ponzetto, Michael Strube
+  bibkey: ponzetto-strube-2006-semantic
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '15'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2015.jpg
+  title: Semantic Role Labeling for Coreference Resolution
+  title_html: Semantic Role Labeling for Coreference Resolution
+  url: https://www.aclweb.org/anthology/E06-2015
+  year: '2006'
+E06-2016:
+  author:
+  - first: Alfio Massimiliano
+    full: Alfio Massimiliano Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  author_string: Alfio Massimiliano Gliozzo
+  bibkey: gliozzo-2006-god
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '16'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2016.jpg
+  title: The GOD model
+  title_html: The <span class="acl-fixed-case">GOD</span> model
+  url: https://www.aclweb.org/anthology/E06-2016
+  year: '2006'
+E06-2017:
+  author:
+  - first: Irina
+    full: Irina Matveeva
+    id: irina-matveeva
+    last: Matveeva
+  - first: Gina-Anne
+    full: Gina-Anne Levow
+    id: gina-anne-levow
+    last: Levow
+  author_string: Irina Matveeva, Gina-Anne Levow
+  bibkey: matveeva-levow-2006-computing
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '17'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2017.jpg
+  title: Computing Term Translation Probabilities with Generalized Latent Semantic
+    Analysis
+  title_html: Computing Term Translation Probabilities with Generalized Latent Semantic
+    Analysis
+  url: https://www.aclweb.org/anthology/E06-2017
+  year: '2006'
+E06-2018:
+  author:
+  - first: Reinhard
+    full: Reinhard Rapp
+    id: reinhard-rapp
+    last: Rapp
+  author_string: Reinhard Rapp
+  bibkey: rapp-2006-exploring
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '18'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2018.jpg
+  title: Exploring the Sense Distributions of Homographs
+  title_html: Exploring the Sense Distributions of Homographs
+  url: https://www.aclweb.org/anthology/E06-2018
+  year: '2006'
+E06-2019:
+  author:
+  - first: Wen-Juan
+    full: Wen-Juan Hou
+    id: wen-juan-hou
+    last: Hou
+  - first: Chih
+    full: Chih Lee
+    id: chih-lee
+    last: Lee
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Wen-Juan Hou, Chih Lee, Hsin-Hsi Chen
+  bibkey: hou-etal-2006-classifying
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '19'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2019.jpg
+  title: Classifying Biological Full-Text Articles for Multi-Database Curation
+  title_html: Classifying Biological Full-Text Articles for Multi-Database Curation
+  url: https://www.aclweb.org/anthology/E06-2019
+  year: '2006'
+E06-2020:
+  author:
+  - first: Ross
+    full: Ross Turner
+    id: ross-turner
+    last: Turner
+  - first: Somayajulu
+    full: Somayajulu Sripada
+    id: somayajulu-sripada
+    last: Sripada
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  - first: Ian P
+    full: Ian P Davy
+    id: ian-p-davy
+    last: Davy
+  author_string: Ross Turner, Somayajulu Sripada, Ehud Reiter, Ian P Davy
+  bibkey: turner-etal-2006-generating
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '20'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2020.jpg
+  title: Generating Spatio-Temporal Descriptions in Pollen Forecasts
+  title_html: Generating Spatio-Temporal Descriptions in Pollen Forecasts
+  url: https://www.aclweb.org/anthology/E06-2020
+  year: '2006'
+E06-2021:
+  author:
+  - first: Dana
+    full: "Dana Dann\xE9lls"
+    id: dana-dannells
+    last: "Dann\xE9lls"
+  author_string: "Dana Dann\xE9lls"
+  bibkey: dannells-2006-automatic
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '21'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2021.jpg
+  title: Automatic Acronym Recognition
+  title_html: Automatic Acronym Recognition
+  url: https://www.aclweb.org/anthology/E06-2021
+  year: '2006'
+E06-2022:
+  author:
+  - first: Delphine
+    full: Delphine Bernhard
+    id: delphine-bernhard
+    last: Bernhard
+  author_string: Delphine Bernhard
+  bibkey: bernhard-2006-multilingual
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '22'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2022.jpg
+  title: Multilingual Term Extraction from Domain-specific Corpora Using Morphological
+    Structure
+  title_html: Multilingual Term Extraction from Domain-specific Corpora Using Morphological
+    Structure
+  url: https://www.aclweb.org/anthology/E06-2022
+  year: '2006'
+E06-2023:
+  author:
+  - first: Mohsen
+    full: Mohsen Arabsorkhi
+    id: mohsen-arabsorkhi
+    last: Arabsorkhi
+  - first: Mehrnoush
+    full: Mehrnoush Shamsfard
+    id: mehrnoush-shamsfard
+    last: Shamsfard
+  author_string: Mohsen Arabsorkhi, Mehrnoush Shamsfard
+  bibkey: arabsorkhi-shamsfard-2006-unsupervised
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '23'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2023.jpg
+  title: Unsupervised Discovery of Persian Morphemes
+  title_html: Unsupervised Discovery of <span class="acl-fixed-case">P</span>ersian
+    Morphemes
+  url: https://www.aclweb.org/anthology/E06-2023
+  year: '2006'
+E06-2024:
+  author:
+  - first: "Ant\xF3nio"
+    full: "Ant\xF3nio Branco"
+    id: antonio-branco
+    last: Branco
+  - first: "Jo\xE3o Ricardo"
+    full: "Jo\xE3o Ricardo Silva"
+    id: joao-silva
+    last: Silva
+  author_string: "Ant\xF3nio Branco, Jo\xE3o Ricardo Silva"
+  bibkey: branco-silva-2006-suite
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '24'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2024.jpg
+  title: 'A Suite of Shallow Processing Tools for Portuguese: LX-Suite'
+  title_html: 'A Suite of Shallow Processing Tools for <span class="acl-fixed-case">P</span>ortuguese:
+    <span class="acl-fixed-case">LX</span>-Suite'
+  url: https://www.aclweb.org/anthology/E06-2024
+  year: '2006'
+E06-2025:
+  author:
+  - first: Willem
+    full: Willem Zuidema
+    id: willem-zuidema
+    last: Zuidema
+  author_string: Willem Zuidema
+  bibkey: zuidema-2006-theoretical
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '25'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2025.jpg
+  title: Theoretical Evaluation of Estimation Methods for Data-Oriented Parsing
+  title_html: Theoretical Evaluation of Estimation Methods for Data-Oriented Parsing
+  url: https://www.aclweb.org/anthology/E06-2025
+  year: '2006'
+E06-2026:
+  author:
+  - first: Manfred
+    full: Manfred Klenner
+    id: manfred-klenner
+    last: Klenner
+  author_string: Manfred Klenner
+  bibkey: klenner-2006-grammatical
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '26'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2026.jpg
+  title: Grammatical Role Labeling with Integer Linear Programming
+  title_html: Grammatical Role Labeling with Integer Linear Programming
+  url: https://www.aclweb.org/anthology/E06-2026
+  year: '2006'
+E06-2027:
+  author:
+  - first: Patrizia
+    full: Patrizia Paggio
+    id: patrizia-paggio
+    last: Paggio
+  author_string: Patrizia Paggio
+  bibkey: paggio-2006-information
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '27'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2027.jpg
+  title: Information Structure and Pauses in a Corpus of Spoken Danish
+  title_html: Information Structure and Pauses in a Corpus of Spoken <span class="acl-fixed-case">D</span>anish
+  url: https://www.aclweb.org/anthology/E06-2027
+  year: '2006'
+E06-2028:
+  author:
+  - first: Davy
+    full: Davy Weissenbacher
+    id: davy-weissenbacher
+    last: Weissenbacher
+  author_string: Davy Weissenbacher
+  bibkey: weissenbacher-2006-bayesian
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '28'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2028.jpg
+  title: Bayesian Network, a Model for NLP?
+  title_html: <span class="acl-fixed-case">B</span>ayesian Network, a Model for <span
+    class="acl-fixed-case">NLP</span>?
+  url: https://www.aclweb.org/anthology/E06-2028
+  year: '2006'
+E06-2029:
+  author:
+  - first: Silvia
+    full: Silvia Quarteroni
+    id: silvia-quarteroni
+    last: Quarteroni
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  author_string: Silvia Quarteroni, Suresh Manandhar
+  bibkey: quarteroni-manandhar-2006-adaptivity
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '29'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2029.jpg
+  title: Adaptivity in Question Answering with User Modelling and a Dialogue Interface
+  title_html: Adaptivity in Question Answering with User Modelling and a Dialogue
+    Interface
+  url: https://www.aclweb.org/anthology/E06-2029
+  year: '2006'
+E06-2030:
+  author:
+  - first: Li
+    full: Li Zhang
+    id: li-zhang
+    last: Zhang
+  - first: John A.
+    full: John A. Barnden
+    id: john-barnden
+    last: Barnden
+  - first: Robert J.
+    full: Robert J. Hendley
+    id: robert-j-hendley
+    last: Hendley
+  - first: Alan M.
+    full: Alan M. Wallington
+    id: alan-wallington
+    last: Wallington
+  author_string: Li Zhang, John A. Barnden, Robert J. Hendley, Alan M. Wallington
+  bibkey: zhang-etal-2006-developments
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '30'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2030.jpg
+  title: Developments in Affect Detection in E-drama
+  title_html: Developments in Affect Detection in E-drama
+  url: https://www.aclweb.org/anthology/E06-2030
+  year: '2006'
+E06-2031:
+  author:
+  - first: Krisztian
+    full: Krisztian Balog
+    id: krisztian-balog
+    last: Balog
+  - first: Gilad
+    full: Gilad Mishne
+    id: gilad-mishne
+    last: Mishne
+  - first: Maarten
+    full: Maarten de Rijke
+    id: maarten-de-rijke
+    last: de Rijke
+  author_string: Krisztian Balog, Gilad Mishne, Maarten de Rijke
+  bibkey: balog-etal-2006-excited
+  bibtype: inproceedings
+  booktitle: Demonstrations
+  booktitle_html: Demonstrations
+  paper_id: '31'
+  parent_volume_id: E06-2
+  pdf: https://www.aclweb.org/anthology/E06-2031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-2031.jpg
+  title: Why Are They Excited? Identifying and Explaining Spikes in Blog Mood Levels
+  title_html: Why Are They Excited? Identifying and Explaining Spikes in Blog Mood
+    Levels
+  url: https://www.aclweb.org/anthology/E06-2031
+  year: '2006'
+E06-3000:
+  bibkey: eacl-2006-student
+  bibtype: proceedings
+  booktitle: Student Research Workshop
+  paper_id: '0'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3000.jpg
+  title: Student Research Workshop
+  title_html: Student Research Workshop
+  url: https://www.aclweb.org/anthology/E06-3000
+  year: '2006'
+E06-3001:
+  author:
+  - first: Darren
+    full: Darren Gergle
+    id: darren-gergle
+    last: Gergle
+  author_string: Darren Gergle
+  bibkey: gergle-2006-whats
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '1'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3001.jpg
+  title: "What\u2019s There to Talk About? A Multi-Modal Model of Referring Behavior\
+    \ in the Presence of Shared Visual Information"
+  title_html: "What\u2019s There to Talk About? A Multi-Modal Model of Referring Behavior\
+    \ in the Presence of Shared Visual Information"
+  url: https://www.aclweb.org/anthology/E06-3001
+  year: '2006'
+E06-3002:
+  author:
+  - first: Arjun
+    full: Arjun Karande
+    id: arjun-karande
+    last: Karande
+  author_string: Arjun Karande
+  bibkey: karande-2006-humour
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '2'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3002.jpg
+  title: What Humour Tells Us About Discourse Theories
+  title_html: What Humour Tells Us About Discourse Theories
+  url: https://www.aclweb.org/anthology/E06-3002
+  year: '2006'
+E06-3003:
+  author:
+  - first: Anna
+    full: Anna Kazantseva
+    id: anna-kazantseva
+    last: Kazantseva
+  author_string: Anna Kazantseva
+  bibkey: kazantseva-2006-approach
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '3'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3003.jpg
+  title: An Approach to Summarizing Short Stories
+  title_html: An Approach to Summarizing Short Stories
+  url: https://www.aclweb.org/anthology/E06-3003
+  year: '2006'
+E06-3004:
+  author:
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  author_string: Zornitsa Kozareva
+  bibkey: kozareva-2006-bootstrapping
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '4'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3004.jpg
+  title: Bootstrapping Named Entity Recognition with Automatically Generated Gazetteer
+    Lists
+  title_html: Bootstrapping Named Entity Recognition with Automatically Generated
+    Gazetteer Lists
+  url: https://www.aclweb.org/anthology/E06-3004
+  year: '2006'
+E06-3005:
+  author:
+  - first: Suzan
+    full: Suzan Verberne
+    id: suzan-verberne
+    last: Verberne
+  author_string: Suzan Verberne
+  bibkey: verberne-2006-developing
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '5'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3005.jpg
+  title: Developing an Approach for Why-Question Answering
+  title_html: Developing an Approach for Why-Question Answering
+  url: https://www.aclweb.org/anthology/E06-3005
+  year: '2006'
+E06-3006:
+  author:
+  - first: Ling
+    full: Ling Yin
+    id: ling-yin
+    last: Yin
+  author_string: Ling Yin
+  bibkey: yin-2006-two
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '6'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3006.jpg
+  title: A Two-Stage Approach to Retrieving Answers for How-To Questions
+  title_html: A Two-Stage Approach to Retrieving Answers for How-To Questions
+  url: https://www.aclweb.org/anthology/E06-3006
+  year: '2006'
+E06-3007:
+  author:
+  - first: Yo
+    full: Yo Sato
+    id: yo-sato
+    last: Sato
+  author_string: Yo Sato
+  bibkey: sato-2006-lexicalising
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '7'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3007.jpg
+  title: Lexicalising Word Order Constraints for Implemented Linearisation Grammar
+  title_html: Lexicalising Word Order Constraints for Implemented Linearisation Grammar
+  url: https://www.aclweb.org/anthology/E06-3007
+  year: '2006'
+E06-3008:
+  author:
+  - first: Lilja
+    full: "Lilja \xD8vrelid"
+    id: lilja-ovrelid
+    last: "\xD8vrelid"
+  author_string: "Lilja \xD8vrelid"
+  bibkey: ovrelid-2006-towards
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '8'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3008.jpg
+  title: Towards Robust Animacy Classification Using Morphosyntactic Distributional
+    Features
+  title_html: Towards Robust <span class="acl-fixed-case">A</span>nimacy Classification
+    Using Morphosyntactic Distributional Features
+  url: https://www.aclweb.org/anthology/E06-3008
+  year: '2006'
+E06-3009:
+  author:
+  - first: Yves
+    full: Yves Peirsman
+    id: yves-peirsman
+    last: Peirsman
+  author_string: Yves Peirsman
+  bibkey: peirsman-2006-example
+  bibtype: inproceedings
+  booktitle: Student Research Workshop
+  booktitle_html: Student Research Workshop
+  paper_id: '9'
+  parent_volume_id: E06-3
+  pdf: https://www.aclweb.org/anthology/E06-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/E06-3009.jpg
+  title: Example-Based Metonymy Recognition for Proper Nouns
+  title_html: Example-Based Metonymy Recognition for Proper Nouns
+  url: https://www.aclweb.org/anthology/E06-3009
+  year: '2006'

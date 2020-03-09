@@ -1,0 +1,1345 @@
+J17-1000:
+  bibkey: cl-2017-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  month: April
+  paper_id: '0'
+  parent_volume_id: J17-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1000.jpg
+  title: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  title_html: Computational Linguistics, Volume 43, Issue 1 - <span class="acl-fixed-case">A</span>pril
+    2017
+  year: '2017'
+J17-1001:
+  abstract: Although there has been much work in recent years on data-driven natural
+    language generation, little attention has been paid to the fine-grained interactions
+    that arise during microplanning between aggregation, surface realization, and
+    sentence segmentation. In this article, we propose a hybrid symbolic/statistical
+    approach to jointly model the constraints regulating these interactions. Our approach
+    integrates a small handwritten grammar, a statistical hypertagger, and a surface
+    realization algorithm. It is applied to the verbalization of knowledge base queries
+    and tested on 13 knowledge bases to demonstrate domain independence. We evaluate
+    our approach in several ways. A quantitative analysis shows that the hybrid approach
+    outperforms a purely symbolic approach in terms of both speed and coverage. Results
+    from a human study indicate that users find the output of this hybrid statistic/symbolic
+    system more fluent than both a template-based and a purely symbolic grammar-based
+    approach. Finally, we illustrate by means of examples that our approach can account
+    for various factors impacting aggregation, sentence segmentation, and surface
+    realization.
+  author:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Laura
+    full: Laura Perez-Beltrachini
+    id: laura-perez-beltrachini
+    last: Perez-Beltrachini
+  author_string: Claire Gardent, Laura Perez-Beltrachini
+  bibkey: gardent-perez-beltrachini-2017-statistical
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_a_00273
+  month: April
+  page_first: '1'
+  page_last: '30'
+  pages: "1\u201330"
+  paper_id: '1'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1001.jpg
+  title: A Statistical, Grammar-Based Approach to Microplanning
+  title_html: A Statistical, Grammar-Based Approach to Microplanning
+  url: https://www.aclweb.org/anthology/J17-1001
+  year: '2017'
+J17-1002:
+  abstract: 'This article presents a new model for word sense disambiguation formulated
+    in terms of evolutionary game theory, where each word to be disambiguated is represented
+    as a node on a graph whose edges represent word relations and senses are represented
+    as classes. The words simultaneously update their class membership preferences
+    according to the senses that neighboring words are likely to choose. We use distributional
+    information to weigh the influence that each word has on the decisions of the
+    others and semantic similarity information to measure the strength of compatibility
+    among the choices. With this information we can formulate the word sense disambiguation
+    problem as a constraint satisfaction problem and solve it using tools derived
+    from game theory, maintaining the textual coherence. The model is based on two
+    ideas: Similar words should be assigned to similar classes and the meaning of
+    a word does not depend on all the words in a text but just on some of them. The
+    article provides an in-depth motivation of the idea of modeling the word sense
+    disambiguation problem in terms of game theory, which is illustrated by an example.
+    The conclusion presents an extensive analysis on the combination of similarity
+    measures to use in the framework and a comparison with state-of-the-art systems.
+    The results show that our model outperforms state-of-the-art algorithms and can
+    be applied to different tasks and in different scenarios.'
+  author:
+  - first: Rocco
+    full: Rocco Tripodi
+    id: rocco-tripodi
+    last: Tripodi
+  - first: Marcello
+    full: Marcello Pelillo
+    id: marcello-pelillo
+    last: Pelillo
+  author_string: Rocco Tripodi, Marcello Pelillo
+  bibkey: tripodi-pelillo-2017-game
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_a_00274
+  month: April
+  page_first: '31'
+  page_last: '70'
+  pages: "31\u201370"
+  paper_id: '2'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1002.jpg
+  title: A Game-Theoretic Approach to Word Sense Disambiguation
+  title_html: A Game-Theoretic Approach to Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/J17-1002
+  year: '2017'
+J17-1003:
+  abstract: "Highly frequent in language and communication, metaphor represents a\
+    \ significant challenge for Natural Language Processing (NLP) applications. Computational\
+    \ work on metaphor has traditionally evolved around the use of hand-coded knowledge,\
+    \ making the systems hard to scale. Recent years have witnessed a rise in statistical\
+    \ approaches to metaphor processing. However, these approaches often require extensive\
+    \ human annotation effort and are predominantly evaluated within a limited domain.\
+    \ In contrast, we experiment with weakly supervised and unsupervised techniques\u2014\
+    with little or no annotation\u2014to generalize higher-level mechanisms of metaphor\
+    \ from distributional properties of concepts. We investigate different levels\
+    \ and types of supervision (learning from linguistic examples vs. learning from\
+    \ a given set of metaphorical mappings vs. learning without annotation) in flat\
+    \ and hierarchical, unconstrained and constrained clustering settings. Our aim\
+    \ is to identify the optimal type of supervision for a learning algorithm that\
+    \ discovers patterns of metaphorical association from text. In order to investigate\
+    \ the scalability and adaptability of our models, we applied them to data in three\
+    \ languages from different language groups\u2014English, Spanish, and Russian\u2014\
+    achieving state-of-the-art results with little supervision. Finally, we demonstrate\
+    \ that statistical methods can facilitate and scale up cross-linguistic research\
+    \ on metaphor."
+  author:
+  - first: Ekaterina
+    full: Ekaterina Shutova
+    id: ekaterina-shutova
+    last: Shutova
+  - first: Lin
+    full: Lin Sun
+    id: lin-sun
+    last: Sun
+  - first: Elkin
+    full: "Elkin Dar\xEDo Guti\xE9rrez"
+    id: e-dario-gutierrez
+    last: "Dar\xEDo Guti\xE9rrez"
+  - first: Patricia
+    full: Patricia Lichtenstein
+    id: patricia-lichtenstein
+    last: Lichtenstein
+  - first: Srini
+    full: Srini Narayanan
+    id: srini-narayanan
+    last: Narayanan
+  author_string: "Ekaterina Shutova, Lin Sun, Elkin Dar\xEDo Guti\xE9rrez, Patricia\
+    \ Lichtenstein, Srini Narayanan"
+  bibkey: shutova-etal-2017-multilingual
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_a_00275
+  month: April
+  page_first: '71'
+  page_last: '123'
+  pages: "71\u2013123"
+  paper_id: '3'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1003.jpg
+  title: 'Multilingual Metaphor Processing: Experiments with Semi-Supervised and Unsupervised
+    Learning'
+  title_html: 'Multilingual Metaphor Processing: Experiments with Semi-Supervised
+    and Unsupervised Learning'
+  url: https://www.aclweb.org/anthology/J17-1003
+  year: '2017'
+J17-1004:
+  abstract: "The goal of argumentation mining, an evolving research field in computational\
+    \ linguistics, is to design methods capable of analyzing people\u2019s argumentation.\
+    \ In this article, we go beyond the state of the art in several ways. (i) We deal\
+    \ with actual Web data and take up the challenges given by the variety of registers,\
+    \ multiple domains, and unrestricted noisy user-generated Web discourse. (ii)\
+    \ We bridge the gap between normative argumentation theories and argumentation\
+    \ phenomena encountered in actual data by adapting an argumentation model tested\
+    \ in an extensive annotation study. (iii) We create a new gold standard corpus\
+    \ (90k tokens in 340 documents) and experiment with several machine learning methods\
+    \ to identify argument components. We offer the data, source codes, and annotation\
+    \ guidelines to the community under free licenses. Our findings show that argumentation\
+    \ mining in user-generated Web discourse is a feasible but challenging task."
+  author:
+  - first: Ivan
+    full: Ivan Habernal
+    id: ivan-habernal
+    last: Habernal
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Ivan Habernal, Iryna Gurevych
+  bibkey: habernal-gurevych-2017-argumentation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_a_00276
+  month: April
+  page_first: '125'
+  page_last: '179'
+  pages: "125\u2013179"
+  paper_id: '4'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1004.jpg
+  title: Argumentation Mining in User-Generated Web Discourse
+  title_html: Argumentation Mining in User-Generated Web Discourse
+  url: https://www.aclweb.org/anthology/J17-1004
+  year: '2017'
+J17-1005:
+  abstract: Hashtags are creative labels used in micro-blogs to characterize the topic
+    of a message/discussion. Regardless of the use for which they were originally
+    intended, hashtags cannot be used as a means to cluster messages with similar
+    content. First, because hashtags are created in a spontaneous and highly dynamic
+    way by users in multiple languages, the same topic can be associated with different
+    hashtags, and conversely, the same hashtag may refer to different topics in different
+    time periods. Second, contrary to common words, hashtag disambiguation is complicated
+    by the fact that no sense catalogs (e.g., Wikipedia or WordNet) are available;
+    and, furthermore, hashtag labels are difficult to analyze, as they often consist
+    of acronyms, concatenated words, and so forth. A common way to determine the meaning
+    of hashtags has been to analyze their context, but, as we have just pointed out,
+    hashtags can have multiple and variable meanings. In this article, we propose
+    a temporal sense clustering algorithm based on the idea that semantically related
+    hashtags have similar and synchronous usage patterns.
+  author:
+  - first: Giovanni
+    full: Giovanni Stilo
+    id: giovanni-stilo
+    last: Stilo
+  - first: Paola
+    full: Paola Velardi
+    id: paola-velardi
+    last: Velardi
+  author_string: Giovanni Stilo, Paola Velardi
+  bibkey: stilo-velardi-2017-hashtag
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_a_00277
+  month: April
+  page_first: '181'
+  page_last: '200'
+  pages: "181\u2013200"
+  paper_id: '5'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1005.jpg
+  title: Hashtag Sense Clustering Based on Temporal Similarity
+  title_html: Hashtag Sense Clustering Based on Temporal Similarity
+  url: https://www.aclweb.org/anthology/J17-1005
+  year: '2017'
+J17-1006:
+  abstract: The study of evaluation, affect, and subjectivity is a multidisciplinary
+    enterprise, including sociology, psychology, economics, linguistics, and computer
+    science. A number of excellent computational linguistics and linguistic surveys
+    of the field exist. Most surveys, however, do not bring the two disciplines together
+    to show how methods from linguistics can benefit computational sentiment analysis
+    systems. In this survey, we show how incorporating linguistic insights, discourse
+    information, and other contextual phenomena, in combination with the statistical
+    exploitation of data, can result in an improvement over approaches that take advantage
+    of only one of these perspectives. We first provide a comprehensive introduction
+    to evaluative language from both a linguistic and computational perspective. We
+    then argue that the standard computational definition of the concept of evaluative
+    language neglects the dynamic nature of evaluation, in which the interpretation
+    of a given evaluation depends on linguistic and extra-linguistic contextual factors.
+    We thus propose a dynamic definition that incorporates update functions. The update
+    functions allow for different contextual aspects to be incorporated into the calculation
+    of sentiment for evaluative words or expressions, and can be applied at all levels
+    of discourse. We explore each level and highlight which linguistic aspects contribute
+    to accurate extraction of sentiment. We end the review by outlining what we believe
+    the future directions of sentiment analysis are, and the role that discourse and
+    contextual information need to play.
+  author:
+  - first: Farah
+    full: Farah Benamara
+    id: farah-benamara
+    last: Benamara
+  - first: Maite
+    full: Maite Taboada
+    id: maite-taboada
+    last: Taboada
+  - first: Yannick
+    full: Yannick Mathieu
+    id: yannick-mathieu
+    last: Mathieu
+  author_string: Farah Benamara, Maite Taboada, Yannick Mathieu
+  bibkey: benamara-etal-2017-evaluative
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_a_00278
+  month: April
+  page_first: '201'
+  page_last: '264'
+  pages: "201\u2013264"
+  paper_id: '6'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1006.jpg
+  title: 'Evaluative Language Beyond Bags of Words: Linguistic Insights and Computational
+    Applications'
+  title_html: 'Evaluative Language Beyond Bags of Words: Linguistic Insights and Computational
+    Applications'
+  url: https://www.aclweb.org/anthology/J17-1006
+  year: '2017'
+J17-1007:
+  author:
+  - first: Jin-Dong
+    full: Jin-Dong Kim
+    id: jin-dong-kim
+    last: Kim
+  author_string: Jin-Dong Kim
+  bibkey: kim-2017-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_r_00281
+  month: April
+  page_first: '265'
+  page_last: '267'
+  pages: "265\u2013267"
+  paper_id: '7'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1007.jpg
+  title: 'Book Review: Biomedical Natural Language Processing by Kevin Bretonnel Cohen
+    and Dina Demner-Fushman'
+  title_html: 'Book Review: Biomedical Natural Language Processing by Kevin Bretonnel
+    <span class="acl-fixed-case">C</span>ohen and Dina Demner-Fushman'
+  url: https://www.aclweb.org/anthology/J17-1007
+  year: '2017'
+J17-1008:
+  author:
+  - first: Yoong
+    full: Yoong Keok Lee
+    id: yoong-keok-lee
+    last: Keok Lee
+  author_string: Yoong Keok Lee
+  bibkey: keok-lee-2017-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 1 - April 2017
+  doi: 10.1162/COLI_r_00282
+  month: April
+  page_first: '269'
+  page_last: '271'
+  pages: "269\u2013271"
+  paper_id: '8'
+  parent_volume_id: J17-1
+  pdf: https://www.aclweb.org/anthology/J17-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-1008.jpg
+  title: 'Book Review: Automatic Detection of Verbal Deception by Eileen Fitzpatrick,
+    Joan Bachenko and Tommaso Fornaciari'
+  title_html: 'Book Review: Automatic Detection of Verbal Deception by Eileen Fitzpatrick,
+    Joan Bachenko and Tommaso Fornaciari'
+  url: https://www.aclweb.org/anthology/J17-1008
+  year: '2017'
+J17-2000:
+  bibkey: cl-2017-linguistics-43
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  month: June
+  paper_id: '0'
+  parent_volume_id: J17-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2000.jpg
+  title: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  title_html: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  year: '2017'
+J17-2001:
+  abstract: "Bilingual lexicon induction is the task of inducing word translations\
+    \ from monolingual corpora in two languages. In this article we present the most\
+    \ comprehensive analysis of bilingual lexicon induction to date. We present experiments\
+    \ on a wide range of languages and data sizes. We examine translation into English\
+    \ from 25 foreign languages: Albanian, Azeri, Bengali, Bosnian, Bulgarian, Cebuano,\
+    \ Gujarati, Hindi, Hungarian, Indonesian, Latvian, Nepali, Romanian, Serbian,\
+    \ Slovak, Somali, Spanish, Swedish, Tamil, Telugu, Turkish, Ukrainian, Uzbek,\
+    \ Vietnamese, and Welsh. We analyze the behavior of bilingual lexicon induction\
+    \ on low-frequency words, rather than testing solely on high-frequency words,\
+    \ as previous research has done. Low-frequency words are more relevant to statistical\
+    \ machine translation, where systems typically lack translations of rare words\
+    \ that fall outside of their training data. We systematically explore a wide range\
+    \ of features and phenomena that affect the quality of the translations discovered\
+    \ by bilingual lexicon induction. We provide illustrative examples of the highest\
+    \ ranking translations for orthogonal signals of translation equivalence like\
+    \ contextual similarity and temporal similarity. We analyze the effects of frequency\
+    \ and burstiness, and the sizes of the seed bilingual dictionaries and the monolingual\
+    \ training corpora. Additionally, we introduce a novel discriminative approach\
+    \ to bilingual lexicon induction. Our discriminative model is capable of combining\
+    \ a wide variety of features that individually provide only weak indications of\
+    \ translation equivalence. When feature weights are discriminatively set, these\
+    \ signals produce dramatically higher translation quality than previous approaches\
+    \ that combined signals in an unsupervised fashion (e.g., using minimum reciprocal\
+    \ rank). We also directly compare our model\u2019s performance against a sophisticated\
+    \ generative approach, the matching canonical correlation analysis (MCCA) algorithm\
+    \ used by Haghighi et al. (2008). Our algorithm achieves an accuracy of 42% versus\
+    \ MCCA\u2019s 15%."
+  author:
+  - first: Ann
+    full: Ann Irvine
+    id: ann-irvine
+    last: Irvine
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  author_string: Ann Irvine, Chris Callison-Burch
+  bibkey: irvine-callison-burch-2017-comprehensive
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_a_00284
+  month: June
+  page_first: '273'
+  page_last: '310'
+  pages: "273\u2013310"
+  paper_id: '1'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2001.jpg
+  title: A Comprehensive Analysis of Bilingual Lexicon Induction
+  title_html: A Comprehensive Analysis of Bilingual Lexicon Induction
+  url: https://www.aclweb.org/anthology/J17-2001
+  year: '2017'
+J17-2002:
+  abstract: "We introduce a greedy transition-based parser that learns to represent\
+    \ parser states using recurrent neural networks. Our primary innovation that enables\
+    \ us to do this efficiently is a new control structure for sequential neural networks\u2014\
+    the stack long short-term memory unit (LSTM). Like the conventional stack data\
+    \ structures used in transition-based parsers, elements can be pushed to or popped\
+    \ from the top of the stack in constant time, but, in addition, an LSTM maintains\
+    \ a continuous space embedding of the stack contents. Our model captures three\
+    \ facets of the parser\u2019s state: (i) unbounded look-ahead into the buffer\
+    \ of incoming words, (ii) the complete history of transition actions taken by\
+    \ the parser, and (iii) the complete contents of the stack of partially built\
+    \ tree fragments, including their internal structures. In addition, we compare\
+    \ two different word representations: (i) standard word vectors based on look-up\
+    \ tables and (ii) character-based models of words. Although standard word embedding\
+    \ models work well in all languages, the character-based models improve the handling\
+    \ of out-of-vocabulary words, particularly in morphologically rich languages.\
+    \ Finally, we discuss the use of dynamic oracles in training the parser. During\
+    \ training, dynamic oracles alternate between sampling parser states from the\
+    \ training data and from the model as it is being learned, making the model more\
+    \ robust to the kinds of errors that will be made at test time. Training our model\
+    \ with dynamic oracles yields a linear-time greedy parser with very competitive\
+    \ performance."
+  author:
+  - first: Miguel
+    full: Miguel Ballesteros
+    id: miguel-ballesteros
+    last: Ballesteros
+  - first: Chris
+    full: Chris Dyer
+    id: chris-dyer
+    last: Dyer
+  - first: Yoav
+    full: Yoav Goldberg
+    id: yoav-goldberg
+    last: Goldberg
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Miguel Ballesteros, Chris Dyer, Yoav Goldberg, Noah A. Smith
+  bibkey: ballesteros-etal-2017-greedy
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_a_00285
+  month: June
+  page_first: '311'
+  page_last: '347'
+  pages: "311\u2013347"
+  paper_id: '2'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2002.jpg
+  title: Greedy Transition-Based Dependency Parsing with Stack LSTMs
+  title_html: Greedy Transition-Based Dependency Parsing with Stack <span class="acl-fixed-case">LSTM</span>s
+  url: https://www.aclweb.org/anthology/J17-2002
+  year: '2017'
+J17-2003:
+  abstract: 'We present a generative model that efficiently mines transliteration
+    pairs in a consistent fashion in three different settings: unsupervised, semi-supervised,
+    and supervised transliteration mining. The model interpolates two sub-models,
+    one for the generation of transliteration pairs and one for the generation of
+    non-transliteration pairs (i.e., noise). The model is trained on noisy unlabeled
+    data using the EM algorithm. During training the transliteration sub-model learns
+    to generate transliteration pairs and the fixed non-transliteration model generates
+    the noise pairs. After training, the unlabeled data is disambiguated based on
+    the posterior probabilities of the two sub-models. We evaluate our transliteration
+    mining system on data from a transliteration mining shared task and on parallel
+    corpora. For three out of four language pairs, our system outperforms all semi-supervised
+    and supervised systems that participated in the NEWS 2010 shared task. On word
+    pairs extracted from parallel corpora with fewer than 2% transliteration pairs,
+    our system achieves up to 86.7% F-measure with 77.9% precision and 97.8% recall.'
+  author:
+  - first: Hassan
+    full: Hassan Sajjad
+    id: hassan-sajjad
+    last: Sajjad
+  - first: Helmut
+    full: Helmut Schmid
+    id: helmut-schmid
+    last: Schmid
+  - first: Alexander
+    full: Alexander Fraser
+    id: alexander-fraser
+    last: Fraser
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Hassan Sajjad, Helmut Schmid, Alexander Fraser, Hinrich Sch\xFC\
+    tze"
+  bibkey: sajjad-etal-2017-statistical
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_a_00286
+  month: June
+  page_first: '349'
+  page_last: '375'
+  pages: "349\u2013375"
+  paper_id: '3'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2003.jpg
+  title: Statistical Models for Unsupervised, Semi-Supervised Supervised Transliteration
+    Mining
+  title_html: Statistical Models for Unsupervised, Semi-Supervised Supervised Transliteration
+    Mining
+  url: https://www.aclweb.org/anthology/J17-2003
+  year: '2017'
+J17-2004:
+  abstract: "Alzheimer\u2019s disease (AD) is an increasingly prevalent cognitive\
+    \ disorder in which memory, language, and executive function deteriorate, usually\
+    \ in that order. There is a growing need to support individuals with AD and other\
+    \ forms of dementia in their daily lives, and our goal is to do so through speech-based\
+    \ interaction. Given that 33% of conversations with people with middle-stage AD\
+    \ involve a breakdown in communication, it is vital that automated dialogue systems\
+    \ be able to identify those breakdowns and, if possible, avoid them. In this article,\
+    \ we discuss several linguistic features that are verbal indicators of confusion\
+    \ in AD (including vocabulary richness, parse tree structures, and acoustic cues)\
+    \ and apply several machine learning algorithms to identify dialogue-relevant\
+    \ confusion from speech with up to 82% accuracy. We also learn dialogue strategies\
+    \ to avoid confusion in the first place, which is accomplished using a partially\
+    \ observable Markov decision process and which obtains accuracies (up to 96.1%)\
+    \ that are significantly higher than several baselines. This work represents a\
+    \ major step towards automated dialogue systems for individuals with dementia."
+  author:
+  - first: Hamidreza
+    full: Hamidreza Chinaei
+    id: hamidreza-chinaei
+    last: Chinaei
+  - first: Leila Chan
+    full: Leila Chan Currie
+    id: leila-chan-currie
+    last: Currie
+  - first: Andrew
+    full: Andrew Danks
+    id: andrew-danks
+    last: Danks
+  - first: Hubert
+    full: Hubert Lin
+    id: hubert-lin
+    last: Lin
+  - first: Tejas
+    full: Tejas Mehta
+    id: tejas-mehta
+    last: Mehta
+  - first: Frank
+    full: Frank Rudzicz
+    id: frank-rudzicz
+    last: Rudzicz
+  author_string: Hamidreza Chinaei, Leila Chan Currie, Andrew Danks, Hubert Lin, Tejas
+    Mehta, Frank Rudzicz
+  bibkey: chinaei-etal-2017-identifying
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_a_00290
+  month: June
+  page_first: '377'
+  page_last: '406'
+  pages: "377\u2013406"
+  paper_id: '4'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2004.jpg
+  title: "Identifying and Avoiding Confusion in Dialogue with People with Alzheimer\u2019\
+    s Disease"
+  title_html: "Identifying and Avoiding Confusion in Dialogue with People with <span\
+    \ class=\"acl-fixed-case\">A</span>lzheimer\u2019s Disease"
+  url: https://www.aclweb.org/anthology/J17-2004
+  year: '2017'
+J17-2005:
+  abstract: We propose a question answering (QA) approach for standardized science
+    exams that both identifies correct answers and produces compelling human-readable
+    justifications for why those answers are correct. Our method first identifies
+    the actual information needed in a question using psycholinguistic concreteness
+    norms, then uses this information need to construct answer justifications by aggregating
+    multiple sentences from different knowledge bases using syntactic and lexical
+    information. We then jointly rank answers and their justifications using a reranking
+    perceptron that treats justification quality as a latent variable. We evaluate
+    our method on 1,000 multiple-choice questions from elementary school science exams,
+    and empirically demonstrate that it performs better than several strong baselines,
+    including neural network approaches. Our best configuration answers 44% of the
+    questions correctly, where the top justifications for 57% of these correct answers
+    contain a compelling human-readable justification that explains the inference
+    required to arrive at the correct answer. We include a detailed characterization
+    of the justification quality for both our method and a strong baseline, and show
+    that information aggregation is key to addressing the information need in complex
+    questions.
+  author:
+  - first: Peter
+    full: Peter Jansen
+    id: peter-jansen
+    last: Jansen
+  - first: Rebecca
+    full: Rebecca Sharp
+    id: rebecca-sharp
+    last: Sharp
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Peter
+    full: Peter Clark
+    id: peter-clark
+    last: Clark
+  author_string: Peter Jansen, Rebecca Sharp, Mihai Surdeanu, Peter Clark
+  bibkey: jansen-etal-2017-framing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_a_00287
+  month: June
+  page_first: '407'
+  page_last: '449'
+  pages: "407\u2013449"
+  paper_id: '5'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2005.jpg
+  title: Framing QA as Building and Ranking Intersentence Answer Justifications
+  title_html: Framing <span class="acl-fixed-case">QA</span> as Building and Ranking
+    Intersentence Answer Justifications
+  url: https://www.aclweb.org/anthology/J17-2005
+  year: '2017'
+J17-2006:
+  abstract: Studies in referring expression generation (REG) have shown different
+    effects of referential overspecification on the resolution of certain descriptions.
+    To further investigate effects of this kind, this article reports two eye-tracking
+    experiments that measure the time required to recognize target objects based on
+    different kinds of information. Results suggest that referential overspecification
+    may be either helpful or detrimental to identification depending on the kind of
+    information that is actually overspecified, an insight that may be useful for
+    the design of more informed hearer-oriented REG algorithms.
+  author:
+  - first: "Ivandr\xE9"
+    full: "Ivandr\xE9 Paraboni"
+    id: ivandre-paraboni
+    last: Paraboni
+  - first: Alex Gwo Jen
+    full: Alex Gwo Jen Lan
+    id: alex-gwo-jen-lan
+    last: Lan
+  - first: Matheus Mendes de
+    full: "Matheus Mendes de Sant\u2019Ana"
+    id: matheus-mendes-de-santana
+    last: "Sant\u2019Ana"
+  - first: "Fl\xE1vio Luiz"
+    full: "Fl\xE1vio Luiz Coutinho"
+    id: flavio-luiz-coutinho
+    last: Coutinho
+  author_string: "Ivandr\xE9 Paraboni, Alex Gwo Jen Lan, Matheus Mendes de Sant\u2019\
+    Ana, Fl\xE1vio Luiz Coutinho"
+  bibkey: paraboni-etal-2017-squib
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_a_00288
+  month: June
+  page_first: '451'
+  page_last: '459'
+  pages: "451\u2013459"
+  paper_id: '6'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2006.jpg
+  title: 'Squib: Effects of Cognitive Effort on the Resolution of Overspecified Descriptions'
+  title_html: '<span class="acl-fixed-case">S</span>quib: Effects of Cognitive Effort
+    on the Resolution of Overspecified Descriptions'
+  url: https://www.aclweb.org/anthology/J17-2006
+  year: '2017'
+J17-2007:
+  author:
+  - first: Maud
+    full: Maud Ehrmann
+    id: maud-ehrmann
+    last: Ehrmann
+  author_string: Maud Ehrmann
+  bibkey: ehrmann-2017-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 2 - June 2017
+  doi: 10.1162/COLI_r_00289
+  month: June
+  page_first: '461'
+  page_last: '463'
+  pages: "461\u2013463"
+  paper_id: '7'
+  parent_volume_id: J17-2
+  pdf: https://www.aclweb.org/anthology/J17-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-2007.jpg
+  title: 'Book Review: Linked Lexical Knowledge Bases Foundations and Applications
+    by Iryna Gurevych, Judith Eckle-er and Michael Matuschek'
+  title_html: 'Book Review: Linked Lexical Knowledge Bases Foundations and Applications
+    by Iryna <span class="acl-fixed-case">G</span>urevych, Judith Eckle-er and <span
+    class="acl-fixed-case">M</span>ichael Matuschek'
+  url: https://www.aclweb.org/anthology/J17-2007
+  year: '2017'
+J17-3000:
+  bibkey: cl-2017-linguistics-43-issue
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  month: September
+  paper_id: '0'
+  parent_volume_id: J17-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3000.jpg
+  title: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  title_html: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  year: '2017'
+J17-3001:
+  abstract: We explore the concept of hybrid grammars, which formalize and generalize
+    a range of existing frameworks for dealing with discontinuous syntactic structures.
+    Covered are both discontinuous phrase structures and non-projective dependency
+    structures. Technically, hybrid grammars are related to synchronous grammars,
+    where one grammar component generates linear structures and another generates
+    hierarchical structures. By coupling lexical elements of both components together,
+    discontinuous structures result. Several types of hybrid grammars are characterized.
+    We also discuss grammar induction from treebanks. The main advantage over existing
+    frameworks is the ability of hybrid grammars to separate discontinuity of the
+    desired structures from time complexity of parsing. This permits exploration of
+    a large variety of parsing algorithms for discontinuous structures, with different
+    properties. This is confirmed by the reported experimental results, which show
+    a wide variety of running time, accuracy, and frequency of parse failures.
+  author:
+  - first: Kilian
+    full: Kilian Gebhardt
+    id: kilian-gebhardt
+    last: Gebhardt
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  - first: Heiko
+    full: Heiko Vogler
+    id: heiko-vogler
+    last: Vogler
+  author_string: Kilian Gebhardt, Mark-Jan Nederhof, Heiko Vogler
+  bibkey: gebhardt-etal-2017-hybrid
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  doi: 10.1162/COLI_a_00291
+  month: September
+  page_first: '465'
+  page_last: '520'
+  pages: "465\u2013520"
+  paper_id: '1'
+  parent_volume_id: J17-3
+  pdf: https://www.aclweb.org/anthology/J17-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3001.jpg
+  title: Hybrid Grammars for Parsing of Discontinuous Phrase Structures and Non-Projective
+    Dependency Structures
+  title_html: Hybrid Grammars for Parsing of Discontinuous Phrase Structures and Non-Projective
+    Dependency Structures
+  url: https://www.aclweb.org/anthology/J17-3001
+  year: '2017'
+J17-3002:
+  abstract: "In this article, we conduct an empirical investigation of translation\
+    \ divergences between Chinese and English relying on a parallel treebank. To do\
+    \ this, we first devise a hierarchical alignment scheme where Chinese and English\
+    \ parse trees are aligned in a way that eliminates conflicts and redundancies\
+    \ between word alignments and syntactic parses to prevent the generation of spurious\
+    \ translation divergences. Using this Hierarchically Aligned Chinese\u2013English\
+    \ Parallel Treebank (HACEPT), we are able to semi-automatically identify and categorize\
+    \ the translation divergences between the two languages and quantify each type\
+    \ of translation divergence. Our results show that the translation divergences\
+    \ are much broader than described in previous studies that are largely based on\
+    \ anecdotal evidence and linguistic knowledge. The distribution of the translation\
+    \ divergences also shows that some high-profile translation divergences that motivate\
+    \ previous research are actually very rare in our data, whereas other translation\
+    \ divergences that have previously received little attention actually exist in\
+    \ large quantities. We also show that HACEPT allows the extraction of syntax-based\
+    \ translation rules, most of which are expressive enough to capture the translation\
+    \ divergences, and point out that the syntactic annotation in existing treebanks\
+    \ is not optimal for extracting such translation rules. We also discuss the implications\
+    \ of our study for attempts to bridge translation divergences by devising shared\
+    \ semantic representations across languages. Our quantitative results lend further\
+    \ support to the observation that although it is possible to bridge some translation\
+    \ divergences with semantic representations, other translation divergences are\
+    \ open-ended, thus building a semantic representation that captures all possible\
+    \ translation divergences may be impractical."
+  author:
+  - first: Dun
+    full: Dun Deng
+    id: dun-deng
+    last: Deng
+  - first: Nianwen
+    full: Nianwen Xue
+    id: nianwen-xue
+    last: Xue
+  author_string: Dun Deng, Nianwen Xue
+  bibkey: deng-xue-2017-translation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  doi: 10.1162/COLI_a_00292
+  month: September
+  page_first: '521'
+  page_last: '565'
+  pages: "521\u2013565"
+  paper_id: '2'
+  parent_volume_id: J17-3
+  pdf: https://www.aclweb.org/anthology/J17-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3002.jpg
+  title: "Translation Divergences in Chinese\u2013English Machine Translation: An\
+    \ Empirical Investigation"
+  title_html: "Translation Divergences in <span class=\"acl-fixed-case\">C</span>hinese\u2013\
+    <span class=\"acl-fixed-case\">E</span>nglish Machine Translation: An Empirical\
+    \ Investigation"
+  url: https://www.aclweb.org/anthology/J17-3002
+  year: '2017'
+J17-3003:
+  abstract: 'Quantifying the degree of spatial dependence for linguistic variables
+    is a key task for analyzing dialectal variation. However, existing approaches
+    have important drawbacks. First, they are based on parametric models of dependence,
+    which limits their power in cases where the underlying parametric assumptions
+    are violated. Second, they are not applicable to all types of linguistic data:
+    Some approaches apply only to frequencies, others to boolean indicators of whether
+    a linguistic variable is present. We present a new method for measuring geographical
+    language variation, which solves both of these problems. Our approach builds on
+    Reproducing Kernel Hilbert Space (RKHS) representations for nonparametric statistics,
+    and takes the form of a test statistic that is computed from pairs of individual
+    geotagged observations without aggregation into predefined geographical bins.
+    We compare this test with prior work using synthetic data as well as a diverse
+    set of real data sets: a corpus of Dutch tweets, a Dutch syntactic atlas, and
+    a data set of letters to the editor in North American newspapers. Our proposed
+    test is shown to support robust inferences across a broad range of scenarios and
+    types of data.'
+  author:
+  - first: Dong
+    full: Dong Nguyen
+    id: dong-nguyen
+    last: Nguyen
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  author_string: Dong Nguyen, Jacob Eisenstein
+  bibkey: nguyen-eisenstein-2017-kernel
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  doi: 10.1162/COLI_a_00293
+  month: September
+  page_first: '567'
+  page_last: '592'
+  pages: "567\u2013592"
+  paper_id: '3'
+  parent_volume_id: J17-3
+  pdf: https://www.aclweb.org/anthology/J17-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3003.jpg
+  title: A Kernel Independence Test for Geographical Language Variation
+  title_html: A Kernel Independence Test for Geographical Language Variation
+  url: https://www.aclweb.org/anthology/J17-3003
+  year: '2017'
+J17-3004:
+  abstract: We present AutoExtend, a system that combines word embeddings with semantic
+    resources by learning embeddings for non-word objects like synsets and entities
+    and learning word embeddings that incorporate the semantic information from the
+    resource. The method is based on encoding and decoding the word embeddings and
+    is flexible in that it can take any word embeddings as input and does not need
+    an additional training corpus. The obtained embeddings live in the same vector
+    space as the input word embeddings. A sparse tensor formalization guarantees efficiency
+    and parallelizability. We use WordNet, GermaNet, and Freebase as semantic resources.
+    AutoExtend achieves state-of-the-art performance on Word-in-Context Similarity
+    and Word Sense Disambiguation tasks.
+  author:
+  - first: Sascha
+    full: Sascha Rothe
+    id: sascha-rothe
+    last: Rothe
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Sascha Rothe, Hinrich Sch\xFCtze"
+  bibkey: rothe-schutze-2017-autoextend
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  doi: 10.1162/COLI_a_00294
+  month: September
+  page_first: '593'
+  page_last: '617'
+  pages: "593\u2013617"
+  paper_id: '4'
+  parent_volume_id: J17-3
+  pdf: https://www.aclweb.org/anthology/J17-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3004.jpg
+  title: 'AutoExtend: Combining Word Embeddings with Semantic Resources'
+  title_html: '<span class="acl-fixed-case">A</span>uto<span class="acl-fixed-case">E</span>xtend:
+    Combining Word Embeddings with Semantic Resources'
+  url: https://www.aclweb.org/anthology/J17-3004
+  year: '2017'
+J17-3005:
+  abstract: In this article, we present a novel approach for parsing argumentation
+    structures. We identify argument components using sequence labeling at the token
+    level and apply a new joint model for detecting argumentation structures. The
+    proposed model globally optimizes argument component types and argumentative relations
+    using Integer Linear Programming. We show that our model significantly outperforms
+    challenging heuristic baselines on two different types of discourse. Moreover,
+    we introduce a novel corpus of persuasive essays annotated with argumentation
+    structures. We show that our annotation scheme and annotation guidelines successfully
+    guide human annotators to substantial agreement.
+  author:
+  - first: Christian
+    full: Christian Stab
+    id: christian-stab
+    last: Stab
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Christian Stab, Iryna Gurevych
+  bibkey: stab-gurevych-2017-parsing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  doi: 10.1162/COLI_a_00295
+  month: September
+  page_first: '619'
+  page_last: '659'
+  pages: "619\u2013659"
+  paper_id: '5'
+  parent_volume_id: J17-3
+  pdf: https://www.aclweb.org/anthology/J17-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3005.jpg
+  title: Parsing Argumentation Structures in Persuasive Essays
+  title_html: Parsing Argumentation Structures in Persuasive Essays
+  url: https://www.aclweb.org/anthology/J17-3005
+  year: '2017'
+J17-3006:
+  abstract: "Agreement on unitizing, where several annotators freely put units of\
+    \ various sizes and categories on a continuum, is difficult to assess because\
+    \ of the simultaneaous discrepancies in positioning and categorizing. The recent\
+    \ agreement measure \u03B3 offers an overall solution that simultaneously takes\
+    \ into account positions and categories. In this article, I propose the additional\
+    \ coefficient \u03B3cat, which complements \u03B3 by assessing the agreement on\
+    \ categorization of a continuum, putting aside positional discrepancies. When\
+    \ applied to pure categorization (with predefined units), \u03B3cat behaves the\
+    \ same way as the famous dedicated Krippendorff\u2019s \u03B1, even with missing\
+    \ values, which proves its consistency. A variation of \u03B3cat is also proposed\
+    \ that provides an in-depth assessment of categorizing for each individual category.\
+    \ The entire family of \u03B3 coefficients is implemented in free software."
+  author:
+  - first: Yann
+    full: Yann Mathet
+    id: yann-mathet
+    last: Mathet
+  author_string: Yann Mathet
+  bibkey: mathet-2017-agreement
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 3 - September 2017
+  doi: 10.1162/COLI_a_00296
+  month: September
+  page_first: '661'
+  page_last: '681'
+  pages: "661\u2013681"
+  paper_id: '6'
+  parent_volume_id: J17-3
+  pdf: https://www.aclweb.org/anthology/J17-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-3006.jpg
+  title: "The Agreement Measure \u03B3cat a Complement to \u03B3 Focused on Categorization\
+    \ of a Continuum"
+  title_html: "The Agreement Measure \u03B3cat a Complement to \u03B3 Focused on Categorization\
+    \ of a Continuum"
+  url: https://www.aclweb.org/anthology/J17-3006
+  year: '2017'
+J17-4000:
+  bibkey: cl-2017-linguistics-43-issue-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  month: December
+  paper_id: '0'
+  parent_volume_id: J17-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4000.jpg
+  title: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  title_html: Computational Linguistics, Volume 43, Issue 4 - <span class="acl-fixed-case">D</span>ecember
+    2017
+  year: '2017'
+J17-4001:
+  abstract: In this article, we explore the potential of using sentence-level discourse
+    structure for machine translation evaluation. We first design discourse-aware
+    similarity measures, which use all-subtree kernels to compare discourse parse
+    trees in accordance with the Rhetorical Structure Theory (RST). Then, we show
+    that a simple linear combination with these measures can help improve various
+    existing machine translation evaluation metrics regarding correlation with human
+    judgments both at the segment level and at the system level. This suggests that
+    discourse information is complementary to the information used by many of the
+    existing evaluation metrics, and thus it could be taken into account when developing
+    richer evaluation metrics, such as the WMT-14 winning combined metric DiscoTKparty.
+    We also provide a detailed analysis of the relevance of various discourse elements
+    and relations from the RST parse trees for machine translation evaluation. In
+    particular, we show that (i) all aspects of the RST tree are relevant, (ii) nuclearity
+    is more useful than relation type, and (iii) the similarity of the translation
+    RST tree to the reference RST tree is positively correlated with translation quality.
+  author:
+  - first: Shafiq
+    full: Shafiq Joty
+    id: shafiq-joty
+    last: Joty
+  - first: Francisco
+    full: "Francisco Guzm\xE1n"
+    id: francisco-guzman
+    last: "Guzm\xE1n"
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  author_string: "Shafiq Joty, Francisco Guzm\xE1n, Llu\xEDs M\xE0rquez, Preslav Nakov"
+  bibkey: joty-etal-2017-discourse
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_a_00298
+  month: December
+  page_first: '683'
+  page_last: '722'
+  pages: "683\u2013722"
+  paper_id: '1'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4001.jpg
+  title: Discourse Structure in Machine Translation Evaluation
+  title_html: Discourse Structure in Machine Translation Evaluation
+  url: https://www.aclweb.org/anthology/J17-4001
+  year: '2017'
+J17-4002:
+  abstract: "This article considers the problem of correcting errors made by English\
+    \ as a Second Language writers from a machine learning perspective, and addresses\
+    \ an important issue of developing an appropriate training paradigm for the task,\
+    \ one that accounts for error patterns of non-native writers using minimal supervision.\
+    \ Existing training approaches present a trade-off between large amounts of cheap\
+    \ data offered by the native-trained models and additional knowledge of learner\
+    \ error patterns provided by the more expensive method of training on annotated\
+    \ learner data. We propose a novel training approach that draws on the strengths\
+    \ offered by the two standard training paradigms\u2014of training either on native\
+    \ or on annotated learner data\u2014and that outperforms both of these standard\
+    \ methods. Using the key observation that parameters relating to error regularities\
+    \ exhibited by non-native writers are relatively simple, we develop models that\
+    \ can incorporate knowledge about error regularities based on a small annotated\
+    \ sample but that are otherwise trained on native English data. The key contribution\
+    \ of this article is the introduction and analysis of two methods for adapting\
+    \ the learned models to error patterns of non-native writers; one method that\
+    \ applies to generative classifiers and a second that applies to discriminative\
+    \ classifiers. Both methods demonstrated state-of-the-art performance in several\
+    \ text correction competitions. In particular, the Illinois system that implements\
+    \ these methods ranked at the top in two recent CoNLL shared tasks on error correction.1\
+    \ We conduct further evaluation of the proposed approaches studying the effect\
+    \ of using error data from speakers of the same native language, languages that\
+    \ are closely related linguistically, and unrelated languages."
+  author:
+  - first: Alla
+    full: Alla Rozovskaya
+    id: alla-rozovskaya
+    last: Rozovskaya
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  - first: Mark
+    full: Mark Sammons
+    id: mark-sammons
+    last: Sammons
+  author_string: Alla Rozovskaya, Dan Roth, Mark Sammons
+  bibkey: rozovskaya-etal-2017-adapting
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_a_00299
+  month: December
+  page_first: '723'
+  page_last: '760'
+  pages: "723\u2013760"
+  paper_id: '2'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4002.jpg
+  title: Adapting to Learner Errors with Minimal Supervision
+  title_html: Adapting to Learner Errors with Minimal Supervision
+  url: https://www.aclweb.org/anthology/J17-4002
+  year: '2017'
+J17-4003:
+  abstract: 'We present novel methods for analyzing the activation patterns of recurrent
+    neural networks from a linguistic point of view and explore the types of linguistic
+    structure they learn. As a case study, we use a standard standalone language model,
+    and a multi-task gated recurrent network architecture consisting of two parallel
+    pathways with shared word embeddings: The Visual pathway is trained on predicting
+    the representations of the visual scene corresponding to an input sentence, and
+    the Textual pathway is trained to predict the next word in the same sentence.
+    We propose a method for estimating the amount of contribution of individual tokens
+    in the input to the final prediction of the networks. Using this method, we show
+    that the Visual pathway pays selective attention to lexical categories and grammatical
+    functions that carry semantic information, and learns to treat word types differently
+    depending on their grammatical function and their position in the sequential structure
+    of the sentence. In contrast, the language models are comparatively more sensitive
+    to words with a syntactic function. Further analysis of the most informative n-gram
+    contexts for each model shows that in comparison with the Visual pathway, the
+    language models react more strongly to abstract contexts that represent syntactic
+    constructions.'
+  author:
+  - first: "\xC1kos"
+    full: "\xC1kos K\xE1d\xE1r"
+    id: akos-kadar
+    last: "K\xE1d\xE1r"
+  - first: Grzegorz
+    full: "Grzegorz Chrupa\u0142a"
+    id: grzegorz-chrupala
+    last: "Chrupa\u0142a"
+  - first: Afra
+    full: Afra Alishahi
+    id: afra-alishahi
+    last: Alishahi
+  author_string: "\xC1kos K\xE1d\xE1r, Grzegorz Chrupa\u0142a, Afra Alishahi"
+  bibkey: kadar-etal-2017-representation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_a_00300
+  month: December
+  page_first: '761'
+  page_last: '780'
+  pages: "761\u2013780"
+  paper_id: '3'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4003.jpg
+  title: Representation of Linguistic Form and Function in Recurrent Neural Networks
+  title_html: Representation of Linguistic Form and Function in Recurrent Neural Networks
+  url: https://www.aclweb.org/anthology/J17-4003
+  year: '2017'
+J17-4004:
+  abstract: "We introduce HyperLex\u2014a data set and evaluation resource that quantifies\
+    \ the extent of the semantic category membership, that is, type-of relation, also\
+    \ known as hyponymy\u2013hypernymy or lexical entailment (LE) relation between\
+    \ 2,616 concept pairs. Cognitive psychology research has established that typicality\
+    \ and category/class membership are computed in human semantic memory as a gradual\
+    \ rather than binary relation. Nevertheless, most NLP research and existing large-scale\
+    \ inventories of concept category membership (WordNet, DBPedia, etc.) treat category\
+    \ membership and LE as binary. To address this, we asked hundreds of native English\
+    \ speakers to indicate typicality and strength of category membership between\
+    \ a diverse range of concept pairs on a crowdsourcing platform. Our results confirm\
+    \ that category membership and LE are indeed more gradual than binary. We then\
+    \ compare these human judgments with the predictions of automatic systems, which\
+    \ reveals a huge gap between human performance and state-of-the-art LE, distributional\
+    \ and representation learning models, and substantial differences between the\
+    \ models themselves. We discuss a pathway for improving semantic models to overcome\
+    \ this discrepancy, and indicate future application areas for improved graded\
+    \ LE systems."
+  author:
+  - first: Ivan
+    full: "Ivan Vuli\u0107"
+    id: ivan-vulic
+    last: "Vuli\u0107"
+  - first: Daniela
+    full: Daniela Gerz
+    id: daniela-gerz
+    last: Gerz
+  - first: Douwe
+    full: Douwe Kiela
+    id: douwe-kiela
+    last: Kiela
+  - first: Felix
+    full: Felix Hill
+    id: felix-hill
+    last: Hill
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: "Ivan Vuli\u0107, Daniela Gerz, Douwe Kiela, Felix Hill, Anna Korhonen"
+  bibkey: vulic-etal-2017-hyperlex
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_a_00301
+  month: December
+  page_first: '781'
+  page_last: '835'
+  pages: "781\u2013835"
+  paper_id: '4'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4004.jpg
+  title: 'HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment'
+  title_html: '<span class="acl-fixed-case">H</span>yper<span class="acl-fixed-case">L</span>ex:
+    A Large-Scale Evaluation of Graded Lexical Entailment'
+  url: https://www.aclweb.org/anthology/J17-4004
+  year: '2017'
+J17-4005:
+  abstract: "Multiword expressions (MWEs) are a class of linguistic forms spanning\
+    \ conventional word boundaries that are both idiosyncratic and pervasive across\
+    \ different languages. The structure of linguistic processing that depends on\
+    \ the clear distinction between words and phrases has to be re-thought to accommodate\
+    \ MWEs. The issue of MWE handling is crucial for NLP applications, where it raises\
+    \ a number of challenges. The emergence of solutions in the absence of guiding\
+    \ principles motivates this survey, whose aim is not only to provide a focused\
+    \ review of MWE processing, but also to clarify the nature of interactions between\
+    \ MWE processing and downstream applications. We propose a conceptual framework\
+    \ within which challenges and research contributions can be positioned. It offers\
+    \ a shared understanding of what is meant by \u201CMWE processing,\u201D distinguishing\
+    \ the subtasks of MWE discovery and identification. It also elucidates the interactions\
+    \ between MWE processing and two use cases: Parsing and machine translation. Many\
+    \ of the approaches in the literature can be differentiated according to how MWE\
+    \ processing is timed with respect to underlying use cases. We discuss how such\
+    \ orchestration choices affect the scope of MWE-aware systems. For each of the\
+    \ two MWE processing subtasks and for each of the two use cases, we conclude on\
+    \ open issues and research perspectives."
+  author:
+  - first: Mathieu
+    full: Mathieu Constant
+    id: matthieu-constant
+    last: Constant
+  - first: "G\xFCl\u015Fen"
+    full: "G\xFCl\u015Fen Eryi\u01E7it"
+    id: gulsen-eryigit
+    last: "Eryi\u01E7it"
+  - first: Johanna
+    full: Johanna Monti
+    id: johanna-monti
+    last: Monti
+  - first: Lonneke van der
+    full: Lonneke van der Plas
+    id: lonneke-van-der-plas
+    last: Plas
+  - first: Carlos
+    full: Carlos Ramisch
+    id: carlos-ramisch
+    last: Ramisch
+  - first: Michael
+    full: Michael Rosner
+    id: michael-rosner
+    last: Rosner
+  - first: Amalia
+    full: Amalia Todirascu
+    id: amalia-todirascu
+    last: Todirascu
+  author_string: "Mathieu Constant, G\xFCl\u015Fen Eryi\u01E7it, Johanna Monti, Lonneke\
+    \ van der Plas, Carlos Ramisch, Michael Rosner, Amalia Todirascu"
+  bibkey: constant-etal-2017-survey
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_a_00302
+  month: December
+  page_first: '837'
+  page_last: '892'
+  pages: "837\u2013892"
+  paper_id: '5'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4005.jpg
+  title: 'Survey: Multiword Expression Processing: A Survey'
+  title_html: '<span class="acl-fixed-case">S</span>urvey: Multiword Expression Processing:
+    A <span class="acl-fixed-case">S</span>urvey'
+  url: https://www.aclweb.org/anthology/J17-4005
+  year: '2017'
+J17-4006:
+  author:
+  - first: Christian
+    full: Christian Hadiwinoto
+    id: christian-hadiwinoto
+    last: Hadiwinoto
+  author_string: Christian Hadiwinoto
+  bibkey: hadiwinoto-2017-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_r_00303
+  month: December
+  page_first: '893'
+  page_last: '896'
+  pages: "893\u2013896"
+  paper_id: '6'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4006.jpg
+  title: 'Book Review: Syntax-Based Statistical Machine Translation by Philip Williams,
+    Rico Sennrich, Matt Post and Philipp Koehn'
+  title_html: 'Book Review: Syntax-Based Statistical Machine Translation by Philip
+    <span class="acl-fixed-case">W</span>illiams, Rico <span class="acl-fixed-case">S</span>ennrich,
+    Matt Post and Philipp <span class="acl-fixed-case">K</span>oehn'
+  url: https://www.aclweb.org/anthology/J17-4006
+  year: '2017'
+J17-4007:
+  author:
+  - first: Malvina
+    full: Malvina Nissim
+    id: malvina-nissim
+    last: Nissim
+  - first: Lasha
+    full: Lasha Abzianidze
+    id: lasha-abzianidze
+    last: Abzianidze
+  - first: Kilian
+    full: Kilian Evang
+    id: kilian-evang
+    last: Evang
+  - first: Rob
+    full: Rob van der Goot
+    id: rob-van-der-goot
+    last: van der Goot
+  - first: Hessel
+    full: Hessel Haagsma
+    id: hessel-haagsma
+    last: Haagsma
+  - first: Barbara
+    full: Barbara Plank
+    id: barbara-plank
+    last: Plank
+  - first: Martijn
+    full: Martijn Wieling
+    id: martijn-wieling
+    last: Wieling
+  author_string: Malvina Nissim, Lasha Abzianidze, Kilian Evang, Rob van der Goot,
+    Hessel Haagsma, Barbara Plank, Martijn Wieling
+  bibkey: nissim-etal-2017-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_a_00304
+  month: December
+  page_first: '897'
+  page_last: '904'
+  pages: "897\u2013904"
+  paper_id: '7'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4007.jpg
+  title: 'Last Words: Sharing Is Caring: The Future of Shared Tasks'
+  title_html: 'Last Words: Sharing Is Caring: The Future of Shared Tasks'
+  url: https://www.aclweb.org/anthology/J17-4007
+  year: '2017'
+J17-4008:
+  bibkey: nn-2017-reviewers
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 43, Issue 4 - December 2017
+  doi: 10.1162/COLI_x_00305
+  month: December
+  page_first: '905'
+  page_last: '905'
+  pages: "905\u2013905"
+  paper_id: '8'
+  parent_volume_id: J17-4
+  pdf: https://www.aclweb.org/anthology/J17-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J17-4008.jpg
+  title: Reviewers for Volume 43
+  title_html: Reviewers for Volume 43
+  url: https://www.aclweb.org/anthology/J17-4008
+  year: '2017'

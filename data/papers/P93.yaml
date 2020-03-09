@@ -1,0 +1,1435 @@
+P93-1000:
+  address: Columbus, Ohio, USA
+  bibkey: acl-1993-association
+  bibtype: proceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1000.jpg
+  title: 31st Annual Meeting of the Association for Computational Linguistics
+  title_html: 31st Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P93-1000
+  year: '1993'
+P93-1001:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Kenneth Ward
+    full: Kenneth Ward Church
+    id: kenneth-church
+    last: Church
+  author_string: Kenneth Ward Church
+  bibkey: church-1993-char
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981575
+  month: June
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1001.jpg
+  title: 'Char_align: A Program for Aligning Parallel Texts at the Character Level'
+  title_html: 'Char_align: A Program for Aligning Parallel Texts at the Character
+    Level'
+  url: https://www.aclweb.org/anthology/P93-1001
+  year: '1993'
+P93-1002:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Stanley F.
+    full: Stanley F. Chen
+    id: stanley-f-chen
+    last: Chen
+  author_string: Stanley F. Chen
+  bibkey: chen-1993-aligning
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981576
+  month: June
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1002.jpg
+  title: Aligning Sentences in Bilingual Corpora Using Lexical Information
+  title_html: Aligning Sentences in Bilingual Corpora Using Lexical Information
+  url: https://www.aclweb.org/anthology/P93-1002
+  year: '1993'
+P93-1003:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Julian
+    full: Julian Kupiec
+    id: julian-kupiec
+    last: Kupiec
+  author_string: Julian Kupiec
+  bibkey: kupiec-1993-algorithm
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981577
+  month: June
+  page_first: '17'
+  page_last: '22'
+  pages: "17\u201322"
+  paper_id: '3'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1003.jpg
+  title: An Algorithm for Finding Noun Phrase Correspondences in Bilingual Corpora
+  title_html: An Algorithm for Finding Noun Phrase Correspondences in Bilingual Corpora
+  url: https://www.aclweb.org/anthology/P93-1003
+  year: '1993'
+P93-1004:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  - first: Takehito
+    full: Takehito Utsuro
+    id: takehito-utsuro
+    last: Utsuro
+  - first: Hiroyuki
+    full: Hiroyuki Ishimoto
+    id: hiroyuki-ishimoto
+    last: Ishimoto
+  author_string: Yuji Matsumoto, Takehito Utsuro, Hiroyuki Ishimoto
+  bibkey: matsumoto-etal-1993-structural
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981578
+  month: June
+  page_first: '23'
+  page_last: '30'
+  pages: "23\u201330"
+  paper_id: '4'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1004.jpg
+  title: Structural Matching of Parallel Texts
+  title_html: Structural Matching of Parallel Texts
+  url: https://www.aclweb.org/anthology/P93-1004
+  year: '1993'
+P93-1005:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Ezra
+    full: Ezra Black
+    id: ezra-black
+    last: Black
+  - first: Fred
+    full: Fred Jelinek
+    id: frederick-jelinek
+    last: Jelinek
+  - first: John
+    full: John Lafrerty
+    id: john-lafferty
+    last: Lafrerty
+  - first: David M.
+    full: David M. Magerman
+    id: david-m-magerman
+    last: Magerman
+  - first: Robert
+    full: Robert Mercer
+    id: robert-l-mercer
+    last: Mercer
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  author_string: Ezra Black, Fred Jelinek, John Lafrerty, David M. Magerman, Robert
+    Mercer, Salim Roukos
+  bibkey: black-etal-1993-towards
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981579
+  month: June
+  page_first: '31'
+  page_last: '37'
+  pages: "31\u201337"
+  paper_id: '5'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1005.jpg
+  title: 'Towards History-based Grammars: Using Richer Models for Probabilistic Parsing'
+  title_html: 'Towards History-based Grammars: Using Richer Models for Probabilistic
+    Parsing'
+  url: https://www.aclweb.org/anthology/P93-1005
+  year: '1993'
+P93-1006:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Richard H.
+    full: Richard H. Wojcik
+    id: richard-h-wojcik
+    last: Wojcik
+  - first: Philip
+    full: Philip Harrison
+    id: phil-harrison
+    last: Harrison
+  - first: John
+    full: John Bremer
+    id: john-bremer
+    last: Bremer
+  author_string: Richard H. Wojcik, Philip Harrison, John Bremer
+  bibkey: wojcik-etal-1993-using
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981580
+  month: June
+  page_first: '38'
+  page_last: '45'
+  pages: "38\u201345"
+  paper_id: '6'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1006.jpg
+  title: Using Bracketed Parses to Evaluate a Grammar Checking Application
+  title_html: Using Bracketed Parses to Evaluate a Grammar Checking Application
+  url: https://www.aclweb.org/anthology/P93-1006
+  year: '1993'
+P93-1007:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Christine
+    full: Christine Nakatani
+    id: christine-h-nakatani
+    last: Nakatani
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  author_string: Christine Nakatani, Julia Hirschberg
+  bibkey: nakatani-hirschberg-1993-speech
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981581
+  month: June
+  page_first: '46'
+  page_last: '53'
+  pages: "46\u201353"
+  paper_id: '7'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1007.jpg
+  title: A Speech-First Model for Repair Detection and Correction
+  title_html: A Speech-First Model for Repair Detection and Correction
+  url: https://www.aclweb.org/anthology/P93-1007
+  year: '1993'
+P93-1008:
+  address: Columbus, Ohio, USA
+  author:
+  - first: John
+    full: John Dowding
+    id: john-dowding
+    last: Dowding
+  - first: Jean Mark
+    full: Jean Mark Gawron
+    id: jean-mark-gawron
+    last: Gawron
+  - first: Doug
+    full: Doug Appelt
+    id: douglas-appelt
+    last: Appelt
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: Lynn
+    full: Lynn Cherny
+    id: lynn-cherny
+    last: Cherny
+  - first: Robert
+    full: Robert Moore
+    id: robert-c-moore
+    last: Moore
+  - first: Douglas
+    full: Douglas Moran
+    id: douglas-b-moran
+    last: Moran
+  author_string: John Dowding, Jean Mark Gawron, Doug Appelt, John Bear, Lynn Cherny,
+    Robert Moore, Douglas Moran
+  bibkey: dowding-etal-1993-gemini
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981582
+  month: June
+  page_first: '54'
+  page_last: '61'
+  pages: "54\u201361"
+  paper_id: '8'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1008.jpg
+  title: 'GEMINI: A Natural Language System for Spoken-Language Understanding'
+  title_html: '<span class="acl-fixed-case">GEMINI</span>: A Natural Language System
+    for Spoken-Language Understanding'
+  url: https://www.aclweb.org/anthology/P93-1008
+  year: '1993'
+P93-1009:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Andrew
+    full: Andrew Kehler
+    id: andrew-kehler
+    last: Kehler
+  author_string: Andrew Kehler
+  bibkey: kehler-1993-effect
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981583
+  month: June
+  page_first: '62'
+  page_last: '69'
+  pages: "62\u201369"
+  paper_id: '9'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1009.jpg
+  title: The Effect of Establishing Coherence in Ellipsis and Anaphora Resolution
+  title_html: The Effect of Establishing Coherence in Ellipsis and Anaphora Resolution
+  url: https://www.aclweb.org/anthology/P93-1009
+  year: '1993'
+P93-1010:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Megumi
+    full: Megumi Kameyama
+    id: megumi-kameyama
+    last: Kameyama
+  - first: Rebecca
+    full: Rebecca Passonneau
+    id: rebecca-j-passonneau
+    last: Passonneau
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Megumi Kameyama, Rebecca Passonneau, Massimo Poesio
+  bibkey: kameyama-etal-1993-temporal
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981584
+  month: June
+  page_first: '70'
+  page_last: '77'
+  pages: "70\u201377"
+  paper_id: '10'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1010.jpg
+  title: Temporal Centering
+  title_html: Temporal Centering
+  url: https://www.aclweb.org/anthology/P93-1010
+  year: '1993'
+P93-1011:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Massimo Poesio
+  bibkey: poesio-1993-assigning
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981585
+  month: June
+  page_first: '78'
+  page_last: '86'
+  pages: "78\u201386"
+  paper_id: '11'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1011.jpg
+  title: Assigning a Semantic Scope to Operators
+  title_html: Assigning a Semantic Scope to Operators
+  url: https://www.aclweb.org/anthology/P93-1011
+  year: '1993'
+P93-1012:
+  address: Columbus, Ohio, USA
+  author:
+  - first: David
+    full: David Stallard
+    id: david-stallard
+    last: Stallard
+  author_string: David Stallard
+  bibkey: stallard-1993-two
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981586
+  month: June
+  page_first: '87'
+  page_last: '94'
+  pages: "87\u201394"
+  paper_id: '12'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1012.jpg
+  title: Two Kinds of Metonymy
+  title_html: Two Kinds of Metonymy
+  url: https://www.aclweb.org/anthology/P93-1012
+  year: '1993'
+P93-1013:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Wolfgang
+    full: Wolfgang Wahlster
+    id: wolfgang-wahlster
+    last: Wahlster
+  author_string: Wolfgang Wahlster
+  bibkey: wahlster-1993-planning
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981587
+  month: June
+  page_first: '95'
+  page_last: '96'
+  pages: "95\u201396"
+  paper_id: '13'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1013.jpg
+  title: Planning Multimodal Discourse
+  title_html: Planning Multimodal Discourse
+  url: https://www.aclweb.org/anthology/P93-1013
+  year: '1993'
+P93-1014:
+  address: Columbus, Ohio, USA
+  author:
+  - first: David E.
+    full: David E. Johnson
+    id: david-e-johnson
+    last: Johnson
+  - first: Adam
+    full: Adam Meyers
+    id: adam-meyers
+    last: Meyers
+  - first: Lawrence S.
+    full: Lawrence S. Moss
+    id: lawrence-s-moss
+    last: Moss
+  author_string: David E. Johnson, Adam Meyers, Lawrence S. Moss
+  bibkey: johnson-etal-1993-unification
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981588
+  month: June
+  page_first: '97'
+  page_last: '104'
+  pages: "97\u2013104"
+  paper_id: '14'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1014.jpg
+  title: A Unification-Based Parser for Relational Grammar
+  title_html: A Unification-Based Parser for Relational Grammar
+  url: https://www.aclweb.org/anthology/P93-1014
+  year: '1993'
+P93-1015:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Akshar
+    full: Akshar Bharati
+    id: akshar-bharati
+    last: Bharati
+  - first: Rajeev
+    full: Rajeev Sangal
+    id: rajeev-sangal
+    last: Sangal
+  author_string: Akshar Bharati, Rajeev Sangal
+  bibkey: bharati-sangal-1993-parsing
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981589
+  month: June
+  page_first: '105'
+  page_last: '111'
+  pages: "105\u2013111"
+  paper_id: '15'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1015.jpg
+  title: Parsing Free Word Order Languages in the Paninian Framework
+  title_html: Parsing Free Word Order Languages in the <span class="acl-fixed-case">P</span>aninian
+    Framework
+  url: https://www.aclweb.org/anthology/P93-1015
+  year: '1993'
+P93-1016:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Dekang Lin
+  bibkey: lin-1993-principle
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981590
+  month: June
+  page_first: '112'
+  page_last: '120'
+  pages: "112\u2013120"
+  paper_id: '16'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1016.jpg
+  title: Principle-Based Parsing Without Overgeneration
+  title_html: Principle-Based Parsing Without Overgeneration
+  url: https://www.aclweb.org/anthology/P93-1016
+  year: '1993'
+P93-1017:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  - first: Richard C.
+    full: Richard C. Waters
+    id: richard-c-waters
+    last: Waters
+  author_string: Yves Schabes, Richard C. Waters
+  bibkey: schabes-waters-1993-lexicalized
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981591
+  month: June
+  page_first: '121'
+  page_last: '129'
+  pages: "121\u2013129"
+  paper_id: '17'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1017.jpg
+  title: Lexicalized Context-Fee Grammars
+  title_html: Lexicalized Context-Fee Grammars
+  url: https://www.aclweb.org/anthology/P93-1017
+  year: '1993'
+P93-1018:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Hiroyuki
+    full: Hiroyuki Seki
+    id: hiroyuki-seki
+    last: Seki
+  - first: Ryuichi
+    full: Ryuichi Nakanishi
+    id: ryuichi-nakanishi
+    last: Nakanishi
+  - first: Yuichi
+    full: Yuichi Kaji
+    id: yuichi-kaji
+    last: Kaji
+  - first: Sachiko
+    full: Sachiko Ando
+    id: sachiko-ando
+    last: Ando
+  - first: Tadao
+    full: Tadao Kasami
+    id: tadao-kasami
+    last: Kasami
+  author_string: Hiroyuki Seki, Ryuichi Nakanishi, Yuichi Kaji, Sachiko Ando, Tadao
+    Kasami
+  bibkey: seki-etal-1993-parallel
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981592
+  month: June
+  page_first: '130'
+  page_last: '139'
+  pages: "130\u2013139"
+  paper_id: '18'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1018.jpg
+  title: Parallel Multiple Context-Free Grammars, Finite-State Translation Systems,
+    and Polynomial-Time Recognizable Subclasses of Lexical-Functional Grammars
+  title_html: Parallel Multiple Context-Free Grammars, Finite-State Translation Systems,
+    and Polynomial-Time Recognizable Subclasses of <span class="acl-fixed-case">L</span>exical-<span
+    class="acl-fixed-case">F</span>unctional <span class="acl-fixed-case">G</span>rammars
+  url: https://www.aclweb.org/anthology/P93-1018
+  year: '1993'
+P93-1019:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Hans-Ulrich
+    full: Hans-Ulrich Krieger
+    id: hans-ulrich-krieger
+    last: Krieger
+  - first: Hannes
+    full: Hannes Pirker
+    id: hannes-pirker
+    last: Pirker
+  author_string: Hans-Ulrich Krieger, Hannes Pirker
+  bibkey: krieger-pirker-1993-feature
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981593
+  month: June
+  page_first: '140'
+  page_last: '147'
+  pages: "140\u2013147"
+  paper_id: '19'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1019.jpg
+  title: Feature-Based Allomorphy
+  title_html: Feature-Based Allomorphy
+  url: https://www.aclweb.org/anthology/P93-1019
+  year: '1993'
+P93-1020:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Rebecca J.
+    full: Rebecca J. Passonneau
+    id: rebecca-j-passonneau
+    last: Passonneau
+  - first: Diane J.
+    full: Diane J. Litman
+    id: diane-litman
+    last: Litman
+  author_string: Rebecca J. Passonneau, Diane J. Litman
+  bibkey: passonneau-litman-1993-intention
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981594
+  month: June
+  page_first: '148'
+  page_last: '155'
+  pages: "148\u2013155"
+  paper_id: '20'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1020.jpg
+  title: 'Intention-Based Segmentation: Human Reliability and Correlation With Linguistic
+    Cues'
+  title_html: 'Intention-Based Segmentation: Human Reliability and Correlation With
+    Linguistic Cues'
+  url: https://www.aclweb.org/anthology/P93-1020
+  year: '1993'
+P93-1021:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Chinatsu
+    full: Chinatsu Aone
+    id: chinatsu-aone
+    last: Aone
+  - first: Douglas
+    full: Douglas McKee
+    id: douglas-mckee
+    last: McKee
+  author_string: Chinatsu Aone, Douglas McKee
+  bibkey: aone-mckee-1993-language
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981595
+  month: June
+  page_first: '156'
+  page_last: '163'
+  pages: "156\u2013163"
+  paper_id: '21'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1021.jpg
+  title: A Language-Independent Anaphora Resolution System for Understanding Multilingual
+    Texts
+  title_html: A Language-Independent Anaphora Resolution System for Understanding
+    Multilingual Texts
+  url: https://www.aclweb.org/anthology/P93-1021
+  year: '1993'
+P93-1022:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Shaul
+    full: Shaul Marcus
+    id: shaul-marcus
+    last: Marcus
+  - first: Shaul
+    full: Shaul Markovitch
+    id: shaul-markovitch
+    last: Markovitch
+  author_string: Ido Dagan, Shaul Marcus, Shaul Markovitch
+  bibkey: dagan-etal-1993-contextual
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981596
+  month: June
+  page_first: '164'
+  page_last: '171'
+  pages: "164\u2013171"
+  paper_id: '22'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1022.jpg
+  title: Contextual Word Similarity and Estimation From Sparse Data
+  title_html: Contextual Word Similarity and Estimation From Sparse Data
+  url: https://www.aclweb.org/anthology/P93-1022
+  year: '1993'
+P93-1023:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Vasileios
+    full: Vasileios Hatzivassiloglou
+    id: vasileios-hatzivassiloglou
+    last: Hatzivassiloglou
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Vasileios Hatzivassiloglou, Kathleen R. McKeown
+  bibkey: hatzivassiloglou-mckeown-1993-towards
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981597
+  month: June
+  page_first: '172'
+  page_last: '182'
+  pages: "172\u2013182"
+  paper_id: '23'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1023.jpg
+  title: 'Towards the Automatic Identification of Adjectival Scales: Clustering Adjectives
+    According to Meaning'
+  title_html: 'Towards the Automatic Identification of Adjectival Scales: Clustering
+    Adjectives According to Meaning'
+  url: https://www.aclweb.org/anthology/P93-1023
+  year: '1993'
+P93-1024:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  - first: Naftali
+    full: Naftali Tishby
+    id: naftali-tishby
+    last: Tishby
+  - first: Lillian
+    full: Lillian Lee
+    id: lillian-lee
+    last: Lee
+  author_string: Fernando Pereira, Naftali Tishby, Lillian Lee
+  bibkey: pereira-etal-1993-distributional
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981598
+  month: June
+  page_first: '183'
+  page_last: '190'
+  pages: "183\u2013190"
+  paper_id: '24'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1024.jpg
+  title: Distributional Clustering of English Words
+  title_html: Distributional Clustering of <span class="acl-fixed-case">E</span>nglish
+    Words
+  url: https://www.aclweb.org/anthology/P93-1024
+  year: '1993'
+P93-1025:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Geoffrey
+    full: Geoffrey Nunberg
+    id: geoffrey-nunberg
+    last: Nunberg
+  author_string: Geoffrey Nunberg
+  bibkey: nunberg-1993-transfers
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981599
+  month: June
+  page_first: '191'
+  page_last: '192'
+  pages: "191\u2013192"
+  paper_id: '25'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1025.jpg
+  title: Transfers of Meaning
+  title_html: Transfers of Meaning
+  url: https://www.aclweb.org/anthology/P93-1025
+  year: '1993'
+P93-1026:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Rolf
+    full: Rolf Backofen
+    id: rolf-backofen
+    last: Backofen
+  - first: Gert
+    full: Gert Smolka
+    id: gert-smolka
+    last: Smolka
+  author_string: Rolf Backofen, Gert Smolka
+  bibkey: backofen-smolka-1993-complete
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981600
+  month: June
+  page_first: '193'
+  page_last: '200'
+  pages: "193\u2013200"
+  paper_id: '26'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1026.jpg
+  title: A Complete and Recursive Feature Theory
+  title_html: A Complete and Recursive Feature Theory
+  url: https://www.aclweb.org/anthology/P93-1026
+  year: '1993'
+P93-1027:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Rolf
+    full: Rolf Backofen
+    id: rolf-backofen
+    last: Backofen
+  author_string: Rolf Backofen
+  bibkey: backofen-1993-decidability
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981601
+  month: June
+  page_first: '201'
+  page_last: '208'
+  pages: "201\u2013208"
+  paper_id: '27'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1027.jpg
+  title: On the Decidability of Functional Uncertainty
+  title_html: On the Decidability of Functional Uncertainty
+  url: https://www.aclweb.org/anthology/P93-1027
+  year: '1993'
+P93-1028:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Mark A.
+    full: Mark A. Young
+    id: mark-a-young
+    last: Young
+  - first: Bill
+    full: Bill Rounds
+    id: bill-rounds
+    last: Rounds
+  author_string: Mark A. Young, Bill Rounds
+  bibkey: young-rounds-1993-logical
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981602
+  month: June
+  page_first: '209'
+  page_last: '215'
+  pages: "209\u2013215"
+  paper_id: '28'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1028.jpg
+  title: A Logical Semantics for Nonmonotonic Sorts
+  title_html: A Logical Semantics for Nonmonotonic Sorts
+  url: https://www.aclweb.org/anthology/P93-1028
+  year: '1993'
+P93-1029:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Kent
+    full: Kent Wittenburg
+    id: kent-wittenburg
+    last: Wittenburg
+  author_string: Kent Wittenburg
+  bibkey: wittenburg-1993-f
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981603
+  month: June
+  page_first: '216'
+  page_last: '223'
+  pages: "216\u2013223"
+  paper_id: '29'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1029.jpg
+  title: 'F-PATR: Functional Constraints for Unification-Based Grammars'
+  title_html: '<span class="acl-fixed-case">F-PATR</span>: Functional Constraints
+    for Unification-Based Grammars'
+  url: https://www.aclweb.org/anthology/P93-1029
+  year: '1993'
+P93-1030:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Barbara
+    full: Barbara Partee
+    id: barbara-h-partee
+    last: Partee
+  author_string: Barbara Partee
+  bibkey: partee-1993-quantificational
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981604
+  month: June
+  page_first: '224'
+  page_last: '225'
+  pages: "224\u2013225"
+  paper_id: '30'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1030.jpg
+  title: Quantificational Domains and Recursive Contexts
+  title_html: Quantificational Domains and Recursive Contexts
+  url: https://www.aclweb.org/anthology/P93-1030
+  year: '1993'
+P93-1031:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  - first: Jacques
+    full: Jacques Robin
+    id: jacques-robin
+    last: Robin
+  - first: Michael
+    full: Michael Tanenblatt
+    id: michael-tanenblatt
+    last: Tanenblatt
+  author_string: Kathleen McKeown, Jacques Robin, Michael Tanenblatt
+  bibkey: mckeown-etal-1993-tailoring
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981605
+  month: June
+  page_first: '226'
+  page_last: '234'
+  pages: "226\u2013234"
+  paper_id: '31'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1031.jpg
+  title: "Tailoring Lexical Choice to the User\u2019s Vocabulary in Multimedia Explanation\
+    \ Generation"
+  title_html: "Tailoring Lexical Choice to the User\u2019s Vocabulary in Multimedia\
+    \ Explanation Generation"
+  url: https://www.aclweb.org/anthology/P93-1031
+  year: '1993'
+P93-1032:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Christopher D. Manning
+  bibkey: manning-1993-automatic
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981606
+  month: June
+  page_first: '235'
+  page_last: '242'
+  pages: "235\u2013242"
+  paper_id: '32'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1032.jpg
+  title: Automatic Acquisition of a Large Sub Categorization Dictionary From Corpora
+  title_html: Automatic Acquisition of a Large Sub Categorization Dictionary From
+    Corpora
+  url: https://www.aclweb.org/anthology/P93-1032
+  year: '1993'
+P93-1033:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Rey-Long
+    full: Rey-Long Liu
+    id: rey-long-liu
+    last: Liu
+  - first: Von-wun
+    full: Von-wun Soo
+    id: von-wun-soo
+    last: Soo
+  author_string: Rey-Long Liu, Von-wun Soo
+  bibkey: liu-soo-1993-empirical
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981607
+  month: June
+  page_first: '243'
+  page_last: '250'
+  pages: "243\u2013250"
+  paper_id: '33'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1033.jpg
+  title: An Empirical Study on Thematic Knowledge Acquisition Based on Syntactic Clues
+    and Heuristics
+  title_html: An Empirical Study on Thematic Knowledge Acquisition Based on Syntactic
+    Clues and Heuristics
+  url: https://www.aclweb.org/anthology/P93-1033
+  year: '1993'
+P93-1034:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Hinrich Sch\xFCtze"
+  bibkey: schutze-1993-part
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981608
+  month: June
+  page_first: '251'
+  page_last: '258'
+  pages: "251\u2013258"
+  paper_id: '34'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1034.jpg
+  title: Part-of-Speech Induction From Scratch
+  title_html: Part-of-Speech Induction From Scratch
+  url: https://www.aclweb.org/anthology/P93-1034
+  year: '1993'
+P93-1035:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Eric
+    full: Eric Brill
+    id: eric-brill
+    last: Brill
+  author_string: Eric Brill
+  bibkey: brill-1993-automatic
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981609
+  month: June
+  page_first: '259'
+  page_last: '265'
+  pages: "259\u2013265"
+  paper_id: '35'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1035.jpg
+  title: 'Automatic Grammar Induction and Parsing Free Text: A Transformation-Based
+    Approach'
+  title_html: 'Automatic Grammar Induction and Parsing Free Text: A Transformation-Based
+    Approach'
+  url: https://www.aclweb.org/anthology/P93-1035
+  year: '1993'
+P93-1036:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: Suzanne Stevenson
+  bibkey: stevenson-1993-competition
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981610
+  month: June
+  page_first: '266'
+  page_last: '273'
+  pages: "266\u2013273"
+  paper_id: '36'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1036.jpg
+  title: A Competition-Based Explanation of Syntactic Attachment Preferences and Garden
+    Path Phenomena
+  title_html: A Competition-Based Explanation of Syntactic Attachment Preferences
+    and Garden Path Phenomena
+  url: https://www.aclweb.org/anthology/P93-1036
+  year: '1993'
+P93-1037:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Liliana
+    full: Liliana Ardissono
+    id: liliana-ardissono
+    last: Ardissono
+  - first: Alessandro
+    full: Alessandro Lombardo
+    id: alessandro-lombardo
+    last: Lombardo
+  - first: Dario
+    full: Dario Sestero
+    id: dario-sestero
+    last: Sestero
+  author_string: Liliana Ardissono, Alessandro Lombardo, Dario Sestero
+  bibkey: ardissono-etal-1993-flexible
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981612
+  month: June
+  page_first: '274'
+  page_last: '276'
+  pages: "274\u2013276"
+  paper_id: '37'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1037.jpg
+  title: A Flexible Approach to Cooperative Response Generation in Information-Seeking
+    Dialogues
+  title_html: A Flexible Approach to Cooperative Response Generation in Information-Seeking
+    Dialogues
+  url: https://www.aclweb.org/anthology/P93-1037
+  year: '1993'
+P93-1038:
+  address: Columbus, Ohio, USA
+  author:
+  - first: James A.
+    full: James A. Rosenblum
+    id: james-a-rosenblum
+    last: Rosenblum
+  author_string: James A. Rosenblum
+  bibkey: rosenblum-1993-identifying
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981613
+  month: June
+  page_first: '277'
+  page_last: '279'
+  pages: "277\u2013279"
+  paper_id: '38'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1038.jpg
+  title: Identifying Relevant Prior Explanations
+  title_html: Identifying Relevant Prior Explanations
+  url: https://www.aclweb.org/anthology/P93-1038
+  year: '1993'
+P93-1039:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Jennifer
+    full: Jennifer Chu
+    id: jennifer-chu-carroll
+    last: Chu
+  author_string: Jennifer Chu
+  bibkey: chu-1993-responding
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981614
+  month: June
+  page_first: '280'
+  page_last: '282'
+  pages: "280\u2013282"
+  paper_id: '39'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1039.jpg
+  title: Responding to User Queries in a Collaborative Environment
+  title_html: Responding to User Queries in a Collaborative Environment
+  url: https://www.aclweb.org/anthology/P93-1039
+  year: '1993'
+P93-1040:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Michael
+    full: Michael White
+    id: michael-white
+    last: White
+  author_string: Michael White
+  bibkey: white-1993-imperfective
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981615
+  month: June
+  page_first: '283'
+  page_last: '285'
+  pages: "283\u2013285"
+  paper_id: '40'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1040.jpg
+  title: The Imperfective Paradox and Trajectory-of-Motion Events
+  title_html: The Imperfective Paradox and Trajectory-of-Motion Events
+  url: https://www.aclweb.org/anthology/P93-1040
+  year: '1993'
+P93-1041:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Hideki
+    full: Hideki Kozima
+    id: hideki-kozima
+    last: Kozima
+  author_string: Hideki Kozima
+  bibkey: kozima-1993-text
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981616
+  month: June
+  page_first: '286'
+  page_last: '288'
+  pages: "286\u2013288"
+  paper_id: '41'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1041.jpg
+  title: Text Segmentation Based on Similarity Between Words
+  title_html: Text Segmentation Based on Similarity Between Words
+  url: https://www.aclweb.org/anthology/P93-1041
+  year: '1993'
+P93-1042:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Nava A.
+    full: Nava A. Shaked
+    id: nava-a-shaked
+    last: Shaked
+  author_string: Nava A. Shaked
+  bibkey: shaked-1993-count
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981617
+  month: June
+  page_first: '289'
+  page_last: '291'
+  pages: "289\u2013291"
+  paper_id: '42'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1042.jpg
+  title: How Do We Count? The Problem of Tagging Phrasal Verbs in Parts
+  title_html: How Do We Count? The Problem of Tagging Phrasal Verbs in Parts
+  url: https://www.aclweb.org/anthology/P93-1042
+  year: '1993'
+P93-1043:
+  address: Columbus, Ohio, USA
+  author:
+  - first: David J.
+    full: David J. Hutches
+    id: david-j-hutches
+    last: Hutches
+  author_string: David J. Hutches
+  bibkey: hutches-1993-raisins
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981618
+  month: June
+  page_first: '292'
+  page_last: '294'
+  pages: "292\u2013294"
+  paper_id: '43'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1043.jpg
+  title: 'Raisins, Sultanas, and Currants: Lexical Classification and Abstraction
+    Via Context Priming'
+  title_html: 'Raisins, Sultanas, and Currants: Lexical Classification and Abstraction
+    Via Context Priming'
+  url: https://www.aclweb.org/anthology/P93-1043
+  year: '1993'
+P93-1044:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Jim
+    full: Jim Skon
+    id: jim-skon
+    last: Skon
+  author_string: Jim Skon
+  bibkey: skon-1993-guiding
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981619
+  month: June
+  page_first: '295'
+  page_last: '297'
+  pages: "295\u2013297"
+  paper_id: '44'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1044.jpg
+  title: Guiding an HPSG Parser using Semantic and Pragmatic Expectations
+  title_html: Guiding an <span class="acl-fixed-case">HPSG</span> Parser using Semantic
+    and Pragmatic Expectations
+  url: https://www.aclweb.org/anthology/P93-1044
+  year: '1993'
+P93-1045:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Beryl
+    full: Beryl Hoffman
+    id: beryl-hoffman
+    last: Hoffman
+  author_string: Beryl Hoffman
+  bibkey: hoffman-1993-formal
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981620
+  month: June
+  page_first: '298'
+  page_last: '300'
+  pages: "298\u2013300"
+  paper_id: '45'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1045.jpg
+  title: The Formal Consequences of Using Variables in CCG Categories
+  title_html: The Formal Consequences of Using Variables in <span class="acl-fixed-case">CCG</span>
+    Categories
+  url: https://www.aclweb.org/anthology/P93-1045
+  year: '1993'
+P93-1046:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Kok Wee
+    full: Kok Wee Gan
+    id: kok-wee-gan
+    last: Gan
+  author_string: Kok Wee Gan
+  bibkey: gan-1993-integrating
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981621
+  month: June
+  page_first: '301'
+  page_last: '303'
+  pages: "301\u2013303"
+  paper_id: '46'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1046.jpg
+  title: Integrating Word Boundary Identification With Sentence Understanding
+  title_html: Integrating Word Boundary Identification With Sentence Understanding
+  url: https://www.aclweb.org/anthology/P93-1046
+  year: '1993'
+P93-1047:
+  address: Columbus, Ohio, USA
+  author:
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  author_string: Anoop Sarkar
+  bibkey: sarkar-1993-extending
+  bibtype: inproceedings
+  booktitle: 31st Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 31st Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981574.981622
+  month: June
+  page_first: '304'
+  page_last: '306'
+  pages: "304\u2013306"
+  paper_id: '47'
+  parent_volume_id: P93-1
+  pdf: https://www.aclweb.org/anthology/P93-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P93-1047.jpg
+  title: "Extending Kimmo\u2019s Two-Level Model of Morphology"
+  title_html: "Extending <span class=\"acl-fixed-case\">K</span>immo\u2019s Two-Level\
+    \ Model of Morphology"
+  url: https://www.aclweb.org/anthology/P93-1047
+  year: '1993'

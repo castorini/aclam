@@ -1,0 +1,735 @@
+J02-1000:
+  bibkey: cl-2002-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  paper_id: '0'
+  parent_volume_id: J02-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1000.jpg
+  title: Computational Linguistics, Volume 28, Number 1, March 2002
+  title_html: Computational Linguistics, Volume 28, Number 1, March 2002
+  year: '2002'
+J02-1001:
+  author:
+  - first: "Ant\xF3nio"
+    full: "Ant\xF3nio Branco"
+    id: antonio-branco
+    last: Branco
+  author_string: "Ant\xF3nio Branco"
+  bibkey: branco-2002-binding
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  doi: 10.1162/089120102317341747
+  page_first: '1'
+  page_last: '18'
+  pages: "1\u201318"
+  paper_id: '1'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1001.jpg
+  title: Binding Machines
+  title_html: Binding Machines
+  url: https://www.aclweb.org/anthology/J02-1001
+  year: '2002'
+J02-1002:
+  author:
+  - first: Lev
+    full: Lev Pevzner
+    id: lev-pevzner
+    last: Pevzner
+  - first: Marti A.
+    full: Marti A. Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Lev Pevzner, Marti A. Hearst
+  bibkey: pevzner-hearst-2002-critique
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  doi: 10.1162/089120102317341756
+  page_first: '19'
+  page_last: '36'
+  pages: "19\u201336"
+  paper_id: '2'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1002.jpg
+  title: A Critique and Improvement of an Evaluation Metric for Text Segmentation
+  title_html: A Critique and Improvement of an Evaluation Metric for Text Segmentation
+  url: https://www.aclweb.org/anthology/J02-1002
+  year: '2002'
+J02-1003:
+  author:
+  - first: Kees
+    full: Kees van Deemter
+    id: kees-van-deemter
+    last: van Deemter
+  author_string: Kees van Deemter
+  bibkey: van-deemter-2002-generating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  doi: 10.1162/089120102317341765
+  page_first: '37'
+  page_last: '52'
+  pages: "37\u201352"
+  paper_id: '3'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1003.jpg
+  title: 'Generating Referring Expressions: Boolean Extensions of the Incremental
+    Algorithm'
+  title_html: 'Generating Referring Expressions: <span class="acl-fixed-case">B</span>oolean
+    Extensions of the Incremental Algorithm'
+  url: https://www.aclweb.org/anthology/J02-1003
+  year: '2002'
+J02-1004:
+  author:
+  - first: Gary Geunbae
+    full: Gary Geunbae Lee
+    id: gary-geunbae-lee
+    last: Lee
+  - first: Jeongwon
+    full: Jeongwon Cha
+    id: jeong-won-cha
+    last: Cha
+  - first: Jong-Hyeok
+    full: Jong-Hyeok Lee
+    id: jong-hyeok-lee
+    last: Lee
+  author_string: Gary Geunbae Lee, Jeongwon Cha, Jong-Hyeok Lee
+  bibkey: lee-etal-2002-syllable
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  doi: 10.1162/089120102317341774
+  page_first: '53'
+  page_last: '70'
+  pages: "53\u201370"
+  paper_id: '4'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1004.jpg
+  title: Syllable-Pattern-Based Unknown-Morpheme Segmentation and Estimation for Hybrid
+    Part-of-Speech Tagging of Korean
+  title_html: Syllable-Pattern-Based Unknown-Morpheme Segmentation and Estimation
+    for Hybrid Part-of-Speech Tagging of <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/J02-1004
+  year: '2002'
+J02-1005:
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Mark Johnson
+  bibkey: johnson-2002-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  doi: 10.1162/089120102317341783
+  page_first: '71'
+  page_last: '76'
+  pages: "71\u201376"
+  paper_id: '5'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1005.jpg
+  title: 'Squibs and Discussions: The DOP Estimation Method is Biased and Inconsistent'
+  title_html: 'Squibs and Discussions: The <span class="acl-fixed-case">DOP</span>
+    Estimation Method is Biased and Inconsistent'
+  url: https://www.aclweb.org/anthology/J02-1005
+  year: '2002'
+J02-1006:
+  bibkey: nn-2002-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  paper_id: '6'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1006.jpg
+  title: "Book Reviews: Tree Adjoining Grammars: Formalisms, Linguistic Analysis and\
+    \ Processing edited by Anne Abeille and Owen Rambow, Reviewed by Geoffrey K. Pullum;\
+    \ The Theory and Practice of Discourse Parsing and Summarization by Daniel Marcu,\
+    \ Reviewed by Udo Hahn; Natural Language Semantics by Keith Allan, Reviewed by\
+    \ Rodger Kibble; Intonation: Analysis, Modelling and Technology edited by Antonis\
+    \ Botinis, Reviewed by Martine Grice; Polysemy: Theoretical and Computational\
+    \ Approaches edited by Yael Ravin and Claudia Leacock, Reviewed by Jean V\xE9\
+    ronis; Abduction, Belief and Context in Dialogue: Studies in Computational Pragmatics\
+    \ edited by Harry Bunt and William Black, Reviewed by Matthew Stone; Relationships\
+    \ in the Organization of Knowledge edited by Carol A. Bean and Rebecca Green,\
+    \ Reviewed by Gregory Grefenstette"
+  title_html: "Book Reviews: Tree Adjoining Grammars: Formalisms, Linguistic Analysis\
+    \ and Processing edited by Anne Abeille and Owen Rambow, Reviewed by Geoffrey\
+    \ K. Pullum; The Theory and Practice of Discourse Parsing and Summarization by\
+    \ Daniel <span class=\"acl-fixed-case\">M</span>arcu, Reviewed by Udo Hahn; Natural\
+    \ Language Semantics by <span class=\"acl-fixed-case\">K</span>eith Allan, Reviewed\
+    \ by <span class=\"acl-fixed-case\">R</span>odger Kibble; Intonation: Analysis,\
+    \ Modelling and Technology edited by Antonis Botinis, Reviewed by Martine Grice;\
+    \ Polysemy: Theoretical and Computational Approaches edited by Yael Ravin and\
+    \ Claudia Leacock, Reviewed by Jean V\xE9ronis; Abduction, Belief and Context\
+    \ in Dialogue: Studies in Computational Pragmatics edited by Harry Bunt and William\
+    \ Black, Reviewed by Matthew Stone; Relationships in the Organization of Knowledge\
+    \ edited by Carol A. Bean and Rebecca Green, Reviewed by Gregory <span class=\"\
+    acl-fixed-case\">G</span>refenstette"
+  url: https://www.aclweb.org/anthology/J02-1006
+  year: '2002'
+J02-1007:
+  bibkey: nn-2002-briefly
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 1, March 2002
+  paper_id: '7'
+  parent_volume_id: J02-1
+  pdf: https://www.aclweb.org/anthology/J02-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-1007.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J02-1007
+  year: '2002'
+J02-2000:
+  bibkey: cl-2002-linguistics-28
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  paper_id: '0'
+  parent_volume_id: J02-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2000.jpg
+  title: Computational Linguistics, Volume 28, Number 2, June 2002
+  title_html: Computational Linguistics, Volume 28, Number 2, June 2002
+  year: '2002'
+J02-2001:
+  author:
+  - first: Philip
+    full: Philip Edmonds
+    id: philip-edmonds
+    last: Edmonds
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Philip Edmonds, Graeme Hirst
+  bibkey: edmonds-hirst-2002-near
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  doi: 10.1162/089120102760173625
+  page_first: '105'
+  page_last: '144'
+  pages: "105\u2013144"
+  paper_id: '1'
+  parent_volume_id: J02-2
+  pdf: https://www.aclweb.org/anthology/J02-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2001.jpg
+  title: Near-Synonymy and Lexical Choice
+  title_html: Near-Synonymy and Lexical Choice
+  url: https://www.aclweb.org/anthology/J02-2001
+  year: '2002'
+J02-2002:
+  author:
+  - first: Cem
+    full: Cem Bozsahin
+    id: cem-bozsahin
+    last: Bozsahin
+  author_string: Cem Bozsahin
+  bibkey: bozsahin-2002-combinatory
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  doi: 10.1162/089120102760173634
+  page_first: '145'
+  page_last: '186'
+  pages: "145\u2013186"
+  paper_id: '2'
+  parent_volume_id: J02-2
+  pdf: https://www.aclweb.org/anthology/J02-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2002.jpg
+  title: The Combinatory Morphemic Lexicon
+  title_html: The Combinatory Morphemic Lexicon
+  url: https://www.aclweb.org/anthology/J02-2002
+  year: '2002'
+J02-2003:
+  author:
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  - first: David
+    full: David Weir
+    id: david-weir
+    last: Weir
+  author_string: Stephen Clark, David Weir
+  bibkey: clark-weir-2002-class
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  doi: 10.1162/089120102760173643
+  page_first: '187'
+  page_last: '206'
+  pages: "187\u2013206"
+  paper_id: '3'
+  parent_volume_id: J02-2
+  pdf: https://www.aclweb.org/anthology/J02-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2003.jpg
+  title: Class-Based Probability Estimation Using a Semantic Hierarchy
+  title_html: Class-Based Probability Estimation Using a Semantic Hierarchy
+  url: https://www.aclweb.org/anthology/J02-2003
+  year: '2002'
+J02-2004:
+  author:
+  - first: Rafael C.
+    full: Rafael C. Carrasco
+    id: rafael-c-carrasco
+    last: Carrasco
+  - first: Mikel L.
+    full: Mikel L. Forcada
+    id: mikel-l-forcada
+    last: Forcada
+  author_string: Rafael C. Carrasco, Mikel L. Forcada
+  bibkey: carrasco-forcada-2002-incremental
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  doi: 10.1162/089120102760173652
+  page_first: '207'
+  page_last: '216'
+  pages: "207\u2013216"
+  paper_id: '4'
+  parent_volume_id: J02-2
+  pdf: https://www.aclweb.org/anthology/J02-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2004.jpg
+  title: Incremental Construction and Maintenance of Minimal Finite-State Automata
+  title_html: Incremental Construction and Maintenance of Minimal Finite-State Automata
+  url: https://www.aclweb.org/anthology/J02-2004
+  year: '2002'
+J02-2005:
+  bibkey: nn-2002-book-reviews
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  paper_id: '5'
+  parent_volume_id: J02-2
+  pdf: https://www.aclweb.org/anthology/J02-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2005.jpg
+  title: 'Book Reviews: Spotting and Discovering Terms through Natural Language Processing
+    by Christian Jacquemin, Reviewed by Sophia Ananiadou; Automatic Summarization
+    by Inderjeet Mani, Reviewed by Chris D. Paice; Efficient Processing with Constraint-Logic
+    Grammars Using Grammar Compilation by Guido Minnen, Reviewed by Suresh Manandhar;
+    The Language of Word Meaning edited by Pierrette Bouillon and Federica Busa, Reviewed
+    by Mari Broman Olsen; Empirical Methods for Exploiting Parallel Texts by I. Dan
+    Melamed, Reviewed by Ted Pedersen; Sentence Comprehension: The Integration of
+    Habits and Rules by David J. Townsend and Thomas G. Bever, Reviewed by Matthew
+    W. Crocker'
+  title_html: 'Book Reviews: Spotting and Discovering Terms through Natural Language
+    Processing by Christian Jacquemin, Reviewed by Sophia Ananiadou; Automatic Summarization
+    by Inderjeet Mani, Reviewed by Chris D. Paice; Efficient Processing with Constraint-Logic
+    Grammars Using Grammar Compilation by Guido Minnen, Reviewed by Suresh Manandhar;
+    The Language of Word Meaning edited by Pierrette Bouillon and Federica Busa, Reviewed
+    by Mari Broman Olsen; Empirical Methods for Exploiting Parallel Texts by <span
+    class="acl-fixed-case">I</span>. Dan Melamed, Reviewed by Ted <span class="acl-fixed-case">P</span>edersen;
+    Sentence Comprehension: The Integration of Habits and Rules by <span class="acl-fixed-case">D</span>avid
+    J. Townsend and <span class="acl-fixed-case">T</span>homas G. Bever, Reviewed
+    by Matthew W. Crocker'
+  url: https://www.aclweb.org/anthology/J02-2005
+  year: '2002'
+J02-2006:
+  bibkey: nn-2002-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 2, June 2002
+  paper_id: '6'
+  parent_volume_id: J02-2
+  pdf: https://www.aclweb.org/anthology/J02-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-2006.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J02-2006
+  year: '2002'
+J02-3000:
+  bibkey: cl-2002-linguistics-28-number
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 3, September 2002
+  paper_id: '0'
+  parent_volume_id: J02-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-3000.jpg
+  title: Computational Linguistics, Volume 28, Number 3, September 2002
+  title_html: Computational Linguistics, Volume 28, Number 3, September 2002
+  year: '2002'
+J02-3001:
+  author:
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Daniel Gildea, Daniel Jurafsky
+  bibkey: gildea-jurafsky-2002-automatic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 3, September 2002
+  doi: 10.1162/089120102760275983
+  page_first: '245'
+  page_last: '288'
+  pages: "245\u2013288"
+  paper_id: '1'
+  parent_volume_id: J02-3
+  pdf: https://www.aclweb.org/anthology/J02-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-3001.jpg
+  title: Automatic Labeling of Semantic Roles
+  title_html: Automatic Labeling of Semantic Roles
+  url: https://www.aclweb.org/anthology/J02-3001
+  year: '2002'
+J02-3002:
+  author:
+  - first: Andrei
+    full: Andrei Mikheev
+    id: andrei-mikheev
+    last: Mikheev
+  author_string: Andrei Mikheev
+  bibkey: mikheev-2002-periods
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 3, September 2002
+  doi: 10.1162/089120102760275992
+  page_first: '289'
+  page_last: '318'
+  pages: "289\u2013318"
+  paper_id: '2'
+  parent_volume_id: J02-3
+  pdf: https://www.aclweb.org/anthology/J02-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-3002.jpg
+  title: Periods, Capitalized Words, etc.
+  title_html: Periods, Capitalized Words, etc.
+  url: https://www.aclweb.org/anthology/J02-3002
+  year: '2002'
+J02-3003:
+  author:
+  - first: Eleni
+    full: Eleni Miltsakaki
+    id: eleni-miltsakaki
+    last: Miltsakaki
+  author_string: Eleni Miltsakaki
+  bibkey: miltsakaki-2002-toward
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 3, September 2002
+  doi: 10.1162/089120102760276009
+  page_first: '319'
+  page_last: '355'
+  pages: "319\u2013355"
+  paper_id: '3'
+  parent_volume_id: J02-3
+  pdf: https://www.aclweb.org/anthology/J02-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-3003.jpg
+  title: Toward an Aposynthesis of Topic Continuity and Intrasentential Anaphora
+  title_html: Toward an Aposynthesis of Topic Continuity and Intrasentential Anaphora
+  url: https://www.aclweb.org/anthology/J02-3003
+  year: '2002'
+J02-3004:
+  author:
+  - first: Maria
+    full: Maria Lapata
+    id: maria-lapata
+    last: Lapata
+  author_string: Maria Lapata
+  bibkey: lapata-2002-disambiguation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 3, September 2002
+  doi: 10.1162/089120102760276018
+  page_first: '357'
+  page_last: '388'
+  pages: "357\u2013388"
+  paper_id: '4'
+  parent_volume_id: J02-3
+  pdf: https://www.aclweb.org/anthology/J02-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-3004.jpg
+  title: The Disambiguation of Nominalizations
+  title_html: The Disambiguation of Nominalizations
+  url: https://www.aclweb.org/anthology/J02-3004
+  year: '2002'
+J02-3005:
+  author:
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  author_string: Shuly Wintner, Anoop Sarkar
+  bibkey: wintner-sarkar-2002-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 3, September 2002
+  doi: 10.1162/089120102760276027
+  page_first: '389'
+  page_last: '397'
+  pages: "389\u2013397"
+  paper_id: '5'
+  parent_volume_id: J02-3
+  pdf: https://www.aclweb.org/anthology/J02-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-3005.jpg
+  title: 'Squibs and Discussions: A Note on Typing Feature Structures'
+  title_html: 'Squibs and Discussions: A Note on Typing Feature Structures'
+  url: https://www.aclweb.org/anthology/J02-3005
+  year: '2002'
+J02-4000:
+  bibkey: cl-2002-linguistics-28-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  paper_id: '0'
+  parent_volume_id: J02-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4000.jpg
+  title: Computational Linguistics, Volume 28, Number 4, December 2002
+  title_html: Computational Linguistics, Volume 28, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2002
+  year: '2002'
+J02-4001:
+  author:
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Dragomir R. Radev, Eduard Hovy, Kathleen McKeown
+  bibkey: radev-etal-2002-introduction
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671927
+  page_first: '399'
+  page_last: '408'
+  pages: "399\u2013408"
+  paper_id: '1'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4001.jpg
+  title: Introduction to the Special Issue on Summarization
+  title_html: Introduction to the Special Issue on Summarization
+  url: https://www.aclweb.org/anthology/J02-4001
+  year: '2002'
+J02-4002:
+  author:
+  - first: Simone
+    full: Simone Teufel
+    id: simone-teufel
+    last: Teufel
+  - first: Marc
+    full: Marc Moens
+    id: marc-moens
+    last: Moens
+  author_string: Simone Teufel, Marc Moens
+  bibkey: teufel-moens-2002-articles
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671936
+  page_first: '409'
+  page_last: '445'
+  pages: "409\u2013445"
+  paper_id: '2'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4002.jpg
+  title: 'Articles Summarizing Scientific Articles: Experiments with Relevance and
+    Rhetorical Status'
+  title_html: 'Articles Summarizing Scientific Articles: Experiments with Relevance
+    and Rhetorical Status'
+  url: https://www.aclweb.org/anthology/J02-4002
+  year: '2002'
+J02-4003:
+  author:
+  - first: Klaus
+    full: Klaus Zechner
+    id: klaus-zechner
+    last: Zechner
+  author_string: Klaus Zechner
+  bibkey: zechner-2002-automatic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671945
+  page_first: '447'
+  page_last: '485'
+  pages: "447\u2013485"
+  paper_id: '3'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4003.jpg
+  title: Automatic Summarization of Open-Domain Multiparty Dialogues in Diverse Genres
+  title_html: Automatic Summarization of Open-Domain Multiparty Dialogues in Diverse
+    Genres
+  url: https://www.aclweb.org/anthology/J02-4003
+  year: '2002'
+J02-4004:
+  author:
+  - first: H. Gregory
+    full: H. Gregory Silber
+    id: h-gregory-silber
+    last: Silber
+  - first: Kathleen F.
+    full: Kathleen F. McCoy
+    id: kathleen-f-mccoy
+    last: McCoy
+  author_string: H. Gregory Silber, Kathleen F. McCoy
+  bibkey: silber-mccoy-2002-efficiently
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671954
+  page_first: '487'
+  page_last: '496'
+  pages: "487\u2013496"
+  paper_id: '4'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4004.jpg
+  title: Efficiently Computed Lexical Chains as an Intermediate Representation for
+    Automatic Text Summarization
+  title_html: Efficiently Computed Lexical Chains as an Intermediate Representation
+    for Automatic Text Summarization
+  url: https://www.aclweb.org/anthology/J02-4004
+  year: '2002'
+J02-4005:
+  author:
+  - first: Horacio
+    full: Horacio Saggion
+    id: horacio-saggion
+    last: Saggion
+  - first: Guy
+    full: Guy Lapalme
+    id: guy-lapalme
+    last: Lapalme
+  author_string: Horacio Saggion, Guy Lapalme
+  bibkey: saggion-lapalme-2002-generating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671963
+  page_first: '497'
+  page_last: '526'
+  pages: "497\u2013526"
+  paper_id: '5'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4005.jpg
+  title: Generating Indicative-Informative Summaries with SumUM
+  title_html: Generating Indicative-Informative Summaries with <span class="acl-fixed-case">S</span>um<span
+    class="acl-fixed-case">UM</span>
+  url: https://www.aclweb.org/anthology/J02-4005
+  year: '2002'
+J02-4006:
+  author:
+  - first: Hongyan
+    full: Hongyan Jing
+    id: hongyan-jing
+    last: Jing
+  author_string: Hongyan Jing
+  bibkey: jing-2002-using
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671972
+  page_first: '527'
+  page_last: '543'
+  pages: "527\u2013543"
+  paper_id: '6'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4006.jpg
+  title: Using Hidden Markov Modeling to Decompose Human-Written Summaries
+  title_html: Using Hidden <span class="acl-fixed-case">M</span>arkov Modeling to
+    Decompose Human-Written Summaries
+  url: https://www.aclweb.org/anthology/J02-4006
+  year: '2002'
+J02-4007:
+  author:
+  - first: Ehud
+    full: Ehud Reiter
+    id: ehud-reiter
+    last: Reiter
+  - first: Somayajulu
+    full: Somayajulu Sripada
+    id: somayajulu-sripada
+    last: Sripada
+  author_string: Ehud Reiter, Somayajulu Sripada
+  bibkey: reiter-sripada-2002-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  doi: 10.1162/089120102762671981
+  page_first: '545'
+  page_last: '553'
+  pages: "545\u2013553"
+  paper_id: '7'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4007.jpg
+  title: 'Squibs and Discussions: Human Variation and Lexical Choice'
+  title_html: 'Squibs and Discussions: Human Variation and Lexical Choice'
+  url: https://www.aclweb.org/anthology/J02-4007
+  year: '2002'
+J02-4008:
+  bibkey: nn-2002-book-reviews-early
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  paper_id: '8'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4008.jpg
+  title: 'Book Reviews: Early Years in Machine Translation: Memoirs and Biographies
+    of Pioneers edited by W. John Hutchins, Reviewed by Warren J. Plath; Patterns
+    of Text: In Honour of Michael Hoey edited by Mike Scott and Geoff Thompson, Reviewed
+    by Graeme Hirst; Word Frequency Distributions by R. Harald Baayen, Reviewed by
+    Geoffrey Sampson; Data-Driven Techniques in Speech Synthesis edited by R. I. Damper,
+    Reviewed by Thierry Dutoit; Empirical Linguistics by Geoffrey Sampson, Reviewed
+    by Steven Abney; Computational Nonlinear Morphology with Emphasis on Semitic Languages
+    by George Anton Kiraz, Reviewed by Markus Walther'
+  title_html: 'Book Reviews: Early Years in Machine Translation: Memoirs and Biographies
+    of Pioneers edited by W. John Hutchins, Reviewed by Warren J. Plath; Patterns
+    of Text: In Honour of <span class="acl-fixed-case">M</span>ichael Hoey edited
+    by Mike Scott and Geoff <span class="acl-fixed-case">T</span>hompson, Reviewed
+    by Graeme Hirst; Word Frequency Distributions by R. Harald Baayen, Reviewed by
+    Geoffrey Sampson; Data-Driven Techniques in Speech Synthesis edited by R. <span
+    class="acl-fixed-case">I</span>. Damper, Reviewed by Thierry Dutoit; Empirical
+    Linguistics by Geoffrey Sampson, Reviewed by Steven Abney; Computational Nonlinear
+    Morphology with Emphasis on <span class="acl-fixed-case">S</span>emitic Languages
+    by <span class="acl-fixed-case">G</span>eorge Anton Kiraz, Reviewed by Markus
+    Walther'
+  url: https://www.aclweb.org/anthology/J02-4008
+  year: '2002'
+J02-4009:
+  bibkey: nn-2002-briefly-noted
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  paper_id: '9'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4009.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J02-4009
+  year: '2002'
+J02-4010:
+  bibkey: nn-2002-publications-received
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  paper_id: '10'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4010.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J02-4010
+  year: '2002'
+J02-4011:
+  bibkey: nn-2002-author
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  paper_id: '11'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4011.jpg
+  title: Author Index
+  title_html: Author Index
+  url: https://www.aclweb.org/anthology/J02-4011
+  year: '2002'
+J02-4012:
+  bibkey: nn-2002-title
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 28, Number 4, December 2002
+  paper_id: '12'
+  parent_volume_id: J02-4
+  pdf: https://www.aclweb.org/anthology/J02-4012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J02-4012.jpg
+  title: Title Index
+  title_html: Title Index
+  url: https://www.aclweb.org/anthology/J02-4012
+  year: '2002'

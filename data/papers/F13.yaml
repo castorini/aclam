@@ -1,0 +1,3780 @@
+F13-1000:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Emmanuel
+    full: Emmanuel Morin
+    id: emmanuel-morin
+    last: Morin
+  - first: Yannick
+    full: "Yannick Est\xE8ve"
+    id: yannick-esteve
+    last: "Est\xE8ve"
+  author_string: "Emmanuel Morin, Yannick Est\xE8ve"
+  bibkey: jep-taln-recital-2013-taln
+  bibtype: proceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  paper_id: '0'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1000.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1000.jpg
+  title: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  title_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  url: https://www.aclweb.org/anthology/F13-1000
+  year: '2013'
+F13-1001:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Fatima Zahra
+    full: Fatima Zahra Nejme
+    id: fatima-zahra-nejme
+    last: Nejme
+  - first: Siham
+    full: Siham Boulaknadel
+    id: siham-boulaknadel
+    last: Boulaknadel
+  - first: Driss
+    full: Driss Aboutajdine
+    id: driss-aboutajdine
+    last: Aboutajdine
+  author_string: Fatima Zahra Nejme, Siham Boulaknadel, Driss Aboutajdine
+  bibkey: nejme-etal-2013-morphological
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '5'
+  page_last: '18'
+  pages: "5\u201318"
+  paper_id: '1'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1001.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1001.jpg
+  title: Morphological analysis of the standard Amazigh language using NooJ platform
+    (Analyse Automatique de la Morphologie Nominale Amazighe) [in French]
+  title_html: Morphological analysis of the standard Amazigh language using <span
+    class="acl-fixed-case">N</span>oo<span class="acl-fixed-case">J</span> platform
+    (Analyse Automatique de la Morphologie Nominale Amazighe) [in <span class="acl-fixed-case">F</span>rench]
+  url: https://www.aclweb.org/anthology/F13-1001
+  year: '2013'
+F13-1002:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Isabelle
+    full: Isabelle Tellier
+    id: isabelle-tellier
+    last: Tellier
+  - first: Yoann
+    full: Yoann Dupont
+    id: yoann-dupont
+    last: Dupont
+  author_string: Isabelle Tellier, Yoann Dupont
+  bibkey: tellier-dupont-2013-symbolic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '19'
+  page_last: '32'
+  pages: "19\u201332"
+  paper_id: '2'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1002.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1002.jpg
+  title: 'Symbolic and statistical learning for chunking : comparison and combinations
+    (Apprentissage symbolique et statistique pour le chunking:comparaison et combinaisons)
+    [in French]'
+  title_html: 'Symbolic and statistical learning for chunking : comparison and combinations
+    (Apprentissage symbolique et statistique pour le chunking:comparaison et combinaisons)
+    [in <span class="acl-fixed-case">F</span>rench]'
+  url: https://www.aclweb.org/anthology/F13-1002
+  year: '2013'
+F13-1003:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Yllias
+    full: Yllias Chali
+    id: yllias-chali
+    last: Chali
+  - first: Sadid A.
+    full: Sadid A. Hasan
+    id: sadid-a-hasan
+    last: Hasan
+  - first: Mustapha
+    full: Mustapha Mojahid
+    id: mustapha-mojahid
+    last: Mojahid
+  author_string: Yllias Chali, Sadid A. Hasan, Mustapha Mojahid
+  bibkey: chali-etal-2013-using
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '33'
+  page_last: '47'
+  pages: "33\u201347"
+  paper_id: '3'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1003.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1003.jpg
+  title: "Using POMDPs for Topic-Focused Multi-Document Summarization (L\u2019utilisation\
+    \ des POMDP pour les r\xE9sum\xE9s multi-documents orient\xE9s par une th\xE9\
+    matique) [in French]"
+  title_html: "Using <span class=\"acl-fixed-case\">POMDP</span>s for Topic-Focused\
+    \ <span class=\"acl-fixed-case\">M</span>ulti-<span class=\"acl-fixed-case\">D</span>ocument\
+    \ Summarization (L\u2019utilisation des <span class=\"acl-fixed-case\">POMDP</span>\
+    \ pour les r\xE9sum\xE9s multi-documents orient\xE9s par une th\xE9matique) [in\
+    \ <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1003
+  year: '2013'
+F13-1004:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Olivier
+    full: Olivier Ferret
+    id: olivier-ferret
+    last: Ferret
+  author_string: Olivier Ferret
+  bibkey: ferret-2013-unsupervised
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '48'
+  page_last: '61'
+  pages: "48\u201361"
+  paper_id: '4'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1004.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1004.jpg
+  title: "Unsupervised selection of semantic relations for improving a distributional\
+    \ thesaurus (S\xE9lection non supervis\xE9e de relations s\xE9mantiques pour am\xE9\
+    liorer un th\xE9saurus distributionnel) [in French]"
+  title_html: "Unsupervised selection of semantic relations for improving a distributional\
+    \ thesaurus (S\xE9lection non supervis\xE9e de relations s\xE9mantiques pour am\xE9\
+    liorer un th\xE9saurus distributionnel) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1004
+  year: '2013'
+F13-1005:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Marie
+    full: Marie Dupuch
+    id: marie-dupuch
+    last: Dupuch
+  - first: Thierry
+    full: Thierry Hamon
+    id: thierry-hamon
+    last: Hamon
+  - first: Natalia
+    full: Natalia Grabar
+    id: natalia-grabar
+    last: Grabar
+  author_string: Marie Dupuch, Thierry Hamon, Natalia Grabar
+  bibkey: dupuch-etal-2013-grouping
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '62'
+  page_last: '75'
+  pages: "62\u201375"
+  paper_id: '5'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1005.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1005.jpg
+  title: "Grouping of terms based on linguistic and semantic regularities in a cross-lingual\
+    \ context (Groupement de termes bas\xE9 sur des r\xE9gularit\xE9s linguistiques\
+    \ et s\xE9mantiques dans un contexte cross-langue) [in French]"
+  title_html: "Grouping of terms based on linguistic and semantic regularities in\
+    \ a cross-lingual context (Groupement de termes bas\xE9 sur des r\xE9gularit\xE9\
+    s linguistiques et s\xE9mantiques dans un contexte cross-langue) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1005
+  year: '2013'
+F13-1006:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Quentin
+    full: Quentin Pradet
+    id: quentin-pradet
+    last: Pradet
+  - first: Jeanne
+    full: Jeanne Baguenier-Desormeaux
+    id: jeanne-baguenier-desormeaux
+    last: Baguenier-Desormeaux
+  - first: "Ga\xEBl de"
+    full: "Ga\xEBl de Chalendar"
+    id: gael-de-chalendar
+    last: Chalendar
+  - first: Laurence
+    full: Laurence Danlos
+    id: laurence-danlos
+    last: Danlos
+  author_string: "Quentin Pradet, Jeanne Baguenier-Desormeaux, Ga\xEBl de Chalendar,\
+    \ Laurence Danlos"
+  bibkey: pradet-etal-2013-wonef
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '76'
+  page_last: '89'
+  pages: "76\u201389"
+  paper_id: '6'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1006.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1006.jpg
+  title: "WoNeF, an improved, extended and evaluated automatic French translation\
+    \ of WordNet (WoNeF : am\xE9lioration, extension et \xE9valuation d\u2019une traduction\
+    \ fran\xE7aise automatique de WordNet) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">W</span>o<span class=\"acl-fixed-case\"\
+    >N</span>e<span class=\"acl-fixed-case\">F</span>, an improved, extended and evaluated\
+    \ automatic <span class=\"acl-fixed-case\">F</span>rench translation of <span\
+    \ class=\"acl-fixed-case\">W</span>ord<span class=\"acl-fixed-case\">N</span>et\
+    \ (<span class=\"acl-fixed-case\">W</span>o<span class=\"acl-fixed-case\">N</span>e<span\
+    \ class=\"acl-fixed-case\">F</span> : am\xE9lioration, extension et \xE9valuation\
+    \ d\u2019une traduction fran\xE7aise automatique de <span class=\"acl-fixed-case\"\
+    >W</span>ord<span class=\"acl-fixed-case\">N</span>et) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1006
+  year: '2013'
+F13-1007:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Bassam
+    full: Bassam Jabaian
+    id: bassam-jabaian
+    last: Jabaian
+  - first: Fabrice
+    full: "Fabrice Lef\xE8vre"
+    id: fabrice-lefevre
+    last: "Lef\xE8vre"
+  - first: Laurent
+    full: Laurent Besacier
+    id: laurent-besacier
+    last: Besacier
+  author_string: "Bassam Jabaian, Fabrice Lef\xE8vre, Laurent Besacier"
+  bibkey: jabaian-etal-2013-discriminative
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '90'
+  page_last: '103'
+  pages: "90\u2013103"
+  paper_id: '7'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1007.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1007.jpg
+  title: "Discriminative statistical approaches for multilingual speech understanding\
+    \ (Approches statistiques discriminantes pour l\u2019interpr\xE9tation s\xE9mantique\
+    \ multilingue de la parole) [in French]"
+  title_html: "Discriminative statistical approaches for multilingual speech understanding\
+    \ (Approches statistiques discriminantes pour l\u2019interpr\xE9tation s\xE9mantique\
+    \ multilingue de la parole) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1007
+  year: '2013'
+F13-1008:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Chlo\xE9"
+    full: "Chlo\xE9 Braud"
+    id: chloe-braud
+    last: Braud
+  - first: Pascal
+    full: Pascal Denis
+    id: pascal-denis
+    last: Denis
+  author_string: "Chlo\xE9 Braud, Pascal Denis"
+  bibkey: braud-denis-2013-automatically
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '104'
+  page_last: '117'
+  pages: "104\u2013117"
+  paper_id: '8'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1008.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1008.jpg
+  title: "Automatically identifying implicit discourse relations using annotated data\
+    \ and raw corpora (Identification automatique des relations discursives \xAB implicites\
+    \ \xBB \xE0 partir de donn\xE9es annot\xE9es et de corpus bruts) [in French]"
+  title_html: "Automatically identifying implicit discourse relations using annotated\
+    \ data and raw corpora (Identification automatique des relations discursives \xAB\
+    \ implicites \xBB \xE0 partir de donn\xE9es annot\xE9es et de corpus bruts) [in\
+    \ <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1008
+  year: '2013'
+F13-1009:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Emmanuel
+    full: Emmanuel Lassalle
+    id: emmanuel-lassalle
+    last: Lassalle
+  - first: Pascal
+    full: Pascal Denis
+    id: pascal-denis
+    last: Denis
+  author_string: Emmanuel Lassalle, Pascal Denis
+  bibkey: lassalle-denis-2013-learning
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '118'
+  page_last: '131'
+  pages: "118\u2013131"
+  paper_id: '9'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1009.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1009.jpg
+  title: "Learning a hierarchy of specialized pairwise models for coreference resolution\
+    \ (Apprentissage d\u2019une hi\xE9rarchie de mod\xE8les \xE0 paires sp\xE9cialis\xE9\
+    s pour la r\xE9solution de la cor\xE9f\xE9rence) [in French]"
+  title_html: "Learning a hierarchy of specialized pairwise models for coreference\
+    \ resolution (Apprentissage d\u2019une hi\xE9rarchie de mod\xE8les \xE0 paires\
+    \ sp\xE9cialis\xE9s pour la r\xE9solution de la cor\xE9f\xE9rence) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1009
+  year: '2013'
+F13-1010:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Jean-Philippe
+    full: Jean-Philippe Fauconnier
+    id: jean-philippe-fauconnier
+    last: Fauconnier
+  - first: Mouna
+    full: Mouna Kamel
+    id: mouna-kamel
+    last: Kamel
+  - first: Bernard
+    full: Bernard Rothenburger
+    id: bernard-rothenburger
+    last: Rothenburger
+  - first: Nathalie
+    full: Nathalie Aussenac-Gilles
+    id: nathalie-aussenac-gilles
+    last: Aussenac-Gilles
+  author_string: Jean-Philippe Fauconnier, Mouna Kamel, Bernard Rothenburger, Nathalie
+    Aussenac-Gilles
+  bibkey: fauconnier-etal-2013-supervised
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '132'
+  page_last: '145'
+  pages: "132\u2013145"
+  paper_id: '10'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1010.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1010.jpg
+  title: "A Supervised learning for the identification of semantic relations in parallel\
+    \ enumerative structures (Apprentissage supervis\xE9 pour l\u2019identification\
+    \ de relations s\xE9mantiques au sein de structures \xE9num\xE9ratives parall\xE8\
+    les) [in French]"
+  title_html: "A Supervised learning for the identification of semantic relations\
+    \ in parallel enumerative structures (Apprentissage supervis\xE9 pour l\u2019\
+    identification de relations s\xE9mantiques au sein de structures \xE9num\xE9ratives\
+    \ parall\xE8les) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1010
+  year: '2013'
+F13-1011:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Marie-Paule
+    full: Marie-Paule Jacques
+    id: marie-paule-jacques
+    last: Jacques
+  - first: Laura
+    full: Laura Hartwell
+    id: laura-hartwell
+    last: Hartwell
+  - first: Achille
+    full: Achille Falaise
+    id: achille-falaise
+    last: Falaise
+  author_string: Marie-Paule Jacques, Laura Hartwell, Achille Falaise
+  bibkey: jacques-etal-2013-nlp
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '146'
+  page_last: '159'
+  pages: "146\u2013159"
+  paper_id: '11'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1011.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1011.jpg
+  title: "NLP and corpus techniques for finding formulations that facilitate scientific\
+    \ writing in English (Techniques de TAL et corpus pour faciliter les formulations\
+    \ en anglais scientifique \xE9crit) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">NLP</span> and corpus techniques for\
+    \ finding formulations that facilitate scientific writing in <span class=\"acl-fixed-case\"\
+    >E</span>nglish (Techniques de <span class=\"acl-fixed-case\">TAL</span> et corpus\
+    \ pour faciliter les formulations en anglais scientifique \xE9crit) [in <span\
+    \ class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1011
+  year: '2013'
+F13-1012:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Nicolas
+    full: Nicolas Hernandez
+    id: nicolas-hernandez
+    last: Hernandez
+  - first: Florian
+    full: Florian Boudin
+    id: florian-boudin
+    last: Boudin
+  author_string: Nicolas Hernandez, Florian Boudin
+  bibkey: hernandez-boudin-2013-construction
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '160'
+  page_last: '173'
+  pages: "160\u2013173"
+  paper_id: '12'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1012.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1012.jpg
+  title: "Construction of a Free Large Part-of-Speech Annotated Corpus in French (Construction\
+    \ d\u2019un large corpus \xE9crit libre annot\xE9 morpho-syntaxiquement en fran\xE7\
+    ais) [in French]"
+  title_html: "Construction of a Free Large Part-of-Speech Annotated Corpus in <span\
+    \ class=\"acl-fixed-case\">F</span>rench (Construction d\u2019un large corpus\
+    \ \xE9crit libre annot\xE9 morpho-syntaxiquement en fran\xE7ais) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1012
+  year: '2013'
+F13-1013:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Anne
+    full: "Anne Abeill\xE9"
+    id: anne-abeille
+    last: "Abeill\xE9"
+  - first: Benoit
+    full: "Benoit Crabb\xE9"
+    id: benoit-crabbe
+    last: "Crabb\xE9"
+  author_string: "Anne Abeill\xE9, Benoit Crabb\xE9"
+  bibkey: abeille-crabbe-2013-towards
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '174'
+  page_last: '187'
+  pages: "174\u2013187"
+  paper_id: '13'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1013.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1013.jpg
+  title: "Towards a treebank of spoken French (Vers un treebank du fran\xE7ais parl\xE9\
+    ) [in French]"
+  title_html: "Towards a treebank of spoken <span class=\"acl-fixed-case\">F</span>rench\
+    \ (Vers un treebank du fran\xE7ais parl\xE9) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1013
+  year: '2013'
+F13-1014:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Assaf
+    full: Assaf Urieli
+    id: assaf-urieli
+    last: Urieli
+  - first: Ludovic
+    full: Ludovic Tanguy
+    id: ludovic-tanguy
+    last: Tanguy
+  author_string: Assaf Urieli, Ludovic Tanguy
+  bibkey: urieli-tanguy-2013-applying
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '188'
+  page_last: '201'
+  pages: "188\u2013201"
+  paper_id: '14'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1014.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1014.jpg
+  title: "APPLYING A BEAM SEARCH TO TRANSITION-BASED DEPENDENCY PARSING: A CASE STUDY\
+    \ FOR FRENCH WITH THE TALISMANE SUITE (L\u2019apport du faisceau dans l\u2019\
+    analyse syntaxique en d\xE9pendances par transitions : \xE9tudes de cas avec l\u2019\
+    analyseur Talismane) [in French]"
+  title_html: "APPLYING A BEAM SEARCH TO TRANSITION-BASED DEPENDENCY PARSING: A CASE\
+    \ STUDY FOR <span class=\"acl-fixed-case\">F</span>RENCH WITH THE <span class=\"\
+    acl-fixed-case\">T</span>ALISMANE SUITE (L\u2019apport du faisceau dans l\u2019\
+    analyse syntaxique en d\xE9pendances par transitions : \xE9tudes de cas avec l\u2019\
+    analyseur <span class=\"acl-fixed-case\">T</span>alismane) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1014
+  year: '2013'
+F13-1015:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Anca
+    full: Anca Simon
+    id: anca-roxana-simon
+    last: Simon
+  - first: Guillaume
+    full: Guillaume Gravier
+    id: guillaume-gravier
+    last: Gravier
+  - first: Pascale
+    full: "Pascale S\xE9billot"
+    id: pascale-sebillot
+    last: "S\xE9billot"
+  author_string: "Anca Simon, Guillaume Gravier, Pascale S\xE9billot"
+  bibkey: simon-etal-2013-probabilistic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '202'
+  page_last: '214'
+  pages: "202\u2013214"
+  paper_id: '15'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1015.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1015.jpg
+  title: "A probabilistic segment model combining lexical cohesion and disruption\
+    \ for topic segmentation (Un mod\xE8le segmental probabiliste combinant coh\xE9\
+    sion lexicale et rupture lexicale pour la segmentation th\xE9matique) [in French]"
+  title_html: "A probabilistic segment model combining lexical cohesion and disruption\
+    \ for topic segmentation (Un mod\xE8le segmental probabiliste combinant coh\xE9\
+    sion lexicale et rupture lexicale pour la segmentation th\xE9matique) [in <span\
+    \ class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1015
+  year: '2013'
+F13-1016:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Pierre
+    full: Pierre Bourreau
+    id: pierre-bourreau
+    last: Bourreau
+  author_string: Pierre Bourreau
+  bibkey: bourreau-2013-treating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '215'
+  page_last: '228'
+  pages: "215\u2013228"
+  paper_id: '16'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1016.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1016.jpg
+  title: "Treating ellipsis : two abstract categorial grammar perspectives (Traitements\
+    \ d\u2019ellipses : deux approches par les grammaires cat\xE9gorielles abstraites)\
+    \ [in French]"
+  title_html: "Treating ellipsis : two abstract categorial grammar perspectives (Traitements\
+    \ d\u2019ellipses : deux approches par les grammaires cat\xE9gorielles abstraites)\
+    \ [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1016
+  year: '2013'
+F13-1017:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  author_string: Philippe Blache
+  bibkey: blache-2013-chunks
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '229'
+  page_last: '242'
+  pages: "229\u2013242"
+  paper_id: '17'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1017.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1017.jpg
+  title: "Chunks and the notion of activation : a facilitation model for sentence\
+    \ processing (Chunks et activation : un mod\xE8le de facilitation du traitement\
+    \ linguistique) [in French]"
+  title_html: "Chunks and the notion of activation : a facilitation model for sentence\
+    \ processing (Chunks et activation : un mod\xE8le de facilitation du traitement\
+    \ linguistique) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1017
+  year: '2013'
+F13-1018:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Amir
+    full: Amir Hazem
+    id: amir-hazem
+    last: Hazem
+  - first: Emmanuel
+    full: Emmanuel Morin
+    id: emmanuel-morin
+    last: Morin
+  author_string: Amir Hazem, Emmanuel Morin
+  bibkey: hazem-morin-2013-bilingual
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '243'
+  page_last: '256'
+  pages: "243\u2013256"
+  paper_id: '18'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1018.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1018.jpg
+  title: "Bilingual Lexicon Extraction from Comparable Corpora by Combining Contextual\
+    \ Representations (Extraction de lexiques bilingues \xE0 partir de corpus comparables\
+    \ par combinaison de repr\xE9sentations contextuelles) [in French]"
+  title_html: "Bilingual Lexicon Extraction from Comparable Corpora by Combining Contextual\
+    \ Representations (Extraction de lexiques bilingues \xE0 partir de corpus comparables\
+    \ par combinaison de repr\xE9sentations contextuelles) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1018
+  year: '2013'
+F13-1019:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Vincent
+    full: Vincent Claveau
+    id: vincent-claveau
+    last: Claveau
+  - first: Abir
+    full: Abir Ncibi
+    id: abir-ncibi
+    last: Ncibi
+  author_string: Vincent Claveau, Abir Ncibi
+  bibkey: claveau-ncibi-2013-unsupervised
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '257'
+  page_last: '270'
+  pages: "257\u2013270"
+  paper_id: '19'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1019.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1019.jpg
+  title: "Unsupervised CRF for knowledge discovery (D\xE9couverte de connaissances\
+    \ dans les s\xE9quences par CRF non-supervis\xE9s) [in French]"
+  title_html: "Unsupervised <span class=\"acl-fixed-case\">CRF</span> for knowledge\
+    \ discovery (D\xE9couverte de connaissances dans les s\xE9quences par <span class=\"\
+    acl-fixed-case\">CRF</span> non-supervis\xE9s) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1019
+  year: '2013'
+F13-1020:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Thomas
+    full: Thomas Gaillat
+    id: thomas-gaillat
+    last: Gaillat
+  author_string: Thomas Gaillat
+  bibkey: gaillat-2013-automatic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '271'
+  page_last: '284'
+  pages: "271\u2013284"
+  paper_id: '20'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1020.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1020.jpg
+  title: "Automatic tagging of a learner corpus of English with a modified version\
+    \ of the Penn Treebank tagset (Annotation automatique d\u2019un corpus d\u2019\
+    apprenants d\u2019anglais avec un jeu d\u2019\xE9tiquettes modifi\xE9 du Penn\
+    \ Treebank) [in French]"
+  title_html: "Automatic tagging of a learner corpus of <span class=\"acl-fixed-case\"\
+    >E</span>nglish with a modified version of the <span class=\"acl-fixed-case\"\
+    >P</span>enn Treebank tagset (Annotation automatique d\u2019un corpus d\u2019\
+    apprenants d\u2019anglais avec un jeu d\u2019\xE9tiquettes modifi\xE9 du <span\
+    \ class=\"acl-fixed-case\">P</span>enn Treebank) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1020
+  year: '2013'
+F13-1021:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Franck
+    full: Franck Sajous
+    id: franck-sajous
+    last: Sajous
+  - first: Nabil
+    full: Nabil Hathout
+    id: nabil-hathout
+    last: Hathout
+  - first: Basilio
+    full: Basilio Calderone
+    id: basilio-calderone
+    last: Calderone
+  author_string: Franck Sajous, Nabil Hathout, Basilio Calderone
+  bibkey: sajous-etal-2013-glaff
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '285'
+  page_last: '298'
+  pages: "285\u2013298"
+  paper_id: '21'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1021.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1021.jpg
+  title: "GL\xC0FF, a Large Versatile French Lexicon (GL\xC0FF, un Gros Lexique \xC0\
+    \ tout Faire du Fran\xE7ais) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">GL\xC0FF</span>, a Large Versatile <span\
+    \ class=\"acl-fixed-case\">F</span>rench Lexicon (<span class=\"acl-fixed-case\"\
+    >GL\xC0FF</span>, un Gros Lexique \xC0 tout Faire du Fran\xE7ais) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1021
+  year: '2013'
+F13-1022:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Authoul Abdul
+    full: Authoul Abdul Hay
+    id: authoul-abdul-hay
+    last: Hay
+  - first: Olivier
+    full: Olivier Kraif
+    id: olivier-kraif
+    last: Kraif
+  author_string: Authoul Abdul Hay, Olivier Kraif
+  bibkey: hay-kraif-2013-constitution
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '299'
+  page_last: '312'
+  pages: "299\u2013312"
+  paper_id: '22'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1022.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1022.jpg
+  title: "The constitution of an Arabic semantic resource from a multilingual aligned\
+    \ corpus (Constitution d\u2019une ressource s\xE9mantique arabe \xE0 partir de\
+    \ corpus multilingue align\xE9) [in French]"
+  title_html: "The constitution of an <span class=\"acl-fixed-case\">A</span>rabic\
+    \ semantic resource from a multilingual aligned corpus (Constitution d\u2019une\
+    \ ressource s\xE9mantique arabe \xE0 partir de corpus multilingue align\xE9) [in\
+    \ <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1022
+  year: '2013'
+F13-1023:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Rima
+    full: Rima Harastani
+    id: rima-harastani
+    last: Harastani
+  - first: Beatrice
+    full: Beatrice Daille
+    id: beatrice-daille
+    last: Daille
+  - first: Emmanuel
+    full: Emmanuel Morin
+    id: emmanuel-morin
+    last: Morin
+  author_string: Rima Harastani, Beatrice Daille, Emmanuel Morin
+  bibkey: harastani-etal-2013-identification
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '313'
+  page_last: '326'
+  pages: "313\u2013326"
+  paper_id: '23'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1023.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1023.jpg
+  title: Identification, Alignment, and Tranlsation of Relational Adjectives from
+    Comparable Corpora (Identification, alignement, et traductions des adjectifs relationnels
+    en corpus comparables) [in French]
+  title_html: Identification, Alignment, and Tranlsation of Relational Adjectives
+    from Comparable Corpora (Identification, alignement, et traductions des adjectifs
+    relationnels en corpus comparables) [in <span class="acl-fixed-case">F</span>rench]
+  url: https://www.aclweb.org/anthology/F13-1023
+  year: '2013'
+F13-1024:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Dhouha
+    full: Dhouha Bouamor
+    id: dhouha-bouamor
+    last: Bouamor
+  - first: Nasredine
+    full: Nasredine Semmar
+    id: nasredine-semmar
+    last: Semmar
+  - first: Pierre
+    full: Pierre Zweigenbaum
+    id: pierre-zweigenbaum
+    last: Zweigenbaum
+  author_string: Dhouha Bouamor, Nasredine Semmar, Pierre Zweigenbaum
+  bibkey: bouamor-etal-2013-utilisation
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '327'
+  page_last: '338'
+  pages: "327\u2013338"
+  paper_id: '24'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1024.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1024.jpg
+  title: "(Utilisation de la similarit\xE9 s\xE9mantique pour l\u2019extraction de\
+    \ lexiques bilingues \xE0 partir de corpus comparables) [in French]"
+  title_html: "(Utilisation de la similarit\xE9 s\xE9mantique pour l\u2019extraction\
+    \ de lexiques bilingues \xE0 partir de corpus comparables) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1024
+  year: '2013'
+F13-1025:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Manel
+    full: Manel Zarrouk
+    id: manel-zarrouk
+    last: Zarrouk
+  - first: Mathieu
+    full: Mathieu Lafourcade
+    id: mathieu-lafourcade
+    last: Lafourcade
+  - first: Alain
+    full: Alain Joubert
+    id: alain-joubert
+    last: Joubert
+  author_string: Manel Zarrouk, Mathieu Lafourcade, Alain Joubert
+  bibkey: zarrouk-etal-2013-inductive
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '339'
+  page_last: '352'
+  pages: "339\u2013352"
+  paper_id: '25'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1025.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1025.jpg
+  title: "Inductive and deductive inferences in a Crowdsourced Lexical-Semantic Network\
+    \ (Inf\xE9rences d\xE9ductives et r\xE9conciliation dans un r\xE9seau lexico-s\xE9\
+    mantique) [in French]"
+  title_html: "Inductive and deductive inferences in a Crowdsourced Lexical-Semantic\
+    \ Network (Inf\xE9rences d\xE9ductives et r\xE9conciliation dans un r\xE9seau\
+    \ lexico-s\xE9mantique) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1025
+  year: '2013'
+F13-1026:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Wei
+    full: Wei Wang
+    id: wei-wang
+    last: Wang
+  - first: Romaric
+    full: "Romaric Besan\xE7on"
+    id: romaric-besancon
+    last: "Besan\xE7on"
+  - first: Olivier
+    full: Olivier Ferret
+    id: olivier-ferret
+    last: Ferret
+  - first: Brigitte
+    full: Brigitte Grau
+    id: brigitte-grau
+    last: Grau
+  author_string: "Wei Wang, Romaric Besan\xE7on, Olivier Ferret, Brigitte Grau"
+  bibkey: wang-etal-2013-semantic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '353'
+  page_last: '366'
+  pages: "353\u2013366"
+  paper_id: '26'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1026.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1026.jpg
+  title: "Semantic relation clustering for unsupervised information extraction (Regroupement\
+    \ s\xE9mantique de relations pour l\u2019extraction d\u2019information non supervis\xE9\
+    e) [in French]"
+  title_html: "Semantic relation clustering for unsupervised information extraction\
+    \ (Regroupement s\xE9mantique de relations pour l\u2019extraction d\u2019information\
+    \ non supervis\xE9e) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1026
+  year: '2013'
+F13-1027:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Christian
+    full: "Christian Retor\xE9"
+    id: christian-retore
+    last: "Retor\xE9"
+  author_string: "Christian Retor\xE9"
+  bibkey: retore-2013-semantics
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '367'
+  page_last: '380'
+  pages: "367\u2013380"
+  paper_id: '27'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1027.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1027.jpg
+  title: "On the semantics of determiners in a rich type-theoretical framework (S\xE9\
+    mantique des d\xE9terminants dans un cadre richement typ\xE9) [in French]"
+  title_html: "On the semantics of determiners in a rich type-theoretical framework\
+    \ (S\xE9mantique des d\xE9terminants dans un cadre richement typ\xE9) [in <span\
+    \ class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1027
+  year: '2013'
+F13-1028:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Charlotte
+    full: Charlotte Lecluze
+    id: charlotte-lecluze
+    last: Lecluze
+  - first: Romain
+    full: Romain Brixtel
+    id: romain-brixtel
+    last: Brixtel
+  - first: "Lo\xEFs"
+    full: "Lo\xEFs Rigouste"
+    id: lois-rigouste
+    last: Rigouste
+  - first: Emmanuel
+    full: Emmanuel Giguet
+    id: emmanuel-giguet
+    last: Giguet
+  - first: "R\xE9gis"
+    full: "R\xE9gis Clouard"
+    id: regis-clouard
+    last: Clouard
+  - first: "Ga\xEBl"
+    full: "Ga\xEBl Lejeune"
+    id: gael-lejeune
+    last: Lejeune
+  - first: Patrick
+    full: Patrick Constant
+    id: patrick-constant
+    last: Constant
+  author_string: "Charlotte Lecluze, Romain Brixtel, Lo\xEFs Rigouste, Emmanuel Giguet,\
+    \ R\xE9gis Clouard, Ga\xEBl Lejeune, Patrick Constant"
+  bibkey: lecluze-etal-2013-parallel
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '381'
+  page_last: '394'
+  pages: "381\u2013394"
+  paper_id: '28'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1028.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1028.jpg
+  title: "Parallel areas detection in multi-documents for multilingual alignment (D\xE9\
+    tection de zones parall\xE8les \xE0 l\u2019int\xE9rieur de multi-documents pour\
+    \ l\u2019alignement multilingue) [in French]"
+  title_html: "Parallel areas detection in multi-documents for multilingual alignment\
+    \ (D\xE9tection de zones parall\xE8les \xE0 l\u2019int\xE9rieur de multi-documents\
+    \ pour l\u2019alignement multilingue) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1028
+  year: '2013'
+F13-1029:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Ahmed
+    full: Ahmed Hamdi
+    id: ahmed-hamdi
+    last: Hamdi
+  - first: Rahma
+    full: Rahma Boujelbane
+    id: rahma-boujelbane
+    last: Boujelbane
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  - first: Alexis
+    full: Alexis Nasr
+    id: alexis-nasr
+    last: Nasr
+  author_string: Ahmed Hamdi, Rahma Boujelbane, Nizar Habash, Alexis Nasr
+  bibkey: hamdi-etal-2013-translating
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '395'
+  page_last: '406'
+  pages: "395\u2013406"
+  paper_id: '29'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1029.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1029.jpg
+  title: "Translating verbs between MSA and arabic dialects through deep morphological\
+    \ analysis (Un syst\xE8me de traduction de verbes entre arabe standard et arabe\
+    \ dialectal par analyse morphologique profonde) [in French]"
+  title_html: "Translating verbs between <span class=\"acl-fixed-case\">MSA</span>\
+    \ and arabic dialects through deep morphological analysis (Un syst\xE8me de traduction\
+    \ de verbes entre arabe standard et arabe dialectal par analyse morphologique\
+    \ profonde) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1029
+  year: '2013'
+F13-1030:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Sagot"
+    id: benoit-sagot
+    last: Sagot
+  - first: Damien
+    full: Damien Nouvel
+    id: damien-nouvel
+    last: Nouvel
+  - first: Virginie
+    full: Virginie Mouilleron
+    id: virginie-mouilleron
+    last: Mouilleron
+  - first: Marion
+    full: Marion Baranes
+    id: marion-baranes
+    last: Baranes
+  author_string: "Beno\xEEt Sagot, Damien Nouvel, Virginie Mouilleron, Marion Baranes"
+  bibkey: sagot-etal-2013-dynamic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '407'
+  page_last: '420'
+  pages: "407\u2013420"
+  paper_id: '30'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1030.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1030.jpg
+  title: "Dynamic extension of a French morphological lexicon based a text stream\
+    \ (Extension dynamique de lexiques morphologiques pour le fran\xE7ais \xE0 partir\
+    \ d\u2019un flux textuel) [in French]"
+  title_html: "Dynamic extension of a <span class=\"acl-fixed-case\">F</span>rench\
+    \ morphological lexicon based a text stream (Extension dynamique de lexiques morphologiques\
+    \ pour le fran\xE7ais \xE0 partir d\u2019un flux textuel) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1030
+  year: '2013'
+F13-1031:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Damien
+    full: Damien Nouvel
+    id: damien-nouvel
+    last: Nouvel
+  - first: Jean-Yves
+    full: Jean-Yves Antoine
+    id: jean-yves-antoine
+    last: Antoine
+  - first: Nathalie
+    full: Nathalie Friburger
+    id: nathalie-friburger
+    last: Friburger
+  - first: Arnaud
+    full: Arnaud Soulet
+    id: arnaud-soulet
+    last: Soulet
+  author_string: Damien Nouvel, Jean-Yves Antoine, Nathalie Friburger, Arnaud Soulet
+  bibkey: nouvel-etal-2013-mining
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '421'
+  page_last: '434'
+  pages: "421\u2013434"
+  paper_id: '31'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1031.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1031.jpg
+  title: "Mining Partial Annotation Rules for Named Entity Recognition (Fouille de\
+    \ r\xE8gles d\u2019annotation partielles pour la reconnaissance des entit\xE9\
+    s nomm\xE9es) [in French]"
+  title_html: "Mining Partial Annotation Rules for Named Entity Recognition (Fouille\
+    \ de r\xE8gles d\u2019annotation partielles pour la reconnaissance des entit\xE9\
+    s nomm\xE9es) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1031
+  year: '2013'
+F13-1032:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Iskandar
+    full: Iskandar Keskes
+    id: iskandar-keskes
+    last: Keskes
+  - first: Farah
+    full: Farah Beanamara
+    id: farah-benamara
+    last: Beanamara
+  - first: Lamia Hadrich
+    full: Lamia Hadrich Belguith
+    id: lamia-hadrich-belguith
+    last: Belguith
+  author_string: Iskandar Keskes, Farah Beanamara, Lamia Hadrich Belguith
+  bibkey: keskes-etal-2013-segmenting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '435'
+  page_last: '449'
+  pages: "435\u2013449"
+  paper_id: '32'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1032.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1032.jpg
+  title: "Segmenting Arabic Texts into Elementary Discourse Units (Segmentation de\
+    \ textes arabes en unit\xE9s discursives minimales) [in French]"
+  title_html: "Segmenting <span class=\"acl-fixed-case\">A</span>rabic Texts into\
+    \ Elementary Discourse Units (Segmentation de textes arabes en unit\xE9s discursives\
+    \ minimales) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1032
+  year: '2013'
+F13-1033:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Thomas
+    full: Thomas Lavergne
+    id: thomas-lavergne
+    last: Lavergne
+  - first: Alexandre
+    full: Alexandre Allauzen
+    id: alexandre-allauzen
+    last: Allauzen
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Yvon"
+    id: francois-yvon
+    last: Yvon
+  author_string: "Thomas Lavergne, Alexandre Allauzen, Fran\xE7ois Yvon"
+  bibkey: lavergne-etal-2013-fully
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '450'
+  page_last: '463'
+  pages: "450\u2013463"
+  paper_id: '33'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1033.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1033.jpg
+  title: "A fully discriminative training framework for Statistical Machine Translation\
+    \ (Un cadre d\u2019apprentissage int\xE9gralement discriminant pour la traduction\
+    \ statistique) [in French]"
+  title_html: "A fully discriminative training framework for Statistical Machine Translation\
+    \ (Un cadre d\u2019apprentissage int\xE9gralement discriminant pour la traduction\
+    \ statistique) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1033
+  year: '2013'
+F13-1034:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Yue
+    full: Yue Ma
+    id: yue-ma
+    last: Ma
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois L\xE9vy"
+    id: francois-levy
+    last: "L\xE9vy"
+  - first: Adeline
+    full: Adeline Nazarenko
+    id: adeline-nazarenko
+    last: Nazarenko
+  author_string: "Yue Ma, Fran\xE7ois L\xE9vy, Adeline Nazarenko"
+  bibkey: ma-etal-2013-semantic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '464'
+  page_last: '478'
+  pages: "464\u2013478"
+  paper_id: '34'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1034.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1034.jpg
+  title: "Semantic Annotation in Specific Domains with rich Ontologies (Annotation\
+    \ s\xE9mantique pour des domaines sp\xE9cialis\xE9s et des ontologies riches)\
+    \ [in French]"
+  title_html: "Semantic Annotation in Specific Domains with rich Ontologies (Annotation\
+    \ s\xE9mantique pour des domaines sp\xE9cialis\xE9s et des ontologies riches)\
+    \ [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1034
+  year: '2013'
+F13-1035:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Nicolas
+    full: Nicolas Foucault
+    id: nicolas-foucault
+    last: Foucault
+  - first: Sophie
+    full: Sophie Rosset
+    id: sophie-rosset
+    last: Rosset
+  - first: Gilles
+    full: Gilles Adda
+    id: gilles-adda
+    last: Adda
+  author_string: Nicolas Foucault, Sophie Rosset, Gilles Adda
+  bibkey: foucault-etal-2013-web
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '479'
+  page_last: '492'
+  pages: "479\u2013492"
+  paper_id: '35'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1035.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1035.jpg
+  title: "Web pages segmentation for document selection in Question Answering (Pr\xE9\
+    -segmentation de pages web et s\xE9lection de documents pertinents en Questions-R\xE9\
+    ponses) [in French]"
+  title_html: "Web pages segmentation for document selection in Question Answering\
+    \ (Pr\xE9-segmentation de pages web et s\xE9lection de documents pertinents en\
+    \ Questions-R\xE9ponses) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1035
+  year: '2013'
+F13-1036:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Anne-Laure
+    full: Anne-Laure Ligozat
+    id: anne-laure-ligozat
+    last: Ligozat
+  - first: Cyril
+    full: Cyril Grouin
+    id: cyril-grouin
+    last: Grouin
+  - first: Anne
+    full: Anne Garcia-Fernandez
+    id: anne-garcia-fernandez
+    last: Garcia-Fernandez
+  - first: Delphine
+    full: Delphine Bernhard
+    id: delphine-bernhard
+    last: Bernhard
+  author_string: Anne-Laure Ligozat, Cyril Grouin, Anne Garcia-Fernandez, Delphine
+    Bernhard
+  bibkey: ligozat-etal-2013-studying
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 1: Long Papers)'
+  month: June
+  page_first: '493'
+  page_last: '506'
+  pages: "493\u2013506"
+  paper_id: '36'
+  parent_volume_id: F13-1
+  pdf: https://www.aclweb.org/anthology/F13-1036.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-1036.jpg
+  title: "Studying frequency-based approaches to process lexical simplification (Approches\
+    \ \xE0 base de fr\xE9quences pour la simplification lexicale) [in French]"
+  title_html: "Studying frequency-based approaches to process lexical simplification\
+    \ (Approches \xE0 base de fr\xE9quences pour la simplification lexicale) [in <span\
+    \ class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-1036
+  year: '2013'
+F13-2000:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Emmanuel
+    full: Emmanuel Morin
+    id: emmanuel-morin
+    last: Morin
+  - first: Yannick
+    full: "Yannick Est\xE8ve"
+    id: yannick-esteve
+    last: "Est\xE8ve"
+  author_string: "Emmanuel Morin, Yannick Est\xE8ve"
+  bibkey: jep-taln-recital-2013-taln-2013
+  bibtype: proceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  paper_id: '0'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2000.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2000.jpg
+  title: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  title_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  url: https://www.aclweb.org/anthology/F13-2000
+  year: '2013'
+F13-2001:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Florian
+    full: Florian Boudin
+    id: florian-boudin
+    last: Boudin
+  author_string: Florian Boudin
+  bibkey: boudin-2013-taln
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '507'
+  page_last: '514'
+  pages: "507\u2013514"
+  paper_id: '1'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2001.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2001.jpg
+  title: "TALN Archives : a digital archive of French research articles in Natural\
+    \ Language Processing (TALN Archives : une archive num\xE9rique francophone des\
+    \ articles de recherche en Traitement Automatique de la Langue) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">TALN</span> Archives : a digital archive\
+    \ of <span class=\"acl-fixed-case\">F</span>rench research articles in Natural\
+    \ Language Processing (<span class=\"acl-fixed-case\">TALN</span> Archives : une\
+    \ archive num\xE9rique francophone des articles de recherche en Traitement Automatique\
+    \ de la Langue) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2001
+  year: '2013'
+F13-2002:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Pierre-Francois
+    full: Pierre-Francois Marteau
+    id: pierre-francois-marteau
+    last: Marteau
+  - first: Gildas
+    full: "Gildas M\xE9nier"
+    id: gildas-menier
+    last: "M\xE9nier"
+  author_string: "Pierre-Francois Marteau, Gildas M\xE9nier"
+  bibkey: marteau-menier-2013-similarities
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '515'
+  page_last: '522'
+  pages: "515\u2013522"
+  paper_id: '2'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2002.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2002.jpg
+  title: "Similarities induced by a comparability mapping : meaning and utility in\
+    \ the context of the clustering of comparable texts (Similarit\xE9s induites par\
+    \ mesure de comparabilit\xE9 : signification et utilit\xE9 pour le clustering\
+    \ et l\u2019alignement de textes comparables) [in French]"
+  title_html: "Similarities induced by a comparability mapping : meaning and utility\
+    \ in the context of the clustering of comparable texts (Similarit\xE9s induites\
+    \ par mesure de comparabilit\xE9 : signification et utilit\xE9 pour le clustering\
+    \ et l\u2019alignement de textes comparables) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2002
+  year: '2013'
+F13-2003:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Denis
+    full: Denis Maurel
+    id: denis-maurel
+    last: Maurel
+  - first: "B\xE9atrice Bouchou"
+    full: "B\xE9atrice Bouchou Markhoff"
+    id: beatrice-bouchou-markhoff
+    last: Markhoff
+  author_string: "Denis Maurel, B\xE9atrice Bouchou Markhoff"
+  bibkey: maurel-markhoff-2013-prolmf
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '523'
+  page_last: '530'
+  pages: "523\u2013530"
+  paper_id: '3'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2003.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2003.jpg
+  title: ProLMF 1.2, Proper Names with their Expansions (ProLMF version 1.2. Une ressource
+    libre de noms propres avec des expansions contextuelles) [in French]
+  title_html: <span class="acl-fixed-case">P</span>ro<span class="acl-fixed-case">LMF</span>
+    1.2, Proper Names with their Expansions (<span class="acl-fixed-case">P</span>ro<span
+    class="acl-fixed-case">LMF</span> version 1.2. Une ressource libre de noms propres
+    avec des expansions contextuelles) [in <span class="acl-fixed-case">F</span>rench]
+  url: https://www.aclweb.org/anthology/F13-2003
+  year: '2013'
+F13-2004:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Benjamin
+    full: Benjamin Lecouteux
+    id: benjamin-lecouteux
+    last: Lecouteux
+  - first: Laurent
+    full: Laurent Besacier
+    id: laurent-besacier
+    last: Besacier
+  author_string: Benjamin Lecouteux, Laurent Besacier
+  bibkey: lecouteux-besacier-2013-driven
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '531'
+  page_last: '538'
+  pages: "531\u2013538"
+  paper_id: '4'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2004.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2004.jpg
+  title: "Driven Decoding for machine translation (Vers un d\xE9codage guid\xE9 pour\
+    \ la traduction automatique) [in French]"
+  title_html: "Driven Decoding for machine translation (Vers un d\xE9codage guid\xE9\
+    \ pour la traduction automatique) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2004
+  year: '2013'
+F13-2005:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Johanna
+    full: Johanna Gerlach
+    id: johanna-gerlach
+    last: Gerlach
+  - first: Victoria
+    full: Victoria Porro
+    id: victoria-porro
+    last: Porro
+  - first: Pierrette
+    full: Pierrette Bouillon
+    id: pierrette-bouillon
+    last: Bouillon
+  - first: Sabine
+    full: Sabine Lehmann
+    id: sabine-lehmann
+    last: Lehmann
+  author_string: Johanna Gerlach, Victoria Porro, Pierrette Bouillon, Sabine Lehmann
+  bibkey: gerlach-etal-2013-lightweight
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '539'
+  page_last: '546'
+  pages: "539\u2013546"
+  paper_id: '5'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2005.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2005.jpg
+  title: "Can lightweight pre-editing rules improve statistical MT of forum content?\
+    \ (La La pr\xE9\xE9dition avec des r\xE8gles peu co\xFBteuses, utile pour la TA\
+    \ statistique des forums ?) [in French]"
+  title_html: "Can lightweight pre-editing rules improve statistical <span class=\"\
+    acl-fixed-case\">MT</span> of forum content? (La La pr\xE9\xE9dition avec des\
+    \ r\xE8gles peu co\xFBteuses, utile pour la <span class=\"acl-fixed-case\">TA</span>\
+    \ statistique des forums ?) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2005
+  year: '2013'
+F13-2006:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Ludovic
+    full: Ludovic Hamon
+    id: ludovic-hamon
+    last: Hamon
+  - first: Sylvie
+    full: Sylvie Gibet
+    id: sylvie-gibet
+    last: Gibet
+  - first: Sabah
+    full: Sabah Boustila
+    id: sabah-boustila
+    last: Boustila
+  author_string: Ludovic Hamon, Sylvie Gibet, Sabah Boustila
+  bibkey: hamon-etal-2013-interactive
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '547'
+  page_last: '554'
+  pages: "547\u2013554"
+  paper_id: '6'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2006.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2006.jpg
+  title: "Interactive editing of utterances in French sign language dedicated to signing\
+    \ avatars (\xC9dition interactive d\u2019\xE9nonc\xE9s en langue des signes fran\xE7\
+    aise d\xE9di\xE9e aux avatars signeurs) [in French]"
+  title_html: "Interactive editing of utterances in <span class=\"acl-fixed-case\"\
+    >F</span>rench sign language dedicated to signing avatars (\xC9dition interactive\
+    \ d\u2019\xE9nonc\xE9s en langue des signes fran\xE7aise d\xE9di\xE9e aux avatars\
+    \ signeurs) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2006
+  year: '2013'
+F13-2007:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Judith
+    full: Judith Muzerelle
+    id: judith-muzerelle
+    last: Muzerelle
+  - first: "Ana\xEFs"
+    full: "Ana\xEFs Lefeuvre"
+    id: anais-lefeuvre
+    last: Lefeuvre
+  - first: Jean-Yves
+    full: Jean-Yves Antoine
+    id: jean-yves-antoine
+    last: Antoine
+  - first: Emmanuel
+    full: Emmanuel Schang
+    id: emmanuel-schang
+    last: Schang
+  - first: Denis
+    full: Denis Maurel
+    id: denis-maurel
+    last: Maurel
+  - first: Jeanne
+    full: Jeanne Villaneau
+    id: jeanne-villaneau
+    last: Villaneau
+  - first: Iris
+    full: Iris Eshkol
+    id: iris-eshkol
+    last: Eshkol
+  author_string: "Judith Muzerelle, Ana\xEFs Lefeuvre, Jean-Yves Antoine, Emmanuel\
+    \ Schang, Denis Maurel, Jeanne Villaneau, Iris Eshkol"
+  bibkey: muzerelle-etal-2013-ancor
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '555'
+  page_last: '563'
+  pages: "555\u2013563"
+  paper_id: '7'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2007.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2007.jpg
+  title: "ANCOR, the first large French speaking corpus of conversational speech annotated\
+    \ in coreference to be freely available (ANCOR, premier corpus de fran\xE7ais\
+    \ parl\xE9 d\u2019envergure annot\xE9 en cor\xE9f\xE9rence et distribu\xE9 librement)\
+    \ [in French]"
+  title_html: "<span class=\"acl-fixed-case\">ANCOR</span>, the first large <span\
+    \ class=\"acl-fixed-case\">F</span>rench speaking corpus of conversational speech\
+    \ annotated in coreference to be freely available (<span class=\"acl-fixed-case\"\
+    >ANCOR</span>, premier corpus de fran\xE7ais parl\xE9 d\u2019envergure annot\xE9\
+    \ en cor\xE9f\xE9rence et distribu\xE9 librement) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2007
+  year: '2013'
+F13-2008:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Elizaveta
+    full: Elizaveta Loginova-Clouet
+    id: elizaveta-loginova-clouet
+    last: Loginova-Clouet
+  - first: "B\xE9atrice"
+    full: "B\xE9atrice Daille"
+    id: beatrice-daille
+    last: Daille
+  author_string: "Elizaveta Loginova-Clouet, B\xE9atrice Daille"
+  bibkey: loginova-clouet-daille-2013-multilingual
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '564'
+  page_last: '571'
+  pages: "564\u2013571"
+  paper_id: '8'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2008.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2008.jpg
+  title: "Multilingual Compound Splitting (Segmentation Multilingue des Mots Compos\xE9\
+    s) [in French]"
+  title_html: "Multilingual Compound Splitting (Segmentation Multilingue des Mots\
+    \ Compos\xE9s) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2008
+  year: '2013'
+F13-2009:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Ying
+    full: Ying Zhang
+    id: ying-zhang
+    last: Zhang
+  - first: Mathieu
+    full: Mathieu Mangeot
+    id: mathieu-mangeot
+    last: Mangeot
+  author_string: Ying Zhang, Mathieu Mangeot
+  bibkey: zhang-mangeot-2013-complex
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '572'
+  page_last: '579'
+  pages: "572\u2013579"
+  paper_id: '9'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2009.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2009.jpg
+  title: "Complex terminologies management - the case of acronyms (Gestion des terminologies\
+    \ riches : l\u2019exemple des acronymes) [in French]"
+  title_html: "Complex terminologies management - the case of acronyms (Gestion des\
+    \ terminologies riches : l\u2019exemple des acronymes) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2009
+  year: '2013'
+F13-2010:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Marcos
+    full: Marcos Zampieri
+    id: marcos-zampieri
+    last: Zampieri
+  - first: Binyam Gebrekidan
+    full: Binyam Gebrekidan Gebre
+    id: binyam-gebrekidan-gebre
+    last: Gebre
+  - first: Sascha
+    full: Sascha Diwersy
+    id: sascha-diwersy
+    last: Diwersy
+  author_string: Marcos Zampieri, Binyam Gebrekidan Gebre, Sascha Diwersy
+  bibkey: zampieri-etal-2013-n
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '580'
+  page_last: '587'
+  pages: "580\u2013587"
+  paper_id: '10'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2010.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2010.jpg
+  title: "N-gram Language Models and POS Distribution for the Identification of Spanish\
+    \ Varieties (Ngrammes et Traits Morphosyntaxiques pour la Identification de Vari\xE9\
+    t\xE9s de l\u2019Espagnol) [in French]"
+  title_html: "N-gram Language Models and <span class=\"acl-fixed-case\">POS</span>\
+    \ Distribution for the Identification of <span class=\"acl-fixed-case\">S</span>panish\
+    \ Varieties (Ngrammes et Traits Morphosyntaxiques pour la Identification de Vari\xE9\
+    t\xE9s de l\u2019Espagnol) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2010
+  year: '2013'
+F13-2011:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Amel
+    full: Amel Fraisse
+    id: amel-fraisse
+    last: Fraisse
+  - first: Patrick
+    full: Patrick Paroubek
+    id: patrick-paroubek
+    last: Paroubek
+  - first: Gil
+    full: Gil Francopoulo
+    id: gil-francopoulo
+    last: Francopoulo
+  author_string: Amel Fraisse, Patrick Paroubek, Gil Francopoulo
+  bibkey: fraisse-etal-2013-improving
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '588'
+  page_last: '595'
+  pages: "588\u2013595"
+  paper_id: '11'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2011.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2011.jpg
+  title: "Improving Minor Opinion Polarity Classification with Named Entity Analysis\
+    \ (L\u2019apport des Entit\xE9s Nomm\xE9es pour la classification des opinions\
+    \ minoritaires) [in French]"
+  title_html: "Improving Minor Opinion Polarity Classification with Named Entity Analysis\
+    \ (L\u2019apport des Entit\xE9s Nomm\xE9es pour la classification des opinions\
+    \ minoritaires) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2011
+  year: '2013'
+F13-2012:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Gemma
+    full: Gemma Bel-Enguix
+    id: gemma-bel-enguix
+    last: Bel-Enguix
+  - first: Michael
+    full: Michael Zock
+    id: michael-zock
+    last: Zock
+  author_string: Gemma Bel-Enguix, Michael Zock
+  bibkey: bel-enguix-zock-2013-lexical
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '596'
+  page_last: '603'
+  pages: "596\u2013603"
+  paper_id: '12'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2012.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2012.jpg
+  title: "Lexical access via a simple co-occurrence network (Trouver les mots dans\
+    \ un simple r\xE9seau de co-occurrences) [in French]"
+  title_html: "Lexical access via a simple co-occurrence network (Trouver les mots\
+    \ dans un simple r\xE9seau de co-occurrences) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2012
+  year: '2013'
+F13-2013:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Guy
+    full: Guy Perrier
+    id: guy-perrier
+    last: Perrier
+  author_string: Guy Perrier
+  bibkey: perrier-2013-static
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '604'
+  page_last: '611'
+  pages: "604\u2013611"
+  paper_id: '13'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2013.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2013.jpg
+  title: "Static Analysis of Interactions between Elementary Structures of a Grammar\
+    \ (Analyse statique des interactions entre structures \xE9l\xE9mentaires d\u2019\
+    une grammaire) [in French]"
+  title_html: "Static Analysis of Interactions between Elementary Structures of a\
+    \ Grammar (Analyse statique des interactions entre structures \xE9l\xE9mentaires\
+    \ d\u2019une grammaire) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2013
+  year: '2013'
+F13-2014:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Eric
+    full: Eric Charton
+    id: eric-charton
+    last: Charton
+  - first: Michel
+    full: Michel Gagnon
+    id: michel-gagnon
+    last: Gagnon
+  - first: Ludovic
+    full: Ludovic Jean-Louis
+    id: ludovic-jean-louis
+    last: Jean-Louis
+  author_string: Eric Charton, Michel Gagnon, Ludovic Jean-Louis
+  bibkey: charton-etal-2013-semantic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '612'
+  page_last: '619'
+  pages: "612\u2013619"
+  paper_id: '14'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2014.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2014.jpg
+  title: "Semantic annotation influence on coreference detection using perceptron\
+    \ approach (Influence des annotations s\xE9mantiques sur un syst\xE8me de d\xE9\
+    tection de cor\xE9f\xE9rence \xE0 base de perceptron multi-couches) [in French]"
+  title_html: "Semantic annotation influence on coreference detection using perceptron\
+    \ approach (Influence des annotations s\xE9mantiques sur un syst\xE8me de d\xE9\
+    tection de cor\xE9f\xE9rence \xE0 base de perceptron multi-couches) [in <span\
+    \ class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2014
+  year: '2013'
+F13-2015:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Fatiha
+    full: Fatiha Sadat
+    id: fatiha-sadat
+    last: Sadat
+  - first: Emad
+    full: Emad Mohamed
+    id: emad-mohamed
+    last: Mohamed
+  author_string: Fatiha Sadat, Emad Mohamed
+  bibkey: sadat-mohamed-2013-pre
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '620'
+  page_last: '627'
+  pages: "620\u2013627"
+  paper_id: '15'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2015.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2015.jpg
+  title: "Pre-processing and Language Analysis for Arabic to French Statistical Machine\
+    \ Translation (Traduction automatique statistique pour l\u2019arabe-fran\xE7ais\
+    \ am\xE9lior\xE9e par le pr\xE9traitement et l\u2019analyse de la langue) [in\
+    \ French]"
+  title_html: "Pre-processing and Language Analysis for <span class=\"acl-fixed-case\"\
+    >A</span>rabic to <span class=\"acl-fixed-case\">F</span>rench Statistical Machine\
+    \ Translation (Traduction automatique statistique pour l\u2019arabe-fran\xE7ais\
+    \ am\xE9lior\xE9e par le pr\xE9traitement et l\u2019analyse de la langue) [in\
+    \ <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2015
+  year: '2013'
+F13-2016:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Bruno
+    full: Bruno Guillaume
+    id: bruno-guillaume
+    last: Guillaume
+  - first: "Kar\xEBn"
+    full: "Kar\xEBn Fort"
+    id: karen-fort
+    last: Fort
+  author_string: "Bruno Guillaume, Kar\xEBn Fort"
+  bibkey: guillaume-fort-2013-formalizing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '628'
+  page_last: '635'
+  pages: "628\u2013635"
+  paper_id: '16'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2016.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2016.jpg
+  title: "Formalizing an annotation guide : some experiments towards assisted agile\
+    \ annotation (Exp\xE9riences de formalisation d\u2019un guide d\u2019annotation\
+    \ : vers l\u2019annotation agile assist\xE9e) [in French]"
+  title_html: "Formalizing an annotation guide : some experiments towards assisted\
+    \ agile annotation (Exp\xE9riences de formalisation d\u2019un guide d\u2019annotation\
+    \ : vers l\u2019annotation agile assist\xE9e) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2016
+  year: '2013'
+F13-2017:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Catherine
+    full: "Catherine Domingu\xE8s"
+    id: catherine-domingues
+    last: "Domingu\xE8s"
+  - first: Iris
+    full: Iris Eshkol-Taravella
+    id: iris-eshkol
+    last: Eshkol-Taravella
+  author_string: "Catherine Domingu\xE8s, Iris Eshkol-Taravella"
+  bibkey: domingues-eshkol-taravella-2013-localizing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '636'
+  page_last: '642'
+  pages: "636\u2013642"
+  paper_id: '17'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2017.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2017.jpg
+  title: "Localizing toponyms in topographic map titles (Rep\xE9rer des toponymes\
+    \ dans des titres de cartes topographiques) [in French]"
+  title_html: "Localizing toponyms in topographic map titles (Rep\xE9rer des toponymes\
+    \ dans des titres de cartes topographiques) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2017
+  year: '2013'
+F13-2018:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Pierre
+    full: Pierre Zweigenbaum
+    id: pierre-zweigenbaum
+    last: Zweigenbaum
+  - first: Xavier
+    full: Xavier Tannier
+    id: xavier-tannier
+    last: Tannier
+  author_string: Pierre Zweigenbaum, Xavier Tannier
+  bibkey: zweigenbaum-tannier-2013-extraction
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '643'
+  page_last: '650'
+  pages: "643\u2013650"
+  paper_id: '18'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2018.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2018.jpg
+  title: "Extraction of temporal relations between clinical events in clinical documents\
+    \ (Extraction des relations temporelles entre \xE9v\xE9nements m\xE9dicaux dans\
+    \ des comptes rendus hospitaliers) [in French]"
+  title_html: "Extraction of temporal relations between clinical events in clinical\
+    \ documents (Extraction des relations temporelles entre \xE9v\xE9nements m\xE9\
+    dicaux dans des comptes rendus hospitaliers) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2018
+  year: '2013'
+F13-2019:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Nikola
+    full: Nikola Tulechki
+    id: nikola-tulechki
+    last: Tulechki
+  - first: Ludovic
+    full: Ludovic Tanguy
+    id: ludovic-tanguy
+    last: Tanguy
+  author_string: Nikola Tulechki, Ludovic Tanguy
+  bibkey: tulechki-tanguy-2013-second
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '651'
+  page_last: '658'
+  pages: "651\u2013658"
+  paper_id: '19'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2019.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2019.jpg
+  title: "Second order similarity for exploring multilingual textual databases (Similarit\xE9\
+    \ de second ordre pour l\u2019exploration de bases textuelles multilingues) [in\
+    \ French]"
+  title_html: "Second order similarity for exploring multilingual textual databases\
+    \ (Similarit\xE9 de second ordre pour l\u2019exploration de bases textuelles multilingues)\
+    \ [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2019
+  year: '2013'
+F13-2020:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Fran\xE7ois-R\xE9gis"
+    full: "Fran\xE7ois-R\xE9gis Chaumartin"
+    id: francois-regis-chaumartin
+    last: Chaumartin
+  author_string: "Fran\xE7ois-R\xE9gis Chaumartin"
+  bibkey: chaumartin-2013-cross
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '659'
+  page_last: '666'
+  pages: "659\u2013666"
+  paper_id: '20'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2020.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2020.jpg
+  title: "Cross-lingual and generic text categorization (Apprentissage d\u2019une\
+    \ classification th\xE9matique g\xE9n\xE9rique et cross-langue \xE0 partir des\
+    \ cat\xE9gories de la Wikip\xE9dia) [in French]"
+  title_html: "Cross-lingual and generic text categorization (Apprentissage d\u2019\
+    une classification th\xE9matique g\xE9n\xE9rique et cross-langue \xE0 partir des\
+    \ cat\xE9gories de la Wikip\xE9dia) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2020
+  year: '2013'
+F13-2021:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Nadia
+    full: Nadia Okinina
+    id: nadia-okinina
+    last: Okinina
+  - first: Damien
+    full: Damien Nouvel
+    id: damien-nouvel
+    last: Nouvel
+  - first: Nathalie
+    full: Nathalie Friburger
+    id: nathalie-friburger
+    last: Friburger
+  - first: Jean-Yves
+    full: Jean-Yves Antoine
+    id: jean-yves-antoine
+    last: Antoine
+  author_string: Nadia Okinina, Damien Nouvel, Nathalie Friburger, Jean-Yves Antoine
+  bibkey: okinina-etal-2013-supervised
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '667'
+  page_last: '674'
+  pages: "667\u2013674"
+  paper_id: '21'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2021.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2021.jpg
+  title: "Supervised learning on encyclopaedic resources for the extension of a lexicon\
+    \ of proper names dedicated to the recognition of named entities (Apprentissage\
+    \ supervis\xE9 sur ressources encyclop\xE9diques pour l\u2019enrichissement d\u2019\
+    un lexique de noms propres destin\xE9 \xE0 la reconnaissance des entit\xE9s nomm\xE9\
+    es) [in French]"
+  title_html: "Supervised learning on encyclopaedic resources for the extension of\
+    \ a lexicon of proper names dedicated to the recognition of named entities (Apprentissage\
+    \ supervis\xE9 sur ressources encyclop\xE9diques pour l\u2019enrichissement d\u2019\
+    un lexique de noms propres destin\xE9 \xE0 la reconnaissance des entit\xE9s nomm\xE9\
+    es) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2021
+  year: '2013'
+F13-2022:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Patrick
+    full: Patrick Paroubek
+    id: patrick-paroubek
+    last: Paroubek
+  - first: Munshi
+    full: Munshi Asadullah
+    id: munshi-asadullah
+    last: Asadullah
+  - first: Anne
+    full: Anne Vilnat
+    id: anne-vilnat
+    last: Vilnat
+  author_string: Patrick Paroubek, Munshi Asadullah, Anne Vilnat
+  bibkey: paroubek-etal-2013-converting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '675'
+  page_last: '682'
+  pages: "675\u2013682"
+  paper_id: '22'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2022.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2022.jpg
+  title: "Converting dependencies for syntactic analysis of French into PASSAGE functional\
+    \ relations (Convertir des analyses syntaxiques en d\xE9pendances vers les relations\
+    \ fonctionnelles PASSAGE) [in French]"
+  title_html: "Converting dependencies for syntactic analysis of <span class=\"acl-fixed-case\"\
+    >F</span>rench into <span class=\"acl-fixed-case\">PASSAGE</span> functional relations\
+    \ (Convertir des analyses syntaxiques en d\xE9pendances vers les relations fonctionnelles\
+    \ <span class=\"acl-fixed-case\">PASSAGE</span>) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2022
+  year: '2013'
+F13-2023:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Sharid
+    full: "Sharid Lo\xE1iciga"
+    id: sharid-loaiciga
+    last: "Lo\xE1iciga"
+  author_string: "Sharid Lo\xE1iciga"
+  bibkey: loaiciga-2013-anaphora
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '683'
+  page_last: '690'
+  pages: "683\u2013690"
+  paper_id: '23'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2023.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2023.jpg
+  title: "Anaphora Resolution for Machine Translation (R\xE9solution d\u2019anaphores\
+    \ et traitement des pronoms en traduction automatique \xE0 base de r\xE8gles)\
+    \ [in French]"
+  title_html: "Anaphora Resolution for Machine Translation (R\xE9solution d\u2019\
+    anaphores et traitement des pronoms en traduction automatique \xE0 base de r\xE8\
+    gles) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2023
+  year: '2013'
+F13-2024:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Frederik
+    full: Frederik Cailliau
+    id: frederik-cailliau
+    last: Cailliau
+  - first: Ariane
+    full: Ariane Cavet
+    id: ariane-cavet
+    last: Cavet
+  - first: "Cl\xE9ment De"
+    full: "Cl\xE9ment De Groc"
+    id: clement-de-groc
+    last: Groc
+  - first: Claude De
+    full: Claude De Loupy
+    id: claude-de-loupy
+    last: Loupy
+  author_string: "Frederik Cailliau, Ariane Cavet, Cl\xE9ment De Groc, Claude De Loupy"
+  bibkey: cailliau-etal-2013-lexicons
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '691'
+  page_last: '698'
+  pages: "691\u2013698"
+  paper_id: '24'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2024.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2024.jpg
+  title: "Lexicons from Comparable Corpora for Multilingual Information Retrieval\
+    \ (Lexiques de corpus comparables et recherche d\u2019information multilingue)\
+    \ [in French]"
+  title_html: "Lexicons from Comparable Corpora for Multilingual Information Retrieval\
+    \ (Lexiques de corpus comparables et recherche d\u2019information multilingue)\
+    \ [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2024
+  year: '2013'
+F13-2025:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Philippe
+    full: Philippe Suignard
+    id: philippe-suignard
+    last: Suignard
+  - first: Sofiane
+    full: Sofiane Kerroua
+    id: sofiane-kerroua
+    last: Kerroua
+  author_string: Philippe Suignard, Sofiane Kerroua
+  bibkey: suignard-kerroua-2013-using
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '699'
+  page_last: '706'
+  pages: "699\u2013706"
+  paper_id: '25'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2025.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2025.jpg
+  title: "Using contexts for automatic or semi-automatic correction of customer complaints\
+    \ (Utilisation de contextes pour la correction automatique ou semi-automatique\
+    \ de r\xE9clamations clients) [in French]"
+  title_html: "Using contexts for automatic or semi-automatic correction of customer\
+    \ complaints (Utilisation de contextes pour la correction automatique ou semi-automatique\
+    \ de r\xE9clamations clients) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2025
+  year: '2013'
+F13-2026:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Luis Adri\xE1n"
+    full: "Luis Adri\xE1n Cabrera-Diego"
+    id: luis-adrian-cabrera-diego
+    last: Cabrera-Diego
+  - first: Juan-Manuel
+    full: Juan-Manuel Torres-Moreno
+    id: juan-manuel-torres-moreno
+    last: Torres-Moreno
+  - first: Marc
+    full: "Marc El-B\xE8ze"
+    id: marc-el-beze
+    last: "El-B\xE8ze"
+  author_string: "Luis Adri\xE1n Cabrera-Diego, Juan-Manuel Torres-Moreno, Marc El-B\xE8\
+    ze"
+  bibkey: cabrera-diego-etal-2013-segcv
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '707'
+  page_last: '714'
+  pages: "707\u2013714"
+  paper_id: '26'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2026.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2026.jpg
+  title: "SegCV : Eficient parsing of r\xE9sum\xE9s with analysis and correction of\
+    \ errors (SegCV : traitement efficace de CV avec analyse et correction d\u2019\
+    erreurs) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">S</span>eg<span class=\"acl-fixed-case\"\
+    >CV</span> : Eficient parsing of r\xE9sum\xE9s with analysis and correction of\
+    \ errors (<span class=\"acl-fixed-case\">S</span>eg<span class=\"acl-fixed-case\"\
+    >CV</span> : traitement efficace de <span class=\"acl-fixed-case\">CV</span> avec\
+    \ analyse et correction d\u2019erreurs) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2026
+  year: '2013'
+F13-2027:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Jean-Val\xE8re"
+    full: "Jean-Val\xE8re Cossu"
+    id: jean-valere-cossu
+    last: Cossu
+  - first: Juan-Manuel
+    full: Juan-Manuel Torres-Moreno
+    id: juan-manuel-torres-moreno
+    last: Torres-Moreno
+  - first: Marc
+    full: "Marc El-B\xE8ze"
+    id: marc-el-beze
+    last: "El-B\xE8ze"
+  author_string: "Jean-Val\xE8re Cossu, Juan-Manuel Torres-Moreno, Marc El-B\xE8ze"
+  bibkey: cossu-etal-2013-search
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '715'
+  page_last: '722'
+  pages: "715\u2013722"
+  paper_id: '27'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2027.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2027.jpg
+  title: "Search and usage of named conceptual entities in a categorisazion task (Recherche\
+    \ et utilisation d\u2019entit\xE9s nomm\xE9es conceptuelles dans une t\xE2che\
+    \ de cat\xE9gorisation) [in French]"
+  title_html: "Search and usage of named conceptual entities in a categorisazion task\
+    \ (Recherche et utilisation d\u2019entit\xE9s nomm\xE9es conceptuelles dans une\
+    \ t\xE2che de cat\xE9gorisation) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2027
+  year: '2013'
+F13-2028:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Guillaume
+    full: Guillaume Wisniewski
+    id: guillaume-wisniewski
+    last: Wisniewski
+  - first: Anil Kumar
+    full: Anil Kumar Singh
+    id: anil-kumar-singh
+    last: Singh
+  - first: Natalia
+    full: Natalia Segal
+    id: natalia-segal
+    last: Segal
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Yvon"
+    id: francois-yvon
+    last: Yvon
+  author_string: "Guillaume Wisniewski, Anil Kumar Singh, Natalia Segal, Fran\xE7\
+    ois Yvon"
+  bibkey: wisniewski-etal-2013-corpus
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '723'
+  page_last: '730'
+  pages: "723\u2013730"
+  paper_id: '28'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2028.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2028.jpg
+  title: "A corpus of post-edited translations (Un corpus d\u2019erreurs de traduction)\
+    \ [in French]"
+  title_html: "A corpus of post-edited translations (Un corpus d\u2019erreurs de traduction)\
+    \ [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2028
+  year: '2013'
+F13-2029:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Samira Walha
+    full: Samira Walha Ellouze
+    id: samira-ellouze
+    last: Ellouze
+  - first: Maher
+    full: Maher Jaoua
+    id: maher-jaoua
+    last: Jaoua
+  - first: Lamia Hadrich
+    full: Lamia Hadrich Belguith
+    id: lamia-hadrich-belguith
+    last: Belguith
+  author_string: Samira Walha Ellouze, Maher Jaoua, Lamia Hadrich Belguith
+  bibkey: ellouze-etal-2013-evaluation
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '731'
+  page_last: '738'
+  pages: "731\u2013738"
+  paper_id: '29'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2029.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2029.jpg
+  title: "An evaluation summary method based on combination of automatic and textual\
+    \ complexity metrics (Une m\xE9thode d\u2019\xE9valuation des r\xE9sum\xE9s bas\xE9\
+    e sur la combinaison de m\xE9triques automatiques et de complexit\xE9 textuelle)\
+    \ [in French]"
+  title_html: "An evaluation summary method based on combination of automatic and\
+    \ textual complexity metrics (Une m\xE9thode d\u2019\xE9valuation des r\xE9sum\xE9\
+    s bas\xE9e sur la combinaison de m\xE9triques automatiques et de complexit\xE9\
+    \ textuelle) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2029
+  year: '2013'
+F13-2030:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Abdessalam
+    full: Abdessalam Bouchekif
+    id: abdessalam-bouchekif
+    last: Bouchekif
+  - first: "G\xE9raldine"
+    full: "G\xE9raldine Damnati"
+    id: geraldine-damnati
+    last: Damnati
+  - first: Delphine
+    full: Delphine Charlet
+    id: delphine-charlet
+    last: Charlet
+  author_string: "Abdessalam Bouchekif, G\xE9raldine Damnati, Delphine Charlet"
+  bibkey: bouchekif-etal-2013-iterative
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '739'
+  page_last: '746'
+  pages: "739\u2013746"
+  paper_id: '30'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2030.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2030.jpg
+  title: "An iterative topic segmentation algorithm with intra-content term weighting\
+    \ (Segmentation th\xE9matique : processus it\xE9ratif de pond\xE9ration intra-contenu)\
+    \ [in French]"
+  title_html: "An iterative topic segmentation algorithm with intra-content term weighting\
+    \ (Segmentation th\xE9matique : processus it\xE9ratif de pond\xE9ration intra-contenu)\
+    \ [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2030
+  year: '2013'
+F13-2031:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Alexander
+    full: Alexander Panchenko
+    id: alexander-panchenko
+    last: Panchenko
+  - first: Hubert
+    full: Hubert Naets
+    id: hubert-naets
+    last: Naets
+  - first: Laetitia
+    full: Laetitia Brouwers
+    id: laetitia-brouwers
+    last: Brouwers
+  - first: Pavel
+    full: Pavel Romanov
+    id: pavel-romanov
+    last: Romanov
+  - first: "C\xE9drick"
+    full: "C\xE9drick Fairon"
+    id: cedrick-fairon
+    last: Fairon
+  author_string: "Alexander Panchenko, Hubert Naets, Laetitia Brouwers, Pavel Romanov,\
+    \ C\xE9drick Fairon"
+  bibkey: panchenko-etal-2013-search
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '747'
+  page_last: '754'
+  pages: "747\u2013754"
+  paper_id: '31'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2031.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2031.jpg
+  title: "Search and Visualization of Semantically Related Words (Recherche et visualisation\
+    \ de mots s\xE9mantiquement li\xE9s) [in French]"
+  title_html: "Search and Visualization of Semantically Related Words (Recherche et\
+    \ visualisation de mots s\xE9mantiquement li\xE9s) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2031
+  year: '2013'
+F13-2032:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Jean-Philippe
+    full: Jean-Philippe Guilbaud
+    id: jean-philippe-guilbaud
+    last: Guilbaud
+  - first: Christian
+    full: Christian Boitet
+    id: christian-boitet
+    last: Boitet
+  - first: Vincent
+    full: Vincent Berment
+    id: vincent-berment
+    last: Berment
+  author_string: Jean-Philippe Guilbaud, Christian Boitet, Vincent Berment
+  bibkey: guilbaud-etal-2013-extended
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '755'
+  page_last: '763'
+  pages: "755\u2013763"
+  paper_id: '32'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2032.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2032.jpg
+  title: "An extended morphological analyzer of German handling verbal forms with\
+    \ separated separable particles (Un analyseur morphologique \xE9tendu de l\u2019\
+    allemand traitant les formes verbales \xE0 particule s\xE9par\xE9e) [in French]"
+  title_html: "An extended morphological analyzer of <span class=\"acl-fixed-case\"\
+    >G</span>erman handling verbal forms with separated separable particles (Un analyseur\
+    \ morphologique \xE9tendu de l\u2019allemand traitant les formes verbales \xE0\
+    \ particule s\xE9par\xE9e) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2032
+  year: '2013'
+F13-2033:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Marc
+    full: Marc Vincent
+    id: marc-vincent
+    last: Vincent
+  - first: "Gr\xE9goire"
+    full: "Gr\xE9goire Winterstein"
+    id: gregoire-winterstein
+    last: Winterstein
+  author_string: "Marc Vincent, Gr\xE9goire Winterstein"
+  bibkey: vincent-winterstein-2013-building
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '764'
+  page_last: '771'
+  pages: "764\u2013771"
+  paper_id: '33'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2033.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2033.jpg
+  title: "Building and exploiting a French corpus for sentiment analysis (Construction\
+    \ et exploitation d\u2019un corpus fran\xE7ais pour l\u2019analyse de sentiment)\
+    \ [in French]"
+  title_html: "Building and exploiting a <span class=\"acl-fixed-case\">F</span>rench\
+    \ corpus for sentiment analysis (Construction et exploitation d\u2019un corpus\
+    \ fran\xE7ais pour l\u2019analyse de sentiment) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2033
+  year: '2013'
+F13-2034:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Luka
+    full: Luka Nerima
+    id: luka-nerima
+    last: Nerima
+  - first: "\xC9ric"
+    full: "\xC9ric Wehrli"
+    id: eric-wehrli
+    last: Wehrli
+  author_string: "Luka Nerima, \xC9ric Wehrli"
+  bibkey: nerima-wehrli-2013-anaphora
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '772'
+  page_last: '778'
+  pages: "772\u2013778"
+  paper_id: '34'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2034.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2034.jpg
+  title: "Anaphora Resolution Applied to Collocation Identification: A Preliminary\
+    \ Evaluation (R\xE9solution d\u2019anaphores appliqu\xE9e aux collocations: une\
+    \ \xE9valuation pr\xE9liminaire) [in French]"
+  title_html: "Anaphora Resolution Applied to Collocation Identification: A Preliminary\
+    \ Evaluation (R\xE9solution d\u2019anaphores appliqu\xE9e aux collocations: une\
+    \ \xE9valuation pr\xE9liminaire) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2034
+  year: '2013'
+F13-2035:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Thibault
+    full: Thibault Mondary
+    id: thibault-mondary
+    last: Mondary
+  - first: Adeline
+    full: Adeline Nazarenko
+    id: adeline-nazarenko
+    last: Nazarenko
+  - first: "Ha\xEFfa"
+    full: "Ha\xEFfa Zargayouna"
+    id: haifa-zargayouna
+    last: Zargayouna
+  - first: Sabine
+    full: Sabine Barreaux
+    id: sabine-barreaux
+    last: Barreaux
+  author_string: "Thibault Mondary, Adeline Nazarenko, Ha\xEFfa Zargayouna, Sabine\
+    \ Barreaux"
+  bibkey: mondary-etal-2013-help
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 2: Short Papers)'
+  month: June
+  page_first: '779'
+  page_last: '786'
+  pages: "779\u2013786"
+  paper_id: '35'
+  parent_volume_id: F13-2
+  pdf: https://www.aclweb.org/anthology/F13-2035.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-2035.jpg
+  title: "Help enrich a terminological repository : proposals and experiments (Aide\
+    \ \xE0 l\u2019enrichissement d\u2019un r\xE9f\xE9rentiel terminologique : propositions\
+    \ et exp\xE9rimentations) [in French]"
+  title_html: "Help enrich a terminological repository : proposals and experiments\
+    \ (Aide \xE0 l\u2019enrichissement d\u2019un r\xE9f\xE9rentiel terminologique\
+    \ : propositions et exp\xE9rimentations) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-2035
+  year: '2013'
+F13-3000:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Emmanuel
+    full: Emmanuel Morin
+    id: emmanuel-morin
+    last: Morin
+  - first: Yannick
+    full: "Yannick Est\xE8ve"
+    id: yannick-esteve
+    last: "Est\xE8ve"
+  author_string: "Emmanuel Morin, Yannick Est\xE8ve"
+  bibkey: jep-taln-recital-2013-taln-2013-3
+  bibtype: proceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  paper_id: '0'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3000.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3000.jpg
+  title: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  title_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  url: https://www.aclweb.org/anthology/F13-3000
+  year: '2013'
+F13-3001:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Ga\xEBl"
+    full: "Ga\xEBl Lejeune"
+    id: gael-lejeune
+    last: Lejeune
+  - first: Romain
+    full: Romain Brixtel
+    id: romain-brixtel
+    last: Brixtel
+  - first: Charlotte
+    full: Charlotte Lecluze
+    id: charlotte-lecluze
+    last: Lecluze
+  - first: Antoine
+    full: Antoine Doucet
+    id: antoine-doucet
+    last: Doucet
+  - first: Nadine
+    full: Nadine Lucas
+    id: nadine-lucas
+    last: Lucas
+  author_string: "Ga\xEBl Lejeune, Romain Brixtel, Charlotte Lecluze, Antoine Doucet,\
+    \ Nadine Lucas"
+  bibkey: lejeune-etal-2013-daniel
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '787'
+  page_last: '788'
+  pages: "787\u2013788"
+  paper_id: '1'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3001.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3001.jpg
+  title: "DAnIEL, parsimonious yet high-coverage multilingual epidemic surveillance\
+    \ (DAnIEL : Veille \xE9pid\xE9miologique multilingue parcimonieuse) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">DA</span>n<span class=\"acl-fixed-case\"\
+    >IEL</span>, parsimonious yet high-coverage multilingual epidemic surveillance\
+    \ (<span class=\"acl-fixed-case\">DA</span>n<span class=\"acl-fixed-case\">IEL</span>\
+    \ : Veille \xE9pid\xE9miologique multilingue parcimonieuse) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3001
+  year: '2013'
+F13-3002:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Elena
+    full: Elena Kozlova
+    id: elena-kozlova
+    last: Kozlova
+  - first: Maria
+    full: Maria Gontcharova
+    id: maria-gontcharova
+    last: Gontcharova
+  - first: Tatiana
+    full: Tatiana Popova
+    id: tatiana-popova
+    last: Popova
+  author_string: Elena Kozlova, Maria Gontcharova, Tatiana Popova
+  bibkey: kozlova-etal-2013-multilingual
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '789'
+  page_last: '790'
+  pages: "789\u2013790"
+  paper_id: '2'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3002.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3002.jpg
+  title: "Multilingual lexical database in the framework of COMPRENO linguistic model\
+    \ developed by ABBYY (Lexique multilingue dans le cadre du mod\xE8le Compreno\
+    \ d\xE9velopp\xE9 ABBYY) [in French]"
+  title_html: "Multilingual lexical database in the framework of <span class=\"acl-fixed-case\"\
+    >COMPRENO</span> linguistic model developed by <span class=\"acl-fixed-case\"\
+    >ABBYY</span> (Lexique multilingue dans le cadre du mod\xE8le Compreno d\xE9velopp\xE9\
+    \ <span class=\"acl-fixed-case\">ABBYY</span>) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3002
+  year: '2013'
+F13-3003:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Manon
+    full: Manon Quintana
+    id: manon-quintana
+    last: Quintana
+  author_string: Manon Quintana
+  bibkey: quintana-2013-inbenta
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '791'
+  page_last: '792'
+  pages: "791\u2013792"
+  paper_id: '3'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3003.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3003.jpg
+  title: "Inbenta Semantic Search Engine: a semantic search engine inspired by the\
+    \ Meaning-Text Theory (Inbenta Semantic Search Engine : un moteur de recherche\
+    \ s\xE9mantique inspir\xE9 de la Th\xE9orie Sens-Texte) [in French]"
+  title_html: "Inbenta Semantic Search Engine: a semantic search engine inspired by\
+    \ the Meaning-Text Theory (Inbenta Semantic Search Engine : un moteur de recherche\
+    \ s\xE9mantique inspir\xE9 de la Th\xE9orie Sens-Texte) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3003
+  year: '2013'
+F13-3004:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Jean-Leon
+    full: Jean-Leon Bouraoui
+    id: jean-leon-bouraoui
+    last: Bouraoui
+  - first: Marc
+    full: Marc Canitrot
+    id: marc-canitrot
+    last: Canitrot
+  author_string: Jean-Leon Bouraoui, Marc Canitrot
+  bibkey: bouraoui-canitrot-2013-fmo
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '793'
+  page_last: '794'
+  pages: "793\u2013794"
+  paper_id: '4'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3004.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3004.jpg
+  title: "FMO: a tool for automated opinion mining (FMO : un outil d\u2019analyse\
+    \ automatique de l\u2019opinion) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">FMO</span>: a tool for automated opinion\
+    \ mining (<span class=\"acl-fixed-case\">FMO</span> : un outil d\u2019analyse\
+    \ automatique de l\u2019opinion) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3004
+  year: '2013'
+F13-3005:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Patrick
+    full: "Patrick S\xE9gu\xE9la"
+    id: patrick-seguela
+    last: "S\xE9gu\xE9la"
+  - first: Dominique
+    full: Dominique Laurent
+    id: dominique-laurent
+    last: Laurent
+  author_string: "Patrick S\xE9gu\xE9la, Dominique Laurent"
+  bibkey: seguela-laurent-2013-checking
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '795'
+  page_last: '796'
+  pages: "795\u2013796"
+  paper_id: '5'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3005.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3005.jpg
+  title: "Checking, analysing and representing texts (Corriger, analyser et repr\xE9\
+    senter le texte Synapse D\xE9veloppement) [in French]"
+  title_html: "Checking, analysing and representing texts (Corriger, analyser et repr\xE9\
+    senter le texte Synapse D\xE9veloppement) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3005
+  year: '2013'
+F13-3006:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Xavier
+    full: Xavier Tannier
+    id: xavier-tannier
+    last: Tannier
+  - first: "V\xE9ronique"
+    full: "V\xE9ronique Moriceau"
+    id: veronique-moriceau
+    last: Moriceau
+  - first: Erwan Le
+    full: Erwan Le Flem
+    id: erwan-le-flem
+    last: Flem
+  author_string: "Xavier Tannier, V\xE9ronique Moriceau, Erwan Le Flem"
+  bibkey: tannier-etal-2013-interface
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '797'
+  page_last: '798'
+  pages: "797\u2013798"
+  paper_id: '6'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3006.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3006.jpg
+  title: "An Interface for Validating and Evaluating Thematic Timelines (Une interface\
+    \ pour la validation et l\u2019\xE9valuation de chronologies th\xE9matiques) [in\
+    \ French]"
+  title_html: "An Interface for Validating and Evaluating Thematic Timelines (Une\
+    \ interface pour la validation et l\u2019\xE9valuation de chronologies th\xE9\
+    matiques) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3006
+  year: '2013'
+F13-3007:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Denis
+    full: Denis Maurel
+    id: denis-maurel
+    last: Maurel
+  - first: Nathalie
+    full: Nathalie Friburger
+    id: nathalie-friburger
+    last: Friburger
+  author_string: Denis Maurel, Nathalie Friburger
+  bibkey: maurel-friburger-2013-cassys
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '799'
+  page_last: '800'
+  pages: "799\u2013800"
+  paper_id: '7'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3007.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3007.jpg
+  title: "CasSys, a free transducer cascade system (CasSys Un syst\xE8me libre de\
+    \ cascades de transducteurs) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">C</span>as<span class=\"acl-fixed-case\"\
+    >S</span>ys, a free transducer cascade system (<span class=\"acl-fixed-case\"\
+    >C</span>as<span class=\"acl-fixed-case\">S</span>ys Un syst\xE8me libre de cascades\
+    \ de transducteurs) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3007
+  year: '2013'
+F13-3008:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Lingxiao
+    full: Lingxiao Wang
+    id: ling-xiao-wang
+    last: Wang
+  - first: Ying
+    full: Ying Zhang
+    id: ying-zhang
+    last: Zhang
+  author_string: Lingxiao Wang, Ying Zhang
+  bibkey: wang-zhang-2013-imag
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '801'
+  page_last: '802'
+  pages: "801\u2013802"
+  paper_id: '8'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3008.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3008.jpg
+  title: "iMAG : MT-postediting, translation quality evaluation and parallel corpus\
+    \ production (iMAG : post-\xE9dition, \xE9valuation de qualit\xE9 de TA et production\
+    \ d\u2019un corpus parall\xE8le) [in French]"
+  title_html: "i<span class=\"acl-fixed-case\">MAG</span> : <span class=\"acl-fixed-case\"\
+    >MT</span>-postediting, translation quality evaluation and parallel corpus production\
+    \ (i<span class=\"acl-fixed-case\">MAG</span> : post-\xE9dition, \xE9valuation\
+    \ de qualit\xE9 de <span class=\"acl-fixed-case\">TA</span> et production d\u2019\
+    un corpus parall\xE8le) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3008
+  year: '2013'
+F13-3009:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: David
+    full: David Rouquet
+    id: david-rouquet
+    last: Rouquet
+  author_string: David Rouquet
+  bibkey: rouquet-2013-semantic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '803'
+  page_last: '804'
+  pages: "803\u2013804"
+  paper_id: '9'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3009.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3009.jpg
+  title: "Semantic Web technologies for Lexical Linked Data management (Technologies\
+    \ du Web S\xE9mantique pour l\u2019exploitation de donn\xE9es lexicales en r\xE9\
+    seau (Lexical Linked Data)) [in French]"
+  title_html: "Semantic Web technologies for Lexical Linked Data management (Technologies\
+    \ du Web S\xE9mantique pour l\u2019exploitation de donn\xE9es lexicales en r\xE9\
+    seau (Lexical Linked Data)) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3009
+  year: '2013'
+F13-3010:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Achille
+    full: Achille Falaise
+    id: achille-falaise
+    last: Falaise
+  author_string: Achille Falaise
+  bibkey: falaise-2013-adaptation
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '805'
+  page_last: '806'
+  pages: "805\u2013806"
+  paper_id: '10'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3010.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3010.jpg
+  title: "Adaptation of the corpus platform ScienQuest for assistance to writing in\
+    \ a second language (Adaptation de la plateforme corporale ScienQuest pour l\u2019\
+    aide \xE0 la r\xE9daction en langue seconde) [in French]"
+  title_html: "Adaptation of the corpus platform <span class=\"acl-fixed-case\">S</span>cien<span\
+    \ class=\"acl-fixed-case\">Q</span>uest for assistance to writing in a second\
+    \ language (Adaptation de la plateforme corporale <span class=\"acl-fixed-case\"\
+    >S</span>cien<span class=\"acl-fixed-case\">Q</span>uest pour l\u2019aide \xE0\
+    \ la r\xE9daction en langue seconde) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3010
+  year: '2013'
+F13-3011:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Sebasti\xE1n Pe\xF1a"
+    full: "Sebasti\xE1n Pe\xF1a Saldarriaga"
+    id: sebastian-pena-saldarriaga
+    last: Saldarriaga
+  - first: Damien
+    full: Damien Vintache
+    id: damien-vintache
+    last: Vintache
+  - first: "B\xE9atrice"
+    full: "B\xE9atrice Daille"
+    id: beatrice-daille
+    last: Daille
+  author_string: "Sebasti\xE1n Pe\xF1a Saldarriaga, Damien Vintache, B\xE9atrice Daille"
+  bibkey: saldarriaga-etal-2013-apopsis
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '807'
+  page_last: '808'
+  pages: "807\u2013808"
+  paper_id: '11'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3011.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3011.jpg
+  title: "Apopsis Demonstrator for Tweet Analysis (D\xE9monstrateur Apopsis pour l\u2019\
+    analyse des tweets) [in French]"
+  title_html: "Apopsis Demonstrator for Tweet Analysis (D\xE9monstrateur Apopsis pour\
+    \ l\u2019analyse des tweets) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3011
+  year: '2013'
+F13-3012:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Frederik
+    full: Frederik Cailliau
+    id: frederik-cailliau
+    last: Cailliau
+  - first: Ariane
+    full: Ariane Cavet
+    id: ariane-cavet
+    last: Cavet
+  author_string: Frederik Cailliau, Ariane Cavet
+  bibkey: cailliau-cavet-2013-sentiment
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '809'
+  page_last: '811'
+  pages: "809\u2013811"
+  paper_id: '12'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3012.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3012.jpg
+  title: "Sentiment Analysis for Call-centers (L\u2019analyse des sentiments au service\
+    \ des centres d\u2019appels) [in French]"
+  title_html: "Sentiment Analysis for Call-centers (L\u2019analyse des sentiments\
+    \ au service des centres d\u2019appels) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3012
+  year: '2013'
+F13-3013:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "B\xE9atrice"
+    full: "B\xE9atrice Daille"
+    id: beatrice-daille
+    last: Daille
+  - first: Rima
+    full: Rima Harastani
+    id: rima-harastani
+    last: Harastani
+  author_string: "B\xE9atrice Daille, Rima Harastani"
+  bibkey: daille-harastani-2013-ttc
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 3: System Demonstrations)'
+  month: June
+  page_first: '812'
+  page_last: '813'
+  pages: "812\u2013813"
+  paper_id: '13'
+  parent_volume_id: F13-3
+  pdf: https://www.aclweb.org/anthology/F13-3013.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-3013.jpg
+  title: "TTC TermSuite - Terminological Alignment from Comparable Corpora (TTC TermSuite\
+    \ alignement terminologique \xE0 partir de corpus comparables) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">TTC</span> <span class=\"acl-fixed-case\"\
+    >T</span>erm<span class=\"acl-fixed-case\">S</span>uite - Terminological Alignment\
+    \ from Comparable Corpora (<span class=\"acl-fixed-case\">TTC</span> <span class=\"\
+    acl-fixed-case\">T</span>erm<span class=\"acl-fixed-case\">S</span>uite alignement\
+    \ terminologique \xE0 partir de corpus comparables) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-3013
+  year: '2013'
+F13-4000:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Emmanuel
+    full: Emmanuel Morin
+    id: emmanuel-morin
+    last: Morin
+  - first: Yannick
+    full: "Yannick Est\xE8ve"
+    id: yannick-esteve
+    last: "Est\xE8ve"
+  author_string: "Emmanuel Morin, Yannick Est\xE8ve"
+  bibkey: jep-taln-recital-2013-taln-2013-4
+  bibtype: proceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  month: June
+  paper_id: '0'
+  parent_volume_id: F13-4
+  pdf: https://www.aclweb.org/anthology/F13-4000.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-4000.jpg
+  title: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  title_html: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  url: https://www.aclweb.org/anthology/F13-4000
+  year: '2013'
+F13-4001:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Alexander
+    full: Alexander Fraser
+    id: alexander-fraser
+    last: Fraser
+  author_string: Alexander Fraser
+  bibkey: fraser-2013-improving
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  month: June
+  page_first: '1'
+  page_last: '1'
+  pages: "1\u20131"
+  paper_id: '1'
+  parent_volume_id: F13-4
+  pdf: https://www.aclweb.org/anthology/F13-4001.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-4001.jpg
+  title: "Improving Translation to Morphologically Rich Languages (Am\xE9liorer la\
+    \ traduction des langages morphologiquement riches) [in French]"
+  title_html: "Improving Translation to Morphologically Rich Languages (Am\xE9liorer\
+    \ la traduction des langages morphologiquement riches) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-4001
+  year: '2013'
+F13-4002:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Josiane
+    full: Josiane Mothe
+    id: josiane-mothe
+    last: Mothe
+  author_string: Josiane Mothe
+  bibkey: mothe-2013-information
+  bibtype: inproceedings
+  booktitle: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  booktitle_html: 'Proceedings of TALN 2013 (Volume 4: Invited Conferences)'
+  month: June
+  page_first: '2'
+  page_last: '2'
+  pages: "2\u20132"
+  paper_id: '2'
+  parent_volume_id: F13-4
+  pdf: https://www.aclweb.org/anthology/F13-4002.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-4002.jpg
+  title: "Information Retrieval and Natural Language Processing (Recherche d\u2019\
+    Information et Traitement Automatique des Langues Naturelles) [in French]"
+  title_html: "Information Retrieval and Natural Language Processing (Recherche d\u2019\
+    Information et Traitement Automatique des Langues Naturelles) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-4002
+  year: '2013'
+F13-5000:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Florian
+    full: Florian Boudin
+    id: florian-boudin
+    last: Boudin
+  - first: "Lo\xEFc"
+    full: "Lo\xEFc Barrault"
+    id: loic-barrault
+    last: Barrault
+  author_string: "Florian Boudin, Lo\xEFc Barrault"
+  bibkey: jep-taln-recital-2013-recital
+  bibtype: proceedings
+  booktitle: Proceedings of RECITAL 2013
+  month: June
+  paper_id: '0'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5000.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5000.jpg
+  title: Proceedings of RECITAL 2013
+  title_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  url: https://www.aclweb.org/anthology/F13-5000
+  year: '2013'
+F13-5001:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Dhouha
+    full: Dhouha Bouamor
+    id: dhouha-bouamor
+    last: Bouamor
+  author_string: Dhouha Bouamor
+  bibkey: bouamor-2013-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '1'
+  page_last: '13'
+  pages: "1\u201313"
+  paper_id: '1'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5001.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5001.jpg
+  title: "Mining a Bilingual Lexicon of MultiWord Expressions : A Statistical Machine\
+    \ Translation Evaluation Perspective (Acquisition de lexique bilingue d\u2019\
+    expressions polylexicales: Une application \xE0 la traduction automatique statistique)\
+    \ [in French]"
+  title_html: "Mining a Bilingual Lexicon of <span class=\"acl-fixed-case\">M</span>ulti<span\
+    \ class=\"acl-fixed-case\">W</span>ord Expressions : A Statistical Machine Translation\
+    \ Evaluation Perspective (Acquisition de lexique bilingue d\u2019expressions polylexicales:\
+    \ Une application \xE0 la traduction automatique statistique) [in <span class=\"\
+    acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5001
+  year: '2013'
+F13-5002:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Guiyao
+    full: Guiyao Ke
+    id: guiyao-ke
+    last: Ke
+  author_string: Guiyao Ke
+  bibkey: ke-2013-variations
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '15'
+  page_last: '27'
+  pages: "15\u201327"
+  paper_id: '2'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5002.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5002.jpg
+  title: "Some variations on quantitative comparability measures and evaluations on\
+    \ synthetic French-English comparable corpora (Quelques variations sur les mesures\
+    \ de comparabilit\xE9 quantitatives et \xE9valuations sur des corpus comparables\
+    \ Fran\xE7ais-Anglais synth\xE9tiques) [in French]"
+  title_html: "Some variations on quantitative comparability measures and evaluations\
+    \ on synthetic <span class=\"acl-fixed-case\">F</span>rench-<span class=\"acl-fixed-case\"\
+    >E</span>nglish comparable corpora (Quelques variations sur les mesures de comparabilit\xE9\
+    \ quantitatives et \xE9valuations sur des corpus comparables Fran\xE7ais-Anglais\
+    \ synth\xE9tiques) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5002
+  year: '2013'
+F13-5003:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "No\xE9mie-Fleur"
+    full: "No\xE9mie-Fleur Sandillon-Rezer"
+    id: noemie-fleur-sandillon-rezer
+    last: Sandillon-Rezer
+  author_string: "No\xE9mie-Fleur Sandillon-Rezer"
+  bibkey: sandillon-rezer-2013-clustering
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '28'
+  page_last: '41'
+  pages: "28\u201341"
+  paper_id: '3'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5003.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5003.jpg
+  title: "Clustering for categorial grammar induction (Inf\xE9rence grammaticale guid\xE9\
+    e par clustering) [in French]"
+  title_html: "Clustering for categorial grammar induction (Inf\xE9rence grammaticale\
+    \ guid\xE9e par clustering) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5003
+  year: '2013'
+F13-5004:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Aur\xE9lie"
+    full: "Aur\xE9lie Joseph"
+    id: aurelie-joseph
+    last: Joseph
+  author_string: "Aur\xE9lie Joseph"
+  bibkey: joseph-2013-enhance
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '42'
+  page_last: '55'
+  pages: "42\u201355"
+  paper_id: '4'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5004.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5004.jpg
+  title: "Enhance Multiword Expressions Extraction and Description with Transformational\
+    \ Rules (Am\xE9liorer l\u2019extraction et la description d\u2019expressions polylexicales\
+    \ gr\xE2ce aux r\xE8gles transformationnelles) [in French]"
+  title_html: "Enhance Multiword Expressions Extraction and Description with Transformational\
+    \ Rules (Am\xE9liorer l\u2019extraction et la description d\u2019expressions polylexicales\
+    \ gr\xE2ce aux r\xE8gles transformationnelles) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5004
+  year: '2013'
+F13-5005:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Manuela
+    full: Manuela Yapomo
+    id: manuela-yapomo
+    last: Yapomo
+  author_string: Manuela Yapomo
+  bibkey: yapomo-2013-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '56'
+  page_last: '68'
+  pages: "56\u201368"
+  paper_id: '5'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5005.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5005.jpg
+  title: "Multilingual document clustering : state of the art (Construction de corpus\
+    \ multilingues : \xE9tat de l\u2019art) [in French]"
+  title_html: "Multilingual document clustering : state of the art (Construction de\
+    \ corpus multilingues : \xE9tat de l\u2019art) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5005
+  year: '2013'
+F13-5006:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Dhaou
+    full: Dhaou Ghoul
+    id: dhaou-ghoul
+    last: Ghoul
+  author_string: Dhaou Ghoul
+  bibkey: ghoul-2013-development
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '69'
+  page_last: '82'
+  pages: "69\u201382"
+  paper_id: '6'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5006.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5006.jpg
+  title: "Development of resources for training and the use of the tagger TreeTagger\
+    \ on Arabic (D\xE9veloppement de ressources pour l\u2019entrainement et l\u2019\
+    utilisation de l\u2019\xE9tiqueteur morphosyntaxique TreeTagger sur l\u2019arabe)\
+    \ [in French]"
+  title_html: "Development of resources for training and the use of the tagger <span\
+    \ class=\"acl-fixed-case\">T</span>ree<span class=\"acl-fixed-case\">T</span>agger\
+    \ on <span class=\"acl-fixed-case\">A</span>rabic (D\xE9veloppement de ressources\
+    \ pour l\u2019entrainement et l\u2019utilisation de l\u2019\xE9tiqueteur morphosyntaxique\
+    \ <span class=\"acl-fixed-case\">T</span>ree<span class=\"acl-fixed-case\">T</span>agger\
+    \ sur l\u2019arabe) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5006
+  year: '2013'
+F13-5007:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Amel
+    full: Amel Ziani
+    id: amel-ziani
+    last: Ziani
+  - first: Nabiha
+    full: Nabiha Azizi
+    id: nabiha-azizi
+    last: Azizi
+  - first: Yamina
+    full: Yamina Tlili-Guiassa
+    id: yamina-tlili-guiassa
+    last: Tlili-Guiassa
+  author_string: Amel Ziani, Nabiha Azizi, Yamina Tlili-Guiassa
+  bibkey: ziani-etal-2013-polarity
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '83'
+  page_last: '95'
+  pages: "83\u201395"
+  paper_id: '7'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5007.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5007.jpg
+  title: "Polarity Opinion Detection in Arabic Forums by Fusing Multiple SVMs (D\xE9\
+    tection de polarit\xE9 d\u2019opinions dans les forums en langue arabe par fusion\
+    \ de plusieurs SVM) [in French]"
+  title_html: "Polarity Opinion Detection in <span class=\"acl-fixed-case\">A</span>rabic\
+    \ Forums by Fusing Multiple <span class=\"acl-fixed-case\">SVM</span>s (D\xE9\
+    tection de polarit\xE9 d\u2019opinions dans les forums en langue arabe par fusion\
+    \ de plusieurs <span class=\"acl-fixed-case\">SVM</span>) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5007
+  year: '2013'
+F13-5008:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Adrien
+    full: Adrien Bougouin
+    id: adrien-bougouin
+    last: Bougouin
+  author_string: Adrien Bougouin
+  bibkey: bougouin-2013-state
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '96'
+  page_last: '109'
+  pages: "96\u2013109"
+  paper_id: '8'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5008.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5008.jpg
+  title: "State of the Art of Automatic Keyphrase Extraction Methods (\xC9tat de l\u2019\
+    art des m\xE9thodes d\u2019extraction automatique de termes-cl\xE9s) [in French]"
+  title_html: "State of the Art of Automatic Keyphrase Extraction Methods (\xC9tat\
+    \ de l\u2019art des m\xE9thodes d\u2019extraction automatique de termes-cl\xE9\
+    s) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5008
+  year: '2013'
+F13-5009:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: "Oph\xE9lie"
+    full: "Oph\xE9lie Lacroix"
+    id: ophelie-lacroix
+    last: Lacroix
+  author_string: "Oph\xE9lie Lacroix"
+  bibkey: lacroix-2013-effect
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '110'
+  page_last: '123'
+  pages: "110\u2013123"
+  paper_id: '9'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5009.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5009.jpg
+  title: "On the Effect of Head Tagging on Parsing Discontinuous Dependencies in French\
+    \ (Influence de l\u2019\xE9tiquetage syntaxique des t\xEAtes sur l\u2019analyse\
+    \ en d\xE9pendances discontinues du fran\xE7ais) [in French]"
+  title_html: "On the Effect of Head Tagging on Parsing Discontinuous Dependencies\
+    \ in <span class=\"acl-fixed-case\">F</span>rench (Influence de l\u2019\xE9tiquetage\
+    \ syntaxique des t\xEAtes sur l\u2019analyse en d\xE9pendances discontinues du\
+    \ fran\xE7ais) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5009
+  year: '2013'
+F13-5010:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Houda
+    full: Houda Saadane
+    id: houda-saadane
+    last: Saadane
+  author_string: Houda Saadane
+  bibkey: saadane-2013-linguistic
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '124'
+  page_last: '137'
+  pages: "124\u2013137"
+  paper_id: '10'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5010.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5010.jpg
+  title: "A linguistic approach for knowledge extraction from an Arabic text (Une\
+    \ approche linguistique pour l\u2019extraction des connaissances dans un texte\
+    \ arabe) [in French]"
+  title_html: "A linguistic approach for knowledge extraction from an <span class=\"\
+    acl-fixed-case\">A</span>rabic text (Une approche linguistique pour l\u2019extraction\
+    \ des connaissances dans un texte arabe) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5010
+  year: '2013'
+F13-5011:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Sylvain
+    full: Sylvain Hatier
+    id: sylvain-hatier
+    last: Hatier
+  author_string: Sylvain Hatier
+  bibkey: hatier-2013-extraction
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '138'
+  page_last: '149'
+  pages: "138\u2013149"
+  paper_id: '11'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5011.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5011.jpg
+  title: "Extraction of academic lexicon\u2019s simple words in humanities writings\
+    \ (Extraction des mots simples du lexique scientifique transdisciplinaire dans\
+    \ les \xE9crits de sciences humaines : une premi\xE8re exp\xE9rimentation) [in\
+    \ French]"
+  title_html: "Extraction of academic lexicon\u2019s simple words in humanities writings\
+    \ (Extraction des mots simples du lexique scientifique transdisciplinaire dans\
+    \ les \xE9crits de sciences humaines : une premi\xE8re exp\xE9rimentation) [in\
+    \ <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5011
+  year: '2013'
+F13-5012:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Marie
+    full: Marie Dubremetz
+    id: marie-dubremetz
+    last: Dubremetz
+  author_string: Marie Dubremetz
+  bibkey: dubremetz-2013-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '150'
+  page_last: '163'
+  pages: "150\u2013163"
+  paper_id: '12'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5012.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5012.jpg
+  title: Towards an automatic identification of chiasmus of words (Vers une identification
+    automatique du chiasme de mots) [in French]
+  title_html: Towards an automatic identification of chiasmus of words (Vers une identification
+    automatique du chiasme de mots) [in <span class="acl-fixed-case">F</span>rench]
+  url: https://www.aclweb.org/anthology/F13-5012
+  year: '2013'
+F13-5013:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Maxime
+    full: "Maxime Lefran\xE7ois"
+    id: maxime-lefrancois
+    last: "Lefran\xE7ois"
+  author_string: "Maxime Lefran\xE7ois"
+  bibkey: lefrancois-2013-ecd
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '164'
+  page_last: '177'
+  pages: "164\u2013177"
+  paper_id: '13'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5013.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5013.jpg
+  title: "ECD Knowledge Representation : Fundamental Concepts of the Unit Graphs Framework\
+    \ (Repr\xE9sentation des connaissances du DEC: Concepts fondamentaux du formalisme\
+    \ des Graphes d\u2019Unit\xE9s) [in French]"
+  title_html: "<span class=\"acl-fixed-case\">ECD</span> Knowledge Representation\
+    \ : Fundamental Concepts of the Unit Graphs Framework (Repr\xE9sentation des connaissances\
+    \ du <span class=\"acl-fixed-case\">DEC</span>: Concepts fondamentaux du formalisme\
+    \ des Graphes d\u2019Unit\xE9s) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5013
+  year: '2013'
+F13-5014:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Corentin
+    full: Corentin Ribeyre
+    id: corentin-ribeyre
+    last: Ribeyre
+  author_string: Corentin Ribeyre
+  bibkey: ribeyre-2013-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '178'
+  page_last: '191'
+  pages: "178\u2013191"
+  paper_id: '14'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5014.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5014.jpg
+  title: "Towards a generic graph rewriting system to enrich syntactic structures\
+    \ (Vers un syst\xE8me g\xE9n\xE9rique de r\xE9\xE9criture de graphes pour l\u2019\
+    enrichissement de structures syntaxiques) [in French]"
+  title_html: "Towards a generic graph rewriting system to enrich syntactic structures\
+    \ (Vers un syst\xE8me g\xE9n\xE9rique de r\xE9\xE9criture de graphes pour l\u2019\
+    enrichissement de structures syntaxiques) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5014
+  year: '2013'
+F13-5015:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Mohammad
+    full: Mohammad Nasiruddin
+    id: mohammad-nasiruddin
+    last: Nasiruddin
+  author_string: Mohammad Nasiruddin
+  bibkey: nasiruddin-2013-state
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '192'
+  page_last: '205'
+  pages: "192\u2013205"
+  paper_id: '15'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5015.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5015.jpg
+  title: "A State of the Art of Word Sense Induction: A Way Towards Word Sense Disambiguation\
+    \ for Under-Resourced Languages (\xC9tat de l\u2019art de l\u2019induction de\
+    \ sens: une voie vers la d\xE9sambigu\xEFsation lexicale pour les langues peu\
+    \ dot\xE9es) [in French]"
+  title_html: "A State of the Art of Word Sense Induction: A Way Towards Word Sense\
+    \ Disambiguation for Under-Resourced Languages (\xC9tat de l\u2019art de l\u2019\
+    induction de sens: une voie vers la d\xE9sambigu\xEFsation lexicale pour les langues\
+    \ peu dot\xE9es) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5015
+  year: '2013'
+F13-5016:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Rahma
+    full: Rahma Boujelbane
+    id: rahma-boujelbane
+    last: Boujelbane
+  author_string: Rahma Boujelbane
+  bibkey: boujelbane-2013-generation
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '206'
+  page_last: '216'
+  pages: "206\u2013216"
+  paper_id: '16'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5016.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5016.jpg
+  title: "Generation of tunisian dialect corpora for adapting language models (G\xE9\
+    n\xE9ration des corpus en dialecte tunisien pour la mod\xE9lisation de langage\
+    \ d\u2019un syst\xE8me de reconnaissance) [in French]"
+  title_html: "Generation of tunisian dialect corpora for adapting language models\
+    \ (G\xE9n\xE9ration des corpus en dialecte tunisien pour la mod\xE9lisation de\
+    \ langage d\u2019un syst\xE8me de reconnaissance) [in <span class=\"acl-fixed-case\"\
+    >F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5016
+  year: '2013'
+F13-5017:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Simon
+    full: Simon Leva
+    id: simon-leva
+    last: Leva
+  - first: Nicolas
+    full: Nicolas Faessel
+    id: nicolas-faessel
+    last: Faessel
+  author_string: Simon Leva, Nicolas Faessel
+  bibkey: leva-faessel-2013-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '217'
+  page_last: '230'
+  pages: "217\u2013230"
+  paper_id: '17'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5017.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5017.jpg
+  title: "Automatic search session detection exploiting results similarity from an\
+    \ external document collection (D\xE9tection automatique des sessions de recherche\
+    \ par similarit\xE9 des r\xE9sultats provenant d\u2019une collection de documents\
+    \ externe) [in French]"
+  title_html: "Automatic search session detection exploiting results similarity from\
+    \ an external document collection (D\xE9tection automatique des sessions de recherche\
+    \ par similarit\xE9 des r\xE9sultats provenant d\u2019une collection de documents\
+    \ externe) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5017
+  year: '2013'
+F13-5018:
+  address: "Les Sables d\u2019Olonne, France"
+  author:
+  - first: Zhen
+    full: Zhen Wang
+    id: zhen-wang
+    last: Wang
+  author_string: Zhen Wang
+  bibkey: wang-2013-mixed
+  bibtype: inproceedings
+  booktitle: Proceedings of RECITAL 2013
+  booktitle_html: Proceedings of <span class="acl-fixed-case">RECITAL</span> 2013
+  month: June
+  page_first: '231'
+  page_last: '243'
+  pages: "231\u2013243"
+  paper_id: '18'
+  parent_volume_id: F13-5
+  pdf: https://www.aclweb.org/anthology/F13-5018.pdf
+  publisher: ATALA
+  thumbnail: https://www.aclweb.org/anthology/thumb/F13-5018.jpg
+  title: "A Mixed Morpho-Syntactic and Statistical Approach to Chinese Named Entity\
+    \ Recognition (Une approche mixte morpho-syntaxique et statistique pour la reconnaissance\
+    \ d\u2019entit\xE9s nomm\xE9es en langue chinoise) [in French]"
+  title_html: "A Mixed Morpho-Syntactic and Statistical Approach to <span class=\"\
+    acl-fixed-case\">C</span>hinese Named Entity Recognition (Une approche mixte morpho-syntaxique\
+    \ et statistique pour la reconnaissance d\u2019entit\xE9s nomm\xE9es en langue\
+    \ chinoise) [in <span class=\"acl-fixed-case\">F</span>rench]"
+  url: https://www.aclweb.org/anthology/F13-5018
+  year: '2013'

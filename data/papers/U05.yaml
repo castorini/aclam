@@ -1,0 +1,969 @@
+U05-1000:
+  address: Sydney, Australia
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: James
+    full: James Curran
+    id: james-r-curran
+    last: Curran
+  - first: Menno
+    full: Menno van Zaanen
+    id: menno-van-zaanen
+    last: van Zaanen
+  author_string: Timothy Baldwin, James Curran, Menno van Zaanen
+  bibkey: alta-2005-australasian
+  bibtype: proceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  paper_id: '0'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1000.jpg
+  title: Proceedings of the Australasian Language Technology Workshop 2005
+  title_html: Proceedings of the Australasian Language Technology Workshop 2005
+  url: https://www.aclweb.org/anthology/U05-1000
+  year: '2005'
+U05-1001:
+  address: Sydney, Australia
+  author:
+  - first: Dan
+    full: Dan Flickinger
+    id: dan-flickinger
+    last: Flickinger
+  author_string: Dan Flickinger
+  bibkey: flickinger-2005-dimensions
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '1'
+  page_last: '3'
+  pages: "1\u20133"
+  paper_id: '1'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1001.jpg
+  title: Dimensions of Deep Grammar Validation
+  title_html: Dimensions of Deep Grammar Validation
+  url: https://www.aclweb.org/anthology/U05-1001
+  year: '2005'
+U05-1002:
+  address: Sydney, Australia
+  author:
+  - first: Kathy
+    full: Kathy McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Kathy McKeown
+  bibkey: mckeown-2005-text
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  pages: '4'
+  paper_id: '2'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1002.jpg
+  title: 'Text Summarization: News and Beyond'
+  title_html: 'Text Summarization: News and Beyond'
+  url: https://www.aclweb.org/anthology/U05-1002
+  year: '2005'
+U05-1003:
+  address: Sydney, Australia
+  author:
+  - first: Virach
+    full: Virach Sornlertlamvanich
+    id: virach-sornlertlamvanich
+    last: Sornlertlamvanich
+  author_string: Virach Sornlertlamvanich
+  bibkey: sornlertlamvanich-2005-non
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '5'
+  page_last: '6'
+  pages: "5\u20136"
+  paper_id: '3'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1003.jpg
+  title: From Non-segmenting Language Processing to Web Language Engineering
+  title_html: From Non-segmenting Language Processing to Web Language Engineering
+  url: https://www.aclweb.org/anthology/U05-1003
+  year: '2005'
+U05-1004:
+  address: Sydney, Australia
+  author:
+  - first: Pawel
+    full: Pawel Mazur
+    id: pawel-mazur
+    last: Mazur
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Pawel Mazur, Robert Dale
+  bibkey: mazur-dale-2005-disambiguating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '7'
+  page_last: '14'
+  pages: "7\u201314"
+  paper_id: '4'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1004.jpg
+  title: Disambiguating Conjunctions in Named Entities
+  title_html: Disambiguating Conjunctions in Named Entities
+  url: https://www.aclweb.org/anthology/U05-1004
+  year: '2005'
+U05-1005:
+  address: Sydney, Australia
+  author:
+  - first: Diego
+    full: Diego Molla
+    id: diego-molla
+    last: Molla
+  - first: Menno
+    full: Menno van Zaanen
+    id: menno-van-zaanen
+    last: van Zaanen
+  author_string: Diego Molla, Menno van Zaanen
+  bibkey: molla-van-zaanen-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '15'
+  page_last: '23'
+  pages: "15\u201323"
+  paper_id: '5'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1005.jpg
+  title: Learning of Graph Rules for Question Answering
+  title_html: Learning of Graph Rules for Question Answering
+  url: https://www.aclweb.org/anthology/U05-1005
+  year: '2005'
+U05-1006:
+  address: Sydney, Australia
+  author:
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  - first: Valia
+    full: Valia Kordoni
+    id: valia-kordoni
+    last: Kordoni
+  author_string: Yi Zhang, Valia Kordoni
+  bibkey: zhang-kordoni-2005-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '24'
+  page_last: '31'
+  pages: "24\u201331"
+  paper_id: '6'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1006.jpg
+  title: A Statistical Approach towards Unknown Word Type Prediction for Deep Grammars
+  title_html: A Statistical Approach towards Unknown Word Type Prediction for Deep
+    Grammars
+  url: https://www.aclweb.org/anthology/U05-1006
+  year: '2005'
+U05-1007:
+  address: Sydney, Australia
+  author:
+  - first: David
+    full: David Vadas
+    id: david-vadas
+    last: Vadas
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: David Vadas, James R. Curran
+  bibkey: vadas-curran-2005-tagging
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '32'
+  page_last: '39'
+  pages: "32\u201339"
+  paper_id: '7'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1007.jpg
+  title: Tagging Unknown Words with Raw Text Features
+  title_html: Tagging Unknown Words with Raw Text Features
+  url: https://www.aclweb.org/anthology/U05-1007
+  year: '2005'
+U05-1008:
+  address: Sydney, Australia
+  author:
+  - first: Andrew
+    full: Andrew MacKinlay
+    id: andrew-mackinlay
+    last: MacKinlay
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Andrew MacKinlay, Timothy Baldwin
+  bibkey: mackinlay-baldwin-2005-pos
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '40'
+  page_last: '48'
+  pages: "40\u201348"
+  paper_id: '8'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1008.jpg
+  title: POS Tagging with a More Informative Tagset
+  title_html: <span class="acl-fixed-case">POS</span> Tagging with a More Informative
+    Tagset
+  url: https://www.aclweb.org/anthology/U05-1008
+  year: '2005'
+U05-1009:
+  address: Sydney, Australia
+  author:
+  - first: James
+    full: James Gorman
+    id: james-gorman
+    last: Gorman
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: James Gorman, James R. Curran
+  bibkey: gorman-curran-2005-augmenting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '49'
+  page_last: '56'
+  pages: "49\u201356"
+  paper_id: '9'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1009.jpg
+  title: Augmenting Approximate Similarity Searching with Lexical Information
+  title_html: Augmenting Approximate Similarity Searching with Lexical Information
+  url: https://www.aclweb.org/anthology/U05-1009
+  year: '2005'
+U05-1010:
+  address: Sydney, Australia
+  author:
+  - first: Masood
+    full: Masood Ghayoomi
+    id: masood-ghayoomi
+    last: Ghayoomi
+  - first: Seyyed Mostafa
+    full: Seyyed Mostafa Assi
+    id: seyyed-mostafa-assi
+    last: Assi
+  author_string: Masood Ghayoomi, Seyyed Mostafa Assi
+  bibkey: ghayoomi-assi-2005-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '57'
+  page_last: '63'
+  pages: "57\u201363"
+  paper_id: '10'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1010.jpg
+  title: 'Word Prediction in a Running Text: A Statistical Language Modeling for the
+    Persian Language'
+  title_html: 'Word Prediction in a Running Text: A Statistical Language Modeling
+    for the <span class="acl-fixed-case">P</span>ersian Language'
+  url: https://www.aclweb.org/anthology/U05-1010
+  year: '2005'
+U05-1011:
+  address: Sydney, Australia
+  author:
+  - first: Andrew
+    full: Andrew MacKinlay
+    id: andrew-mackinlay
+    last: MacKinlay
+  author_string: Andrew MacKinlay
+  bibkey: mackinlay-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '64'
+  page_last: '70'
+  pages: "64\u201370"
+  paper_id: '11'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1011.jpg
+  title: Using Diverse Information Sources to Retrieve Samples of Low Density Languages
+  title_html: Using Diverse Information Sources to Retrieve Samples of Low Density
+    Languages
+  url: https://www.aclweb.org/anthology/U05-1011
+  year: '2005'
+U05-1012:
+  address: Sydney, Australia
+  author:
+  - first: Harold
+    full: Harold Somers
+    id: harold-somers
+    last: Somers
+  author_string: Harold Somers
+  bibkey: somers-2005-faking
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '71'
+  page_last: '77'
+  pages: "71\u201377"
+  paper_id: '12'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1012.jpg
+  title: "Faking it: Synthetic Text-to-speech Synthesis for Under-resourced Languages\
+    \ \u2013 Experimental Design"
+  title_html: "Faking it: Synthetic Text-to-speech Synthesis for Under-resourced Languages\
+    \ \u2013 Experimental Design"
+  url: https://www.aclweb.org/anthology/U05-1012
+  year: '2005'
+U05-1013:
+  address: Sydney, Australia
+  author:
+  - first: Jason
+    full: Jason Littlefield
+    id: jason-littlefield
+    last: Littlefield
+  - first: Michael
+    full: Michael Broughton
+    id: michael-broughton
+    last: Broughton
+  author_string: Jason Littlefield, Michael Broughton
+  bibkey: littlefield-broughton-2005-dual
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '78'
+  page_last: '86'
+  pages: "78\u201386"
+  paper_id: '13'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1013.jpg
+  title: Dual-Type Automatic Speech Recogniser Designs for Spoken Dialogue Systems
+  title_html: Dual-Type Automatic Speech Recogniser Designs for Spoken Dialogue Systems
+  url: https://www.aclweb.org/anthology/U05-1013
+  year: '2005'
+U05-1014:
+  address: Sydney, Australia
+  author:
+  - first: Son Bao
+    full: Son Bao Pham
+    id: son-bao-pham
+    last: Pham
+  - first: Achim
+    full: Achim Hoffmann
+    id: achim-hoffmann
+    last: Hoffmann
+  author_string: Son Bao Pham, Achim Hoffmann
+  bibkey: pham-hoffmann-2005-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '87'
+  page_last: '95'
+  pages: "87\u201395"
+  paper_id: '14'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1014.jpg
+  title: Efficient Knowledge Acquisition for Extracting Temporal Relations
+  title_html: Efficient Knowledge Acquisition for Extracting Temporal Relations
+  url: https://www.aclweb.org/anthology/U05-1014
+  year: '2005'
+U05-1015:
+  address: Sydney, Australia
+  author:
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  - first: Steve
+    full: Steve Cassidy
+    id: steve-cassidy
+    last: Cassidy
+  author_string: Mark Dras, Steve Cassidy
+  bibkey: dras-cassidy-2005-formal
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '96'
+  page_last: '104'
+  pages: "96\u2013104"
+  paper_id: '15'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1015.jpg
+  title: Formal Grammars for Linguistic Treebank Queries
+  title_html: Formal Grammars for Linguistic Treebank Queries
+  url: https://www.aclweb.org/anthology/U05-1015
+  year: '2005'
+U05-1016:
+  address: Sydney, Australia
+  author:
+  - first: Luiz Augusto
+    full: Luiz Augusto Pizzato
+    id: luiz-augusto-pizzato
+    last: Pizzato
+  - first: Diego
+    full: Diego Molla
+    id: diego-molla
+    last: Molla
+  author_string: Luiz Augusto Pizzato, Diego Molla
+  bibkey: pizzato-molla-2005-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '105'
+  page_last: '112'
+  pages: "105\u2013112"
+  paper_id: '16'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1016.jpg
+  title: Extracting Exact Answers using a Meta Question Answering System
+  title_html: Extracting Exact Answers using a Meta Question Answering System
+  url: https://www.aclweb.org/anthology/U05-1016
+  year: '2005'
+U05-1017:
+  address: Sydney, Australia
+  author:
+  - first: Simon
+    full: Simon Musgrave
+    id: simon-musgrave
+    last: Musgrave
+  author_string: Simon Musgrave
+  bibkey: musgrave-2005-multimedia
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '113'
+  page_last: '119'
+  pages: "113\u2013119"
+  paper_id: '17'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1017.jpg
+  title: 'Multimedia Presentation of Grammatical Description: Design Issues'
+  title_html: 'Multimedia Presentation of Grammatical Description: Design Issues'
+  url: https://www.aclweb.org/anthology/U05-1017
+  year: '2005'
+U05-1018:
+  address: Sydney, Australia
+  author:
+  - first: Robert
+    full: Robert Marshall
+    id: robert-marshall
+    last: Marshall
+  - first: Steven
+    full: Steven Bird
+    id: steven-bird
+    last: Bird
+  - first: Peter
+    full: Peter Stuckey
+    id: peter-stuckey
+    last: Stuckey
+  author_string: Robert Marshall, Steven Bird, Peter Stuckey
+  bibkey: marshall-etal-2005-structuring
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '120'
+  page_last: '126'
+  pages: "120\u2013126"
+  paper_id: '18'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1018.jpg
+  title: Structuring Documents Efficiently
+  title_html: Structuring Documents Efficiently
+  url: https://www.aclweb.org/anthology/U05-1018
+  year: '2005'
+U05-1019:
+  address: Sydney, Australia
+  author:
+  - first: Harold
+    full: Harold Somers
+    id: harold-somers
+    last: Somers
+  author_string: Harold Somers
+  bibkey: somers-2005-round
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '127'
+  page_last: '133'
+  pages: "127\u2013133"
+  paper_id: '19'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1019.jpg
+  title: 'Round-trip Translation: What Is It Good For?'
+  title_html: 'Round-trip Translation: What Is It Good For?'
+  url: https://www.aclweb.org/anthology/U05-1019
+  year: '2005'
+U05-1020:
+  address: Sydney, Australia
+  author:
+  - first: Jeremy
+    full: Jeremy Fletcher
+    id: jeremy-fletcher
+    last: Fletcher
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  author_string: Jeremy Fletcher, Jon Patrick
+  bibkey: fletcher-patrick-2005-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '134'
+  page_last: '142'
+  pages: "134\u2013142"
+  paper_id: '20'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1020.jpg
+  title: Evaluating the Utility of Appraisal Hierarchies as a Method for Sentiment
+    Classification
+  title_html: Evaluating the Utility of Appraisal Hierarchies as a Method for Sentiment
+    Classification
+  url: https://www.aclweb.org/anthology/U05-1020
+  year: '2005'
+U05-1021:
+  address: Sydney, Australia
+  author:
+  - first: Lars
+    full: Lars Yencken
+    id: lars-yencken
+    last: Yencken
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Lars Yencken, Timothy Baldwin
+  bibkey: yencken-baldwin-2005-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '143'
+  page_last: '151'
+  pages: "143\u2013151"
+  paper_id: '21'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1021.jpg
+  title: Efficient Grapheme-phoneme Alignment for Japanese
+  title_html: Efficient Grapheme-phoneme Alignment for <span class="acl-fixed-case">J</span>apanese
+  url: https://www.aclweb.org/anthology/U05-1021
+  year: '2005'
+U05-1022:
+  address: Sydney, Australia
+  author:
+  - first: Jeremy
+    full: Jeremy Nicholson
+    id: jeremy-nicholson
+    last: Nicholson
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Jeremy Nicholson, Timothy Baldwin
+  bibkey: nicholson-baldwin-2005-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '152'
+  page_last: '159'
+  pages: "152\u2013159"
+  paper_id: '22'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1022.jpg
+  title: Statistical Interpretation of Compound Nominalisations
+  title_html: Statistical Interpretation of Compound Nominalisations
+  url: https://www.aclweb.org/anthology/U05-1022
+  year: '2005'
+U05-1023:
+  address: Sydney, Australia
+  author:
+  - first: Yitao
+    full: Yitao Zhang
+    id: yitao-zhang
+    last: Zhang
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  author_string: Yitao Zhang, Jon Patrick
+  bibkey: zhang-patrick-2005-paraphrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '160'
+  page_last: '166'
+  pages: "160\u2013166"
+  paper_id: '23'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1023.jpg
+  title: Paraphrase Identification by Text Canonicalization
+  title_html: Paraphrase Identification by Text Canonicalization
+  url: https://www.aclweb.org/anthology/U05-1023
+  year: '2005'
+U05-1024:
+  address: Sydney, Australia
+  author:
+  - first: Vinci
+    full: Vinci Liu
+    id: vinci-liu
+    last: Liu
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: Vinci Liu, James R. Curran
+  bibkey: liu-curran-2005-words
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '167'
+  page_last: '175'
+  pages: "167\u2013175"
+  paper_id: '24'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1024.jpg
+  title: 'Words and Word Usage: Newspaper Text versus the Web'
+  title_html: 'Words and Word Usage: Newspaper Text versus the Web'
+  url: https://www.aclweb.org/anthology/U05-1024
+  year: '2005'
+U05-1025:
+  address: Sydney, Australia
+  author:
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Andrea
+    full: Andrea Bolognesi
+    id: andrea-bolognesi
+    last: Bolognesi
+  - first: Corrado
+    full: Corrado Seidenari
+    id: corrado-seidenari
+    last: Seidenari
+  - first: Fabio
+    full: Fabio Tamburini
+    id: fabio-tamburini
+    last: Tamburini
+  author_string: Raffaella Bernardi, Andrea Bolognesi, Corrado Seidenari, Fabio Tamburini
+  bibkey: bernardi-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '176'
+  page_last: '183'
+  pages: "176\u2013183"
+  paper_id: '25'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1025.jpg
+  title: Automatic Induction of a POS Tagset for Italian
+  title_html: Automatic Induction of a <span class="acl-fixed-case">POS</span> Tagset
+    for <span class="acl-fixed-case">I</span>talian
+  url: https://www.aclweb.org/anthology/U05-1025
+  year: '2005'
+U05-1026:
+  address: Sydney, Australia
+  author:
+  - first: Guogang
+    full: Guogang Tian
+    id: guogang-tian
+    last: Tian
+  - first: Cungen
+    full: Cungen Cao
+    id: cungen-cao
+    last: Cao
+  author_string: Guogang Tian, Cungen Cao
+  bibkey: tian-cao-2005-dual
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '184'
+  page_last: '190'
+  pages: "184\u2013190"
+  paper_id: '26'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1026.jpg
+  title: A Dual-Iterative Method for Concept-Word Acquisition from Large-Scale Chinese
+    Corpora
+  title_html: A Dual-Iterative Method for Concept-Word Acquisition from Large-Scale
+    <span class="acl-fixed-case">C</span>hinese Corpora
+  url: https://www.aclweb.org/anthology/U05-1026
+  year: '2005'
+U05-1027:
+  address: Sydney, Australia
+  author:
+  - first: David
+    full: David Vadas
+    id: david-vadas
+    last: Vadas
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: David Vadas, James R. Curran
+  bibkey: vadas-curran-2005-programming
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '191'
+  page_last: '199'
+  pages: "191\u2013199"
+  paper_id: '27'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1027.jpg
+  title: Programming With Unrestricted Natural Language
+  title_html: Programming With Unrestricted Natural Language
+  url: https://www.aclweb.org/anthology/U05-1027
+  year: '2005'
+U05-1028:
+  address: Sydney, Australia
+  author:
+  - first: Matthew
+    full: Matthew Honnibal
+    id: matthew-honnibal
+    last: Honnibal
+  - first: Tobias
+    full: Tobias Hawker
+    id: tobias-hawker
+    last: Hawker
+  author_string: Matthew Honnibal, Tobias Hawker
+  bibkey: honnibal-hawker-2005-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '200'
+  page_last: '206'
+  pages: "200\u2013206"
+  paper_id: '28'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1028.jpg
+  title: Identifying FrameNet Frames for Verbs from a Real-Text Corpus
+  title_html: Identifying <span class="acl-fixed-case">F</span>rame<span class="acl-fixed-case">N</span>et
+    Frames for Verbs from a Real-Text Corpus
+  url: https://www.aclweb.org/anthology/U05-1028
+  year: '2005'
+U05-1029:
+  address: Sydney, Australia
+  author:
+  - first: Baden
+    full: Baden Hughes
+    id: baden-hughes
+    last: Hughes
+  - first: James
+    full: James Haggerty
+    id: james-haggerty
+    last: Haggerty
+  - first: Joel
+    full: Joel Nothman
+    id: joel-nothman
+    last: Nothman
+  - first: Saritha
+    full: Saritha Manickam
+    id: saritha-manickam
+    last: Manickam
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: Baden Hughes, James Haggerty, Joel Nothman, Saritha Manickam, James
+    R. Curran
+  bibkey: hughes-etal-2005-distributed
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '207'
+  page_last: '214'
+  pages: "207\u2013214"
+  paper_id: '29'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1029.jpg
+  title: A Distributed Architecture for Interactive Parse Annotation
+  title_html: A Distributed Architecture for Interactive Parse Annotation
+  url: https://www.aclweb.org/anthology/U05-1029
+  year: '2005'
+U05-1030:
+  address: Sydney, Australia
+  author:
+  - first: Nicola
+    full: Nicola Stokes
+    id: nicola-stokes
+    last: Stokes
+  - first: Eamonn
+    full: Eamonn Newman
+    id: eamonn-newman
+    last: Newman
+  author_string: Nicola Stokes, Eamonn Newman
+  bibkey: stokes-newman-2005-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '215'
+  page_last: '223'
+  pages: "215\u2013223"
+  paper_id: '30'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1030.jpg
+  title: Multi-document Summarisation and the PASCAL Textual Entailment Challenge
+  title_html: Multi-document Summarisation and the <span class="acl-fixed-case">PASCAL</span>
+    Textual Entailment Challenge
+  url: https://www.aclweb.org/anthology/U05-1030
+  year: '2005'
+U05-1031:
+  address: Sydney, Australia
+  author:
+  - first: Ying
+    full: Ying Su
+    id: ying-su
+    last: Su
+  - first: Tao
+    full: Tao Bai
+    id: tao-bai
+    last: Bai
+  - first: Catherine I.
+    full: Catherine I. Watson
+    id: catherine-i-watson
+    last: Watson
+  author_string: Ying Su, Tao Bai, Catherine I. Watson
+  bibkey: su-etal-2005-design
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '224'
+  page_last: '232'
+  pages: "224\u2013232"
+  paper_id: '31'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1031.jpg
+  title: Design and Development of a Speech-driven Control for a In-car Personal Navigation
+    System
+  title_html: Design and Development of a Speech-driven Control for a In-car Personal
+    Navigation System
+  url: https://www.aclweb.org/anthology/U05-1031
+  year: '2005'
+U05-1032:
+  address: Sydney, Australia
+  author:
+  - first: Lawrence
+    full: Lawrence Cavedon
+    id: lawrence-cavedon
+    last: Cavedon
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Florin
+    full: Florin Ratiu
+    id: florin-ratiu
+    last: Ratiu
+  author_string: Lawrence Cavedon, Matthew Purver, Florin Ratiu
+  bibkey: cavedon-etal-2005-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '233'
+  page_last: '240'
+  pages: "233\u2013240"
+  paper_id: '32'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1032.jpg
+  title: Combining Confidence Scores with Contextual Features for Robust Multi-Device
+    Dialogue
+  title_html: Combining Confidence Scores with Contextual Features for Robust Multi-Device
+    Dialogue
+  url: https://www.aclweb.org/anthology/U05-1032
+  year: '2005'
+U05-1033:
+  address: Sydney, Australia
+  author:
+  - first: Edward
+    full: Edward Ivanovic
+    id: edward-ivanovic
+    last: Ivanovic
+  author_string: Edward Ivanovic
+  bibkey: ivanovic-2005-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2005
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2005
+  month: December
+  page_first: '241'
+  page_last: '249'
+  pages: "241\u2013249"
+  paper_id: '33'
+  parent_volume_id: U05-1
+  pdf: https://www.aclweb.org/anthology/U05-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U05-1033.jpg
+  title: Automatic Utterance Segmentation in Instant Messaging Dialogue
+  title_html: Automatic Utterance Segmentation in Instant Messaging Dialogue
+  url: https://www.aclweb.org/anthology/U05-1033
+  year: '2005'

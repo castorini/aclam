@@ -1,0 +1,1020 @@
+A83-1000:
+  address: Santa Monica, California, USA
+  bibkey: anlp-1983-applied
+  bibtype: proceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  month: February
+  paper_id: '0'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1000.jpg
+  title: First Conference on Applied Natural Language Processing
+  title_html: First Conference on Applied Natural Language Processing
+  url: https://www.aclweb.org/anthology/A83-1000
+  year: '1983'
+A83-1001:
+  address: Santa Monica, California, USA
+  author:
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Aravind K. Joshi
+  bibkey: joshi-1983-domain
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974196
+  month: February
+  page_first: '1'
+  page_last: '2'
+  pages: "1\u20132"
+  paper_id: '1'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1001.jpg
+  title: 'Domain-Independent Natural Language Interfaces: Session Introduction'
+  title_html: 'Domain-Independent Natural Language Interfaces: Session Introduction'
+  url: https://www.aclweb.org/anthology/A83-1001
+  year: '1983'
+A83-1002:
+  address: Santa Monica, California, USA
+  author:
+  - first: Marjorie
+    full: Marjorie Templeton
+    id: marjorie-templeton
+    last: Templeton
+  - first: John
+    full: John Burger
+    id: john-f-burger
+    last: Burger
+  author_string: Marjorie Templeton, John Burger
+  bibkey: templeton-burger-1983-problems
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974197
+  month: February
+  page_first: '3'
+  page_last: '16'
+  pages: "3\u201316"
+  paper_id: '2'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1002.jpg
+  title: Problems in Natural-Language Interface to DBMS With Examples From EUFID
+  title_html: Problems in Natural-Language Interface to <span class="acl-fixed-case">DBMS</span>
+    With Examples From <span class="acl-fixed-case">EUFID</span>
+  url: https://www.aclweb.org/anthology/A83-1002
+  year: '1983'
+A83-1003:
+  address: Santa Monica, California, USA
+  author:
+  - first: Bozenn H.
+    full: Bozenn H. Thompson
+    id: bozenn-h-thompson
+    last: Thompson
+  - first: Frederick B.
+    full: Frederick B. Thompson
+    id: frederick-b-thompson
+    last: Thompson
+  author_string: Bozenn H. Thompson, Frederick B. Thompson
+  bibkey: thompson-thompson-1983-introducing
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974198
+  month: February
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1003.jpg
+  title: Introducing ASK, A Simple Knowledgeable System
+  title_html: Introducing <span class="acl-fixed-case">ASK</span>, A Simple Knowledgeable
+    System
+  url: https://www.aclweb.org/anthology/A83-1003
+  year: '1983'
+A83-1004:
+  address: Santa Monica, California, USA
+  author:
+  - first: Jerrold M.
+    full: Jerrold M. Ginsparg
+    id: jerrold-m-ginsparg
+    last: Ginsparg
+  author_string: Jerrold M. Ginsparg
+  bibkey: ginsparg-1983-robust
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974199
+  month: February
+  page_first: '25'
+  page_last: '30'
+  pages: "25\u201330"
+  paper_id: '4'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1004.jpg
+  title: A Robust Portable Natural Language Data Base Interface
+  title_html: A Robust Portable Natural Language Data Base Interface
+  url: https://www.aclweb.org/anthology/A83-1004
+  year: '1983'
+A83-1005:
+  address: Santa Monica, California, USA
+  author:
+  - first: Giovanni
+    full: Giovanni Guida
+    id: giovanni-guida
+    last: Guida
+  - first: Carlo
+    full: Carlo Tasso
+    id: carlo-tasso
+    last: Tasso
+  author_string: Giovanni Guida, Carlo Tasso
+  bibkey: guida-tasso-1983-ir
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974200
+  month: February
+  page_first: '31'
+  page_last: '38'
+  pages: "31\u201338"
+  paper_id: '5'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1005.jpg
+  title: 'IR-NLI : An Expert Natural Language Interface to Online Data Bases'
+  title_html: '<span class="acl-fixed-case">IR-NLI</span> : An Expert Natural Language
+    Interface to Online Data Bases'
+  url: https://www.aclweb.org/anthology/A83-1005
+  year: '1983'
+A83-1006:
+  address: Santa Monica, California, USA
+  author:
+  - first: Barbara J.
+    full: Barbara J. Grosz
+    id: barbara-j-grosz
+    last: Grosz
+  author_string: Barbara J. Grosz
+  bibkey: grosz-1983-team
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974201
+  month: February
+  page_first: '39'
+  page_last: '45'
+  pages: "39\u201345"
+  paper_id: '6'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1006.jpg
+  title: 'TEAM: A Transportable Natural-Language Interface System'
+  title_html: '<span class="acl-fixed-case">TEAM</span>: A Transportable Natural-Language
+    Interface System'
+  url: https://www.aclweb.org/anthology/A83-1006
+  year: '1983'
+A83-1007:
+  address: Santa Monica, California, USA
+  author:
+  - first: R.
+    full: R. Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: L.
+    full: L. Hirschman
+    id: lynette-hirschman
+    last: Hirschman
+  - first: C.
+    full: C. Friedman
+    id: carol-friedman
+    last: Friedman
+  author_string: R. Grishman, L. Hirschman, C. Friedman
+  bibkey: grishman-etal-1983-isolating
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974202
+  month: February
+  page_first: '46'
+  page_last: '53'
+  pages: "46\u201353"
+  paper_id: '7'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1007.jpg
+  title: Isolating Domain Dependencies in Natural Language Interfaces
+  title_html: Isolating Domain Dependencies in Natural Language Interfaces
+  url: https://www.aclweb.org/anthology/A83-1007
+  year: '1983'
+A83-1008:
+  address: Santa Monica, California, USA
+  author:
+  - first: Ivan A.
+    full: Ivan A. Sag
+    id: ivan-a-sag
+    last: Sag
+  author_string: Ivan A. Sag
+  bibkey: sag-1983-knowledge
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974204
+  month: February
+  page_first: '54'
+  page_last: '54'
+  pages: "54\u201354"
+  paper_id: '8'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1008.jpg
+  title: 'Knowledge-Based Approaches: Session Introduction'
+  title_html: 'Knowledge-Based Approaches: Session Introduction'
+  url: https://www.aclweb.org/anthology/A83-1008
+  year: '1983'
+A83-1009:
+  address: Santa Monica, California, USA
+  author:
+  - first: Christine A.
+    full: Christine A. Montgomery
+    id: christine-a-montgomery
+    last: Montgomery
+  author_string: Christine A. Montgomery
+  bibkey: montgomery-1983-distinguishing
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974205
+  month: February
+  page_first: '55'
+  page_last: '61'
+  pages: "55\u201361"
+  paper_id: '9'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1009.jpg
+  title: Distinguishing Fact From Opinion and Events From Meta-Events
+  title_html: Distinguishing Fact From Opinion and Events From Meta-Events
+  url: https://www.aclweb.org/anthology/A83-1009
+  year: '1983'
+A83-1010:
+  address: Santa Monica, California, USA
+  author:
+  - first: Timothy W.
+    full: Timothy W. Finin
+    id: tim-finin
+    last: Finin
+  - first: Martha Stone
+    full: Martha Stone Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Timothy W. Finin, Martha Stone Palmer
+  bibkey: finin-palmer-1983-parsing
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974206
+  month: February
+  page_first: '62'
+  page_last: '68'
+  pages: "62\u201368"
+  paper_id: '10'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1010.jpg
+  title: Parsing With Logical Variables
+  title_html: Parsing With Logical Variables
+  url: https://www.aclweb.org/anthology/A83-1010
+  year: '1983'
+A83-1011:
+  address: Santa Monica, California, USA
+  author:
+  - first: Wendy G.
+    full: Wendy G. Lehnert
+    id: wendy-lehnert
+    last: Lehnert
+  - first: Steven P.
+    full: Steven P. Shwartz
+    id: steven-p-shwartz
+    last: Shwartz
+  author_string: Wendy G. Lehnert, Steven P. Shwartz
+  bibkey: lehnert-shwartz-1983-explorer
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974207
+  month: February
+  page_first: '69'
+  page_last: '72'
+  pages: "69\u201372"
+  paper_id: '11'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1011.jpg
+  title: 'EXPLORER: A Natural Language Processing System for Oil Exploration'
+  title_html: '<span class="acl-fixed-case">EXPLORER</span>: A Natural Language Processing
+    System for Oil Exploration'
+  url: https://www.aclweb.org/anthology/A83-1011
+  year: '1983'
+A83-1012:
+  address: Santa Monica, California, USA
+  author:
+  - first: Michael J.
+    full: Michael J. Pazzani
+    id: michael-j-pazzani
+    last: Pazzani
+  - first: Carl
+    full: Carl Engelman
+    id: carl-engelman
+    last: Engelman
+  author_string: Michael J. Pazzani, Carl Engelman
+  bibkey: pazzani-engelman-1983-knowledge
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974208
+  month: February
+  page_first: '73'
+  page_last: '80'
+  pages: "73\u201380"
+  paper_id: '12'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1012.jpg
+  title: Knowledge Based Question Answering
+  title_html: Knowledge Based Question Answering
+  url: https://www.aclweb.org/anthology/A83-1012
+  year: '1983'
+A83-1013:
+  address: Santa Monica, California, USA
+  author:
+  - first: B.K.
+    full: B.K. Boguraev
+    id: branimir-boguraev
+    last: Boguraev
+  - first: K.
+    full: K. Sparck Jones
+    id: karen-sparck-jones
+    last: Sparck Jones
+  author_string: B.K. Boguraev, K. Sparck Jones
+  bibkey: boguraev-sparck-jones-1983-drive
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974209
+  month: February
+  page_first: '81'
+  page_last: '88'
+  pages: "81\u201388"
+  paper_id: '13'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1013.jpg
+  title: How to Drive a Database Front End Using General Semantic Information
+  title_html: How to Drive a Database Front End Using General Semantic Information
+  url: https://www.aclweb.org/anthology/A83-1013
+  year: '1983'
+A83-1014:
+  address: Santa Monica, California, USA
+  author:
+  - first: Ralph M.
+    full: Ralph M. Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Ralph M. Weischedel
+  bibkey: weischedel-1983-handling
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974211
+  month: February
+  page_first: '89'
+  page_last: '92'
+  pages: "89\u201392"
+  paper_id: '14'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1014.jpg
+  title: 'Handling Ill-Formed Input: Session Introduction'
+  title_html: 'Handling Ill-Formed Input: Session Introduction'
+  url: https://www.aclweb.org/anthology/A83-1014
+  year: '1983'
+A83-1015:
+  address: Santa Monica, California, USA
+  author:
+  - first: Karen
+    full: Karen Jensen
+    id: karen-jensen
+    last: Jensen
+  - first: George E.
+    full: George E. Heidorn
+    id: george-e-heidorn
+    last: Heidorn
+  author_string: Karen Jensen, George E. Heidorn
+  bibkey: jensen-heidorn-1983-fitted
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974212
+  month: February
+  page_first: '93'
+  page_last: '98'
+  pages: "93\u201398"
+  paper_id: '15'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1015.jpg
+  title: 'The Fitted Parse: 100% Parsing Capability in a Syntactic Grammar of English'
+  title_html: 'The Fitted Parse: 100% Parsing Capability in a Syntactic Grammar of
+    <span class="acl-fixed-case">E</span>nglish'
+  url: https://www.aclweb.org/anthology/A83-1015
+  year: '1983'
+A83-1016:
+  address: Santa Monica, California, USA
+  author:
+  - first: Elaine
+    full: Elaine Marsh
+    id: elaine-marsh
+    last: Marsh
+  author_string: Elaine Marsh
+  bibkey: marsh-1983-utilizing
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974213
+  month: February
+  page_first: '99'
+  page_last: '103'
+  pages: "99\u2013103"
+  paper_id: '16'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1016.jpg
+  title: Utilizing Domain-Specific Information for Processing Compact Text
+  title_html: Utilizing Domain-Specific Information for Processing Compact Text
+  url: https://www.aclweb.org/anthology/A83-1016
+  year: '1983'
+A83-1017:
+  address: Santa Monica, California, USA
+  author:
+  - first: Richard H.
+    full: Richard H. Granger
+    id: richard-h-granger
+    last: Granger
+  - first: Chris J.
+    full: Chris J. Staros
+    id: chris-j-staros
+    last: Staros
+  - first: Gregory S.
+    full: Gregory S. Taylor
+    id: gregory-s-taylor
+    last: Taylor
+  - first: Rika
+    full: Rika Yoshii
+    id: rika-yoshii
+    last: Yoshii
+  author_string: Richard H. Granger, Chris J. Staros, Gregory S. Taylor, Rika Yoshii
+  bibkey: granger-etal-1983-scruffy
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974214
+  month: February
+  page_first: '104'
+  page_last: '106'
+  pages: "104\u2013106"
+  paper_id: '17'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1017.jpg
+  title: 'Scruffy Text Understanding: Design and Implementation of the NOMAD System'
+  title_html: 'Scruffy Text Understanding: Design and Implementation of the <span
+    class="acl-fixed-case">NOMAD</span> System'
+  url: https://www.aclweb.org/anthology/A83-1017
+  year: '1983'
+A83-1018:
+  address: Santa Monica, California, USA
+  author:
+  - first: Donald E.
+    full: Donald E. Walker
+    id: donald-e-walker
+    last: Walker
+  author_string: Donald E. Walker
+  bibkey: walker-1983-text
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974216
+  month: February
+  page_first: '107'
+  page_last: '108'
+  pages: "107\u2013108"
+  paper_id: '18'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1018.jpg
+  title: 'Text Analysis: Session Introduction'
+  title_html: 'Text Analysis: Session Introduction'
+  url: https://www.aclweb.org/anthology/A83-1018
+  year: '1983'
+A83-1019:
+  address: Santa Monica, California, USA
+  author:
+  - first: Larry H.
+    full: Larry H. Reeker
+    id: larry-h-reeker
+    last: Reeker
+  - first: Elena M.
+    full: Elena M. Chmora
+    id: elena-m-chmora
+    last: Chmora
+  - first: Paul E.
+    full: Paul E. Blower
+    id: paul-e-blower
+    last: Blower
+  author_string: Larry H. Reeker, Elena M. Chmora, Paul E. Blower
+  bibkey: reeker-etal-1983-specialized
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974217
+  month: February
+  page_first: '109'
+  page_last: '116'
+  pages: "109\u2013116"
+  paper_id: '19'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1019.jpg
+  title: 'Specialized Information Extraction: Automatic Chemical Reaction Coding From
+    English Descriptions'
+  title_html: 'Specialized Information Extraction: Automatic Chemical Reaction Coding
+    From <span class="acl-fixed-case">E</span>nglish Descriptions'
+  url: https://www.aclweb.org/anthology/A83-1019
+  year: '1983'
+A83-1020:
+  address: Santa Monica, California, USA
+  author:
+  - first: James R.
+    full: James R. Cowie
+    id: james-r-cowie
+    last: Cowie
+  author_string: James R. Cowie
+  bibkey: cowie-1983-automatic
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974218
+  month: February
+  page_first: '117'
+  page_last: '123'
+  pages: "117\u2013123"
+  paper_id: '20'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1020.jpg
+  title: Automatic Analysis of Descriptive Texts
+  title_html: Automatic Analysis of Descriptive Texts
+  url: https://www.aclweb.org/anthology/A83-1020
+  year: '1983'
+A83-1021:
+  address: Santa Monica, California, USA
+  author:
+  - first: Mark S.
+    full: Mark S. Tuttle
+    id: mark-s-tuttle
+    last: Tuttle
+  - first: David D.
+    full: David D. Sherertz
+    id: david-d-sherertz
+    last: Sherertz
+  - first: Marsden S.
+    full: Marsden S. Blois
+    id: marsden-s-blois
+    last: Blois
+  - first: Stuart
+    full: Stuart Nelson
+    id: stuart-nelson
+    last: Nelson
+  author_string: Mark S. Tuttle, David D. Sherertz, Marsden S. Blois, Stuart Nelson
+  bibkey: tuttle-etal-1983-expertness
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974219
+  month: February
+  page_first: '124'
+  page_last: '131'
+  pages: "124\u2013131"
+  paper_id: '21'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1021.jpg
+  title: "\u201CExpertness\u201D from Structured Text? RECONSIDER: A Diagnostic Prompting\
+    \ Program"
+  title_html: "\u201CExpertness\u201D from Structured Text? <span class=\"acl-fixed-case\"\
+    >RECONSIDER</span>: A Diagnostic Prompting Program"
+  url: https://www.aclweb.org/anthology/A83-1021
+  year: '1983'
+A83-1022:
+  address: Santa Monica, California, USA
+  author:
+  - first: Carole D.
+    full: Carole D. Hafner
+    id: carole-d-hafner
+    last: Hafner
+  - first: John D.
+    full: John D. Joyce
+    id: john-d-joyce
+    last: Joyce
+  author_string: Carole D. Hafner, John D. Joyce
+  bibkey: hafner-joyce-1983-using
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974220
+  month: February
+  page_first: '132'
+  page_last: '135'
+  pages: "132\u2013135"
+  paper_id: '22'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1022.jpg
+  title: Using Natural Language Descriptions to Improve the Usability of Databases
+  title_html: Using Natural Language Descriptions to Improve the Usability of Databases
+  url: https://www.aclweb.org/anthology/A83-1022
+  year: '1983'
+A83-1023:
+  address: Santa Monica, California, USA
+  author:
+  - first: G.
+    full: G. Vladutz
+    id: george-vladutz
+    last: Vladutz
+  author_string: G. Vladutz
+  bibkey: vladutz-1983-natural
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974221
+  month: February
+  page_first: '136'
+  page_last: '142'
+  pages: "136\u2013142"
+  paper_id: '23'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1023.jpg
+  title: Natural Language Text Segmentation Techniques Applied to the Automatic Compilation
+    of Printed Subject Indexes and for Online Database Access
+  title_html: Natural Language Text Segmentation Techniques Applied to the Automatic
+    Compilation of Printed Subject Indexes and for Online Database Access
+  url: https://www.aclweb.org/anthology/A83-1023
+  year: '1983'
+A83-1024:
+  address: Santa Monica, California, USA
+  author:
+  - first: Gian Piero
+    full: Gian Piero Zarri
+    id: gian-piero-zarri
+    last: Zarri
+  author_string: Gian Piero Zarri
+  bibkey: zarri-1983-automatic
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974222
+  month: February
+  page_first: '143'
+  page_last: '147'
+  pages: "143\u2013147"
+  paper_id: '24'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1024.jpg
+  title: Automatic Representation of the Semantic Relationships Corresponding to a
+    French Surface Expression
+  title_html: Automatic Representation of the Semantic Relationships Corresponding
+    to a <span class="acl-fixed-case">F</span>rench Surface Expression
+  url: https://www.aclweb.org/anthology/A83-1024
+  year: '1983'
+A83-1025:
+  address: Santa Monica, California, USA
+  author:
+  - first: Gary R.
+    full: Gary R. Martins
+    id: gary-r-martins
+    last: Martins
+  author_string: Gary R. Martins
+  bibkey: martins-1983-machine
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974224
+  month: February
+  page_first: '148'
+  page_last: '148'
+  pages: "148\u2013148"
+  paper_id: '25'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1025.jpg
+  title: 'Machine Translation: Session Introduction'
+  title_html: 'Machine Translation: Session Introduction'
+  url: https://www.aclweb.org/anthology/A83-1025
+  year: '1983'
+A83-1026:
+  address: Santa Monica, California, USA
+  author:
+  - first: Harold L.
+    full: Harold L. Somers
+    id: harold-somers
+    last: Somers
+  author_string: Harold L. Somers
+  bibkey: somers-1983-investigating
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974225
+  month: February
+  page_first: '149'
+  page_last: '155'
+  pages: "149\u2013155"
+  paper_id: '26'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1026.jpg
+  title: Investigating the Possibility of a Microprocessor-Based Machine Translatton
+    System
+  title_html: Investigating the Possibility of a Microprocessor-Based Machine Translatton
+    System
+  url: https://www.aclweb.org/anthology/A83-1026
+  year: '1983'
+A83-1027:
+  address: Santa Monica, California, USA
+  author:
+  - first: Toyoaki
+    full: Toyoaki Nishida
+    id: toyoaki-nishida
+    last: Nishida
+  - first: Shuji
+    full: Shuji Doshita
+    id: shuji-doshita
+    last: Doshita
+  author_string: Toyoaki Nishida, Shuji Doshita
+  bibkey: nishida-doshita-1983-application
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974226
+  month: February
+  page_first: '156'
+  page_last: '165'
+  pages: "156\u2013165"
+  paper_id: '27'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1027.jpg
+  title: An Application of Montague Grammar to English-Japanese Machine Translation
+  title_html: An Application of <span class="acl-fixed-case">M</span>ontague Grammar
+    to <span class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">J</span>apanese
+    Machine Translation
+  url: https://www.aclweb.org/anthology/A83-1027
+  year: '1983'
+A83-1028:
+  address: Santa Monica, California, USA
+  author:
+  - first: Jonathan
+    full: Jonathan Slocum
+    id: jonathan-slocum
+    last: Slocum
+  author_string: Jonathan Slocum
+  bibkey: slocum-1983-status
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974227
+  month: February
+  page_first: '166'
+  page_last: '173'
+  pages: "166\u2013173"
+  paper_id: '28'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1028.jpg
+  title: A Status Report on the LRC Machine
+  title_html: A Status Report on the <span class="acl-fixed-case">LRC</span> Machine
+  url: https://www.aclweb.org/anthology/A83-1028
+  year: '1983'
+A83-1029:
+  address: Santa Monica, California, USA
+  author:
+  - first: Alan K.
+    full: Alan K. Melby
+    id: alan-k-melby
+    last: Melby
+  author_string: Alan K. Melby
+  bibkey: melby-1983-computer
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974228
+  month: February
+  page_first: '174'
+  page_last: '177'
+  pages: "174\u2013177"
+  paper_id: '29'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1029.jpg
+  title: 'COMPUTER-ASSISTED TRANSLATION SYSTEMS: The Standard Design and A Multi-level
+    Design'
+  title_html: 'COMPUTER-ASSISTED TRANSLATION SYSTEMS: The Standard Design and A Multi-level
+    Design'
+  url: https://www.aclweb.org/anthology/A83-1029
+  year: '1983'
+A83-1030:
+  address: Santa Monica, California, USA
+  author:
+  - first: Douglas L.
+    full: Douglas L. Hogan
+    id: douglas-l-hogan
+    last: Hogan
+  author_string: Douglas L. Hogan
+  bibkey: hogan-1983-speech
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974230
+  month: February
+  page_first: '178'
+  page_last: '179'
+  pages: "178\u2013179"
+  paper_id: '30'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1030.jpg
+  title: 'Speech Interfaces: Session Introduction'
+  title_html: 'Speech Interfaces: Session Introduction'
+  url: https://www.aclweb.org/anthology/A83-1030
+  year: '1983'
+A83-1031:
+  address: Santa Monica, California, USA
+  author:
+  - first: A.
+    full: A. Biermann
+    id: alan-w-biermann
+    last: Biermann
+  - first: R.
+    full: R. Rodman
+    id: r-rodman
+    last: Rodman
+  - first: B.
+    full: B. Ballard
+    id: bruce-w-ballard
+    last: Ballard
+  - first: T.
+    full: T. Betancourt
+    id: t-betancourt
+    last: Betancourt
+  - first: G.
+    full: G. Bilbro
+    id: g-bilbro
+    last: Bilbro
+  - first: H.
+    full: H. Deas
+    id: h-deas
+    last: Deas
+  - first: L.
+    full: L. Fineman
+    id: linda-fineman
+    last: Fineman
+  - first: P.
+    full: P. Fink
+    id: pamela-e-fink
+    last: Fink
+  - first: K.
+    full: K. Gilbert
+    id: k-gilbert
+    last: Gilbert
+  - first: D.
+    full: D. Gregory
+    id: d-gregory
+    last: Gregory
+  - first: F.
+    full: F. Heidlage
+    id: f-heidlage
+    last: Heidlage
+  author_string: A. Biermann, R. Rodman, B. Ballard, T. Betancourt, G. Bilbro, H.
+    Deas, L. Fineman, P. Fink, K. Gilbert, D. Gregory, F. Heidlage
+  bibkey: biermann-etal-1983-interactive
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974231
+  month: February
+  page_first: '180'
+  page_last: '191'
+  pages: "180\u2013191"
+  paper_id: '31'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1031.jpg
+  title: 'Interactive Natural Language Problem Solving: A Pragmatic Approach'
+  title_html: 'Interactive Natural Language Problem Solving: A Pragmatic Approach'
+  url: https://www.aclweb.org/anthology/A83-1031
+  year: '1983'
+A83-1032:
+  address: Santa Monica, California, USA
+  author:
+  - first: David L.
+    full: David L. McPeters
+    id: david-l-mcpeters
+    last: McPeters
+  - first: Alan L.
+    full: Alan L. Tharp
+    id: alan-l-tharp
+    last: Tharp
+  author_string: David L. McPeters, Alan L. Tharp
+  bibkey: mcpeters-tharp-1983-application
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974232
+  month: February
+  page_first: '192'
+  page_last: '197'
+  pages: "192\u2013197"
+  paper_id: '32'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1032.jpg
+  title: Application of the Liberman-Prince Stress Rules to Computer Synthesized Speech
+  title_html: Application of the <span class="acl-fixed-case">L</span>iberman-<span
+    class="acl-fixed-case">P</span>rince Stress Rules to Computer Synthesized Speech
+  url: https://www.aclweb.org/anthology/A83-1032
+  year: '1983'
+A83-1033:
+  address: Santa Monica, California, USA
+  author:
+  - first: S. Jerrold
+    full: S. Jerrold Kaplan
+    id: s-jerrold-kaplan
+    last: Kaplan
+  author_string: S. Jerrold Kaplan
+  bibkey: kaplan-1983-impact
+  bibtype: inproceedings
+  booktitle: First Conference on Applied Natural Language Processing
+  booktitle_html: First Conference on Applied Natural Language Processing
+  doi: 10.3115/974194.974234
+  month: February
+  page_first: '198'
+  page_last: '198'
+  pages: "198\u2013198"
+  paper_id: '33'
+  parent_volume_id: A83-1
+  pdf: https://www.aclweb.org/anthology/A83-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A83-1033.jpg
+  title: The Impact of Natural Language Access on Database Design and Implementation
+  title_html: The Impact of Natural Language Access on Database Design and Implementation
+  url: https://www.aclweb.org/anthology/A83-1033
+  year: '1983'

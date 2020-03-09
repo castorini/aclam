@@ -1,0 +1,1154 @@
+J01-1000:
+  bibkey: cl-2001-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '0'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1000.jpg
+  title: Computational Linguistics, Volume 27, Number 1, March 2001
+  title_html: Computational Linguistics, Volume 27, Number 1, March 2001
+  url: https://www.aclweb.org/anthology/J01-1000
+  year: '2001'
+J01-1001:
+  author:
+  - first: Mikio
+    full: Mikio Yamamoto
+    id: mikio-yamamoto
+    last: Yamamoto
+  - first: Kenneth W.
+    full: Kenneth W. Church
+    id: kenneth-church
+    last: Church
+  author_string: Mikio Yamamoto, Kenneth W. Church
+  bibkey: yamamoto-church-2001-using
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  doi: 10.1162/089120101300346787
+  page_first: '1'
+  page_last: '30'
+  pages: "1\u201330"
+  paper_id: '1'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1001.jpg
+  title: Using Suffix Arrays to Compute Term Frequency and Document Frequency for
+    All Substrings in a Corpus
+  title_html: Using Suffix Arrays to Compute Term Frequency and Document Frequency
+    for All Substrings in a Corpus
+  url: https://www.aclweb.org/anthology/J01-1001
+  year: '2001'
+J01-1002:
+  author:
+  - first: G.
+    full: G. Tur
+    id: gokhan-tur
+    last: Tur
+  - first: D.
+    full: D. Hakkani-Tur
+    id: dilek-hakkani-tur
+    last: Hakkani-Tur
+  - first: A.
+    full: A. Stolcke
+    id: andreas-stolcke
+    last: Stolcke
+  - first: E.
+    full: E. Shriberg
+    id: elizabeth-shriberg
+    last: Shriberg
+  author_string: G. Tur, D. Hakkani-Tur, A. Stolcke, E. Shriberg
+  bibkey: tur-etal-2001-integrating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  doi: 10.1162/089120101300346796
+  page_first: '31'
+  page_last: '57'
+  pages: "31\u201357"
+  paper_id: '2'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1002.jpg
+  title: Integrating Prosodic and Lexical Cues for Automatic Topic Segmentation
+  title_html: Integrating Prosodic and Lexical Cues for Automatic Topic Segmentation
+  url: https://www.aclweb.org/anthology/J01-1002
+  year: '2001'
+J01-1003:
+  author:
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  - first: Sergei
+    full: Sergei Nirenberg
+    id: sergei-nirenburg
+    last: Nirenberg
+  - first: Marjorie
+    full: Marjorie McShane
+    id: marjorie-mcshane
+    last: McShane
+  author_string: Kemal Oflazer, Sergei Nirenberg, Marjorie McShane
+  bibkey: oflazer-etal-2001-bootstrapping
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  doi: 10.1162/089120101300346804
+  page_first: '59'
+  page_last: '85'
+  pages: "59\u201385"
+  paper_id: '3'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1003.jpg
+  title: Bootstrapping Morphological Analyzers by Combining Human Elicitation and
+    Machine Learning
+  title_html: Bootstrapping Morphological Analyzers by Combining Human Elicitation
+    and Machine Learning
+  url: https://www.aclweb.org/anthology/J01-1003
+  year: '2001'
+J01-1004:
+  author:
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  - first: David
+    full: David Weir
+    id: david-weir
+    last: Weir
+  author_string: Owen Rambow, K. Vijay-Shanker, David Weir
+  bibkey: rambow-etal-2001-tree
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  doi: 10.1162/089120101300346813
+  page_first: '87'
+  page_last: '121'
+  pages: "87\u2013121"
+  paper_id: '4'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1004.jpg
+  title: D-Tree Substitution Grammars
+  title_html: D-Tree Substitution Grammars
+  url: https://www.aclweb.org/anthology/J01-1004
+  year: '2001'
+J01-1005:
+  author:
+  - first: Alessandro
+    full: Alessandro Cucchiarelli
+    id: alessandro-cucchiarelli
+    last: Cucchiarelli
+  - first: Paola
+    full: Paola Velardi
+    id: paola-velardi
+    last: Velardi
+  author_string: Alessandro Cucchiarelli, Paola Velardi
+  bibkey: cucchiarelli-velardi-2001-unsupervised
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  page_first: '123'
+  page_last: '131'
+  pages: "123\u2013131"
+  paper_id: '5'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1005.jpg
+  title: Unsupervised Named Entity Recognition Using Syntactic and Semantic Contextual
+    Evidence
+  title_html: Unsupervised Named Entity Recognition Using Syntactic and Semantic Contextual
+    Evidence
+  url: https://www.aclweb.org/anthology/J01-1005
+  year: '2001'
+J01-1006:
+  author:
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Graeme Hirst
+  bibkey: hirst-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '6'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1006.jpg
+  title: 'Book Reviews: Longman Grammar of Spoken and Written English'
+  title_html: 'Book Reviews: Longman Grammar of Spoken and Written <span class="acl-fixed-case">E</span>nglish'
+  url: https://www.aclweb.org/anthology/J01-1006
+  year: '2001'
+J01-1007:
+  author:
+  - first: John F.
+    full: John F. Sowa
+    id: john-f-sowa
+    last: Sowa
+  author_string: John F. Sowa
+  bibkey: sowa-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '7'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1007.jpg
+  title: 'Book Reviews: Construing Experience through Meaning: A Language-based Approach
+    to Cognition'
+  title_html: 'Book Reviews: Construing Experience through Meaning: A Language-based
+    Approach to Cognition'
+  url: https://www.aclweb.org/anthology/J01-1007
+  year: '2001'
+J01-1008:
+  author:
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Joakim Nivre
+  bibkey: nivre-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '8'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1008.jpg
+  title: 'Book Reviews: The Syntactic Process'
+  title_html: 'Book Reviews: The Syntactic Process'
+  url: https://www.aclweb.org/anthology/J01-1008
+  year: '2001'
+J01-1009:
+  bibkey: nn-2001-briefly
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '9'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1009.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J01-1009
+  year: '2001'
+J01-1010:
+  bibkey: nn-2001-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '10'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1010.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J01-1010
+  year: '2001'
+J01-1011:
+  bibkey: nn-2001-advertisments
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 1, March 2001
+  paper_id: '11'
+  parent_volume_id: J01-1
+  pdf: https://www.aclweb.org/anthology/J01-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-1011.jpg
+  title: Advertisments
+  title_html: Advertisments
+  url: https://www.aclweb.org/anthology/J01-1011
+  year: '2001'
+J01-2000:
+  bibkey: cl-2001-linguistics-27
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '0'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2000.jpg
+  title: Computational Linguistics, Volume 27, Number 2, June 2001
+  title_html: Computational Linguistics, Volume 27, Number 2, June 2001
+  url: https://www.aclweb.org/anthology/J01-2000
+  year: '2001'
+J01-2001:
+  author:
+  - first: John
+    full: John Goldsmith
+    id: john-goldsmith
+    last: Goldsmith
+  author_string: John Goldsmith
+  bibkey: goldsmith-2001-unsupervised
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  doi: 10.1162/089120101750300490
+  page_first: '153'
+  page_last: '198'
+  pages: "153\u2013198"
+  paper_id: '1'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2001.jpg
+  title: Unsupervised Learning of the Morphology of a Natural Language
+  title_html: Unsupervised Learning of the Morphology of a Natural Language
+  url: https://www.aclweb.org/anthology/J01-2001
+  year: '2001'
+J01-2002:
+  author:
+  - first: Hans Van
+    full: Hans Van Halteren
+    id: hans-van-halteren
+    last: Halteren
+  - first: Jakub
+    full: Jakub Zavrel
+    id: jakub-zavrel
+    last: Zavrel
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  author_string: Hans Van Halteren, Jakub Zavrel, Walter Daelemans
+  bibkey: halteren-etal-2001-improving
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  page_first: '199'
+  page_last: '229'
+  pages: "199\u2013229"
+  paper_id: '2'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2002.jpg
+  title: Improving Accuracy in word class tagging through the Combination of Machine
+    Learning Systems
+  title_html: Improving Accuracy in word class tagging through the Combination of
+    Machine Learning Systems
+  url: https://www.aclweb.org/anthology/J01-2002
+  year: '2001'
+J01-2003:
+  author:
+  - first: Andrew
+    full: Andrew Kehler
+    id: andrew-kehler
+    last: Kehler
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: Douglas
+    full: Douglas Appelt
+    id: douglas-appelt
+    last: Appelt
+  author_string: Andrew Kehler, John Bear, Douglas Appelt
+  bibkey: kehler-etal-2001-need
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  doi: 10.1162/089120101750300517
+  page_first: '231'
+  page_last: '248'
+  pages: "231\u2013248"
+  paper_id: '3'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2003.jpg
+  title: The Need for Accurate Alignment in Natural Language System Evaluation
+  title_html: The Need for Accurate Alignment in Natural Language System Evaluation
+  url: https://www.aclweb.org/anthology/J01-2003
+  year: '2001'
+J01-2004:
+  author:
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  author_string: Brian Roark
+  bibkey: roark-2001-probabilistic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  doi: 10.1162/089120101750300526
+  page_first: '249'
+  page_last: '276'
+  pages: "249\u2013276"
+  paper_id: '4'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2004.jpg
+  title: Probabilistic Top-Down Parsing and Language Modeling
+  title_html: Probabilistic Top-Down Parsing and Language Modeling
+  url: https://www.aclweb.org/anthology/J01-2004
+  year: '2001'
+J01-2005:
+  author:
+  - first: Noriko
+    full: Noriko Tomuro
+    id: noriko-tomuro
+    last: Tomuro
+  - first: Steven L.
+    full: Steven L. Lytinen
+    id: steven-l-lytinen
+    last: Lytinen
+  author_string: Noriko Tomuro, Steven L. Lytinen
+  bibkey: tomuro-lytinen-2001-nonminimal
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  doi: 10.1162/089120101750300535
+  page_first: '277'
+  page_last: '285'
+  pages: "277\u2013285"
+  paper_id: '5'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2005.jpg
+  title: Nonminimal Derivations in Unification-Based Parsing
+  title_html: Nonminimal Derivations in Unification-Based Parsing
+  url: https://www.aclweb.org/anthology/J01-2005
+  year: '2001'
+J01-2006:
+  author:
+  - first: Stuart C.
+    full: Stuart C. Shapiro
+    id: stuart-c-shapiro
+    last: Shapiro
+  author_string: Stuart C. Shapiro
+  bibkey: shapiro-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '6'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2006.jpg
+  title: 'Book Reviews: Knowledge Representation: Logical, Philosophical, and Computational
+    Foundations'
+  title_html: 'Book Reviews: Knowledge Representation: Logical, Philosophical, and
+    Computational Foundations'
+  url: https://www.aclweb.org/anthology/J01-2006
+  year: '2001'
+J01-2007:
+  author:
+  - first: Robert E.
+    full: Robert E. Mercer
+    id: robert-e-mercer
+    last: Mercer
+  author_string: Robert E. Mercer
+  bibkey: mercer-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '7'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2007.jpg
+  title: 'Book Reviews: Natural Language Processing and Knowledge Representation:
+    Language for Knowledge and Knowledge for Language'
+  title_html: 'Book Reviews: Natural Language Processing and Knowledge Representation:
+    Language for Knowledge and Knowledge for Language'
+  url: https://www.aclweb.org/anthology/J01-2007
+  year: '2001'
+J01-2008:
+  author:
+  - first: Helmut
+    full: Helmut Horacek
+    id: helmut-horacek
+    last: Horacek
+  author_string: Helmut Horacek
+  bibkey: horacek-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '8'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2008.jpg
+  title: 'Book Reviews: Building Natural Language Generation Systems'
+  title_html: 'Book Reviews: Building Natural Language Generation Systems'
+  url: https://www.aclweb.org/anthology/J01-2008
+  year: '2001'
+J01-2009:
+  author:
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Sanda Harabagiu
+  bibkey: harabagiu-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '9'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2009.jpg
+  title: 'Book Reviews: Advances in Information Retrieval: Recent Research from the
+    Center for Intelligent Information Retrieval'
+  title_html: 'Book Reviews: Advances in Information Retrieval: Recent Research from
+    the Center for Intelligent Information Retrieval'
+  url: https://www.aclweb.org/anthology/J01-2009
+  year: '2001'
+J01-2010:
+  author:
+  - first: Philip
+    full: Philip Miller
+    id: philip-miller
+    last: Miller
+  author_string: Philip Miller
+  bibkey: miller-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '10'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2010.jpg
+  title: 'Book Reviews: A Descriptive Approach to Language-Theoretic Complexity'
+  title_html: 'Book Reviews: A Descriptive Approach to Language-Theoretic Complexity'
+  url: https://www.aclweb.org/anthology/J01-2010
+  year: '2001'
+J01-2011:
+  author:
+  - first: Keith
+    full: Keith Allan
+    id: keith-allan
+    last: Allan
+  author_string: Keith Allan
+  bibkey: allan-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '11'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2011.jpg
+  title: 'Book Reviews: Toward a Cognitive Semantics, Volume I: Concept Structuring
+    Systems, Volume II: Typology and Process in Concept Structuring'
+  title_html: 'Book Reviews: Toward a Cognitive Semantics, Volume <span class="acl-fixed-case">I</span>:
+    Concept Structuring Systems, Volume <span class="acl-fixed-case">II</span>: Typology
+    and Process in Concept Structuring'
+  url: https://www.aclweb.org/anthology/J01-2011
+  year: '2001'
+J01-2012:
+  author:
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  author_string: Walter Daelemans
+  bibkey: daelemans-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '12'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2012.jpg
+  title: 'Book Reviews: Learnability in Optimality Theory'
+  title_html: 'Book Reviews: Learnability in Optimality Theory'
+  url: https://www.aclweb.org/anthology/J01-2012
+  year: '2001'
+J01-2013:
+  author:
+  - first: Christopher
+    full: Christopher Johnson
+    id: christopher-johnson
+    last: Johnson
+  author_string: Christopher Johnson
+  bibkey: johnson-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '13'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2013.jpg
+  title: 'Book Reviews: Pattern Grammar: A Corpus-Driven Approach to the Lexical Grammar
+    of English'
+  title_html: 'Book Reviews: Pattern Grammar: A Corpus-Driven Approach to the Lexical
+    Grammar of <span class="acl-fixed-case">E</span>nglish'
+  url: https://www.aclweb.org/anthology/J01-2013
+  year: '2001'
+J01-2014:
+  bibkey: nn-2001-advertisements
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 2, June 2001
+  paper_id: '14'
+  parent_volume_id: J01-2
+  pdf: https://www.aclweb.org/anthology/J01-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-2014.jpg
+  title: Advertisements
+  title_html: Advertisements
+  url: https://www.aclweb.org/anthology/J01-2014
+  year: '2001'
+J01-3000:
+  bibkey: cl-2001-linguistics-27-number
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '0'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3000.jpg
+  title: Computational Linguistics, Volume 27, Number 3, September 2001
+  title_html: Computational Linguistics, Volume 27, Number 3, September 2001
+  url: https://www.aclweb.org/anthology/J01-3000
+  year: '2001'
+J01-3001:
+  author:
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  - first: Yorick
+    full: Yorick Wilks
+    id: yorick-wilks
+    last: Wilks
+  author_string: Mark Stevenson, Yorick Wilks
+  bibkey: stevenson-wilks-2001-interaction
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  doi: 10.1162/089120101317066104
+  page_first: '321'
+  page_last: '349'
+  pages: "321\u2013349"
+  paper_id: '1'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3001.jpg
+  title: The Interaction of Knowledge Sources in Word Sense Disambiguation
+  title_html: The Interaction of Knowledge Sources in Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/J01-3001
+  year: '2001'
+J01-3002:
+  author:
+  - first: Anand
+    full: Anand Venkataraman
+    id: anand-venkataraman
+    last: Venkataraman
+  author_string: Anand Venkataraman
+  bibkey: venkataraman-2001-statistical
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  doi: 10.1162/089120101317066113
+  page_first: '351'
+  page_last: '372'
+  pages: "351\u2013372"
+  paper_id: '2'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3002.jpg
+  title: A Statistical Model for Word Discovery in Transcribed Speech
+  title_html: A Statistical Model for Word Discovery in Transcribed Speech
+  url: https://www.aclweb.org/anthology/J01-3002
+  year: '2001'
+J01-3003:
+  author:
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: Paola Merlo, Suzanne Stevenson
+  bibkey: merlo-stevenson-2001-automatic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  doi: 10.1162/089120101317066122
+  page_first: '373'
+  page_last: '408'
+  pages: "373\u2013408"
+  paper_id: '3'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3003.jpg
+  title: Automatic Verb Classification Based on Statistical Distributions of Argument
+    Structure
+  title_html: Automatic Verb Classification Based on Statistical Distributions of
+    Argument Structure
+  url: https://www.aclweb.org/anthology/J01-3003
+  year: '2001'
+J01-3004:
+  author:
+  - first: John
+    full: John Bateman
+    id: john-bateman
+    last: Bateman
+  - first: Thomas
+    full: Thomas Kamps
+    id: thomas-kamps
+    last: Kamps
+  - first: "J\xF6rg"
+    full: "J\xF6rg Kleinz"
+    id: jorg-kleinz
+    last: Kleinz
+  - first: Klaus
+    full: Klaus Reichenberger
+    id: klaus-reichenberger
+    last: Reichenberger
+  author_string: "John Bateman, Thomas Kamps, J\xF6rg Kleinz, Klaus Reichenberger"
+  bibkey: bateman-etal-2001-towards
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  doi: 10.1162/089120101317066131
+  page_first: '409'
+  page_last: '449'
+  pages: "409\u2013449"
+  paper_id: '4'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3004.jpg
+  title: Towards Constructive Text, Diagram, and Layout Generation for Information
+    Presentation
+  title_html: Towards Constructive Text, Diagram, and Layout Generation for Information
+    Presentation
+  url: https://www.aclweb.org/anthology/J01-3004
+  year: '2001'
+J01-3005:
+  author:
+  - first: Chilin
+    full: Chilin Shih
+    id: chilin-shih
+    last: Shih
+  - first: Richard
+    full: Richard Sproat
+    id: richard-sproat
+    last: Sproat
+  author_string: Chilin Shih, Richard Sproat
+  bibkey: shih-sproat-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '5'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3005.jpg
+  title: 'Book Reviews: Prosody: Theory and Experiment. Studies presented to Gosta
+    Bruce'
+  title_html: 'Book Reviews: Prosody: Theory and Experiment. Studies presented to
+    Gosta Bruce'
+  url: https://www.aclweb.org/anthology/J01-3005
+  year: '2001'
+J01-3006:
+  author:
+  - first: Ken
+    full: Ken Litkowski
+    id: ken-litkowski
+    last: Litkowski
+  author_string: Ken Litkowski
+  bibkey: litkowski-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '6'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3006.jpg
+  title: 'Book Reviews: Lexicon Development for Speech and Language Processing'
+  title_html: 'Book Reviews: Lexicon Development for Speech and Language Processing'
+  url: https://www.aclweb.org/anthology/J01-3006
+  year: '2001'
+J01-3007:
+  author:
+  - first: Chris
+    full: Chris Brew
+    id: chris-brew
+    last: Brew
+  author_string: Chris Brew
+  bibkey: brew-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '7'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3007.jpg
+  title: 'Book Reviews: Advances in Probabilistic and Other Parsing Technologies'
+  title_html: 'Book Reviews: Advances in Probabilistic and Other Parsing Technologies'
+  url: https://www.aclweb.org/anthology/J01-3007
+  year: '2001'
+J01-3008:
+  author:
+  - first: Nancy
+    full: Nancy Green
+    id: nancy-green
+    last: Green
+  author_string: Nancy Green
+  bibkey: green-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '8'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3008.jpg
+  title: 'Book Reviews: Presumptive Meanings: The theory of generalized conversational
+    implicature'
+  title_html: 'Book Reviews: Presumptive Meanings: The theory of generalized conversational
+    implicature'
+  url: https://www.aclweb.org/anthology/J01-3008
+  year: '2001'
+J01-3009:
+  author:
+  - first: Kenneth R.
+    full: Kenneth R. Beesley
+    id: kenneth-r-beesley
+    last: Beesley
+  author_string: Kenneth R. Beesley
+  bibkey: beesley-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '9'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3009.jpg
+  title: 'Book Reviews: A Computational Theory of Writing Systems'
+  title_html: 'Book Reviews: A Computational Theory of Writing Systems'
+  url: https://www.aclweb.org/anthology/J01-3009
+  year: '2001'
+J01-3010:
+  bibkey: nn-2001-publications-received
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '10'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3010.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J01-3010
+  year: '2001'
+J01-3011:
+  bibkey: nn-2001-advertisements-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 3, September 2001
+  paper_id: '11'
+  parent_volume_id: J01-3
+  pdf: https://www.aclweb.org/anthology/J01-3011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-3011.jpg
+  title: Advertisements
+  title_html: Advertisements
+  url: https://www.aclweb.org/anthology/J01-3011
+  year: '2001'
+J01-4000:
+  bibkey: cl-2001-linguistics-27-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '0'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4000.jpg
+  title: Computational Linguistics, Volume 27, Number 4, December 2001
+  title_html: Computational Linguistics, Volume 27, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2001
+  url: https://www.aclweb.org/anthology/J01-4000
+  year: '2001'
+J01-4001:
+  author:
+  - first: Ruslan
+    full: Ruslan Mitkov
+    id: ruslan-mitkov
+    last: Mitkov
+  - first: Branimir
+    full: Branimir Boguraev
+    id: branimir-boguraev
+    last: Boguraev
+  - first: Shalom
+    full: Shalom Lappin
+    id: shalom-lappin
+    last: Lappin
+  author_string: Ruslan Mitkov, Branimir Boguraev, Shalom Lappin
+  bibkey: mitkov-etal-2001-introduction
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  doi: 10.1162/089120101753342626
+  page_first: '473'
+  page_last: '477'
+  pages: "473\u2013477"
+  paper_id: '1'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4001.jpg
+  title: Introduction to the Special Issue on Computational Anaphora Resolution
+  title_html: Introduction to the Special Issue on Computational Anaphora Resolution
+  url: https://www.aclweb.org/anthology/J01-4001
+  year: '2001'
+J01-4002:
+  author:
+  - first: Roland
+    full: Roland Stuckardt
+    id: roland-stuckardt
+    last: Stuckardt
+  author_string: Roland Stuckardt
+  bibkey: stuckardt-2001-design
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  doi: 10.1162/089120101753342635
+  page_first: '479'
+  page_last: '506'
+  pages: "479\u2013506"
+  paper_id: '2'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4002.jpg
+  title: Design and Enhanced Evaluation of a Robust Anaphor Resolution Algorithm
+  title_html: Design and Enhanced Evaluation of a Robust Anaphor Resolution Algorithm
+  url: https://www.aclweb.org/anthology/J01-4002
+  year: '2001'
+J01-4003:
+  author:
+  - first: Joel R.
+    full: Joel R. Tetreault
+    id: joel-tetreault
+    last: Tetreault
+  author_string: Joel R. Tetreault
+  bibkey: tetreault-2001-corpus
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  page_first: '507'
+  page_last: '520'
+  pages: "507\u2013520"
+  paper_id: '3'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4003.jpg
+  title: A Corpus-Based Evaluation of Centering and Pronoun Resolution
+  title_html: A Corpus-Based Evaluation of Centering and Pronoun Resolution
+  url: https://www.aclweb.org/anthology/J01-4003
+  year: '2001'
+J01-4004:
+  author:
+  - first: Wee Meng
+    full: Wee Meng Soon
+    id: wee-meng-soon
+    last: Soon
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Daniel Chung Yong
+    full: Daniel Chung Yong Lim
+    id: chung-yong-lim
+    last: Lim
+  author_string: Wee Meng Soon, Hwee Tou Ng, Daniel Chung Yong Lim
+  bibkey: soon-etal-2001-machine
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  doi: 10.1162/089120101753342653
+  page_first: '521'
+  page_last: '544'
+  pages: "521\u2013544"
+  paper_id: '4'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4004.jpg
+  title: A Machine Learning Approach to Coreference Resolution of Noun Phrases
+  title_html: A Machine Learning Approach to Coreference Resolution of Noun Phrases
+  url: https://www.aclweb.org/anthology/J01-4004
+  year: '2001'
+J01-4005:
+  author:
+  - first: Manuel
+    full: Manuel Palomar
+    id: manuel-palomar
+    last: Palomar
+  - first: Antonio
+    full: "Antonio Ferr\xE1ndez"
+    id: antonio-ferrandez
+    last: "Ferr\xE1ndez"
+  - first: Lidia
+    full: Lidia Moreno
+    id: lidia-moreno
+    last: Moreno
+  - first: Patricio
+    full: "Patricio Mart\xEDnez-Barco"
+    id: patricio-martinez-barco
+    last: "Mart\xEDnez-Barco"
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Peral"
+    id: jesus-peral
+    last: Peral
+  - first: Maximiliano
+    full: Maximiliano Saiz-Noeda
+    id: maximiliano-saiz-noeda
+    last: Saiz-Noeda
+  - first: Rafael
+    full: "Rafael Mu\xF1oz"
+    id: rafael-munoz
+    last: "Mu\xF1oz"
+  author_string: "Manuel Palomar, Antonio Ferr\xE1ndez, Lidia Moreno, Patricio Mart\xED\
+    nez-Barco, Jes\xFAs Peral, Maximiliano Saiz-Noeda, Rafael Mu\xF1oz"
+  bibkey: palomar-etal-2001-algorithm
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  doi: 10.1162/089120101753342662
+  page_first: '545'
+  page_last: '567'
+  pages: "545\u2013567"
+  paper_id: '5'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4005.jpg
+  title: An Algorithm for Anaphora Resolution in Spanish Texts
+  title_html: An Algorithm for Anaphora Resolution in <span class="acl-fixed-case">S</span>panish
+    Texts
+  url: https://www.aclweb.org/anthology/J01-4005
+  year: '2001'
+J01-4006:
+  author:
+  - first: Donna K.
+    full: Donna K. Byron
+    id: donna-byron
+    last: Byron
+  author_string: Donna K. Byron
+  bibkey: byron-2001-uncommon
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  page_first: '569'
+  page_last: '578'
+  pages: "569\u2013578"
+  paper_id: '6'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4006.jpg
+  title: 'The Uncommon Denominator: A Proposal for Consistent Reporting of Pronoun
+    Resolution Results'
+  title_html: 'The Uncommon Denominator: A Proposal for Consistent Reporting of Pronoun
+    Resolution Results'
+  url: https://www.aclweb.org/anthology/J01-4006
+  year: '2001'
+J01-4007:
+  author:
+  - first: Rodger
+    full: Rodger Kibble
+    id: rodger-kibble
+    last: Kibble
+  author_string: Rodger Kibble
+  bibkey: kibble-2001-reformulation
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  page_first: '579'
+  page_last: '587'
+  pages: "579\u2013587"
+  paper_id: '7'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4007.jpg
+  title: A Reformulation of Rule 2 of Centering Theory
+  title_html: A Reformulation of Rule 2 of <span class="acl-fixed-case">C</span>entering
+    <span class="acl-fixed-case">T</span>heory
+  url: https://www.aclweb.org/anthology/J01-4007
+  year: '2001'
+J01-4008:
+  author:
+  - first: Grzegorz
+    full: Grzegorz Kondrak
+    id: grzegorz-kondrak
+    last: Kondrak
+  author_string: Grzegorz Kondrak
+  bibkey: kondrak-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '8'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4008.jpg
+  title: 'Book Reviews: The Significance of Word Lists'
+  title_html: 'Book Reviews: The Significance of Word Lists'
+  url: https://www.aclweb.org/anthology/J01-4008
+  year: '2001'
+J01-4009:
+  author:
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Philip Resnik
+  bibkey: resnik-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '9'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4009.jpg
+  title: 'Book Reviews: Parallel Text Processing: Alignment and Use of Translation
+    Corpora'
+  title_html: 'Book Reviews: Parallel Text Processing: Alignment and Use of Translation
+    Corpora'
+  url: https://www.aclweb.org/anthology/J01-4009
+  year: '2001'
+J01-4010:
+  author:
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  author_string: John Carroll
+  bibkey: carroll-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '10'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4010.jpg
+  title: 'Book Reviews: Robustness in Language and Speech Technology'
+  title_html: 'Book Reviews: Robustness in Language and Speech Technology'
+  url: https://www.aclweb.org/anthology/J01-4010
+  year: '2001'
+J01-4011:
+  author:
+  - first: Richmond H.
+    full: Richmond H. Thomason
+    id: richmond-h-thomason
+    last: Thomason
+  author_string: Richmond H. Thomason
+  bibkey: thomason-2001-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '11'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4011.jpg
+  title: 'Book Reviews: Formal Aspects of Context'
+  title_html: 'Book Reviews: Formal Aspects of Context'
+  url: https://www.aclweb.org/anthology/J01-4011
+  year: '2001'
+J01-4012:
+  bibkey: nn-2001-briefly-noted
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '12'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4012.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J01-4012
+  year: '2001'
+J01-4013:
+  bibkey: nn-2001-publications-received-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '13'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4013.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J01-4013
+  year: '2001'
+J01-4014:
+  bibkey: nn-2001-author-index
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '14'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4014.jpg
+  title: 'Author Index: Volume 27'
+  title_html: 'Author Index: Volume 27'
+  url: https://www.aclweb.org/anthology/J01-4014
+  year: '2001'
+J01-4015:
+  bibkey: nn-2001-title
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '15'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4015.jpg
+  title: 'Title Index: Volume 27'
+  title_html: 'Title Index: Volume 27'
+  url: https://www.aclweb.org/anthology/J01-4015
+  year: '2001'
+J01-4016:
+  bibkey: nn-2001-advertisements-3
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 27, Number 4, December 2001
+  paper_id: '16'
+  parent_volume_id: J01-4
+  pdf: https://www.aclweb.org/anthology/J01-4016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J01-4016.jpg
+  title: Advertisements
+  title_html: Advertisements
+  url: https://www.aclweb.org/anthology/J01-4016
+  year: '2001'

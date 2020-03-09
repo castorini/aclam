@@ -1,0 +1,4602 @@
+P05-1000:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  author_string: Kevin Knight, Hwee Tou Ng, Kemal Oflazer
+  bibkey: acl-2005-association
+  bibtype: proceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  month: June
+  paper_id: '0'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1000.jpg
+  title: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  title_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  url: https://www.aclweb.org/anthology/P05-1000
+  year: '2005'
+P05-1001:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Rie
+    full: Rie Ando
+    id: rie-johnson
+    last: Ando
+  - first: Tong
+    full: Tong Zhang
+    id: tong-zhang
+    last: Zhang
+  author_string: Rie Ando, Tong Zhang
+  bibkey: ando-zhang-2005-high
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219841
+  month: June
+  page_first: '1'
+  page_last: '9'
+  pages: "1\u20139"
+  paper_id: '1'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1001.jpg
+  title: A High-Performance Semi-Supervised Learning Method for Text Chunking
+  title_html: A High-Performance Semi-Supervised Learning Method for Text Chunking
+  url: https://www.aclweb.org/anthology/P05-1001
+  year: '2005'
+P05-1002:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Andrew
+    full: Andrew Smith
+    id: andrew-smith
+    last: Smith
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: Trevor Cohn, Andrew Smith, Miles Osborne
+  bibkey: cohn-etal-2005-scaling
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219842
+  month: June
+  page_first: '10'
+  page_last: '17'
+  pages: "10\u201317"
+  paper_id: '2'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1002.jpg
+  title: Scaling Conditional Random Fields Using Error-Correcting Codes
+  title_html: Scaling Conditional Random Fields Using Error-Correcting Codes
+  url: https://www.aclweb.org/anthology/P05-1002
+  year: '2005'
+P05-1003:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Andrew
+    full: Andrew Smith
+    id: andrew-smith
+    last: Smith
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: Andrew Smith, Trevor Cohn, Miles Osborne
+  bibkey: smith-etal-2005-logarithmic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219843
+  month: June
+  page_first: '18'
+  page_last: '25'
+  pages: "18\u201325"
+  paper_id: '3'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1003.jpg
+  title: Logarithmic Opinion Pools for Conditional Random Fields
+  title_html: Logarithmic Opinion Pools for Conditional Random Fields
+  url: https://www.aclweb.org/anthology/P05-1003
+  year: '2005'
+P05-1004:
+  address: Ann Arbor, Michigan
+  author:
+  - first: James
+    full: James Curran
+    id: james-r-curran
+    last: Curran
+  author_string: James Curran
+  bibkey: curran-2005-supersense
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219844
+  month: June
+  page_first: '26'
+  page_last: '33'
+  pages: "26\u201333"
+  paper_id: '4'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1004.jpg
+  title: Supersense Tagging of Unknown Nouns Using Semantic Similarity
+  title_html: Supersense Tagging of Unknown Nouns Using Semantic Similarity
+  url: https://www.aclweb.org/anthology/P05-1004
+  year: '2005'
+P05-1005:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Upali Sathyajith
+    full: Upali Sathyajith Kohomban
+    id: upali-sathyajith-kohomban
+    last: Kohomban
+  - first: Wee Sun
+    full: Wee Sun Lee
+    id: wee-sun-lee
+    last: Lee
+  author_string: Upali Sathyajith Kohomban, Wee Sun Lee
+  bibkey: kohomban-lee-2005-learning
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219845
+  month: June
+  page_first: '34'
+  page_last: '41'
+  pages: "34\u201341"
+  paper_id: '5'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1005.jpg
+  title: Learning Semantic Classes for Word Sense Disambiguation
+  title_html: Learning Semantic Classes for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/P05-1005
+  year: '2005'
+P05-1006:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hoa Trang
+    full: Hoa Trang Dang
+    id: hoa-trang-dang
+    last: Dang
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Hoa Trang Dang, Martha Palmer
+  bibkey: dang-palmer-2005-role
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219846
+  month: June
+  page_first: '42'
+  page_last: '49'
+  pages: "42\u201349"
+  paper_id: '6'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1006.jpg
+  title: The Role of Semantic Roles in Disambiguating Verb Senses
+  title_html: The Role of Semantic Roles in Disambiguating Verb Senses
+  url: https://www.aclweb.org/anthology/P05-1006
+  year: '2005'
+P05-1007:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  - first: Davide
+    full: Davide Fossati
+    id: davide-fossati
+    last: Fossati
+  - first: Dan
+    full: Dan Yu
+    id: dan-yu
+    last: Yu
+  - first: Susan
+    full: Susan Haller
+    id: susan-haller
+    last: Haller
+  - first: Michael
+    full: Michael Glass
+    id: michael-glass
+    last: Glass
+  author_string: Barbara Di Eugenio, Davide Fossati, Dan Yu, Susan Haller, Michael
+    Glass
+  bibkey: di-eugenio-etal-2005-aggregation
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219847
+  month: June
+  page_first: '50'
+  page_last: '57'
+  pages: "50\u201357"
+  paper_id: '7'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1007.jpg
+  title: 'Aggregation Improves Learning: Experiments in Natural Language Generation
+    for Intelligent Tutoring Systems'
+  title_html: 'Aggregation Improves Learning: Experiments in Natural Language Generation
+    for Intelligent Tutoring Systems'
+  url: https://www.aclweb.org/anthology/P05-1007
+  year: '2005'
+P05-1008:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Daniel S.
+    full: Daniel S. Paiva
+    id: daniel-paiva
+    last: Paiva
+  - first: Roger
+    full: Roger Evans
+    id: roger-evans
+    last: Evans
+  author_string: Daniel S. Paiva, Roger Evans
+  bibkey: paiva-evans-2005-empirically
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219848
+  month: June
+  page_first: '58'
+  page_last: '65'
+  pages: "58\u201365"
+  paper_id: '8'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1008.jpg
+  title: Empirically-based Control of Natural Language Generation
+  title_html: Empirically-based Control of Natural Language Generation
+  url: https://www.aclweb.org/anthology/P05-1008
+  year: '2005'
+P05-1009:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Radu
+    full: Radu Soricut
+    id: radu-soricut
+    last: Soricut
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Radu Soricut, Daniel Marcu
+  bibkey: soricut-marcu-2005-towards
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219849
+  month: June
+  page_first: '66'
+  page_last: '74'
+  pages: "66\u201374"
+  paper_id: '9'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1009.jpg
+  title: Towards Developing Generation Algorithms for Text-to-Text Applications
+  title_html: Towards Developing Generation Algorithms for Text-to-Text Applications
+  url: https://www.aclweb.org/anthology/P05-1009
+  year: '2005'
+P05-1010:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Takuya
+    full: Takuya Matsuzaki
+    id: takuya-matsuzaki
+    last: Matsuzaki
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Takuya Matsuzaki, Yusuke Miyao, Jun\u2019ichi Tsujii"
+  bibkey: matsuzaki-etal-2005-probabilistic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219850
+  month: June
+  page_first: '75'
+  page_last: '82'
+  pages: "75\u201382"
+  paper_id: '10'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1010.jpg
+  title: Probabilistic CFG with Latent Annotations
+  title_html: Probabilistic <span class="acl-fixed-case">CFG</span> with Latent Annotations
+  url: https://www.aclweb.org/anthology/P05-1010
+  year: '2005'
+P05-1011:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Yusuke Miyao, Jun\u2019ichi Tsujii"
+  bibkey: miyao-tsujii-2005-probabilistic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219851
+  month: June
+  page_first: '83'
+  page_last: '90'
+  pages: "83\u201390"
+  paper_id: '11'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1011.jpg
+  title: Probabilistic Disambiguation Models for Wide-Coverage HPSG Parsing
+  title_html: Probabilistic Disambiguation Models for Wide-Coverage <span class="acl-fixed-case">HPSG</span>
+    Parsing
+  url: https://www.aclweb.org/anthology/P05-1011
+  year: '2005'
+P05-1012:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Koby
+    full: Koby Crammer
+    id: koby-crammer
+    last: Crammer
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: Ryan McDonald, Koby Crammer, Fernando Pereira
+  bibkey: mcdonald-etal-2005-online
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219852
+  month: June
+  page_first: '91'
+  page_last: '98'
+  pages: "91\u201398"
+  paper_id: '12'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1012.jpg
+  title: Online Large-Margin Training of Dependency Parsers
+  title_html: Online Large-Margin Training of Dependency Parsers
+  url: https://www.aclweb.org/anthology/P05-1012
+  year: '2005'
+P05-1013:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Jens
+    full: Jens Nilsson
+    id: jens-nilsson
+    last: Nilsson
+  author_string: Joakim Nivre, Jens Nilsson
+  bibkey: nivre-nilsson-2005-pseudo
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219853
+  month: June
+  page_first: '99'
+  page_last: '106'
+  pages: "99\u2013106"
+  paper_id: '13'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1013.jpg
+  title: Pseudo-Projective Dependency Parsing
+  title_html: Pseudo-Projective Dependency Parsing
+  url: https://www.aclweb.org/anthology/P05-1013
+  year: '2005'
+P05-1014:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Maayan
+    full: Maayan Geffet
+    id: maayan-geffet
+    last: Geffet
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Maayan Geffet, Ido Dagan
+  bibkey: geffet-dagan-2005-distributional
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219854
+  month: June
+  page_first: '107'
+  page_last: '114'
+  pages: "107\u2013114"
+  paper_id: '14'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1014.jpg
+  title: The Distributional Inclusion Hypotheses and Lexical Entailment
+  title_html: The Distributional Inclusion Hypotheses and Lexical Entailment
+  url: https://www.aclweb.org/anthology/P05-1014
+  year: '2005'
+P05-1015:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Bo
+    full: Bo Pang
+    id: bo-pang
+    last: Pang
+  - first: Lillian
+    full: Lillian Lee
+    id: lillian-lee
+    last: Lee
+  author_string: Bo Pang, Lillian Lee
+  bibkey: pang-lee-2005-seeing
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219855
+  month: June
+  page_first: '115'
+  page_last: '124'
+  pages: "115\u2013124"
+  paper_id: '15'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1015.jpg
+  title: 'Seeing Stars: Exploiting Class Relationships for Sentiment Categorization
+    with Respect to Rating Scales'
+  title_html: 'Seeing Stars: Exploiting Class Relationships for Sentiment Categorization
+    with Respect to Rating Scales'
+  url: https://www.aclweb.org/anthology/P05-1015
+  year: '2005'
+P05-1016:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  author_string: Patrick Pantel
+  bibkey: pantel-2005-inducing
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219856
+  month: June
+  page_first: '125'
+  page_last: '132'
+  pages: "125\u2013132"
+  paper_id: '16'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1016.jpg
+  title: Inducing Ontological Co-occurrence Vectors
+  title_html: Inducing Ontological Co-occurrence Vectors
+  url: https://www.aclweb.org/anthology/P05-1016
+  year: '2005'
+P05-1017:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hiroya
+    full: Hiroya Takamura
+    id: hiroya-takamura
+    last: Takamura
+  - first: Takashi
+    full: Takashi Inui
+    id: takashi-inui
+    last: Inui
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  author_string: Hiroya Takamura, Takashi Inui, Manabu Okumura
+  bibkey: takamura-etal-2005-extracting
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219857
+  month: June
+  page_first: '133'
+  page_last: '140'
+  pages: "133\u2013140"
+  paper_id: '17'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1017.jpg
+  title: Extracting Semantic Orientations of Words using Spin Model
+  title_html: Extracting Semantic Orientations of Words using Spin Model
+  url: https://www.aclweb.org/anthology/P05-1017
+  year: '2005'
+P05-1018:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Regina Barzilay, Mirella Lapata
+  bibkey: barzilay-lapata-2005-modeling
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219858
+  month: June
+  page_first: '141'
+  page_last: '148'
+  pages: "141\u2013148"
+  paper_id: '18'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1018.jpg
+  title: 'Modeling Local Coherence: An Entity-Based Approach'
+  title_html: 'Modeling Local Coherence: An Entity-Based Approach'
+  url: https://www.aclweb.org/anthology/P05-1018
+  year: '2005'
+P05-1019:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ben
+    full: Ben Hutchinson
+    id: ben-hutchinson
+    last: Hutchinson
+  author_string: Ben Hutchinson
+  bibkey: hutchinson-2005-modelling
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219859
+  month: June
+  page_first: '149'
+  page_last: '156'
+  pages: "149\u2013156"
+  paper_id: '19'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1019.jpg
+  title: Modelling the Substitutability of Discourse Connectives
+  title_html: Modelling the Substitutability of Discourse Connectives
+  url: https://www.aclweb.org/anthology/P05-1019
+  year: '2005'
+P05-1020:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Vincent Ng
+  bibkey: ng-2005-machine
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219860
+  month: June
+  page_first: '157'
+  page_last: '164'
+  pages: "157\u2013164"
+  paper_id: '20'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1020.jpg
+  title: 'Machine Learning for Coreference Resolution: From Local Classification to
+    Global Ranking'
+  title_html: 'Machine Learning for Coreference Resolution: From Local Classification
+    to Global Ranking'
+  url: https://www.aclweb.org/anthology/P05-1020
+  year: '2005'
+P05-1021:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Xiaofeng
+    full: Xiaofeng Yang
+    id: xiaofeng-yang
+    last: Yang
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Xiaofeng Yang, Jian Su, Chew Lim Tan
+  bibkey: yang-etal-2005-improving
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219861
+  month: June
+  page_first: '165'
+  page_last: '172'
+  pages: "165\u2013172"
+  paper_id: '21'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1021.jpg
+  title: Improving Pronoun Resolution Using Statistics-Based Semantic Compatibility
+    Information
+  title_html: Improving Pronoun Resolution Using Statistics-Based Semantic Compatibility
+    Information
+  url: https://www.aclweb.org/anthology/P05-1021
+  year: '2005'
+P05-1022:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Eugene Charniak, Mark Johnson
+  bibkey: charniak-johnson-2005-coarse
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219862
+  month: June
+  page_first: '173'
+  page_last: '180'
+  pages: "173\u2013180"
+  paper_id: '22'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1022.jpg
+  title: Coarse-to-Fine n-Best Parsing and MaxEnt Discriminative Reranking
+  title_html: Coarse-to-Fine n-Best Parsing and <span class="acl-fixed-case">M</span>ax<span
+    class="acl-fixed-case">E</span>nt Discriminative Reranking
+  url: https://www.aclweb.org/anthology/P05-1022
+  year: '2005'
+P05-1023:
+  address: Ann Arbor, Michigan
+  author:
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Ivan
+    full: Ivan Titov
+    id: ivan-titov
+    last: Titov
+  author_string: James Henderson, Ivan Titov
+  bibkey: henderson-titov-2005-data
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219863
+  month: June
+  page_first: '181'
+  page_last: '188'
+  pages: "181\u2013188"
+  paper_id: '23'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1023.jpg
+  title: Data-Defined Kernels for Parse Reranking Derived from Probabilistic Models
+  title_html: Data-Defined Kernels for Parse Reranking Derived from Probabilistic
+    Models
+  url: https://www.aclweb.org/anthology/P05-1023
+  year: '2005'
+P05-1024:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Taku
+    full: Taku Kudo
+    id: taku-kudo
+    last: Kudo
+  - first: Jun
+    full: Jun Suzuki
+    id: jun-suzuki
+    last: Suzuki
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  author_string: Taku Kudo, Jun Suzuki, Hideki Isozaki
+  bibkey: kudo-etal-2005-boosting
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219864
+  month: June
+  page_first: '189'
+  page_last: '196'
+  pages: "189\u2013196"
+  paper_id: '24'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1024.jpg
+  title: Boosting-based Parse Reranking with Subtree Features
+  title_html: Boosting-based Parse Reranking with Subtree Features
+  url: https://www.aclweb.org/anthology/P05-1024
+  year: '2005'
+P05-1025:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kenji
+    full: Kenji Sagae
+    id: kenji-sagae
+    last: Sagae
+  - first: Alon
+    full: Alon Lavie
+    id: alon-lavie
+    last: Lavie
+  - first: Brian
+    full: Brian MacWhinney
+    id: brian-macwhinney
+    last: MacWhinney
+  author_string: Kenji Sagae, Alon Lavie, Brian MacWhinney
+  bibkey: sagae-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219865
+  month: June
+  page_first: '197'
+  page_last: '204'
+  pages: "197\u2013204"
+  paper_id: '25'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1025.jpg
+  title: Automatic Measurement of Syntactic Development in Child Language
+  title_html: Automatic Measurement of Syntactic Development in Child Language
+  url: https://www.aclweb.org/anthology/P05-1025
+  year: '2005'
+P05-1026:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  - first: Andrew
+    full: Andrew Hickl
+    id: andrew-hickl
+    last: Hickl
+  - first: John
+    full: John Lehmann
+    id: john-lehmann
+    last: Lehmann
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  author_string: Sanda Harabagiu, Andrew Hickl, John Lehmann, Dan Moldovan
+  bibkey: harabagiu-etal-2005-experiments
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219866
+  month: June
+  page_first: '205'
+  page_last: '214'
+  pages: "205\u2013214"
+  paper_id: '26'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1026.jpg
+  title: Experiments with Interactive Question-Answering
+  title_html: Experiments with Interactive Question-Answering
+  url: https://www.aclweb.org/anthology/P05-1026
+  year: '2005'
+P05-1027:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Yutaka
+    full: Yutaka Sasaki
+    id: yutaka-sasaki
+    last: Sasaki
+  author_string: Yutaka Sasaki
+  bibkey: sasaki-2005-question
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219867
+  month: June
+  page_first: '215'
+  page_last: '222'
+  pages: "215\u2013222"
+  paper_id: '27'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1027.jpg
+  title: 'Question Answering as Question-Biased Term Extraction: A New Approach toward
+    Multilingual QA'
+  title_html: 'Question Answering as Question-Biased Term Extraction: A New Approach
+    toward Multilingual <span class="acl-fixed-case">QA</span>'
+  url: https://www.aclweb.org/anthology/P05-1027
+  year: '2005'
+P05-1028:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Stephanie
+    full: Stephanie Elzer
+    id: stephanie-elzer
+    last: Elzer
+  - first: Sandra
+    full: Sandra Carberry
+    id: sandra-carberry
+    last: Carberry
+  - first: Daniel
+    full: Daniel Chester
+    id: daniel-chester
+    last: Chester
+  - first: Seniz
+    full: Seniz Demir
+    id: seniz-demir
+    last: Demir
+  - first: Nancy
+    full: Nancy Green
+    id: nancy-green
+    last: Green
+  - first: Ingrid
+    full: Ingrid Zukerman
+    id: ingrid-zukerman
+    last: Zukerman
+  - first: Keith
+    full: Keith Trnka
+    id: keith-trnka
+    last: Trnka
+  author_string: Stephanie Elzer, Sandra Carberry, Daniel Chester, Seniz Demir, Nancy
+    Green, Ingrid Zukerman, Keith Trnka
+  bibkey: elzer-etal-2005-exploring
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219868
+  month: June
+  page_first: '223'
+  page_last: '230'
+  pages: "223\u2013230"
+  paper_id: '28'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1028.jpg
+  title: Exploring and Exploiting the Limited Utility of Captions in Recognizing Intention
+    in Information Graphics
+  title_html: Exploring and Exploiting the Limited Utility of Captions in Recognizing
+    Intention in Information Graphics
+  url: https://www.aclweb.org/anthology/P05-1028
+  year: '2005'
+P05-1029:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jonathan
+    full: Jonathan Ginzburg
+    id: jonathan-ginzburg
+    last: Ginzburg
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  author_string: "Jonathan Ginzburg, Raquel Fern\xE1ndez"
+  bibkey: ginzburg-fernandez-2005-scaling
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219869
+  month: June
+  page_first: '231'
+  page_last: '238'
+  pages: "231\u2013238"
+  paper_id: '29'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1029.jpg
+  title: 'Scaling up from Dialogue to Multilogue: Some Principles and Benchmarks'
+  title_html: 'Scaling up from Dialogue to Multilogue: Some Principles and Benchmarks'
+  url: https://www.aclweb.org/anthology/P05-1029
+  year: '2005'
+P05-1030:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Verena
+    full: Verena Rieser
+    id: verena-rieser
+    last: Rieser
+  - first: Johanna
+    full: Johanna Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: Verena Rieser, Johanna Moore
+  bibkey: rieser-moore-2005-implications
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219870
+  month: June
+  page_first: '239'
+  page_last: '246'
+  pages: "239\u2013246"
+  paper_id: '30'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1030.jpg
+  title: Implications for Generating Clarification Requests in Task-Oriented Dialogues
+  title_html: Implications for Generating Clarification Requests in Task-Oriented
+    Dialogues
+  url: https://www.aclweb.org/anthology/P05-1030
+  year: '2005'
+P05-1031:
+  address: Ann Arbor, Michigan
+  author:
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  author_string: David Schlangen
+  bibkey: schlangen-2005-towards
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219871
+  month: June
+  page_first: '247'
+  page_last: '254'
+  pages: "247\u2013254"
+  paper_id: '31'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1031.jpg
+  title: "Towards Finding and Fixing Fragments\u2014Using ML to Identify Non-Sentential\
+    \ Utterances and their Antecedents in Multi-Party Dialogue"
+  title_html: "Towards Finding and Fixing <span class=\"acl-fixed-case\">F</span>ragments\u2014\
+    <span class=\"acl-fixed-case\">U</span>sing <span class=\"acl-fixed-case\">ML</span>\
+    \ to Identify Non-Sentential Utterances and their Antecedents in Multi-Party Dialogue"
+  url: https://www.aclweb.org/anthology/P05-1031
+  year: '2005'
+P05-1032:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Colin
+    full: Colin Bannard
+    id: colin-bannard
+    last: Bannard
+  - first: Josh
+    full: Josh Schroeder
+    id: josh-schroeder
+    last: Schroeder
+  author_string: Chris Callison-Burch, Colin Bannard, Josh Schroeder
+  bibkey: callison-burch-etal-2005-scaling
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219872
+  month: June
+  page_first: '255'
+  page_last: '262'
+  pages: "255\u2013262"
+  paper_id: '32'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1032.jpg
+  title: Scaling Phrase-Based Statistical Machine Translation to Larger Corpora and
+    Longer Phrases
+  title_html: Scaling Phrase-Based Statistical Machine Translation to Larger Corpora
+    and Longer Phrases
+  url: https://www.aclweb.org/anthology/P05-1032
+  year: '2005'
+P05-1033:
+  address: Ann Arbor, Michigan
+  author:
+  - first: David
+    full: David Chiang
+    id: david-chiang
+    last: Chiang
+  author_string: David Chiang
+  bibkey: chiang-2005-hierarchical
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219873
+  month: June
+  page_first: '263'
+  page_last: '270'
+  pages: "263\u2013270"
+  paper_id: '33'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1033.jpg
+  title: A Hierarchical Phrase-Based Model for Statistical Machine Translation
+  title_html: A Hierarchical Phrase-Based Model for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/P05-1033
+  year: '2005'
+P05-1034:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Chris
+    full: Chris Quirk
+    id: chris-quirk
+    last: Quirk
+  - first: Arul
+    full: Arul Menezes
+    id: arul-menezes
+    last: Menezes
+  - first: Colin
+    full: Colin Cherry
+    id: colin-cherry
+    last: Cherry
+  author_string: Chris Quirk, Arul Menezes, Colin Cherry
+  bibkey: quirk-etal-2005-dependency
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219874
+  month: June
+  page_first: '271'
+  page_last: '279'
+  pages: "271\u2013279"
+  paper_id: '34'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1034.jpg
+  title: 'Dependency Treelet Translation: Syntactically Informed Phrasal SMT'
+  title_html: 'Dependency Treelet Translation: Syntactically Informed Phrasal <span
+    class="acl-fixed-case">SMT</span>'
+  url: https://www.aclweb.org/anthology/P05-1034
+  year: '2005'
+P05-1035:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Enrique
+    full: "Enrique Amig\xF3"
+    id: enrique-amigo
+    last: "Amig\xF3"
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  - first: Anselmo
+    full: "Anselmo Pe\xF1as"
+    id: anselmo-penas
+    last: "Pe\xF1as"
+  - first: Felisa
+    full: Felisa Verdejo
+    id: felisa-verdejo
+    last: Verdejo
+  author_string: "Enrique Amig\xF3, Julio Gonzalo, Anselmo Pe\xF1as, Felisa Verdejo"
+  bibkey: amigo-etal-2005-qarla
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219875
+  month: June
+  page_first: '280'
+  page_last: '289'
+  pages: "280\u2013289"
+  paper_id: '35'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1035.jpg
+  title: 'QARLA: A Framework for the Evaluation of Text Summarization Systems'
+  title_html: '<span class="acl-fixed-case">QARLA</span>: A Framework for the Evaluation
+    of Text Summarization Systems'
+  url: https://www.aclweb.org/anthology/P05-1035
+  year: '2005'
+P05-1036:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jenine
+    full: Jenine Turner
+    id: jenine-turner
+    last: Turner
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  author_string: Jenine Turner, Eugene Charniak
+  bibkey: turner-charniak-2005-supervised
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219876
+  month: June
+  page_first: '290'
+  page_last: '297'
+  pages: "290\u2013297"
+  paper_id: '36'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1036.jpg
+  title: Supervised and Unsupervised Learning for Sentence Compression
+  title_html: Supervised and Unsupervised Learning for Sentence Compression
+  url: https://www.aclweb.org/anthology/P05-1036
+  year: '2005'
+P05-1037:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Liang
+    full: Liang Zhou
+    id: liang-zhou
+    last: Zhou
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Liang Zhou, Eduard Hovy
+  bibkey: zhou-hovy-2005-digesting
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219877
+  month: June
+  page_first: '298'
+  page_last: '305'
+  pages: "298\u2013305"
+  paper_id: '37'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1037.jpg
+  title: "Digesting Virtual \u201CGeek\u201D Culture: The Summarization of Technical\
+    \ Internet Relay Chats"
+  title_html: "Digesting Virtual \u201CGeek\u201D Culture: The Summarization of Technical\
+    \ <span class=\"acl-fixed-case\">I</span>nternet Relay Chats"
+  url: https://www.aclweb.org/anthology/P05-1037
+  year: '2005'
+P05-1038:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Abhishek
+    full: Abhishek Arun
+    id: abhishek-arun
+    last: Arun
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  author_string: Abhishek Arun, Frank Keller
+  bibkey: arun-keller-2005-lexicalization
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219878
+  month: June
+  page_first: '306'
+  page_last: '313'
+  pages: "306\u2013313"
+  paper_id: '38'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1038.jpg
+  title: 'Lexicalization in Crosslinguistic Probabilistic Parsing: The Case of French'
+  title_html: 'Lexicalization in Crosslinguistic Probabilistic Parsing: The Case of
+    <span class="acl-fixed-case">F</span>rench'
+  url: https://www.aclweb.org/anthology/P05-1038
+  year: '2005'
+P05-1039:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Amit
+    full: Amit Dubey
+    id: amit-dubey
+    last: Dubey
+  author_string: Amit Dubey
+  bibkey: dubey-2005-lexicalization
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219879
+  month: June
+  page_first: '314'
+  page_last: '321'
+  pages: "314\u2013321"
+  paper_id: '39'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1039.jpg
+  title: 'What to Do When Lexicalization Fails: Parsing German with Suffix Analysis
+    and Smoothing'
+  title_html: 'What to Do When Lexicalization Fails: Parsing <span class="acl-fixed-case">G</span>erman
+    with Suffix Analysis and Smoothing'
+  url: https://www.aclweb.org/anthology/P05-1039
+  year: '2005'
+P05-1040:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Markus
+    full: Markus Dickinson
+    id: markus-dickinson
+    last: Dickinson
+  - first: W. Detmar
+    full: W. Detmar Meurers
+    id: detmar-meurers
+    last: Meurers
+  author_string: Markus Dickinson, W. Detmar Meurers
+  bibkey: dickinson-meurers-2005-detecting
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219880
+  month: June
+  page_first: '322'
+  page_last: '329'
+  pages: "322\u2013329"
+  paper_id: '40'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1040.jpg
+  title: Detecting Errors in Discontinuous Structural Annotation
+  title_html: Detecting Errors in Discontinuous Structural Annotation
+  url: https://www.aclweb.org/anthology/P05-1040
+  year: '2005'
+P05-1041:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Takaaki
+    full: Takaaki Tanaka
+    id: takaaki-tanaka
+    last: Tanaka
+  - first: Francis
+    full: Francis Bond
+    id: francis-bond
+    last: Bond
+  - first: Stephan
+    full: Stephan Oepen
+    id: stephan-oepen
+    last: Oepen
+  - first: Sanae
+    full: Sanae Fujita
+    id: sanae-fujita
+    last: Fujita
+  author_string: Takaaki Tanaka, Francis Bond, Stephan Oepen, Sanae Fujita
+  bibkey: tanaka-etal-2005-high
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219881
+  month: June
+  page_first: '330'
+  page_last: '337'
+  pages: "330\u2013337"
+  paper_id: '41'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1041.jpg
+  title: "High Precision Treebanking\u2014Blazing Useful Trees Using POS Information"
+  title_html: "High Precision <span class=\"acl-fixed-case\">T</span>reebanking\u2014\
+    <span class=\"acl-fixed-case\">B</span>lazing Useful Trees Using <span class=\"\
+    acl-fixed-case\">POS</span> Information"
+  url: https://www.aclweb.org/anthology/P05-1041
+  year: '2005'
+P05-1042:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Karim
+    full: Karim Filali
+    id: karim-filali
+    last: Filali
+  - first: Jeff
+    full: Jeff Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  author_string: Karim Filali, Jeff Bilmes
+  bibkey: filali-bilmes-2005-dynamic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219882
+  month: June
+  page_first: '338'
+  page_last: '345'
+  pages: "338\u2013345"
+  paper_id: '42'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1042.jpg
+  title: 'A Dynamic Bayesian Framework to Model Context and Memory in Edit Distance
+    Learning: An Application to Pronunciation Classification'
+  title_html: 'A Dynamic <span class="acl-fixed-case">B</span>ayesian Framework to
+    Model Context and Memory in Edit Distance Learning: An Application to Pronunciation
+    Classification'
+  url: https://www.aclweb.org/anthology/P05-1042
+  year: '2005'
+P05-1043:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ying
+    full: Ying Lin
+    id: ying-lin
+    last: Lin
+  author_string: Ying Lin
+  bibkey: lin-2005-learning
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219883
+  month: June
+  page_first: '346'
+  page_last: '353'
+  pages: "346\u2013353"
+  paper_id: '43'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1043.jpg
+  title: 'Learning Stochastic OT Grammars: A Bayesian Approach using Data Augmentation
+    and Gibbs Sampling'
+  title_html: 'Learning Stochastic <span class="acl-fixed-case">OT</span> Grammars:
+    A <span class="acl-fixed-case">B</span>ayesian Approach using Data Augmentation
+    and <span class="acl-fixed-case">G</span>ibbs Sampling'
+  url: https://www.aclweb.org/anthology/P05-1043
+  year: '2005'
+P05-1044:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Noah A. Smith, Jason Eisner
+  bibkey: smith-eisner-2005-contrastive
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219884
+  month: June
+  page_first: '354'
+  page_last: '362'
+  pages: "354\u2013362"
+  paper_id: '44'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1044.jpg
+  title: 'Contrastive Estimation: Training Log-Linear Models on Unlabeled Data'
+  title_html: 'Contrastive Estimation: Training Log-Linear Models on Unlabeled Data'
+  url: https://www.aclweb.org/anthology/P05-1044
+  year: '2005'
+P05-1045:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jenny Rose
+    full: Jenny Rose Finkel
+    id: jenny-rose-finkel
+    last: Finkel
+  - first: Trond
+    full: Trond Grenager
+    id: trond-grenager
+    last: Grenager
+  - first: Christopher
+    full: Christopher Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Jenny Rose Finkel, Trond Grenager, Christopher Manning
+  bibkey: finkel-etal-2005-incorporating
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219885
+  month: June
+  page_first: '363'
+  page_last: '370'
+  pages: "363\u2013370"
+  paper_id: '45'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1045.jpg
+  title: Incorporating Non-local Information into Information Extraction Systems by
+    Gibbs Sampling
+  title_html: Incorporating Non-local Information into Information Extraction Systems
+    by <span class="acl-fixed-case">G</span>ibbs Sampling
+  url: https://www.aclweb.org/anthology/P05-1045
+  year: '2005'
+P05-1046:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Trond
+    full: Trond Grenager
+    id: trond-grenager
+    last: Grenager
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Christopher
+    full: Christopher Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Trond Grenager, Dan Klein, Christopher Manning
+  bibkey: grenager-etal-2005-unsupervised
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219886
+  month: June
+  page_first: '371'
+  page_last: '378'
+  pages: "371\u2013378"
+  paper_id: '46'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1046.jpg
+  title: Unsupervised Learning of Field Segmentation Models for Information Extraction
+  title_html: Unsupervised Learning of Field Segmentation Models for Information Extraction
+  url: https://www.aclweb.org/anthology/P05-1046
+  year: '2005'
+P05-1047:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  - first: Mark
+    full: Mark Greenwood
+    id: mark-a-greenwood
+    last: Greenwood
+  author_string: Mark Stevenson, Mark Greenwood
+  bibkey: stevenson-greenwood-2005-semantic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219887
+  month: June
+  page_first: '379'
+  page_last: '386'
+  pages: "379\u2013386"
+  paper_id: '47'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1047.jpg
+  title: A Semantic Approach to IE Pattern Induction
+  title_html: A Semantic Approach to <span class="acl-fixed-case">IE</span> Pattern
+    Induction
+  url: https://www.aclweb.org/anthology/P05-1047
+  year: '2005'
+P05-1048:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Marine
+    full: Marine Carpuat
+    id: marine-carpuat
+    last: Carpuat
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Marine Carpuat, Dekai Wu
+  bibkey: carpuat-wu-2005-word
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219888
+  month: June
+  page_first: '387'
+  page_last: '394'
+  pages: "387\u2013394"
+  paper_id: '48'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1048.jpg
+  title: Word Sense Disambiguation vs. Statistical Machine Translation
+  title_html: Word Sense Disambiguation vs. Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/P05-1048
+  year: '2005'
+P05-1049:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Zheng-Yu
+    full: Zheng-Yu Niu
+    id: zheng-yu-niu
+    last: Niu
+  - first: Dong-Hong
+    full: Dong-Hong Ji
+    id: donghong-ji
+    last: Ji
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Zheng-Yu Niu, Dong-Hong Ji, Chew Lim Tan
+  bibkey: niu-etal-2005-word-sense
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219889
+  month: June
+  page_first: '395'
+  page_last: '402'
+  pages: "395\u2013402"
+  paper_id: '49'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1049.jpg
+  title: Word Sense Disambiguation Using Label Propagation Based Semi-Supervised Learning
+  title_html: Word Sense Disambiguation Using Label Propagation Based Semi-Supervised
+    Learning
+  url: https://www.aclweb.org/anthology/P05-1049
+  year: '2005'
+P05-1050:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Alfio
+    full: Alfio Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Alfio Gliozzo, Claudio Giuliano, Carlo Strapparava
+  bibkey: gliozzo-etal-2005-domain
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219890
+  month: June
+  page_first: '403'
+  page_last: '410'
+  pages: "403\u2013410"
+  paper_id: '50'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1050.jpg
+  title: Domain Kernels for Word Sense Disambiguation
+  title_html: Domain Kernels for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/P05-1050
+  year: '2005'
+P05-1051:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Heng
+    full: Heng Ji
+    id: heng-ji
+    last: Ji
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Heng Ji, Ralph Grishman
+  bibkey: ji-grishman-2005-improving
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219891
+  month: June
+  page_first: '411'
+  page_last: '418'
+  pages: "411\u2013418"
+  paper_id: '51'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1051.jpg
+  title: Improving Name Tagging by Reference Resolution and Relation Detection
+  title_html: Improving Name Tagging by Reference Resolution and Relation Detection
+  url: https://www.aclweb.org/anthology/P05-1051
+  year: '2005'
+P05-1052:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Shubin
+    full: Shubin Zhao
+    id: shubin-zhao
+    last: Zhao
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Shubin Zhao, Ralph Grishman
+  bibkey: zhao-grishman-2005-extracting
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219892
+  month: June
+  page_first: '419'
+  page_last: '426'
+  pages: "419\u2013426"
+  paper_id: '52'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1052.jpg
+  title: Extracting Relations with Integrated Information Using Kernel Methods
+  title_html: Extracting Relations with Integrated Information Using Kernel Methods
+  url: https://www.aclweb.org/anthology/P05-1052
+  year: '2005'
+P05-1053:
+  address: Ann Arbor, Michigan
+  author:
+  - first: GuoDong
+    full: GuoDong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  - first: Jie
+    full: Jie Zhang
+    id: jie-zhang
+    last: Zhang
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  author_string: GuoDong Zhou, Jian Su, Jie Zhang, Min Zhang
+  bibkey: zhou-etal-2005-exploring
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219893
+  month: June
+  page_first: '427'
+  page_last: '434'
+  pages: "427\u2013434"
+  paper_id: '53'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1053.jpg
+  title: Exploring Various Knowledge in Relation Extraction
+  title_html: Exploring Various Knowledge in Relation Extraction
+  url: https://www.aclweb.org/anthology/P05-1053
+  year: '2005'
+P05-1054:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Constantinos
+    full: Constantinos Boulis
+    id: constantinos-boulis
+    last: Boulis
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  author_string: Constantinos Boulis, Mari Ostendorf
+  bibkey: boulis-ostendorf-2005-quantitative
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219894
+  month: June
+  page_first: '435'
+  page_last: '442'
+  pages: "435\u2013442"
+  paper_id: '54'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1054.jpg
+  title: A Quantitative Analysis of Lexical Differences Between Genders in Telephone
+    Conversations
+  title_html: A Quantitative Analysis of Lexical Differences Between Genders in Telephone
+    Conversations
+  url: https://www.aclweb.org/anthology/P05-1054
+  year: '2005'
+P05-1055:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ciprian
+    full: Ciprian Chelba
+    id: ciprian-chelba
+    last: Chelba
+  - first: Alex
+    full: Alex Acero
+    id: alex-acero
+    last: Acero
+  author_string: Ciprian Chelba, Alex Acero
+  bibkey: chelba-acero-2005-position
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219895
+  month: June
+  page_first: '443'
+  page_last: '450'
+  pages: "443\u2013450"
+  paper_id: '55'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1055.jpg
+  title: Position Specific Posterior Lattices for Indexing Speech
+  title_html: Position Specific Posterior Lattices for Indexing Speech
+  url: https://www.aclweb.org/anthology/P05-1055
+  year: '2005'
+P05-1056:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  - first: Andreas
+    full: Andreas Stolcke
+    id: andreas-stolcke
+    last: Stolcke
+  - first: Elizabeth
+    full: Elizabeth Shriberg
+    id: elizabeth-shriberg
+    last: Shriberg
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  author_string: Yang Liu, Andreas Stolcke, Elizabeth Shriberg, Mary Harper
+  bibkey: liu-etal-2005-using-conditional
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219896
+  month: June
+  page_first: '451'
+  page_last: '458'
+  pages: "451\u2013458"
+  paper_id: '56'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1056.jpg
+  title: Using Conditional Random Fields for Sentence Boundary Detection in Speech
+  title_html: Using Conditional Random Fields for Sentence Boundary Detection in Speech
+  url: https://www.aclweb.org/anthology/P05-1056
+  year: '2005'
+P05-1057:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Shouxun
+    full: Shouxun Lin
+    id: shouxun-lin
+    last: Lin
+  author_string: Yang Liu, Qun Liu, Shouxun Lin
+  bibkey: liu-etal-2005-log
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219897
+  month: June
+  page_first: '459'
+  page_last: '466'
+  pages: "459\u2013466"
+  paper_id: '57'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1057.jpg
+  title: Log-Linear Models for Word Alignment
+  title_html: Log-Linear Models for Word Alignment
+  url: https://www.aclweb.org/anthology/P05-1057
+  year: '2005'
+P05-1058:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hua
+    full: Hua Wu
+    id: hua-wu
+    last: Wu
+  - first: Haifeng
+    full: Haifeng Wang
+    id: haifeng-wang
+    last: Wang
+  - first: Zhanyi
+    full: Zhanyi Liu
+    id: zhanyi-liu
+    last: Liu
+  author_string: Hua Wu, Haifeng Wang, Zhanyi Liu
+  bibkey: wu-etal-2005-alignment
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219898
+  month: June
+  page_first: '467'
+  page_last: '474'
+  pages: "467\u2013474"
+  paper_id: '58'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1058.jpg
+  title: Alignment Model Adaptation for Domain-Specific Word Alignment
+  title_html: Alignment Model Adaptation for Domain-Specific Word Alignment
+  url: https://www.aclweb.org/anthology/P05-1058
+  year: '2005'
+P05-1059:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hao
+    full: Hao Zhang
+    id: hao-zhang
+    last: Zhang
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  author_string: Hao Zhang, Daniel Gildea
+  bibkey: zhang-gildea-2005-stochastic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219899
+  month: June
+  page_first: '475'
+  page_last: '482'
+  pages: "475\u2013482"
+  paper_id: '59'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1059.jpg
+  title: Stochastic Lexicalized Inversion Transduction Grammar for Alignment
+  title_html: Stochastic Lexicalized Inversion Transduction Grammar for Alignment
+  url: https://www.aclweb.org/anthology/P05-1059
+  year: '2005'
+P05-1060:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Gideon
+    full: Gideon Mann
+    id: gideon-mann
+    last: Mann
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Gideon Mann, David Yarowsky
+  bibkey: mann-yarowsky-2005-multi
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219900
+  month: June
+  page_first: '483'
+  page_last: '490'
+  pages: "483\u2013490"
+  paper_id: '60'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1060.jpg
+  title: Multi-Field Information Extraction and Cross-Document Fusion
+  title_html: Multi-Field Information Extraction and Cross-Document Fusion
+  url: https://www.aclweb.org/anthology/P05-1060
+  year: '2005'
+P05-1061:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  - first: Seth
+    full: Seth Kulick
+    id: seth-kulick
+    last: Kulick
+  - first: Scott
+    full: Scott Winters
+    id: scott-winters
+    last: Winters
+  - first: Yang
+    full: Yang Jin
+    id: yang-jin
+    last: Jin
+  - first: Pete
+    full: Pete White
+    id: peter-white
+    last: White
+  author_string: Ryan McDonald, Fernando Pereira, Seth Kulick, Scott Winters, Yang
+    Jin, Pete White
+  bibkey: mcdonald-etal-2005-simple
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219901
+  month: June
+  page_first: '491'
+  page_last: '498'
+  pages: "491\u2013498"
+  paper_id: '61'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1061.jpg
+  title: Simple Algorithms for Complex Relation Extraction with Applications to Biomedical
+    IE
+  title_html: Simple Algorithms for Complex Relation Extraction with Applications
+    to Biomedical <span class="acl-fixed-case">IE</span>
+  url: https://www.aclweb.org/anthology/P05-1061
+  year: '2005'
+P05-1062:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kun
+    full: Kun Yu
+    id: kun-yu
+    last: Yu
+  - first: Gang
+    full: Gang Guan
+    id: gang-guan
+    last: Guan
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Kun Yu, Gang Guan, Ming Zhou
+  bibkey: yu-etal-2005-resume
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219902
+  month: June
+  page_first: '499'
+  page_last: '506'
+  pages: "499\u2013506"
+  paper_id: '62'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1062.jpg
+  title: Resume Information Extraction with Cascaded Hybrid Model
+  title_html: Resume Information Extraction with Cascaded Hybrid Model
+  url: https://www.aclweb.org/anthology/P05-1062
+  year: '2005'
+P05-1063:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  - first: Murat
+    full: Murat Saraclar
+    id: murat-saraclar
+    last: Saraclar
+  author_string: Michael Collins, Brian Roark, Murat Saraclar
+  bibkey: collins-etal-2005-discriminative
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219903
+  month: June
+  page_first: '507'
+  page_last: '514'
+  pages: "507\u2013514"
+  paper_id: '63'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1063.jpg
+  title: Discriminative Syntactic Language Modeling for Speech Recognition
+  title_html: Discriminative Syntactic Language Modeling for Speech Recognition
+  url: https://www.aclweb.org/anthology/P05-1063
+  year: '2005'
+P05-1064:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  - first: Bin
+    full: Bin Ma
+    id: bin-ma
+    last: Ma
+  author_string: Haizhou Li, Bin Ma
+  bibkey: li-ma-2005-phonotactic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219904
+  month: June
+  page_first: '515'
+  page_last: '522'
+  pages: "515\u2013522"
+  paper_id: '64'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1064.jpg
+  title: A Phonotactic Language Model for Spoken Language Identification
+  title_html: A Phonotactic Language Model for Spoken Language Identification
+  url: https://www.aclweb.org/anthology/P05-1064
+  year: '2005'
+P05-1065:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Sarah
+    full: Sarah Schwarm
+    id: sarah-e-schwarm
+    last: Schwarm
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  author_string: Sarah Schwarm, Mari Ostendorf
+  bibkey: schwarm-ostendorf-2005-reading
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219905
+  month: June
+  page_first: '523'
+  page_last: '530'
+  pages: "523\u2013530"
+  paper_id: '65'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1065.jpg
+  title: Reading Level Assessment Using Support Vector Machines and Statistical Language
+    Models
+  title_html: Reading Level Assessment Using Support Vector Machines and Statistical
+    Language Models
+  url: https://www.aclweb.org/anthology/P05-1065
+  year: '2005'
+P05-1066:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Ivona
+    full: "Ivona Ku\u010Derov\xE1"
+    id: ivona-kucerova
+    last: "Ku\u010Derov\xE1"
+  author_string: "Michael Collins, Philipp Koehn, Ivona Ku\u010Derov\xE1"
+  bibkey: collins-etal-2005-clause
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219906
+  month: June
+  page_first: '531'
+  page_last: '540'
+  pages: "531\u2013540"
+  paper_id: '66'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1066.jpg
+  title: Clause Restructuring for Statistical Machine Translation
+  title_html: Clause Restructuring for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/P05-1066
+  year: '2005'
+P05-1067:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Yuan
+    full: Yuan Ding
+    id: yuan-ding
+    last: Ding
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Yuan Ding, Martha Palmer
+  bibkey: ding-palmer-2005-machine
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219907
+  month: June
+  page_first: '541'
+  page_last: '548'
+  pages: "541\u2013548"
+  paper_id: '67'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1067.jpg
+  title: Machine Translation Using Probabilistic Synchronous Dependency Insertion
+    Grammars
+  title_html: Machine Translation Using Probabilistic Synchronous Dependency Insertion
+    Grammars
+  url: https://www.aclweb.org/anthology/P05-1067
+  year: '2005'
+P05-1068:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Young-Sook
+    full: Young-Sook Hwang
+    id: young-sook-hwang
+    last: Hwang
+  - first: Yutaka
+    full: Yutaka Sasaki
+    id: yutaka-sasaki
+    last: Sasaki
+  author_string: Young-Sook Hwang, Yutaka Sasaki
+  bibkey: hwang-sasaki-2005-context
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219908
+  month: June
+  page_first: '549'
+  page_last: '556'
+  pages: "549\u2013556"
+  paper_id: '68'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1068.jpg
+  title: Context-Dependent SMT Model using Bilingual Verb-Noun Collocation
+  title_html: Context-Dependent <span class="acl-fixed-case">SMT</span> Model using
+    Bilingual Verb-Noun Collocation
+  url: https://www.aclweb.org/anthology/P05-1068
+  year: '2005'
+P05-1069:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Christoph
+    full: Christoph Tillmann
+    id: christoph-tillmann
+    last: Tillmann
+  - first: Tong
+    full: Tong Zhang
+    id: tong-zhang
+    last: Zhang
+  author_string: Christoph Tillmann, Tong Zhang
+  bibkey: tillmann-zhang-2005-localized
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219909
+  month: June
+  page_first: '557'
+  page_last: '564'
+  pages: "557\u2013564"
+  paper_id: '69'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1069.jpg
+  title: A Localized Prediction Model for Statistical Machine Translation
+  title_html: A Localized Prediction Model for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/P05-1069
+  year: '2005'
+P05-1070:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Shimei
+    full: Shimei Pan
+    id: shimei-pan
+    last: Pan
+  - first: James
+    full: James Shaw
+    id: james-shaw
+    last: Shaw
+  author_string: Shimei Pan, James Shaw
+  bibkey: pan-shaw-2005-instance
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219910
+  month: June
+  page_first: '565'
+  page_last: '572'
+  pages: "565\u2013572"
+  paper_id: '70'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1070.jpg
+  title: Instance-based Sentence Boundary Determination by Optimization for Natural
+    Language Generation
+  title_html: Instance-based Sentence Boundary Determination by Optimization for Natural
+    Language Generation
+  url: https://www.aclweb.org/anthology/P05-1070
+  year: '2005'
+P05-1071:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  author_string: Nizar Habash, Owen Rambow
+  bibkey: habash-rambow-2005-arabic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219911
+  month: June
+  page_first: '573'
+  page_last: '580'
+  pages: "573\u2013580"
+  paper_id: '71'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1071.jpg
+  title: Arabic Tokenization, Part-of-Speech Tagging and Morphological Disambiguation
+    in One Fell Swoop
+  title_html: <span class="acl-fixed-case">A</span>rabic Tokenization, Part-of-Speech
+    Tagging and Morphological Disambiguation in One Fell Swoop
+  url: https://www.aclweb.org/anthology/P05-1071
+  year: '2005'
+P05-1072:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Sameer
+    full: Sameer Pradhan
+    id: sameer-pradhan
+    last: Pradhan
+  - first: Wayne
+    full: Wayne Ward
+    id: wayne-ward
+    last: Ward
+  - first: Kadri
+    full: Kadri Hacioglu
+    id: kadri-hacioglu
+    last: Hacioglu
+  - first: James
+    full: James Martin
+    id: james-h-martin
+    last: Martin
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Sameer Pradhan, Wayne Ward, Kadri Hacioglu, James Martin, Daniel
+    Jurafsky
+  bibkey: pradhan-etal-2005-semantic-role
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219912
+  month: June
+  page_first: '581'
+  page_last: '588'
+  pages: "581\u2013588"
+  paper_id: '72'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1072.jpg
+  title: Semantic Role Labeling Using Different Syntactic Views
+  title_html: Semantic Role Labeling Using Different Syntactic Views
+  url: https://www.aclweb.org/anthology/P05-1072
+  year: '2005'
+P05-1073:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Christopher
+    full: Christopher Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Kristina Toutanova, Aria Haghighi, Christopher Manning
+  bibkey: toutanova-etal-2005-joint
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219913
+  month: June
+  page_first: '589'
+  page_last: '596'
+  pages: "589\u2013596"
+  paper_id: '73'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1073.jpg
+  title: Joint Learning Improves Semantic Role Labeling
+  title_html: Joint Learning Improves Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/P05-1073
+  year: '2005'
+P05-1074:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Colin
+    full: Colin Bannard
+    id: colin-bannard
+    last: Bannard
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  author_string: Colin Bannard, Chris Callison-Burch
+  bibkey: bannard-callison-burch-2005-paraphrasing
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219914
+  month: June
+  page_first: '597'
+  page_last: '604'
+  pages: "597\u2013604"
+  paper_id: '74'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1074.jpg
+  title: Paraphrasing with Bilingual Parallel Corpora
+  title_html: Paraphrasing with Bilingual Parallel Corpora
+  url: https://www.aclweb.org/anthology/P05-1074
+  year: '2005'
+P05-1075:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Paul
+    full: Paul Deane
+    id: paul-deane
+    last: Deane
+  author_string: Paul Deane
+  bibkey: deane-2005-nonparametric
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219915
+  month: June
+  page_first: '605'
+  page_last: '613'
+  pages: "605\u2013613"
+  paper_id: '75'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1075.jpg
+  title: A Nonparametric Method for Extraction of Candidate Phrasal Terms
+  title_html: A Nonparametric Method for Extraction of Candidate Phrasal Terms
+  url: https://www.aclweb.org/anthology/P05-1075
+  year: '2005'
+P05-1076:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jeremy
+    full: Jeremy Yallop
+    id: jeremy-yallop
+    last: Yallop
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  author_string: Jeremy Yallop, Anna Korhonen, Ted Briscoe
+  bibkey: yallop-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219916
+  month: June
+  page_first: '614'
+  page_last: '621'
+  pages: "614\u2013621"
+  paper_id: '76'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1076.jpg
+  title: Automatic Acquisition of Adjectival Subcategorization from Corpora
+  title_html: Automatic Acquisition of Adjectival Subcategorization from Corpora
+  url: https://www.aclweb.org/anthology/P05-1076
+  year: '2005'
+P05-1077:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Deepak
+    full: Deepak Ravichandran
+    id: deepak-ravichandran
+    last: Ravichandran
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Deepak Ravichandran, Patrick Pantel, Eduard Hovy
+  bibkey: ravichandran-etal-2005-randomized
+  bibtype: inproceedings
+  booktitle: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (ACL\u201905)"
+  booktitle_html: "Proceedings of the 43rd Annual Meeting of the Association for Computational\
+    \ Linguistics (<span class=\"acl-fixed-case\">ACL</span>\u201905)"
+  doi: 10.3115/1219840.1219917
+  month: June
+  page_first: '622'
+  page_last: '629'
+  pages: "622\u2013629"
+  paper_id: '77'
+  parent_volume_id: P05-1
+  pdf: https://www.aclweb.org/anthology/P05-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-1077.jpg
+  title: 'Randomized Algorithms and NLP: Using Locality Sensitive Hash Functions for
+    High Speed Noun Clustering'
+  title_html: 'Randomized Algorithms and <span class="acl-fixed-case">NLP</span>:
+    Using Locality Sensitive Hash Functions for High Speed Noun Clustering'
+  url: https://www.aclweb.org/anthology/P05-1077
+  year: '2005'
+P05-2000:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Stephen
+    full: Stephen Wan
+    id: stephen-wan
+    last: Wan
+  author_string: Chris Callison-Burch, Stephen Wan
+  bibkey: acl-2005-acl
+  bibtype: proceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  month: June
+  paper_id: '0'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2000.jpg
+  title: Proceedings of the ACL Student Research Workshop
+  title_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student Research
+    Workshop
+  url: https://www.aclweb.org/anthology/P05-2000
+  year: '2005'
+P05-2001:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Xiaofei
+    full: Xiaofei Lu
+    id: xiaofei-lu
+    last: Lu
+  author_string: Xiaofei Lu
+  bibkey: lu-2005-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2001.jpg
+  title: Hybrid Methods for POS Guessing of Chinese Unknown Words
+  title_html: Hybrid Methods for <span class="acl-fixed-case">POS</span> Guessing
+    of <span class="acl-fixed-case">C</span>hinese Unknown Words
+  url: https://www.aclweb.org/anthology/P05-2001
+  year: '2005'
+P05-2002:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Naglaa
+    full: Naglaa Thabet
+    id: naglaa-thabet
+    last: Thabet
+  author_string: Naglaa Thabet
+  bibkey: thabet-2005-understanding
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '7'
+  page_last: '12'
+  pages: "7\u201312"
+  paper_id: '2'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2002.jpg
+  title: "Understanding the Thematic Structure of the Qur\u2019an: An Exploratory\
+    \ Multivariate Approach"
+  title_html: "Understanding the Thematic Structure of the <span class=\"acl-fixed-case\"\
+    >Q</span>ur\u2019an: An Exploratory Multivariate Approach"
+  url: https://www.aclweb.org/anthology/P05-2002
+  year: '2005'
+P05-2003:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Pavel
+    full: Pavel Pecina
+    id: pavel-pecina
+    last: Pecina
+  author_string: Pavel Pecina
+  bibkey: pecina-2005-extensive
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '13'
+  page_last: '18'
+  pages: "13\u201318"
+  paper_id: '3'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2003.jpg
+  title: An Extensive Empirical Study of Collocation Extraction Methods
+  title_html: An Extensive Empirical Study of Collocation Extraction Methods
+  url: https://www.aclweb.org/anthology/P05-2003
+  year: '2005'
+P05-2004:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kevin
+    full: Kevin Duh
+    id: kevin-duh
+    last: Duh
+  author_string: Kevin Duh
+  bibkey: duh-2005-jointly
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '19'
+  page_last: '24'
+  pages: "19\u201324"
+  paper_id: '4'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2004.jpg
+  title: 'Jointly Labeling Multiple Sequences: A Factorial HMM Approach'
+  title_html: 'Jointly Labeling Multiple Sequences: A Factorial <span class="acl-fixed-case">HMM</span>
+    Approach'
+  url: https://www.aclweb.org/anthology/P05-2004
+  year: '2005'
+P05-2005:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Thamar
+    full: Thamar Solorio
+    id: thamar-solorio
+    last: Solorio
+  author_string: Thamar Solorio
+  bibkey: solorio-2005-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '25'
+  page_last: '30'
+  pages: "25\u201330"
+  paper_id: '5'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2005.jpg
+  title: Exploiting Named Entity Taggers in a Second Language
+  title_html: Exploiting Named Entity Taggers in a Second Language
+  url: https://www.aclweb.org/anthology/P05-2005
+  year: '2005'
+P05-2006:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Marta
+    full: Marta Tatu
+    id: marta-tatu
+    last: Tatu
+  author_string: Marta Tatu
+  bibkey: tatu-2005-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '31'
+  page_last: '36'
+  pages: "31\u201336"
+  paper_id: '6'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2006.jpg
+  title: Automatic Discovery of Intentions in Text and its Application to Question
+    Answering
+  title_html: Automatic Discovery of Intentions in Text and its Application to Question
+    Answering
+  url: https://www.aclweb.org/anthology/P05-2006
+  year: '2005'
+P05-2007:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Matt
+    full: Matt Huenerfauth
+    id: matt-huenerfauth
+    last: Huenerfauth
+  author_string: Matt Huenerfauth
+  bibkey: huenerfauth-2005-american
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '37'
+  page_last: '42'
+  pages: "37\u201342"
+  paper_id: '7'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2007.jpg
+  title: 'American Sign Language Generation: Multimodal NLG with Multiple Linguistic
+    Channels'
+  title_html: '<span class="acl-fixed-case">A</span>merican Sign Language Generation:
+    Multimodal <span class="acl-fixed-case">NLG</span> with Multiple Linguistic Channels'
+  url: https://www.aclweb.org/anthology/P05-2007
+  year: '2005'
+P05-2008:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jonathon
+    full: Jonathon Read
+    id: jonathon-read
+    last: Read
+  author_string: Jonathon Read
+  bibkey: read-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '43'
+  page_last: '48'
+  pages: "43\u201348"
+  paper_id: '8'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2008.jpg
+  title: Using Emoticons to Reduce Dependency in Machine Learning Techniques for Sentiment
+    Classification
+  title_html: Using Emoticons to Reduce Dependency in Machine Learning Techniques
+    for Sentiment Classification
+  url: https://www.aclweb.org/anthology/P05-2008
+  year: '2005'
+P05-2009:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Angus
+    full: Angus Roberts
+    id: angus-roberts
+    last: Roberts
+  author_string: Angus Roberts
+  bibkey: roberts-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '49'
+  page_last: '54'
+  pages: "49\u201354"
+  paper_id: '9'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2009.jpg
+  title: Learning Meronyms from Biomedical Text
+  title_html: Learning Meronyms from Biomedical Text
+  url: https://www.aclweb.org/anthology/P05-2009
+  year: '2005'
+P05-2010:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Beata
+    full: Beata Beigman Klebanov
+    id: beata-beigman-klebanov
+    last: Beigman Klebanov
+  author_string: Beata Beigman Klebanov
+  bibkey: beigman-klebanov-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '55'
+  page_last: '60'
+  pages: "55\u201360"
+  paper_id: '10'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2010.jpg
+  title: Using Readers to Identify Lexical Cohesive Structures in Texts
+  title_html: Using Readers to Identify Lexical Cohesive Structures in Texts
+  url: https://www.aclweb.org/anthology/P05-2010
+  year: '2005'
+P05-2011:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Inge M. R.
+    full: Inge M. R. De Bleecker
+    id: inge-m-r-de-bleecker
+    last: De Bleecker
+  author_string: Inge M. R. De Bleecker
+  bibkey: de-bleecker-2005-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '61'
+  page_last: '66'
+  pages: "61\u201366"
+  paper_id: '11'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2011.jpg
+  title: Towards an Optimal Lexicalization in a Natural-Sounding Portable Natural
+    Language Generator for Dialog Systems
+  title_html: Towards an Optimal Lexicalization in a Natural-Sounding Portable Natural
+    Language Generator for Dialog Systems
+  url: https://www.aclweb.org/anthology/P05-2011
+  year: '2005'
+P05-2012:
+  address: Ann Arbor, Michigan
+  author:
+  - first: "Adri\xE0"
+    full: "Adri\xE0 de Gispert"
+    id: adria-de-gispert
+    last: de Gispert
+  author_string: "Adri\xE0 de Gispert"
+  bibkey: de-gispert-2005-phrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '67'
+  page_last: '72'
+  pages: "67\u201372"
+  paper_id: '12'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2012.jpg
+  title: Phrase Linguistic Classification and Generalization for Improving Statistical
+    Machine Translation
+  title_html: Phrase Linguistic Classification and Generalization for Improving Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/P05-2012
+  year: '2005'
+P05-2013:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ruken
+    full: "Ruken \xC7ak\u0131c\u0131"
+    id: ruket-cakici
+    last: "\xC7ak\u0131c\u0131"
+  author_string: "Ruken \xC7ak\u0131c\u0131"
+  bibkey: cakici-2005-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '73'
+  page_last: '78'
+  pages: "73\u201378"
+  paper_id: '13'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2013.jpg
+  title: Automatic Induction of a CCG Grammar for Turkish
+  title_html: Automatic Induction of a <span class="acl-fixed-case">CCG</span> Grammar
+    for <span class="acl-fixed-case">T</span>urkish
+  url: https://www.aclweb.org/anthology/P05-2013
+  year: '2005'
+P05-2014:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Edward
+    full: Edward Ivanovic
+    id: edward-ivanovic
+    last: Ivanovic
+  author_string: Edward Ivanovic
+  bibkey: ivanovic-2005-dialogue
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '79'
+  page_last: '84'
+  pages: "79\u201384"
+  paper_id: '14'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2014.jpg
+  title: Dialogue Act Tagging for Instant Messaging Chat Sessions
+  title_html: Dialogue Act Tagging for Instant Messaging Chat Sessions
+  url: https://www.aclweb.org/anthology/P05-2014
+  year: '2005'
+P05-2015:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Eugene
+    full: Eugene Grois
+    id: eugene-grois
+    last: Grois
+  author_string: Eugene Grois
+  bibkey: grois-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '85'
+  page_last: '90'
+  pages: "85\u201390"
+  paper_id: '15'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2015.jpg
+  title: Learning Strategies for Open-Domain Natural Language Question Answering
+  title_html: Learning Strategies for Open-Domain Natural Language Question Answering
+  url: https://www.aclweb.org/anthology/P05-2015
+  year: '2005'
+P05-2016:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Heidi
+    full: Heidi Fox
+    id: heidi-fox
+    last: Fox
+  author_string: Heidi Fox
+  bibkey: fox-2005-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '91'
+  page_last: '96'
+  pages: "91\u201396"
+  paper_id: '16'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2016.jpg
+  title: Dependency-Based Statistical Machine Translation
+  title_html: Dependency-Based Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/P05-2016
+  year: '2005'
+P05-2017:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Asad B.
+    full: Asad B. Sayeed
+    id: asad-sayeed
+    last: Sayeed
+  author_string: Asad B. Sayeed
+  bibkey: sayeed-2005-minimalist
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '97'
+  page_last: '102'
+  pages: "97\u2013102"
+  paper_id: '17'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2017.jpg
+  title: Minimalist Parsing of Subjects Displaced from Embedded Clauses in Free Word
+    Order Languages
+  title_html: Minimalist Parsing of Subjects Displaced from Embedded Clauses in Free
+    Word Order Languages
+  url: https://www.aclweb.org/anthology/P05-2017
+  year: '2005'
+P05-2018:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Zhuli
+    full: Zhuli Xie
+    id: zhuli-xie
+    last: Xie
+  author_string: Zhuli Xie
+  bibkey: xie-2005-centrality
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '103'
+  page_last: '108'
+  pages: "103\u2013108"
+  paper_id: '18'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2018.jpg
+  title: 'Centrality Measures in Text Mining: Prediction of Noun Phrases that Appear
+    in Abstracts'
+  title_html: 'Centrality Measures in Text Mining: Prediction of Noun Phrases that
+    Appear in Abstracts'
+  url: https://www.aclweb.org/anthology/P05-2018
+  year: '2005'
+P05-2019:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Philip
+    full: Philip Diderichsen
+    id: philip-diderichsen
+    last: Diderichsen
+  - first: Jakob
+    full: Jakob Elming
+    id: jakob-elming
+    last: Elming
+  author_string: Philip Diderichsen, Jakob Elming
+  bibkey: diderichsen-elming-2005-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '109'
+  page_last: '114'
+  pages: "109\u2013114"
+  paper_id: '19'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2019.jpg
+  title: A Corpus-Based Approach to Topic in Danish dialog
+  title_html: A Corpus-Based Approach to Topic in <span class="acl-fixed-case">D</span>anish
+    dialog
+  url: https://www.aclweb.org/anthology/P05-2019
+  year: '2005'
+P05-2020:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Oana
+    full: Oana Postolache
+    id: oana-postolache
+    last: Postolache
+  author_string: Oana Postolache
+  bibkey: postolache-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '115'
+  page_last: '120'
+  pages: "115\u2013120"
+  paper_id: '20'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2020.jpg
+  title: Learning Information Structure in the Prague Treebank
+  title_html: Learning Information Structure in the <span class="acl-fixed-case">P</span>rague
+    <span class="acl-fixed-case">T</span>reebank
+  url: https://www.aclweb.org/anthology/P05-2020
+  year: '2005'
+P05-2021:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Petr
+    full: "Petr Podvesk\xFD"
+    id: petr-podvesky
+    last: "Podvesk\xFD"
+  - first: Pavel
+    full: Pavel Machek
+    id: pavel-machek
+    last: Machek
+  author_string: "Petr Podvesk\xFD, Pavel Machek"
+  bibkey: podvesky-machek-2005-speech
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '121'
+  page_last: '126'
+  pages: "121\u2013126"
+  paper_id: '21'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2021.jpg
+  title: "Speech Recognition of Czech\u2014Inclusion of Rare Words Helps"
+  title_html: "Speech Recognition of <span class=\"acl-fixed-case\">C</span>zech\u2014\
+    Inclusion of Rare Words Helps"
+  url: https://www.aclweb.org/anthology/P05-2021
+  year: '2005'
+P05-2022:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Sylwia
+    full: Sylwia Ozdowska
+    id: sylwia-ozdowska
+    last: Ozdowska
+  author_string: Sylwia Ozdowska
+  bibkey: ozdowska-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '127'
+  page_last: '132'
+  pages: "127\u2013132"
+  paper_id: '22'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2022.jpg
+  title: Using Bilingual Dependencies to Align Words in English/French Parallel Corpora
+  title_html: Using Bilingual Dependencies to Align Words in <span class="acl-fixed-case">E</span>nglish/<span
+    class="acl-fixed-case">F</span>rench Parallel Corpora
+  url: https://www.aclweb.org/anthology/P05-2022
+  year: '2005'
+P05-2023:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Beatrice
+    full: Beatrice Alex
+    id: beatrice-alex
+    last: Alex
+  author_string: Beatrice Alex
+  bibkey: alex-2005-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '133'
+  page_last: '138'
+  pages: "133\u2013138"
+  paper_id: '23'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2023.jpg
+  title: An Unsupervised System for Identifying English Inclusions in German Text
+  title_html: An Unsupervised System for Identifying <span class="acl-fixed-case">E</span>nglish
+    Inclusions in <span class="acl-fixed-case">G</span>erman Text
+  url: https://www.aclweb.org/anthology/P05-2023
+  year: '2005'
+P05-2024:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kazuhiro
+    full: Kazuhiro Yoshida
+    id: kazuhiro-yoshida
+    last: Yoshida
+  author_string: Kazuhiro Yoshida
+  bibkey: yoshida-2005-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '139'
+  page_last: '144'
+  pages: "139\u2013144"
+  paper_id: '24'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2024.jpg
+  title: Corpus-Oriented Development of Japanese HPSG Parsers
+  title_html: Corpus-Oriented Development of <span class="acl-fixed-case">J</span>apanese
+    <span class="acl-fixed-case">HPSG</span> Parsers
+  url: https://www.aclweb.org/anthology/P05-2024
+  year: '2005'
+P05-2025:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Anagha
+    full: Anagha Kulkarni
+    id: anagha-kulkarni
+    last: Kulkarni
+  author_string: Anagha Kulkarni
+  bibkey: kulkarni-2005-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '145'
+  page_last: '150'
+  pages: "145\u2013150"
+  paper_id: '25'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2025.jpg
+  title: Unsupervised Discrimination and Labeling of Ambiguous Names
+  title_html: Unsupervised Discrimination and Labeling of Ambiguous Names
+  url: https://www.aclweb.org/anthology/P05-2025
+  year: '2005'
+P05-2026:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jeffrey
+    full: Jeffrey Russell
+    id: jeffrey-russell
+    last: Russell
+  author_string: Jeffrey Russell
+  bibkey: russell-2005-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Student
+    Research Workshop
+  month: June
+  page_first: '151'
+  page_last: '156'
+  pages: "151\u2013156"
+  paper_id: '26'
+  parent_volume_id: P05-2
+  pdf: https://www.aclweb.org/anthology/P05-2026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-2026.jpg
+  title: A Domain-Specific Statistical Surface Realizer
+  title_html: A Domain-Specific Statistical Surface Realizer
+  url: https://www.aclweb.org/anthology/P05-2026
+  year: '2005'
+P05-3000:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Masaaki
+    full: Masaaki Nagata
+    id: masaaki-nagata
+    last: Nagata
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Masaaki Nagata, Ted Pedersen
+  bibkey: acl-2005-acl-interactive
+  bibtype: proceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  month: June
+  paper_id: '0'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3000.jpg
+  title: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  title_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  url: https://www.aclweb.org/anthology/P05-3000
+  year: '2005'
+P05-3001:
+  address: Ann Arbor, Michigan
+  author:
+  - first: David
+    full: David DeVault
+    id: david-devault
+    last: DeVault
+  - first: Natalia
+    full: Natalia Kariaeva
+    id: natalia-kariaeva-rutgers
+    last: Kariaeva
+  - first: Anubha
+    full: Anubha Kothari
+    id: anubha-kothari
+    last: Kothari
+  - first: Iris
+    full: Iris Oved
+    id: iris-oved
+    last: Oved
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  author_string: David DeVault, Natalia Kariaeva, Anubha Kothari, Iris Oved, Matthew
+    Stone
+  bibkey: devault-etal-2005-information
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225754
+  month: June
+  page_first: '1'
+  page_last: '4'
+  pages: "1\u20134"
+  paper_id: '1'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3001.jpg
+  title: An Information-State Approach to Collaborative Reference
+  title_html: An Information-State Approach to Collaborative Reference
+  url: https://www.aclweb.org/anthology/P05-3001
+  year: '2005'
+P05-3002:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  - first: Hendrik
+    full: Hendrik Niederlich
+    id: hendrik-niederlich
+    last: Niederlich
+  author_string: Iryna Gurevych, Hendrik Niederlich
+  bibkey: gurevych-niederlich-2005-accessing
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225755
+  month: June
+  page_first: '5'
+  page_last: '8'
+  pages: "5\u20138"
+  paper_id: '2'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3002.jpg
+  title: Accessing GermaNet Data and Computing Semantic Relatedness
+  title_html: Accessing <span class="acl-fixed-case">G</span>erma<span class="acl-fixed-case">N</span>et
+    Data and Computing Semantic Relatedness
+  url: https://www.aclweb.org/anthology/P05-3002
+  year: '2005'
+P05-3003:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Alexander
+    full: Alexander Koller
+    id: alexander-koller
+    last: Koller
+  - first: Stefan
+    full: Stefan Thater
+    id: stefan-thater
+    last: Thater
+  author_string: Alexander Koller, Stefan Thater
+  bibkey: koller-thater-2005-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225756
+  month: June
+  page_first: '9'
+  page_last: '12'
+  pages: "9\u201312"
+  paper_id: '3'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3003.jpg
+  title: Efficient Solving and Exploration of Scope Ambiguities
+  title_html: Efficient Solving and Exploration of Scope Ambiguities
+  url: https://www.aclweb.org/anthology/P05-3003
+  year: '2005'
+P05-3004:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Kenneth C.
+    full: Kenneth C. Litkowski
+    id: kenneth-c-litkowski
+    last: Litkowski
+  author_string: Kenneth C. Litkowski
+  bibkey: litkowski-2005-cl
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225757
+  month: June
+  page_first: '13'
+  page_last: '16'
+  pages: "13\u201316"
+  paper_id: '4'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3004.jpg
+  title: "CL Research\u2019s Knowledge Management System"
+  title_html: "<span class=\"acl-fixed-case\">CL</span> Research\u2019s Knowledge\
+    \ Management System"
+  url: https://www.aclweb.org/anthology/P05-3004
+  year: '2005'
+P05-3005:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hongfang
+    full: Hongfang Liu
+    id: hongfang-liu
+    last: Liu
+  - first: Zhangzhi
+    full: Zhangzhi Hu
+    id: zhangzhi-hu
+    last: Hu
+  - first: Cathy
+    full: Cathy Wu
+    id: cathy-wu
+    last: Wu
+  author_string: Hongfang Liu, Zhangzhi Hu, Cathy Wu
+  bibkey: liu-etal-2005-dynamically
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225758
+  month: June
+  page_first: '17'
+  page_last: '20'
+  pages: "17\u201320"
+  paper_id: '5'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3005.jpg
+  title: Dynamically Generating a Protein Entity Dictionary Using Online Resources
+  title_html: Dynamically Generating a Protein Entity Dictionary Using Online Resources
+  url: https://www.aclweb.org/anthology/P05-3005
+  year: '2005'
+P05-3006:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hyo-Jung O.
+    full: Hyo-Jung O. Lee
+    id: hyo-jung-o-lee
+    last: Lee
+  - first: Hyeon-Jin
+    full: Hyeon-Jin Kim
+    id: hyeon-jin-kim
+    last: Kim
+  - first: Myung-Gil
+    full: Myung-Gil Jang
+    id: myung-gil-jang
+    last: Jang
+  author_string: Hyo-Jung O. Lee, Hyeon-Jin Kim, Myung-Gil Jang
+  bibkey: lee-etal-2005-descriptive
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225759
+  month: June
+  page_first: '21'
+  page_last: '24'
+  pages: "21\u201324"
+  paper_id: '6'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3006.jpg
+  title: Descriptive Question Answering in Encyclopedia
+  title_html: Descriptive Question Answering in Encyclopedia
+  url: https://www.aclweb.org/anthology/P05-3006
+  year: '2005'
+P05-3007:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Serguei
+    full: Serguei Pakhomov
+    id: serguei-pakhomov
+    last: Pakhomov
+  - first: James
+    full: James Buntrock
+    id: james-buntrock
+    last: Buntrock
+  - first: Patrick
+    full: Patrick Duffy
+    id: patrick-duffy
+    last: Duffy
+  author_string: Serguei Pakhomov, James Buntrock, Patrick Duffy
+  bibkey: pakhomov-etal-2005-high
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225760
+  month: June
+  page_first: '25'
+  page_last: '28'
+  pages: "25\u201328"
+  paper_id: '7'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3007.jpg
+  title: High Throughput Modularized NLP System for Clinical Text
+  title_html: High Throughput Modularized <span class="acl-fixed-case">NLP</span>
+    System for Clinical Text
+  url: https://www.aclweb.org/anthology/P05-3007
+  year: '2005'
+P05-3008:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Manny
+    full: Manny Rayner
+    id: manny-rayner
+    last: Rayner
+  - first: Beth A.
+    full: Beth A. Hockey
+    id: beth-ann-hockey
+    last: Hockey
+  - first: Nikos
+    full: Nikos Chatzichrisafis
+    id: nikos-chatzichrisafis
+    last: Chatzichrisafis
+  - first: Kim
+    full: Kim Farrell
+    id: kim-farrell
+    last: Farrell
+  - first: Jean-Michel
+    full: Jean-Michel Renders
+    id: jean-michel-renders
+    last: Renders
+  author_string: Manny Rayner, Beth A. Hockey, Nikos Chatzichrisafis, Kim Farrell,
+    Jean-Michel Renders
+  bibkey: rayner-etal-2005-voice
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225761
+  month: June
+  page_first: '29'
+  page_last: '32'
+  pages: "29\u201332"
+  paper_id: '8'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3008.jpg
+  title: A Voice Enabled Procedure Browser for the International Space Station
+  title_html: A Voice Enabled Procedure Browser for the International Space Station
+  url: https://www.aclweb.org/anthology/P05-3008
+  year: '2005'
+P05-3009:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Aaron
+    full: Aaron Elkiss
+    id: aaron-elkiss
+    last: Elkiss
+  author_string: Philip Resnik, Aaron Elkiss
+  bibkey: resnik-elkiss-2005-linguists
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225762
+  month: June
+  page_first: '33'
+  page_last: '36'
+  pages: "33\u201336"
+  paper_id: '9'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3009.jpg
+  title: "The Linguist\u2019s Search Engine: An Overview"
+  title_html: "The <span class=\"acl-fixed-case\">L</span>inguist\u2019s <span class=\"\
+    acl-fixed-case\">S</span>earch <span class=\"acl-fixed-case\">E</span>ngine: An\
+    \ Overview"
+  url: https://www.aclweb.org/anthology/P05-3009
+  year: '2005'
+P05-3010:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Jian-Cheng
+    full: Jian-Cheng Wu
+    id: jian-cheng-wu
+    last: Wu
+  - first: Tracy
+    full: Tracy Lin
+    id: tracy-lin
+    last: Lin
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Jian-Cheng Wu, Tracy Lin, Jason S. Chang
+  bibkey: wu-etal-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225763
+  month: June
+  page_first: '37'
+  page_last: '40'
+  pages: "37\u201340"
+  paper_id: '10'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3010.jpg
+  title: Learning Source-Target Surface Patterns for Web-based Terminology Translation
+  title_html: Learning Source-Target Surface Patterns for Web-based Terminology Translation
+  url: https://www.aclweb.org/anthology/P05-3010
+  year: '2005'
+P05-3011:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ciprian
+    full: Ciprian Chelba
+    id: ciprian-chelba
+    last: Chelba
+  - first: Alex
+    full: Alex Acero
+    id: alex-acero
+    last: Acero
+  author_string: Ciprian Chelba, Alex Acero
+  bibkey: chelba-acero-2005-speech
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225764
+  month: June
+  page_first: '41'
+  page_last: '44'
+  pages: "41\u201344"
+  paper_id: '11'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3011.jpg
+  title: 'SPEECH OGLE: Indexing Uncertainty for Spoken Document Search'
+  title_html: '<span class="acl-fixed-case">SPEECH</span> <span class="acl-fixed-case">OGLE</span>:
+    Indexing Uncertainty for Spoken Document Search'
+  url: https://www.aclweb.org/anthology/P05-3011
+  year: '2005'
+P05-3012:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Mary E.
+    full: Mary E. Foster
+    id: mary-ellen-foster
+    last: Foster
+  - first: Michael
+    full: Michael White
+    id: michael-white
+    last: White
+  - first: Andrea
+    full: Andrea Setzer
+    id: andrea-setzer
+    last: Setzer
+  - first: Roberta
+    full: Roberta Catizone
+    id: roberta-catizone
+    last: Catizone
+  author_string: Mary E. Foster, Michael White, Andrea Setzer, Roberta Catizone
+  bibkey: foster-etal-2005-multimodal
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225765
+  month: June
+  page_first: '45'
+  page_last: '48'
+  pages: "45\u201348"
+  paper_id: '12'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3012.jpg
+  title: Multimodal Generation in the COMIC Dialogue System
+  title_html: Multimodal Generation in the <span class="acl-fixed-case">COMIC</span>
+    Dialogue System
+  url: https://www.aclweb.org/anthology/P05-3012
+  year: '2005'
+P05-3013:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Rada Mihalcea
+  bibkey: mihalcea-2005-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225766
+  month: June
+  page_first: '49'
+  page_last: '52'
+  pages: "49\u201352"
+  paper_id: '13'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3013.jpg
+  title: Language Independent Extractive Summarization
+  title_html: Language Independent Extractive Summarization
+  url: https://www.aclweb.org/anthology/P05-3013
+  year: '2005'
+P05-3014:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Andras
+    full: Andras Csomai
+    id: andras-csomai
+    last: Csomai
+  author_string: Rada Mihalcea, Andras Csomai
+  bibkey: mihalcea-csomai-2005-senselearner
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225767
+  month: June
+  page_first: '53'
+  page_last: '56'
+  pages: "53\u201356"
+  paper_id: '14'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3014.jpg
+  title: 'SenseLearner: Word Sense Disambiguation for All Words in Unrestricted Text'
+  title_html: '<span class="acl-fixed-case">S</span>ense<span class="acl-fixed-case">L</span>earner:
+    Word Sense Disambiguation for All Words in Unrestricted Text'
+  url: https://www.aclweb.org/anthology/P05-3014
+  year: '2005'
+P05-3015:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Behrang
+    full: Behrang Mohit
+    id: behrang-mohit
+    last: Mohit
+  - first: Rebecca
+    full: Rebecca Hwa
+    id: rebecca-hwa
+    last: Hwa
+  author_string: Behrang Mohit, Rebecca Hwa
+  bibkey: mohit-hwa-2005-syntax
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225768
+  month: June
+  page_first: '57'
+  page_last: '60'
+  pages: "57\u201360"
+  paper_id: '15'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3015.jpg
+  title: Syntax-based Semi-Supervised Named Entity Tagging
+  title_html: Syntax-based Semi-Supervised Named Entity Tagging
+  url: https://www.aclweb.org/anthology/P05-3015
+  year: '2005'
+P05-3016:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Hideharu
+    full: Hideharu Nakajima
+    id: hideharu-nakajima
+    last: Nakajima
+  - first: Yoshihiro
+    full: Yoshihiro Matsuo
+    id: yoshihiro-matsuo
+    last: Matsuo
+  - first: Masaaki
+    full: Masaaki Nagata
+    id: masaaki-nagata
+    last: Nagata
+  - first: Kuniko
+    full: Kuniko Saito
+    id: kuniko-saito
+    last: Saito
+  author_string: Hideharu Nakajima, Yoshihiro Matsuo, Masaaki Nagata, Kuniko Saito
+  bibkey: nakajima-etal-2005-portable
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225769
+  month: June
+  page_first: '61'
+  page_last: '64'
+  pages: "61\u201364"
+  paper_id: '16'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3016.jpg
+  title: Portable Translator Capable of Recognizing Characters on Signboard and Menu
+    Captured by its Built-in Camera
+  title_html: Portable Translator Capable of Recognizing Characters on Signboard and
+    Menu Captured by its Built-in Camera
+  url: https://www.aclweb.org/anthology/P05-3016
+  year: '2005'
+P05-3017:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Ariel
+    full: Ariel Schwartz
+    id: ariel-schwartz
+    last: Schwartz
+  - first: Brian
+    full: Brian Wolf
+    id: brian-wolf
+    last: Wolf
+  - first: Marti
+    full: Marti Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Preslav Nakov, Ariel Schwartz, Brian Wolf, Marti Hearst
+  bibkey: nakov-etal-2005-supporting
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225770
+  month: June
+  page_first: '65'
+  page_last: '68'
+  pages: "65\u201368"
+  paper_id: '17'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3017.jpg
+  title: Supporting Annotation Layers for Natural Language Processing
+  title_html: Supporting Annotation Layers for Natural Language Processing
+  url: https://www.aclweb.org/anthology/P05-3017
+  year: '2005'
+P05-3018:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Carol
+    full: Carol Nichols
+    id: carol-nichols
+    last: Nichols
+  - first: Rebecca
+    full: Rebecca Hwa
+    id: rebecca-hwa
+    last: Hwa
+  author_string: Carol Nichols, Rebecca Hwa
+  bibkey: nichols-hwa-2005-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225771
+  month: June
+  page_first: '69'
+  page_last: '72'
+  pages: "69\u201372"
+  paper_id: '18'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3018.jpg
+  title: Word Alignment and Cross-Lingual Resource Acquisition
+  title_html: Word Alignment and Cross-Lingual Resource Acquisition
+  url: https://www.aclweb.org/anthology/P05-3018
+  year: '2005'
+P05-3019:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  - first: Satanjeev
+    full: Satanjeev Banerjee
+    id: satanjeev-banerjee
+    last: Banerjee
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Siddharth Patwardhan, Satanjeev Banerjee, Ted Pedersen
+  bibkey: patwardhan-etal-2005-senserelate
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225772
+  month: June
+  page_first: '73'
+  page_last: '76'
+  pages: "73\u201376"
+  paper_id: '19'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3019.jpg
+  title: "SenseRelate::TargetWord\u2014A Generalized Framework for Word Sense Disambiguation"
+  title_html: "<span class=\"acl-fixed-case\">S</span>ense<span class=\"acl-fixed-case\"\
+    >R</span>elate::<span class=\"acl-fixed-case\">T</span>arget<span class=\"acl-fixed-case\"\
+    >W</span>ord\u2014A Generalized Framework for Word Sense Disambiguation"
+  url: https://www.aclweb.org/anthology/P05-3019
+  year: '2005'
+P05-3020:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Reinhard
+    full: Reinhard Rapp
+    id: reinhard-rapp
+    last: Rapp
+  author_string: Reinhard Rapp
+  bibkey: rapp-2005-practical
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225773
+  month: June
+  page_first: '77'
+  page_last: '80'
+  pages: "77\u201380"
+  paper_id: '20'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3020.jpg
+  title: A Practical Solution to the Problem of Automatic Part-of-Speech Induction
+    from Text
+  title_html: A Practical Solution to the Problem of Automatic Part-of-Speech Induction
+    from Text
+  url: https://www.aclweb.org/anthology/P05-3020
+  year: '2005'
+P05-3021:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Marc
+    full: Marc Verhagen
+    id: marc-verhagen
+    last: Verhagen
+  - first: Inderjeet
+    full: Inderjeet Mani
+    id: inderjeet-mani
+    last: Mani
+  - first: Roser
+    full: Roser Sauri
+    id: roser-sauri
+    last: Sauri
+  - first: Jessica
+    full: Jessica Littman
+    id: jessica-littman
+    last: Littman
+  - first: Robert
+    full: Robert Knippen
+    id: robert-knippen
+    last: Knippen
+  - first: Seok B.
+    full: Seok B. Jang
+    id: seok-bae-jang
+    last: Jang
+  - first: Anna
+    full: Anna Rumshisky
+    id: anna-rumshisky
+    last: Rumshisky
+  - first: John
+    full: John Phillips
+    id: jon-phillips
+    last: Phillips
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: Marc Verhagen, Inderjeet Mani, Roser Sauri, Jessica Littman, Robert
+    Knippen, Seok B. Jang, Anna Rumshisky, John Phillips, James Pustejovsky
+  bibkey: verhagen-etal-2005-automating
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225774
+  month: June
+  page_first: '81'
+  page_last: '84'
+  pages: "81\u201384"
+  paper_id: '21'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3021.jpg
+  title: Automating Temporal Annotation with TARSQI
+  title_html: Automating Temporal Annotation with <span class="acl-fixed-case">TARSQI</span>
+  url: https://www.aclweb.org/anthology/P05-3021
+  year: '2005'
+P05-3022:
+  address: Ann Arbor, Michigan
+  author:
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  - first: George
+    full: George Ferguson
+    id: george-ferguson
+    last: Ferguson
+  - first: Amanda
+    full: Amanda Stent
+    id: amanda-stent
+    last: Stent
+  - first: Scott
+    full: Scott Stoness
+    id: scott-c-stoness
+    last: Stoness
+  - first: Mary
+    full: Mary Swift
+    id: mary-swift
+    last: Swift
+  - first: Lucian
+    full: Lucian Galescu
+    id: lucian-galescu
+    last: Galescu
+  - first: Nathan
+    full: Nathan Chambers
+    id: nathanael-chambers
+    last: Chambers
+  - first: Ellen
+    full: Ellen Campana
+    id: ellen-campana
+    last: Campana
+  - first: Gregory
+    full: Gregory Aist
+    id: gregory-aist
+    last: Aist
+  author_string: James Allen, George Ferguson, Amanda Stent, Scott Stoness, Mary Swift,
+    Lucian Galescu, Nathan Chambers, Ellen Campana, Gregory Aist
+  bibkey: allen-etal-2005-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225775
+  month: June
+  page_first: '85'
+  page_last: '88'
+  pages: "85\u201388"
+  paper_id: '22'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3022.jpg
+  title: Two Diverse Systems Built using Generic Components for Spoken Dialogue (Recent
+    Progress on TRIPS)
+  title_html: Two Diverse Systems Built using Generic Components for Spoken Dialogue
+    (Recent Progress on <span class="acl-fixed-case">TRIPS</span>)
+  url: https://www.aclweb.org/anthology/P05-3022
+  year: '2005'
+P05-3023:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Robert
+    full: Robert Belvin
+    id: robert-s-belvin
+    last: Belvin
+  - first: Emil
+    full: Emil Ettelaie
+    id: emil-ettelaie
+    last: Ettelaie
+  - first: Sudeep
+    full: Sudeep Gandhe
+    id: sudeep-gandhe
+    last: Gandhe
+  - first: Panayiotis
+    full: Panayiotis Georgiou
+    id: panayiotis-georgiou
+    last: Georgiou
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  - first: Scott
+    full: Scott Millward
+    id: scott-millward
+    last: Millward
+  - first: Shrikanth
+    full: Shrikanth Narayanan
+    id: shrikanth-narayanan
+    last: Narayanan
+  - first: Howard
+    full: Howard Neely
+    id: howard-neely
+    last: Neely
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  author_string: Robert Belvin, Emil Ettelaie, Sudeep Gandhe, Panayiotis Georgiou,
+    Kevin Knight, Daniel Marcu, Scott Millward, Shrikanth Narayanan, Howard Neely,
+    David Traum
+  bibkey: belvin-etal-2005-transonics
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225776
+  month: June
+  page_first: '89'
+  page_last: '92'
+  pages: "89\u201392"
+  paper_id: '23'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3023.jpg
+  title: 'Transonics: A Practical Speech-to-Speech Translator for English-Farsi Medical
+    Dialogs'
+  title_html: '<span class="acl-fixed-case">T</span>ransonics: A Practical Speech-to-Speech
+    Translator for <span class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">F</span>arsi
+    Medical Dialogs'
+  url: https://www.aclweb.org/anthology/P05-3023
+  year: '2005'
+P05-3024:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Ken
+    full: Ken Church
+    id: kenneth-church
+    last: Church
+  - first: Bo
+    full: Bo Thiesson
+    id: bo-thiesson
+    last: Thiesson
+  author_string: Ken Church, Bo Thiesson
+  bibkey: church-thiesson-2005-wild
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225777
+  month: June
+  page_first: '93'
+  page_last: '96'
+  pages: "93\u201396"
+  paper_id: '24'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3024.jpg
+  title: The Wild Thing
+  title_html: The Wild Thing
+  url: https://www.aclweb.org/anthology/P05-3024
+  year: '2005'
+P05-3025:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Steve
+    full: Steve DeNeefe
+    id: steve-deneefe
+    last: DeNeefe
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Hayward H.
+    full: Hayward H. Chan
+    id: hayward-h-chan
+    last: Chan
+  author_string: Steve DeNeefe, Kevin Knight, Hayward H. Chan
+  bibkey: deneefe-etal-2005-interactively
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225778
+  month: June
+  page_first: '97'
+  page_last: '100'
+  pages: "97\u2013100"
+  paper_id: '25'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3025.jpg
+  title: Interactively Exploring a Machine Translation Model
+  title_html: Interactively Exploring a Machine Translation Model
+  url: https://www.aclweb.org/anthology/P05-3025
+  year: '2005'
+P05-3026:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Shyamsundar
+    full: Shyamsundar Jayaraman
+    id: shyamsundar-jayaraman
+    last: Jayaraman
+  - first: Alon
+    full: Alon Lavie
+    id: alon-lavie
+    last: Lavie
+  author_string: Shyamsundar Jayaraman, Alon Lavie
+  bibkey: jayaraman-lavie-2005-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225779
+  month: June
+  page_first: '101'
+  page_last: '104'
+  pages: "101\u2013104"
+  paper_id: '26'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3026.jpg
+  title: Multi-Engine Machine Translation Guided by Explicit Word Matching
+  title_html: Multi-Engine Machine Translation Guided by Explicit Word Matching
+  url: https://www.aclweb.org/anthology/P05-3026
+  year: '2005'
+P05-3027:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Anagha
+    full: Anagha Kulkarni
+    id: anagha-kulkarni
+    last: Kulkarni
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Anagha Kulkarni, Ted Pedersen
+  bibkey: kulkarni-pedersen-2005-senseclusters
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225780
+  month: June
+  page_first: '105'
+  page_last: '108'
+  pages: "105\u2013108"
+  paper_id: '27'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3027.jpg
+  title: 'SenseClusters: Unsupervised Clustering and Labeling of Similar Contexts'
+  title_html: '<span class="acl-fixed-case">S</span>ense<span class="acl-fixed-case">C</span>lusters:
+    Unsupervised Clustering and Labeling of Similar Contexts'
+  url: https://www.aclweb.org/anthology/P05-3027
+  year: '2005'
+P05-3028:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Christoph
+    full: Christoph Mueller
+    id: christoph-muller
+    last: Mueller
+  author_string: Christoph Mueller
+  bibkey: mueller-2005-flexible
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225781
+  month: June
+  page_first: '109'
+  page_last: '112'
+  pages: "109\u2013112"
+  paper_id: '28'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3028.jpg
+  title: A Flexible Stand-Off Data Model with Query Language for Multi-Level Annotation
+  title_html: A Flexible Stand-Off Data Model with Query Language for Multi-Level
+    Annotation
+  url: https://www.aclweb.org/anthology/P05-3028
+  year: '2005'
+P05-3029:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Oliviero
+    full: Oliviero Stock
+    id: oliviero-stock
+    last: Stock
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Oliviero Stock, Carlo Strapparava
+  bibkey: stock-strapparava-2005-hahacronym
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225782
+  month: June
+  page_first: '113'
+  page_last: '116'
+  pages: "113\u2013116"
+  paper_id: '29'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3029.jpg
+  title: 'HAHAcronym: A Computational Humor System'
+  title_html: '<span class="acl-fixed-case">HAHA</span>cronym: A Computational Humor
+    System'
+  url: https://www.aclweb.org/anthology/P05-3029
+  year: '2005'
+P05-3030:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Masao
+    full: Masao Utiyama
+    id: masao-utiyama
+    last: Utiyama
+  - first: Midori
+    full: Midori Tanimura
+    id: midori-tanimura
+    last: Tanimura
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Masao Utiyama, Midori Tanimura, Hitoshi Isahara
+  bibkey: utiyama-etal-2005-organizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225783
+  month: June
+  page_first: '117'
+  page_last: '120'
+  pages: "117\u2013120"
+  paper_id: '30'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3030.jpg
+  title: Organizing English Reading Materials for Vocabulary Learning
+  title_html: Organizing <span class="acl-fixed-case">E</span>nglish Reading Materials
+    for Vocabulary Learning
+  url: https://www.aclweb.org/anthology/P05-3030
+  year: '2005'
+P05-3031:
+  address: Ann Arbor, Michigan
+  author:
+  - first: Minoru
+    full: Minoru Yoshida
+    id: minoru-yoshida
+    last: Yoshida
+  - first: Hiroshi
+    full: Hiroshi Nakagawa
+    id: hiroshi-nakagawa
+    last: Nakagawa
+  author_string: Minoru Yoshida, Hiroshi Nakagawa
+  bibkey: yoshida-nakagawa-2005-reformatting
+  bibtype: inproceedings
+  booktitle: Proceedings of the ACL Interactive Poster and Demonstration Sessions
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ACL</span> Interactive
+    Poster and Demonstration Sessions
+  doi: 10.3115/1225753.1225784
+  month: June
+  page_first: '121'
+  page_last: '124'
+  pages: "121\u2013124"
+  paper_id: '31'
+  parent_volume_id: P05-3
+  pdf: https://www.aclweb.org/anthology/P05-3031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P05-3031.jpg
+  title: Reformatting Web Documents via Header Trees
+  title_html: Reformatting Web Documents via Header Trees
+  url: https://www.aclweb.org/anthology/P05-3031
+  year: '2005'

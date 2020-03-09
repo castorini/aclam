@@ -1,0 +1,4995 @@
+C90-1000:
+  bibkey: coling-1990-coling
+  bibtype: proceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  paper_id: '0'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1000.jpg
+  title: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  title_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers presented
+    to the 13th International Conference on Computational Linguistics'
+  url: https://www.aclweb.org/anthology/C90-1000
+  year: '1990'
+C90-1001:
+  bibkey: nn-1990-preface
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '1'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1001.jpg
+  title: PREFACE
+  title_html: PREFACE
+  url: https://www.aclweb.org/anthology/C90-1001
+  year: '1990'
+C90-1002:
+  author:
+  - first: Kanaan A.
+    full: Kanaan A. Faisal
+    id: kanaan-a-faisal
+    last: Faisal
+  - first: Stan C.
+    full: Stan C. Kwasny
+    id: stan-c-kwasny
+    last: Kwasny
+  author_string: Kanaan A. Faisal, Stan C. Kwasny
+  bibkey: faisal-kwasny-1990-design
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '2'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1002.jpg
+  title: Design of a Hybrid Deterministic Parser
+  title_html: Design of a Hybrid Deterministic Parser
+  url: https://www.aclweb.org/anthology/C90-1002
+  year: '1990'
+C90-1003:
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Martin
+    full: Martin Kay
+    id: martin-kay
+    last: Kay
+  author_string: Mark Johnson, Martin Kay
+  bibkey: johnson-kay-1990-semantic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '3'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1003.jpg
+  title: Semantic Abstraction and Anaphora
+  title_html: Semantic Abstraction and Anaphora
+  url: https://www.aclweb.org/anthology/C90-1003
+  year: '1990'
+C90-1004:
+  author:
+  - first: Monique
+    full: Monique Rolbert
+    id: monique-rolbert
+    last: Rolbert
+  author_string: Monique Rolbert
+  bibkey: rolbert-1990-des
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '4'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1004.jpg
+  title: "Des Heuristiques Pour La Recherche Du Theme D\u2019un Discours Et De L\u2019\
+    antecedent D\u2019un Pronom"
+  title_html: "Des Heuristiques Pour La Recherche Du Theme D\u2019un Discours Et De\
+    \ L\u2019antecedent D\u2019un Pronom"
+  url: https://www.aclweb.org/anthology/C90-1004
+  year: '1990'
+C90-1005:
+  author:
+  - first: Uri
+    full: Uri Zernik
+    id: uri-zernik
+    last: Zernik
+  - first: Paul
+    full: Paul Jacobs
+    id: paul-s-jacobs
+    last: Jacobs
+  author_string: Uri Zernik, Paul Jacobs
+  bibkey: zernik-jacobs-1990-tagging
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '5'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1005.jpg
+  title: 'Tagging for Learning: Collecting Thematic Relations from Corpus'
+  title_html: 'Tagging for Learning: Collecting Thematic Relations from Corpus'
+  url: https://www.aclweb.org/anthology/C90-1005
+  year: '1990'
+C90-1006:
+  author:
+  - first: Didier
+    full: Didier Bronisz
+    id: didier-bronisz
+    last: Bronisz
+  - first: Thomas
+    full: Thomas Grossi
+    id: thomas-grossi
+    last: Grossi
+  - first: Francois
+    full: Francois Jean-Marie
+    id: francois-jean-marie
+    last: Jean-Marie
+  author_string: Didier Bronisz, Thomas Grossi, Francois Jean-Marie
+  bibkey: bronisz-etal-1990-advice
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '6'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1006.jpg
+  title: "Advice-Giving Dialogue\u201D An Integrated System"
+  title_html: "Advice-Giving Dialogue\u201D An Integrated System"
+  url: https://www.aclweb.org/anthology/C90-1006
+  year: '1990'
+C90-1007:
+  author:
+  - first: K.
+    full: K. Fabricz
+    id: karoly-fabricz
+    last: Fabricz
+  - first: Z.
+    full: Z. Alexin
+    id: zoltan-alexin
+    last: Alexin
+  - first: T.
+    full: T. Gyimothy
+    id: tibor-gyimothy
+    last: Gyimothy
+  - first: T.
+    full: T. Horvath
+    id: tamas-horvath
+    last: Horvath
+  author_string: K. Fabricz, Z. Alexin, T. Gyimothy, T. Horvath
+  bibkey: fabricz-etal-1990-thales
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '7'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1007.jpg
+  title: 'THALES: a Software Package for Plane Geometry Constructions with a Natural
+    Language Interface'
+  title_html: '<span class="acl-fixed-case">THALES</span>: a Software Package for
+    Plane Geometry Constructions with a Natural Language Interface'
+  url: https://www.aclweb.org/anthology/C90-1007
+  year: '1990'
+C90-1008:
+  author:
+  - first: Robin P.
+    full: Robin P. Fawcett
+    id: robin-p-fawcett
+    last: Fawcett
+  - first: Gordon H.
+    full: Gordon H. Tucker
+    id: gordon-h-tucker
+    last: Tucker
+  author_string: Robin P. Fawcett, Gordon H. Tucker
+  bibkey: fawcett-tucker-1990-demonstration
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '8'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1008.jpg
+  title: 'Demonstration of Genesys: A Very Large, Semantically Based Systemic Functional
+    Generator'
+  title_html: 'Demonstration of Genesys: A Very Large, Semantically Based Systemic
+    Functional Generator'
+  url: https://www.aclweb.org/anthology/C90-1008
+  year: '1990'
+C90-1009:
+  author:
+  - first: J.
+    full: J. Jelinek
+    id: j-jelinek
+    last: Jelinek
+  - first: G.
+    full: G. Wilcock
+    id: graham-wilcock
+    last: Wilcock
+  - first: O.
+    full: O. Nishida
+    id: o-nishida
+    last: Nishida
+  - first: T.
+    full: T. Yoshimi
+    id: takehiko-yoshimi
+    last: Yoshimi
+  - first: M. J. W.
+    full: M. J. W. Bos
+    id: m-j-w-bos
+    last: Bos
+  - first: N.
+    full: N. Tamura
+    id: noriyuki-tamura
+    last: Tamura
+  - first: H.
+    full: H. Murakami
+    id: h-murakami
+    last: Murakami
+  author_string: J. Jelinek, G. Wilcock, O. Nishida, T. Yoshimi, M. J. W. Bos, N.
+    Tamura, H. Murakami
+  bibkey: jelinek-etal-1990-japanese
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '9'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1009.jpg
+  title: Japanese-to-English Project PROTRAN & TWINTRAN
+  title_html: <span class="acl-fixed-case">J</span>apanese-to-<span class="acl-fixed-case">E</span>nglish
+    Project <span class="acl-fixed-case">PROTRAN</span> &amp; <span class="acl-fixed-case">TWINTRAN</span>
+  url: https://www.aclweb.org/anthology/C90-1009
+  year: '1990'
+C90-1010:
+  author:
+  - first: Helmut
+    full: Helmut Schnelle
+    id: helmut-schnelle
+    last: Schnelle
+  - first: Rolf
+    full: Rolf Wilkens
+    id: rolf-wilkens
+    last: Wilkens
+  author_string: Helmut Schnelle, Rolf Wilkens
+  bibkey: schnelle-wilkens-1990-translation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '10'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1010.jpg
+  title: The translation of constitutent structure grammars into connectionist networks
+  title_html: The translation of constitutent structure grammars into connectionist
+    networks
+  url: https://www.aclweb.org/anthology/C90-1010
+  year: '1990'
+C90-1011:
+  author:
+  - first: Douglas
+    full: Douglas Skuce
+    id: douglas-skuce
+    last: Skuce
+  - first: Ingrid
+    full: Ingrid Meyer
+    id: ingrid-meyer
+    last: Meyer
+  author_string: Douglas Skuce, Ingrid Meyer
+  bibkey: skuce-meyer-1990-concept
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '11'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1011.jpg
+  title: 'Concept Analysis and Terminology: A Knowledge-Based Approach to Documentation'
+  title_html: 'Concept Analysis and Terminology: A Knowledge-Based Approach to Documentation'
+  url: https://www.aclweb.org/anthology/C90-1011
+  year: '1990'
+C90-1012:
+  author:
+  - first: Masaru
+    full: Masaru Tomita
+    id: masaru-tomita
+    last: Tomita
+  author_string: Masaru Tomita
+  bibkey: tomita-1990-generalized
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '12'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1012.jpg
+  title: 'The Generalized LR Parser/Compiler V8-4: A Software Package for Practical
+    NL Projects'
+  title_html: 'The Generalized <span class="acl-fixed-case">LR</span> Parser/Compiler
+    V8-4: A Software Package for Practical <span class="acl-fixed-case">NL</span>
+    Projects'
+  url: https://www.aclweb.org/anthology/C90-1012
+  year: '1990'
+C90-1013:
+  author:
+  - first: Yoshihiro
+    full: Yoshihiro Ueda
+    id: yoshihiro-ueda
+    last: Ueda
+  - first: Kiyoshi
+    full: Kiyoshi Kogure
+    id: kiyoshi-kogure
+    last: Kogure
+  author_string: Yoshihiro Ueda, Kiyoshi Kogure
+  bibkey: ueda-kogure-1990-generation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '13'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1013.jpg
+  title: Generation for Dialogue Translation Using Typed Feature Structure Unification
+  title_html: Generation for Dialogue Translation Using Typed Feature Structure Unification
+  url: https://www.aclweb.org/anthology/C90-1013
+  year: '1990'
+C90-1014:
+  author:
+  - first: Jose
+    full: Jose Vega
+    id: jose-vega
+    last: Vega
+  author_string: Jose Vega
+  bibkey: vega-1990-semantic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '14'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1014.jpg
+  title: Semantic Matching Between Job Offers and Job Search Requests
+  title_html: Semantic Matching Between Job Offers and Job Search Requests
+  url: https://www.aclweb.org/anthology/C90-1014
+  year: '1990'
+C90-1015:
+  author:
+  - first: Jacques
+    full: Jacques Vergne
+    id: jacques-vergne
+    last: Vergne
+  author_string: Jacques Vergne
+  bibkey: vergne-1990-parser
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '15'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1015.jpg
+  title: A parser without a dictionary as a tool for research into French syntax
+  title_html: A parser without a dictionary as a tool for research into <span class="acl-fixed-case">F</span>rench
+    syntax
+  url: https://www.aclweb.org/anthology/C90-1015
+  year: '1990'
+C90-1016:
+  author:
+  - first: Hajime
+    full: Hajime Wada
+    id: hajime-wada
+    last: Wada
+  author_string: Hajime Wada
+  bibkey: wada-1990-discourse
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '16'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1016.jpg
+  title: 'Discourse Processing in MT: Problems in Pronominal Translation'
+  title_html: 'Discourse Processing in <span class="acl-fixed-case">MT</span>: Problems
+    in Pronominal Translation'
+  url: https://www.aclweb.org/anthology/C90-1016
+  year: '1990'
+C90-1017:
+  author:
+  - first: Eric
+    full: Eric Wehrli
+    id: eric-wehrli
+    last: Wehrli
+  author_string: Eric Wehrli
+  bibkey: wehrli-1990-sts
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '17'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1017.jpg
+  title: 'STS: An Experimental Sentence Translation System'
+  title_html: '<span class="acl-fixed-case">STS</span>: An Experimental Sentence Translation
+    System'
+  url: https://www.aclweb.org/anthology/C90-1017
+  year: '1990'
+C90-1018:
+  author:
+  - first: Gunter
+    full: Gunter Winkelmann
+    id: gunter-winkelmann
+    last: Winkelmann
+  author_string: Gunter Winkelmann
+  bibkey: winkelmann-1990-semiautomatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '18'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1018.jpg
+  title: Semiautomatic Interactive Muitilingual Style Analysis (SIMSA)
+  title_html: Semiautomatic Interactive Muitilingual Style Analysis (<span class="acl-fixed-case">SIMSA</span>)
+  url: https://www.aclweb.org/anthology/C90-1018
+  year: '1990'
+C90-1019:
+  author:
+  - first: Pierre
+    full: Pierre Zweigenbaum
+    id: pierre-zweigenbaum
+    last: Zweigenbaum
+  - first: Marc
+    full: Marc Cavazza
+    id: marc-cavazza
+    last: Cavazza
+  author_string: Pierre Zweigenbaum, Marc Cavazza
+  bibkey: zweigenbaum-cavazza-1990-deep
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '19'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1019.jpg
+  title: Deep Sentence Understanding in a Restricted Domain
+  title_html: Deep Sentence Understanding in a Restricted Domain
+  url: https://www.aclweb.org/anthology/C90-1019
+  year: '1990'
+C90-1020:
+  author:
+  - first: L. G.
+    full: L. G. de Stadler
+    id: l-g-de-stadler
+    last: de Stadler
+  - first: M. W.
+    full: M. W. Coetzer
+    id: m-w-coetzer
+    last: Coetzer
+  author_string: L. G. de Stadler, M. W. Coetzer
+  bibkey: de-stadler-coetzer-1990-morphological
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '20'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1020.jpg
+  title: A Morphological Parser for Afrikaans
+  title_html: A Morphological Parser for <span class="acl-fixed-case">A</span>frikaans
+  url: https://www.aclweb.org/anthology/C90-1020
+  year: '1990'
+C90-1021:
+  author:
+  - first: L.
+    full: L. Bourbeau
+    id: laurent-bourbeau
+    last: Bourbeau
+  - first: D.
+    full: D. Carcagno
+    id: d-carcagno
+    last: Carcagno
+  - first: E.
+    full: E. Goldberg
+    id: eli-goldberg
+    last: Goldberg
+  author_string: L. Bourbeau, D. Carcagno, E. Goldberg
+  bibkey: bourbeau-etal-1990-bilingual
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '21'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1021.jpg
+  title: Bilingual Generation of Weather Forecasts in an Operations Environment
+  title_html: Bilingual Generation of Weather Forecasts in an Operations Environment
+  url: https://www.aclweb.org/anthology/C90-1021
+  year: '1990'
+C90-1022:
+  bibkey: nn-1990-electronic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '22'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1022.jpg
+  title: Electronic Colloquia
+  title_html: Electronic Colloquia
+  url: https://www.aclweb.org/anthology/C90-1022
+  year: '1990'
+C90-1023:
+  bibkey: nn-1990-unfinished
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '23'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1023.jpg
+  title: Unfinished Language
+  title_html: Unfinished Language
+  url: https://www.aclweb.org/anthology/C90-1023
+  year: '1990'
+C90-1024:
+  bibkey: nn-1990-homunculus
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '24'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1024.jpg
+  title: Homunculus Loquens
+  title_html: Homunculus Loquens
+  url: https://www.aclweb.org/anthology/C90-1024
+  year: '1990'
+C90-1025:
+  author:
+  - first: Hans
+    full: Hans Karlgren
+    id: hans-karlgren
+    last: Karlgren
+  author_string: Hans Karlgren
+  bibkey: karlgren-1990-coling
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '25'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1025.jpg
+  title: 'COLING 90: Computational Linguistics in 1990'
+  title_html: '<span class="acl-fixed-case">COLING</span> 90: Computational Linguistics
+    in 1990'
+  url: https://www.aclweb.org/anthology/C90-1025
+  year: '1990'
+C90-1026:
+  bibkey: nn-1990-coling
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '26'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1026.jpg
+  title: 'COLING 90: Contents in Volumes 1-3'
+  title_html: '<span class="acl-fixed-case">COLING</span> 90: Contents in Volumes
+    1-3'
+  url: https://www.aclweb.org/anthology/C90-1026
+  year: '1990'
+C90-1027:
+  bibkey: nn-1990-coling-90
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 1: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 1: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '27'
+  parent_volume_id: C90-1
+  pdf: https://www.aclweb.org/anthology/C90-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-1027.jpg
+  title: 'COLING 90: Subject Index'
+  title_html: '<span class="acl-fixed-case">COLING</span> 90: Subject Index'
+  url: https://www.aclweb.org/anthology/C90-1027
+  year: '1990'
+C90-2000:
+  bibkey: coling-1990-coling-1990
+  bibtype: proceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  paper_id: '0'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2000.jpg
+  title: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  title_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers presented
+    to the 13th International Conference on Computational Linguistics'
+  url: https://www.aclweb.org/anthology/C90-2000
+  year: '1990'
+C90-2001:
+  author:
+  - first: Lars
+    full: Lars Ahrenberg
+    id: lars-ahrenberg
+    last: Ahrenberg
+  author_string: Lars Ahrenberg
+  bibkey: ahrenberg-1990-grammar
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '1'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2001.jpg
+  title: A Grammar Combining Phrase Structure and Field Structure
+  title_html: A Grammar Combining Phrase Structure and Field Structure
+  url: https://www.aclweb.org/anthology/C90-2001
+  year: '1990'
+C90-2002:
+  author:
+  - first: Peter
+    full: Peter Anick
+    id: peter-anick
+    last: Anick
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: Peter Anick, James Pustejovsky
+  bibkey: anick-pustejovsky-1990-application
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '2'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2002.jpg
+  title: An Application of Lexical Semantics to Knowledge Acquisition from Corpora
+  title_html: An Application of Lexical Semantics to Knowledge Acquisition from Corpora
+  url: https://www.aclweb.org/anthology/C90-2002
+  year: '1990'
+C90-2003:
+  author:
+  - first: John A.
+    full: John A. Bateman
+    id: john-bateman
+    last: Bateman
+  author_string: John A. Bateman
+  bibkey: bateman-1990-finding
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '3'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2003.jpg
+  title: 'Finding Translation Equivalents: An Application of Grammatical Metaphor'
+  title_html: 'Finding Translation Equivalents: An Application of Grammatical Metaphor'
+  url: https://www.aclweb.org/anthology/C90-2003
+  year: '1990'
+C90-2004:
+  author:
+  - first: Philippe
+    full: Philippe Blache
+    id: philippe-blache
+    last: Blache
+  - first: Jean-Yves
+    full: Jean-Yves Morin
+    id: jean-yves-morin
+    last: Morin
+  author_string: Philippe Blache, Jean-Yves Morin
+  bibkey: blache-morin-1990-bottom
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '4'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2004.jpg
+  title: 'Bottom-Up Filtering: a Parsing Strategy for GPSG'
+  title_html: 'Bottom-Up Filtering: a Parsing Strategy for <span class="acl-fixed-case">GPSG</span>'
+  url: https://www.aclweb.org/anthology/C90-2004
+  year: '1990'
+C90-2005:
+  author:
+  - first: Russell
+    full: Russell Block
+    id: russell-block
+    last: Block
+  - first: Helmut
+    full: Helmut Horacek
+    id: helmut-horacek
+    last: Horacek
+  author_string: Russell Block, Helmut Horacek
+  bibkey: block-horacek-1990-generating
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '5'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2005.jpg
+  title: Generating Referring Expressions Using Multiple Knowledge Sources
+  title_html: Generating Referring Expressions Using Multiple Knowledge Sources
+  url: https://www.aclweb.org/anthology/C90-2005
+  year: '1990'
+C90-2006:
+  author:
+  - first: Christian
+    full: Christian Boitet
+    id: christian-boitet
+    last: Boitet
+  author_string: Christian Boitet
+  bibkey: boitet-1990-towards
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '6'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2006.jpg
+  title: 'Towards Personal MT: general design, dialogue structure, potential role
+    of speech'
+  title_html: 'Towards Personal <span class="acl-fixed-case">MT</span>: general design,
+    dialogue structure, potential role of speech'
+  url: https://www.aclweb.org/anthology/C90-2006
+  year: '1990'
+C90-2007:
+  author:
+  - first: Branimir
+    full: Branimir Boguraev
+    id: branimir-boguraev
+    last: Boguraev
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: Branimir Boguraev, James Pustejovsky
+  bibkey: boguraev-pustejovsky-1990-lexical
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '7'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2007.jpg
+  title: Lexical Ambiguity and The Role of Knowledge Representation in Lexicon Design
+  title_html: Lexical Ambiguity and The Role of Knowledge Representation in Lexicon
+    Design
+  url: https://www.aclweb.org/anthology/C90-2007
+  year: '1990'
+C90-2008:
+  author:
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  - first: Ann
+    full: Ann Copestake
+    id: ann-copestake
+    last: Copestake
+  - first: Bran
+    full: Bran Boguraev
+    id: branimir-boguraev
+    last: Boguraev
+  author_string: Ted Briscoe, Ann Copestake, Bran Boguraev
+  bibkey: briscoe-etal-1990-enjoy
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '8'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2008.jpg
+  title: 'Enjoy the Paper: Lexicology'
+  title_html: 'Enjoy the Paper: Lexicology'
+  url: https://www.aclweb.org/anthology/C90-2008
+  year: '1990'
+C90-2009:
+  author:
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Hsin-Hsi Chen
+  bibkey: chen-1990-logic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '9'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2009.jpg
+  title: A Logic-Based Government-Binding Parser for Mandarin Chinese
+  title_html: A Logic-Based Government-Binding Parser for <span class="acl-fixed-case">M</span>andarin
+    <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/C90-2009
+  year: '1990'
+C90-2010:
+  author:
+  - first: Keh-jiann
+    full: Keh-jiann Chen
+    id: keh-jiann-chen
+    last: Chen
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  author_string: Keh-jiann Chen, Chu-Ren Huang
+  bibkey: chen-huang-1990-information
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '10'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2010.jpg
+  title: Information-based Case Grammar
+  title_html: Information-based Case Grammar
+  url: https://www.aclweb.org/anthology/C90-2010
+  year: '1990'
+C90-2011:
+  author:
+  - first: Lee-Feng
+    full: Lee-Feng Chien
+    id: lee-feng-chien
+    last: Chien
+  - first: K. J.
+    full: K. J. Chen
+    id: keh-jiann-chen
+    last: Chen
+  - first: Lin-Shan
+    full: Lin-Shan Lee
+    id: lin-shan-lee
+    last: Lee
+  author_string: Lee-Feng Chien, K. J. Chen, Lin-Shan Lee
+  bibkey: chien-etal-1990-augmented
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '11'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2011.jpg
+  title: An Augmented Chart Data Structure with Efficient Word Lattice Parsing Scheme
+    In Speech Recognition Applications
+  title_html: An Augmented Chart Data Structure with Efficient Word Lattice Parsing
+    Scheme In Speech Recognition Applications
+  url: https://www.aclweb.org/anthology/C90-2011
+  year: '1990'
+C90-2012:
+  author:
+  - first: Ian
+    full: Ian Crookston
+    id: ian-crookston
+    last: Crookston
+  author_string: Ian Crookston
+  bibkey: crookston-1990-e
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '12'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2012.jpg
+  title: 'The E-Framework: Emerging Problems'
+  title_html: 'The E-Framework: Emerging Problems'
+  url: https://www.aclweb.org/anthology/C90-2012
+  year: '1990'
+C90-2013:
+  author:
+  - first: Mary
+    full: Mary Dalrymple
+    id: mary-dalrymple
+    last: Dalrymple
+  - first: John
+    full: John Maxwell
+    id: john-t-maxwell-iii
+    last: Maxwell
+  - first: Annie
+    full: Annie Zaenen
+    id: annie-zaenen
+    last: Zaenen
+  author_string: Mary Dalrymple, John Maxwell, Annie Zaenen
+  bibkey: dalrymple-etal-1990-modeling
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '13'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2013.jpg
+  title: Modeling syntactic constraints on anaphoric binding
+  title_html: Modeling syntactic constraints on anaphoric binding
+  url: https://www.aclweb.org/anthology/C90-2013
+  year: '1990'
+C90-2014:
+  author:
+  - first: Marc
+    full: Marc Domenig
+    id: marc-domenig
+    last: Domenig
+  author_string: Marc Domenig
+  bibkey: domenig-1990-lexeme
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '14'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2014.jpg
+  title: 'Lexeme-based Morphology: A Computationaily Expensive Approach Intended for
+    a Server-Architecture'
+  title_html: 'Lexeme-based Morphology: A Computationaily Expensive Approach Intended
+    for a Server-Architecture'
+  url: https://www.aclweb.org/anthology/C90-2014
+  year: '1990'
+C90-2015:
+  author:
+  - first: J. L.
+    full: J. L. Delin
+    id: j-l-delin
+    last: Delin
+  author_string: J. L. Delin
+  bibkey: delin-1990-multi
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '15'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2015.jpg
+  title: A Multi-Level Account of Cleft Constructions in Discourse
+  title_html: A Multi-Level Account of Cleft Constructions in Discourse
+  url: https://www.aclweb.org/anthology/C90-2015
+  year: '1990'
+C90-2016:
+  author:
+  - first: Georg
+    full: Georg Dorffner
+    id: georg-dorffner
+    last: Dorffner
+  - first: Ernst
+    full: Ernst Buchberger
+    id: ernst-buchberger
+    last: Buchberger
+  - first: Markus
+    full: Markus Kommenda
+    id: markus-kommenda
+    last: Kommenda
+  author_string: Georg Dorffner, Ernst Buchberger, Markus Kommenda
+  bibkey: dorffner-etal-1990-integrating
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '16'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2016.jpg
+  title: Integrating Stress and Intonation into a Concept-to-Speech System
+  title_html: Integrating Stress and Intonation into a Concept-to-Speech System
+  url: https://www.aclweb.org/anthology/C90-2016
+  year: '1990'
+C90-2017:
+  author:
+  - first: Joke
+    full: Joke Dorrepaal
+    id: joke-dorrepaal
+    last: Dorrepaal
+  author_string: Joke Dorrepaal
+  bibkey: dorrepaal-1990-discourse
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '17'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2017.jpg
+  title: Discourse Anaphora
+  title_html: Discourse Anaphora
+  url: https://www.aclweb.org/anthology/C90-2017
+  year: '1990'
+C90-2018:
+  author:
+  - first: Jochen
+    full: Jochen Dorre
+    id: jochen-dorre
+    last: Dorre
+  - first: Andreas
+    full: Andreas Eisele
+    id: andreas-eisele
+    last: Eisele
+  author_string: Jochen Dorre, Andreas Eisele
+  bibkey: dorre-eisele-1990-feature
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '18'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2018.jpg
+  title: Feature Logic with Disjunctive Unification
+  title_html: Feature Logic with Disjunctive Unification
+  url: https://www.aclweb.org/anthology/C90-2018
+  year: '1990'
+C90-2019:
+  author:
+  - first: Dominique
+    full: Dominique Estival
+    id: dominique-estival
+    last: Estival
+  author_string: Dominique Estival
+  bibkey: estival-1990-generating
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '19'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2019.jpg
+  title: Generating French with a Reversible Unification Grammar
+  title_html: Generating <span class="acl-fixed-case">F</span>rench with a Reversible
+    Unification Grammar
+  url: https://www.aclweb.org/anthology/C90-2019
+  year: '1990'
+C90-2020:
+  author:
+  - first: Jean
+    full: Jean Fargues
+    id: jean-fargues
+    last: Fargues
+  author_string: Jean Fargues
+  bibkey: fargues-1990-synthesizing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '20'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2020.jpg
+  title: Synthesizing a large concept hierarchy from French hyperonyms
+  title_html: Synthesizing a large concept hierarchy from <span class="acl-fixed-case">F</span>rench
+    hyperonyms
+  url: https://www.aclweb.org/anthology/C90-2020
+  year: '1990'
+C90-2021:
+  author:
+  - first: Zhiwei
+    full: Zhiwei Feng
+    id: zhiwei-feng
+    last: Feng
+  author_string: Zhiwei Feng
+  bibkey: feng-1990-complex
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '21'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2021.jpg
+  title: Complex Features in Description of Chinese Language
+  title_html: Complex Features in Description of <span class="acl-fixed-case">C</span>hinese
+    Language
+  url: https://www.aclweb.org/anthology/C90-2021
+  year: '1990'
+C90-2022:
+  author:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Agnes
+    full: Agnes Plainfosse
+    id: agnes-plainfosse
+    last: Plainfosse
+  author_string: Claire Gardent, Agnes Plainfosse
+  bibkey: gardent-plainfosse-1990-generating
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '22'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2022.jpg
+  title: Generating from a Deep Structure
+  title_html: Generating from a Deep Structure
+  url: https://www.aclweb.org/anthology/C90-2022
+  year: '1990'
+C90-2023:
+  author:
+  - first: Barbara
+    full: Barbara Gawronska-Werngren
+    id: barbara-gawronska
+    last: Gawronska-Werngren
+  author_string: Barbara Gawronska-Werngren
+  bibkey: gawronska-werngren-1990-translation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '23'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2023.jpg
+  title: "\u201CTranslation Great Problem\u201D - On the Problem of Inserting Articles\
+    \ When Translating From Russian Into Swedish"
+  title_html: "\u201CTranslation Great Problem\u201D - On the Problem of Inserting\
+    \ Articles When Translating From <span class=\"acl-fixed-case\">R</span>ussian\
+    \ Into <span class=\"acl-fixed-case\">S</span>wedish"
+  url: https://www.aclweb.org/anthology/C90-2023
+  year: '1990'
+C90-2024:
+  author:
+  - first: Damien
+    full: Damien Genthial
+    id: damien-genthial
+    last: Genthial
+  - first: Jacques
+    full: Jacques Courtin
+    id: jacques-courtin
+    last: Courtin
+  - first: Irene
+    full: Irene Kowarski
+    id: irene-kowarski
+    last: Kowarski
+  author_string: Damien Genthial, Jacques Courtin, Irene Kowarski
+  bibkey: genthial-etal-1990-contribution
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '24'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2024.jpg
+  title: Contribution of a Category Hierarchy to the Robustness of Syntactic Parsing
+  title_html: Contribution of a Category Hierarchy to the Robustness of Syntactic
+    Parsing
+  url: https://www.aclweb.org/anthology/C90-2024
+  year: '1990'
+C90-2025:
+  author:
+  - first: Dale
+    full: Dale Gerdemann
+    id: dale-gerdemann
+    last: Gerdemann
+  - first: Erhard W.
+    full: Erhard W. Hinrichs
+    id: erhard-hinrichs
+    last: Hinrichs
+  author_string: Dale Gerdemann, Erhard W. Hinrichs
+  bibkey: gerdemann-hinrichs-1990-functor
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '25'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2025.jpg
+  title: Functor-Driven Natural Language Generation with Categorial-Unification Grammars
+  title_html: Functor-Driven Natural Language Generation with Categorial-Unification
+    Grammars
+  url: https://www.aclweb.org/anthology/C90-2025
+  year: '1990'
+C90-2026:
+  author:
+  - first: Laurent
+    full: Laurent Devos
+    id: laurent-devos
+    last: Devos
+  - first: Michel
+    full: Michel Gilloux
+    id: michel-gilloux
+    last: Gilloux
+  author_string: Laurent Devos, Michel Gilloux
+  bibkey: devos-gilloux-1990-gpsg
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '26'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2026.jpg
+  title: GPSG Parsing, Bidirectional Charts, and Connection Graphs
+  title_html: <span class="acl-fixed-case">GPSG</span> Parsing, Bidirectional Charts,
+    and Connection Graphs
+  url: https://www.aclweb.org/anthology/C90-2026
+  year: '1990'
+C90-2027:
+  author:
+  - first: Sebastian
+    full: Sebastian Goeser
+    id: sebastian-goeser
+    last: Goeser
+  author_string: Sebastian Goeser
+  bibkey: goeser-1990-linguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '27'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2027.jpg
+  title: A Linguistic Theory of Robustness
+  title_html: A Linguistic Theory of Robustness
+  url: https://www.aclweb.org/anthology/C90-2027
+  year: '1990'
+C90-2028:
+  author:
+  - first: Pius
+    full: Pius ten Hacken
+    id: pius-ten-hacken
+    last: ten Hacken
+  author_string: Pius ten Hacken
+  bibkey: ten-hacken-1990-reading
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '28'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2028.jpg
+  title: Reading Distinction in MT
+  title_html: Reading Distinction in <span class="acl-fixed-case">MT</span>
+  url: https://www.aclweb.org/anthology/C90-2028
+  year: '1990'
+C90-2029:
+  author:
+  - first: Karin
+    full: Karin Harbusch
+    id: karin-harbusch
+    last: Harbusch
+  author_string: Karin Harbusch
+  bibkey: harbusch-1990-constraining
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '29'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2029.jpg
+  title: Constraining Tree Adjoining Grammars by Unification
+  title_html: Constraining Tree Adjoining Grammars by Unification
+  url: https://www.aclweb.org/anthology/C90-2029
+  year: '1990'
+C90-2030:
+  author:
+  - first: Mark
+    full: Mark Hepple
+    id: mark-hepple
+    last: Hepple
+  author_string: Mark Hepple
+  bibkey: hepple-1990-normal
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '30'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2030.jpg
+  title: Normal Form Theorem Proving for the Lambek Calculus
+  title_html: Normal Form Theorem Proving for the Lambek Calculus
+  url: https://www.aclweb.org/anthology/C90-2030
+  year: '1990'
+C90-2031:
+  author:
+  - first: Michael J.
+    full: Michael J. HuBmann
+    id: michael-j-hubmann
+    last: HuBmann
+  - first: Heinz
+    full: Heinz Genzmann
+    id: heinz-genzmann
+    last: Genzmann
+  author_string: Michael J. HuBmann, Heinz Genzmann
+  bibkey: hubmann-genzmann-1990-trying
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '31'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2031.jpg
+  title: On Trying to Do Things with Words Another plan-based approach to speech act
+    interpretation
+  title_html: On Trying to Do Things with Words Another plan-based approach to speech
+    act interpretation
+  url: https://www.aclweb.org/anthology/C90-2031
+  year: '1990'
+C90-2032:
+  author:
+  - first: Hirohito
+    full: Hirohito Inagaki
+    id: hirohito-inagaki
+    last: Inagaki
+  - first: Sueharu
+    full: Sueharu Miyahara
+    id: sueharu-miyahara
+    last: Miyahara
+  - first: Tohru
+    full: Tohru Nakagawa
+    id: tohru-nakagawa
+    last: Nakagawa
+  - first: Fumihiko
+    full: Fumihiko Obashi
+    id: fumihiko-obashi
+    last: Obashi
+  author_string: Hirohito Inagaki, Sueharu Miyahara, Tohru Nakagawa, Fumihiko Obashi
+  bibkey: inagaki-etal-1990-sentence
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '32'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2032.jpg
+  title: Sentence disambiguation by document oriented preference sets
+  title_html: Sentence disambiguation by document oriented preference sets
+  url: https://www.aclweb.org/anthology/C90-2032
+  year: '1990'
+C90-2033:
+  author:
+  - first: Masato
+    full: Masato Ishizaki
+    id: masato-ishizaki
+    last: Ishizaki
+  author_string: Masato Ishizaki
+  bibkey: ishizaki-1990-bottom
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '33'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2033.jpg
+  title: A Bottom-up Generation for Principle-based Grammars Using Constraint Propagation
+  title_html: A Bottom-up Generation for Principle-based Grammars Using Constraint
+    Propagation
+  url: https://www.aclweb.org/anthology/C90-2033
+  year: '1990'
+C90-2034:
+  author:
+  - first: Paul S.
+    full: Paul S. Jacobs
+    id: paul-s-jacobs
+    last: Jacobs
+  author_string: Paul S. Jacobs
+  bibkey: jacobs-1990-parse
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '34'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2034.jpg
+  title: 'To Parse or Not to Parse: Relation-Driven Text Skimming'
+  title_html: 'To Parse or Not to Parse: Relation-Driven Text Skimming'
+  url: https://www.aclweb.org/anthology/C90-2034
+  year: '1990'
+C90-2035:
+  author:
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Daniel Jurafsky
+  bibkey: jurafsky-1990-representing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '35'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2035.jpg
+  title: Representing and Integrating Linguistic Knowledge
+  title_html: Representing and Integrating Linguistic Knowledge
+  url: https://www.aclweb.org/anthology/C90-2035
+  year: '1990'
+C90-2036:
+  author:
+  - first: Mark D.
+    full: Mark D. Kemighan
+    id: mark-d-kemighan
+    last: Kemighan
+  - first: Kenneth W.
+    full: Kenneth W. Church
+    id: kenneth-church
+    last: Church
+  - first: William A.
+    full: William A. Gale
+    id: william-a-gale
+    last: Gale
+  author_string: Mark D. Kemighan, Kenneth W. Church, William A. Gale
+  bibkey: kemighan-etal-1990-spelling
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '36'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2036.jpg
+  title: A Spelling Correction Program Based on a Noisy Channel Model
+  title_html: A Spelling Correction Program Based on a Noisy Channel Model
+  url: https://www.aclweb.org/anthology/C90-2036
+  year: '1990'
+C90-2037:
+  author:
+  - first: Margaret
+    full: Margaret King
+    id: margaret-king
+    last: King
+  - first: Kirsten
+    full: Kirsten Falkedal
+    id: kirsten-falkedal
+    last: Falkedal
+  author_string: Margaret King, Kirsten Falkedal
+  bibkey: king-falkedal-1990-using
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '37'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2037.jpg
+  title: Using Test Suites in Evaluation of Machine Translation Systems
+  title_html: Using Test Suites in Evaluation of Machine Translation Systems
+  url: https://www.aclweb.org/anthology/C90-2037
+  year: '1990'
+C90-2038:
+  author:
+  - first: Hiroaki
+    full: Hiroaki Kitano
+    id: hiroaki-kitano
+    last: Kitano
+  author_string: Hiroaki Kitano
+  bibkey: kitano-1990-incremental
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '38'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2038.jpg
+  title: Incremental Sentence Production with a Parallel Marker-Passing Algorithm
+  title_html: Incremental Sentence Production with a Parallel Marker-Passing Algorithm
+  url: https://www.aclweb.org/anthology/C90-2038
+  year: '1990'
+C90-2039:
+  author:
+  - first: Kiyoshi
+    full: Kiyoshi Kogure
+    id: kiyoshi-kogure
+    last: Kogure
+  author_string: Kiyoshi Kogure
+  bibkey: kogure-1990-strategic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '39'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2039.jpg
+  title: Strategic Lazy Incremental Copy Graph Unification
+  title_html: Strategic Lazy Incremental Copy Graph Unification
+  url: https://www.aclweb.org/anthology/C90-2039
+  year: '1990'
+C90-2040:
+  author:
+  - first: Kimmo
+    full: Kimmo Koskenniemi
+    id: kimmo-koskenniemi
+    last: Koskenniemi
+  author_string: Kimmo Koskenniemi
+  bibkey: koskenniemi-1990-finite
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '40'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2040.jpg
+  title: Finite-State Parsing and Disambiguation
+  title_html: Finite-State Parsing and Disambiguation
+  url: https://www.aclweb.org/anthology/C90-2040
+  year: '1990'
+C90-2041:
+  author:
+  - first: Esther
+    full: Esther Konig
+    id: esther-konig
+    last: Konig
+  author_string: Esther Konig
+  bibkey: konig-1990-complexity
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '41'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2041.jpg
+  title: The Complexity of Parsing With Extended Categorial Grammars
+  title_html: The Complexity of Parsing With Extended Categorial Grammars
+  url: https://www.aclweb.org/anthology/C90-2041
+  year: '1990'
+C90-2042:
+  author:
+  - first: Marie-Claude
+    full: Marie-Claude Landau
+    id: marie-claude-landau
+    last: Landau
+  author_string: Marie-Claude Landau
+  bibkey: landau-1990-solving
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '42'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2042.jpg
+  title: Solving Ambiguities in the Semantic Representation of Texts
+  title_html: Solving Ambiguities in the Semantic Representation of Texts
+  url: https://www.aclweb.org/anthology/C90-2042
+  year: '1990'
+C90-2043:
+  author:
+  - first: Erik-Jan
+    full: Erik-Jan van der Linden
+    id: erik-jan-van-der-linden
+    last: van der Linden
+  - first: Wessel
+    full: Wessel Kraaij
+    id: wessel-kraaij
+    last: Kraaij
+  author_string: Erik-Jan van der Linden, Wessel Kraaij
+  bibkey: van-der-linden-kraaij-1990-ambiguity
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '43'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2043.jpg
+  title: 'Ambiguity resolution and the retrieval of idioms: two approaches'
+  title_html: 'Ambiguity resolution and the retrieval of idioms: two approaches'
+  url: https://www.aclweb.org/anthology/C90-2043
+  year: '1990'
+C90-2044:
+  author:
+  - first: Diane
+    full: Diane Litman
+    id: diane-litman
+    last: Litman
+  - first: Julia
+    full: Julia Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  author_string: Diane Litman, Julia Hirschberg
+  bibkey: litman-hirschberg-1990-disambiguating
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '44'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2044.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2044.jpg
+  title: Disambiguating Cue Phrases in Text and Speech
+  title_html: Disambiguating Cue Phrases in Text and Speech
+  url: https://www.aclweb.org/anthology/C90-2044
+  year: '1990'
+C90-2045:
+  author:
+  - first: Hiroshi
+    full: Hiroshi Maruyama
+    id: hiroshi-maruyama
+    last: Maruyama
+  author_string: Hiroshi Maruyama
+  bibkey: maruyama-1990-interactive
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '45'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2045.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2045.jpg
+  title: An Interactive Japanese Parser for Machine Translation
+  title_html: An Interactive <span class="acl-fixed-case">J</span>apanese Parser for
+    Machine Translation
+  url: https://www.aclweb.org/anthology/C90-2045
+  year: '1990'
+C90-2046:
+  author:
+  - first: Montserrat
+    full: Montserrat Meya
+    id: montserrat-meya
+    last: Meya
+  author_string: Montserrat Meya
+  bibkey: meya-1990-tenets
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '46'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2046.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2046.jpg
+  title: Tenets for an Interlingual Representation Definite NPs
+  title_html: Tenets for an Interlingual Representation Definite <span class="acl-fixed-case">NP</span>s
+  url: https://www.aclweb.org/anthology/C90-2046
+  year: '1990'
+C90-2047:
+  author:
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  author_string: Barbara Di Eugenio
+  bibkey: di-eugenio-1990-centering
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '47'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2047.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2047.jpg
+  title: Centering theory and the Italian pronominal system
+  title_html: Centering theory and the <span class="acl-fixed-case">I</span>talian
+    pronominal system
+  url: https://www.aclweb.org/anthology/C90-2047
+  year: '1990'
+C90-2048:
+  author:
+  - first: David J.
+    full: David J. Mooney
+    id: david-j-mooney
+    last: Mooney
+  - first: Sandra
+    full: Sandra Carberry
+    id: sandra-carberry
+    last: Carberry
+  - first: Kathleen F.
+    full: Kathleen F. McCoy
+    id: kathleen-f-mccoy
+    last: McCoy
+  author_string: David J. Mooney, Sandra Carberry, Kathleen F. McCoy
+  bibkey: mooney-etal-1990-generation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '48'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2048.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2048.jpg
+  title: The Generation of High-Level Structure for Extended Explanations
+  title_html: The Generation of High-Level Structure for Extended Explanations
+  url: https://www.aclweb.org/anthology/C90-2048
+  year: '1990'
+C90-2049:
+  author:
+  - first: Katashi
+    full: Katashi Nagao
+    id: katashi-nagao
+    last: Nagao
+  author_string: Katashi Nagao
+  bibkey: nagao-1990-dependency
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '49'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2049.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2049.jpg
+  title: 'Dependency Analyzer: A Knowledge-Based Approach to Structural Disambiguation'
+  title_html: 'Dependency Analyzer: A Knowledge-Based Approach to Structural Disambiguation'
+  url: https://www.aclweb.org/anthology/C90-2049
+  year: '1990'
+C90-2050:
+  author:
+  - first: Gunter
+    full: Gunter Neumann
+    id: gunter-neumann
+    last: Neumann
+  - first: Wolfgang
+    full: Wolfgang Finkler
+    id: wolfgang-finkler
+    last: Finkler
+  author_string: Gunter Neumann, Wolfgang Finkler
+  bibkey: neumann-finkler-1990-head
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '50'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2050.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2050.jpg
+  title: A Head-Driven Approach to Incremental and Parallel Generation of Syntactic
+    Structures
+  title_html: A Head-Driven Approach to Incremental and Parallel Generation of Syntactic
+    Structures
+  url: https://www.aclweb.org/anthology/C90-2050
+  year: '1990'
+C90-2051:
+  author:
+  - first: P.
+    full: P. Newman
+    id: paula-newman
+    last: Newman
+  author_string: P. Newman
+  bibkey: newman-1990-towards
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '51'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2051.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2051.jpg
+  title: Towards Convenient Bi-Directional Grammar Formalisms
+  title_html: Towards Convenient Bi-Directional Grammar Formalisms
+  url: https://www.aclweb.org/anthology/C90-2051
+  year: '1990'
+C90-2052:
+  author:
+  - first: Gertjan
+    full: Gertjan van Noord
+    id: gertjan-van-noord
+    last: van Noord
+  author_string: Gertjan van Noord
+  bibkey: van-noord-1990-reversible
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '52'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2052.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2052.jpg
+  title: Reversible Unification Based Machine Translation
+  title_html: Reversible Unification Based Machine Translation
+  url: https://www.aclweb.org/anthology/C90-2052
+  year: '1990'
+C90-2053:
+  author:
+  - first: Hiroaki
+    full: Hiroaki Numazaki
+    id: hiroaki-numazaki
+    last: Numazaki
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  author_string: Hiroaki Numazaki, Hozumi Tanaka
+  bibkey: numazaki-tanaka-1990-new
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '53'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2053.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2053.jpg
+  title: A New Parallel Algorithm for Generalized LR Parsing
+  title_html: A New Parallel Algorithm for Generalized <span class="acl-fixed-case">LR</span>
+    Parsing
+  url: https://www.aclweb.org/anthology/C90-2053
+  year: '1990'
+C90-2054:
+  author:
+  - first: Kazuhiko
+    full: Kazuhiko Ozeki
+    id: kazuhiko-ozeki
+    last: Ozeki
+  author_string: Kazuhiko Ozeki
+  bibkey: ozeki-1990-polynomial
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '54'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2054.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2054.jpg
+  title: A Polynomial - Order Algorithm for Optimal Phrase Sequence Selection From
+    a Phrase Lattice and Its Parallel Layered Implementation
+  title_html: A Polynomial - Order Algorithm for Optimal Phrase Sequence Selection
+    From a Phrase Lattice and Its Parallel Layered Implementation
+  url: https://www.aclweb.org/anthology/C90-2054
+  year: '1990'
+C90-2055:
+  author:
+  - first: Simon
+    full: Simon Sabbagh
+    id: simon-sabbagh
+    last: Sabbagh
+  author_string: Simon Sabbagh
+  bibkey: sabbagh-1990-sesame
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '55'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2055.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2055.jpg
+  title: Sesame a Portable Data Base Interface Generator
+  title_html: Sesame a Portable Data Base Interface Generator
+  url: https://www.aclweb.org/anthology/C90-2055
+  year: '1990'
+C90-2056:
+  author:
+  - first: Christian
+    full: Christian Matthiessen
+    id: christian-matthiessen
+    last: Matthiessen
+  author_string: Christian Matthiessen
+  bibkey: matthiessen-1990-two
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '56'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2056.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2056.jpg
+  title: Two approaches to semantic interfaces in text generation
+  title_html: Two approaches to semantic interfaces in text generation
+  url: https://www.aclweb.org/anthology/C90-2056
+  year: '1990'
+C90-2057:
+  author:
+  - first: Diana
+    full: Diana Santos
+    id: diana-santos
+    last: Santos
+  author_string: Diana Santos
+  bibkey: santos-1990-lexical
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '57'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2057.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2057.jpg
+  title: Lexical gaps and idioms in machine translation
+  title_html: Lexical gaps and idioms in machine translation
+  url: https://www.aclweb.org/anthology/C90-2057
+  year: '1990'
+C90-2058:
+  author:
+  - first: Bengt
+    full: Bengt Sigurd
+    id: bengt-sigurd
+    last: Sigurd
+  author_string: Bengt Sigurd
+  bibkey: sigurd-1990-implementing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '58'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2058.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2058.jpg
+  title: Implementing the Generalized Word Order Grammars of Chomsky and Diderichsen
+  title_html: Implementing the Generalized Word Order Grammars of <span class="acl-fixed-case">C</span>homsky
+    and Diderichsen
+  url: https://www.aclweb.org/anthology/C90-2058
+  year: '1990'
+C90-2059:
+  author:
+  - first: Andreas
+    full: Andreas Stolcke
+    id: andreas-stolcke
+    last: Stolcke
+  author_string: Andreas Stolcke
+  bibkey: stolcke-1990-gapping
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '59'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2059.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2059.jpg
+  title: 'Gapping and Frame Semantics: A fresh look from a cognitive perspective'
+  title_html: 'Gapping and Frame Semantics: A fresh look from a cognitive perspective'
+  url: https://www.aclweb.org/anthology/C90-2059
+  year: '1990'
+C90-2060:
+  author:
+  - first: Tomek
+    full: Tomek Strzalkowskl
+    id: tomek-strzalkowski
+    last: Strzalkowskl
+  author_string: Tomek Strzalkowskl
+  bibkey: strzalkowskl-1990-invert
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '60'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2060.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2060.jpg
+  title: 'How to Invert a Natural Language Parser Into an Efficient Generator: An
+    Algorithm for Logic Grammars'
+  title_html: 'How to Invert a Natural Language Parser Into an Efficient Generator:
+    An Algorithm for Logic Grammars'
+  url: https://www.aclweb.org/anthology/C90-2060
+  year: '1990'
+C90-2061:
+  author:
+  - first: Satoshi
+    full: Satoshi Tojo
+    id: satoshi-tojo
+    last: Tojo
+  author_string: Satoshi Tojo
+  bibkey: tojo-1990-type
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '61'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2061.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2061.jpg
+  title: A Type-theoretical Analysis of Complex Verb Generation
+  title_html: A Type-theoretical Analysis of Complex Verb Generation
+  url: https://www.aclweb.org/anthology/C90-2061
+  year: '1990'
+C90-2062:
+  author:
+  - first: Loong Cheong
+    full: Loong Cheong Tong
+    id: loong-cheong-tong
+    last: Tong
+  author_string: Loong Cheong Tong
+  bibkey: tong-1990-explanation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '62'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2062.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2062.jpg
+  title: An Explanation Facility for a Grammar Writing System
+  title_html: An Explanation Facility for a Grammar Writing System
+  url: https://www.aclweb.org/anthology/C90-2062
+  year: '1990'
+C90-2063:
+  author:
+  - first: Gregor
+    full: Gregor Thurmair
+    id: gregor-thurmair
+    last: Thurmair
+  author_string: Gregor Thurmair
+  bibkey: thurmair-1990-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '63'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2063.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2063.jpg
+  title: Parsing for Grammar and Style Checking
+  title_html: Parsing for Grammar and Style Checking
+  url: https://www.aclweb.org/anthology/C90-2063
+  year: '1990'
+C90-2064:
+  author:
+  - first: Harald
+    full: Harald Trost
+    id: harald-trost
+    last: Trost
+  author_string: Harald Trost
+  bibkey: trost-1990-application
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '64'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2064.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2064.jpg
+  title: The application of two-level morphology to non-concatenative German morphology
+  title_html: The application of two-level morphology to non-concatenative <span class="acl-fixed-case">G</span>erman
+    morphology
+  url: https://www.aclweb.org/anthology/C90-2064
+  year: '1990'
+C90-2065:
+  author:
+  - first: Claire
+    full: Claire Vanderhoeft
+    id: claire-vanderhoeft
+    last: Vanderhoeft
+  author_string: Claire Vanderhoeft
+  bibkey: vanderhoeft-1990-implementation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '65'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2065.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2065.jpg
+  title: An Implementation of Formal Semantics in the Formalism of Relational Databases
+  title_html: An Implementation of Formal Semantics in the Formalism of Relational
+    Databases
+  url: https://www.aclweb.org/anthology/C90-2065
+  year: '1990'
+C90-2066:
+  author:
+  - first: Paola
+    full: Paola Velardi
+    id: paola-velardi
+    last: Velardi
+  author_string: Paola Velardi
+  bibkey: velardi-1990-human
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '66'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2066.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2066.jpg
+  title: Why Human Translators Still Sleep in Peace? (Four Engineering and Linguistic
+    Gaps in Nlp)
+  title_html: Why Human Translators Still Sleep in Peace? (Four Engineering and Linguistic
+    Gaps in Nlp)
+  url: https://www.aclweb.org/anthology/C90-2066
+  year: '1990'
+C90-2067:
+  author:
+  - first: Jean
+    full: Jean Veronis
+    id: jean-veronis
+    last: Veronis
+  - first: Nancy M.
+    full: Nancy M. Ide
+    id: nancy-ide
+    last: Ide
+  author_string: Jean Veronis, Nancy M. Ide
+  bibkey: veronis-ide-1990-word
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '67'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2067.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2067.jpg
+  title: Word Sense Disambiguation with Very Large Neural Networks Extracted from
+    Machine Readable Dictionaries
+  title_html: Word Sense Disambiguation with Very Large Neural Networks Extracted
+    from Machine Readable Dictionaries
+  url: https://www.aclweb.org/anthology/C90-2067
+  year: '1990'
+C90-2068:
+  author:
+  - first: Bonnie Lynn
+    full: Bonnie Lynn Webber
+    id: bonnie-webber
+    last: Webber
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  author_string: Bonnie Lynn Webber, Barbara Di Eugenio
+  bibkey: webber-di-eugenio-1990-free
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '68'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2068.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2068.jpg
+  title: Free Adjuncts in Natural Language Instructions
+  title_html: Free Adjuncts in Natural Language Instructions
+  url: https://www.aclweb.org/anthology/C90-2068
+  year: '1990'
+C90-2069:
+  author:
+  - first: Janyce M.
+    full: Janyce M. Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  author_string: Janyce M. Wiebe
+  bibkey: wiebe-1990-identifying
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '69'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2069.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2069.jpg
+  title: Identifying Subjective Characters in Narrative
+  title_html: Identifying Subjective Characters in Narrative
+  url: https://www.aclweb.org/anthology/C90-2069
+  year: '1990'
+C90-2070:
+  author:
+  - first: Robert
+    full: Robert Wilensky
+    id: robert-wilensky
+    last: Wilensky
+  author_string: Robert Wilensky
+  bibkey: wilensky-1990-extending-lexicon
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '70'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2070.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2070.jpg
+  title: Extending the Lexicon by Exploiting Subregularities
+  title_html: Extending the Lexicon by Exploiting Subregularities
+  url: https://www.aclweb.org/anthology/C90-2070
+  year: '1990'
+C90-2071:
+  author:
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Dekai Wu
+  bibkey: wu-1990-probabilistic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '71'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2071.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2071.jpg
+  title: Probabilistic Unification-Based Integration Of Syntactic and Semantic Preferences
+    For Nominal Compounds
+  title_html: Probabilistic Unification-Based Integration Of Syntactic and Semantic
+    Preferences For Nominal Compounds
+  url: https://www.aclweb.org/anthology/C90-2071
+  year: '1990'
+C90-2072:
+  author:
+  - first: Todd
+    full: Todd Yampol
+    id: todd-yampol
+    last: Yampol
+  - first: Lauri
+    full: Lauri Karttunen
+    id: lauri-karttunen
+    last: Karttunen
+  author_string: Todd Yampol, Lauri Karttunen
+  bibkey: yampol-karttunen-1990-efficient
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '72'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2072.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2072.jpg
+  title: An Efficient Implementation of PATR for Categorial Unification Grammar
+  title_html: An Efficient Implementation of <span class="acl-fixed-case">PATR</span>
+    for Categorial Unification Grammar
+  url: https://www.aclweb.org/anthology/C90-2072
+  year: '1990'
+C90-2073:
+  author:
+  - first: Zaharin
+    full: Zaharin Yusoff
+    id: zaharin-yusoff
+    last: Yusoff
+  author_string: Zaharin Yusoff
+  bibkey: yusoff-1990-generation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '73'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2073.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2073.jpg
+  title: Generation of Synthes Is Programs in Robra (Ariane) From String-Tree Correspondence
+    Grammars (Or a Strategy for Synthesis in Machine Translation)
+  title_html: Generation of Synthes Is Programs in Robra (Ariane) From String-Tree
+    Correspondence Grammars (Or a Strategy for Synthesis in Machine Translation)
+  url: https://www.aclweb.org/anthology/C90-2073
+  year: '1990'
+C90-2074:
+  author:
+  - first: Byoung-Tak
+    full: Byoung-Tak Zhang
+    id: byoung-tak-zhang
+    last: Zhang
+  - first: Yung-Taek
+    full: Yung-Taek Kim
+    id: yung-taek-kim
+    last: Kim
+  author_string: Byoung-Tak Zhang, Yung-Taek Kim
+  bibkey: zhang-kim-1990-morphological
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 2: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 2: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '74'
+  parent_volume_id: C90-2
+  pdf: https://www.aclweb.org/anthology/C90-2074.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-2074.jpg
+  title: Morphological Analysis and Synthesis by Automated Discovery and Acquisition
+    of Linguistic Rules
+  title_html: Morphological Analysis and Synthesis by Automated Discovery and Acquisition
+    of Linguistic Rules
+  url: https://www.aclweb.org/anthology/C90-2074
+  year: '1990'
+C90-3000:
+  bibkey: coling-1990-coling-1990-3
+  bibtype: proceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  paper_id: '0'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3000.jpg
+  title: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  title_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers presented
+    to the 13th International Conference on Computational Linguistics'
+  url: https://www.aclweb.org/anthology/C90-3000
+  year: '1990'
+C90-3001:
+  author:
+  - first: Anne
+    full: Anne Abeille
+    id: anne-abeille
+    last: Abeille
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Anne Abeille, Yves Schabes, Aravind K. Joshi
+  bibkey: abeille-etal-1990-using
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '1'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3001.jpg
+  title: Using Lexicalized Tags for Machine Translation
+  title_html: Using Lexicalized Tags for Machine Translation
+  url: https://www.aclweb.org/anthology/C90-3001
+  year: '1990'
+C90-3002:
+  author:
+  - first: Sergio
+    full: Sergio Balari
+    id: sergio-balari
+    last: Balari
+  - first: Luis
+    full: Luis Damas
+    id: luis-damas
+    last: Damas
+  author_string: Sergio Balari, Luis Damas
+  bibkey: balari-damas-1990-clg
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '2'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3002.jpg
+  title: 'CLG(n): Constraint Logic Grammars'
+  title_html: '<span class="acl-fixed-case">CLG</span>(n): Constraint Logic Grammars'
+  url: https://www.aclweb.org/anthology/C90-3002
+  year: '1990'
+C90-3003:
+  author:
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  author_string: John Bear
+  bibkey: bear-1990-backwards
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '3'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3003.jpg
+  title: Backwards Phonology
+  title_html: Backwards Phonology
+  url: https://www.aclweb.org/anthology/C90-3003
+  year: '1990'
+C90-3004:
+  author:
+  - first: Julle
+    full: Julle Carson-Berndsen
+    id: julie-carson-berndsen
+    last: Carson-Berndsen
+  author_string: Julle Carson-Berndsen
+  bibkey: carson-berndsen-1990-phonological
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '4'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3004.jpg
+  title: Phonological Processing of Speech Variants
+  title_html: Phonological Processing of Speech Variants
+  url: https://www.aclweb.org/anthology/C90-3004
+  year: '1990'
+C90-3005:
+  author:
+  - first: Akshar
+    full: Akshar Bharati
+    id: akshar-bharati
+    last: Bharati
+  - first: Rajeev
+    full: Rajeev Sangal
+    id: rajeev-sangal
+    last: Sangal
+  author_string: Akshar Bharati, Rajeev Sangal
+  bibkey: bharati-sangal-1990-karaka
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '5'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3005.jpg
+  title: A Karaka Based Approach to Parsing of Indian Languages
+  title_html: A Karaka Based Approach to Parsing of <span class="acl-fixed-case">I</span>ndian
+    Languages
+  url: https://www.aclweb.org/anthology/C90-3005
+  year: '1990'
+C90-3006:
+  author:
+  - first: Christian
+    full: Christian Boitet
+    id: christian-boitet
+    last: Boitet
+  author_string: Christian Boitet
+  bibkey: boitet-1990-towards-personal
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '6'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3006.jpg
+  title: 'Towards Personal MT: general design, dialogue structure, potential role
+    of speech'
+  title_html: 'Towards Personal <span class="acl-fixed-case">MT</span>: general design,
+    dialogue structure, potential role of speech'
+  url: https://www.aclweb.org/anthology/C90-3006
+  year: '1990'
+C90-3007:
+  author:
+  - first: Chris
+    full: Chris Brew
+    id: chris-brew
+    last: Brew
+  author_string: Chris Brew
+  bibkey: brew-1990-partial
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '7'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3007.jpg
+  title: Partial Descriptions and Systemic Grammar
+  title_html: Partial Descriptions and Systemic Grammar
+  url: https://www.aclweb.org/anthology/C90-3007
+  year: '1990'
+C90-3008:
+  author:
+  - first: Ralf D.
+    full: Ralf D. Brown
+    id: ralf-d-brown
+    last: Brown
+  author_string: Ralf D. Brown
+  bibkey: brown-1990-human
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '8'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3008.jpg
+  title: Human-Computer Interaction for Semantic Disambiguation
+  title_html: Human-Computer Interaction for Semantic Disambiguation
+  url: https://www.aclweb.org/anthology/C90-3008
+  year: '1990'
+C90-3009:
+  author:
+  - first: Lynne J.
+    full: Lynne J. Cahill
+    id: lynne-cahill
+    last: Cahill
+  author_string: Lynne J. Cahill
+  bibkey: cahill-1990-syllable
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '9'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3009.jpg
+  title: Syllable-based Morphology
+  title_html: Syllable-based Morphology
+  url: https://www.aclweb.org/anthology/C90-3009
+  year: '1990'
+C90-3010:
+  author:
+  - first: Nicoletta
+    full: Nicoletta Calzolari
+    id: nicoletta-calzolari
+    last: Calzolari
+  - first: Remo
+    full: Remo Bindi
+    id: remo-bindi
+    last: Bindi
+  author_string: Nicoletta Calzolari, Remo Bindi
+  bibkey: calzolari-bindi-1990-acquisition
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '10'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3010.jpg
+  title: Acquisition of Lexical Information from a Large Textual Italian Corpus
+  title_html: Acquisition of Lexical Information from a Large Textual <span class="acl-fixed-case">I</span>talian
+    Corpus
+  url: https://www.aclweb.org/anthology/C90-3010
+  year: '1990'
+C90-3011:
+  author:
+  - first: Lauri
+    full: Lauri Carlson
+    id: lauri-carlson
+    last: Carlson
+  - first: Maria
+    full: Maria Vilkuna
+    id: maria-vilkuna
+    last: Vilkuna
+  author_string: Lauri Carlson, Maria Vilkuna
+  bibkey: carlson-vilkuna-1990-independent
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '11'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3011.jpg
+  title: Independent Transfer Using Graph Unification
+  title_html: Independent Transfer Using Graph Unification
+  url: https://www.aclweb.org/anthology/C90-3011
+  year: '1990'
+C90-3012:
+  author:
+  - first: Carson T.
+    full: Carson T. Schutze
+    id: carson-t-schutze
+    last: Schutze
+  - first: Peter A.
+    full: Peter A. Reich
+    id: peter-a-reich
+    last: Reich
+  author_string: Carson T. Schutze, Peter A. Reich
+  bibkey: schutze-reich-1990-language
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '12'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3012.jpg
+  title: Language Without A Central Pushdown Stack
+  title_html: Language Without A Central Pushdown Stack
+  url: https://www.aclweb.org/anthology/C90-3012
+  year: '1990'
+C90-3013:
+  author:
+  - first: David
+    full: David Carter
+    id: david-carter
+    last: Carter
+  author_string: David Carter
+  bibkey: carter-1990-efficient
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '13'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3013.jpg
+  title: Efficient Disjunctive Unification for Bottom-Up Parsing
+  title_html: Efficient Disjunctive Unification for Bottom-Up Parsing
+  url: https://www.aclweb.org/anthology/C90-3013
+  year: '1990'
+C90-3014:
+  author:
+  - first: Hee-Sung
+    full: Hee-Sung Chung
+    id: hee-sung-chung
+    last: Chung
+  author_string: Hee-Sung Chung
+  bibkey: chung-1990-phonological
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '14'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3014.jpg
+  title: A Phonological Knowledge Base System Using Unification-based Formalism -
+    A Case Study of Korean Phonology
+  title_html: A Phonological Knowledge Base System Using Unification-based Formalism
+    - A Case Study of <span class="acl-fixed-case">K</span>orean Phonology
+  url: https://www.aclweb.org/anthology/C90-3014
+  year: '1990'
+C90-3015:
+  author:
+  - first: John
+    full: John Coleman
+    id: john-coleman
+    last: Coleman
+  author_string: John Coleman
+  bibkey: coleman-1990-unification
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '15'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3015.jpg
+  title: "Unification Phonology: Another look at \u201Csynthesis-by-rule\u201D"
+  title_html: "Unification Phonology: Another look at \u201Csynthesis-by-rule\u201D"
+  url: https://www.aclweb.org/anthology/C90-3015
+  year: '1990'
+C90-3016:
+  author:
+  - first: Kees
+    full: Kees van Deemter
+    id: kees-van-deemter
+    last: van Deemter
+  author_string: Kees van Deemter
+  bibkey: van-deemter-1990-structured
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '16'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3016.jpg
+  title: Structured Meanings in Computational Linguistics
+  title_html: Structured Meanings in Computational Linguistics
+  url: https://www.aclweb.org/anthology/C90-3016
+  year: '1990'
+C90-3017:
+  author:
+  - first: Marc
+    full: Marc Dymetman
+    id: marc-dymetman
+    last: Dymetman
+  - first: Pierre
+    full: Pierre Isabelle
+    id: pierre-isabelle
+    last: Isabelle
+  - first: Francois
+    full: Francois Perrault
+    id: francois-perrault
+    last: Perrault
+  author_string: Marc Dymetman, Pierre Isabelle, Francois Perrault
+  bibkey: dymetman-etal-1990-symmetrical
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '17'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3017.jpg
+  title: A Symmetrical Approach to Parsing and Generation
+  title_html: A Symmetrical Approach to Parsing and Generation
+  url: https://www.aclweb.org/anthology/C90-3017
+  year: '1990'
+C90-3018:
+  author:
+  - first: Michael
+    full: Michael Elhadad
+    id: michael-elhadad
+    last: Elhadad
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Michael Elhadad, Kathleen R. McKeown
+  bibkey: elhadad-mckeown-1990-generating
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '18'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3018.jpg
+  title: Generating Connectives
+  title_html: Generating Connectives
+  url: https://www.aclweb.org/anthology/C90-3018
+  year: '1990'
+C90-3019:
+  author:
+  - first: Martin
+    full: Martin Emele
+    id: martin-c-emele
+    last: Emele
+  - first: Ulrich
+    full: Ulrich Held
+    id: ulrich-held
+    last: Held
+  - first: Stefan
+    full: Stefan Momma
+    id: stefan-momma
+    last: Momma
+  - first: Remi
+    full: Remi Zajac
+    id: remi-zajac
+    last: Zajac
+  author_string: Martin Emele, Ulrich Held, Stefan Momma, Remi Zajac
+  bibkey: emele-etal-1990-organizing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '19'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3019.jpg
+  title: Organizing linguistic knowledge for multilingual generation
+  title_html: Organizing linguistic knowledge for multilingual generation
+  url: https://www.aclweb.org/anthology/C90-3019
+  year: '1990'
+C90-3020:
+  author:
+  - first: Samuel S.
+    full: Samuel S. Epstein
+    id: samuel-s-epstein
+    last: Epstein
+  author_string: Samuel S. Epstein
+  bibkey: epstein-1990-linear
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '20'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3020.jpg
+  title: Linear Encodings of Linguistic Analyses
+  title_html: Linear Encodings of Linguistic Analyses
+  url: https://www.aclweb.org/anthology/C90-3020
+  year: '1990'
+C90-3021:
+  author:
+  - first: Edward
+    full: Edward Gibson
+    id: edward-gibson
+    last: Gibson
+  author_string: Edward Gibson
+  bibkey: gibson-1990-computational
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '21'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3021.jpg
+  title: A Computational Theory of Processing Overload and Garden-Path Effects
+  title_html: A Computational Theory of Processing Overload and Garden-Path Effects
+  url: https://www.aclweb.org/anthology/C90-3021
+  year: '1990'
+C90-3022:
+  author:
+  - first: Alessandra
+    full: Alessandra Giorgi
+    id: alessandra-giorgi
+    last: Giorgi
+  - first: Fabio
+    full: Fabio Pianesi
+    id: fabio-pianesi
+    last: Pianesi
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Alessandra Giorgi, Fabio Pianesi, Giorgio Satta
+  bibkey: giorgi-etal-1990-computational
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '22'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3022.jpg
+  title: A Computational Approach to Binding Theory
+  title_html: A Computational Approach to Binding Theory
+  url: https://www.aclweb.org/anthology/C90-3022
+  year: '1990'
+C90-3023:
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Tomasz
+    full: Tomasz Ksiezyk
+    id: tomasz-ksiezyk
+    last: Ksiezyk
+  author_string: Ralph Grishman, Tomasz Ksiezyk
+  bibkey: grishman-ksiezyk-1990-causal
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '23'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3023.jpg
+  title: 'Causal and Temporal Text Analysis: The Role of the Domain Model'
+  title_html: 'Causal and Temporal Text Analysis: The Role of the Domain Model'
+  url: https://www.aclweb.org/anthology/C90-3023
+  year: '1990'
+C90-3024:
+  author:
+  - first: Stephane
+    full: Stephane Guez
+    id: stephane-guez
+    last: Guez
+  author_string: Stephane Guez
+  bibkey: guez-1990-computational
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '24'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3024.jpg
+  title: A Computational Model for Arguments Understanding
+  title_html: A Computational Model for Arguments Understanding
+  url: https://www.aclweb.org/anthology/C90-3024
+  year: '1990'
+C90-3025:
+  author:
+  - first: Louise
+    full: Louise Guthrie
+    id: louise-guthrie
+    last: Guthrie
+  - first: Brian M.
+    full: Brian M. Slator
+    id: brian-m-slator
+    last: Slator
+  - first: Yorick
+    full: Yorick Wilks
+    id: yorick-wilks
+    last: Wilks
+  - first: Rebecca
+    full: Rebecca Bruce
+    id: rebecca-bruce
+    last: Bruce
+  author_string: Louise Guthrie, Brian M. Slator, Yorick Wilks, Rebecca Bruce
+  bibkey: guthrie-etal-1990-content
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '25'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3025.jpg
+  title: Is there content in empty heads?
+  title_html: Is there content in empty heads?
+  url: https://www.aclweb.org/anthology/C90-3025
+  year: '1990'
+C90-3026:
+  author:
+  - first: Eva
+    full: Eva Hajicova
+    id: eva-hajicova
+    last: Hajicova
+  - first: Petr
+    full: Petr Kubon
+    id: petr-kubon
+    last: Kubon
+  - first: Vladlslav
+    full: Vladlslav Kubon
+    id: vladislav-kubon
+    last: Kubon
+  author_string: Eva Hajicova, Petr Kubon, Vladlslav Kubon
+  bibkey: hajicova-etal-1990-hierarchy
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '26'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3026.jpg
+  title: Hierarchy of Salience and Discourse Analysis and Production
+  title_html: Hierarchy of Salience and Discourse Analysis and Production
+  url: https://www.aclweb.org/anthology/C90-3026
+  year: '1990'
+C90-3027:
+  author:
+  - first: Koiti
+    full: Koiti Hasida
+    id: koiti-hasida
+    last: Hasida
+  author_string: Koiti Hasida
+  bibkey: hasida-1990-constraint
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '27'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3027.jpg
+  title: A Constraint-Based Approach to Linguistic Performance
+  title_html: A Constraint-Based Approach to Linguistic Performance
+  url: https://www.aclweb.org/anthology/C90-3027
+  year: '1990'
+C90-3028:
+  author:
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  - first: Megumi
+    full: Megumi Kameyama
+    id: megumi-kameyama
+    last: Kameyama
+  author_string: Jerry R. Hobbs, Megumi Kameyama
+  bibkey: hobbs-kameyama-1990-translation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '28'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3028.jpg
+  title: Translation by Abduction
+  title_html: Translation by Abduction
+  url: https://www.aclweb.org/anthology/C90-3028
+  year: '1990'
+C90-3029:
+  author:
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  author_string: Jerry R. Hobbs, John Bear
+  bibkey: hobbs-bear-1990-two
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '29'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3029.jpg
+  title: Two Principles of Parse Preference
+  title_html: Two Principles of Parse Preference
+  url: https://www.aclweb.org/anthology/C90-3029
+  year: '1990'
+C90-3030:
+  author:
+  - first: Fred
+    full: Fred Karlsson
+    id: fred-karlsson
+    last: Karlsson
+  author_string: Fred Karlsson
+  bibkey: karlsson-1990-constraint
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '30'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3030.jpg
+  title: Constraint Grammar as a Framework for Parsing Running Text
+  title_html: Constraint Grammar as a Framework for Parsing Running Text
+  url: https://www.aclweb.org/anthology/C90-3030
+  year: '1990'
+C90-3031:
+  author:
+  - first: Judith
+    full: Judith Klavans
+    id: judith-l-klavans
+    last: Klavans
+  - first: Evelyne
+    full: Evelyne Tzoukermann
+    id: evelyne-tzoukermann
+    last: Tzoukermann
+  author_string: Judith Klavans, Evelyne Tzoukermann
+  bibkey: klavans-tzoukermann-1990-bicord
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '31'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3031.jpg
+  title: The BICORD System Combining Lexical Information from Bilingual Corpora and
+    Machine Readable Dictionaries
+  title_html: The <span class="acl-fixed-case">BICORD</span> System Combining Lexical
+    Information from Bilingual Corpora and Machine Readable Dictionaries
+  url: https://www.aclweb.org/anthology/C90-3031
+  year: '1990'
+C90-3032:
+  author:
+  - first: Hagen
+    full: Hagen Langer
+    id: hagen-langer
+    last: Langer
+  author_string: Hagen Langer
+  bibkey: langer-1990-syntactic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '32'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3032.jpg
+  title: Syntactic Normalization of Spontaneous Speech
+  title_html: Syntactic Normalization of Spontaneous Speech
+  url: https://www.aclweb.org/anthology/C90-3032
+  year: '1990'
+C90-3033:
+  author:
+  - first: Alberto
+    full: Alberto Lavelli
+    id: alberto-lavelli
+    last: Lavelli
+  - first: Oliviero
+    full: Oliviero Stock
+    id: oliviero-stock
+    last: Stock
+  author_string: Alberto Lavelli, Oliviero Stock
+  bibkey: lavelli-stock-1990-something
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '33'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3033.jpg
+  title: 'When Something Is Missing: Ellipsis, Coordination and the Chart'
+  title_html: 'When Something Is Missing: Ellipsis, Coordination and the Chart'
+  url: https://www.aclweb.org/anthology/C90-3033
+  year: '1990'
+C90-3034:
+  author:
+  - first: Ian
+    full: Ian Lewin
+    id: ian-lewin
+    last: Lewin
+  author_string: Ian Lewin
+  bibkey: lewin-1990-quantifier
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '34'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3034.jpg
+  title: A Quantifier Scoping Algorithm without A Free Variable Constraint
+  title_html: A Quantifier Scoping Algorithm without A Free Variable Constraint
+  url: https://www.aclweb.org/anthology/C90-3034
+  year: '1990'
+C90-3035:
+  author:
+  - first: Alexis
+    full: Alexis Manaster-Ramer
+    id: alexis-manaster-ramer
+    last: Manaster-Ramer
+  - first: Wlodek
+    full: Wlodek Zadrozny
+    id: wlodek-zadrozny
+    last: Zadrozny
+  author_string: Alexis Manaster-Ramer, Wlodek Zadrozny
+  bibkey: manaster-ramer-zadrozny-1990-expressive
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '35'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3035.jpg
+  title: Expressive Power of Grammatical Formalisms
+  title_html: Expressive Power of Grammatical Formalisms
+  url: https://www.aclweb.org/anthology/C90-3035
+  year: '1990'
+C90-3036:
+  author:
+  - first: Risto
+    full: Risto Miikkulainen
+    id: risto-miikkulainen
+    last: Miikkulainen
+  author_string: Risto Miikkulainen
+  bibkey: miikkulainen-1990-pdp
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '36'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3036.jpg
+  title: A Pdp Architecture for Processing Sentences With Relative Clauses
+  title_html: A Pdp Architecture for Processing Sentences With Relative Clauses
+  url: https://www.aclweb.org/anthology/C90-3036
+  year: '1990'
+C90-3037:
+  author:
+  - first: David
+    full: David Milward
+    id: david-milward
+    last: Milward
+  author_string: David Milward
+  bibkey: milward-1990-coordination
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '37'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3037.jpg
+  title: Coordination in an Axiomatic Grammar
+  title_html: Coordination in an Axiomatic Grammar
+  url: https://www.aclweb.org/anthology/C90-3037
+  year: '1990'
+C90-3038:
+  author:
+  - first: Masami
+    full: Masami Nakamura
+    id: masami-nakamura
+    last: Nakamura
+  - first: Katsuteru
+    full: Katsuteru Maruyama
+    id: katsuteru-maruyama
+    last: Maruyama
+  - first: Takeshi
+    full: Takeshi Kawabata
+    id: takeshi-kawabata
+    last: Kawabata
+  - first: Kiyohiro
+    full: Kiyohiro Shikano
+    id: kiyohiro-shikano
+    last: Shikano
+  author_string: Masami Nakamura, Katsuteru Maruyama, Takeshi Kawabata, Kiyohiro Shikano
+  bibkey: nakamura-etal-1990-neural
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '38'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3038.jpg
+  title: Neural Network Approach to Word Category Prediction for English Texts
+  title_html: Neural Network Approach to Word Category Prediction for <span class="acl-fixed-case">E</span>nglish
+    Texts
+  url: https://www.aclweb.org/anthology/C90-3038
+  year: '1990'
+C90-3039:
+  author:
+  - first: Christine
+    full: Christine Defrise
+    id: christine-defrise
+    last: Defrise
+  - first: Sergei
+    full: Sergei Nirenburg
+    id: sergei-nirenburg
+    last: Nirenburg
+  author_string: Christine Defrise, Sergei Nirenburg
+  bibkey: defrise-nirenburg-1990-meaning
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '39'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3039.jpg
+  title: Meaning Representation and Text Planning
+  title_html: Meaning Representation and Text Planning
+  url: https://www.aclweb.org/anthology/C90-3039
+  year: '1990'
+C90-3040:
+  author:
+  - first: Peter
+    full: Peter Norvig
+    id: peter-norvig
+    last: Norvig
+  - first: Robert
+    full: Robert Wilensky
+    id: robert-wilensky
+    last: Wilensky
+  author_string: Peter Norvig, Robert Wilensky
+  bibkey: norvig-wilensky-1990-critical
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '40'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3040.jpg
+  title: A Critical Evaluation of Commensurable Abduction Models for Semantic Interpretation
+  title_html: A Critical Evaluation of Commensurable Abduction Models for Semantic
+    Interpretation
+  url: https://www.aclweb.org/anthology/C90-3040
+  year: '1990'
+C90-3041:
+  author:
+  - first: Elena V.
+    full: Elena V. Paducheva
+    id: elena-v-paducheva
+    last: Paducheva
+  - first: Ekaterina V.
+    full: Ekaterina V. Rakhilina
+    id: ekaterina-v-rakhilina
+    last: Rakhilina
+  author_string: Elena V. Paducheva, Ekaterina V. Rakhilina
+  bibkey: paducheva-rakhilina-1990-predicting
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '41'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3041.jpg
+  title: Predicting Co-Occurrence Restrictions by Using Semantic Classifications in
+    the Lexicon
+  title_html: Predicting Co-Occurrence Restrictions by Using Semantic Classifications
+    in the Lexicon
+  url: https://www.aclweb.org/anthology/C90-3041
+  year: '1990'
+C90-3042:
+  author:
+  - first: Hiroaki
+    full: Hiroaki Saito
+    id: hiroaki-saito
+    last: Saito
+  author_string: Hiroaki Saito
+  bibkey: saito-1990-bi
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '42'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3042.jpg
+  title: Bi-directional LR Parsing from an Anchor Word for Speech Recognition
+  title_html: Bi-directional <span class="acl-fixed-case">LR</span> Parsing from an
+    Anchor Word for Speech Recognition
+  url: https://www.aclweb.org/anthology/C90-3042
+  year: '1990'
+C90-3043:
+  author:
+  - first: Morris
+    full: Morris Salkoff
+    id: morris-salkoff
+    last: Salkoff
+  author_string: Morris Salkoff
+  bibkey: salkoff-1990-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '43'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3043.jpg
+  title: Automatic translation of support verb constructions
+  title_html: Automatic translation of support verb constructions
+  url: https://www.aclweb.org/anthology/C90-3043
+  year: '1990'
+C90-3044:
+  author:
+  - first: Satoshi
+    full: Satoshi Sato
+    id: satoshi-sato
+    last: Sato
+  - first: Makoto
+    full: Makoto Nagao
+    id: makoto-nagao
+    last: Nagao
+  author_string: Satoshi Sato, Makoto Nagao
+  bibkey: sato-nagao-1990-toward
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '44'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3044.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3044.jpg
+  title: Toward Memory-based Translation
+  title_html: Toward Memory-based Translation
+  url: https://www.aclweb.org/anthology/C90-3044
+  year: '1990'
+C90-3045:
+  author:
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  author_string: Stuart M. Shieber, Yves Schabes
+  bibkey: shieber-schabes-1990-synchronous
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '45'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3045.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3045.jpg
+  title: Synchronous Tree-Adjoining Grammars
+  title_html: Synchronous Tree-Adjoining Grammars
+  url: https://www.aclweb.org/anthology/C90-3045
+  year: '1990'
+C90-3046:
+  author:
+  - first: Akira
+    full: Akira Shimazu
+    id: akira-shimazu
+    last: Shimazu
+  author_string: Akira Shimazu
+  bibkey: shimazu-1990-japanese
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '46'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3046.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3046.jpg
+  title: Japanese Sentence Analysis as Argumentation
+  title_html: <span class="acl-fixed-case">J</span>apanese Sentence Analysis as Argumentation
+  url: https://www.aclweb.org/anthology/C90-3046
+  year: '1990'
+C90-3047:
+  author:
+  - first: Jon M.
+    full: Jon M. Slack
+    id: jon-m-slack
+    last: Slack
+  author_string: Jon M. Slack
+  bibkey: slack-1990-unbounded
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '47'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3047.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3047.jpg
+  title: 'Unbounded Dependency: Tying strings to rings'
+  title_html: 'Unbounded Dependency: Tying strings to rings'
+  url: https://www.aclweb.org/anthology/C90-3047
+  year: '1990'
+C90-3048:
+  author:
+  - first: Harold L.
+    full: Harold L. Somers
+    id: harold-somers
+    last: Somers
+  - first: Jun-ichi
+    full: Jun-ichi Tsujii
+    id: junichi-tsujii
+    last: Tsujii
+  - first: Danny
+    full: Danny Jones
+    id: danny-jones
+    last: Jones
+  author_string: Harold L. Somers, Jun-ichi Tsujii, Danny Jones
+  bibkey: somers-etal-1990-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '48'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3048.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3048.jpg
+  title: Machine Translation without a source text
+  title_html: Machine Translation without a source text
+  url: https://www.aclweb.org/anthology/C90-3048
+  year: '1990'
+C90-3049:
+  author:
+  - first: Evelyne
+    full: Evelyne Tzoukermann
+    id: evelyne-tzoukermann
+    last: Tzoukermann
+  - first: Mark Y.
+    full: Mark Y. Liberman
+    id: mark-liberman
+    last: Liberman
+  author_string: Evelyne Tzoukermann, Mark Y. Liberman
+  bibkey: tzoukermann-liberman-1990-finite
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '49'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3049.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3049.jpg
+  title: A Finite-State Morphological Processor for Spanish
+  title_html: A Finite-State Morphological Processor for <span class="acl-fixed-case">S</span>panish
+  url: https://www.aclweb.org/anthology/C90-3049
+  year: '1990'
+C90-3050:
+  author:
+  - first: Richard
+    full: Richard Wiese
+    id: richard-wiese
+    last: Wiese
+  author_string: Richard Wiese
+  bibkey: wiese-1990-towards
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '50'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3050.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3050.jpg
+  title: Towards a Unification-Based Phonology
+  title_html: Towards a Unification-Based Phonology
+  url: https://www.aclweb.org/anthology/C90-3050
+  year: '1990'
+C90-3051:
+  author:
+  - first: Mats
+    full: Mats Wiren
+    id: mats-wiren
+    last: Wiren
+  author_string: Mats Wiren
+  bibkey: wiren-1990-incremental
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '51'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3051.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3051.jpg
+  title: Incremental Parsing and Reason Maintenance
+  title_html: Incremental Parsing and Reason Maintenance
+  url: https://www.aclweb.org/anthology/C90-3051
+  year: '1990'
+C90-3052:
+  author:
+  - first: Martin C.
+    full: Martin C. Emele
+    id: martin-c-emele
+    last: Emele
+  - first: Remi
+    full: Remi Zajac
+    id: remi-zajac
+    last: Zajac
+  author_string: Martin C. Emele, Remi Zajac
+  bibkey: emele-zajac-1990-typed
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '52'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3052.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3052.jpg
+  title: Typed Unification Grammars
+  title_html: Typed Unification Grammars
+  url: https://www.aclweb.org/anthology/C90-3052
+  year: '1990'
+C90-3053:
+  author:
+  - first: Cornelia
+    full: Cornelia Zelinsky-Wibbelt
+    id: cornelia-zelinsky-wibbelt
+    last: Zelinsky-Wibbelt
+  author_string: Cornelia Zelinsky-Wibbelt
+  bibkey: zelinsky-wibbelt-1990-semantic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '53'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3053.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3053.jpg
+  title: 'The semantic representation of spatial configurations: a conceptual motivation
+    for generation in Machine Translation'
+  title_html: 'The semantic representation of spatial configurations: a conceptual
+    motivation for generation in Machine Translation'
+  url: https://www.aclweb.org/anthology/C90-3053
+  year: '1990'
+C90-3054:
+  author:
+  - first: Geert
+    full: Geert Adriaens
+    id: geert-adriaens
+    last: Adriaens
+  - first: Maarten
+    full: Maarten Lemmons
+    id: maarten-lemmons
+    last: Lemmons
+  author_string: Geert Adriaens, Maarten Lemmons
+  bibkey: adriaens-lemmons-1990-self
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '54'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3054.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3054.jpg
+  title: 'The Self-Extending Lexicon: Off-Line and On-Line Defaulting of Lexical Information
+    in the METAL Machine Translation System'
+  title_html: 'The Self-Extending Lexicon: Off-Line and On-Line Defaulting of Lexical
+    Information in the <span class="acl-fixed-case">METAL</span> Machine Translation
+    System'
+  url: https://www.aclweb.org/anthology/C90-3054
+  year: '1990'
+C90-3055:
+  author:
+  - first: Teruaki
+    full: Teruaki Aizawa
+    id: teruaki-aizawa
+    last: Aizawa
+  - first: Terumasa
+    full: Terumasa Ehara
+    id: terumasa-ehara
+    last: Ehara
+  - first: Noriyoshi
+    full: Noriyoshi Uratani
+    id: noriyoshi-uratani
+    last: Uratani
+  - first: Hideki
+    full: Hideki Tanaka
+    id: hideki-tanaka
+    last: Tanaka
+  - first: Naoto
+    full: Naoto Kato
+    id: naoto-kato
+    last: Kato
+  - first: Sumio
+    full: Sumio Nakase
+    id: sumio-nakase
+    last: Nakase
+  - first: Norikazu
+    full: Norikazu Aruga
+    id: norikazu-aruga
+    last: Aruga
+  - first: Takeo
+    full: Takeo Matsuda
+    id: takeo-matsuda
+    last: Matsuda
+  author_string: Teruaki Aizawa, Terumasa Ehara, Noriyoshi Uratani, Hideki Tanaka,
+    Naoto Kato, Sumio Nakase, Norikazu Aruga, Takeo Matsuda
+  bibkey: aizawa-etal-1990-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '55'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3055.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3055.jpg
+  title: A Machine Translation System for Foreign News in Satellite Broadcasting
+  title_html: A Machine Translation System for Foreign News in Satellite Broadcasting
+  url: https://www.aclweb.org/anthology/C90-3055
+  year: '1990'
+C90-3056:
+  author:
+  - first: Tania
+    full: Tania Avgustinova
+    id: tania-avgustinova
+    last: Avgustinova
+  - first: Karel
+    full: Karel Oliva
+    id: karel-oliva
+    last: Oliva
+  author_string: Tania Avgustinova, Karel Oliva
+  bibkey: avgustinova-oliva-1990-syntactic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '56'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3056.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3056.jpg
+  title: Syntactic Description of Free Word Order Languages
+  title_html: Syntactic Description of Free Word Order Languages
+  url: https://www.aclweb.org/anthology/C90-3056
+  year: '1990'
+C90-3057:
+  author:
+  - first: Alla
+    full: Alla Bemova
+    id: alla-bemova
+    last: Bemova
+  - first: Vladislav
+    full: Vladislav Kubon
+    id: vladislav-kubon
+    last: Kubon
+  author_string: Alla Bemova, Vladislav Kubon
+  bibkey: bemova-kubon-1990-czech
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '57'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3057.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3057.jpg
+  title: Czech-to-Russian Transducing Dictionary
+  title_html: <span class="acl-fixed-case">C</span>zech-to-<span class="acl-fixed-case">R</span>ussian
+    Transducing Dictionary
+  url: https://www.aclweb.org/anthology/C90-3057
+  year: '1990'
+C90-3058:
+  author:
+  - first: Igor A.
+    full: Igor A. Bolshakov
+    id: igor-a-bolshakov
+    last: Bolshakov
+  author_string: Igor A. Bolshakov
+  bibkey: bolshakov-1990-large
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '58'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3058.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3058.jpg
+  title: A Large Russian Morphological Vocabulary for Ibm Compatibles and Methods
+    of Its Compression
+  title_html: A Large <span class="acl-fixed-case">R</span>ussian Morphological Vocabulary
+    for Ibm Compatibles and Methods of Its Compression
+  url: https://www.aclweb.org/anthology/C90-3058
+  year: '1990'
+C90-3059:
+  author:
+  - first: L.
+    full: L. Bourbeau
+    id: laurent-bourbeau
+    last: Bourbeau
+  - first: D.
+    full: D. Carcagno
+    id: d-carcagno
+    last: Carcagno
+  - first: E.
+    full: E. Goldberg
+    id: eli-goldberg
+    last: Goldberg
+  - first: R.
+    full: R. Kittredge
+    id: richard-kittredge
+    last: Kittredge
+  - first: A.
+    full: A. Polguere
+    id: alain-polguere
+    last: Polguere
+  author_string: L. Bourbeau, D. Carcagno, E. Goldberg, R. Kittredge, A. Polguere
+  bibkey: bourbeau-etal-1990-bilingual-generation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '59'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3059.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3059.jpg
+  title: Bilingual Generation of Weather Forecasts in an Operations Environment
+  title_html: Bilingual Generation of Weather Forecasts in an Operations Environment
+  url: https://www.aclweb.org/anthology/C90-3059
+  year: '1990'
+C90-3060:
+  author:
+  - first: B.
+    full: B. Buschbeck
+    id: bianka-buschbeck
+    last: Buschbeck
+  - first: R.
+    full: R. Henschel
+    id: renate-henschel
+    last: Henschel
+  - first: I.
+    full: I. Hoser
+    id: iris-hoser
+    last: Hoser
+  - first: G.
+    full: G. Klimonow
+    id: gerda-klimonow
+    last: Klimonow
+  - first: A.
+    full: A. Kustner
+    id: andreas-kustner
+    last: Kustner
+  - first: I.
+    full: I. Starke
+    id: ingrid-starke
+    last: Starke
+  author_string: B. Buschbeck, R. Henschel, I. Hoser, G. Klimonow, A. Kustner, I.
+    Starke
+  bibkey: buschbeck-etal-1990-virtex
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '60'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3060.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3060.jpg
+  title: VIRTEX - a German-Russian Translation Experiment
+  title_html: <span class="acl-fixed-case">VIRTEX</span> - a <span class="acl-fixed-case">G</span>erman-Russian
+    Translation Experiment
+  url: https://www.aclweb.org/anthology/C90-3060
+  year: '1990'
+C90-3061:
+  author:
+  - first: Jean
+    full: Jean Carletta
+    id: jean-carletta
+    last: Carletta
+  author_string: Jean Carletta
+  bibkey: carletta-1990-modelling
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '61'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3061.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3061.jpg
+  title: Modelling Variations in Goal-Directed Dialogue
+  title_html: Modelling Variations in Goal-Directed Dialogue
+  url: https://www.aclweb.org/anthology/C90-3061
+  year: '1990'
+C90-3062:
+  author:
+  - first: Alison
+    full: Alison Cawsey
+    id: alison-cawsey
+    last: Cawsey
+  - first: Pirkko
+    full: Pirkko Raudaskoski
+    id: pirkko-raudaskoski
+    last: Raudaskoski
+  author_string: Alison Cawsey, Pirkko Raudaskoski
+  bibkey: cawsey-raudaskoski-1990-repair
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '62'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3062.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3062.jpg
+  title: Repair Work in Human-Computer Dialogue
+  title_html: Repair Work in Human-Computer Dialogue
+  url: https://www.aclweb.org/anthology/C90-3062
+  year: '1990'
+C90-3063:
+  author:
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Alon
+    full: Alon Itai
+    id: alon-itai
+    last: Itai
+  author_string: Ido Dagan, Alon Itai
+  bibkey: dagan-itai-1990-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '63'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3063.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3063.jpg
+  title: Automatic Processing of Large Corpora for the Resolution of Anaphora References
+  title_html: Automatic Processing of Large Corpora for the Resolution of Anaphora
+    References
+  url: https://www.aclweb.org/anthology/C90-3063
+  year: '1990'
+C90-3064:
+  author:
+  - first: Jean-Francois
+    full: Jean-Francois Delannoy
+    id: jean-francois-delannoy
+    last: Delannoy
+  author_string: Jean-Francois Delannoy
+  bibkey: delannoy-1990-message
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '64'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3064.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3064.jpg
+  title: A message processing system with object-centered semantics
+  title_html: A message processing system with object-centered semantics
+  url: https://www.aclweb.org/anthology/C90-3064
+  year: '1990'
+C90-3065:
+  author:
+  - first: Kevin
+    full: Kevin Donaghy
+    id: kevin-donaghy
+    last: Donaghy
+  author_string: Kevin Donaghy
+  bibkey: donaghy-1990-recognizing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '65'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3065.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3065.jpg
+  title: Recognizing Advice, Warnings, Promises and Threats
+  title_html: Recognizing Advice, Warnings, Promises and Threats
+  url: https://www.aclweb.org/anthology/C90-3065
+  year: '1990'
+C90-3066:
+  author:
+  - first: Dong Zhen
+    full: Dong Zhen Dong
+    id: dong-zhen-dong
+    last: Dong
+  author_string: Dong Zhen Dong
+  bibkey: dong-1990-transtar
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '66'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3066.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3066.jpg
+  title: Transtar - A Commercial English-Chinese MT System
+  title_html: Transtar - A Commercial <span class="acl-fixed-case">E</span>nglish-<span
+    class="acl-fixed-case">C</span>hinese <span class="acl-fixed-case">MT</span> System
+  url: https://www.aclweb.org/anthology/C90-3066
+  year: '1990'
+C90-3067:
+  author:
+  - first: Ayman
+    full: Ayman Elnaggar
+    id: ayman-elnaggar
+    last: Elnaggar
+  author_string: Ayman Elnaggar
+  bibkey: elnaggar-1990-phrase
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '67'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3067.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3067.jpg
+  title: A Phrase Structure Grammar of the Arabic Language
+  title_html: A Phrase Structure Grammar of the <span class="acl-fixed-case">A</span>rabic
+    Language
+  url: https://www.aclweb.org/anthology/C90-3067
+  year: '1990'
+C90-3068:
+  author:
+  - first: Hisham
+    full: Hisham El-Shishiny
+    id: hisham-el-shishiny
+    last: El-Shishiny
+  author_string: Hisham El-Shishiny
+  bibkey: el-shishiny-1990-formal
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '68'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3068.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3068.jpg
+  title: A Formal Description of Arabic Syntax in Definite Clause Grammar
+  title_html: A Formal Description of <span class="acl-fixed-case">A</span>rabic Syntax
+    in Definite Clause Grammar
+  url: https://www.aclweb.org/anthology/C90-3068
+  year: '1990'
+C90-3069:
+  author:
+  - first: Tomaz
+    full: Tomaz Erjavec
+    id: tomaz-erjavec
+    last: Erjavec
+  - first: Peter
+    full: Peter Tancig
+    id: peter-tancig
+    last: Tancig
+  author_string: Tomaz Erjavec, Peter Tancig
+  bibkey: erjavec-tancig-1990-integrated
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '69'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3069.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3069.jpg
+  title: An Integrated System for Morphological Analysis of the Slovene Language
+  title_html: An Integrated System for Morphological Analysis of the <span class="acl-fixed-case">S</span>lovene
+    Language
+  url: https://www.aclweb.org/anthology/C90-3069
+  year: '1990'
+C90-3070:
+  author:
+  - first: Georges
+    full: Georges Fafiotte
+    id: georges-fafiotte
+    last: Fafiotte
+  author_string: Georges Fafiotte
+  bibkey: fafiotte-1990-self
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '70'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3070.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3070.jpg
+  title: A Self-Learning System for the Chinese Characters
+  title_html: A Self-Learning System for the <span class="acl-fixed-case">C</span>hinese
+    Characters
+  url: https://www.aclweb.org/anthology/C90-3070
+  year: '1990'
+C90-3071:
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: John
+    full: John Sterling
+    id: john-sterling
+    last: Sterling
+  author_string: Ralph Grishman, John Sterling
+  bibkey: grishman-sterling-1990-information
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '71'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3071.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3071.jpg
+  title: Information Extraction and Semantic Constraints
+  title_html: Information Extraction and Semantic Constraints
+  url: https://www.aclweb.org/anthology/C90-3071
+  year: '1990'
+C90-3072:
+  author:
+  - first: Jan
+    full: Jan Hajic
+    id: jan-hajic
+    last: Hajic
+  - first: Janus
+    full: Janus Drozd
+    id: janus-drozd
+    last: Drozd
+  author_string: Jan Hajic, Janus Drozd
+  bibkey: hajic-drozd-1990-spelling
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '72'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3072.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3072.jpg
+  title: Spelling-checking for Highly Inflective Languages
+  title_html: Spelling-checking for Highly Inflective Languages
+  url: https://www.aclweb.org/anthology/C90-3072
+  year: '1990'
+C90-3073:
+  author:
+  - first: Gerhard
+    full: Gerhard Heyer
+    id: gerhard-heyer
+    last: Heyer
+  - first: Ralf
+    full: Ralf Kese
+    id: ralf-kese
+    last: Kese
+  - first: Frank
+    full: Frank Oemig
+    id: frank-oemig
+    last: Oemig
+  - first: Friedrich
+    full: Friedrich Dudda
+    id: friedrich-dudda
+    last: Dudda
+  author_string: Gerhard Heyer, Ralf Kese, Frank Oemig, Friedrich Dudda
+  bibkey: heyer-etal-1990-knowledge
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '73'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3073.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3073.jpg
+  title: 'Knowledge Representation and Semantics in a Complex Domain: The UNIX Natural
+    Language Help System GOETHE'
+  title_html: 'Knowledge Representation and Semantics in a Complex Domain: The <span
+    class="acl-fixed-case">UNIX</span> Natural Language Help System <span class="acl-fixed-case">GOETHE</span>'
+  url: https://www.aclweb.org/anthology/C90-3073
+  year: '1990'
+C90-3074:
+  author:
+  - first: Xiuming
+    full: Xiuming Huang
+    id: xiuming-huang
+    last: Huang
+  author_string: Xiuming Huang
+  bibkey: huang-1990-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '74'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3074.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3074.jpg
+  title: A Machine Translation System for the Target Language Inexpert
+  title_html: A Machine Translation System for the Target Language Inexpert
+  url: https://www.aclweb.org/anthology/C90-3074
+  year: '1990'
+C90-3075:
+  author:
+  - first: J. Ph.
+    full: J. Ph. Hoepelman
+    id: j-ph-hoepelman
+    last: Hoepelman
+  - first: A.J.M.
+    full: A.J.M. van Hoof
+    id: a-j-m-van-hoof
+    last: van Hoof
+  author_string: J. Ph. Hoepelman, A.J.M. van Hoof
+  bibkey: hoepelman-van-hoof-1990-conditionals
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '75'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3075.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3075.jpg
+  title: Conditionals and Counterfactuals in Prolog
+  title_html: Conditionals and Counterfactuals in <span class="acl-fixed-case">P</span>rolog
+  url: https://www.aclweb.org/anthology/C90-3075
+  year: '1990'
+C90-3076:
+  author:
+  - first: Hitoshi
+    full: Hitoshi Iida
+    id: hitoshi-iida
+    last: Iida
+  - first: Takayuki
+    full: Takayuki Yamaoka
+    id: takayuki-yamaoka
+    last: Yamaoka
+  - first: Hidekazu
+    full: Hidekazu Arita
+    id: hidekazu-arita
+    last: Arita
+  author_string: Hitoshi Iida, Takayuki Yamaoka, Hidekazu Arita
+  bibkey: iida-etal-1990-three
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '76'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3076.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3076.jpg
+  title: Three Typed Pragmatics for Dialogue Structure Analysis
+  title_html: Three Typed Pragmatics for Dialogue Structure Analysis
+  url: https://www.aclweb.org/anthology/C90-3076
+  year: '1990'
+C90-3077:
+  author:
+  - first: Paul S.
+    full: Paul S. Jacobs
+    id: paul-s-jacobs
+    last: Jacobs
+  - first: Lisa F.
+    full: Lisa F. Rau
+    id: lisa-rau
+    last: Rau
+  author_string: Paul S. Jacobs, Lisa F. Rau
+  bibkey: jacobs-rau-1990-ge
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '77'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3077.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3077.jpg
+  title: 'The GE NLToolset: A Software Foundation for Intelligent Text Processing'
+  title_html: 'The <span class="acl-fixed-case">GE</span> <span class="acl-fixed-case">NLT</span>oolset:
+    A Software Foundation for Intelligent Text Processing'
+  url: https://www.aclweb.org/anthology/C90-3077
+  year: '1990'
+C90-3078:
+  author:
+  - first: Jianshuo
+    full: Jianshuo Huang
+    id: jianshuo-huang
+    last: Huang
+  author_string: Jianshuo Huang
+  bibkey: huang-1990-design
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '78'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3078.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3078.jpg
+  title: Design Issue of Ectst
+  title_html: Design Issue of Ectst
+  url: https://www.aclweb.org/anthology/C90-3078
+  year: '1990'
+C90-3079:
+  author:
+  - first: Stephan
+    full: Stephan Kerpedjiev
+    id: stephan-m-kerpedjiev
+    last: Kerpedjiev
+  - first: Veska
+    full: Veska Noncheva
+    id: veska-noncheva
+    last: Noncheva
+  author_string: Stephan Kerpedjiev, Veska Noncheva
+  bibkey: kerpedjiev-noncheva-1990-intelligent
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '79'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3079.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3079.jpg
+  title: Intelligent Handling of Weather Forecasts
+  title_html: Intelligent Handling of Weather Forecasts
+  url: https://www.aclweb.org/anthology/C90-3079
+  year: '1990'
+C90-3080:
+  author:
+  - first: James
+    full: James Kilbury
+    id: james-kilbury
+    last: Kilbury
+  author_string: James Kilbury
+  bibkey: kilbury-1990-qpatr
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '80'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3080.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3080.jpg
+  title: QPATR and Constraint Threading
+  title_html: <span class="acl-fixed-case">QPATR</span> and Constraint Threading
+  url: https://www.aclweb.org/anthology/C90-3080
+  year: '1990'
+C90-3081:
+  author:
+  - first: D
+    full: D Estival
+    id: dominique-estival
+    last: Estival
+  author_string: D Estival
+  bibkey: estival-1990-elu
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '81'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3081.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3081.jpg
+  title: 'ELU: an Environment for Machine Translation'
+  title_html: '<span class="acl-fixed-case">ELU</span>: an Environment for Machine
+    Translation'
+  url: https://www.aclweb.org/anthology/C90-3081
+  year: '1990'
+C90-3082:
+  author:
+  - first: Dieter
+    full: Dieter Kohl
+    id: dieter-kohl
+    last: Kohl
+  - first: Agnes
+    full: Agnes Plainfosse
+    id: agnes-plainfosse
+    last: Plainfosse
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  author_string: Dieter Kohl, Agnes Plainfosse, Claire Gardent
+  bibkey: kohl-etal-1990-general
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '82'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3082.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3082.jpg
+  title: The General Architecture of Generation in ACORD
+  title_html: The General Architecture of Generation in <span class="acl-fixed-case">ACORD</span>
+  url: https://www.aclweb.org/anthology/C90-3082
+  year: '1990'
+C90-3083:
+  author:
+  - first: Ikuo
+    full: Ikuo Kudo
+    id: ikuo-kudo
+    last: Kudo
+  author_string: Ikuo Kudo
+  bibkey: kudo-1990-local
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '83'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3083.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3083.jpg
+  title: Local Cohesive Knowledge for A Dialogue-machine Translation System
+  title_html: Local Cohesive Knowledge for A Dialogue-machine Translation System
+  url: https://www.aclweb.org/anthology/C90-3083
+  year: '1990'
+C90-3084:
+  author:
+  - first: Robert J.
+    full: Robert J. Kuhns
+    id: robert-j-kuhns
+    last: Kuhns
+  author_string: Robert J. Kuhns
+  bibkey: kuhns-1990-parlog
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '84'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3084.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3084.jpg
+  title: A PARLOG Implementation of Government-Binding Theory
+  title_html: A <span class="acl-fixed-case">PARLOG</span> Implementation of Government-Binding
+    Theory
+  url: https://www.aclweb.org/anthology/C90-3084
+  year: '1990'
+C90-3085:
+  author:
+  - first: Robert J.
+    full: Robert J. Kuhns
+    id: robert-j-kuhns
+    last: Kuhns
+  author_string: Robert J. Kuhns
+  bibkey: kuhns-1990-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '85'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3085.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3085.jpg
+  title: Automatic Indexing and Government-Binding Theory
+  title_html: Automatic Indexing and Government-Binding Theory
+  url: https://www.aclweb.org/anthology/C90-3085
+  year: '1990'
+C90-3086:
+  author:
+  - first: Gunnel
+    full: Gunnel Kallgren
+    id: gunnel-kallgren
+    last: Kallgren
+  author_string: Gunnel Kallgren
+  bibkey: kallgren-1990-first
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '86'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3086.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3086.jpg
+  title: "\u201CThe first million is hardest to get\u201D: Building a Large Tagged\
+    \ Corpus as Automatically as Possible"
+  title_html: "\u201CThe first million is hardest to get\u201D: Building a Large Tagged\
+    \ Corpus as Automatically as Possible"
+  url: https://www.aclweb.org/anthology/C90-3086
+  year: '1990'
+C90-3087:
+  author:
+  - first: Benny
+    full: Benny Brodda
+    id: benny-brodda
+    last: Brodda
+  author_string: Benny Brodda
+  bibkey: brodda-1990-corpus
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '87'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3087.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3087.jpg
+  title: Corpus Work With Pc Beta
+  title_html: Corpus Work With Pc Beta
+  url: https://www.aclweb.org/anthology/C90-3087
+  year: '1990'
+C90-3088:
+  author:
+  - first: Wei-Chuan
+    full: Wei-Chuan Li
+    id: wei-chuan-li
+    last: Li
+  - first: Tzusheng
+    full: Tzusheng Pei
+    id: tzusheng-pei
+    last: Pei
+  - first: Bing-Huang
+    full: Bing-Huang Lee
+    id: bing-huang-lee
+    last: Lee
+  - first: Chuei-Feng
+    full: Chuei-Feng Chiou
+    id: chuei-feng-chiou
+    last: Chiou
+  author_string: Wei-Chuan Li, Tzusheng Pei, Bing-Huang Lee, Chuei-Feng Chiou
+  bibkey: li-etal-1990-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '88'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3088.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3088.jpg
+  title: Parsing Long English Sentences with Pattern Rules
+  title_html: Parsing Long <span class="acl-fixed-case">E</span>nglish Sentences with
+    Pattern Rules
+  url: https://www.aclweb.org/anthology/C90-3088
+  year: '1990'
+C90-3089:
+  author:
+  - first: Kathleen
+    full: Kathleen McCoy
+    id: kathleen-f-mccoy
+    last: McCoy
+  - first: Patrick
+    full: Patrick Demasco
+    id: patrick-demasco
+    last: Demasco
+  - first: Mark
+    full: Mark Jones
+    id: mark-jones
+    last: Jones
+  - first: Christopher
+    full: Christopher Pennington
+    id: christopher-pennington
+    last: Pennington
+  - first: Charles
+    full: Charles Rowe
+    id: charles-rowe
+    last: Rowe
+  author_string: Kathleen McCoy, Patrick Demasco, Mark Jones, Christopher Pennington,
+    Charles Rowe
+  bibkey: mccoy-etal-1990-applying
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '89'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3089.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3089.jpg
+  title: Applying Natural Language Processing Techniques to Augmentative Communication
+    Systems
+  title_html: Applying Natural Language Processing Techniques to Augmentative Communication
+    Systems
+  url: https://www.aclweb.org/anthology/C90-3089
+  year: '1990'
+C90-3090:
+  author:
+  - first: H.E.
+    full: H.E. Mahgoub
+    id: h-e-mahgoub
+    last: Mahgoub
+  - first: M.A.
+    full: M.A. Hashish
+    id: m-a-hashish
+    last: Hashish
+  author_string: H.E. Mahgoub, M.A. Hashish
+  bibkey: mahgoub-hashish-1990-matrix
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '90'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3090.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3090.jpg
+  title: 'A Matrix Representation of the Inflectional Forms of Arabic Words: A Study
+    of Co-Occurrence Patterns'
+  title_html: 'A Matrix Representation of the Inflectional Forms of <span class="acl-fixed-case">A</span>rabic
+    Words: A Study of Co-Occurrence Patterns'
+  url: https://www.aclweb.org/anthology/C90-3090
+  year: '1990'
+C90-3091:
+  author:
+  - first: H.E.
+    full: H.E. Mahgoub
+    id: h-e-mahgoub
+    last: Mahgoub
+  - first: M.A.
+    full: M.A. Hashish
+    id: m-a-hashish
+    last: Hashish
+  author_string: H.E. Mahgoub, M.A. Hashish
+  bibkey: mahgoub-hashish-1990-matrix-representation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '91'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3091.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3091.jpg
+  title: 'A Matrix Representation of the Inflectional Forms of Arabic Words: A Study
+    of Co-Occurrence Patterns'
+  title_html: 'A Matrix Representation of the Inflectional Forms of <span class="acl-fixed-case">A</span>rabic
+    Words: A Study of Co-Occurrence Patterns'
+  url: https://www.aclweb.org/anthology/C90-3091
+  year: '1990'
+C90-3092:
+  author:
+  - first: Wolfgang
+    full: Wolfgang Menzel
+    id: wolfgang-menzel
+    last: Menzel
+  author_string: Wolfgang Menzel
+  bibkey: menzel-1990-anticipation
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '92'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3092.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3092.jpg
+  title: Anticipation-Free Diagnosis of Structural Faults
+  title_html: Anticipation-Free Diagnosis of Structural Faults
+  url: https://www.aclweb.org/anthology/C90-3092
+  year: '1990'
+C90-3093:
+  author:
+  - first: Ruslan
+    full: Ruslan Hitkov
+    id: ruslan-hitkov
+    last: Hitkov
+  author_string: Ruslan Hitkov
+  bibkey: hitkov-1990-text
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '93'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3093.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3093.jpg
+  title: A Text Generation System for Explaining Concepts in Geometry
+  title_html: A Text Generation System for Explaining Concepts in Geometry
+  url: https://www.aclweb.org/anthology/C90-3093
+  year: '1990'
+C90-3094:
+  author:
+  - first: John K.
+    full: John K. Myers
+    id: john-k-myers
+    last: Myers
+  author_string: John K. Myers
+  bibkey: myers-1990-project
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '94'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3094.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3094.jpg
+  title: 'A Project Report on NP: an Assumption-based NL Plan Inference System that
+    uses Feature Structures'
+  title_html: 'A Project Report on <span class="acl-fixed-case">NP</span>: an Assumption-based
+    <span class="acl-fixed-case">NL</span> Plan Inference System that uses Feature
+    Structures'
+  url: https://www.aclweb.org/anthology/C90-3094
+  year: '1990'
+C90-3095:
+  author:
+  - first: J.
+    full: J. Krey
+    id: j-krey
+    last: Krey
+  - first: H.-J.
+    full: H.-J. Novak
+    id: h-j-novak
+    last: Novak
+  author_string: J. Krey, H.-J. Novak
+  bibkey: krey-novak-1990-textplanning
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '95'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3095.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3095.jpg
+  title: The Textplanning Component PIT of the LILOG System
+  title_html: The Textplanning Component <span class="acl-fixed-case">PIT</span> of
+    the <span class="acl-fixed-case">LILOG</span> System
+  url: https://www.aclweb.org/anthology/C90-3095
+  year: '1990'
+C90-3096:
+  author:
+  - first: Karel
+    full: Karel Oliva
+    id: karel-oliva
+    last: Oliva
+  author_string: Karel Oliva
+  bibkey: oliva-1990-simple
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '96'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3096.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3096.jpg
+  title: Simple Parser for an Hpsg-Style Grammar Implemented in Prolog
+  title_html: Simple Parser for an Hpsg-Style Grammar Implemented in <span class="acl-fixed-case">P</span>rolog
+  url: https://www.aclweb.org/anthology/C90-3096
+  year: '1990'
+C90-3097:
+  author:
+  - first: Bradley L.
+    full: Bradley L. Pritchett
+    id: bradley-l-pritchett
+    last: Pritchett
+  - first: John W.
+    full: John W. Reitano
+    id: john-w-reitano
+    last: Reitano
+  author_string: Bradley L. Pritchett, John W. Reitano
+  bibkey: pritchett-reitano-1990-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '97'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3097.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3097.jpg
+  title: 'Parsing with on-line principles: a psychologically plausible, object-oriented
+    approach'
+  title_html: 'Parsing with on-line principles: a psychologically plausible, object-oriented
+    approach'
+  url: https://www.aclweb.org/anthology/C90-3097
+  year: '1990'
+C90-3098:
+  author:
+  - first: Phillipe
+    full: Phillipe Rincel
+    id: phillipe-rincel
+    last: Rincel
+  - first: Paul
+    full: Paul Sabatier
+    id: paul-sabatier
+    last: Sabatier
+  author_string: Phillipe Rincel, Paul Sabatier
+  bibkey: rincel-sabatier-1990-using
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '98'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3098.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3098.jpg
+  title: Using the Same System for Analyzing and Synthesizing Sentences
+  title_html: Using the Same System for Analyzing and Synthesizing Sentences
+  url: https://www.aclweb.org/anthology/C90-3098
+  year: '1990'
+C90-3099:
+  author:
+  - first: Thomas
+    full: Thomas Russi
+    id: thomas-russi
+    last: Russi
+  author_string: Thomas Russi
+  bibkey: russi-1990-syntactic
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '99'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3099.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3099.jpg
+  title: A Syntactic and Morphological Analyzer for a Text-to-Speech System
+  title_html: A Syntactic and Morphological Analyzer for a Text-to-Speech System
+  url: https://www.aclweb.org/anthology/C90-3099
+  year: '1990'
+C90-3100:
+  author:
+  - first: Gerard
+    full: Gerard Sabah
+    id: gerard-sabah
+    last: Sabah
+  author_string: Gerard Sabah
+  bibkey: sabah-1990-caramel
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '100'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3100.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3100.jpg
+  title: 'CARAMEL: A flexible model for interaction between the cognitive processes
+    underlying natural language understanding'
+  title_html: '<span class="acl-fixed-case">CARAMEL</span>: A flexible model for interaction
+    between the cognitive processes underlying natural language understanding'
+  url: https://www.aclweb.org/anthology/C90-3100
+  year: '1990'
+C90-3101:
+  author:
+  - first: Victor
+    full: Victor Sadler
+    id: victor-sadler
+    last: Sadler
+  - first: Ronald
+    full: Ronald Vendelmans
+    id: ronald-vendelmans
+    last: Vendelmans
+  author_string: Victor Sadler, Ronald Vendelmans
+  bibkey: sadler-vendelmans-1990-pilot
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '101'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3101.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3101.jpg
+  title: Pilot Implementation of a Bilingual Knowledge Bank
+  title_html: Pilot Implementation of a Bilingual Knowledge Bank
+  url: https://www.aclweb.org/anthology/C90-3101
+  year: '1990'
+C90-3102:
+  author:
+  - first: A.
+    full: A. Diaz de Ilarraza Sanchez
+    id: arantza-diaz-de-ilarraza
+    last: Diaz de Ilarraza Sanchez
+  - first: H.
+    full: H. Rodriguez Hontoria
+    id: h-rodriguez-hontoria
+    last: Rodriguez Hontoria
+  - first: F.
+    full: F. Maillo Verdejo
+    id: f-maillo-verdejo
+    last: Maillo Verdejo
+  author_string: A. Diaz de Ilarraza Sanchez, H. Rodriguez Hontoria, F. Maillo Verdejo
+  bibkey: diaz-de-ilarraza-sanchez-etal-1990-mechanism
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '102'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3102.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3102.jpg
+  title: A Mechanism for ellipsis resolution in dialogued systems
+  title_html: A Mechanism for ellipsis resolution in dialogued systems
+  url: https://www.aclweb.org/anthology/C90-3102
+  year: '1990'
+C90-3103:
+  author:
+  - first: Kiril
+    full: Kiril Simov
+    id: kiril-simov
+    last: Simov
+  - first: Galia
+    full: Galia Angelova
+    id: galia-angelova
+    last: Angelova
+  - first: Elena
+    full: Elena Paskaleva
+    id: elena-paskaleva
+    last: Paskaleva
+  author_string: Kiril Simov, Galia Angelova, Elena Paskaleva
+  bibkey: simov-etal-1990-morpho
+  bibtype: inproceedings
+  booktitle: 'COLING 1990 Volume 3: Papers presented to the 13th International Conference
+    on Computational Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1990 Volume 3: Papers
+    presented to the 13th International Conference on Computational Linguistics'
+  paper_id: '103'
+  parent_volume_id: C90-3
+  pdf: https://www.aclweb.org/anthology/C90-3103.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C90-3103.jpg
+  title: 'MORPHO-ASSISTANT: The Proper Treatment of Morphological Knowledge'
+  title_html: '<span class="acl-fixed-case">MORPHO</span>-<span class="acl-fixed-case">ASSISTANT</span>:
+    The Proper Treatment of Morphological Knowledge'
+  url: https://www.aclweb.org/anthology/C90-3103
+  year: '1990'

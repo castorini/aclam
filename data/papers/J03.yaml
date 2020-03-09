@@ -1,0 +1,778 @@
+J03-1000:
+  bibkey: cl-2003-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  paper_id: '0'
+  parent_volume_id: J03-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1000.jpg
+  title: Computational Linguistics, Volume 29, Number 1, March 2003
+  title_html: Computational Linguistics, Volume 29, Number 1, March 2003
+  year: '2003'
+J03-1001:
+  author:
+  - first: Jinyun
+    full: Jinyun Ke
+    id: jinyun-ke
+    last: Ke
+  - first: Mieko
+    full: Mieko Ogura
+    id: mieko-ogura
+    last: Ogura
+  - first: William S.-Y.
+    full: William S.-Y. Wang
+    id: william-s-y-wang
+    last: Wang
+  author_string: Jinyun Ke, Mieko Ogura, William S.-Y. Wang
+  bibkey: ke-etal-2003-optimization
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  doi: 10.1162/089120103321337412
+  page_first: '1'
+  page_last: '18'
+  pages: "1\u201318"
+  paper_id: '1'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1001.jpg
+  title: Optimization Models of Sound Systems Using Genetic Algorithms
+  title_html: Optimization Models of Sound Systems Using Genetic Algorithms
+  url: https://www.aclweb.org/anthology/J03-1001
+  year: '2003'
+J03-1002:
+  author:
+  - first: Franz Josef
+    full: Franz Josef Och
+    id: franz-josef-och
+    last: Och
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Franz Josef Och, Hermann Ney
+  bibkey: och-ney-2003-systematic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  doi: 10.1162/089120103321337421
+  page_first: '19'
+  page_last: '51'
+  pages: "19\u201351"
+  paper_id: '2'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1002.jpg
+  title: A Systematic Comparison of Various Statistical Alignment Models
+  title_html: A Systematic Comparison of Various Statistical Alignment Models
+  url: https://www.aclweb.org/anthology/J03-1002
+  year: '2003'
+J03-1003:
+  author:
+  - first: Emiel
+    full: Emiel Krahmer
+    id: emiel-krahmer
+    last: Krahmer
+  - first: Sebastiaan
+    full: Sebastiaan van Erk
+    id: sebastiaan-van-erk
+    last: van Erk
+  - first: "Andr\xE9"
+    full: "Andr\xE9 Verleg"
+    id: andre-verleg
+    last: Verleg
+  author_string: "Emiel Krahmer, Sebastiaan van Erk, Andr\xE9 Verleg"
+  bibkey: krahmer-etal-2003-graph
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  doi: 10.1162/089120103321337430
+  page_first: '53'
+  page_last: '72'
+  pages: "53\u201372"
+  paper_id: '3'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1003.jpg
+  title: Graph-Based Generation of Referring Expressions
+  title_html: Graph-Based Generation of Referring Expressions
+  url: https://www.aclweb.org/anthology/J03-1003
+  year: '2003'
+J03-1004:
+  author:
+  - first: Derrick
+    full: Derrick Higgins
+    id: derrick-higgins
+    last: Higgins
+  - first: Jerrold M.
+    full: Jerrold M. Sadock
+    id: jerrold-m-sadock
+    last: Sadock
+  author_string: Derrick Higgins, Jerrold M. Sadock
+  bibkey: higgins-sadock-2003-machine
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  doi: 10.1162/089120103321337449
+  page_first: '73'
+  page_last: '96'
+  pages: "73\u201396"
+  paper_id: '4'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1004.jpg
+  title: A Machine Learning Approach to Modeling Scope Preferences
+  title_html: A Machine Learning Approach to Modeling Scope Preferences
+  url: https://www.aclweb.org/anthology/J03-1004
+  year: '2003'
+J03-1005:
+  author:
+  - first: Christoph
+    full: Christoph Tillmann
+    id: christoph-tillmann
+    last: Tillmann
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Christoph Tillmann, Hermann Ney
+  bibkey: tillmann-ney-2003-word
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  doi: 10.1162/089120103321337458
+  page_first: '97'
+  page_last: '133'
+  pages: "97\u2013133"
+  paper_id: '5'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1005.jpg
+  title: Word Reordering and a Dynamic Programming Beam Search Algorithm for Statistical
+    Machine Translation
+  title_html: Word Reordering and a Dynamic Programming Beam Search Algorithm for
+    Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/J03-1005
+  year: '2003'
+J03-1006:
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  author_string: Mark-Jan Nederhof
+  bibkey: nederhof-2003-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  doi: 10.1162/089120103321337467
+  page_first: '135'
+  page_last: '143'
+  pages: "135\u2013143"
+  paper_id: '6'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1006.jpg
+  title: "Squibs and Discussions: Weighted Deductive Parsing and Knuth\u2019s Algorithm"
+  title_html: "Squibs and Discussions: Weighted Deductive Parsing and <span class=\"\
+    acl-fixed-case\">K</span>nuth\u2019s Algorithm"
+  url: https://www.aclweb.org/anthology/J03-1006
+  year: '2003'
+J03-1007:
+  author:
+  - first: Chris
+    full: Chris Brew
+    id: chris-brew
+    last: Brew
+  author_string: Chris Brew
+  bibkey: brew-2003-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  paper_id: '7'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1007.jpg
+  title: 'Book Review: The Cambridge Grammar of the English Language by Rodney Huddleston
+    and Geoffrey K. Pullum'
+  title_html: 'Book Review: The <span class="acl-fixed-case">C</span>ambridge Grammar
+    of the <span class="acl-fixed-case">E</span>nglish Language by Rodney Huddleston
+    and Geoffrey K. Pullum'
+  url: https://www.aclweb.org/anthology/J03-1007
+  year: '2003'
+J03-1008:
+  bibkey: nn-2003-briefly
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  paper_id: '8'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1008.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J03-1008
+  year: '2003'
+J03-1009:
+  bibkey: nn-2003-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 1, March 2003
+  paper_id: '9'
+  parent_volume_id: J03-1
+  pdf: https://www.aclweb.org/anthology/J03-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-1009.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J03-1009
+  year: '2003'
+J03-2000:
+  bibkey: cl-2003-linguistics-29
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 2, June 2003
+  paper_id: '0'
+  parent_volume_id: J03-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-2000.jpg
+  title: Computational Linguistics, Volume 29, Number 2, June 2003
+  title_html: Computational Linguistics, Volume 29, Number 2, June 2003
+  year: '2003'
+J03-2001:
+  author:
+  - first: Sabine
+    full: Sabine Ploux
+    id: sabine-ploux
+    last: Ploux
+  - first: Hyungsuk
+    full: Hyungsuk Ji
+    id: hyungsuk-ji
+    last: Ji
+  author_string: Sabine Ploux, Hyungsuk Ji
+  bibkey: ploux-ji-2003-model
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 2, June 2003
+  doi: 10.1162/089120103322145298
+  page_first: '155'
+  page_last: '178'
+  pages: "155\u2013178"
+  paper_id: '1'
+  parent_volume_id: J03-2
+  pdf: https://www.aclweb.org/anthology/J03-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-2001.jpg
+  title: A Model for Matching Semantic Maps between Languages (French/English, English/French)
+  title_html: A Model for Matching Semantic Maps between Languages (<span class="acl-fixed-case">F</span>rench/<span
+    class="acl-fixed-case">E</span>nglish, <span class="acl-fixed-case">E</span>nglish/<span
+    class="acl-fixed-case">F</span>rench)
+  url: https://www.aclweb.org/anthology/J03-2001
+  year: '2003'
+J03-2002:
+  author:
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  author_string: Johan Bos
+  bibkey: bos-2003-implementing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 2, June 2003
+  doi: 10.1162/089120103322145306
+  page_first: '179'
+  page_last: '210'
+  pages: "179\u2013210"
+  paper_id: '2'
+  parent_volume_id: J03-2
+  pdf: https://www.aclweb.org/anthology/J03-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-2002.jpg
+  title: Implementing the Binding and Accommodation Theory for Anaphora Resolution
+    and Presupposition Projection
+  title_html: Implementing the Binding and Accommodation Theory for Anaphora Resolution
+    and Presupposition Projection
+  url: https://www.aclweb.org/anthology/J03-2002
+  year: '2003'
+J03-2003:
+  author:
+  - first: Richard
+    full: Richard Power
+    id: richard-power
+    last: Power
+  - first: Donia
+    full: Donia Scott
+    id: donia-scott
+    last: Scott
+  - first: Nadjet
+    full: Nadjet Bouayad-Agha
+    id: nadjet-bouayad-agha
+    last: Bouayad-Agha
+  author_string: Richard Power, Donia Scott, Nadjet Bouayad-Agha
+  bibkey: power-etal-2003-document
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 2, June 2003
+  doi: 10.1162/089120103322145315
+  page_first: '211'
+  page_last: '260'
+  pages: "211\u2013260"
+  paper_id: '3'
+  parent_volume_id: J03-2
+  pdf: https://www.aclweb.org/anthology/J03-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-2003.jpg
+  title: Document Structure
+  title_html: Document Structure
+  url: https://www.aclweb.org/anthology/J03-2003
+  year: '2003'
+J03-2004:
+  author:
+  - first: Maria
+    full: Maria Lapata
+    id: maria-lapata
+    last: Lapata
+  - first: Alex
+    full: Alex Lascarides
+    id: alex-lascarides
+    last: Lascarides
+  author_string: Maria Lapata, Alex Lascarides
+  bibkey: lapata-lascarides-2003-probabilistic
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 2, June 2003
+  doi: 10.1162/089120103322145324
+  page_first: '261'
+  page_last: '315'
+  pages: "261\u2013315"
+  paper_id: '4'
+  parent_volume_id: J03-2
+  pdf: https://www.aclweb.org/anthology/J03-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-2004.jpg
+  title: A Probabilistic Account of Logical Metonymy
+  title_html: A Probabilistic Account of Logical Metonymy
+  url: https://www.aclweb.org/anthology/J03-2004
+  year: '2003'
+J03-2005:
+  author:
+  - first: Woody
+    full: Woody Haynes
+    id: woody-haynes
+    last: Haynes
+  - first: Martha
+    full: Martha Evens
+    id: martha-evens
+    last: Evens
+  author_string: Woody Haynes, Martha Evens
+  bibkey: haynes-evens-2003-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 2, June 2003
+  paper_id: '5'
+  parent_volume_id: J03-2
+  pdf: https://www.aclweb.org/anthology/J03-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-2005.jpg
+  title: "Book Reviews: Lexicography and Natural Language Processing: A Festschrift\
+    \ in Honour of B. T. S. Atkins edited by Marie-H\xE9l\xE8ne Corr\xE9ard"
+  title_html: "Book Reviews: Lexicography and Natural Language Processing: A Festschrift\
+    \ in Honour of B. T. S. Atkins edited by Marie-H\xE9l\xE8ne Corr\xE9ard"
+  url: https://www.aclweb.org/anthology/J03-2005
+  year: '2003'
+J03-3000:
+  bibkey: cl-2003-linguistics-29-number
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  paper_id: '0'
+  parent_volume_id: J03-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3000.jpg
+  title: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  title_html: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  year: '2003'
+J03-3001:
+  author:
+  - first: Adam
+    full: Adam Kilgarriff
+    id: adam-kilgarriff
+    last: Kilgarriff
+  - first: Gregory
+    full: Gregory Grefenstette
+    id: gregory-grefenstette
+    last: Grefenstette
+  author_string: Adam Kilgarriff, Gregory Grefenstette
+  bibkey: kilgarriff-grefenstette-2003-introduction
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  doi: 10.1162/089120103322711569
+  page_first: '333'
+  page_last: '348'
+  pages: "333\u2013348"
+  paper_id: '1'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3001.jpg
+  title: Introduction to the Special Issue on the Web as Corpus
+  title_html: Introduction to the Special Issue on the Web as Corpus
+  url: https://www.aclweb.org/anthology/J03-3001
+  year: '2003'
+J03-3002:
+  author:
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Philip Resnik, Noah A. Smith
+  bibkey: resnik-smith-2003-web
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  doi: 10.1162/089120103322711578
+  page_first: '349'
+  page_last: '380'
+  pages: "349\u2013380"
+  paper_id: '2'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3002.jpg
+  title: The Web as a Parallel Corpus
+  title_html: The Web as a Parallel Corpus
+  url: https://www.aclweb.org/anthology/J03-3002
+  year: '2003'
+J03-3003:
+  author:
+  - first: Wessel
+    full: Wessel Kraaij
+    id: wessel-kraaij
+    last: Kraaij
+  - first: Jian-Yun
+    full: Jian-Yun Nie
+    id: jian-yun-nie
+    last: Nie
+  - first: Michel
+    full: Michel Simard
+    id: michel-simard
+    last: Simard
+  author_string: Wessel Kraaij, Jian-Yun Nie, Michel Simard
+  bibkey: kraaij-etal-2003-embedding
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  doi: 10.1162/089120103322711587
+  page_first: '381'
+  page_last: '419'
+  pages: "381\u2013419"
+  paper_id: '3'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3003.jpg
+  title: Embedding Web-Based Statistical Translation Models in Cross-Language Information
+    Retrieval
+  title_html: Embedding Web-Based Statistical Translation Models in Cross-Language
+    Information Retrieval
+  url: https://www.aclweb.org/anthology/J03-3003
+  year: '2003'
+J03-3004:
+  author:
+  - first: Andy
+    full: Andy Way
+    id: andy-way
+    last: Way
+  - first: Nano
+    full: Nano Gough
+    id: nano-gough
+    last: Gough
+  author_string: Andy Way, Nano Gough
+  bibkey: way-gough-2003-webmt
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  doi: 10.1162/089120103322711596
+  page_first: '421'
+  page_last: '458'
+  pages: "421\u2013458"
+  paper_id: '4'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3004.jpg
+  title: 'wEBMT: Developing and Validating an Example-Based Machine Translation System
+    using the World Wide Web'
+  title_html: 'w<span class="acl-fixed-case">EBMT</span>: Developing and Validating
+    an Example-Based Machine Translation System using the World Wide Web'
+  url: https://www.aclweb.org/anthology/J03-3004
+  year: '2003'
+J03-3005:
+  author:
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Frank Keller, Mirella Lapata
+  bibkey: keller-lapata-2003-using
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  doi: 10.1162/089120103322711604
+  page_first: '459'
+  page_last: '484'
+  pages: "459\u2013484"
+  paper_id: '5'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3005.jpg
+  title: Using the Web to Obtain Frequencies for Unseen Bigrams
+  title_html: Using the Web to Obtain Frequencies for Unseen Bigrams
+  url: https://www.aclweb.org/anthology/J03-3005
+  year: '2003'
+J03-3006:
+  author:
+  - first: Celina
+    full: "Celina Santamar\xEDa"
+    id: celina-santamaria
+    last: "Santamar\xEDa"
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  - first: Felisa
+    full: Felisa Verdejo
+    id: felisa-verdejo
+    last: Verdejo
+  author_string: "Celina Santamar\xEDa, Julio Gonzalo, Felisa Verdejo"
+  bibkey: santamaria-etal-2003-automatic
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  doi: 10.1162/089120103322711613
+  page_first: '485'
+  page_last: '502'
+  pages: "485\u2013502"
+  paper_id: '6'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3006.jpg
+  title: Automatic Association of Web Directories with Word Senses
+  title_html: Automatic Association of Web Directories with Word Senses
+  url: https://www.aclweb.org/anthology/J03-3006
+  year: '2003'
+J03-3007:
+  author:
+  - first: Michael A.
+    full: Michael A. Arbib
+    id: michael-a-arbib
+    last: Arbib
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  author_string: Michael A. Arbib, Gerald Penn
+  bibkey: arbib-penn-2003-book
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  paper_id: '7'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3007.jpg
+  title: 'Book Reviews: Linguistic Evolution through Language Acquisition: Formal
+    and Computational Models edited by Ted Briscoe; Implementing Typed Feature Structure
+    Grammars by Ann Copestake'
+  title_html: 'Book Reviews: Linguistic Evolution through Language Acquisition: Formal
+    and Computational Models edited by Ted Briscoe; Implementing Typed Feature Structure
+    Grammars by Ann Copestake'
+  url: https://www.aclweb.org/anthology/J03-3007
+  year: '2003'
+J03-3008:
+  bibkey: nn-2003-briefly-noted
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  paper_id: '8'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3008.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J03-3008
+  year: '2003'
+J03-3009:
+  bibkey: nn-2003-publications-received
+  bibtype: article
+  booktitle: 'Computational Linguistics, Volume 29, Number 3, September 2003: Special
+    Issue on the Web as Corpus'
+  paper_id: '9'
+  parent_volume_id: J03-3
+  pdf: https://www.aclweb.org/anthology/J03-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-3009.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J03-3009
+  year: '2003'
+J03-4000:
+  bibkey: cl-2003-linguistics-29-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  paper_id: '0'
+  parent_volume_id: J03-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4000.jpg
+  title: Computational Linguistics, Volume 29, Number 4, December 2003
+  title_html: Computational Linguistics, Volume 29, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2003
+  year: '2003'
+J03-4001:
+  author:
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  author_string: Kemal Oflazer
+  bibkey: oflazer-2003-dependency
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  doi: 10.1162/089120103322753338
+  page_first: '515'
+  page_last: '544'
+  pages: "515\u2013544"
+  paper_id: '1'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4001.jpg
+  title: Dependency Parsing with an Extended Finite-State Approach
+  title_html: Dependency Parsing with an Extended Finite-State Approach
+  url: https://www.aclweb.org/anthology/J03-4001
+  year: '2003'
+J03-4002:
+  author:
+  - first: Bonnie
+    full: Bonnie Webber
+    id: bonnie-webber
+    last: Webber
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  - first: Aravind
+    full: Aravind Joshi
+    id: aravind-joshi
+    last: Joshi
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  author_string: Bonnie Webber, Matthew Stone, Aravind Joshi, Alistair Knott
+  bibkey: webber-etal-2003-anaphora
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  doi: 10.1162/089120103322753347
+  page_first: '545'
+  page_last: '587'
+  pages: "545\u2013587"
+  paper_id: '2'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4002.jpg
+  title: Anaphora and Discourse Structure
+  title_html: Anaphora and Discourse Structure
+  url: https://www.aclweb.org/anthology/J03-4002
+  year: '2003'
+J03-4003:
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Michael Collins
+  bibkey: collins-2003-head
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  doi: 10.1162/089120103322753356
+  page_first: '589'
+  page_last: '637'
+  pages: "589\u2013637"
+  paper_id: '3'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4003.jpg
+  title: Head-Driven Statistical Models for Natural Language Parsing
+  title_html: Head-Driven Statistical Models for Natural Language Parsing
+  url: https://www.aclweb.org/anthology/J03-4003
+  year: '2003'
+J03-4004:
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  author_string: Diana McCarthy, John Carroll
+  bibkey: mccarthy-carroll-2003-disambiguating
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  doi: 10.1162/089120103322753365
+  page_first: '639'
+  page_last: '654'
+  pages: "639\u2013654"
+  paper_id: '4'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4004.jpg
+  title: Disambiguating Nouns, Verbs, and Adjectives Using Automatically Acquired
+    Selectional Preferences
+  title_html: Disambiguating Nouns, Verbs, and Adjectives Using Automatically Acquired
+    Selectional Preferences
+  url: https://www.aclweb.org/anthology/J03-4004
+  year: '2003'
+J03-4005:
+  author:
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Roberto Basili, Michael Strube
+  bibkey: basili-strube-2003-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  paper_id: '5'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4005.jpg
+  title: 'Book Reviews: Learning to Classify Text Using Support Vector Machines: Methods,
+    Theory and Algorithms by Thorsten Joachims; Anaphora Resolution by Ruslan Mitkov'
+  title_html: 'Book Reviews: Learning to Classify Text Using Support Vector Machines:
+    Methods, Theory and Algorithms by Thorsten Joachims; Anaphora Resolution by Ruslan
+    Mitkov'
+  url: https://www.aclweb.org/anthology/J03-4005
+  year: '2003'
+J03-4006:
+  bibkey: nn-2003-briefly-noted-2
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  paper_id: '6'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4006.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J03-4006
+  year: '2003'
+J03-4007:
+  bibkey: nn-2003-author
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  paper_id: '7'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4007.jpg
+  title: Author Index
+  title_html: Author Index
+  url: https://www.aclweb.org/anthology/J03-4007
+  year: '2003'
+J03-4008:
+  bibkey: nn-2003-title
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 29, Number 4, December 2003
+  paper_id: '8'
+  parent_volume_id: J03-4
+  pdf: https://www.aclweb.org/anthology/J03-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J03-4008.jpg
+  title: Title Index
+  title_html: Title Index
+  url: https://www.aclweb.org/anthology/J03-4008
+  year: '2003'

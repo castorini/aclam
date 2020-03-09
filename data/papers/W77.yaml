@@ -1,0 +1,431 @@
+W77-0100:
+  address: Gothenburg, Sweden
+  author:
+  - first: Sture
+    full: "Sture All\xE9n"
+    id: sture-allen
+    last: "All\xE9n"
+  - first: Rolf
+    full: Rolf Gavare
+    id: rolf-gavare
+    last: Gavare
+  - first: Martin
+    full: Martin Gellerstam
+    id: martin-gellerstam
+    last: Gellerstam
+  author_string: "Sture All\xE9n, Rolf Gavare, Martin Gellerstam"
+  bibkey: ws-1977-nordic
+  bibtype: proceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  month: October
+  paper_id: '0'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0100.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0100.jpg
+  title: Proceedings of the 1st Nordic Conference of Computational Linguistics (NODALIDA
+    1977)
+  title_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  url: https://www.aclweb.org/anthology/W77-0100
+  year: '1977'
+W77-0101:
+  address: Gothenburg, Sweden
+  author:
+  - first: Gulbrand
+    full: Gulbrand Alhaug
+    id: gulbrand-alhaug
+    last: Alhaug
+  author_string: Gulbrand Alhaug
+  bibkey: alhaug-1977-noen
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '5'
+  page_last: '12'
+  pages: "5\u201312"
+  paper_id: '1'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0101.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0101.jpg
+  title: Noen problemer ved opbygging av et datamaskinelt morfem-lexikon (Some problems
+    in the construction of a computerized morpheme lexicon) [In Norwegian]
+  title_html: Noen problemer ved opbygging av et datamaskinelt morfem-lexikon (Some
+    problems in the construction of a computerized morpheme lexicon) [In <span class="acl-fixed-case">N</span>orwegian]
+  url: https://www.aclweb.org/anthology/W77-0101
+  year: '1977'
+W77-0102:
+  address: Gothenburg, Sweden
+  author:
+  - first: Hans
+    full: "Hans Basb\xF8ll"
+    id: hans-basboll
+    last: "Basb\xF8ll"
+  - first: Kjeld
+    full: Kjeld Kristensen
+    id: kjeld-kristensen
+    last: Kristensen
+  author_string: "Hans Basb\xF8ll, Kjeld Kristensen"
+  bibkey: basboll-kristensen-1977-computergenerering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '13'
+  page_last: '19'
+  pages: "13\u201319"
+  paper_id: '2'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0102.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0102.jpg
+  title: "Computergenerering af lydskrevet dansk ud fra en quasiortografisk notation\
+    \ ved hj\xE6lp af generative fonologiske regler (Computer generation of Danish\
+    \ phonetic script from a quasi orthographic notation using generative phonological\
+    \ rules) [In Danish]"
+  title_html: "Computergenerering af lydskrevet dansk ud fra en quasiortografisk notation\
+    \ ved hj\xE6lp af generative fonologiske regler (Computer generation of <span\
+    \ class=\"acl-fixed-case\">D</span>anish phonetic script from a quasi orthographic\
+    \ notation using generative phonological rules) [In <span class=\"acl-fixed-case\"\
+    >D</span>anish]"
+  url: https://www.aclweb.org/anthology/W77-0102
+  year: '1977'
+W77-0103:
+  address: Gothenburg, Sweden
+  author:
+  - first: Benny
+    full: Benny Brodda
+    id: benny-brodda
+    last: Brodda
+  author_string: Benny Brodda
+  bibkey: brodda-1977-beta
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '20'
+  page_last: '26'
+  pages: "20\u201326"
+  paper_id: '3'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0103.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0103.jpg
+  title: 'BETA-systemet: En sammanfattning (The BETA system: A summary) [In Swedish]'
+  title_html: 'BETA-systemet: En sammanfattning (The BETA system: A summary) [In <span
+    class="acl-fixed-case">S</span>wedish]'
+  url: https://www.aclweb.org/anthology/W77-0103
+  year: '1977'
+W77-0104:
+  address: Gothenburg, Sweden
+  author:
+  - first: Mats
+    full: Mats Eeg-Olofsson
+    id: mats-eeg-olofsson
+    last: Eeg-Olofsson
+  author_string: Mats Eeg-Olofsson
+  bibkey: eeg-olofsson-1977-algoritmisk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '27'
+  page_last: '30'
+  pages: "27\u201330"
+  paper_id: '4'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0104.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0104.jpg
+  title: "Algoritmisk textanalys \u2013 en presentation (Algorithmic text analysis\
+    \ \u2013 A presentation) [In Swedish]"
+  title_html: "Algoritmisk textanalys \u2013 en presentation (Algorithmic text analysis\
+    \ \u2013 A presentation) [In <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W77-0104
+  year: '1977'
+W77-0105:
+  address: Gothenburg, Sweden
+  author:
+  - first: Ivar
+    full: Ivar Fonnes
+    id: ivar-fonnes
+    last: Fonnes
+  author_string: Ivar Fonnes
+  bibkey: fonnes-1977-edb
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '31'
+  page_last: '38'
+  pages: "31\u201338"
+  paper_id: '5'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0105.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0105.jpg
+  title: 'EDB i ordboksproduksjon: Tillrettelegging av Norsk Landbruksordbok for trykking
+    (EDB in dictionary production: Adaptation of the Norwegian Agricultural Dictionary
+    for printing) [In Norwegian]'
+  title_html: '<span class="acl-fixed-case">EDB</span> i ordboksproduksjon: Tillrettelegging
+    av Norsk Landbruksordbok for trykking (<span class="acl-fixed-case">EDB</span>
+    in dictionary production: Adaptation of the <span class="acl-fixed-case">N</span>orwegian
+    Agricultural Dictionary for printing) [In <span class="acl-fixed-case">N</span>orwegian]'
+  url: https://www.aclweb.org/anthology/W77-0105
+  year: '1977'
+W77-0106:
+  address: Gothenburg, Sweden
+  author:
+  - first: Eric
+    full: Eric Grinstead
+    id: eric-grinstead
+    last: Grinstead
+  author_string: Eric Grinstead
+  bibkey: grinstead-1977-experiments
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '39'
+  page_last: '39'
+  pages: "39\u201339"
+  paper_id: '6'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0106.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0106.jpg
+  title: Experiments with odd languages
+  title_html: Experiments with odd languages
+  url: https://www.aclweb.org/anthology/W77-0106
+  year: '1977'
+W77-0107:
+  address: Gothenburg, Sweden
+  author:
+  - first: "Kolbj\xF8rn"
+    full: "Kolbj\xF8rn Heggstad"
+    id: kolbjorn-heggstad
+    last: Heggstad
+  - first: Harald
+    full: "Harald Solev\xE5g"
+    id: harald-solevag
+    last: "Solev\xE5g"
+  author_string: "Kolbj\xF8rn Heggstad, Harald Solev\xE5g"
+  bibkey: heggstad-solevag-1977-nyord
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '40'
+  page_last: '49'
+  pages: "40\u201349"
+  paper_id: '7'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0107.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0107.jpg
+  title: Nyord-registrering i database (Registration of new words in databases) [In
+    Norwegian]
+  title_html: Nyord-registrering i database (Registration of new words in databases)
+    [In <span class="acl-fixed-case">N</span>orwegian]
+  url: https://www.aclweb.org/anthology/W77-0107
+  year: '1977'
+W77-0108:
+  address: Gothenburg, Sweden
+  author:
+  - first: Knut
+    full: Knut Hofland
+    id: knut-hofland
+    last: Hofland
+  author_string: Knut Hofland
+  bibkey: hofland-1977-implementering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '50'
+  page_last: '64'
+  pages: "50\u201364"
+  paper_id: '8'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0108.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0108.jpg
+  title: Implementering av en metode for syntaktisk analyse av norsk (Implementation
+    of a method for syntactic analysis of Norwegian) [In Norwegian]
+  title_html: Implementering av en metode for syntaktisk analyse av norsk (Implementation
+    of a method for syntactic analysis of <span class="acl-fixed-case">N</span>orwegian)
+    [In <span class="acl-fixed-case">N</span>orwegian]
+  url: https://www.aclweb.org/anthology/W77-0108
+  year: '1977'
+W77-0109:
+  address: Gothenburg, Sweden
+  author:
+  - first: Bente
+    full: Bente Maegaard
+    id: bente-maegaard
+    last: Maegaard
+  - first: Hanne
+    full: Hanne Ruus
+    id: hanne-ruus
+    last: Ruus
+  author_string: Bente Maegaard, Hanne Ruus
+  bibkey: maegaard-ruus-1977-danword
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '65'
+  page_last: '74'
+  pages: "65\u201374"
+  paper_id: '9'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0109.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0109.jpg
+  title: "DANwORD \u2013 Hyppighedsunders\xF8gelser i moderne dansk (DANwORD \u2013\
+    \ Frequency surveys in modern Danish) [In Danish]"
+  title_html: "<span class=\"acl-fixed-case\">DAN</span>w<span class=\"acl-fixed-case\"\
+    >ORD</span> \u2013 Hyppighedsunders\xF8gelser i moderne dansk (<span class=\"\
+    acl-fixed-case\">DAN</span>w<span class=\"acl-fixed-case\">ORD</span> \u2013 Frequency\
+    \ surveys in modern <span class=\"acl-fixed-case\">D</span>anish) [In <span class=\"\
+    acl-fixed-case\">D</span>anish]"
+  url: https://www.aclweb.org/anthology/W77-0109
+  year: '1977'
+W77-0110:
+  address: Gothenburg, Sweden
+  author:
+  - first: Marina
+    full: Marina Mundt
+    id: marina-mundt
+    last: Mundt
+  author_string: Marina Mundt
+  bibkey: mundt-1977-function
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '75'
+  page_last: '78'
+  pages: "75\u201378"
+  paper_id: '10'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0110.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0110.jpg
+  title: "Function words in H\xE1konar saga [In Norwegian]"
+  title_html: "Function words in H\xE1konar saga [In <span class=\"acl-fixed-case\"\
+    >N</span>orwegian]"
+  url: https://www.aclweb.org/anthology/W77-0110
+  year: '1977'
+W77-0111:
+  address: Gothenburg, Sweden
+  author:
+  - first: Bo
+    full: Bo Ralph
+    id: bo-ralph
+    last: Ralph
+  author_string: Bo Ralph
+  bibkey: ralph-1977-projektet
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '79'
+  page_last: '81'
+  pages: "79\u201381"
+  paper_id: '11'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0111.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0111.jpg
+  title: Projektet Lexikalisk databas (The Lexical Database project) [In Swedish]
+  title_html: Projektet Lexikalisk databas (The Lexical Database project) [In <span
+    class="acl-fixed-case">S</span>wedish]
+  url: https://www.aclweb.org/anthology/W77-0111
+  year: '1977'
+W77-0112:
+  address: Gothenburg, Sweden
+  author:
+  - first: Jussi
+    full: Jussi Salmela
+    id: jussi-salmela
+    last: Salmela
+  - first: Viljo
+    full: Viljo Kohonen
+    id: viljo-kohonen
+    last: Kohonen
+  author_string: Jussi Salmela, Viljo Kohonen
+  bibkey: salmela-kohonen-1977-chitab
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '82'
+  page_last: '86'
+  pages: "82\u201386"
+  paper_id: '12'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0112.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0112.jpg
+  title: "CHITAB \u2013 a \u201Cpoor man\u2019s\u201D shortcut to computer processing\
+    \ of linguistic data"
+  title_html: "<span class=\"acl-fixed-case\">CHITAB</span> \u2013 a \u201Cpoor man\u2019\
+    s\u201D shortcut to computer processing of linguistic data"
+  url: https://www.aclweb.org/anthology/W77-0112
+  year: '1977'
+W77-0113:
+  address: Gothenburg, Sweden
+  author:
+  - first: Anna
+    full: "Anna S\xE5gvall Hein"
+    id: anna-sagvall-hein
+    last: "S\xE5gvall Hein"
+  author_string: "Anna S\xE5gvall Hein"
+  bibkey: sagvall-hein-1977-chartanalys
+  bibtype: inproceedings
+  booktitle: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (NODALIDA 1977)
+  booktitle_html: Proceedings of the 1st Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1977)
+  month: October
+  page_first: '87'
+  page_last: '93'
+  pages: "87\u201393"
+  paper_id: '13'
+  parent_volume_id: W77-01
+  pdf: https://www.aclweb.org/anthology/W77-0113.pdf
+  publisher: "Spr\xE5kdata, University of Gothenburg, Sweden"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W77-0113.jpg
+  title: Chartanalys och morfologi (Chart analysis and morphology) [In Swedish]
+  title_html: Chartanalys och morfologi (Chart analysis and morphology) [In <span
+    class="acl-fixed-case">S</span>wedish]
+  url: https://www.aclweb.org/anthology/W77-0113
+  year: '1977'

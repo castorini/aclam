@@ -1,0 +1,1419 @@
+S01-1000:
+  address: Toulouse, France
+  author:
+  - first: Judita
+    full: Judita Preiss
+    id: judita-preiss
+    last: Preiss
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Judita Preiss, David Yarowsky
+  bibkey: semeval-2001-senseval
+  bibtype: proceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  month: July
+  paper_id: '0'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1000.jpg
+  title: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating Word
+    Sense Disambiguation Systems
+  title_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  url: https://www.aclweb.org/anthology/S01-1000
+  year: '2001'
+S01-1001:
+  address: Toulouse, France
+  author:
+  - first: Philip
+    full: Philip Edmonds
+    id: philip-edmonds
+    last: Edmonds
+  - first: Scott
+    full: Scott Cotton
+    id: scott-cotton
+    last: Cotton
+  author_string: Philip Edmonds, Scott Cotton
+  bibkey: edmonds-cotton-2001-senseval
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '1'
+  page_last: '5'
+  pages: "1\u20135"
+  paper_id: '1'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1001.jpg
+  title: 'SENSEVAL-2: Overview'
+  title_html: '<span class="acl-fixed-case">SENSEVAL</span>-2: Overview'
+  url: https://www.aclweb.org/anthology/S01-1001
+  year: '2001'
+S01-1002:
+  address: Toulouse, France
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Elena
+    full: Elena Garcia
+    id: elena-garcia
+    last: Garcia
+  - first: Mikel
+    full: Mikel Lersundi
+    id: mikel-lersundi
+    last: Lersundi
+  - first: David
+    full: David Martinez
+    id: david-martinez
+    last: Martinez
+  - first: Eli
+    full: Eli Pociello
+    id: eli-pociello
+    last: Pociello
+  author_string: Eneko Agirre, Elena Garcia, Mikel Lersundi, David Martinez, Eli Pociello
+  bibkey: agirre-etal-2001-basque
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '9'
+  page_last: '12'
+  pages: "9\u201312"
+  paper_id: '2'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1002.jpg
+  title: 'The Basque Task: Did Systems Perform in the Upperbound?'
+  title_html: 'The <span class="acl-fixed-case">B</span>asque Task: Did Systems Perform
+    in the Upperbound?'
+  url: https://www.aclweb.org/anthology/S01-1002
+  year: '2001'
+S01-1003:
+  address: Toulouse, France
+  author:
+  - first: Iris
+    full: Iris Hendrickx
+    id: iris-hendrickx
+    last: Hendrickx
+  - first: Antal
+    full: Antal van den Bosch
+    id: antal-van-den-bosch
+    last: van den Bosch
+  author_string: Iris Hendrickx, Antal van den Bosch
+  bibkey: hendrickx-van-den-bosch-2001-dutch
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '13'
+  page_last: '16'
+  pages: "13\u201316"
+  paper_id: '3'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1003.jpg
+  title: 'Dutch Word Sense Disambiguation: Data and Preliminary Results'
+  title_html: '<span class="acl-fixed-case">D</span>utch Word Sense Disambiguation:
+    Data and Preliminary Results'
+  url: https://www.aclweb.org/anthology/S01-1003
+  year: '2001'
+S01-1004:
+  address: Toulouse, France
+  author:
+  - first: Adam
+    full: Adam Kilgarriff
+    id: adam-kilgarriff
+    last: Kilgarriff
+  author_string: Adam Kilgarriff
+  bibkey: kilgarriff-2001-english
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '17'
+  page_last: '20'
+  pages: "17\u201320"
+  paper_id: '4'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1004.jpg
+  title: English Lexical Sample Task Description
+  title_html: <span class="acl-fixed-case">E</span>nglish Lexical Sample Task Description
+  url: https://www.aclweb.org/anthology/S01-1004
+  year: '2001'
+S01-1005:
+  address: Toulouse, France
+  author:
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  - first: Christiane
+    full: Christiane Fellbaum
+    id: christiane-fellbaum
+    last: Fellbaum
+  - first: Scott
+    full: Scott Cotton
+    id: scott-cotton
+    last: Cotton
+  - first: Lauren
+    full: Lauren Delfs
+    id: lauren-delfs
+    last: Delfs
+  - first: Hoa Trang
+    full: Hoa Trang Dang
+    id: hoa-trang-dang
+    last: Dang
+  author_string: Martha Palmer, Christiane Fellbaum, Scott Cotton, Lauren Delfs, Hoa
+    Trang Dang
+  bibkey: palmer-etal-2001-english
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '21'
+  page_last: '24'
+  pages: "21\u201324"
+  paper_id: '5'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1005.jpg
+  title: 'English Tasks: All-Words and Verb Lexical Sample'
+  title_html: '<span class="acl-fixed-case">E</span>nglish Tasks: All-Words and Verb
+    Lexical Sample'
+  url: https://www.aclweb.org/anthology/S01-1005
+  year: '2001'
+S01-1006:
+  address: Toulouse, France
+  author:
+  - first: Neeme
+    full: Neeme Kahusk
+    id: neeme-kahusk
+    last: Kahusk
+  - first: Heili
+    full: Heili Orav
+    id: heili-orav
+    last: Orav
+  - first: Haldur
+    full: "Haldur \xD5im"
+    id: haldur-oim
+    last: "\xD5im"
+  author_string: "Neeme Kahusk, Heili Orav, Haldur \xD5im"
+  bibkey: kahusk-etal-2001-sensiting
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '25'
+  page_last: '28'
+  pages: "25\u201328"
+  paper_id: '6'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1006.jpg
+  title: 'Sensiting Inflectionality: Estonian Task for SENSEVAL-2'
+  title_html: 'Sensiting Inflectionality: <span class="acl-fixed-case">E</span>stonian
+    Task for <span class="acl-fixed-case">SENSEVAL</span>-2'
+  url: https://www.aclweb.org/anthology/S01-1006
+  year: '2001'
+S01-1007:
+  address: Toulouse, France
+  author:
+  - first: Francesca
+    full: Francesca Bertagna
+    id: francesca-bertagna
+    last: Bertagna
+  - first: Claudia
+    full: Claudia Soria
+    id: claudia-soria
+    last: Soria
+  - first: Nicoletta
+    full: Nicoletta Calzolari
+    id: nicoletta-calzolari
+    last: Calzolari
+  author_string: Francesca Bertagna, Claudia Soria, Nicoletta Calzolari
+  bibkey: bertagna-etal-2001-italian
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '29'
+  page_last: '32'
+  pages: "29\u201332"
+  paper_id: '7'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1007.jpg
+  title: The Italian Lexical Sample Task
+  title_html: The <span class="acl-fixed-case">I</span>talian Lexical Sample Task
+  url: https://www.aclweb.org/anthology/S01-1007
+  year: '2001'
+S01-1008:
+  address: Toulouse, France
+  author:
+  - first: Kiyoaki
+    full: Kiyoaki Shirai
+    id: kiyoaki-shirai
+    last: Shirai
+  author_string: Kiyoaki Shirai
+  bibkey: shirai-2001-senseval
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '33'
+  page_last: '36'
+  pages: "33\u201336"
+  paper_id: '8'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1008.jpg
+  title: SENSEVAL-2 Japanese Dictionary Task
+  title_html: <span class="acl-fixed-case">SENSEVAL</span>-2 <span class="acl-fixed-case">J</span>apanese
+    Dictionary Task
+  url: https://www.aclweb.org/anthology/S01-1008
+  year: '2001'
+S01-1009:
+  address: Toulouse, France
+  author:
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Sadao Kurohashi
+  bibkey: kurohashi-2001-senseval
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '37'
+  page_last: '40'
+  pages: "37\u201340"
+  paper_id: '9'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1009.jpg
+  title: SENSEVAL-2 Japanese Translation Task
+  title_html: <span class="acl-fixed-case">SENSEVAL</span>-2 <span class="acl-fixed-case">J</span>apanese
+    Translation Task
+  url: https://www.aclweb.org/anthology/S01-1009
+  year: '2001'
+S01-1010:
+  address: Toulouse, France
+  author:
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  - first: Mariona
+    full: "Mariona Taul\xE9"
+    id: mariona-taule
+    last: "Taul\xE9"
+  - first: Ana
+    full: Ana Fernandez
+    id: ana-fernandez
+    last: Fernandez
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  author_string: "German Rigau, Mariona Taul\xE9, Ana Fernandez, Julio Gonzalo"
+  bibkey: rigau-etal-2001-framework
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '41'
+  page_last: '44'
+  pages: "41\u201344"
+  paper_id: '10'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1010.jpg
+  title: Framework and Results for the Spanish SENSEVAL
+  title_html: Framework and Results for the <span class="acl-fixed-case">S</span>panish
+    <span class="acl-fixed-case">SENSEVAL</span>
+  url: https://www.aclweb.org/anthology/S01-1010
+  year: '2001'
+S01-1011:
+  address: Toulouse, France
+  author:
+  - first: Dimitrios
+    full: Dimitrios Kokkinakis
+    id: dimitrios-kokkinakis
+    last: Kokkinakis
+  - first: Jerker
+    full: "Jerker J\xE4rborg"
+    id: jerker-jarborg
+    last: "J\xE4rborg"
+  - first: Yvonne
+    full: Yvonne Cederholm
+    id: yvonne-cederholm
+    last: Cederholm
+  author_string: "Dimitrios Kokkinakis, Jerker J\xE4rborg, Yvonne Cederholm"
+  bibkey: kokkinakis-etal-2001-senseval
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '45'
+  page_last: '48'
+  pages: "45\u201348"
+  paper_id: '11'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1011.jpg
+  title: SENSEVAL-2 The Swedish Framework
+  title_html: <span class="acl-fixed-case">SENSEVAL</span>-2 The <span class="acl-fixed-case">S</span>wedish
+    Framework
+  url: https://www.aclweb.org/anthology/S01-1011
+  year: '2001'
+S01-1012:
+  address: Toulouse, France
+  author:
+  - first: Paul
+    full: Paul Buitelaar
+    id: paul-buitelaar
+    last: Buitelaar
+  author_string: Paul Buitelaar
+  bibkey: buitelaar-2001-senseval
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '49'
+  page_last: '52'
+  pages: "49\u201352"
+  paper_id: '12'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1012.jpg
+  title: The SENSEVAL-2 Panel on Domains, Topics and Senses
+  title_html: The <span class="acl-fixed-case">SENSEVAL</span>-2 Panel on Domains,
+    Topics and Senses
+  url: https://www.aclweb.org/anthology/S01-1012
+  year: '2001'
+S01-1013:
+  address: Toulouse, France
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Atsushi
+    full: Atsushi Okazaki
+    id: atsushi-okazaki
+    last: Okazaki
+  - first: Takenobu
+    full: Takenobu Tokunaga
+    id: takenobu-tokunaga
+    last: Tokunaga
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  author_string: Timothy Baldwin, Atsushi Okazaki, Takenobu Tokunaga, Hozumi Tanaka
+  bibkey: baldwin-etal-2001-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '55'
+  page_last: '58'
+  pages: "55\u201358"
+  paper_id: '13'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1013.jpg
+  title: 'The Japanese Translation Task: Lexical and Structural Perspectives'
+  title_html: 'The <span class="acl-fixed-case">J</span>apanese Translation Task:
+    Lexical and Structural Perspectives'
+  url: https://www.aclweb.org/anthology/S01-1013
+  year: '2001'
+S01-1014:
+  address: Toulouse, France
+  author:
+  - first: Clara
+    full: Clara Cabezas
+    id: clara-cabezas
+    last: Cabezas
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Jessica
+    full: Jessica Stevens
+    id: jessica-stevens
+    last: Stevens
+  author_string: Clara Cabezas, Philip Resnik, Jessica Stevens
+  bibkey: cabezas-etal-2001-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '59'
+  page_last: '62'
+  pages: "59\u201362"
+  paper_id: '14'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1014.jpg
+  title: Supervised Sense Tagging using Support Vector Machines
+  title_html: Supervised Sense Tagging using Support Vector Machines
+  url: https://www.aclweb.org/anthology/S01-1014
+  year: '2001'
+S01-1015:
+  address: Toulouse, France
+  author:
+  - first: Gerald
+    full: Gerald Chao
+    id: gerald-chao
+    last: Chao
+  - first: Michael G.
+    full: Michael G. Dyer
+    id: michael-g-dyer
+    last: Dyer
+  author_string: Gerald Chao, Michael G. Dyer
+  bibkey: chao-dyer-2001-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '63'
+  page_last: '66'
+  pages: "63\u201366"
+  paper_id: '15'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1015.jpg
+  title: Probabilistic Network Models for Word Sense Disambiguation
+  title_html: Probabilistic Network Models for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/S01-1015
+  year: '2001'
+S01-1016:
+  address: Toulouse, France
+  author:
+  - first: Eric
+    full: Eric Crestan
+    id: eric-crestan
+    last: Crestan
+  - first: Marc
+    full: "Marc El-B\xE8ze"
+    id: marc-el-beze
+    last: "El-B\xE8ze"
+  - first: Claude
+    full: Claude de Loupy
+    id: claude-de-loupy
+    last: de Loupy
+  author_string: "Eric Crestan, Marc El-B\xE8ze, Claude de Loupy"
+  bibkey: crestan-etal-2001-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '67'
+  page_last: '70'
+  pages: "67\u201370"
+  paper_id: '16'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1016.jpg
+  title: Improving WSD with Multi-Level View of Context Monitored by Similarity Measure
+  title_html: Improving <span class="acl-fixed-case">WSD</span> with Multi-Level View
+    of Context Monitored by Similarity Measure
+  url: https://www.aclweb.org/anthology/S01-1016
+  year: '2001'
+S01-1017:
+  address: Toulouse, France
+  author:
+  - first: Gerard
+    full: Gerard Escudero
+    id: gerard-escudero
+    last: Escudero
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  author_string: "Gerard Escudero, Llu\xEDs M\xE0rquez, German Rigau"
+  bibkey: escudero-etal-2001-using
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '71'
+  page_last: '74'
+  pages: "71\u201374"
+  paper_id: '17'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1017.jpg
+  title: Using LazyBoosting for Word Sense Disambiguation
+  title_html: Using <span class="acl-fixed-case">L</span>azy<span class="acl-fixed-case">B</span>oosting
+    for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/S01-1017
+  year: '2001'
+S01-1018:
+  address: Toulouse, France
+  author:
+  - first: David
+    full: "David Fern\xE1ndez-Amor\xF3s"
+    id: david-fernandez-amoros
+    last: "Fern\xE1ndez-Amor\xF3s"
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  - first: Felisa
+    full: Felisa Verdejo
+    id: felisa-verdejo
+    last: Verdejo
+  author_string: "David Fern\xE1ndez-Amor\xF3s, Julio Gonzalo, Felisa Verdejo"
+  bibkey: fernandez-amoros-etal-2001-uned
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '75'
+  page_last: '78'
+  pages: "75\u201378"
+  paper_id: '18'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1018.jpg
+  title: The UNED Systems at SENSEVAL-2
+  title_html: The <span class="acl-fixed-case">UNED</span> Systems at <span class="acl-fixed-case">SENSEVAL</span>-2
+  url: https://www.aclweb.org/anthology/S01-1018
+  year: '2001'
+S01-1019:
+  address: Toulouse, France
+  author:
+  - first: Sherwood
+    full: Sherwood Haynes
+    id: sherwood-haynes
+    last: Haynes
+  author_string: Sherwood Haynes
+  bibkey: haynes-2001-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '79'
+  page_last: '82'
+  pages: "79\u201382"
+  paper_id: '19'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1019.jpg
+  title: Semantic Tagging Using WordNet Examples
+  title_html: Semantic Tagging Using <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et Examples
+  url: https://www.aclweb.org/anthology/S01-1019
+  year: '2001'
+S01-1020:
+  address: Toulouse, France
+  author:
+  - first: "V\xE9ronique"
+    full: "V\xE9ronique Hoste"
+    id: veronique-hoste
+    last: Hoste
+  - first: Anne
+    full: Anne Kool
+    id: anne-kool
+    last: Kool
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  author_string: "V\xE9ronique Hoste, Anne Kool, Walter Daelemans"
+  bibkey: hoste-etal-2001-classifier
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '83'
+  page_last: '86'
+  pages: "83\u201386"
+  paper_id: '20'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1020.jpg
+  title: Classifier Optimization and Combination in the English All Words Task
+  title_html: Classifier Optimization and Combination in the <span class="acl-fixed-case">E</span>nglish
+    All Words Task
+  url: https://www.aclweb.org/anthology/S01-1020
+  year: '2001'
+S01-1021:
+  address: Toulouse, France
+  author:
+  - first: H. Tolga
+    full: H. Tolga Ilhan
+    id: h-tolga-ilhan
+    last: Ilhan
+  - first: Sepandar D.
+    full: Sepandar D. Kamvar
+    id: sepandar-d-kamvar
+    last: Kamvar
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  author_string: H. Tolga Ilhan, Sepandar D. Kamvar, Dan Klein, Christopher D. Manning,
+    Kristina Toutanova
+  bibkey: ilhan-etal-2001-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '87'
+  page_last: '90'
+  pages: "87\u201390"
+  paper_id: '21'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1021.jpg
+  title: Combining Heterogeneous Classifiers for Word-Sense Disambiguation
+  title_html: Combining Heterogeneous Classifiers for Word-Sense Disambiguation
+  url: https://www.aclweb.org/anthology/S01-1021
+  year: '2001'
+S01-1022:
+  address: Toulouse, France
+  author:
+  - first: Dimitrios
+    full: Dimitrios Kokkinakis
+    id: dimitrios-kokkinakis
+    last: Kokkinakis
+  author_string: Dimitrios Kokkinakis
+  bibkey: kokkinakis-2001-sprakdata
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '91'
+  page_last: '94'
+  pages: "91\u201394"
+  paper_id: '22'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1022.jpg
+  title: "The Spr\xE5kdata-ML System as Used for SENSEVAL-2"
+  title_html: "The <span class=\"acl-fixed-case\">S</span>pr\xE5kdata-<span class=\"\
+    acl-fixed-case\">ML</span> System as Used for <span class=\"acl-fixed-case\">SENSEVAL</span>-2"
+  url: https://www.aclweb.org/anthology/S01-1022
+  year: '2001'
+S01-1023:
+  address: Toulouse, France
+  author:
+  - first: Tadashi
+    full: Tadashi Kumano
+    id: tadashi-kumano
+    last: Kumano
+  - first: Hideki
+    full: Hideki Kashioka
+    id: hideki-kashioka
+    last: Kashioka
+  - first: Hideki
+    full: Hideki Tanaka
+    id: hideki-tanaka
+    last: Tanaka
+  author_string: Tadashi Kumano, Hideki Kashioka, Hideki Tanaka
+  bibkey: kumano-etal-2001-atr
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '95'
+  page_last: '98'
+  pages: "95\u201398"
+  paper_id: '23'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1023.jpg
+  title: ATR-SLT System for SENSEVAL-2 Japanese Translation Task
+  title_html: <span class="acl-fixed-case">ATR</span>-<span class="acl-fixed-case">SLT</span>
+    System for <span class="acl-fixed-case">SENSEVAL</span>-2 <span class="acl-fixed-case">J</span>apanese
+    Translation Task
+  url: https://www.aclweb.org/anthology/S01-1023
+  year: '2001'
+S01-1024:
+  address: Toulouse, France
+  author:
+  - first: "Torbj\xF6rn"
+    full: "Torbj\xF6rn Lager"
+    id: torbjorn-lager
+    last: Lager
+  - first: Natalia
+    full: Natalia Zinovjeva
+    id: natalia-zinovjeva
+    last: Zinovjeva
+  author_string: "Torbj\xF6rn Lager, Natalia Zinovjeva"
+  bibkey: lager-zinovjeva-2001-sense
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '99'
+  page_last: '102'
+  pages: "99\u2013102"
+  paper_id: '24'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1024.jpg
+  title: 'Sense and Deduction: The Power of Peewees Applied to the SENSEVAL-2 Swedish
+    Lexical Sample Task'
+  title_html: 'Sense and Deduction: The Power of Peewees Applied to the <span class="acl-fixed-case">SENSEVAL</span>-2
+    <span class="acl-fixed-case">S</span>wedish Lexical Sample Task'
+  url: https://www.aclweb.org/anthology/S01-1024
+  year: '2001'
+S01-1025:
+  address: Toulouse, France
+  author:
+  - first: Beng Tat
+    full: Beng Tat Lim
+    id: beng-tat-lim
+    last: Lim
+  - first: Zaharin
+    full: Zaharin Yusoff
+    id: zaharin-yusoff
+    last: Yusoff
+  - first: Enya Kong
+    full: Enya Kong Tang
+    id: enya-kong-tang
+    last: Tang
+  - first: Cheng Ming
+    full: Cheng Ming Guo
+    id: cheng-ming-guo
+    last: Guo
+  author_string: Beng Tat Lim, Zaharin Yusoff, Enya Kong Tang, Cheng Ming Guo
+  bibkey: lim-etal-2001-primitive
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '103'
+  page_last: '106'
+  pages: "103\u2013106"
+  paper_id: '25'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1025.jpg
+  title: Primitive-Based Word Sense Disambiguation for SENSEVAL-2
+  title_html: Primitive-Based Word Sense Disambiguation for <span class="acl-fixed-case">SENSEVAL</span>-2
+  url: https://www.aclweb.org/anthology/S01-1025
+  year: '2001'
+S01-1026:
+  address: Toulouse, France
+  author:
+  - first: Kenneth C.
+    full: Kenneth C. Litkowski
+    id: kenneth-c-litkowski
+    last: Litkowski
+  author_string: Kenneth C. Litkowski
+  bibkey: litkowski-2001-use
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '107'
+  page_last: '110'
+  pages: "107\u2013110"
+  paper_id: '26'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1026.jpg
+  title: Use of Machine Readable Dictionaries for Word-Sense Disambiguation in SENSEVAL-2
+  title_html: Use of Machine Readable Dictionaries for Word-Sense Disambiguation in
+    <span class="acl-fixed-case">SENSEVAL</span>-2
+  url: https://www.aclweb.org/anthology/S01-1026
+  year: '2001'
+S01-1027:
+  address: Toulouse, France
+  author:
+  - first: Bernardo
+    full: Bernardo Magnini
+    id: bernardo-magnini
+    last: Magnini
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  - first: Giovanni
+    full: Giovanni Pezzulo
+    id: giovanni-pezzulo
+    last: Pezzulo
+  - first: Alfio
+    full: Alfio Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  author_string: Bernardo Magnini, Carlo Strapparava, Giovanni Pezzulo, Alfio Gliozzo
+  bibkey: magnini-etal-2001-using
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '111'
+  page_last: '114'
+  pages: "111\u2013114"
+  paper_id: '27'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1027.jpg
+  title: Using Domain Information for Word Sense Disambiguation
+  title_html: Using Domain Information for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/S01-1027
+  year: '2001'
+S01-1028:
+  address: Toulouse, France
+  author:
+  - first: David
+    full: David Martinez
+    id: david-martinez
+    last: Martinez
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  author_string: David Martinez, Eneko Agirre
+  bibkey: martinez-agirre-2001-decision
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '115'
+  page_last: '118'
+  pages: "115\u2013118"
+  paper_id: '28'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1028.jpg
+  title: Decision Lists for English and Basque
+  title_html: Decision Lists for <span class="acl-fixed-case">E</span>nglish and Basque
+  url: https://www.aclweb.org/anthology/S01-1028
+  year: '2001'
+S01-1029:
+  address: Toulouse, France
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  - first: Judita
+    full: Judita Preiss
+    id: judita-preiss
+    last: Preiss
+  author_string: Diana McCarthy, John Carroll, Judita Preiss
+  bibkey: mccarthy-etal-2001-disambiguating
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '119'
+  page_last: '122'
+  pages: "119\u2013122"
+  paper_id: '29'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1029.jpg
+  title: Disambiguating Noun and Verb Senses Using Automatically Acquired Selectional
+    Preferences
+  title_html: Disambiguating Noun and Verb Senses Using Automatically Acquired Selectional
+    Preferences
+  url: https://www.aclweb.org/anthology/S01-1029
+  year: '2001'
+S01-1030:
+  address: Toulouse, France
+  author:
+  - first: Magnus
+    full: Magnus Merkel
+    id: magnus-merkel
+    last: Merkel
+  - first: Mikael
+    full: Mikael Andersson
+    id: mikael-andersson
+    last: Andersson
+  author_string: Magnus Merkel, Mikael Andersson
+  bibkey: merkel-andersson-2001-combination
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '123'
+  page_last: '126'
+  pages: "123\u2013126"
+  paper_id: '30'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1030.jpg
+  title: 'Combination of Contextual Features for Word Sense Disambiguation: LIU-WSD'
+  title_html: 'Combination of Contextual Features for Word Sense Disambiguation: <span
+    class="acl-fixed-case">LIU</span>-<span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S01-1030
+  year: '2001'
+S01-1031:
+  address: Toulouse, France
+  author:
+  - first: Rada F.
+    full: Rada F. Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Dan I.
+    full: Dan I. Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  author_string: Rada F. Mihalcea, Dan I. Moldovan
+  bibkey: mihalcea-moldovan-2001-pattern
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '127'
+  page_last: '130'
+  pages: "127\u2013130"
+  paper_id: '31'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1031.jpg
+  title: Pattern Learning and Active Feature Selection for Word Sense Disambiguation
+  title_html: Pattern Learning and Active Feature Selection for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/S01-1031
+  year: '2001'
+S01-1032:
+  address: Toulouse, France
+  author:
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo"
+    id: andres-montoyo
+    last: Montoyo
+  - first: Armando
+    full: "Armando Su\xE1rez"
+    id: armando-suarez
+    last: "Su\xE1rez"
+  author_string: "Andr\xE9s Montoyo, Armando Su\xE1rez"
+  bibkey: montoyo-suarez-2001-university
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '131'
+  page_last: '134'
+  pages: "131\u2013134"
+  paper_id: '32'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1032.jpg
+  title: The University of Alicante Word Sense Disambiguation System
+  title_html: <span class="acl-fixed-case">T</span>he <span class="acl-fixed-case">U</span>niversity
+    of <span class="acl-fixed-case">A</span>licante Word Sense Disambiguation System
+  url: https://www.aclweb.org/anthology/S01-1032
+  year: '2001'
+S01-1033:
+  address: Toulouse, France
+  author:
+  - first: Masaki
+    full: Masaki Murata
+    id: masaki-murata
+    last: Murata
+  - first: Masao
+    full: Masao Utiyama
+    id: masao-utiyama
+    last: Utiyama
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Qing
+    full: Qing Ma
+    id: qing-ma
+    last: Ma
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Masaki Murata, Masao Utiyama, Kiyotaka Uchimoto, Qing Ma, Hitoshi
+    Isahara
+  bibkey: murata-etal-2001-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '135'
+  page_last: '138'
+  pages: "135\u2013138"
+  paper_id: '33'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1033.jpg
+  title: Japanese Word Sense Disambiguation using the Simple Bayes and Support Vector
+    Machine Methods
+  title_html: <span class="acl-fixed-case">J</span>apanese Word Sense Disambiguation
+    using the Simple <span class="acl-fixed-case">B</span>ayes and Support Vector
+    Machine Methods
+  url: https://www.aclweb.org/anthology/S01-1033
+  year: '2001'
+S01-1034:
+  address: Toulouse, France
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Ted Pedersen
+  bibkey: pedersen-2001-machine
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '139'
+  page_last: '142'
+  pages: "139\u2013142"
+  paper_id: '34'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1034.jpg
+  title: 'Machine Learning with Lexical Features: The Duluth Approach to SENSEVAL-2'
+  title_html: 'Machine Learning with Lexical Features: <span class="acl-fixed-case">T</span>he
+    <span class="acl-fixed-case">D</span>uluth Approach to <span class="acl-fixed-case">SENSEVAL</span>-2'
+  url: https://www.aclweb.org/anthology/S01-1034
+  year: '2001'
+S01-1035:
+  address: Toulouse, France
+  author:
+  - first: Judita
+    full: Judita Preiss
+    id: judita-preiss
+    last: Preiss
+  author_string: Judita Preiss
+  bibkey: preiss-2001-anaphora
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '143'
+  page_last: '146'
+  pages: "143\u2013146"
+  paper_id: '35'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1035.jpg
+  title: Anaphora Resolution with Word Sense Disambiguation
+  title_html: Anaphora Resolution with Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/S01-1035
+  year: '2001'
+S01-1036:
+  address: Toulouse, France
+  author:
+  - first: Hee-Cheol
+    full: Hee-Cheol Seo
+    id: hee-cheol-seo
+    last: Seo
+  - first: Sang-Zoo
+    full: Sang-Zoo Lee
+    id: sang-zoo-lee
+    last: Lee
+  - first: Hae-Chang
+    full: Hae-Chang Rim
+    id: hae-chang-rim
+    last: Rim
+  - first: Ho
+    full: Ho Lee
+    id: ho-lee
+    last: Lee
+  author_string: Hee-Cheol Seo, Sang-Zoo Lee, Hae-Chang Rim, Ho Lee
+  bibkey: seo-etal-2001-kunlp
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '147'
+  page_last: '150'
+  pages: "147\u2013150"
+  paper_id: '36'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1036.jpg
+  title: KUNLP system using Classification Information Model at SENSEVAL-2
+  title_html: <span class="acl-fixed-case">KUNLP</span> system using Classification
+    Information Model at <span class="acl-fixed-case">SENSEVAL</span>-2
+  url: https://www.aclweb.org/anthology/S01-1036
+  year: '2001'
+S01-1037:
+  address: Toulouse, France
+  author:
+  - first: David
+    full: David Tugwell
+    id: david-tugwell
+    last: Tugwell
+  - first: Adam
+    full: Adam Kilgarriff
+    id: adam-kilgarriff
+    last: Kilgarriff
+  author_string: David Tugwell, Adam Kilgarriff
+  bibkey: tugwell-kilgarriff-2001-wasp
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '151'
+  page_last: '154'
+  pages: "151\u2013154"
+  paper_id: '37'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1037.jpg
+  title: 'WASP-Bench: a Lexicographic Tool Supporting Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">WASP</span>-<span class="acl-fixed-case">B</span>ench:
+    a Lexicographic Tool Supporting Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S01-1037
+  year: '2001'
+S01-1038:
+  address: Toulouse, France
+  author:
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Masaki
+    full: Masaki Murata
+    id: masaki-murata
+    last: Murata
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Kiyotaka Uchimoto, Satoshi Sekine, Masaki Murata, Hitoshi Isahara
+  bibkey: uchimoto-etal-2001-word
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '155'
+  page_last: '158'
+  pages: "155\u2013158"
+  paper_id: '38'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1038.jpg
+  title: Word Translation Based on Machine Learning Models Using Translation Memory
+    and Corpora
+  title_html: Word Translation Based on Machine Learning Models Using Translation
+    Memory and Corpora
+  url: https://www.aclweb.org/anthology/S01-1038
+  year: '2001'
+S01-1039:
+  address: Toulouse, France
+  author:
+  - first: Kadri
+    full: Kadri Vider
+    id: kadri-vider
+    last: Vider
+  - first: Kaarel
+    full: Kaarel Kaljurand
+    id: kaarel-kaljurand
+    last: Kaljurand
+  author_string: Kadri Vider, Kaarel Kaljurand
+  bibkey: vider-kaljurand-2001-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '159'
+  page_last: '162'
+  pages: "159\u2013162"
+  paper_id: '39'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1039.jpg
+  title: 'Automatic WSD: Does it Make Sense of Estonian?'
+  title_html: 'Automatic <span class="acl-fixed-case">WSD</span>: Does it Make Sense
+    of <span class="acl-fixed-case">E</span>stonian?'
+  url: https://www.aclweb.org/anthology/S01-1039
+  year: '2001'
+S01-1040:
+  address: Toulouse, France
+  author:
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  - first: Silviu
+    full: Silviu Cucerzan
+    id: silviu-cucerzan
+    last: Cucerzan
+  - first: Radu
+    full: Radu Florian
+    id: radu-florian
+    last: Florian
+  - first: Charles
+    full: Charles Schafer
+    id: charles-schafer
+    last: Schafer
+  - first: Richard
+    full: Richard Wicentowski
+    id: richard-wicentowski
+    last: Wicentowski
+  author_string: David Yarowsky, Silviu Cucerzan, Radu Florian, Charles Schafer, Richard
+    Wicentowski
+  bibkey: yarowsky-etal-2001-john
+  bibtype: inproceedings
+  booktitle: Proceedings of SENSEVAL-2 Second International Workshop on Evaluating
+    Word Sense Disambiguation Systems
+  booktitle_html: Proceedings of <span class="acl-fixed-case">SENSEVAL</span>-2 Second
+    International Workshop on Evaluating Word Sense Disambiguation Systems
+  month: July
+  page_first: '163'
+  page_last: '166'
+  pages: "163\u2013166"
+  paper_id: '40'
+  parent_volume_id: S01-1
+  pdf: https://www.aclweb.org/anthology/S01-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S01-1040.jpg
+  title: The John Hopkins SENSEVAL-2 System Descriptions
+  title_html: <span class="acl-fixed-case">T</span>he <span class="acl-fixed-case">J</span>ohn
+    <span class="acl-fixed-case">H</span>opkins <span class="acl-fixed-case">SENSEVAL</span>-2
+    System Descriptions
+  url: https://www.aclweb.org/anthology/S01-1040
+  year: '2001'

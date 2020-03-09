@@ -1,0 +1,653 @@
+U04-1000:
+  address: Sydney, Australia
+  author:
+  - first: Ash
+    full: Ash Asudeh
+    id: ash-asudeh
+    last: Asudeh
+  - first: Cecile
+    full: Cecile Paris
+    id: cecile-paris
+    last: Paris
+  - first: Stephen
+    full: Stephen Wan
+    id: stephen-wan
+    last: Wan
+  author_string: Ash Asudeh, Cecile Paris, Stephen Wan
+  bibkey: alta-2004-australasian
+  bibtype: proceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  paper_id: '0'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1000.jpg
+  title: Proceedings of the Australasian Language Technology Workshop 2004
+  title_html: Proceedings of the Australasian Language Technology Workshop 2004
+  url: https://www.aclweb.org/anthology/U04-1000
+  year: '2004'
+U04-1001:
+  address: Sydney, Australia
+  author:
+  - first: Ari
+    full: Ari Chanen
+    id: ari-chanen
+    last: Chanen
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  author_string: Ari Chanen, Jon Patrick
+  bibkey: chanen-patrick-2004-complex
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1001.jpg
+  title: Complex, Corpus-Driven, Syntactic Features for Word Sense Disambiguation
+  title_html: Complex, Corpus-Driven, Syntactic Features for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/U04-1001
+  year: '2004'
+U04-1002:
+  address: Sydney, Australia
+  author:
+  - first: Diego
+    full: Diego Molla
+    id: diego-molla
+    last: Molla
+  - first: Mary
+    full: Mary Gardiner
+    id: mary-gardiner
+    last: Gardiner
+  author_string: Diego Molla, Mary Gardiner
+  bibkey: molla-gardiner-2004-answerfinder
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1002.jpg
+  title: 'Answerfinder: Question Answering by Combining Lexical, Syntactic and Semantic
+    Information'
+  title_html: '<span class="acl-fixed-case">A</span>nswerfinder: Question Answering
+    by Combining Lexical, Syntactic and Semantic Information'
+  url: https://www.aclweb.org/anthology/U04-1002
+  year: '2004'
+U04-1003:
+  address: Sydney, Australia
+  author:
+  - first: David
+    full: David Bell
+    id: david-bell
+    last: Bell
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  author_string: David Bell, Jon Patrick
+  bibkey: bell-patrick-2004-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1003.jpg
+  title: Using WordNet Domains In A Supervised Learning Word Sense Disambiguation
+    System
+  title_html: Using <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et
+    Domains In A Supervised Learning Word Sense Disambiguation System
+  url: https://www.aclweb.org/anthology/U04-1003
+  year: '2004'
+U04-1004:
+  address: Sydney, Australia
+  author:
+  - first: Luiz Augusto Sangoi
+    full: Luiz Augusto Sangoi Pizzato
+    id: luiz-augusto-pizzato
+    last: Pizzato
+  author_string: Luiz Augusto Sangoi Pizzato
+  bibkey: pizzato-2004-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '25'
+  page_last: '31'
+  pages: "25\u201331"
+  paper_id: '4'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1004.jpg
+  title: Using a Trie-based Structure for Question Analysis
+  title_html: Using a Trie-based Structure for Question Analysis
+  url: https://www.aclweb.org/anthology/U04-1004
+  year: '2004'
+U04-1005:
+  address: Sydney, Australia
+  author:
+  - first: Mingfang
+    full: Mingfang Wu
+    id: mingfang-wu
+    last: Wu
+  - first: Ross
+    full: Ross Wilkinson
+    id: ross-wilkinson
+    last: Wilkinson
+  - first: Cecile
+    full: Cecile Paris
+    id: cecile-paris
+    last: Paris
+  author_string: Mingfang Wu, Ross Wilkinson, Cecile Paris
+  bibkey: wu-etal-2004-evaluation
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '32'
+  page_last: '38'
+  pages: "32\u201338"
+  paper_id: '5'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1005.jpg
+  title: An Evaluation on Query-biased Summarisation for the Question Answering Task
+  title_html: An Evaluation on Query-biased Summarisation for the Question Answering
+    Task
+  url: https://www.aclweb.org/anthology/U04-1005
+  year: '2004'
+U04-1006:
+  address: Sydney, Australia
+  author:
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  - first: Pham Hong
+    full: Pham Hong Nguyen
+    id: pham-hong-nguyen
+    last: Nguyen
+  author_string: Jon Patrick, Pham Hong Nguyen
+  bibkey: patrick-nguyen-2004-thin
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '39'
+  page_last: '46'
+  pages: "39\u201346"
+  paper_id: '6'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1006.jpg
+  title: 'Thin Parsing: A Balance between Wide Scale Parsing and Chunking'
+  title_html: 'Thin Parsing: A Balance between Wide Scale Parsing and Chunking'
+  url: https://www.aclweb.org/anthology/U04-1006
+  year: '2004'
+U04-1007:
+  address: Sydney, Australia
+  author:
+  - first: Corrin
+    full: Corrin Lakeland
+    id: corrin-lakeland
+    last: Lakeland
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  author_string: Corrin Lakeland, Alistair Knott
+  bibkey: lakeland-knott-2004-implementing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '47'
+  page_last: '54'
+  pages: "47\u201354"
+  paper_id: '7'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1007.jpg
+  title: Implementing a lexicalised statistical parser
+  title_html: Implementing a lexicalised statistical parser
+  url: https://www.aclweb.org/anthology/U04-1007
+  year: '2004'
+U04-1008:
+  address: Sydney, Australia
+  author:
+  - first: Rolf
+    full: Rolf Schwitter
+    id: rolf-schwitter
+    last: Schwitter
+  - first: Marc
+    full: Marc Tilbrook
+    id: marc-tilbrook
+    last: Tilbrook
+  author_string: Rolf Schwitter, Marc Tilbrook
+  bibkey: schwitter-tilbrook-2004-controlled
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '55'
+  page_last: '62'
+  pages: "55\u201362"
+  paper_id: '8'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1008.jpg
+  title: Controlled Natural Language meets the SemanticWeb
+  title_html: Controlled Natural Language meets the <span class="acl-fixed-case">S</span>emantic<span
+    class="acl-fixed-case">W</span>eb
+  url: https://www.aclweb.org/anthology/U04-1008
+  year: '2004'
+U04-1009:
+  address: Sydney, Australia
+  author:
+  - first: Andrew
+    full: Andrew Lampert
+    id: andrew-lampert
+    last: Lampert
+  - first: Cecile
+    full: Cecile Paris
+    id: cecile-paris
+    last: Paris
+  author_string: Andrew Lampert, Cecile Paris
+  bibkey: lampert-paris-2004-information
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '63'
+  page_last: '70'
+  pages: "63\u201370"
+  paper_id: '9'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1009.jpg
+  title: Information Assembly for Automatic Content Adaptation
+  title_html: Information Assembly for Automatic Content Adaptation
+  url: https://www.aclweb.org/anthology/U04-1009
+  year: '2004'
+U04-1010:
+  address: Sydney, Australia
+  author:
+  - first: Bernd
+    full: Bernd Bohnet
+    id: bernd-bohnet
+    last: Bohnet
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Bernd Bohnet, Robert Dale
+  bibkey: bohnet-dale-2004-referring
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '71'
+  page_last: '77'
+  pages: "71\u201377"
+  paper_id: '10'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1010.jpg
+  title: Referring Expression Generation as a Search Problem
+  title_html: Referring Expression Generation as a Search Problem
+  url: https://www.aclweb.org/anthology/U04-1010
+  year: '2004'
+U04-1011:
+  address: Sydney, Australia
+  author:
+  - first: Mark
+    full: Mark Foreman
+    id: mark-foreman
+    last: Foreman
+  - first: Daniel
+    full: Daniel McMichael
+    id: daniel-mcmichael
+    last: McMichael
+  author_string: Mark Foreman, Daniel McMichael
+  bibkey: foreman-mcmichael-2004-meta
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '78'
+  page_last: '84'
+  pages: "78\u201384"
+  paper_id: '11'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1011.jpg
+  title: A Meta-grammar for CCG
+  title_html: A Meta-grammar for <span class="acl-fixed-case">CCG</span>
+  url: https://www.aclweb.org/anthology/U04-1011
+  year: '2004'
+U04-1012:
+  address: Sydney, Australia
+  author:
+  - first: Cecile
+    full: Cecile Paris
+    id: cecile-paris
+    last: Paris
+  - first: Nathalie
+    full: Nathalie Colineau
+    id: nathalie-colineau
+    last: Colineau
+  - first: Dominique
+    full: Dominique Estival
+    id: dominique-estival
+    last: Estival
+  author_string: Cecile Paris, Nathalie Colineau, Dominique Estival
+  bibkey: paris-etal-2004-intelligent
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '85'
+  page_last: '92'
+  pages: "85\u201392"
+  paper_id: '12'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1012.jpg
+  title: Intelligent Multi Media Presentation of information in a semi-immersive Command
+    and Control environment
+  title_html: Intelligent Multi Media Presentation of information in a semi-immersive
+    Command and Control environment
+  url: https://www.aclweb.org/anthology/U04-1012
+  year: '2004'
+U04-1013:
+  address: Sydney, Australia
+  author:
+  - first: Casey
+    full: Casey Whitelaw
+    id: casey-whitelaw
+    last: Whitelaw
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  author_string: Casey Whitelaw, Jon Patrick
+  bibkey: whitelaw-patrick-2004-selecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '93'
+  page_last: '100'
+  pages: "93\u2013100"
+  paper_id: '13'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1013.jpg
+  title: Selecting Systemic Features for Text Classification
+  title_html: Selecting Systemic Features for Text Classification
+  url: https://www.aclweb.org/anthology/U04-1013
+  year: '2004'
+U04-1014:
+  address: Sydney, Australia
+  author:
+  - first: Pont
+    full: Pont Lurcock
+    id: pont-lurcock
+    last: Lurcock
+  - first: Peter
+    full: Peter Vlugter
+    id: peter-vlugter
+    last: Vlugter
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  author_string: Pont Lurcock, Peter Vlugter, Alistair Knott
+  bibkey: lurcock-etal-2004-framework
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '101'
+  page_last: '108'
+  pages: "101\u2013108"
+  paper_id: '14'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1014.jpg
+  title: A framework for utterance disambiguation in dialogue
+  title_html: A framework for utterance disambiguation in dialogue
+  url: https://www.aclweb.org/anthology/U04-1014
+  year: '2004'
+U04-1015:
+  address: Sydney, Australia
+  author:
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  author_string: Phil Blunsom
+  bibkey: blunsom-2004-maximum
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '109'
+  page_last: '116'
+  pages: "109\u2013116"
+  paper_id: '15'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1015.jpg
+  title: Maximum Entropy Markov Models for Semantic Role Labelling
+  title_html: Maximum Entropy <span class="acl-fixed-case">M</span>arkov Models for
+    Semantic Role Labelling
+  url: https://www.aclweb.org/anthology/U04-1015
+  year: '2004'
+U04-1016:
+  address: Sydney, Australia
+  author:
+  - first: Yuanyong
+    full: Yuanyong Wang
+    id: yuanyong-wang
+    last: Wang
+  - first: Achim
+    full: Achim Hoffmann
+    id: achim-hoffmann
+    last: Hoffmann
+  author_string: Yuanyong Wang, Achim Hoffmann
+  bibkey: wang-hoffmann-2004-new
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '117'
+  page_last: '122'
+  pages: "117\u2013122"
+  paper_id: '16'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1016.jpg
+  title: A New Measure for Extracting Semantically Related Words
+  title_html: A New Measure for Extracting Semantically Related Words
+  url: https://www.aclweb.org/anthology/U04-1016
+  year: '2004'
+U04-1017:
+  address: Sydney, Australia
+  author:
+  - first: David
+    full: David Penton
+    id: david-penton
+    last: Penton
+  - first: Steven
+    full: Steven Bird
+    id: steven-bird
+    last: Bird
+  author_string: David Penton, Steven Bird
+  bibkey: penton-bird-2004-representing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '123'
+  page_last: '130'
+  pages: "123\u2013130"
+  paper_id: '17'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1017.jpg
+  title: Representing and Rendering Linguistic Paradigms
+  title_html: Representing and Rendering Linguistic Paradigms
+  url: https://www.aclweb.org/anthology/U04-1017
+  year: '2004'
+U04-1018:
+  address: Sydney, Australia
+  author:
+  - first: Maarten
+    full: Maarten van Schagen
+    id: maarten-van-schagen
+    last: van Schagen
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  author_string: Maarten van Schagen, Alistair Knott
+  bibkey: van-schagen-knott-2004-tauira
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '131'
+  page_last: '138'
+  pages: "131\u2013138"
+  paper_id: '18'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1018.jpg
+  title: 'Tauira: A tool for acquiring unknown words in a dialogue context'
+  title_html: '<span class="acl-fixed-case">T</span>auira: A tool for acquiring unknown
+    words in a dialogue context'
+  url: https://www.aclweb.org/anthology/U04-1018
+  year: '2004'
+U04-1019:
+  address: Sydney, Australia
+  author:
+  - first: Catherine
+    full: Catherine Lai
+    id: catherine-lai
+    last: Lai
+  - first: Steven
+    full: Steven Bird
+    id: steven-bird
+    last: Bird
+  author_string: Catherine Lai, Steven Bird
+  bibkey: lai-bird-2004-querying
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '139'
+  page_last: '146'
+  pages: "139\u2013146"
+  paper_id: '19'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1019.jpg
+  title: 'Querying and Updating Treebanks: A Critical Survey and Requirements Analysis'
+  title_html: 'Querying and Updating Treebanks: A Critical Survey and Requirements
+    Analysis'
+  url: https://www.aclweb.org/anthology/U04-1019
+  year: '2004'
+U04-1020:
+  address: Sydney, Australia
+  author:
+  - first: Matthew
+    full: Matthew Honnibal
+    id: matthew-honnibal
+    last: Honnibal
+  author_string: Matthew Honnibal
+  bibkey: honnibal-2004-converting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '147'
+  page_last: '154'
+  pages: "147\u2013154"
+  paper_id: '20'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1020.jpg
+  title: Converting the Penn Treebank to Systemic Functional Grammar
+  title_html: Converting the <span class="acl-fixed-case">P</span>enn Treebank to
+    Systemic Functional Grammar
+  url: https://www.aclweb.org/anthology/U04-1020
+  year: '2004'
+U04-1021:
+  address: Sydney, Australia
+  author:
+  - first: Patrick
+    full: Patrick Ye
+    id: patrick-ye
+    last: Ye
+  author_string: Patrick Ye
+  bibkey: ye-2004-selection
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '155'
+  page_last: '162'
+  pages: "155\u2013162"
+  paper_id: '21'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1021.jpg
+  title: Selection Preference Basede Verb Sense Disambiguation Using WordNet
+  title_html: Selection Preference Basede Verb Sense Disambiguation Using <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et
+  url: https://www.aclweb.org/anthology/U04-1021
+  year: '2004'
+U04-1022:
+  address: Sydney, Australia
+  author:
+  - first: Jon
+    full: Jon Patrick
+    id: jon-patrick
+    last: Patrick
+  - first: Jeremy
+    full: Jeremy Fletcher
+    id: jeremy-fletcher
+    last: Fletcher
+  author_string: Jon Patrick, Jeremy Fletcher
+  bibkey: patrick-fletcher-2004-differentiating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2004
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2004
+  month: December
+  page_first: '163'
+  page_last: '170'
+  pages: "163\u2013170"
+  paper_id: '22'
+  parent_volume_id: U04-1
+  pdf: https://www.aclweb.org/anthology/U04-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U04-1022.jpg
+  title: Differentiating Types of Verb Particle Constructions
+  title_html: Differentiating Types of Verb Particle Constructions
+  url: https://www.aclweb.org/anthology/U04-1022
+  year: '2004'

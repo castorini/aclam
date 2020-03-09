@@ -1,0 +1,2599 @@
+W89-0100:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "J\xF6rgen"
+    full: "J\xF6rgen Pind"
+    id: jorgen-pind
+    last: Pind
+  - first: "Eir\xEDkur"
+    full: "Eir\xEDkur R\xF6gnvaldsson"
+    id: eirikur-rognvaldsson
+    last: "R\xF6gnvaldsson"
+  author_string: "J\xF6rgen Pind, Eir\xEDkur R\xF6gnvaldsson"
+  bibkey: ws-1990-nordic
+  bibtype: proceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  paper_id: '0'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0100.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0100.jpg
+  title: Proceedings of the 7th Nordic Conference of Computational Linguistics (NODALIDA
+    1989)
+  title_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  url: https://www.aclweb.org/anthology/W89-0100
+  year: '1990'
+W89-0101:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "Stef\xE1n"
+    full: "Stef\xE1n Briem"
+    id: stefan-briem
+    last: Briem
+  author_string: "Stef\xE1n Briem"
+  bibkey: briem-1990-automatisk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '3'
+  page_last: '13'
+  pages: "3\u201313"
+  paper_id: '1'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0101.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0101.jpg
+  title: Automatisk morfologisk analyse af islandsk tekst (Automatic morphological
+    analysis of Icelandic text) [In Danish]
+  title_html: Automatisk morfologisk analyse af islandsk tekst (Automatic morphological
+    analysis of <span class="acl-fixed-case">I</span>celandic text) [In <span class="acl-fixed-case">D</span>anish]
+  url: https://www.aclweb.org/anthology/W89-0101
+  year: '1990'
+W89-0102:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Eva
+    full: Eva Ejerhed
+    id: eva-ejerhed
+    last: Ejerhed
+  author_string: Eva Ejerhed
+  bibkey: ejerhed-1990-swedish
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '14'
+  page_last: '29'
+  pages: "14\u201329"
+  paper_id: '2'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0102.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0102.jpg
+  title: A Swedish Clause Grammar And Its Implementation
+  title_html: A <span class="acl-fixed-case">S</span>wedish Clause Grammar And Its
+    Implementation
+  url: https://www.aclweb.org/anthology/W89-0102
+  year: '1990'
+W89-0103:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Lars M.
+    full: Lars M. Gustafsson
+    id: lars-m-gustafsson
+    last: Gustafsson
+  author_string: Lars M. Gustafsson
+  bibkey: gustafsson-1990-handelsestyrd
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '30'
+  page_last: '40'
+  pages: "30\u201340"
+  paper_id: '3'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0103.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0103.jpg
+  title: "H\xE4ndelsestyrd textgenerering (Event-driven text generation) [In Swedish]"
+  title_html: "H\xE4ndelsestyrd textgenerering (Event-driven text generation) [In\
+    \ <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W89-0103
+  year: '1990'
+W89-0104:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Steffen Leo
+    full: Steffen Leo Hansen
+    id: steffen-leo-hansen
+    last: Hansen
+  author_string: Steffen Leo Hansen
+  bibkey: hansen-1990-pa
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '41'
+  page_last: '50'
+  pages: "41\u201350"
+  paper_id: '4'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0104.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0104.jpg
+  title: "P\xE5 vej mod en fagsproglig tekstfortolker? (Towards a specialized text\
+    \ interpreter?) [In Danish]"
+  title_html: "P\xE5 vej mod en fagsproglig tekstfortolker? (Towards a specialized\
+    \ text interpreter?) [In <span class=\"acl-fixed-case\">D</span>anish]"
+  url: https://www.aclweb.org/anthology/W89-0104
+  year: '1990'
+W89-0105:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Janne Bondi
+    full: Janne Bondi Johannessen
+    id: janne-bondi-johannessen
+    last: Johannessen
+  author_string: Janne Bondi Johannessen
+  bibkey: johannessen-1990-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '51'
+  page_last: '59'
+  pages: "51\u201359"
+  paper_id: '5'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0105.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0105.jpg
+  title: Is Two-level Morphology a Morphological Model?
+  title_html: Is Two-level Morphology a Morphological Model?
+  url: https://www.aclweb.org/anthology/W89-0105
+  year: '1990'
+W89-0106:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Gunnel
+    full: "Gunnel K\xE4llgren"
+    id: gunnel-kallgren
+    last: "K\xE4llgren"
+  author_string: "Gunnel K\xE4llgren"
+  bibkey: kallgren-1990-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '60'
+  page_last: '76'
+  pages: "60\u201376"
+  paper_id: '6'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0106.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0106.jpg
+  title: Automatic Indexing and Generating of Content Graphs from Unrestricted Text
+  title_html: Automatic Indexing and Generating of Content Graphs from Unrestricted
+    Text
+  url: https://www.aclweb.org/anthology/W89-0106
+  year: '1990'
+W89-0107:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Gregers
+    full: Gregers Koch
+    id: gregers-koch
+    last: Koch
+  author_string: Gregers Koch
+  bibkey: koch-1990-computational
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '77'
+  page_last: '85'
+  pages: "77\u201385"
+  paper_id: '7'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0107.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0107.jpg
+  title: Computational Man-Machine Interaction in Simple Natural Language
+  title_html: Computational Man-Machine Interaction in Simple Natural Language
+  url: https://www.aclweb.org/anthology/W89-0107
+  year: '1990'
+W89-0108:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Jordan
+    full: Jordan Zlatev
+    id: jordan-zlatev
+    last: Zlatev
+  author_string: Jordan Zlatev
+  bibkey: zlatev-1990-criteria
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '86'
+  page_last: '100'
+  pages: "86\u2013100"
+  paper_id: '8'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0108.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0108.jpg
+  title: 'Criteria for Computational Models of Morphology: The Two-Level Model as
+    an NLP Framework'
+  title_html: 'Criteria for Computational Models of Morphology: The Two-Level Model
+    as an <span class="acl-fixed-case">NLP</span> Framework'
+  url: https://www.aclweb.org/anthology/W89-0108
+  year: '1990'
+W89-0109:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Poul
+    full: Poul Andersen
+    id: poul-andersen
+    last: Andersen
+  author_string: Poul Andersen
+  bibkey: andersen-1990-close
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '103'
+  page_last: '113'
+  pages: "103\u2013113"
+  paper_id: '9'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0109.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0109.jpg
+  title: How Close Can We Get to the Ideal of Simple Transfer in Multi-lingual Machine
+    Translation (MT)?
+  title_html: How Close Can We Get to the Ideal of Simple Transfer in Multi-lingual
+    Machine Translation (<span class="acl-fixed-case">MT</span>)?
+  url: https://www.aclweb.org/anthology/W89-0109
+  year: '1990'
+W89-0110:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Annelise
+    full: Annelise Bech
+    id: annelise-bech
+    last: Bech
+  author_string: Annelise Bech
+  bibkey: bech-1990-design
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '114'
+  page_last: '126'
+  pages: "114\u2013126"
+  paper_id: '10'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0110.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0110.jpg
+  title: The Design and Application of a Domain Specific Knowledgebase in the TACITUS
+    Text Understanding System
+  title_html: The Design and Application of a Domain Specific Knowledgebase in the
+    <span class="acl-fixed-case">TACITUS</span> Text Understanding System
+  url: https://www.aclweb.org/anthology/W89-0110
+  year: '1990'
+W89-0111:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Anna
+    full: Anna Braasch
+    id: anna-braasch
+    last: Braasch
+  author_string: Anna Braasch
+  bibkey: braasch-1990-udnyttelse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '127'
+  page_last: '137'
+  pages: "127\u2013137"
+  paper_id: '11'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0111.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0111.jpg
+  title: "Udnyttelse af maskinl\xE6sbare ordbogsdata til maskinovers\xE6ttelse (Utilization\
+    \ of machine-readable dictionary data for machine translation) [In Danish]"
+  title_html: "Udnyttelse af maskinl\xE6sbare ordbogsdata til maskinovers\xE6ttelse\
+    \ (Utilization of machine-readable dictionary data for machine translation) [In\
+    \ <span class=\"acl-fixed-case\">D</span>anish]"
+  url: https://www.aclweb.org/anthology/W89-0111
+  year: '1990'
+W89-0112:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "Stef\xE1n"
+    full: "Stef\xE1n Briem"
+    id: stefan-briem
+    last: Briem
+  author_string: "Stef\xE1n Briem"
+  bibkey: briem-1990-maskinoversaettelse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '138'
+  page_last: '145'
+  pages: "138\u2013145"
+  paper_id: '12'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0112.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0112.jpg
+  title: "Maskinovers\xE6ttelse fra esperanto til islandsk (Machine translation from\
+    \ Esperanto to Icelandic) [In Danish]"
+  title_html: "Maskinovers\xE6ttelse fra esperanto til islandsk (Machine translation\
+    \ from <span class=\"acl-fixed-case\">E</span>speranto to <span class=\"acl-fixed-case\"\
+    >I</span>celandic) [In <span class=\"acl-fixed-case\">D</span>anish]"
+  url: https://www.aclweb.org/anthology/W89-0112
+  year: '1990'
+W89-0113:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Boel Victoria
+    full: "Boel Victoria B\xF8ggild-Andersen"
+    id: boel-victoria-boggild-andersen
+    last: "B\xF8ggild-Andersen"
+  author_string: "Boel Victoria B\xF8ggild-Andersen"
+  bibkey: boggild-andersen-1990-valence
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '146'
+  page_last: '156'
+  pages: "146\u2013156"
+  paper_id: '13'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0113.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0113.jpg
+  title: Valence Frames Used for Syntactic Disambiguation in the EUROTRA-DK Model
+  title_html: Valence Frames Used for Syntactic Disambiguation in the <span class="acl-fixed-case">EUROTRA</span>-<span
+    class="acl-fixed-case">DK</span> Model
+  url: https://www.aclweb.org/anthology/W89-0113
+  year: '1990'
+W89-0114:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Hanne
+    full: "Hanne Fers\xF8e"
+    id: hanne-fersoe
+    last: "Fers\xF8e"
+  author_string: "Hanne Fers\xF8e"
+  bibkey: fersoe-1990-representational
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '157'
+  page_last: '169'
+  pages: "157\u2013169"
+  paper_id: '14'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0114.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0114.jpg
+  title: Representational Issues within Eurotra
+  title_html: Representational Issues within Eurotra
+  url: https://www.aclweb.org/anthology/W89-0114
+  year: '1990'
+W89-0115:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Barbara
+    full: "Barbara Gawro\u0144ska-Werngren"
+    id: barbara-gawronska
+    last: "Gawro\u0144ska-Werngren"
+  author_string: "Barbara Gawro\u0144ska-Werngren"
+  bibkey: gawronska-werngren-1990-identifiering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '170'
+  page_last: '182'
+  pages: "170\u2013182"
+  paper_id: '15'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0115.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0115.jpg
+  title: "Identifiering av diskursrefenter vid maskin\xF6vers\xE4ttning fr\xE5n ryska\
+    \ till svenska (Identification of dicourse references in machine translation from\
+    \ Russian to Swedish) [In Swedish]"
+  title_html: "Identifiering av diskursrefenter vid maskin\xF6vers\xE4ttning fr\xE5\
+    n ryska till svenska (Identification of dicourse references in machine translation\
+    \ from <span class=\"acl-fixed-case\">R</span>ussian to <span class=\"acl-fixed-case\"\
+    >S</span>wedish) [In <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W89-0115
+  year: '1990'
+W89-0116:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Niels
+    full: "Niels J\xE6ger"
+    id: niels-jaeger
+    last: "J\xE6ger"
+  author_string: "Niels J\xE6ger"
+  bibkey: jaeger-1990-text
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '183'
+  page_last: '190'
+  pages: "183\u2013190"
+  paper_id: '16'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0116.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0116.jpg
+  title: Text Treatment and Morphology in the Analysis of Danish within EUROTRA
+  title_html: Text Treatment and Morphology in the Analysis of <span class="acl-fixed-case">D</span>anish
+    within <span class="acl-fixed-case">EUROTRA</span>
+  url: https://www.aclweb.org/anthology/W89-0116
+  year: '1990'
+W89-0117:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Sabine
+    full: Sabine Kirchmeier-Andersen
+    id: sabine-kirchmeier-andersen
+    last: Kirchmeier-Andersen
+  author_string: Sabine Kirchmeier-Andersen
+  bibkey: kirchmeier-andersen-1990-coordination
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '191'
+  page_last: '203'
+  pages: "191\u2013203"
+  paper_id: '17'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0117.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0117.jpg
+  title: Coordination in Eurotra
+  title_html: Coordination in Eurotra
+  url: https://www.aclweb.org/anthology/W89-0117
+  year: '1990'
+W89-0118:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "Gu\xF0r\xFAn"
+    full: "Gu\xF0r\xFAn Magn\xFAsd\xF3ttir"
+    id: gudrun-magnusdottir
+    last: "Magn\xFAsd\xF3ttir"
+  author_string: "Gu\xF0r\xFAn Magn\xFAsd\xF3ttir"
+  bibkey: magnusdottir-1990-collocations
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '204'
+  page_last: '207'
+  pages: "204\u2013207"
+  paper_id: '18'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0118.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0118.jpg
+  title: Collocations in Knowledge Based Machine Translation
+  title_html: Collocations in Knowledge Based Machine Translation
+  url: https://www.aclweb.org/anthology/W89-0118
+  year: '1990'
+W89-0119:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Susanne
+    full: "Susanne N\xF8hr Pedersen"
+    id: susanne-nohr-pedersen
+    last: "N\xF8hr Pedersen"
+  author_string: "Susanne N\xF8hr Pedersen"
+  bibkey: nohr-pedersen-1990-treatment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '208'
+  page_last: '217'
+  pages: "208\u2013217"
+  paper_id: '19'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0119.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0119.jpg
+  title: The Treatment of Support Verbs and Predicative Nouns in Danish
+  title_html: The Treatment of Support Verbs and Predicative Nouns in <span class="acl-fixed-case">D</span>anish
+  url: https://www.aclweb.org/anthology/W89-0119
+  year: '1990'
+W89-0120:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Klaus
+    full: Klaus Schubert
+    id: klaus-schubert
+    last: Schubert
+  author_string: Klaus Schubert
+  bibkey: schubert-1990-kunskap
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '218'
+  page_last: '228'
+  pages: "218\u2013228"
+  paper_id: '20'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0120.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0120.jpg
+  title: "Kunskap om v\xE4rlden eller kunskap om texten? (Knowledge about the world\
+    \ or knowledge about the text?) [In Swedish]"
+  title_html: "Kunskap om v\xE4rlden eller kunskap om texten? (Knowledge about the\
+    \ world or knowledge about the text?) [In <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W89-0120
+  year: '1990'
+W89-0121:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Bengt
+    full: Bengt Sigurd
+    id: bengt-sigurd
+    last: Sigurd
+  author_string: Bengt Sigurd
+  bibkey: sigurd-1990-erfarenheter
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '229'
+  page_last: '236'
+  pages: "229\u2013236"
+  paper_id: '21'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0121.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0121.jpg
+  title: "Erfarenheter av Swetra\u2013ett svenskt MT-experiment (Experiences from\
+    \ Swetra\u2013A Swedish MT experiment) [In Swedish]"
+  title_html: "Erfarenheter av Swetra\u2013ett svenskt <span class=\"acl-fixed-case\"\
+    >MT</span>-experiment (Experiences from Swetra\u2013A <span class=\"acl-fixed-case\"\
+    >S</span>wedish <span class=\"acl-fixed-case\">MT</span> experiment) [In <span\
+    \ class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W89-0121
+  year: '1990'
+W89-0122:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Ole
+    full: Ole Togeby
+    id: ole-togeby
+    last: Togeby
+  author_string: Ole Togeby
+  bibkey: togeby-1990-translation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '237'
+  page_last: '249'
+  pages: "237\u2013249"
+  paper_id: '22'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0122.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0122.jpg
+  title: Translation of Prepositions by Neural Networks
+  title_html: Translation of Prepositions by Neural Networks
+  url: https://www.aclweb.org/anthology/W89-0122
+  year: '1990'
+W89-0123:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Ivar
+    full: Ivar Utne
+    id: ivar-utne
+    last: Utne
+  author_string: Ivar Utne
+  bibkey: utne-1990-machine
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '250'
+  page_last: '259'
+  pages: "250\u2013259"
+  paper_id: '23'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0123.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0123.jpg
+  title: "Machine Aided Translation between the Two Norwegian Languages Norwegian-Bokm\xE5\
+    l and Norwegian-Nynorsk"
+  title_html: "Machine Aided Translation between the Two <span class=\"acl-fixed-case\"\
+    >N</span>orwegian Languages <span class=\"acl-fixed-case\">N</span>orwegian-<span\
+    \ class=\"acl-fixed-case\">B</span>okm\xE5l and <span class=\"acl-fixed-case\"\
+    >N</span>orwegian-Nynorsk"
+  url: https://www.aclweb.org/anthology/W89-0123
+  year: '1990'
+W89-0124:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Henrik
+    full: Henrik Holmboe
+    id: henrik-holmboe
+    last: Holmboe
+  author_string: Henrik Holmboe
+  bibkey: holmboe-1990-dansk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '263'
+  page_last: '267'
+  pages: "263\u2013267"
+  paper_id: '24'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0124.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0124.jpg
+  title: "Dansk radi\xE6rordbog (The Danish Radial Dictionary) [In Danish]"
+  title_html: "Dansk radi\xE6rordbog (The <span class=\"acl-fixed-case\">D</span>anish\
+    \ Radial Dictionary) [In <span class=\"acl-fixed-case\">D</span>anish]"
+  url: https://www.aclweb.org/anthology/W89-0124
+  year: '1990'
+W89-0125:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "J\xF3n Hilmar"
+    full: "J\xF3n Hilmar J\xF3nsson"
+    id: jon-hilmar-jonsson
+    last: "J\xF3nsson"
+  author_string: "J\xF3n Hilmar J\xF3nsson"
+  bibkey: jonsson-1990-standardized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '268'
+  page_last: '296'
+  pages: "268\u2013296"
+  paper_id: '25'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0125.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0125.jpg
+  title: A Standardized Dictionary of Icelandic Verbs
+  title_html: A Standardized Dictionary of <span class="acl-fixed-case">I</span>celandic
+    Verbs
+  url: https://www.aclweb.org/anthology/W89-0125
+  year: '1990'
+W89-0126:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Arne
+    full: "Arne J\xF6nsson"
+    id: arne-jonsson
+    last: "J\xF6nsson"
+  author_string: "Arne J\xF6nsson"
+  bibkey: jonsson-1990-application
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '297'
+  page_last: '307'
+  pages: "297\u2013307"
+  paper_id: '26'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0126.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0126.jpg
+  title: 'Application-Dependent Discourse Management for Natural Language Interfaces:
+    An Empirical Investigation'
+  title_html: 'Application-Dependent Discourse Management for Natural Language Interfaces:
+    An Empirical Investigation'
+  url: https://www.aclweb.org/anthology/W89-0126
+  year: '1990'
+W89-0127:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "J\xF6rgen"
+    full: "J\xF6rgen Pind"
+    id: jorgen-pind
+    last: Pind
+  author_string: "J\xF6rgen Pind"
+  bibkey: pind-1990-computers
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '308'
+  page_last: '325'
+  pages: "308\u2013325"
+  paper_id: '27'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0127.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0127.jpg
+  title: Computers, Typesetting, and Lexicography
+  title_html: Computers, Typesetting, and Lexicography
+  url: https://www.aclweb.org/anthology/W89-0127
+  year: '1990'
+W89-0128:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: "Bj\xF6rn \xDE."
+    full: "Bj\xF6rn \xDE. Svavarsson"
+    id: bjorn-th-svavarsson
+    last: Svavarsson
+  - first: "J\xF6rgen"
+    full: "J\xF6rgen Pind"
+    id: jorgen-pind
+    last: Pind
+  author_string: "Bj\xF6rn \xDE. Svavarsson, J\xF6rgen Pind"
+  bibkey: svavarsson-pind-1990-database
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '326'
+  page_last: '341'
+  pages: "326\u2013341"
+  paper_id: '28'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0128.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0128.jpg
+  title: Database Systems for Lexicographic Work
+  title_html: Database Systems for Lexicographic Work
+  url: https://www.aclweb.org/anthology/W89-0128
+  year: '1990'
+W89-0129:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Anna
+    full: "Anna S\xE5gvall Hein"
+    id: anna-sagvall-hein
+    last: "S\xE5gvall Hein"
+  author_string: "Anna S\xE5gvall Hein"
+  bibkey: sagvall-hein-1990-lemmatising
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '342'
+  page_last: '357'
+  pages: "342\u2013357"
+  paper_id: '29'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0129.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0129.jpg
+  title: Lemmatising the Definitions of Svensk Ordbok by Morphological and Syntactic
+    Analysis. A Pilot Study
+  title_html: Lemmatising the Definitions of Svensk Ordbok by Morphological and Syntactic
+    Analysis. A Pilot Study
+  url: https://www.aclweb.org/anthology/W89-0129
+  year: '1990'
+W89-0130:
+  address: "Reykjav\xEDk, Iceland"
+  author:
+  - first: Ivar
+    full: Ivar Utne
+    id: ivar-utne
+    last: Utne
+  author_string: Ivar Utne
+  bibkey: utne-1990-included
+  bibtype: inproceedings
+  booktitle: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (NODALIDA 1989)
+  booktitle_html: Proceedings of the 7th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1989)
+  page_first: '358'
+  page_last: '371'
+  pages: "358\u2013371"
+  paper_id: '30'
+  parent_volume_id: W89-01
+  pdf: https://www.aclweb.org/anthology/W89-0130.pdf
+  publisher: Institute of Lexicography, Institute of Linguistics, University of Iceland,
+    Iceland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0130.jpg
+  title: What Should be Included in a Commercial Word Data Base, and Why?
+  title_html: What Should be Included in a Commercial Word Data Base, and Why?
+  url: https://www.aclweb.org/anthology/W89-0130
+  year: '1990'
+W89-0200:
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Masaru
+    full: Masaru Tomita
+    id: masaru-tomita
+    last: Tomita
+  author_string: Masaru Tomita
+  bibkey: ws-1989-international
+  bibtype: proceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: i
+  page_last: vii
+  pages: "i\u2013vii"
+  paper_id: '0'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0200.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0200.jpg
+  title: Proceedings of the First International Workshop on Parsing Technologies
+  title_html: Proceedings of the First International Workshop on Parsing Technologies
+  url: https://www.aclweb.org/anthology/W89-0200
+  year: '1989'
+W89-0201:
+  abstract: When dealing with a phenomenon as vast and com plex as natural language,
+    an experimental approach is often the best way to discover new computational methods
+    and determine their usefulness. The experimental process includes designing and
+    selecting new experiments, carrying out the experiments, and evaluating the experiments.
+    Most conference presentations are about finished experiments, completed theoretical
+    results, or the evaluation of systems already in use. In this workshop setting,
+    I would like to depart from this tendency to discuss some experiments that we
+    are beginning to perform, and the reasons for investigating a particular approach
+    to parsing. This approach builds on recent work in unification-based parsing and
+    classification-based knowledge representation, developing an architecture that
+    brings together the capabilities of these related frameworks.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Robert T.
+    full: Robert T. Kasper
+    id: robert-t-kasper
+    last: Kasper
+  author_string: Robert T. Kasper
+  bibkey: kasper-1989-unification
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '1'
+  page_last: '7'
+  pages: "1\u20137"
+  paper_id: '1'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0201.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0201.jpg
+  title: 'Unification and Classification: An Experiment in Information-Based Parsing'
+  title_html: 'Unification and Classification: An Experiment in Information-Based
+    Parsing'
+  url: https://www.aclweb.org/anthology/W89-0201
+  year: '1989'
+W89-0202:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Dale
+    full: Dale Gerdemann
+    id: dale-gerdemann
+    last: Gerdemann
+  author_string: Dale Gerdemann
+  bibkey: gerdemann-1989-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '8'
+  page_last: '17'
+  pages: "8\u201317"
+  paper_id: '2'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0202.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0202.jpg
+  title: Using Restriction to Optimize Unification Parsing
+  title_html: Using Restriction to Optimize Unification Parsing
+  url: https://www.aclweb.org/anthology/W89-0202
+  year: '1989'
+W89-0203:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: John T.
+    full: John T. Maxwell III
+    id: john-t-maxwell-iii
+    last: Maxwell III
+  - first: Ronald M.
+    full: Ronald M. Kaplan
+    id: ronald-m-kaplan
+    last: Kaplan
+  author_string: John T. Maxwell III, Ronald M. Kaplan
+  bibkey: maxwell-iii-kaplan-1989-overview
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '18'
+  page_last: '27'
+  pages: "18\u201327"
+  paper_id: '3'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0203.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0203.jpg
+  title: An Overview of Disjunctive Constraint Satisfaction
+  title_html: An Overview of Disjunctive Constraint Satisfaction
+  url: https://www.aclweb.org/anthology/W89-0203
+  year: '1989'
+W89-0204:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Bernard
+    full: Bernard Lang
+    id: bernard-lang
+    last: Lang
+  author_string: Bernard Lang
+  bibkey: lang-1989-uniform
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '28'
+  page_last: '42'
+  pages: "28\u201342"
+  paper_id: '4'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0204.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0204.jpg
+  title: A Uniform Formal Framework for Parsing
+  title_html: A Uniform Formal Framework for Parsing
+  url: https://www.aclweb.org/anthology/W89-0204
+  year: '1989'
+W89-0205:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  - first: Oliviero
+    full: Oliviero Stock
+    id: oliviero-stock
+    last: Stock
+  author_string: Giorgio Satta, Oliviero Stock
+  bibkey: satta-stock-1989-head
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '43'
+  page_last: '51'
+  pages: "43\u201351"
+  paper_id: '5'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0205.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0205.jpg
+  title: 'Head-Driven Bidirectional Parsing: A Tabular Method'
+  title_html: 'Head-Driven Bidirectional Parsing: A Tabular Method'
+  url: https://www.aclweb.org/anthology/W89-0205
+  year: '1989'
+W89-0206:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Martin
+    full: Martin Kay
+    id: martin-kay
+    last: Kay
+  author_string: Martin Kay
+  bibkey: kay-1989-head
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '52'
+  page_last: '62'
+  pages: "52\u201362"
+  paper_id: '6'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0206.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0206.jpg
+  title: Head-Driven Parsing
+  title_html: Head-Driven Parsing
+  url: https://www.aclweb.org/anthology/W89-0206
+  year: '1989'
+W89-0207:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Edward
+    full: Edward Gibson
+    id: edward-gibson
+    last: Gibson
+  author_string: Edward Gibson
+  bibkey: gibson-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '63'
+  page_last: '74'
+  pages: "63\u201374"
+  paper_id: '7'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0207.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0207.jpg
+  title: 'Parsing with Principles: Predicting a Phrasal Node Before Its Head Appears'
+  title_html: 'Parsing with Principles: Predicting a Phrasal Node Before Its Head
+    Appears'
+  url: https://www.aclweb.org/anthology/W89-0207
+  year: '1989'
+W89-0208:
+  abstract: This paper addresses the issue of how to organize linguistic principles
+    for efficient processing. Based on the general characterization of principles
+    in terms of purely computational properties, the effects of principle-ordering
+    on parser performance are investigated. A novel parser that exploits the possible
+    variation in principle-ordering to dynamically re-order principles is described.
+    Heuristics for minimizing the amount of unnecessary work performed during the
+    parsing process are also discussed.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Sandiway
+    full: Sandiway Fong
+    id: sandiway-fong
+    last: Fong
+  - first: Robert C.
+    full: Robert C. Berwick
+    id: robert-c-berwick
+    last: Berwick
+  author_string: Sandiway Fong, Robert C. Berwick
+  bibkey: fong-berwick-1989-computational
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '75'
+  page_last: '84'
+  pages: "75\u201384"
+  paper_id: '8'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0208.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0208.jpg
+  title: The Computational Implementation of Principle-Based Parsers
+  title_html: The Computational Implementation of Principle-Based Parsers
+  url: https://www.aclweb.org/anthology/W89-0208
+  year: '1989'
+W89-0209:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: T.
+    full: T. Fujisaki
+    id: t-fujisaki
+    last: Fujisaki
+  - first: F.
+    full: F. Jelinek
+    id: frederick-jelinek
+    last: Jelinek
+  - first: J.
+    full: J. Cocke
+    id: john-cocke
+    last: Cocke
+  - first: E.
+    full: E. Black
+    id: ezra-black
+    last: Black
+  - first: T.
+    full: T. Nishino
+    id: t-nishino
+    last: Nishino
+  author_string: T. Fujisaki, F. Jelinek, J. Cocke, E. Black, T. Nishino
+  bibkey: fujisaki-etal-1989-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '85'
+  page_last: '94'
+  pages: "85\u201394"
+  paper_id: '9'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0209.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0209.jpg
+  title: Probabilistic Parsing Method for Sentence Disambiguation
+  title_html: Probabilistic Parsing Method for Sentence Disambiguation
+  url: https://www.aclweb.org/anthology/W89-0209
+  year: '1989'
+W89-0210:
+  abstract: In a natural language processing system, a large amount of ambiguity and
+    a large branching factor are hindering factors in obtaining the desired analysis
+    for a given sentence in a short time. In this paper, we are proposing a sequential
+    truncation parsing algorithm to reduce the searching space and thus lowering the
+    parsing time. The algorithm is based on a score function which takes the advantages
+    of probabilistic characteristics of syntactic information in the sentences. A
+    preliminary test on this algorithm was conducted with a special version of our
+    machine translation system, the ARCHTRAN, and an encouraging result was observed.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Keh-Yih
+    full: Keh-Yih Su
+    id: keh-yih-su
+    last: Su
+  - first: Jong-Nae
+    full: Jong-Nae Wang
+    id: jong-nae-wang
+    last: Wang
+  - first: Mei-Hui
+    full: Mei-Hui Su
+    id: mei-hui-su
+    last: Su
+  - first: Jing-Shin
+    full: Jing-Shin Chang
+    id: jing-shin-chang
+    last: Chang
+  author_string: Keh-Yih Su, Jong-Nae Wang, Mei-Hui Su, Jing-Shin Chang
+  bibkey: su-etal-1989-sequential
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '95'
+  page_last: '104'
+  pages: "95\u2013104"
+  paper_id: '10'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0210.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0210.jpg
+  title: A Sequential Truncation Parsing Algorithm Based on the Score Function
+  title_html: A Sequential Truncation Parsing Algorithm Based on the Score Function
+  url: https://www.aclweb.org/anthology/W89-0210
+  year: '1989'
+W89-0211:
+  abstract: An LR parser for probabilistic context-free grammars is described. Each
+    of the standard versions of parser generator (SLR, canonical and LALR) may be
+    applied. A graph-structured stack permits action conflicts and allows the parser
+    to be used with uncertain input, typical of speech recognition applications. The
+    sentence uncertainty is measured using entropy and is significantly lower for
+    the grammar than for a first-order Markov model.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: J. H.
+    full: J. H. Wright
+    id: j-h-wright
+    last: Wright
+  - first: E. N.
+    full: E. N. Wrigley
+    id: e-n-wrigley
+    last: Wrigley
+  author_string: J. H. Wright, E. N. Wrigley
+  bibkey: wright-wrigley-1989-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '105'
+  page_last: '114'
+  pages: "105\u2013114"
+  paper_id: '11'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0211.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0211.jpg
+  title: Probabilistic LR Parsing for Speech Recognition
+  title_html: Probabilistic <span class="acl-fixed-case">LR</span> Parsing for Speech
+    Recognition
+  url: https://www.aclweb.org/anthology/W89-0211
+  year: '1989'
+W89-0212:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Dieter
+    full: Dieter Huber
+    id: dieter-huber
+    last: Huber
+  author_string: Dieter Huber
+  bibkey: huber-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '115'
+  page_last: '125'
+  pages: "115\u2013125"
+  paper_id: '12'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0212.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0212.jpg
+  title: Parsing Speech for Structure and Prominence
+  title_html: Parsing Speech for Structure and Prominence
+  url: https://www.aclweb.org/anthology/W89-0212
+  year: '1989'
+W89-0213:
+  abstract: This paper describes a speech parsing method called HMM-LR. In HMM-LR,
+    an LR parsing table is used to predict phones in speech input, and the system
+    drives an HMM-based speech recognizer directly without any intervening structures
+    such as a phone lattice. Very accurate, efficient speech parsing is achieved through
+    the integrated processes of speech recognition and language analysis. The HMM-LR
+    m ethod is applied to large-vocabulary speaker-dependent Japanese phrase recognition.
+    The recognition rate is 87.1% for the top candidates and 97.7% for the five best
+    candidates.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Kenji
+    full: Kenji Kita
+    id: kenji-kita
+    last: Kita
+  - first: Takeshi
+    full: Takeshi Kawabata
+    id: takeshi-kawabata
+    last: Kawabata
+  - first: Hiroaki
+    full: Hiroaki Saito
+    id: hiroaki-saito
+    last: Saito
+  author_string: Kenji Kita, Takeshi Kawabata, Hiroaki Saito
+  bibkey: kita-etal-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '126'
+  page_last: '131'
+  pages: "126\u2013131"
+  paper_id: '13'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0213.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0213.jpg
+  title: Parsing Continuous Speech by HMM-LR Method
+  title_html: Parsing Continuous Speech by <span class="acl-fixed-case">HMM</span>-<span
+    class="acl-fixed-case">LR</span> Method
+  url: https://www.aclweb.org/anthology/W89-0213
+  year: '1989'
+W89-0214:
+  abstract: 'An analysis method for Japanese spoken sentences based on HPSG has been
+    developed. Any analysis module for the interpreting telephony task requires the
+    following capabilities: (i) the module must be able to treat spoken-style sentences;
+    and, (ii) the module must be able to take, as its input, lattice-like structures
+    which include both correct and incorrect constituent candidates of a speech recognition
+    module. To satisfy these requirements, an analysis method has been developed,
+    which consists of a grammar designed for treating spoken-style Japanese sentences
+    and a parser designed for taking as its input speech recognition output lattices.
+    The analysis module based on this method is used as part of the NADINE (Natural
+    Dialogue Interpretation Expert) system and the SL-TRANS (Spoken Language Translation)
+    system.'
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Kiyoshi
+    full: Kiyoshi Kogure
+    id: kiyoshi-kogure
+    last: Kogure
+  author_string: Kiyoshi Kogure
+  bibkey: kogure-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '132'
+  page_last: '141'
+  pages: "132\u2013141"
+  paper_id: '14'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0214.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0214.jpg
+  title: Parsing Japanese Spoken Sentences Based on HPSG
+  title_html: Parsing <span class="acl-fixed-case">J</span>apanese Spoken Sentences
+    Based on <span class="acl-fixed-case">HPSG</span>
+  url: https://www.aclweb.org/anthology/W89-0214
+  year: '1989'
+W89-0215:
+  abstract: Authentic text as found in corpora cannot be described completely by a
+    formal system, such as a set of grammar rules. As robust parsing is a prerequisite
+    for any practical natural language processing system, there is certainly a need
+    for techniques that go beyond merely formal approaches. Various possibilities,
+    such as the use of simulated annealing, have been proposed recently and we have
+    looked at their suitability for the parse process of the DLT machine translation
+    system, which will use a large structured bilingual corpus as its main linguistic
+    knowledge source. Our findings are that parsing is not the type of task that should
+    be tackled solely through simulated annealing or similar stochastic optimization
+    techniques but that a controlled application of probabilistic methods is essential
+    for the performance of a corpus-based parser. On the basis of our explorative
+    research we have planned a number of small-scale implementations in the near future.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Job M.
+    full: Job M. van Zuijlen
+    id: job-m-van-zuijlen
+    last: van Zuijlen
+  author_string: Job M. van Zuijlen
+  bibkey: van-zuijlen-1989-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '142'
+  page_last: '151'
+  pages: "142\u2013151"
+  paper_id: '15'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0215.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0215.jpg
+  title: Probabilistic Methods in Dependency Grammar Parsing
+  title_html: Probabilistic Methods in Dependency Grammar Parsing
+  url: https://www.aclweb.org/anthology/W89-0215
+  year: '1989'
+W89-0216:
+  abstract: Extensions to Categorial Grammars proposed to account for nonconstitutent
+    conjunction and long-distance dependencies introduce the problem of equivalent
+    derivations, an issue we have characterized as spurious ambiguity from the parsing
+    perspective. In Wittenburg (1987) a proposal was made for compiling Categorial
+    Grammars into predictive forms in order to solve the spurious ambiguity problem.
+    This paper investigates formal properties o f grammars that use predictive versions
+    of function composition. Among our results are (1) that grammars with predictive
+    composition are in general equivalent to the originals if and only if a restriction
+    on predictive rules is applied, (2) that modulo this restriction, the predictive
+    grammars have indeed eliminated the problem of spurious ambiguity, and (3) that
+    the issue o f equivalence is decidable, i.e., for any particular grammar, whether
+    one needs to apply the restriction or not to ensure equivalence is a decidable
+    question.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Robert E.
+    full: Robert E. Wall
+    id: robert-e-wall
+    last: Wall
+  - first: Kent
+    full: Kent Wittenburg
+    id: kent-wittenburg
+    last: Wittenburg
+  author_string: Robert E. Wall, Kent Wittenburg
+  bibkey: wall-wittenburg-1989-predictive
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '152'
+  page_last: '161'
+  pages: "152\u2013161"
+  paper_id: '16'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0216.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0216.jpg
+  title: Predictive Normal Forms for Composition in Categorical Grammars
+  title_html: Predictive Normal Forms for Composition in Categorical Grammars
+  url: https://www.aclweb.org/anthology/W89-0216
+  year: '1989'
+W89-0217:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Mark Steedman
+  bibkey: steedman-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '162'
+  page_last: '171'
+  pages: "162\u2013171"
+  paper_id: '17'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0217.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0217.jpg
+  title: Parsing Spoken Language Using Combinatory Grammars
+  title_html: Parsing Spoken Language Using Combinatory Grammars
+  url: https://www.aclweb.org/anthology/W89-0217
+  year: '1989'
+W89-0218:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  - first: David J.
+    full: David J. Weir
+    id: david-weir
+    last: Weir
+  author_string: K. Vijay-Shanker, David J. Weir
+  bibkey: vijay-shanker-weir-1989-recognition
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '172'
+  page_last: '181'
+  pages: "172\u2013181"
+  paper_id: '18'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0218.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0218.jpg
+  title: Recognition of Combinatory Categorial Grammars and Linear Indexed Grammars
+  title_html: Recognition of Combinatory Categorial Grammars and Linear Indexed Grammars
+  url: https://www.aclweb.org/anthology/W89-0218
+  year: '1989'
+W89-0219:
+  abstract: "In this paper, we show that some non-cyclic context-free grammars with\
+    \ \U0001D700-rules cannot be handled by Tomita\u2019s algorithm properly. We describe\
+    \ a modified version of the algorithm which remedies the problem.-rules cannot\
+    \ be handled by Tomita\u2019s algorithm properly. We describe a modified version\
+    \ of the algorithm which remedies the problem."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Rohman
+    full: Rohman Nozohoor-Farshi
+    id: rohman-nozohoor-farshi
+    last: Nozohoor-Farshi
+  author_string: Rohman Nozohoor-Farshi
+  bibkey: nozohoor-farshi-1989-handling
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '182'
+  page_last: '192'
+  pages: "182\u2013192"
+  paper_id: '19'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0219.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0219.jpg
+  title: "Handling of Ill-Designed Grammars in Tomita\u2019s Parsing Algorithm"
+  title_html: "Handling of Ill-Designed Grammars in Tomita\u2019s Parsing Algorithm"
+  url: https://www.aclweb.org/anthology/W89-0219
+  year: '1989'
+W89-0220:
+  abstract: "A variation on Tomita\u2019s algorithm is analyzed in regards to its\
+    \ time and space complexity. It is shown to have a general time bound of 0(n\_\
+    \u0303\U0001D70C+1), where , where n is the length of the input string and is\
+    \ the length of the input string and \U0001D70C is the length of the longest production.\
+    \ A modified algorithm is presented in which the time bound is reduced to is the\
+    \ length of the longest production. A modified algorithm is presented in which\
+    \ the time bound is reduced to 0(n3). The space complexity of Tomita\u2019s algorithm\
+    \ is shown to be proportional to . The space complexity of Tomita\u2019s algorithm\
+    \ is shown to be proportional to n2 in the worst case and is changed by at most\
+    \ a constant factor with the modification. Empirical results are used to illustrate\
+    \ the trade off between time and space on a simple example. A discussion of two\
+    \ subclasses of context-free grammars that can be recognized in in the worst case\
+    \ and is changed by at most a constant factor with the modification. Empirical\
+    \ results are used to illustrate the trade off between time and space on a simple\
+    \ example. A discussion of two subclasses of context-free grammars that can be\
+    \ recognized in 0(n2) and and O(n) is also included. is also included."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: James R.
+    full: James R. Kipps
+    id: james-r-kipps
+    last: Kipps
+  author_string: James R. Kipps
+  bibkey: kipps-1989-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '193'
+  page_last: '202'
+  pages: "193\u2013202"
+  paper_id: '20'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0220.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0220.jpg
+  title: "Analysis of Tomita\u2019s Algorithm for General Context-Free Parsing"
+  title_html: "Analysis of Tomita\u2019s Algorithm for General Context-Free Parsing"
+  url: https://www.aclweb.org/anthology/W89-0220
+  year: '1989'
+W89-0221:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Mark Johnson
+  bibkey: johnson-1989-computational
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '203'
+  page_last: '208'
+  pages: "203\u2013208"
+  paper_id: '21'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0221.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0221.jpg
+  title: "The Computational Complexity of Tomita\u2019s Algorithm"
+  title_html: "The Computational Complexity of Tomita\u2019s Algorithm"
+  url: https://www.aclweb.org/anthology/W89-0221
+  year: '1989'
+W89-0222:
+  abstract: "A new natural language system, TINA, has been developed for applications\
+    \ involving spoken language tasks, which integrate key ideas from context free\
+    \ grammars, Augmented Transition Networks (ATN\u2019s) [6], and Lexical Functional\
+    \ Grammars (LFG\u2019s) [1]. The parser uses a best-first strategy, with probability\
+    \ assignments on all arcs obtained automatically from a set of example sentences.\
+    \ An initial context-free grammar, derived from the example sentences, is first\
+    \ converted to a probabilistic network structure. Control includes both top-down\
+    \ and bottom-up cycles, and key parameters are passed among nodes to deal with\
+    \ long-distance movement, agreement, and semantic constraints. The probabilities\
+    \ provide a natural mechanism for exploring more common grammatical constructions\
+    \ first. One novel feature of TINA is that it provides an atuomatic sentence generation\
+    \ capability, which has been very effective for identifying overgeneration problems.\
+    \ A fully integrated spoken language system using this parser is under development."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Stephanie
+    full: Stephanie Seneff
+    id: stephanie-seneff
+    last: Seneff
+  author_string: Stephanie Seneff
+  bibkey: seneff-1989-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '209'
+  page_last: '218'
+  pages: "209\u2013218"
+  paper_id: '22'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0222.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0222.jpg
+  title: Probabilistic Parsing for Spoken Language Applications
+  title_html: Probabilistic Parsing for Spoken Language Applications
+  url: https://www.aclweb.org/anthology/W89-0222
+  year: '1989'
+W89-0223:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: James L.
+    full: James L. McClelland
+    id: james-l-mcclelland
+    last: McClelland
+  author_string: James L. McClelland
+  bibkey: mcclelland-1989-connectionist
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '219'
+  page_last: '220'
+  pages: "219\u2013220"
+  paper_id: '23'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0223.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0223.jpg
+  title: Connectionist Models of Language
+  title_html: Connectionist Models of Language
+  url: https://www.aclweb.org/anthology/W89-0223
+  year: '1989'
+W89-0224:
+  abstract: We describe a connectionist model which learns to parse single sentences
+    from sequential word input. A parse in the connectionist network contains information
+    about role assignment, prepositional attachment, relative clause structure, and
+    subordinate clause structure. The trained network displays several interesting
+    types of behavior. These include predictive ability, tolerance to certain corruptions
+    of input word sequences, and some generalization capability. We report on experiments
+    in which a small number of sentence types have been successfully learned by a
+    network. Work is in progress on a larger database. Application of this type of
+    connectionist model to the area of spoken language processing is discussed.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Ajay
+    full: Ajay Jain
+    id: ajay-jain
+    last: Jain
+  - first: Alex
+    full: Alex Waibel
+    id: alex-waibel
+    last: Waibel
+  author_string: Ajay Jain, Alex Waibel
+  bibkey: jain-waibel-1989-connectionist
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '221'
+  page_last: '229'
+  pages: "221\u2013229"
+  paper_id: '24'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0224.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0224.jpg
+  title: A Connectionist Parser Aimed at Spoken Language
+  title_html: A Connectionist Parser Aimed at Spoken Language
+  url: https://www.aclweb.org/anthology/W89-0224
+  year: '1989'
+W89-0225:
+  abstract: "This paper describes the parsing scheme in the \U0001D6F7DmDialog speech-to-speech\
+    \ dialog translation system, with special emphasis on the integration of speech\
+    \ and natural language processing. We propose an integrated architecture for parsing\
+    \ speech inputs based on a parallel marker-passing scheme and attaining dynamic\
+    \ participation of knowledge from the phonological-level to the discourse-level.\
+    \ At the phonological level, we employ a stochastic model using a transition matrix\
+    \ and a confusion matrix and markers which carry a probability measure. At a higher\
+    \ level, syntactic/semantic and discourse processing, we integrate a case-based\
+    \ and constraint-based scheme in a consistent manner so that a priori probability\
+    \ and constraints, which reflect linguistic and discourse factors, are provided\
+    \ to the phonological level of processing. A probability/cost-based scheme in\
+    \ our model enables ambiguity resolution at various levels using one uniform principle.DmDialog\
+    \ speech-to-speech dialog translation system, with special emphasis on the integration\
+    \ of speech and natural language processing. We propose an integrated architecture\
+    \ for parsing speech inputs based on a parallel marker-passing scheme and attaining\
+    \ dynamic participation of knowledge from the phonological-level to the discourse-level.\
+    \ At the phonological level, we employ a stochastic model using a transition matrix\
+    \ and a confusion matrix and markers which carry a probability measure. At a higher\
+    \ level, syntactic/semantic and discourse processing, we integrate a case-based\
+    \ and constraint-based scheme in a consistent manner so that a priori probability\
+    \ and constraints, which reflect linguistic and discourse factors, are provided\
+    \ to the phonological level of processing. A probability/cost-based scheme in\
+    \ our model enables ambiguity resolution at various levels using one uniform principle."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Hiroaki
+    full: Hiroaki Kitano
+    id: hiroaki-kitano
+    last: Kitano
+  - first: Teruko
+    full: Teruko Mitamura
+    id: teruko-mitamura
+    last: Mitamura
+  - first: Masaru
+    full: Masaru Tomita
+    id: masaru-tomita
+    last: Tomita
+  author_string: Hiroaki Kitano, Teruko Mitamura, Masaru Tomita
+  bibkey: kitano-etal-1989-massively
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '230'
+  page_last: '239'
+  pages: "230\u2013239"
+  paper_id: '25'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0225.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0225.jpg
+  title: "Massively Parallel Parsing in \U0001D6F7DmDialog: Integrated Architecture\
+    \ for Parsing Speech InputsDmDialog: Integrated Architecture for Parsing Speech\
+    \ Inputs"
+  title_html: "Massively Parallel Parsing in <span class=\"tex-math\">\U0001D6F7</span>DmDialog:\
+    \ Integrated Architecture for Parsing Speech Inputs"
+  url: https://www.aclweb.org/anthology/W89-0225
+  year: '1989'
+W89-0226:
+  abstract: "We present a concise survey of approaches to the context-free parsing\
+    \ problem of natural languages in parallel environments. The discussion includes\
+    \ parsing schemes which use more than one traditional parser, schemes where separate\
+    \ processes are assigned to the \u2018non-deterministic\u2019 choices during parsing,\
+    \ schemes where the number of processes depends on the length of the sentence\
+    \ being parsed, and schemes where the number of processes depends on the grammar\
+    \ size rather than on the input length. In addition we discuss a connectionist\
+    \ approach to the parsing problem."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Anton
+    full: Anton Nijholt
+    id: anton-nijholt
+    last: Nijholt
+  author_string: Anton Nijholt
+  bibkey: nijholt-1989-parallel
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '240'
+  page_last: '253'
+  pages: "240\u2013253"
+  paper_id: '26'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0226.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0226.jpg
+  title: Parallel Parsing Strategies in Natural Language Processing
+  title_html: Parallel Parsing Strategies in Natural Language Processing
+  url: https://www.aclweb.org/anthology/W89-0226
+  year: '1989'
+W89-0227:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Roland
+    full: Roland Hausser
+    id: roland-r-hausser
+    last: Hausser
+  author_string: Roland Hausser
+  bibkey: hausser-1989-complexity
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '254'
+  page_last: '263'
+  pages: "254\u2013263"
+  paper_id: '27'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0227.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0227.jpg
+  title: Complexity and Decidability in Left-Associative Grammar
+  title_html: Complexity and Decidability in Left-Associative Grammar
+  url: https://www.aclweb.org/anthology/W89-0227
+  year: '1989'
+W89-0228:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Patrick
+    full: Patrick Shann
+    id: patrick-shann
+    last: Shann
+  author_string: Patrick Shann
+  bibkey: shann-1989-selection
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '264'
+  page_last: '276'
+  pages: "264\u2013276"
+  paper_id: '28'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0228.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0228.jpg
+  title: The selection of a parsing strategy for an on-line machine translation system
+    in a sublanguage domain. A new practical comparison
+  title_html: The selection of a parsing strategy for an on-line machine translation
+    system in a sublanguage domain. A new practical comparison
+  url: https://www.aclweb.org/anthology/W89-0228
+  year: '1989'
+W89-0229:
+  abstract: This paper describes the conversion of a set of feature grammar rules
+    into a deterministic finite state machine that accepts the same language (or at
+    least a well-defined related language). First the reasoning behind why this is
+    an interesting thing to do within the Edinburgh speech recogniser project, is
+    discussed. Then details about the compilation algorithm are given. Finally, there
+    is some discussion of the advantages and disadvantages of this method of implementing
+    feature based grammar formalisms.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Alan W
+    full: Alan W Black
+    id: alan-w-black
+    last: Black
+  author_string: Alan W Black
+  bibkey: black-1989-finite
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '277'
+  page_last: '285'
+  pages: "277\u2013285"
+  paper_id: '29'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0229.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0229.jpg
+  title: Finite State Machines from Feature Grammars
+  title_html: Finite State Machines from Feature Grammars
+  url: https://www.aclweb.org/anthology/W89-0229
+  year: '1989'
+W89-0230:
+  abstract: An efficient algorithm that enumerates parses of ambiguous context-free
+    languages is described, and its time and space complexities are discussed. When
+    context-free parsers are used for natural language parsing, pattern recognition,
+    and so forth, there may be a great number of parses for a sentence. One common
+    strategy for efficient enumeration of parses is to assign an appropriate weight
+    to each production, and to enumerate parses in the order of the total weight of
+    all applied production. However, the existing algorithms taking this strategy
+    can be applied only to the problems of limited areas such as regular languages;
+    in the other areas only inefficient exhaustive searches are known. In this paper,
+    we first introduce a hierarchical graph suitable for enumeration. Using this graph,
+    enumeration of parses in the order of acceptablity is equivalent to finding paths
+    of this graph in the order of length. Then, we present an efficient enumeration
+    algorithm with this graph, which can be applied to arbitrary context-free grammars.
+    For enumeration of k parses in the order of the total weight of all applied productions,
+    the time and space complexities of our algorithm are parses in the order of the
+    total weight of all applied productions, the time and space complexities of our
+    algorithm are 0(n3 + kn2) and and 0(n3 + kn), respectively., respectively.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Nariyoshi
+    full: Nariyoshi Yamai
+    id: nariyoshi-yamai
+    last: Yamai
+  - first: Tadashi
+    full: Tadashi Seko
+    id: tadashi-seko
+    last: Seko
+  - first: Noboru
+    full: Noboru Kubo
+    id: noboru-kubo
+    last: Kubo
+  - first: Toru
+    full: Toru Kawata
+    id: toru-kawata
+    last: Kawata
+  author_string: Nariyoshi Yamai, Tadashi Seko, Noboru Kubo, Toru Kawata
+  bibkey: yamai-etal-1989-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '286'
+  page_last: '296'
+  pages: "286\u2013296"
+  paper_id: '30'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0230.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0230.jpg
+  title: An Effective Enumeration Algorithm of Parses for Ambiguous CFL
+  title_html: An Effective Enumeration Algorithm of Parses for Ambiguous <span class="acl-fixed-case">CFL</span>
+  url: https://www.aclweb.org/anthology/W89-0230
+  year: '1989'
+W89-0231:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: David
+    full: David Weber
+    id: david-weber
+    last: Weber
+  author_string: David Weber
+  bibkey: weber-1989-morphological
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '297'
+  page_last: '308'
+  pages: "297\u2013308"
+  paper_id: '31'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0231.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0231.jpg
+  title: A Morphological Parser for Linguistic Exploration
+  title_html: A Morphological Parser for Linguistic Exploration
+  url: https://www.aclweb.org/anthology/W89-0231
+  year: '1989'
+W89-0232:
+  abstract: "The Parallel Expert Parser (PEP) is a natural language analysis model\
+    \ belonging to the interactive model paradigm that stresses the parallel interaction\
+    \ of relatively small distributed knowledge components to arrive at the meaning\
+    \ of a fragment of text. It borrows the idea of words as basic dynamic entities\
+    \ triggering a set of interactive processes from the Word Expert Parser (Small\
+    \ 1980), but tries to improve on the clarity of interactive processes and on the\
+    \ organization of lexically-distributed knowledge. As of now, especially the procedural\
+    \ aspects have received attention: instead of having wild-running uncontrollable\
+    \ interactions, PEP restricts the interactions to explicit communications on a\
+    \ structured blackboard; the communication protocols are a compromise betwenn\
+    \ maximum parallelism and controllability. At the same time, it is no longer just\
+    \ words that trigger processes; words create larger units (constituents), that\
+    \ are in turn interacting entities on a higher level. Lexical experts contribute\
+    \ their associated knowledge, create higher-level experts, and die away. The linguists\
+    \ define the levels to be considered, and write expert processes in a language\
+    \ that tries to hide the procedural aspects of the parallel-interactive model\
+    \ from them. Problems include the possiblity of deadlock situations when processes\
+    \ wait infinitely for each other, the way to efficiently pursue different alternatives\
+    \ (as of now, the system just uses don\u2019t-care determinism), and testing whether\
+    \ the protocols allow linguists to fully express their needs. PEP has been implemented\
+    \ in Flat Concurrent Prolog, using the Logix programming environment. Current\
+    \ research is oriented more towards the problem of distributed knowledge representation.\
+    \ Abstractions and generalizations across lexical experts could be made using\
+    \ principles from object-oriented programming (introducing generic, prototypical\
+    \ experts; cp. Hahn 1987). Thoughts also go in the direction of an integration\
+    \ of the coarse-grained parallelism with knowledge representation in a fine-grained\
+    \ parallel (connectionist) way."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: G.
+    full: G. Adriaens
+    id: geert-adriaens
+    last: Adriaens
+  author_string: G. Adriaens
+  bibkey: adriaens-1989-parallel
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '309'
+  page_last: '319'
+  pages: "309\u2013319"
+  paper_id: '32'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0232.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0232.jpg
+  title: 'The Parallel Expert Parser: A Meaning-Oriented, Lexically-Guided, Parallel-Interactive
+    Model of Natural Language Understanding'
+  title_html: 'The Parallel Expert Parser: A Meaning-Oriented, Lexically-Guided, Parallel-Interactive
+    Model of Natural Language Understanding'
+  url: https://www.aclweb.org/anthology/W89-0232
+  year: '1989'
+W89-0233:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Henry S.
+    full: Henry S. Thompson
+    id: henry-s-thompson
+    last: Thompson
+  author_string: Henry S. Thompson
+  bibkey: thompson-1989-chart
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '320'
+  page_last: '328'
+  pages: "320\u2013328"
+  paper_id: '33'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0233.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0233.jpg
+  title: Chart Parsing for Loosely Coupled Parallel Systems
+  title_html: Chart Parsing for Loosely Coupled Parallel Systems
+  url: https://www.aclweb.org/anthology/W89-0233
+  year: '1989'
+W89-0234:
+  abstract: 'A generalized LR parsing algorithm, which has been developed by Tomita
+    [Tomita 86], can treat a context free grammar. His algorithm makes use of breadth
+    first strategy when a conflict occcurs in a LR parsing table. It is well known
+    that the breadth first strategy is suitable for parallel processing. This paper
+    presents an algorithm of a parallel parsing system (PLR) based on a generalized
+    LR parsing. PLR is implemented in GHC [Ueda 85] that is a concurrent logic programming
+    language developed by Japanese 5th generation computer project. The feature of
+    PLR is as follows: Each entry of a LR parsing table is regarded as a process which
+    handles shift and reduce operations. If a process discovers a conflict in a LR
+    parsing table, it activates subprocesses which conduct shift and reduce operations.
+    These subprocesses run in parallel and simulate breadth first strategy. There
+    is no need to make some subprocesses synchronize during parsing. Stack information
+    is sent to each subprocesses from their parent process. A simple experiment for
+    parsing a sentence revealed the fact that PLR runs faster than PAX [Matsumoto
+    87][Matsumoto 89] that has been known as the best parallel parser.'
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  - first: Hiroaki
+    full: Hiroaki Numazaki
+    id: hiroaki-numazaki
+    last: Numazaki
+  author_string: Hozumi Tanaka, Hiroaki Numazaki
+  bibkey: tanaka-numazaki-1989-parallel
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '329'
+  page_last: '338'
+  pages: "329\u2013338"
+  paper_id: '34'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0234.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0234.jpg
+  title: Parallel Generalized LR Parsing based on Logic Programming
+  title_html: Parallel Generalized <span class="acl-fixed-case">LR</span> Parsing
+    based on Logic Programming
+  url: https://www.aclweb.org/anthology/W89-0234
+  year: '1989'
+W89-0235:
+  abstract: "In this paper, we investigate the processing of the so-called \u2018\
+    lexicalized\u2019 grammar. In \u2018lexicalized\u2019 grammars (Schabes, Abeille\
+    \ and Joshi, 1988), each elementary structure is systema tically associated with\
+    \ a lexical \u2018head\u2019. These structures specify extended domains of locality\
+    \ (as compared to CFGs) over which constraints can be stated. The \u2018grammar\u2019\
+    \ consists of a lexicon where each lexical item is associated with a finite number\
+    \ of structures for which that item is the \u2018head\u2019 . There are no separate\
+    \ grammar rules. There are, of course, \u2018rules\u2019 which tell us how these\
+    \ structures are combined. A general two-pass parsing strategy for \u2018lexicalized\u2019\
+    \ grammars follows naturally. In the first stage, the parser selects a set of\
+    \ elementary structures associated with the lexical items in the input sentence,\
+    \ and in the second stage the sentence is parsed with respect to this set. We\
+    \ evaluate this strategy with respect to two characteristics. First, the amount\
+    \ of filtering on the entire grammar is evaluated: once the first pass is performed,\
+    \ the parser uses only a subset of the grammar. Second, we evaluate the use of\
+    \ non-local information: the structures selected during the first pass encode\
+    \ the morphological value (and therefore the position in the string) of their\
+    \ \u2018head\u2019; this enables the parser to use non-local in form ation to\
+    \ guide its search. We take Lexicalized Tree Adjoining Grammars as an in stance\
+    \ of lexicalized grammar. We illustrate the organization of the grammar. Then\
+    \ we show how a general Earley-type TAG parser (Schabes and Joshi, 1988) can take\
+    \ advantage of lexicalization. Empirical data show that the filtering of the grammar\
+    \ and the non-local in formation provided by the two-pass strategy improve the\
+    \ performance of the parser. We explain how constraints over the elementary structures\
+    \ expressed by unification equations can be parsed by a simple extension of the\
+    \ Earley-type TAG parser. Lexicalization guarantees termination of the algorithm\
+    \ without special devices such as restrictors."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Yves
+    full: Yves Schabes
+    id: yves-schabes
+    last: Schabes
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Yves Schabes, Aravind K. Joshi
+  bibkey: schabes-joshi-1989-relevance
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '339'
+  page_last: '349'
+  pages: "339\u2013349"
+  paper_id: '35'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0235.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0235.jpg
+  title: The Relevance of Lexicalization to Parsing
+  title_html: The Relevance of Lexicalization to Parsing
+  url: https://www.aclweb.org/anthology/W89-0235
+  year: '1989'
+W89-0236:
+  abstract: This paper describes a parsing system used in a framework for the development
+    of Natural Language grammars. It is an interactive environment suitable for writing
+    robust NL applications generally. Its heart is the SAIL parsing algorithm that
+    uses a Phrase-Structure Grammar with extensive augmentations. Furthermore, some
+    particular parsing tools are embedded in the system, and provide a powerful environment
+    for developing grammars, even of large coverage.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Massimo
+    full: Massimo Marino
+    id: massimo-marino
+    last: Marino
+  author_string: Massimo Marino
+  bibkey: marino-1989-framework
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '350'
+  page_last: '360'
+  pages: "350\u2013360"
+  paper_id: '36'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0236.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0236.jpg
+  title: A Framework for the Development of Natural Language Grammars
+  title_html: A Framework for the Development of Natural Language Grammars
+  url: https://www.aclweb.org/anthology/W89-0236
+  year: '1989'
+W89-0237:
+  abstract: In a natural language processing system designed for language learners,
+    it is necessary to accept both well-formed and ill-formed input. This paper describes
+    a method of maintaining parsing efficiency for well-formed sentences while still
+    accepting a wide range of ill-formed input.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Stuart
+    full: Stuart Malone
+    id: stuart-malone
+    last: Malone
+  - first: Sue
+    full: Sue Felshin
+    id: sue-felshin
+    last: Felshin
+  author_string: Stuart Malone, Sue Felshin
+  bibkey: malone-felshin-1989-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '361'
+  page_last: '368'
+  pages: "361\u2013368"
+  paper_id: '37'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0237.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0237.jpg
+  title: An Efficient Method for Parsing Erroneous Input
+  title_html: An Efficient Method for Parsing Erroneous Input
+  url: https://www.aclweb.org/anthology/W89-0237
+  year: '1989'
+W89-0238:
+  abstract: The Unification-based Grammars seem to be adequate for the analysis of
+    agglutinative languages such as Korean, etc. In this paper, the merits of Lexical
+    Functional Grammar is analyzed and the structure of Korean Syntactic Analyzer
+    is described. Verbal complex category is used for the analysis of several linguistic
+    phenomena and a new attribute of UNKNOWN is defined for the analysis of grammatical
+    relations.
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Deok Ho
+    full: Deok Ho Yoon
+    id: deok-ho-yoon
+    last: Yoon
+  - first: Yung Taek
+    full: Yung Taek Kim
+    id: yung-taek-kim
+    last: Kim
+  author_string: Deok Ho Yoon, Yung Taek Kim
+  bibkey: yoon-kim-1989-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '369'
+  page_last: '378'
+  pages: "369\u2013378"
+  paper_id: '38'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0238.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0238.jpg
+  title: Analysis Techniques for Korean Sentences Based on Lexical Functional Grammar
+  title_html: Analysis Techniques for <span class="acl-fixed-case">K</span>orean Sentences
+    Based on <span class="acl-fixed-case">L</span>exical <span class="acl-fixed-case">F</span>unctional
+    <span class="acl-fixed-case">G</span>rammar
+  url: https://www.aclweb.org/anthology/W89-0238
+  year: '1989'
+W89-0239:
+  abstract: 'This paper describes two methods for the acquisition and utilization
+    of lexical cooccurrence relationships. Under these method, cooccurrence relationships
+    are obtained from two kinds of inputs: example sentences and the corresponding
+    correct syntactic structure. The first of the two methods treats a set of governors
+    each element of which is bound to a element of sister nodes set in a syntactic
+    structure under consideration, as a cooccurrence relationship. In the second method,
+    a cooccurrence relationship name and affiliated attribute names are manually given
+    in the description of augmented rewriting rules. Both methods discriminate correctness
+    of cooccurrence by the use of the correct syntactic structure mentioned above.
+    Experiment is made for both methods to find if thus obtained cooccurrence relationship
+    is useful for the correct analysis.'
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Kazunori
+    full: Kazunori Matsumoto
+    id: kazunori-matsumoto
+    last: Matsumoto
+  - first: Hiroshi
+    full: Hiroshi Sakaki
+    id: hiroshi-sakaki
+    last: Sakaki
+  - first: Shingo
+    full: Shingo Kuroiwa
+    id: shingo-kuroiwa
+    last: Kuroiwa
+  author_string: Kazunori Matsumoto, Hiroshi Sakaki, Shingo Kuroiwa
+  bibkey: matsumoto-etal-1989-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '379'
+  page_last: '388'
+  pages: "379\u2013388"
+  paper_id: '39'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0239.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0239.jpg
+  title: Learning Cooccurrences by using a Parser
+  title_html: Learning Cooccurrences by using a Parser
+  url: https://www.aclweb.org/anthology/W89-0239
+  year: '1989'
+W89-0240:
+  abstract: There are a number of collocational constraints in natural languages that
+    ought to play a more important role in natural language parsers. Thus, for example,
+    it is hard for most parsers to take advantage of the fact that wine is typically
+    drunk, produced, and sold, but (probably) not pruned. So too, it is hard for a
+    parser to know which verbs go with which prepositions (e.g., set up) and which
+    nouns fit together to form compound noun phrases (e.g., computer programmer).
+    This paper will attempt to show that many of these types of concerns can be addressed
+    with syntactic methods (symbol pushing), and need not require explicit semantic
+    interpretation. We have found that it is possible to identify many of these interesting
+    co-occurrence relations by computing simple summary statistics over millions of
+    words of text. This paper will summarize a number of experiments carried out by
+    various subsets of the authors over the last few years. The term collocation will
+    be used quite broadly to include constraints on SVO (subject verb object) triples,
+    phrasal verbs, compound noun phrases, and psychoiinguistic notions of word association
+    (e.g., doctor/nurse).
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Kenneth
+    full: Kenneth Church
+    id: kenneth-church
+    last: Church
+  - first: William
+    full: William Gale
+    id: william-a-gale
+    last: Gale
+  - first: Patrick
+    full: Patrick Hanks
+    id: patrick-hanks
+    last: Hanks
+  - first: Donald
+    full: Donald Hindle
+    id: donald-hindle
+    last: Hindle
+  author_string: Kenneth Church, William Gale, Patrick Hanks, Donald Hindle
+  bibkey: church-etal-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '389'
+  page_last: '398'
+  pages: "389\u2013398"
+  paper_id: '40'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0240.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0240.jpg
+  title: Parsing, Word Associations and Typical Predicate-Argument Relations
+  title_html: Parsing, Word Associations and Typical Predicate-Argument Relations
+  url: https://www.aclweb.org/anthology/W89-0240
+  year: '1989'
+W89-0241:
+  abstract: "The search for efficient parsing strategies has a long history, dating\
+    \ back to at least the Cocke/Younger/Kusami parser of the early sixties. The publication\
+    \ of the Earley parser in 1970 has had a significant influence on context-free\
+    \ (CF) parsing for natural language processing, evidenced by the interest in the\
+    \ variety of chart parsers implemented since then. The development of unification\
+    \ grammars (with their complex feature structures) has put new life into the discussion\
+    \ of efficient parsing strategies, and there has been some debate on the use of\
+    \ essentially bottom-up or top-down strategies, the efficacy of top-down filtering\
+    \ and so on. The approacn to parsing described here is suitable for complex category,\
+    \ unification-based grammars. The concentration here is on a unification grammar\
+    \ which has a context-free backbone, Lexical-Functional Grammer (LFG). The parser\
+    \ is designed primarily for simplicity, efficiency and practical application.\
+    \ The parser outlined here results in a high-level, but still efficient, language\
+    \ system without making a requirement on the grammar/lexicon writer to understand\
+    \ its implementation details. The parsing algorithm operates in a systematic bottom-up\
+    \ (BU) fashion, thus taking earliest advantage of LFQ\u2019s concentration of\
+    \ information in the lexicon and also making use of unrestricted feature structures\
+    \ to realize LFG\u2019s Top-Down (TD) predictive potential. While LFG can make\
+    \ special use of its CF backbone, the algorithm employed is not restricted to\
+    \ grammars having a CF backbone and is equally suited to complex-feature-based\
+    \ formalisms. Additionally, the algorithm described (which is a systematic left-to-right\
+    \ (left comer) parsing algorithm) allows us to take full advantage of both BU\
+    \ and TD aspects of a unificatin-based grammar without incurring prohibitive overheads\
+    \ such as feature-structure comparison or subsumption checking. The use of TD\
+    \ prediction, which in the Earley algorithm is allowed to hypothesize new parse\
+    \ paths, is here restricted to confirming initial parses produced BU, and specializing\
+    \ these according to future (feature) expectations."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Neil K.
+    full: Neil K. Simpkins
+    id: neil-k-simpkins
+    last: Simpkins
+  - first: Peter J.
+    full: Peter J. Hancox
+    id: peter-j-hancox
+    last: Hancox
+  author_string: Neil K. Simpkins, Peter J. Hancox
+  bibkey: simpkins-hancox-1989-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '399'
+  page_last: '400'
+  pages: "399\u2013400"
+  paper_id: '41'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0241.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0241.jpg
+  title: An Efficient, Primarily Bottom-Up Parser for Unification Grammars
+  title_html: An Efficient, Primarily Bottom-Up Parser for Unification Grammars
+  url: https://www.aclweb.org/anthology/W89-0241
+  year: '1989'
+W89-0242:
+  abstract: "PREMO is a knowledge-based Preference Semantics parser with access to\
+    \ a large, lexical semantic knowledge base and organized along the lines of an\
+    \ operating system. The state of every partial parse is captured in a structure\
+    \ called a language object, and the control structure of the preference machine\
+    \ is a priority queue of these language objects. The language object at the front\
+    \ of the queue has the highest score as computed by a preference metric that weighs\
+    \ grammatical predictions, semantic type matching, and pragmatic coherence. The\
+    \ highest priority language object is the intermediate reading that is currently\
+    \ most preferred (the others are still \u201Calive,\u201D but not actively pursued);\
+    \ in this way the preference machine avoids combinatorial explosion by following\
+    \ a \u201Cbest-first\u201D strategy for parsing. The system has clear extensions\
+    \ into parallel processing."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Brian M.
+    full: Brian M. Slator
+    id: brian-m-slator
+    last: Slator
+  - first: Yorick
+    full: Yorick Wilks
+    id: yorick-wilks
+    last: Wilks
+  author_string: Brian M. Slator, Yorick Wilks
+  bibkey: slator-wilks-1989-premo
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '401'
+  page_last: '413'
+  pages: "401\u2013413"
+  paper_id: '42'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0242.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0242.jpg
+  title: 'PREMO: Parsing by Conspicuous Lexical Consumption'
+  title_html: '<span class="acl-fixed-case">PREMO</span>: Parsing by Conspicuous Lexical
+    Consumption'
+  url: https://www.aclweb.org/anthology/W89-0242
+  year: '1989'
+W89-0243:
+  abstract: "2-Dimensional Context-Free Grammar (2D-CFG) for 2-dimensional input text\
+    \ is introduced and efficient parsing algorithms for 2D-CFG are presented. In\
+    \ 2D-CFG, a grammar rule\u2019s right hand side symbols can be placed not only\
+    \ horizontally but also vertically. Terminal symbols in a 2-dimensional input\
+    \ text are combined to form a rectangular region, and regions are combined to\
+    \ form a larger region using a 2-dimensional phrase structure rule. The parsing\
+    \ algorithms presented in this paper are the 2D-Ear1ey algorithm and 2D-LR algorithm,\
+    \ which are 2-dimensionally extended versions of Earley\u2019s algorithm and the\
+    \ LR(O) algorithm, respectively."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Masaru
+    full: Masaru Tomita
+    id: masaru-tomita
+    last: Tomita
+  author_string: Masaru Tomita
+  bibkey: tomita-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '414'
+  page_last: '424'
+  pages: "414\u2013424"
+  paper_id: '43'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0243.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0243.jpg
+  title: Parsing 2-Dimensional Language
+  title_html: Parsing 2-Dimensional Language
+  url: https://www.aclweb.org/anthology/W89-0243
+  year: '1989'
+W89-0244:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Karen
+    full: Karen Jensen
+    id: karen-jensen
+    last: Jensen
+  author_string: Karen Jensen
+  bibkey: jensen-1989-broad
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '425'
+  page_last: '441'
+  pages: "425\u2013441"
+  paper_id: '44'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0244.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0244.jpg
+  title: A Broad-Coverage Natural Language Analysis System
+  title_html: A Broad-Coverage Natural Language Analysis System
+  url: https://www.aclweb.org/anthology/W89-0244
+  year: '1989'
+W89-0245:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: S Pal
+    full: S Pal Asija
+    id: s-pal-asija
+    last: Asija
+  author_string: S Pal Asija
+  bibkey: asija-1989-pseudo
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '442'
+  page_last: '447'
+  pages: "442\u2013447"
+  paper_id: '45'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0245.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0245.jpg
+  title: Pseudo Parsing Swift-Answer Algorithm
+  title_html: Pseudo Parsing Swift-Answer Algorithm
+  url: https://www.aclweb.org/anthology/W89-0245
+  year: '1989'
+W89-0246:
+  abstract: ''
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Eva
+    full: "Eva Haji\u010Dov\xE1"
+    id: eva-hajicova
+    last: "Haji\u010Dov\xE1"
+  author_string: "Eva Haji\u010Dov\xE1"
+  bibkey: hajicova-1989-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '448'
+  page_last: '457'
+  pages: "448\u2013457"
+  paper_id: '46'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0246.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0246.jpg
+  title: A Dependency-Based Parser for Topic and Focus
+  title_html: A Dependency-Based Parser for Topic and Focus
+  url: https://www.aclweb.org/anthology/W89-0246
+  year: '1989'
+W89-0247:
+  abstract: "A parser is described here based on the Cocke-Young-Kassami algorithm\
+    \ which uses immediate dominance and linear precedence rules together with various\
+    \ feature inheritance conventions. The meta rules in the grammar are not applied\
+    \ beforehand but only when needed. This ensures that the rule set is kept to a\
+    \ minimum. At the same time, determining what rule to expand by applying which\
+    \ meta-rule is done in an efficient manner using the meta-rule reference table.\
+    \ Since this table is generated during \u201Ccompilation\u201D stage, its generation\
+    \ does not add to parsing time."
+  address: Pittsburgh, Pennsylvania, USA
+  author:
+  - first: Navin
+    full: Navin Budhiraja
+    id: navin-budhiraja
+    last: Budhiraja
+  - first: Subrata
+    full: Subrata Mitra
+    id: subrata-mitra
+    last: Mitra
+  - first: Harish
+    full: Harish Karnick
+    id: harish-karnick
+    last: Karnick
+  - first: Rajeev
+    full: Rajeev Sangal
+    id: rajeev-sangal
+    last: Sangal
+  author_string: Navin Budhiraja, Subrata Mitra, Harish Karnick, Rajeev Sangal
+  bibkey: budhiraja-etal-1989-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the First International Workshop on Parsing Technologies
+  booktitle_html: Proceedings of the First International Workshop on Parsing Technologies
+  month: August
+  page_first: '458'
+  page_last: '467'
+  pages: "458\u2013467"
+  paper_id: '47'
+  parent_volume_id: W89-02
+  pdf: https://www.aclweb.org/anthology/W89-0247.pdf
+  publisher: Carnegy Mellon University
+  thumbnail: https://www.aclweb.org/anthology/thumb/W89-0247.jpg
+  title: Parsing Generalized Phrase Structure Grammar with Dynamic Expansion
+  title_html: Parsing Generalized Phrase Structure Grammar with Dynamic Expansion
+  url: https://www.aclweb.org/anthology/W89-0247
+  year: '1989'

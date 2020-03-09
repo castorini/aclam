@@ -1,0 +1,828 @@
+M95-1000:
+  bibkey: muc-1995-message
+  bibtype: proceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  paper_id: '0'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1000.jpg
+  title: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  title_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  url: https://www.aclweb.org/anthology/M95-1000
+  year: '1995'
+M95-1001:
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Beth
+    full: Beth Sundheim
+    id: beth-m-sundheim
+    last: Sundheim
+  author_string: Ralph Grishman, Beth Sundheim
+  bibkey: grishman-sundheim-1995-design
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '1'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1001.jpg
+  title: Design of the MUC-6 Evaluation
+  title_html: Design of the <span class="acl-fixed-case">MUC</span>-6 Evaluation
+  url: https://www.aclweb.org/anthology/M95-1001
+  year: '1995'
+M95-1002:
+  author:
+  - first: Beth M.
+    full: Beth M. Sundheim
+    id: beth-m-sundheim
+    last: Sundheim
+  author_string: Beth M. Sundheim
+  bibkey: sundheim-1995-overview
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '2'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1002.jpg
+  title: Overview of Results of the MUC-6 Evaluation
+  title_html: Overview of Results of the <span class="acl-fixed-case">MUC</span>-6
+    Evaluation
+  url: https://www.aclweb.org/anthology/M95-1002
+  year: '1995'
+M95-1003:
+  author:
+  - first: Nancy
+    full: Nancy Chinchor
+    id: nancy-chinchor
+    last: Chinchor
+  - first: Gary
+    full: Gary Dungca
+    id: gary-dungca
+    last: Dungca
+  author_string: Nancy Chinchor, Gary Dungca
+  bibkey: chinchor-dungca-1995-four
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '3'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1003.jpg
+  title: 'FOUR SCORERS AND SEVEN YEARS AGO: The Scoring Method for MUC-6'
+  title_html: 'FOUR SCORERS AND SEVEN YEARS AGO: The Scoring Method for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1003
+  year: '1995'
+M95-1004:
+  author:
+  - first: Nancy
+    full: Nancy Chinchor
+    id: nancy-chinchor
+    last: Chinchor
+  author_string: Nancy Chinchor
+  bibkey: chinchor-1995-statistical
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '4'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1004.jpg
+  title: Statistical Significance of MUC-6 Results
+  title_html: Statistical Significance of <span class="acl-fixed-case">MUC</span>-6
+    Results
+  url: https://www.aclweb.org/anthology/M95-1004
+  year: '1995'
+M95-1005:
+  author:
+  - first: Marc
+    full: Marc Vilain
+    id: marc-vilain
+    last: Vilain
+  - first: John
+    full: John Burger
+    id: john-d-burger
+    last: Burger
+  - first: John
+    full: John Aberdeen
+    id: john-aberdeen
+    last: Aberdeen
+  - first: Dennis
+    full: Dennis Connolly
+    id: dennis-connolly
+    last: Connolly
+  - first: Lynette
+    full: Lynette Hirschman
+    id: lynette-hirschman
+    last: Hirschman
+  author_string: Marc Vilain, John Burger, John Aberdeen, Dennis Connolly, Lynette
+    Hirschman
+  bibkey: vilain-etal-1995-model
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '5'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1005.jpg
+  title: A Model-Theoretic Coreference Scoring Scheme
+  title_html: A Model-Theoretic Coreference Scoring Scheme
+  url: https://www.aclweb.org/anthology/M95-1005
+  year: '1995'
+M95-1006:
+  bibkey: nn-1995-bbn
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '6'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1006.jpg
+  title: 'BBN: Description of the PLUM System as Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">BBN</span>: Description of the <span class="acl-fixed-case">PLUM</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1006
+  year: '1995'
+M95-1007:
+  author:
+  - first: Richard
+    full: Richard Morgan
+    id: richard-g-morgan
+    last: Morgan
+  - first: Roberto
+    full: Roberto Garigliano
+    id: roberto-garigliano
+    last: Garigliano
+  - first: Paul
+    full: Paul Callaghan
+    id: paul-callaghan
+    last: Callaghan
+  - first: Sanjay
+    full: Sanjay Poria
+    id: sanjay-poria
+    last: Poria
+  - first: Mark
+    full: Mark Smith
+    id: mark-h-smith
+    last: Smith
+  - first: Agnieszka
+    full: Agnieszka Urbanowicz
+    id: agnieszka-urbanowicz
+    last: Urbanowicz
+  - first: Russell
+    full: Russell Collingham
+    id: russell-collingham
+    last: Collingham
+  - first: Marco
+    full: Marco Costantino
+    id: marco-costantino
+    last: Costantino
+  - first: Chris
+    full: Chris Cooper
+    id: chris-cooper
+    last: Cooper
+  - first: ''
+    full: The LOLITA Group
+    id: the-lolita-group
+    last: The LOLITA Group
+  author_string: Richard Morgan, Roberto Garigliano, Paul Callaghan, Sanjay Poria,
+    Mark Smith, Agnieszka Urbanowicz, Russell Collingham, Marco Costantino, Chris
+    Cooper, The LOLITA Group
+  bibkey: morgan-etal-1995-university
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '7'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1007.jpg
+  title: 'University of Durham: Description of the LOLITA System as Used in MUC-6.'
+  title_html: '<span class="acl-fixed-case">U</span>niversity of <span class="acl-fixed-case">D</span>urham:
+    Description of the <span class="acl-fixed-case">LOLITA</span> System as Used in
+    <span class="acl-fixed-case">MUC</span>-6.'
+  url: https://www.aclweb.org/anthology/M95-1007
+  year: '1995'
+M95-1008:
+  author:
+  - first: Arkady
+    full: Arkady Borkovsky
+    id: arkady-borkovsky
+    last: Borkovsky
+  author_string: Arkady Borkovsky
+  bibkey: borkovsky-1995-knight
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '8'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1008.jpg
+  title: "Knight-Ridder Information\u2019s Value Adding Name Finder: A Variation on\
+    \ the Theme of FASTUS"
+  title_html: "<span class=\"acl-fixed-case\">K</span>night-<span class=\"acl-fixed-case\"\
+    >R</span>idder <span class=\"acl-fixed-case\">I</span>nformation\u2019s Value\
+    \ Adding Name Finder: A Variation on the Theme of <span class=\"acl-fixed-case\"\
+    >FASTUS</span>"
+  url: https://www.aclweb.org/anthology/M95-1008
+  year: '1995'
+M95-1009:
+  author:
+  - first: Lois
+    full: Lois Childs
+    id: lois-c-childs
+    last: Childs
+  - first: Deb
+    full: Deb Brady
+    id: deborah-brady
+    last: Brady
+  - first: Louise
+    full: Louise Guthrie
+    id: louise-guthrie
+    last: Guthrie
+  - first: Jose
+    full: Jose Franco
+    id: jose-franco
+    last: Franco
+  - first: Dan
+    full: Dan Valdes-Dapena
+    id: dan-valdes-dapena
+    last: Valdes-Dapena
+  - first: Bill
+    full: Bill Reid
+    id: bill-reid
+    last: Reid
+  - first: John
+    full: John Kielty
+    id: john-kielty
+    last: Kielty
+  - first: Glenn
+    full: Glenn Dierkes
+    id: glenn-dierkes
+    last: Dierkes
+  - first: Ira
+    full: Ira Sider
+    id: ira-sider
+    last: Sider
+  author_string: Lois Childs, Deb Brady, Louise Guthrie, Jose Franco, Dan Valdes-Dapena,
+    Bill Reid, John Kielty, Glenn Dierkes, Ira Sider
+  bibkey: childs-etal-1995-lockheed
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '9'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1009.jpg
+  title: 'Lockheed Martin: LOUELLA PARSING, An NLToolset System for MUC-6'
+  title_html: '<span class="acl-fixed-case">L</span>ockheed <span class="acl-fixed-case">M</span>artin:
+    <span class="acl-fixed-case">LOUELLA PARSING</span>, An <span class="acl-fixed-case">NLT</span>oolset
+    System for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1009
+  year: '1995'
+M95-1010:
+  author:
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Dekang Lin
+  bibkey: lin-1995-university
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '10'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1010.jpg
+  title: 'University of Manitoba: Description of the PIE System Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">U</span>niversity of <span class="acl-fixed-case">M</span>anitoba:
+    Description of the <span class="acl-fixed-case">PIE</span> System Used for <span
+    class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1010
+  year: '1995'
+M95-1011:
+  author:
+  - first: David
+    full: David Fisher
+    id: david-fisher
+    last: Fisher
+  - first: Stephen
+    full: Stephen Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: Joseph
+    full: Joseph McCarthy
+    id: joseph-mccarthy
+    last: McCarthy
+  - first: Fangfang
+    full: Fangfang Feng
+    id: fangfang-feng
+    last: Feng
+  - first: Wendy
+    full: Wendy Lehnert
+    id: wendy-lehnert
+    last: Lehnert
+  author_string: David Fisher, Stephen Soderland, Joseph McCarthy, Fangfang Feng,
+    Wendy Lehnert
+  bibkey: fisher-etal-1995-description
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '11'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1011.jpg
+  title: Description of the UMass System as Used for MUC-6
+  title_html: Description of the <span class="acl-fixed-case">UM</span>ass System
+    as Used for <span class="acl-fixed-case">MUC</span>-6
+  url: https://www.aclweb.org/anthology/M95-1011
+  year: '1995'
+M95-1012:
+  author:
+  - first: John
+    full: John Aberdeen
+    id: john-aberdeen
+    last: Aberdeen
+  - first: John
+    full: John Burger
+    id: john-d-burger
+    last: Burger
+  - first: David
+    full: David Day
+    id: david-day
+    last: Day
+  - first: Lynette
+    full: Lynette Hirschman
+    id: lynette-hirschman
+    last: Hirschman
+  - first: Patricia
+    full: Patricia Robinson
+    id: patricia-robinson
+    last: Robinson
+  - first: Marc
+    full: Marc Vilain
+    id: marc-vilain
+    last: Vilain
+  author_string: John Aberdeen, John Burger, David Day, Lynette Hirschman, Patricia
+    Robinson, Marc Vilain
+  bibkey: aberdeen-etal-1995-mitre
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '12'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1012.jpg
+  title: 'MITRE: Description of the Alembic System Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">MITRE</span>: Description of the <span
+    class="acl-fixed-case">A</span>lembic System Used for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1012
+  year: '1995'
+M95-1013:
+  author:
+  - first: Jim
+    full: Jim Cowie
+    id: jim-cowie
+    last: Cowie
+  author_string: Jim Cowie
+  bibkey: cowie-1995-crl
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '13'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1013.jpg
+  title: CRL/NMSUDescription of the CRL/NMSU Systems Used for MUC-6
+  title_html: <span class="acl-fixed-case">CRL</span>/<span class="acl-fixed-case">NMSUD</span>escription
+    of the <span class="acl-fixed-case">CRL</span>/<span class="acl-fixed-case">NMSU</span>
+    Systems Used for <span class="acl-fixed-case">MUC</span>-6
+  url: https://www.aclweb.org/anthology/M95-1013
+  year: '1995'
+M95-1014:
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Ralph Grishman
+  bibkey: grishman-1995-nyu
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '14'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1014.jpg
+  title: "The NYU System for MUC-6 or Where\u2019s the Syntax?"
+  title_html: "The <span class=\"acl-fixed-case\">NYU</span> System for <span class=\"\
+    acl-fixed-case\">MUC</span>-6 or Where\u2019s the Syntax?"
+  url: https://www.aclweb.org/anthology/M95-1014
+  year: '1995'
+M95-1015:
+  author:
+  - first: Breck
+    full: Breck Baldwin
+    id: breck-baldwin
+    last: Baldwin
+  - first: Jeff
+    full: Jeff Reynar
+    id: jeff-reynar
+    last: Reynar
+  - first: Mike
+    full: Mike Collins
+    id: mike-collins
+    last: Collins
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  - first: Adwait
+    full: Adwait Ratnaparkhi
+    id: adwait-ratnaparkhi
+    last: Ratnaparkhi
+  - first: Joseph
+    full: Joseph Rosenzweig
+    id: joseph-rosenzweig
+    last: Rosenzweig
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  - first: ''
+    full: Srinivas
+    id: srinivas-bangalore
+    last: Srinivas
+  author_string: Breck Baldwin, Jeff Reynar, Mike Collins, Jason Eisner, Adwait Ratnaparkhi,
+    Joseph Rosenzweig, Anoop Sarkar, Srinivas
+  bibkey: baldwin-etal-1995-university
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '15'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1015.jpg
+  title: 'University of Pennsylvania: Description of the University of Pennsylvania
+    System Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">U</span>niversity of <span class="acl-fixed-case">P</span>ennsylvania:
+    Description of the <span class="acl-fixed-case">U</span>niversity of <span class="acl-fixed-case">P</span>ennsylvania
+    System Used for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1015
+  year: '1995'
+M95-1016:
+  author:
+  - first: Lance A.
+    full: Lance A. Miller
+    id: lance-a-miller
+    last: Miller
+  author_string: Lance A. Miller
+  bibkey: miller-1995-description
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '16'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1016.jpg
+  title: Description of the SAIC DX System as Used for MUC-6
+  title_html: Description of the <span class="acl-fixed-case">SAIC DX</span> System
+    as Used for <span class="acl-fixed-case">MUC</span>-6
+  url: https://www.aclweb.org/anthology/M95-1016
+  year: '1995'
+M95-1017:
+  author:
+  - first: R.
+    full: R. Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  - first: T.
+    full: T. Wakao
+    id: takahiro-wakao
+    last: Wakao
+  - first: K.
+    full: K. Humphreys
+    id: kevin-humphreys
+    last: Humphreys
+  - first: H.
+    full: H. Cunningham
+    id: hamish-cunningham
+    last: Cunningham
+  - first: Y.
+    full: Y. Wilks
+    id: yorick-wilks
+    last: Wilks
+  author_string: R. Gaizauskas, T. Wakao, K. Humphreys, H. Cunningham, Y. Wilks
+  bibkey: gaizauskas-etal-1995-university
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '17'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1017.jpg
+  title: 'University of Sheffield: Description of the LaSIE System as Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">U</span>niversity of <span class="acl-fixed-case">S</span>heffield:
+    Description of the <span class="acl-fixed-case">L</span>a<span class="acl-fixed-case">SIE</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1017
+  year: '1995'
+M95-1018:
+  author:
+  - first: George R.
+    full: George R. Krupka
+    id: george-krupka
+    last: Krupka
+  author_string: George R. Krupka
+  bibkey: krupka-1995-sra
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '18'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1018.jpg
+  title: 'SRA: Description of the SRA System as Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">SRA</span>: Description of the <span class="acl-fixed-case">SRA</span>
+    System as Used for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1018
+  year: '1995'
+M95-1019:
+  author:
+  - first: Douglas E.
+    full: Douglas E. Appelt
+    id: douglas-appelt
+    last: Appelt
+  - first: Jerry R.
+    full: Jerry R. Hobbs
+    id: jerry-r-hobbs
+    last: Hobbs
+  - first: John
+    full: John Bear
+    id: john-bear
+    last: Bear
+  - first: David
+    full: David Israel
+    id: david-israel
+    last: Israel
+  - first: Megumi
+    full: Megumi Kameyama
+    id: megumi-kameyama
+    last: Kameyama
+  - first: Andy
+    full: Andy Kehler
+    id: andrew-kehler
+    last: Kehler
+  - first: David
+    full: David Martin
+    id: david-martin
+    last: Martin
+  - first: Karen
+    full: Karen Myers
+    id: karen-myers
+    last: Myers
+  - first: Mabry
+    full: Mabry Tyson
+    id: mabry-tyson
+    last: Tyson
+  author_string: Douglas E. Appelt, Jerry R. Hobbs, John Bear, David Israel, Megumi
+    Kameyama, Andy Kehler, David Martin, Karen Myers, Mabry Tyson
+  bibkey: appelt-etal-1995-sri
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '19'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1019.jpg
+  title: SRI International FASTUS SystemMUC-6 Test Results and Analysis
+  title_html: <span class="acl-fixed-case">SRI</span> <span class="acl-fixed-case">I</span>nternational
+    <span class="acl-fixed-case">FASTUS</span> System<span class="acl-fixed-case">MUC</span>-6
+    Test Results and Analysis
+  url: https://www.aclweb.org/anthology/M95-1019
+  year: '1995'
+M95-1020:
+  author:
+  - first: Richard
+    full: Richard Lee
+    id: richard-lee
+    last: Lee
+  author_string: Richard Lee
+  bibkey: lee-1995-sterling
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '20'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1020.jpg
+  title: 'Sterling Software: An NLToolset-Based System for MUC-6'
+  title_html: '<span class="acl-fixed-case">S</span>terling <span class="acl-fixed-case">S</span>oftware:
+    An <span class="acl-fixed-case">NLT</span>oolset-Based System for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1020
+  year: '1995'
+M95-1021:
+  author:
+  - first: Lucja
+    full: Lucja Iwanska
+    id: lucja-iwanska
+    last: Iwanska
+  - first: Mary
+    full: Mary Croll
+    id: mary-croll
+    last: Croll
+  - first: Taewan
+    full: Taewan Yoon
+    id: taewan-yoon
+    last: Yoon
+  - first: Maria
+    full: Maria Adams
+    id: maria-adams
+    last: Adams
+  author_string: Lucja Iwanska, Mary Croll, Taewan Yoon, Maria Adams
+  bibkey: iwanska-etal-1995-wayne
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '21'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1021.jpg
+  title: 'Wayne State University: Description of the UNO Natural Language Processing
+    System as Used for MUC-6'
+  title_html: '<span class="acl-fixed-case">W</span>ayne <span class="acl-fixed-case">S</span>tate
+    <span class="acl-fixed-case">U</span>niversity: Description of the <span class="acl-fixed-case">UNO</span>
+    Natural Language Processing System as Used for <span class="acl-fixed-case">MUC</span>-6'
+  url: https://www.aclweb.org/anthology/M95-1021
+  year: '1995'
+M95-1022:
+  bibkey: nn-1995-appendix
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '22'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1022.jpg
+  title: 'Appendix A: System Walkthrough Reference Materials'
+  title_html: 'Appendix <span class="acl-fixed-case">A</span>: System Walkthrough
+    Reference Materials'
+  url: https://www.aclweb.org/anthology/M95-1022
+  year: '1995'
+M95-1023:
+  bibkey: nn-1995-appendix-b
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '23'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1023.jpg
+  title: 'Appendix B: MUC-6 Test Scores'
+  title_html: 'Appendix <span class="acl-fixed-case">B</span>: <span class="acl-fixed-case">MUC</span>-6
+    Test Scores'
+  url: https://www.aclweb.org/anthology/M95-1023
+  year: '1995'
+M95-1024:
+  bibkey: nn-1995-appendix-c
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '24'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1024.jpg
+  title: 'Appendix C: Named Entity Task Definition (v2.1)'
+  title_html: 'Appendix <span class="acl-fixed-case">C</span>: Named Entity Task Definition
+    (v2.1)'
+  url: https://www.aclweb.org/anthology/M95-1024
+  year: '1995'
+M95-1025:
+  bibkey: nn-1995-appendix-coreference
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '25'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1025.jpg
+  title: 'Appendix D: Coreference Task Definition (v2.3)'
+  title_html: 'Appendix <span class="acl-fixed-case">D</span>: Coreference Task Definition
+    (v2.3)'
+  url: https://www.aclweb.org/anthology/M95-1025
+  year: '1995'
+M95-1026:
+  bibkey: nn-1995-appendix-e
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '26'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1026.jpg
+  title: 'Appendix E: Information Extraction Task Definition (v2.1)'
+  title_html: 'Appendix <span class="acl-fixed-case">E</span>: Information Extraction
+    Task Definition (v2.1)'
+  url: https://www.aclweb.org/anthology/M95-1026
+  year: '1995'
+M95-1027:
+  bibkey: nn-1995-appendix-f
+  bibtype: inproceedings
+  booktitle: 'Sixth Message Understanding Conference (MUC-6): Proceedings of a Conference
+    Held in Columbia, Maryland, November 6-8, 1995'
+  booktitle_html: 'Sixth Message Understanding Conference (<span class="acl-fixed-case">MUC</span>-6):
+    Proceedings of a Conference Held in <span class="acl-fixed-case">C</span>olumbia,
+    <span class="acl-fixed-case">M</span>aryland, November 6-8, 1995'
+  paper_id: '27'
+  parent_volume_id: M95-1
+  pdf: https://www.aclweb.org/anthology/M95-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/M95-1027.jpg
+  title: 'Appendix F: Information Extraction Task: Scenario on Management Succession(vl.l)'
+  title_html: 'Appendix F: Information Extraction Task: Scenario on Management Succession(vl.l)'
+  url: https://www.aclweb.org/anthology/M95-1027
+  year: '1995'

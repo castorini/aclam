@@ -1,0 +1,4014 @@
+P03-1000:
+  address: Sapporo, Japan
+  bibkey: acl-2003-association
+  bibtype: proceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  month: July
+  paper_id: '0'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1000.jpg
+  title: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  title_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  url: https://www.aclweb.org/anthology/P03-1000
+  year: '2003'
+P03-1001:
+  address: Sapporo, Japan
+  author:
+  - first: Michael
+    full: Michael Fleischman
+    id: michael-fleischman
+    last: Fleischman
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  - first: Abdessamad
+    full: Abdessamad Echihabi
+    id: abdessamad-echihabi
+    last: Echihabi
+  author_string: Michael Fleischman, Eduard Hovy, Abdessamad Echihabi
+  bibkey: fleischman-etal-2003-offline
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075097
+  month: July
+  page_first: '1'
+  page_last: '7'
+  pages: "1\u20137"
+  paper_id: '1'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1001.jpg
+  title: 'Offline Strategies for Online Question Answering: Answering Questions Before
+    They Are Asked'
+  title_html: 'Offline Strategies for Online Question Answering: Answering Questions
+    Before They Are Asked'
+  url: https://www.aclweb.org/anthology/P03-1001
+  year: '2003'
+P03-1002:
+  address: Sapporo, Japan
+  author:
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  - first: John
+    full: John Williams
+    id: john-williams
+    last: Williams
+  - first: Paul
+    full: Paul Aarseth
+    id: paul-aarseth
+    last: Aarseth
+  author_string: Mihai Surdeanu, Sanda Harabagiu, John Williams, Paul Aarseth
+  bibkey: surdeanu-etal-2003-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075098
+  month: July
+  page_first: '8'
+  page_last: '15'
+  pages: "8\u201315"
+  paper_id: '2'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1002.jpg
+  title: Using Predicate-Argument Structures for Information Extraction
+  title_html: Using Predicate-Argument Structures for Information Extraction
+  url: https://www.aclweb.org/anthology/P03-1002
+  year: '2003'
+P03-1003:
+  address: Sapporo, Japan
+  author:
+  - first: Abdessamad
+    full: Abdessamad Echihabi
+    id: abdessamad-echihabi
+    last: Echihabi
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Abdessamad Echihabi, Daniel Marcu
+  bibkey: echihabi-marcu-2003-noisy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075099
+  month: July
+  page_first: '16'
+  page_last: '23'
+  pages: "16\u201323"
+  paper_id: '3'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1003.jpg
+  title: A Noisy-Channel Approach to Question Answering
+  title_html: A Noisy-Channel Approach to Question Answering
+  url: https://www.aclweb.org/anthology/P03-1003
+  year: '2003'
+P03-1004:
+  address: Sapporo, Japan
+  author:
+  - first: Taku
+    full: Taku Kudo
+    id: taku-kudo
+    last: Kudo
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Taku Kudo, Yuji Matsumoto
+  bibkey: kudo-matsumoto-2003-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075100
+  month: July
+  page_first: '24'
+  page_last: '31'
+  pages: "24\u201331"
+  paper_id: '4'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1004.jpg
+  title: Fast Methods for Kernel-Based Text Analysis
+  title_html: Fast Methods for Kernel-Based Text Analysis
+  url: https://www.aclweb.org/anthology/P03-1004
+  year: '2003'
+P03-1005:
+  address: Sapporo, Japan
+  author:
+  - first: Jun
+    full: Jun Suzuki
+    id: jun-suzuki
+    last: Suzuki
+  - first: Tsutomu
+    full: Tsutomu Hirao
+    id: tsutomu-hirao
+    last: Hirao
+  - first: Yutaka
+    full: Yutaka Sasaki
+    id: yutaka-sasaki
+    last: Sasaki
+  - first: Eisaku
+    full: Eisaku Maeda
+    id: eisaku-maeda
+    last: Maeda
+  author_string: Jun Suzuki, Tsutomu Hirao, Yutaka Sasaki, Eisaku Maeda
+  bibkey: suzuki-etal-2003-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075101
+  month: July
+  page_first: '32'
+  page_last: '39'
+  pages: "32\u201339"
+  paper_id: '5'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1005.jpg
+  title: 'Hierarchical Directed Acyclic Graph Kernel: Methods for Structured Natural
+    Language Data'
+  title_html: 'Hierarchical Directed Acyclic Graph Kernel: Methods for Structured
+    Natural Language Data'
+  url: https://www.aclweb.org/anthology/P03-1005
+  year: '2003'
+P03-1006:
+  address: Sapporo, Japan
+  author:
+  - first: Cyril
+    full: Cyril Allauzen
+    id: cyril-allauzen
+    last: Allauzen
+  - first: Mehryar
+    full: Mehryar Mohri
+    id: mehryar-mohri
+    last: Mohri
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  author_string: Cyril Allauzen, Mehryar Mohri, Brian Roark
+  bibkey: allauzen-etal-2003-generalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075102
+  month: July
+  page_first: '40'
+  page_last: '47'
+  pages: "40\u201347"
+  paper_id: '6'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1006.jpg
+  title: Generalized Algorithms for Constructing Statistical Language Models
+  title_html: Generalized Algorithms for Constructing Statistical Language Models
+  url: https://www.aclweb.org/anthology/P03-1006
+  year: '2003'
+P03-1007:
+  address: Sapporo, Japan
+  author:
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  - first: Judita
+    full: Judita Preiss
+    id: judita-preiss
+    last: Preiss
+  author_string: Anna Korhonen, Judita Preiss
+  bibkey: korhonen-preiss-2003-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075103
+  month: July
+  page_first: '48'
+  page_last: '55'
+  pages: "48\u201355"
+  paper_id: '7'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1007.jpg
+  title: Improving Subcategorization Acquisition Using Word Sense Disambiguation
+  title_html: Improving Subcategorization Acquisition Using Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/P03-1007
+  year: '2003'
+P03-1008:
+  address: Sapporo, Japan
+  author:
+  - first: Malvina
+    full: Malvina Nissim
+    id: malvina-nissim
+    last: Nissim
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  author_string: Malvina Nissim, Katja Markert
+  bibkey: nissim-markert-2003-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075104
+  month: July
+  page_first: '56'
+  page_last: '63'
+  pages: "56\u201363"
+  paper_id: '8'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1008.jpg
+  title: Syntactic Features and Word Similarity for Supervised Metonymy Resolution
+  title_html: Syntactic Features and Word Similarity for Supervised Metonymy Resolution
+  url: https://www.aclweb.org/anthology/P03-1008
+  year: '2003'
+P03-1009:
+  address: Sapporo, Japan
+  author:
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  - first: Yuval
+    full: Yuval Krymolowski
+    id: yuval-krymolowski
+    last: Krymolowski
+  - first: Zvika
+    full: Zvika Marx
+    id: zvika-marx
+    last: Marx
+  author_string: Anna Korhonen, Yuval Krymolowski, Zvika Marx
+  bibkey: korhonen-etal-2003-clustering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075105
+  month: July
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '9'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1009.jpg
+  title: Clustering Polysemic Subcategorization Frame Distributions Semantically
+  title_html: Clustering Polysemic Subcategorization Frame Distributions Semantically
+  url: https://www.aclweb.org/anthology/P03-1009
+  year: '2003'
+P03-1010:
+  address: Sapporo, Japan
+  author:
+  - first: Masao
+    full: Masao Utiyama
+    id: masao-utiyama
+    last: Utiyama
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Masao Utiyama, Hitoshi Isahara
+  bibkey: utiyama-isahara-2003-reliable
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075106
+  month: July
+  page_first: '72'
+  page_last: '79'
+  pages: "72\u201379"
+  paper_id: '10'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1010.jpg
+  title: Reliable Measures for Aligning Japanese-English News Articles and Sentences
+  title_html: Reliable Measures for Aligning <span class="acl-fixed-case">J</span>apanese-<span
+    class="acl-fixed-case">E</span>nglish News Articles and Sentences
+  url: https://www.aclweb.org/anthology/P03-1010
+  year: '2003'
+P03-1011:
+  address: Sapporo, Japan
+  author:
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  author_string: Daniel Gildea
+  bibkey: gildea-2003-loosely
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075107
+  month: July
+  page_first: '80'
+  page_last: '87'
+  pages: "80\u201387"
+  paper_id: '11'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1011.jpg
+  title: Loosely Tree-Based Alignment for Machine Translation
+  title_html: Loosely Tree-Based Alignment for Machine Translation
+  url: https://www.aclweb.org/anthology/P03-1011
+  year: '2003'
+P03-1012:
+  address: Sapporo, Japan
+  author:
+  - first: Colin
+    full: Colin Cherry
+    id: colin-cherry
+    last: Cherry
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Colin Cherry, Dekang Lin
+  bibkey: cherry-lin-2003-probability
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075108
+  month: July
+  page_first: '88'
+  page_last: '95'
+  pages: "88\u201395"
+  paper_id: '12'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1012.jpg
+  title: A Probability Model to Improve Word Alignment
+  title_html: A Probability Model to Improve Word Alignment
+  url: https://www.aclweb.org/anthology/P03-1012
+  year: '2003'
+P03-1013:
+  address: Sapporo, Japan
+  author:
+  - first: Amit
+    full: Amit Dubey
+    id: amit-dubey
+    last: Dubey
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  author_string: Amit Dubey, Frank Keller
+  bibkey: dubey-keller-2003-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075109
+  month: July
+  page_first: '96'
+  page_last: '103'
+  pages: "96\u2013103"
+  paper_id: '13'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1013.jpg
+  title: Probabilistic Parsing for German Using Sister-Head Dependencies
+  title_html: Probabilistic Parsing for <span class="acl-fixed-case">G</span>erman
+    Using Sister-Head Dependencies
+  url: https://www.aclweb.org/anthology/P03-1013
+  year: '2003'
+P03-1014:
+  address: Sapporo, Japan
+  author:
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  - first: Markus
+    full: Markus Becker
+    id: markus-becker
+    last: Becker
+  - first: Berthold
+    full: Berthold Crysmann
+    id: berthold-crysmann
+    last: Crysmann
+  - first: Bernd
+    full: Bernd Kiefer
+    id: bernd-kiefer
+    last: Kiefer
+  - first: Ulrich
+    full: "Ulrich Sch\xE4fer"
+    id: ulrich-schafer
+    last: "Sch\xE4fer"
+  author_string: "Anette Frank, Markus Becker, Berthold Crysmann, Bernd Kiefer, Ulrich\
+    \ Sch\xE4fer"
+  bibkey: frank-etal-2003-integrated
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075110
+  month: July
+  page_first: '104'
+  page_last: '111'
+  pages: "104\u2013111"
+  paper_id: '14'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1014.jpg
+  title: 'Integrated Shallow and Deep Parsing: TopP Meets HPSG'
+  title_html: 'Integrated Shallow and Deep Parsing: <span class="acl-fixed-case">T</span>op<span
+    class="acl-fixed-case">P</span> Meets <span class="acl-fixed-case">HPSG</span>'
+  url: https://www.aclweb.org/anthology/P03-1014
+  year: '2003'
+P03-1015:
+  address: Sapporo, Japan
+  author:
+  - first: Michael
+    full: Michael Schiehlen
+    id: michael-schiehlen
+    last: Schiehlen
+  author_string: Michael Schiehlen
+  bibkey: schiehlen-2003-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075111
+  month: July
+  page_first: '112'
+  page_last: '119'
+  pages: "112\u2013119"
+  paper_id: '15'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1015.jpg
+  title: Combining Deep and Shallow Approaches in Parsing German
+  title_html: Combining Deep and Shallow Approaches in Parsing <span class="acl-fixed-case">G</span>erman
+  url: https://www.aclweb.org/anthology/P03-1015
+  year: '2003'
+P03-1016:
+  address: Sapporo, Japan
+  author:
+  - first: Hua
+    full: Hua Wu
+    id: hua-wu
+    last: Wu
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Hua Wu, Ming Zhou
+  bibkey: wu-zhou-2003-synonymous
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075112
+  month: July
+  page_first: '120'
+  page_last: '127'
+  pages: "120\u2013127"
+  paper_id: '16'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1016.jpg
+  title: Synonymous Collocation Extraction Using Translation Information
+  title_html: Synonymous Collocation Extraction Using Translation Information
+  url: https://www.aclweb.org/anthology/P03-1016
+  year: '2003'
+P03-1017:
+  address: Sapporo, Japan
+  author:
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: "Sebastian Pad\xF3, Mirella Lapata"
+  bibkey: pado-lapata-2003-constructing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075113
+  month: July
+  page_first: '128'
+  page_last: '135'
+  pages: "128\u2013135"
+  paper_id: '17'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1017.jpg
+  title: Constructing Semantic Space Models from Parsed Corpora
+  title_html: Constructing Semantic Space Models from Parsed Corpora
+  url: https://www.aclweb.org/anthology/P03-1017
+  year: '2003'
+P03-1018:
+  address: Sapporo, Japan
+  author:
+  - first: Dominic
+    full: Dominic Widdows
+    id: dominic-widdows
+    last: Widdows
+  author_string: Dominic Widdows
+  bibkey: widdows-2003-orthogonal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075114
+  month: July
+  page_first: '136'
+  page_last: '143'
+  pages: "136\u2013143"
+  paper_id: '18'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1018.jpg
+  title: Orthogonal Negation in Vector Spaces for Modelling Word-Meanings and Document
+    Retrieval
+  title_html: Orthogonal Negation in Vector Spaces for Modelling Word-Meanings and
+    Document Retrieval
+  url: https://www.aclweb.org/anthology/P03-1018
+  year: '2003'
+P03-1019:
+  address: Sapporo, Japan
+  author:
+  - first: Richard
+    full: Richard Zens
+    id: richard-zens
+    last: Zens
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Richard Zens, Hermann Ney
+  bibkey: zens-ney-2003-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075115
+  month: July
+  page_first: '144'
+  page_last: '151'
+  pages: "144\u2013151"
+  paper_id: '19'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1019.jpg
+  title: A Comparative Study on Reordering Constraints in Statistical Machine Translation
+  title_html: A Comparative Study on Reordering Constraints in Statistical Machine
+    Translation
+  url: https://www.aclweb.org/anthology/P03-1019
+  year: '2003'
+P03-1020:
+  address: Sapporo, Japan
+  author:
+  - first: Lucian Vlad
+    full: Lucian Vlad Lita
+    id: lucian-vlad-lita
+    last: Lita
+  - first: Abe
+    full: Abe Ittycheriah
+    id: abe-ittycheriah
+    last: Ittycheriah
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  - first: Nanda
+    full: Nanda Kambhatla
+    id: nanda-kambhatla
+    last: Kambhatla
+  author_string: Lucian Vlad Lita, Abe Ittycheriah, Salim Roukos, Nanda Kambhatla
+  bibkey: lita-etal-2003-truecasing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075116
+  month: July
+  page_first: '152'
+  page_last: '159'
+  pages: "152\u2013159"
+  paper_id: '20'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1020.jpg
+  title: tRuEcasIng
+  title_html: t<span class="acl-fixed-case">R</span>u<span class="acl-fixed-case">E</span>cas<span
+    class="acl-fixed-case">I</span>ng
+  url: https://www.aclweb.org/anthology/P03-1020
+  year: '2003'
+P03-1021:
+  address: Sapporo, Japan
+  author:
+  - first: Franz Josef
+    full: Franz Josef Och
+    id: franz-josef-och
+    last: Och
+  author_string: Franz Josef Och
+  bibkey: och-2003-minimum
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075117
+  month: July
+  page_first: '160'
+  page_last: '167'
+  pages: "160\u2013167"
+  paper_id: '21'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1021.jpg
+  title: Minimum Error Rate Training in Statistical Machine Translation
+  title_html: Minimum Error Rate Training in Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/P03-1021
+  year: '2003'
+P03-1022:
+  address: Sapporo, Japan
+  author:
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  - first: Christoph
+    full: "Christoph M\xFCller"
+    id: christoph-muller
+    last: "M\xFCller"
+  author_string: "Michael Strube, Christoph M\xFCller"
+  bibkey: strube-muller-2003-machine
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075118
+  month: July
+  page_first: '168'
+  page_last: '175'
+  pages: "168\u2013175"
+  paper_id: '22'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1022.jpg
+  title: A Machine Learning Approach to Pronoun Resolution in Spoken Dialogue
+  title_html: A Machine Learning Approach to Pronoun Resolution in Spoken Dialogue
+  url: https://www.aclweb.org/anthology/P03-1022
+  year: '2003'
+P03-1023:
+  address: Sapporo, Japan
+  author:
+  - first: Xiaofeng
+    full: Xiaofeng Yang
+    id: xiaofeng-yang
+    last: Yang
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Xiaofeng Yang, Guodong Zhou, Jian Su, Chew Lim Tan
+  bibkey: yang-etal-2003-coreference
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075119
+  month: July
+  page_first: '176'
+  page_last: '183'
+  pages: "176\u2013183"
+  paper_id: '23'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1023.jpg
+  title: Coreference Resolution Using Competition Learning Approach
+  title_html: Coreference Resolution Using Competition Learning Approach
+  url: https://www.aclweb.org/anthology/P03-1023
+  year: '2003'
+P03-1024:
+  address: Sapporo, Japan
+  author:
+  - first: Lionel
+    full: "Lionel Cl\xE9ment"
+    id: lionel-clement
+    last: "Cl\xE9ment"
+  - first: Alexandra
+    full: Alexandra Kinyon
+    id: alexandra-kinyon
+    last: Kinyon
+  author_string: "Lionel Cl\xE9ment, Alexandra Kinyon"
+  bibkey: clement-kinyon-2003-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075120
+  month: July
+  page_first: '184'
+  page_last: '191'
+  pages: "184\u2013191"
+  paper_id: '24'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1024.jpg
+  title: Generating Parallel Multilingual LFG-TAG Grammars from a MetaGrammar
+  title_html: Generating Parallel Multilingual <span class="acl-fixed-case">LFG</span>-<span
+    class="acl-fixed-case">TAG</span> Grammars from a <span class="acl-fixed-case">M</span>eta<span
+    class="acl-fixed-case">G</span>rammar
+  url: https://www.aclweb.org/anthology/P03-1024
+  year: '2003'
+P03-1025:
+  address: Sapporo, Japan
+  author:
+  - first: Jonas
+    full: Jonas Kuhn
+    id: jonas-kuhn
+    last: Kuhn
+  author_string: Jonas Kuhn
+  bibkey: kuhn-2003-compounding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075121
+  month: July
+  page_first: '192'
+  page_last: '199'
+  pages: "192\u2013199"
+  paper_id: '25'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1025.jpg
+  title: Compounding and Derivational Morphology in a Finite-State Setting
+  title_html: Compounding and Derivational Morphology in a Finite-State Setting
+  url: https://www.aclweb.org/anthology/P03-1025
+  year: '2003'
+P03-1026:
+  address: Sapporo, Japan
+  author:
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  - first: Cosmin
+    full: Cosmin Munteanu
+    id: cosmin-munteanu
+    last: Munteanu
+  author_string: Gerald Penn, Cosmin Munteanu
+  bibkey: penn-munteanu-2003-tabulation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075122
+  month: July
+  page_first: '200'
+  page_last: '207'
+  pages: "200\u2013207"
+  paper_id: '26'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1026.jpg
+  title: A Tabulation-Based Parsing Method that Reduces Copying
+  title_html: A Tabulation-Based Parsing Method that Reduces Copying
+  url: https://www.aclweb.org/anthology/P03-1026
+  year: '2003'
+P03-1027:
+  address: Sapporo, Japan
+  author:
+  - first: Andrew
+    full: Andrew Gordon
+    id: andrew-gordon
+    last: Gordon
+  - first: Abe
+    full: Abe Kazemzadeh
+    id: abe-kazemzadeh
+    last: Kazemzadeh
+  - first: Anish
+    full: Anish Nair
+    id: anish-nair
+    last: Nair
+  - first: Milena
+    full: Milena Petrova
+    id: milena-petrova
+    last: Petrova
+  author_string: Andrew Gordon, Abe Kazemzadeh, Anish Nair, Milena Petrova
+  bibkey: gordon-etal-2003-recognizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075123
+  month: July
+  page_first: '208'
+  page_last: '215'
+  pages: "208\u2013215"
+  paper_id: '27'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1027.jpg
+  title: Recognizing Expressions of Commonsense Psychology in English Text
+  title_html: Recognizing Expressions of Commonsense Psychology in <span class="acl-fixed-case">E</span>nglish
+    Text
+  url: https://www.aclweb.org/anthology/P03-1027
+  year: '2003'
+P03-1028:
+  address: Sapporo, Japan
+  author:
+  - first: Hai Leong
+    full: Hai Leong Chieu
+    id: hai-leong-chieu
+    last: Chieu
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Yoong Keok
+    full: Yoong Keok Lee
+    id: yoong-keok-lee
+    last: Lee
+  author_string: Hai Leong Chieu, Hwee Tou Ng, Yoong Keok Lee
+  bibkey: chieu-etal-2003-closing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075124
+  month: July
+  page_first: '216'
+  page_last: '223'
+  pages: "216\u2013223"
+  paper_id: '28'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1028.jpg
+  title: 'Closing the Gap: Learning-Based Information Extraction Rivaling Knowledge-Engineering
+    Methods'
+  title_html: 'Closing the Gap: Learning-Based Information Extraction Rivaling Knowledge-Engineering
+    Methods'
+  url: https://www.aclweb.org/anthology/P03-1028
+  year: '2003'
+P03-1029:
+  address: Sapporo, Japan
+  author:
+  - first: Kiyoshi
+    full: Kiyoshi Sudo
+    id: kiyoshi-sudo
+    last: Sudo
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Kiyoshi Sudo, Satoshi Sekine, Ralph Grishman
+  bibkey: sudo-etal-2003-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075125
+  month: July
+  page_first: '224'
+  page_last: '231'
+  pages: "224\u2013231"
+  paper_id: '29'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1029.jpg
+  title: An Improved Extraction Pattern Representation Model for Automatic IE Pattern
+    Acquisition
+  title_html: An Improved Extraction Pattern Representation Model for Automatic <span
+    class="acl-fixed-case">IE</span> Pattern Acquisition
+  url: https://www.aclweb.org/anthology/P03-1029
+  year: '2003'
+P03-1030:
+  address: Sapporo, Japan
+  author:
+  - first: Ayman
+    full: Ayman Farahat
+    id: ayman-farahat
+    last: Farahat
+  - first: Francine
+    full: Francine Chen
+    id: francine-chen
+    last: Chen
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  author_string: Ayman Farahat, Francine Chen, Thorsten Brants
+  bibkey: farahat-etal-2003-optimizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075126
+  month: July
+  page_first: '232'
+  page_last: '239'
+  pages: "232\u2013239"
+  paper_id: '30'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1030.jpg
+  title: Optimizing Story Link Detection is not Equivalent to Optimizing New Event
+    Detection
+  title_html: Optimizing Story Link Detection is not Equivalent to Optimizing New
+    Event Detection
+  url: https://www.aclweb.org/anthology/P03-1030
+  year: '2003'
+P03-1031:
+  address: Sapporo, Japan
+  author:
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Mikio
+    full: Mikio Nakano
+    id: mikio-nakano
+    last: Nakano
+  - first: Kiyoaki
+    full: Kiyoaki Aikawa
+    id: kiyoaki-aikawa
+    last: Aikawa
+  author_string: Ryuichiro Higashinaka, Mikio Nakano, Kiyoaki Aikawa
+  bibkey: higashinaka-etal-2003-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075127
+  month: July
+  page_first: '240'
+  page_last: '247'
+  pages: "240\u2013247"
+  paper_id: '31'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1031.jpg
+  title: Corpus-Based Discourse Understanding in Spoken Dialogue Systems
+  title_html: Corpus-Based Discourse Understanding in Spoken Dialogue Systems
+  url: https://www.aclweb.org/anthology/P03-1031
+  year: '2003'
+P03-1032:
+  address: Sapporo, Japan
+  author:
+  - first: Gang
+    full: Gang Wang
+    id: gang-wang
+    last: Wang
+  - first: Tat-Seng
+    full: Tat-Seng Chua
+    id: tat-seng-chua
+    last: Chua
+  - first: Yong-Cheng
+    full: Yong-Cheng Wang
+    id: yongcheng-wang
+    last: Wang
+  author_string: Gang Wang, Tat-Seng Chua, Yong-Cheng Wang
+  bibkey: wang-etal-2003-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075128
+  month: July
+  page_first: '248'
+  page_last: '255'
+  pages: "248\u2013255"
+  paper_id: '32'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1032.jpg
+  title: Extracting Key Semantic Terms from Chinese Speech Query for Web Searches
+  title_html: Extracting Key Semantic Terms from <span class="acl-fixed-case">C</span>hinese
+    Speech Query for Web Searches
+  url: https://www.aclweb.org/anthology/P03-1032
+  year: '2003'
+P03-1033:
+  address: Sapporo, Japan
+  author:
+  - first: Kazunori
+    full: Kazunori Komatani
+    id: kazunori-komatani
+    last: Komatani
+  - first: Shinichi
+    full: Shinichi Ueno
+    id: shinichi-ueno
+    last: Ueno
+  - first: Tatsuya
+    full: Tatsuya Kawahara
+    id: tatsuya-kawahara
+    last: Kawahara
+  - first: Hiroshi G.
+    full: Hiroshi G. Okuno
+    id: hiroshi-g-okuno
+    last: Okuno
+  author_string: Kazunori Komatani, Shinichi Ueno, Tatsuya Kawahara, Hiroshi G. Okuno
+  bibkey: komatani-etal-2003-flexible
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075129
+  month: July
+  page_first: '256'
+  page_last: '263'
+  pages: "256\u2013263"
+  paper_id: '33'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1033.jpg
+  title: Flexible Guidance Generation Using User Model in Spoken Dialogue Systems
+  title_html: Flexible Guidance Generation Using User Model in Spoken Dialogue Systems
+  url: https://www.aclweb.org/anthology/P03-1033
+  year: '2003'
+P03-1034:
+  address: Sapporo, Japan
+  author:
+  - first: Charles B.
+    full: Charles B. Callaway
+    id: charles-b-callaway
+    last: Callaway
+  author_string: Charles B. Callaway
+  bibkey: callaway-2003-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075130
+  month: July
+  page_first: '264'
+  page_last: '271'
+  pages: "264\u2013271"
+  paper_id: '34'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1034.jpg
+  title: Integrating Discourse Markers into a Pipelined Natural Language Generation
+    Architecture
+  title_html: Integrating Discourse Markers into a Pipelined Natural Language Generation
+    Architecture
+  url: https://www.aclweb.org/anthology/P03-1034
+  year: '2003'
+P03-1035:
+  address: Sapporo, Japan
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Chang-Ning
+    full: Chang-Ning Huang
+    id: changning-huang
+    last: Huang
+  author_string: Jianfeng Gao, Mu Li, Chang-Ning Huang
+  bibkey: gao-etal-2003-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075131
+  month: July
+  page_first: '272'
+  page_last: '279'
+  pages: "272\u2013279"
+  paper_id: '35'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1035.jpg
+  title: Improved Source-Channel Models for Chinese Word Segmentation
+  title_html: Improved Source-Channel Models for <span class="acl-fixed-case">C</span>hinese
+    Word Segmentation
+  url: https://www.aclweb.org/anthology/P03-1035
+  year: '2003'
+P03-1036:
+  address: Sapporo, Japan
+  author:
+  - first: Mathias
+    full: Mathias Creutz
+    id: mathias-creutz
+    last: Creutz
+  author_string: Mathias Creutz
+  bibkey: creutz-2003-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075132
+  month: July
+  page_first: '280'
+  page_last: '287'
+  pages: "280\u2013287"
+  paper_id: '36'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1036.jpg
+  title: Unsupervised Segmentation of Words Using Prior Distributions of Morph Length
+    and Frequency
+  title_html: Unsupervised Segmentation of Words Using Prior Distributions of Morph
+    Length and Frequency
+  url: https://www.aclweb.org/anthology/P03-1036
+  year: '2003'
+P03-1037:
+  address: Sapporo, Japan
+  author:
+  - first: Martin
+    full: Martin Jansche
+    id: martin-jansche
+    last: Jansche
+  author_string: Martin Jansche
+  bibkey: jansche-2003-parametric
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075133
+  month: July
+  page_first: '288'
+  page_last: '295'
+  pages: "288\u2013295"
+  paper_id: '37'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1037.jpg
+  title: Parametric Models of Linguistic Count Data
+  title_html: Parametric Models of Linguistic Count Data
+  url: https://www.aclweb.org/anthology/P03-1037
+  year: '2003'
+P03-1038:
+  address: Sapporo, Japan
+  author:
+  - first: Jin-Dong
+    full: Jin-Dong Kim
+    id: jin-dong-kim
+    last: Kim
+  - first: Hae-Chang
+    full: Hae-Chang Rim
+    id: hae-chang-rim
+    last: Rim
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Jin-Dong Kim, Hae-Chang Rim, Jun\u2019ichi Tsujii"
+  bibkey: kim-etal-2003-self
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075134
+  month: July
+  page_first: '296'
+  page_last: '302'
+  pages: "296\u2013302"
+  paper_id: '38'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1038.jpg
+  title: Self-Organizing Markov Models and Their Application to Part-of-Speech Tagging
+  title_html: Self-Organizing <span class="acl-fixed-case">M</span>arkov Models and
+    Their Application to Part-of-Speech Tagging
+  url: https://www.aclweb.org/anthology/P03-1038
+  year: '2003'
+P03-1039:
+  address: Sapporo, Japan
+  author:
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Hiroshi G.
+    full: Hiroshi G. Okuno
+    id: hiroshi-g-okuno
+    last: Okuno
+  author_string: Taro Watanabe, Eiichiro Sumita, Hiroshi G. Okuno
+  bibkey: watanabe-etal-2003-chunk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075135
+  month: July
+  page_first: '303'
+  page_last: '310'
+  pages: "303\u2013310"
+  paper_id: '39'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1039.jpg
+  title: Chunk-Based Statistical Translation
+  title_html: Chunk-Based Statistical Translation
+  url: https://www.aclweb.org/anthology/P03-1039
+  year: '2003'
+P03-1040:
+  address: Sapporo, Japan
+  author:
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Philipp Koehn, Kevin Knight
+  bibkey: koehn-knight-2003-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075136
+  month: July
+  page_first: '311'
+  page_last: '318'
+  pages: "311\u2013318"
+  paper_id: '40'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1040.jpg
+  title: Feature-Rich Statistical Translation of Noun Phrases
+  title_html: Feature-Rich Statistical Translation of Noun Phrases
+  url: https://www.aclweb.org/anthology/P03-1040
+  year: '2003'
+P03-1041:
+  address: Sapporo, Japan
+  author:
+  - first: Ashish
+    full: Ashish Venugopal
+    id: ashish-venugopal
+    last: Venugopal
+  - first: Stephan
+    full: Stephan Vogel
+    id: stephan-vogel
+    last: Vogel
+  - first: Alex
+    full: Alex Waibel
+    id: alex-waibel
+    last: Waibel
+  author_string: Ashish Venugopal, Stephan Vogel, Alex Waibel
+  bibkey: venugopal-etal-2003-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075137
+  month: July
+  page_first: '319'
+  page_last: '326'
+  pages: "319\u2013326"
+  paper_id: '41'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1041.jpg
+  title: Effective Phrase Translation Extraction from Alignment Models
+  title_html: Effective Phrase Translation Extraction from Alignment Models
+  url: https://www.aclweb.org/anthology/P03-1041
+  year: '2003'
+P03-1042:
+  address: Sapporo, Japan
+  author:
+  - first: Yunbo
+    full: Yunbo Cao
+    id: yunbo-cao
+    last: Cao
+  - first: Hang
+    full: Hang Li
+    id: hang-li
+    last: Li
+  - first: Li
+    full: Li Lian
+    id: li-lian
+    last: Lian
+  author_string: Yunbo Cao, Hang Li, Li Lian
+  bibkey: cao-etal-2003-uncertainty
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075138
+  month: July
+  page_first: '327'
+  page_last: '334'
+  pages: "327\u2013334"
+  paper_id: '42'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1042.jpg
+  title: 'Uncertainty Reduction in Collaborative Bootstrapping: Measure and Algorithm'
+  title_html: 'Uncertainty Reduction in Collaborative Bootstrapping: Measure and Algorithm'
+  url: https://www.aclweb.org/anthology/P03-1042
+  year: '2003'
+P03-1043:
+  address: Sapporo, Japan
+  author:
+  - first: Cheng
+    full: Cheng Niu
+    id: cheng-niu
+    last: Niu
+  - first: Wei
+    full: Wei Li
+    id: wei-li
+    last: Li
+  - first: Jihong
+    full: Jihong Ding
+    id: jihong-ding
+    last: Ding
+  - first: Rohini
+    full: Rohini Srihari
+    id: rohini-k-srihari
+    last: Srihari
+  author_string: Cheng Niu, Wei Li, Jihong Ding, Rohini Srihari
+  bibkey: niu-etal-2003-bootstrapping-approach
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075139
+  month: July
+  page_first: '335'
+  page_last: '342'
+  pages: "335\u2013342"
+  paper_id: '43'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1043.jpg
+  title: A Bootstrapping Approach to Named Entity Classification Using Successive
+    Learners
+  title_html: A Bootstrapping Approach to Named Entity Classification Using Successive
+    Learners
+  url: https://www.aclweb.org/anthology/P03-1043
+  year: '2003'
+P03-1044:
+  address: Sapporo, Japan
+  author:
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  author_string: Roman Yangarber
+  bibkey: yangarber-2003-counter
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075140
+  month: July
+  page_first: '343'
+  page_last: '350'
+  pages: "343\u2013350"
+  paper_id: '44'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1044.jpg
+  title: Counter-Training in Discovery of Semantic Patterns
+  title_html: Counter-Training in Discovery of Semantic Patterns
+  url: https://www.aclweb.org/anthology/P03-1044
+  year: '2003'
+P03-1045:
+  address: Sapporo, Japan
+  author:
+  - first: Denis
+    full: "Denis B\xE9chet"
+    id: denis-bechet
+    last: "B\xE9chet"
+  - first: Annie
+    full: Annie Foret
+    id: annie-foret
+    last: Foret
+  author_string: "Denis B\xE9chet, Annie Foret"
+  bibkey: bechet-foret-2003-k
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075141
+  month: July
+  page_first: '351'
+  page_last: '358'
+  pages: "351\u2013358"
+  paper_id: '45'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1045.jpg
+  title: k-Valued Non-Associative Lambek Categorial Grammars are not Learnable from
+    Strings
+  title_html: k-Valued Non-Associative Lambek Categorial Grammars are not Learnable
+    from Strings
+  url: https://www.aclweb.org/anthology/P03-1045
+  year: '2003'
+P03-1046:
+  address: Sapporo, Japan
+  author:
+  - first: Julia
+    full: Julia Hockenmaier
+    id: julia-hockenmaier
+    last: Hockenmaier
+  author_string: Julia Hockenmaier
+  bibkey: hockenmaier-2003-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075142
+  month: July
+  page_first: '359'
+  page_last: '366'
+  pages: "359\u2013366"
+  paper_id: '46'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1046.jpg
+  title: Parsing with Generative Models of Predicate-Argument Structure
+  title_html: Parsing with Generative Models of Predicate-Argument Structure
+  url: https://www.aclweb.org/anthology/P03-1046
+  year: '2003'
+P03-1047:
+  address: Sapporo, Japan
+  author:
+  - first: Joachim
+    full: Joachim Niehren
+    id: joachim-niehren
+    last: Niehren
+  - first: Stefan
+    full: Stefan Thater
+    id: stefan-thater
+    last: Thater
+  author_string: Joachim Niehren, Stefan Thater
+  bibkey: niehren-thater-2003-bridging
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075143
+  month: July
+  page_first: '367'
+  page_last: '374'
+  pages: "367\u2013374"
+  paper_id: '47'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1047.jpg
+  title: 'Bridging the Gap Between Underspecification Formalisms: Minimal Recursion
+    Semantics as Dominance Constraints'
+  title_html: 'Bridging the Gap Between Underspecification Formalisms: Minimal Recursion
+    Semantics as Dominance Constraints'
+  url: https://www.aclweb.org/anthology/P03-1047
+  year: '2003'
+P03-1048:
+  address: Sapporo, Japan
+  author:
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  - first: Simone
+    full: Simone Teufel
+    id: simone-teufel
+    last: Teufel
+  - first: Horacio
+    full: Horacio Saggion
+    id: horacio-saggion
+    last: Saggion
+  - first: Wai
+    full: Wai Lam
+    id: wai-lam
+    last: Lam
+  - first: John
+    full: John Blitzer
+    id: john-blitzer
+    last: Blitzer
+  - first: Hong
+    full: Hong Qi
+    id: hong-qi
+    last: Qi
+  - first: Arda
+    full: "Arda \xC7elebi"
+    id: arda-celebi
+    last: "\xC7elebi"
+  - first: Danyu
+    full: Danyu Liu
+    id: danyu-liu
+    last: Liu
+  - first: Elliott
+    full: Elliott Drabek
+    id: elliott-franco-drabek
+    last: Drabek
+  author_string: "Dragomir R. Radev, Simone Teufel, Horacio Saggion, Wai Lam, John\
+    \ Blitzer, Hong Qi, Arda \xC7elebi, Danyu Liu, Elliott Drabek"
+  bibkey: radev-etal-2003-evaluation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075144
+  month: July
+  page_first: '375'
+  page_last: '382'
+  pages: "375\u2013382"
+  paper_id: '48'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1048.jpg
+  title: Evaluation Challenges in Large-Scale Document Summarization
+  title_html: Evaluation Challenges in Large-Scale Document Summarization
+  url: https://www.aclweb.org/anthology/P03-1048
+  year: '2003'
+P03-1049:
+  address: Sapporo, Japan
+  author:
+  - first: Akiko
+    full: Akiko Aizawa
+    id: akiko-aizawa
+    last: Aizawa
+  author_string: Akiko Aizawa
+  bibkey: aizawa-2003-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075145
+  month: July
+  page_first: '383'
+  page_last: '390'
+  pages: "383\u2013390"
+  paper_id: '49'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1049.jpg
+  title: 'Analysis of Source Identified Text Corpora: Exploring the Statistics of
+    the Reused Text and Authorship'
+  title_html: 'Analysis of Source Identified Text Corpora: Exploring the Statistics
+    of the Reused Text and Authorship'
+  url: https://www.aclweb.org/anthology/P03-1049
+  year: '2003'
+P03-1050:
+  address: Sapporo, Japan
+  author:
+  - first: Monica
+    full: Monica Rogati
+    id: monica-rogati
+    last: Rogati
+  - first: Scott
+    full: Scott McCarley
+    id: j-scott-mccarley
+    last: McCarley
+  - first: Yiming
+    full: Yiming Yang
+    id: yiming-yang
+    last: Yang
+  author_string: Monica Rogati, Scott McCarley, Yiming Yang
+  bibkey: rogati-etal-2003-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075146
+  month: July
+  page_first: '391'
+  page_last: '398'
+  pages: "391\u2013398"
+  paper_id: '50'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1050.jpg
+  title: Unsupervised Learning of Arabic Stemming Using a Parallel Corpus
+  title_html: Unsupervised Learning of <span class="acl-fixed-case">A</span>rabic
+    Stemming Using a Parallel Corpus
+  url: https://www.aclweb.org/anthology/P03-1050
+  year: '2003'
+P03-1051:
+  address: Sapporo, Japan
+  author:
+  - first: Young-Suk
+    full: Young-Suk Lee
+    id: young-suk-lee
+    last: Lee
+  - first: Kishore
+    full: Kishore Papineni
+    id: kishore-papineni
+    last: Papineni
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  - first: Ossama
+    full: Ossama Emam
+    id: ossama-emam
+    last: Emam
+  - first: Hany
+    full: Hany Hassan
+    id: hany-hassan
+    last: Hassan
+  author_string: Young-Suk Lee, Kishore Papineni, Salim Roukos, Ossama Emam, Hany
+    Hassan
+  bibkey: lee-etal-2003-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075147
+  month: July
+  page_first: '399'
+  page_last: '406'
+  pages: "399\u2013406"
+  paper_id: '51'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1051.jpg
+  title: Language Model Based Arabic Word Segmentation
+  title_html: Language Model Based <span class="acl-fixed-case">A</span>rabic Word
+    Segmentation
+  url: https://www.aclweb.org/anthology/P03-1051
+  year: '2003'
+P03-1052:
+  address: Sapporo, Japan
+  author:
+  - first: Kumiko
+    full: Kumiko Tanaka-Ishii
+    id: kumiko-tanaka-ishii
+    last: Tanaka-Ishii
+  - first: Daichi
+    full: Daichi Hayakawa
+    id: daichi-hayakawa
+    last: Hayakawa
+  - first: Masato
+    full: Masato Takeichi
+    id: masato-takeichi
+    last: Takeichi
+  author_string: Kumiko Tanaka-Ishii, Daichi Hayakawa, Masato Takeichi
+  bibkey: tanaka-ishii-etal-2003-acquiring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075148
+  month: July
+  page_first: '407'
+  page_last: '414'
+  pages: "407\u2013414"
+  paper_id: '52'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1052.jpg
+  title: Acquiring Vocabulary for Predictive Text Entry through Dynamic Reuse of a
+    Small User Corpus
+  title_html: Acquiring Vocabulary for Predictive Text Entry through Dynamic Reuse
+    of a Small User Corpus
+  url: https://www.aclweb.org/anthology/P03-1052
+  year: '2003'
+P03-1053:
+  address: Sapporo, Japan
+  author:
+  - first: William Gregory
+    full: William Gregory Sakas
+    id: william-gregory-sakas
+    last: Sakas
+  author_string: William Gregory Sakas
+  bibkey: sakas-2003-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075149
+  month: July
+  page_first: '415'
+  page_last: '422'
+  pages: "415\u2013422"
+  paper_id: '53'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1053.jpg
+  title: A Word-Order Database for Testing Computational Models of Language Acquisition
+  title_html: A Word-Order Database for Testing Computational Models of Language Acquisition
+  url: https://www.aclweb.org/anthology/P03-1053
+  year: '2003'
+P03-1054:
+  address: Sapporo, Japan
+  author:
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Dan Klein, Christopher D. Manning
+  bibkey: klein-manning-2003-accurate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075150
+  month: July
+  page_first: '423'
+  page_last: '430'
+  pages: "423\u2013430"
+  paper_id: '54'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1054.jpg
+  title: Accurate Unlexicalized Parsing
+  title_html: Accurate Unlexicalized Parsing
+  url: https://www.aclweb.org/anthology/P03-1054
+  year: '2003'
+P03-1055:
+  address: Sapporo, Japan
+  author:
+  - first: "P\xE9ter"
+    full: "P\xE9ter Dienes"
+    id: peter-dienes
+    last: Dienes
+  - first: Amit
+    full: Amit Dubey
+    id: amit-dubey
+    last: Dubey
+  author_string: "P\xE9ter Dienes, Amit Dubey"
+  bibkey: dienes-dubey-2003-deep
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075151
+  month: July
+  page_first: '431'
+  page_last: '438'
+  pages: "431\u2013438"
+  paper_id: '55'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1055.jpg
+  title: Deep Syntactic Processing by Combining Shallow Methods
+  title_html: Deep Syntactic Processing by Combining Shallow Methods
+  url: https://www.aclweb.org/anthology/P03-1055
+  year: '2003'
+P03-1056:
+  address: Sapporo, Japan
+  author:
+  - first: Roger
+    full: Roger Levy
+    id: roger-levy
+    last: Levy
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Roger Levy, Christopher D. Manning
+  bibkey: levy-manning-2003-harder
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075152
+  month: July
+  page_first: '439'
+  page_last: '446'
+  pages: "439\u2013446"
+  paper_id: '56'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1056.jpg
+  title: Is it Harder to Parse Chinese, or the Chinese Treebank?
+  title_html: Is it Harder to Parse <span class="acl-fixed-case">C</span>hinese, or
+    the <span class="acl-fixed-case">C</span>hinese Treebank?
+  url: https://www.aclweb.org/anthology/P03-1056
+  year: '2003'
+P03-1057:
+  address: Sapporo, Japan
+  author:
+  - first: Kenji
+    full: Kenji Imamura
+    id: kenji-imamura
+    last: Imamura
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Kenji Imamura, Eiichiro Sumita, Yuji Matsumoto
+  bibkey: imamura-etal-2003-feedback
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075153
+  month: July
+  page_first: '447'
+  page_last: '454'
+  pages: "447\u2013454"
+  paper_id: '57'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1057.jpg
+  title: Feedback Cleaning of Machine Translation Rules Using Automatic Evaluation
+  title_html: Feedback Cleaning of Machine Translation Rules Using Automatic Evaluation
+  url: https://www.aclweb.org/anthology/P03-1057
+  year: '2003'
+P03-1058:
+  address: Sapporo, Japan
+  author:
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Bin
+    full: Bin Wang
+    id: bin-wang
+    last: Wang
+  - first: Yee Seng
+    full: Yee Seng Chan
+    id: yee-seng-chan
+    last: Chan
+  author_string: Hwee Tou Ng, Bin Wang, Yee Seng Chan
+  bibkey: ng-etal-2003-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075154
+  month: July
+  page_first: '455'
+  page_last: '462'
+  pages: "455\u2013462"
+  paper_id: '58'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1058.jpg
+  title: 'Exploiting Parallel Texts for Word Sense Disambiguation: An Empirical Study'
+  title_html: 'Exploiting Parallel Texts for Word Sense Disambiguation: An Empirical
+    Study'
+  url: https://www.aclweb.org/anthology/P03-1058
+  year: '2003'
+P03-1059:
+  address: Sapporo, Japan
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Francis
+    full: Francis Bond
+    id: francis-bond
+    last: Bond
+  author_string: Timothy Baldwin, Francis Bond
+  bibkey: baldwin-bond-2003-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075155
+  month: July
+  page_first: '463'
+  page_last: '470'
+  pages: "463\u2013470"
+  paper_id: '59'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1059.jpg
+  title: Learning the Countability of English Nouns from Corpus Data
+  title_html: Learning the Countability of <span class="acl-fixed-case">E</span>nglish
+    Nouns from Corpus Data
+  url: https://www.aclweb.org/anthology/P03-1059
+  year: '2003'
+P03-1060:
+  address: Sapporo, Japan
+  author:
+  - first: Do-Gil
+    full: Do-Gil Lee
+    id: do-gil-lee
+    last: Lee
+  - first: Hae-Chang
+    full: Hae-Chang Rim
+    id: hae-chang-rim
+    last: Rim
+  - first: Heui-Seok
+    full: Heui-Seok Lim
+    id: heui-seok-lim
+    last: Lim
+  author_string: Do-Gil Lee, Hae-Chang Rim, Heui-Seok Lim
+  bibkey: lee-etal-2003-syllable
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075156
+  month: July
+  page_first: '471'
+  page_last: '478'
+  pages: "471\u2013478"
+  paper_id: '60'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1060.jpg
+  title: A Syllable Based Word Recognition Model for Korean Noun Extraction
+  title_html: A Syllable Based Word Recognition Model for <span class="acl-fixed-case">K</span>orean
+    Noun Extraction
+  url: https://www.aclweb.org/anthology/P03-1060
+  year: '2003'
+P03-1061:
+  address: Sapporo, Japan
+  author:
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Chikashi
+    full: Chikashi Nobata
+    id: chikashi-nobata
+    last: Nobata
+  - first: Atsushi
+    full: Atsushi Yamada
+    id: atsushi-yamada
+    last: Yamada
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Kiyotaka Uchimoto, Chikashi Nobata, Atsushi Yamada, Satoshi Sekine,
+    Hitoshi Isahara
+  bibkey: uchimoto-etal-2003-morphological
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075157
+  month: July
+  page_first: '479'
+  page_last: '488'
+  pages: "479\u2013488"
+  paper_id: '61'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1061.jpg
+  title: Morphological Analysis of a Large Spontaneous Speech Corpus in Japanese
+  title_html: Morphological Analysis of a Large Spontaneous Speech Corpus in <span
+    class="acl-fixed-case">J</span>apanese
+  url: https://www.aclweb.org/anthology/P03-1061
+  year: '2003'
+P03-1062:
+  address: Sapporo, Japan
+  author:
+  - first: Erwin
+    full: Erwin Marsi
+    id: erwin-marsi
+    last: Marsi
+  - first: Martin
+    full: Martin Reynaert
+    id: martin-reynaert
+    last: Reynaert
+  - first: Antal
+    full: Antal van den Bosch
+    id: antal-van-den-bosch
+    last: van den Bosch
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  - first: "V\xE9ronique"
+    full: "V\xE9ronique Hoste"
+    id: veronique-hoste
+    last: Hoste
+  author_string: "Erwin Marsi, Martin Reynaert, Antal van den Bosch, Walter Daelemans,\
+    \ V\xE9ronique Hoste"
+  bibkey: marsi-etal-2003-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075158
+  month: July
+  page_first: '489'
+  page_last: '496'
+  pages: "489\u2013496"
+  paper_id: '62'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1062.jpg
+  title: Learning to Predict Pitch Accents and Prosodic Boundaries in Dutch
+  title_html: Learning to Predict Pitch Accents and Prosodic Boundaries in <span class="acl-fixed-case">D</span>utch
+  url: https://www.aclweb.org/anthology/P03-1062
+  year: '2003'
+P03-1063:
+  address: Sapporo, Japan
+  author:
+  - first: Seong-Bae
+    full: Seong-Bae Park
+    id: seong-bae-park
+    last: Park
+  - first: Byoung-Tak
+    full: Byoung-Tak Zhang
+    id: byoung-tak-zhang
+    last: Zhang
+  author_string: Seong-Bae Park, Byoung-Tak Zhang
+  bibkey: park-zhang-2003-text
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075159
+  month: July
+  page_first: '497'
+  page_last: '504'
+  pages: "497\u2013504"
+  paper_id: '63'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1063.jpg
+  title: Text Chunking by Combining Hand-Crafted Rules and Memory-Based Learning
+  title_html: Text Chunking by Combining Hand-Crafted Rules and Memory-Based Learning
+  url: https://www.aclweb.org/anthology/P03-1063
+  year: '2003'
+P03-1064:
+  address: Sapporo, Japan
+  author:
+  - first: Libin
+    full: Libin Shen
+    id: libin-shen
+    last: Shen
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Libin Shen, Aravind K. Joshi
+  bibkey: shen-joshi-2003-snow
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075160
+  month: July
+  page_first: '505'
+  page_last: '512'
+  pages: "505\u2013512"
+  paper_id: '64'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1064.jpg
+  title: A SNoW Based Supertagger with Application to NP Chunking
+  title_html: A <span class="acl-fixed-case">SN</span>o<span class="acl-fixed-case">W</span>
+    Based Supertagger with Application to <span class="acl-fixed-case">NP</span> Chunking
+  url: https://www.aclweb.org/anthology/P03-1064
+  year: '2003'
+P03-1065:
+  address: Sapporo, Japan
+  author:
+  - first: Wei
+    full: Wei Li
+    id: wei-li
+    last: Li
+  - first: Xiuhong
+    full: Xiuhong Zhang
+    id: xiuhong-zhang
+    last: Zhang
+  - first: Cheng
+    full: Cheng Niu
+    id: cheng-niu
+    last: Niu
+  - first: Yuankai
+    full: Yuankai Jiang
+    id: yuankai-jiang
+    last: Jiang
+  - first: Rohini K.
+    full: Rohini K. Srihari
+    id: rohini-k-srihari
+    last: Srihari
+  author_string: Wei Li, Xiuhong Zhang, Cheng Niu, Yuankai Jiang, Rohini K. Srihari
+  bibkey: li-etal-2003-expert
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075161
+  month: July
+  page_first: '513'
+  page_last: '520'
+  pages: "513\u2013520"
+  paper_id: '65'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1065.jpg
+  title: An Expert Lexicon Approach to Identifying English Phrasal Verbs
+  title_html: An Expert Lexicon Approach to Identifying <span class="acl-fixed-case">E</span>nglish
+    Phrasal Verbs
+  url: https://www.aclweb.org/anthology/P03-1065
+  year: '2003'
+P03-1066:
+  address: Sapporo, Japan
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Hisami
+    full: Hisami Suzuki
+    id: hisami-suzuki
+    last: Suzuki
+  author_string: Jianfeng Gao, Hisami Suzuki
+  bibkey: gao-suzuki-2003-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075162
+  month: July
+  page_first: '521'
+  page_last: '528'
+  pages: "521\u2013528"
+  paper_id: '66'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1066.jpg
+  title: Unsupervised Learning of Dependency Structure for Language Modeling
+  title_html: Unsupervised Learning of Dependency Structure for Language Modeling
+  url: https://www.aclweb.org/anthology/P03-1066
+  year: '2003'
+P03-1067:
+  address: Sapporo, Japan
+  author:
+  - first: William
+    full: William Schuler
+    id: william-schuler
+    last: Schuler
+  author_string: William Schuler
+  bibkey: schuler-2003-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075163
+  month: July
+  page_first: '529'
+  page_last: '536'
+  pages: "529\u2013536"
+  paper_id: '67'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1067.jpg
+  title: Using Model-Theoretic Semantic Interpretation to Guide Statistical Parsing
+    and Word Recognition in a Spoken Language Interface
+  title_html: Using Model-Theoretic Semantic Interpretation to Guide Statistical Parsing
+    and Word Recognition in a Spoken Language Interface
+  url: https://www.aclweb.org/anthology/P03-1067
+  year: '2003'
+P03-1068:
+  address: Sapporo, Japan
+  author:
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  - first: Andrea
+    full: Andrea Kowalski
+    id: andrea-kowalski
+    last: Kowalski
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  - first: Manfred
+    full: Manfred Pinkal
+    id: manfred-pinkal
+    last: Pinkal
+  author_string: "Katrin Erk, Andrea Kowalski, Sebastian Pad\xF3, Manfred Pinkal"
+  bibkey: erk-etal-2003-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075164
+  month: July
+  page_first: '537'
+  page_last: '544'
+  pages: "537\u2013544"
+  paper_id: '68'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1068.jpg
+  title: 'Towards a Resource for Lexical Semantics: A Large German Corpus with Extensive
+    Semantic Annotation'
+  title_html: 'Towards a Resource for Lexical Semantics: A Large <span class="acl-fixed-case">G</span>erman
+    Corpus with Extensive Semantic Annotation'
+  url: https://www.aclweb.org/anthology/P03-1068
+  year: '2003'
+P03-1069:
+  address: Sapporo, Japan
+  author:
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Mirella Lapata
+  bibkey: lapata-2003-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075165
+  month: July
+  page_first: '545'
+  page_last: '552'
+  pages: "545\u2013552"
+  paper_id: '69'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1069.jpg
+  title: 'Probabilistic Text Structuring: Experiments with Sentence Ordering'
+  title_html: 'Probabilistic Text Structuring: Experiments with Sentence Ordering'
+  url: https://www.aclweb.org/anthology/P03-1069
+  year: '2003'
+P03-1070:
+  address: Sapporo, Japan
+  author:
+  - first: Yukiko
+    full: Yukiko Nakano
+    id: yukiko-i-nakano
+    last: Nakano
+  - first: Gabe
+    full: Gabe Reinstein
+    id: gabe-reinstein
+    last: Reinstein
+  - first: Tom
+    full: Tom Stocky
+    id: tom-stocky
+    last: Stocky
+  - first: Justine
+    full: Justine Cassell
+    id: justine-cassell
+    last: Cassell
+  author_string: Yukiko Nakano, Gabe Reinstein, Tom Stocky, Justine Cassell
+  bibkey: nakano-etal-2003-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075166
+  month: July
+  page_first: '553'
+  page_last: '561'
+  pages: "553\u2013561"
+  paper_id: '70'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1070.jpg
+  title: Towards a Model of Face-to-Face Grounding
+  title_html: Towards a Model of Face-to-Face Grounding
+  url: https://www.aclweb.org/anthology/P03-1070
+  year: '2003'
+P03-1071:
+  address: Sapporo, Japan
+  author:
+  - first: Michel
+    full: Michel Galley
+    id: michel-galley
+    last: Galley
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  - first: Eric
+    full: Eric Fosler-Lussier
+    id: eric-fosler-lussier
+    last: Fosler-Lussier
+  - first: Hongyan
+    full: Hongyan Jing
+    id: hongyan-jing
+    last: Jing
+  author_string: Michel Galley, Kathleen R. McKeown, Eric Fosler-Lussier, Hongyan
+    Jing
+  bibkey: galley-etal-2003-discourse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  booktitle_html: Proceedings of the 41st Annual Meeting of the Association for Computational
+    Linguistics
+  doi: 10.3115/1075096.1075167
+  month: July
+  page_first: '562'
+  page_last: '569'
+  pages: "562\u2013569"
+  paper_id: '71'
+  parent_volume_id: P03-1
+  pdf: https://www.aclweb.org/anthology/P03-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-1071.jpg
+  title: Discourse Segmentation of Multi-Party Conversation
+  title_html: Discourse Segmentation of Multi-Party Conversation
+  url: https://www.aclweb.org/anthology/P03-1071
+  year: '2003'
+P03-2000:
+  address: Sapporo, Japan
+  bibkey: acl-2003-companion
+  bibtype: proceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  month: July
+  paper_id: '0'
+  parent_volume_id: P03-2
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2000.jpg
+  title: The Companion Volume to the Proceedings of 41st Annual Meeting of the Association
+    for Computational Linguistics
+  title_html: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  year: '2003'
+P03-2001:
+  address: Sapporo, Japan
+  bibkey: nn-2003-proceedings
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  month: July
+  paper_id: '1'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2001.jpg
+  title: Proceedings of the ACL-2003 Student Research Workshop
+  title_html: Proceedings of the <span class="acl-fixed-case">ACL</span>-2003 Student
+    Research Workshop
+  url: https://www.aclweb.org/anthology/P03-2001
+  year: '2003'
+P03-2002:
+  address: Sapporo, Japan
+  author:
+  - first: "Narj\xE8s"
+    full: "Narj\xE8s Boufaden"
+    id: narjes-boufaden
+    last: Boufaden
+  author_string: "Narj\xE8s Boufaden"
+  bibkey: boufaden-2003-ontology
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075179
+  month: July
+  page_first: '7'
+  page_last: '14'
+  pages: "7\u201314"
+  paper_id: '2'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2002.jpg
+  title: An Ontology-based Semantic Tagger for IE system
+  title_html: An Ontology-based Semantic Tagger for <span class="acl-fixed-case">IE</span>
+    system
+  url: https://www.aclweb.org/anthology/P03-2002
+  year: '2003'
+P03-2003:
+  address: Sapporo, Japan
+  author:
+  - first: "Jos\xE9 M."
+    full: "Jos\xE9 M. Casta\xF1o"
+    id: jose-castano
+    last: "Casta\xF1o"
+  author_string: "Jos\xE9 M. Casta\xF1o"
+  bibkey: castano-2003-applicability
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075180
+  month: July
+  page_first: '15'
+  page_last: '22'
+  pages: "15\u201322"
+  paper_id: '3'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2003.jpg
+  title: On the Applicability of Global Index Grammars
+  title_html: On the Applicability of Global Index Grammars
+  url: https://www.aclweb.org/anthology/P03-2003
+  year: '2003'
+P03-2004:
+  address: Sapporo, Japan
+  author:
+  - first: Malte
+    full: Malte Gabsdil
+    id: malte-gabsdil
+    last: Gabsdil
+  author_string: Malte Gabsdil
+  bibkey: gabsdil-2003-classifying
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075181
+  month: July
+  page_first: '23'
+  page_last: '30'
+  pages: "23\u201330"
+  paper_id: '4'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2004.jpg
+  title: Classifying Recognition Results for Spoken Dialog Systems
+  title_html: Classifying Recognition Results for Spoken Dialog Systems
+  url: https://www.aclweb.org/anthology/P03-2004
+  year: '2003'
+P03-2005:
+  address: Sapporo, Japan
+  author:
+  - first: Anurag
+    full: Anurag Gupta
+    id: anurag-gupta
+    last: Gupta
+  author_string: Anurag Gupta
+  bibkey: gupta-2003-adaptive
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075182
+  month: July
+  page_first: '31'
+  page_last: '36'
+  pages: "31\u201336"
+  paper_id: '5'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2005.jpg
+  title: An Adaptive Approach to Collecting Multimodal Input
+  title_html: An Adaptive Approach to Collecting Multimodal Input
+  url: https://www.aclweb.org/anthology/P03-2005
+  year: '2003'
+P03-2006:
+  address: Sapporo, Japan
+  author:
+  - first: Valentin
+    full: Valentin Jijkoun
+    id: valentin-jijkoun
+    last: Jijkoun
+  author_string: Valentin Jijkoun
+  bibkey: jijkoun-2003-finding
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075183
+  month: July
+  page_first: '37'
+  page_last: '43'
+  pages: "37\u201343"
+  paper_id: '6'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2006.jpg
+  title: 'Finding Non-local Dependencies: Beyond Pattern Matching'
+  title_html: 'Finding Non-local Dependencies: Beyond Pattern Matching'
+  url: https://www.aclweb.org/anthology/P03-2006
+  year: '2003'
+P03-2007:
+  address: Sapporo, Japan
+  author:
+  - first: Bo-Yeong
+    full: Bo-Yeong Kang
+    id: bo-yeong-kang
+    last: Kang
+  author_string: Bo-Yeong Kang
+  bibkey: kang-2003-novel
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075184
+  month: July
+  page_first: '44'
+  page_last: '49'
+  pages: "44\u201349"
+  paper_id: '7'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2007.jpg
+  title: A Novel Approach to Semantic Indexing Based on Concept
+  title_html: A Novel Approach to Semantic Indexing Based on Concept
+  url: https://www.aclweb.org/anthology/P03-2007
+  year: '2003'
+P03-2008:
+  address: Sapporo, Japan
+  author:
+  - first: Katsuya
+    full: Katsuya Masuda
+    id: katsuya-masuda
+    last: Masuda
+  author_string: Katsuya Masuda
+  bibkey: masuda-2003-ranking
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075185
+  month: July
+  page_first: '50'
+  page_last: '57'
+  pages: "50\u201357"
+  paper_id: '8'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2008.jpg
+  title: A Ranking Model of Proximal and Structural Text Retrieval Based on Region
+    Algebra
+  title_html: A Ranking Model of Proximal and Structural Text Retrieval Based on Region
+    Algebra
+  url: https://www.aclweb.org/anthology/P03-2008
+  year: '2003'
+P03-2009:
+  address: Sapporo, Japan
+  author:
+  - first: T. Daniel
+    full: T. Daniel Midgley
+    id: t-daniel-midgley
+    last: Midgley
+  author_string: T. Daniel Midgley
+  bibkey: midgley-2003-discourse
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075186
+  month: July
+  page_first: '58'
+  page_last: '63'
+  pages: "58\u201363"
+  paper_id: '9'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2009.jpg
+  title: 'Discourse Chunking: A Tool in Dialogue Act Tagging'
+  title_html: 'Discourse Chunking: A Tool in Dialogue Act Tagging'
+  url: https://www.aclweb.org/anthology/P03-2009
+  year: '2003'
+P03-2010:
+  address: Sapporo, Japan
+  author:
+  - first: Hyunjung
+    full: Hyunjung Son
+    id: hyunjung-son
+    last: Son
+  author_string: Hyunjung Son
+  bibkey: son-2003-computational
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075187
+  month: July
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '10'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2010.jpg
+  title: A Computational Treatment of Korean Temporal Markers, OE and DONGAN
+  title_html: A Computational Treatment of <span class="acl-fixed-case">K</span>orean
+    Temporal Markers, <span class="acl-fixed-case">OE</span> and <span class="acl-fixed-case">DONGAN</span>
+  url: https://www.aclweb.org/anthology/P03-2010
+  year: '2003'
+P03-2011:
+  address: Sapporo, Japan
+  author:
+  - first: Huihsin
+    full: Huihsin Tseng
+    id: huihsin-tseng
+    last: Tseng
+  author_string: Huihsin Tseng
+  bibkey: tseng-2003-semantic
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075188
+  month: July
+  page_first: '72'
+  page_last: '79'
+  pages: "72\u201379"
+  paper_id: '11'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2011.jpg
+  title: Semantic Classification of Chinese Unknown Words
+  title_html: Semantic Classification of <span class="acl-fixed-case">C</span>hinese
+    Unknown Words
+  url: https://www.aclweb.org/anthology/P03-2011
+  year: '2003'
+P03-2012:
+  address: Sapporo, Japan
+  author:
+  - first: Olga
+    full: Olga Uryupina
+    id: olga-uryupina
+    last: Uryupina
+  author_string: Olga Uryupina
+  bibkey: uryupina-2003-high
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075189
+  month: July
+  page_first: '80'
+  page_last: '86'
+  pages: "80\u201386"
+  paper_id: '12'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2012.jpg
+  title: High-precision Identification of Discourse New and Unique Noun Phrases
+  title_html: High-precision Identification of Discourse New and Unique Noun Phrases
+  url: https://www.aclweb.org/anthology/P03-2012
+  year: '2003'
+P03-2013:
+  address: Sapporo, Japan
+  author:
+  - first: Mitsuko
+    full: Mitsuko Yamura-Takei
+    id: mitsuko-yamura-takei
+    last: Yamura-Takei
+  author_string: Mitsuko Yamura-Takei
+  bibkey: yamura-takei-2003-approaches
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075190
+  month: July
+  page_first: '87'
+  page_last: '94'
+  pages: "87\u201394"
+  paper_id: '13'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2013.jpg
+  title: Approaches to Zero Adnominal Recognition
+  title_html: Approaches to Zero Adnominal Recognition
+  url: https://www.aclweb.org/anthology/P03-2013
+  year: '2003'
+P03-2014:
+  address: Sapporo, Japan
+  bibkey: nn-2003-acl
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  month: July
+  paper_id: '14'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2014.jpg
+  title: ACL-03 Interactive Posters and Demonstrations
+  title_html: <span class="acl-fixed-case">ACL</span>-03 Interactive Posters and Demonstrations
+  url: https://www.aclweb.org/anthology/P03-2014
+  year: '2003'
+P03-2015:
+  address: Sapporo, Japan
+  author:
+  - first: Jun
+    full: Jun Goto
+    id: jun-goto
+    last: Goto
+  - first: Yeun-Bae
+    full: Yeun-Bae Kim
+    id: yeun-bae-kim
+    last: Kim
+  - first: Masaru
+    full: Masaru Miyazaki
+    id: masaru-miyazaki
+    last: Miyazaki
+  - first: Kazuteru
+    full: Kazuteru Komine
+    id: kazuteru-komine
+    last: Komine
+  - first: Noriyoshi
+    full: Noriyoshi Uratani
+    id: noriyoshi-uratani
+    last: Uratani
+  author_string: Jun Goto, Yeun-Bae Kim, Masaru Miyazaki, Kazuteru Komine, Noriyoshi
+    Uratani
+  bibkey: goto-etal-2003-spoken
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075191
+  month: July
+  page_first: '101'
+  page_last: '104'
+  pages: "101\u2013104"
+  paper_id: '15'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2015.jpg
+  title: A Spoken Dialogue Interface for TV Operations based on Data Collected by
+    using WOZ Method
+  title_html: A Spoken Dialogue Interface for <span class="acl-fixed-case">TV</span>
+    Operations based on Data Collected by using <span class="acl-fixed-case">WOZ</span>
+    Method
+  url: https://www.aclweb.org/anthology/P03-2015
+  year: '2003'
+P03-2016:
+  address: Sapporo, Japan
+  author:
+  - first: Kumiko
+    full: Kumiko Tanaka-Ishii
+    id: kumiko-tanaka-ishii
+    last: Tanaka-Ishii
+  - first: Masato
+    full: Masato Yamamoto
+    id: masato-yamamoto
+    last: Yamamoto
+  - first: Hiroshi
+    full: Hiroshi Nakagawa
+    id: hiroshi-nakagawa
+    last: Nakagawa
+  author_string: Kumiko Tanaka-Ishii, Masato Yamamoto, Hiroshi Nakagawa
+  bibkey: tanaka-ishii-etal-2003-kiwi
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075192
+  month: July
+  page_first: '105'
+  page_last: '108'
+  pages: "105\u2013108"
+  paper_id: '16'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2016.jpg
+  title: 'Kiwi: A Multilingual Usage Consultation Tool based on Internet Searching'
+  title_html: '<span class="acl-fixed-case">K</span>iwi: A Multilingual Usage Consultation
+    Tool based on <span class="acl-fixed-case">I</span>nternet Searching'
+  url: https://www.aclweb.org/anthology/P03-2016
+  year: '2003'
+P03-2017:
+  address: Sapporo, Japan
+  author:
+  - first: Marc
+    full: Marc Dymetman
+    id: marc-dymetman
+    last: Dymetman
+  - first: "Aur\xE9lien"
+    full: "Aur\xE9lien Max"
+    id: aurelien-max
+    last: Max
+  - first: Kenji
+    full: Kenji Yamada
+    id: kenji-yamada
+    last: Yamada
+  author_string: "Marc Dymetman, Aur\xE9lien Max, Kenji Yamada"
+  bibkey: dymetman-etal-2003-towards
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075193
+  month: July
+  page_first: '109'
+  page_last: '112'
+  pages: "109\u2013112"
+  paper_id: '17'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2017.jpg
+  title: Towards Interactive Text Understanding
+  title_html: Towards Interactive Text Understanding
+  url: https://www.aclweb.org/anthology/P03-2017
+  year: '2003'
+P03-2018:
+  address: Sapporo, Japan
+  author:
+  - first: Ian
+    full: Ian Marshall
+    id: ian-marshall
+    last: Marshall
+  - first: "\xC9va"
+    full: "\xC9va S\xE1f\xE1r"
+    id: eva-safar
+    last: "S\xE1f\xE1r"
+  author_string: "Ian Marshall, \xC9va S\xE1f\xE1r"
+  bibkey: marshall-safar-2003-prototype
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075194
+  month: July
+  page_first: '113'
+  page_last: '116'
+  pages: "113\u2013116"
+  paper_id: '18'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2018.jpg
+  title: A Prototype Text to British Sign Language (BSL) Translation System
+  title_html: A Prototype Text to <span class="acl-fixed-case">B</span>ritish Sign
+    Language (<span class="acl-fixed-case">BSL</span>) Translation System
+  url: https://www.aclweb.org/anthology/P03-2018
+  year: '2003'
+P03-2019:
+  address: Sapporo, Japan
+  author:
+  - first: Stephan
+    full: Stephan Busemann
+    id: stephan-busemann
+    last: Busemann
+  - first: Witold
+    full: Witold Drozdzynski
+    id: witold-drozdzynski
+    last: Drozdzynski
+  - first: Hans-Ulrich
+    full: Hans-Ulrich Krieger
+    id: hans-ulrich-krieger
+    last: Krieger
+  - first: Jakub
+    full: Jakub Piskorski
+    id: jakub-piskorski
+    last: Piskorski
+  - first: Ulrich
+    full: Ulrich Schaefer
+    id: ulrich-schafer
+    last: Schaefer
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  - first: Feiyu
+    full: Feiyu Xu
+    id: feiyu-xu
+    last: Xu
+  author_string: Stephan Busemann, Witold Drozdzynski, Hans-Ulrich Krieger, Jakub
+    Piskorski, Ulrich Schaefer, Hans Uszkoreit, Feiyu Xu
+  bibkey: busemann-etal-2003-integrating
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075195
+  month: July
+  page_first: '117'
+  page_last: '120'
+  pages: "117\u2013120"
+  paper_id: '19'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2019.jpg
+  title: Integrating Information Extraction and Automatic Hyperlinking
+  title_html: Integrating Information Extraction and Automatic Hyperlinking
+  url: https://www.aclweb.org/anthology/P03-2019
+  year: '2003'
+P03-2020:
+  address: Sapporo, Japan
+  author:
+  - first: Satoshi
+    full: Satoshi Sato
+    id: satoshi-sato
+    last: Sato
+  - first: Yasuhiro
+    full: Yasuhiro Sasaki
+    id: yasuhiro-sasaki
+    last: Sasaki
+  author_string: Satoshi Sato, Yasuhiro Sasaki
+  bibkey: sato-sasaki-2003-automatic
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075196
+  month: July
+  page_first: '121'
+  page_last: '124'
+  pages: "121\u2013124"
+  paper_id: '20'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2020.jpg
+  title: Automatic Collection of Related Terms from the Web
+  title_html: Automatic Collection of Related Terms from the Web
+  url: https://www.aclweb.org/anthology/P03-2020
+  year: '2003'
+P03-2021:
+  address: Sapporo, Japan
+  author:
+  - first: Anton
+    full: Anton Leuski
+    id: anton-leuski
+    last: Leuski
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Anton Leuski, Chin-Yew Lin, Eduard Hovy
+  bibkey: leuski-etal-2003-ineats
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075197
+  month: July
+  page_first: '125'
+  page_last: '128'
+  pages: "125\u2013128"
+  paper_id: '21'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2021.jpg
+  title: 'iNeATS: Interactive Multi-Document Summarization'
+  title_html: 'i<span class="acl-fixed-case">N</span>e<span class="acl-fixed-case">ATS</span>:
+    Interactive Multi-Document Summarization'
+  url: https://www.aclweb.org/anthology/P03-2021
+  year: '2003'
+P03-2022:
+  address: Sapporo, Japan
+  author:
+  - first: El-Sayed
+    full: El-Sayed Atlam
+    id: el-sayed-atlam
+    last: Atlam
+  - first: Masaki
+    full: Masaki Oono
+    id: masaki-oono
+    last: Oono
+  - first: Jun-ichi
+    full: Jun-ichi Aoe
+    id: jun-ichi-aoe
+    last: Aoe
+  author_string: El-Sayed Atlam, Masaki Oono, Jun-ichi Aoe
+  bibkey: atlam-etal-2003-evaluation
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075198
+  month: July
+  page_first: '129'
+  page_last: '132'
+  pages: "129\u2013132"
+  paper_id: '22'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2022.jpg
+  title: An Evaluation Method of Words Tendency using Decision Tree
+  title_html: An Evaluation Method of Words Tendency using Decision Tree
+  url: https://www.aclweb.org/anthology/P03-2022
+  year: '2003'
+P03-2023:
+  address: Sapporo, Japan
+  author:
+  - first: Kiyoshi
+    full: Kiyoshi Yamabana
+    id: kiyoshi-yamabana
+    last: Yamabana
+  - first: Ken
+    full: Ken Hanazawa
+    id: ken-hanazawa
+    last: Hanazawa
+  - first: Ryosuke
+    full: Ryosuke Isotani
+    id: ryosuke-isotani
+    last: Isotani
+  - first: Seiya
+    full: Seiya Osada
+    id: seiya-osada
+    last: Osada
+  - first: Akitoshi
+    full: Akitoshi Okumura
+    id: akitoshi-okumura
+    last: Okumura
+  - first: Takao
+    full: Takao Watanabe
+    id: takao-watanabe
+    last: Watanabe
+  author_string: Kiyoshi Yamabana, Ken Hanazawa, Ryosuke Isotani, Seiya Osada, Akitoshi
+    Okumura, Takao Watanabe
+  bibkey: yamabana-etal-2003-speech
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075199
+  month: July
+  page_first: '133'
+  page_last: '136'
+  pages: "133\u2013136"
+  paper_id: '23'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2023.jpg
+  title: A Speech Translation System with Mobile Wireless Clients
+  title_html: A Speech Translation System with Mobile Wireless Clients
+  url: https://www.aclweb.org/anthology/P03-2023
+  year: '2003'
+P03-2024:
+  address: Sapporo, Japan
+  author:
+  - first: Manny
+    full: Manny Rayner
+    id: manny-rayner
+    last: Rayner
+  - first: Pierrette
+    full: Pierrette Bouillon
+    id: pierrette-bouillon
+    last: Bouillon
+  - first: Vol
+    full: Vol Van Dalsem III
+    id: vol-van-dalsem-iii
+    last: Van Dalsem III
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  - first: Kyoko
+    full: Kyoko Kanzaki
+    id: kyoko-kanzaki
+    last: Kanzaki
+  - first: Beth Ann
+    full: Beth Ann Hockey
+    id: beth-ann-hockey
+    last: Hockey
+  author_string: Manny Rayner, Pierrette Bouillon, Vol Van Dalsem III, Hitoshi Isahara,
+    Kyoko Kanzaki, Beth Ann Hockey
+  bibkey: rayner-etal-2003-limited
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075200
+  month: July
+  page_first: '137'
+  page_last: '140'
+  pages: "137\u2013140"
+  paper_id: '24'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2024.jpg
+  title: A Limited-Domain English to Japanese Medical Speech Translator Built Using
+    REGULUS 2
+  title_html: A Limited-Domain <span class="acl-fixed-case">E</span>nglish to <span
+    class="acl-fixed-case">J</span>apanese Medical Speech Translator Built Using <span
+    class="acl-fixed-case">REGULUS</span> 2
+  url: https://www.aclweb.org/anthology/P03-2024
+  year: '2003'
+P03-2025:
+  address: Sapporo, Japan
+  author:
+  - first: Fatiha
+    full: Fatiha Sadat
+    id: fatiha-sadat
+    last: Sadat
+  - first: Masatoshi
+    full: Masatoshi Yoshikawa
+    id: masatoshi-yoshikawa
+    last: Yoshikawa
+  - first: Shunsuke
+    full: Shunsuke Uemura
+    id: shunsuke-uemura
+    last: Uemura
+  author_string: Fatiha Sadat, Masatoshi Yoshikawa, Shunsuke Uemura
+  bibkey: sadat-etal-2003-bilingual
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075201
+  month: July
+  page_first: '141'
+  page_last: '144'
+  pages: "141\u2013144"
+  paper_id: '25'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2025.jpg
+  title: Bilingual Terminology Acquisition from Comparable Corpora and Phrasal Translation
+    to Cross-Language Information Retrieval
+  title_html: Bilingual Terminology Acquisition from Comparable Corpora and Phrasal
+    Translation to Cross-Language Information Retrieval
+  url: https://www.aclweb.org/anthology/P03-2025
+  year: '2003'
+P03-2026:
+  address: Sapporo, Japan
+  author:
+  - first: Emi
+    full: Emi Izumi
+    id: emi-izumi
+    last: Izumi
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Toyomi
+    full: Toyomi Saiga
+    id: toyomi-saiga
+    last: Saiga
+  - first: Thepchai
+    full: Thepchai Supnithi
+    id: thepchai-supnithi
+    last: Supnithi
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Emi Izumi, Kiyotaka Uchimoto, Toyomi Saiga, Thepchai Supnithi, Hitoshi
+    Isahara
+  bibkey: izumi-etal-2003-automatic
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075202
+  month: July
+  page_first: '145'
+  page_last: '148'
+  pages: "145\u2013148"
+  paper_id: '26'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2026.jpg
+  title: "Automatic Error Detection in the Japanese Learners\u2019 English Spoken\
+    \ Data"
+  title_html: "Automatic Error Detection in the <span class=\"acl-fixed-case\">J</span>apanese\
+    \ Learners\u2019 <span class=\"acl-fixed-case\">E</span>nglish Spoken Data"
+  url: https://www.aclweb.org/anthology/P03-2026
+  year: '2003'
+P03-2027:
+  address: Sapporo, Japan
+  author:
+  - first: Yoji
+    full: Yoji Kiyota
+    id: yoji-kiyota
+    last: Kiyota
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  - first: Teruhisa
+    full: Teruhisa Misu
+    id: teruhisa-misu
+    last: Misu
+  - first: Kazunori
+    full: Kazunori Komatani
+    id: kazunori-komatani
+    last: Komatani
+  - first: Tatsuya
+    full: Tatsuya Kawahara
+    id: tatsuya-kawahara
+    last: Kawahara
+  - first: Fuyuko
+    full: Fuyuko Kido
+    id: fuyuko-kido
+    last: Kido
+  author_string: Yoji Kiyota, Sadao Kurohashi, Teruhisa Misu, Kazunori Komatani, Tatsuya
+    Kawahara, Fuyuko Kido
+  bibkey: kiyota-etal-2003-dialog
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075203
+  month: July
+  page_first: '149'
+  page_last: '152'
+  pages: "149\u2013152"
+  paper_id: '27'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2027.jpg
+  title: 'Dialog Navigator : A Spoken Dialog Q-A System based on Large Text Knowledge
+    Base'
+  title_html: 'Dialog Navigator : A Spoken Dialog Q-A System based on Large Text Knowledge
+    Base'
+  url: https://www.aclweb.org/anthology/P03-2027
+  year: '2003'
+P03-2028:
+  address: Sapporo, Japan
+  author:
+  - first: Chiori
+    full: Chiori Hori
+    id: chiori-hori
+    last: Hori
+  - first: Takaaki
+    full: Takaaki Hori
+    id: takaaki-hori
+    last: Hori
+  - first: Hajime
+    full: Hajime Tsukada
+    id: hajime-tsukada
+    last: Tsukada
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  - first: Yutaka
+    full: Yutaka Sasaki
+    id: yutaka-sasaki
+    last: Sasaki
+  - first: Eisaku
+    full: Eisaku Maeda
+    id: eisaku-maeda
+    last: Maeda
+  author_string: Chiori Hori, Takaaki Hori, Hajime Tsukada, Hideki Isozaki, Yutaka
+    Sasaki, Eisaku Maeda
+  bibkey: hori-etal-2003-spoken
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075204
+  month: July
+  page_first: '153'
+  page_last: '156'
+  pages: "153\u2013156"
+  paper_id: '28'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2028.jpg
+  title: 'Spoken Interactive ODQA System: SPIQA'
+  title_html: 'Spoken Interactive <span class="acl-fixed-case">ODQA</span> System:
+    <span class="acl-fixed-case">SPIQA</span>'
+  url: https://www.aclweb.org/anthology/P03-2028
+  year: '2003'
+P03-2029:
+  address: Sapporo, Japan
+  author:
+  - first: Koichi
+    full: Koichi Yamashita
+    id: koichi-yamashita
+    last: Yamashita
+  - first: Keiichi
+    full: Keiichi Yoshida
+    id: keiichi-yoshida
+    last: Yoshida
+  - first: Yukihiro
+    full: Yukihiro Itoh
+    id: yukihiro-itoh
+    last: Itoh
+  author_string: Koichi Yamashita, Keiichi Yoshida, Yukihiro Itoh
+  bibkey: yamashita-etal-2003-word
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075205
+  month: July
+  page_first: '157'
+  page_last: '160'
+  pages: "157\u2013160"
+  paper_id: '29'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2029.jpg
+  title: Word Sense Disambiguation Using Pairwise Alignment
+  title_html: Word Sense Disambiguation Using Pairwise Alignment
+  url: https://www.aclweb.org/anthology/P03-2029
+  year: '2003'
+P03-2030:
+  address: Sapporo, Japan
+  author:
+  - first: Collin F.
+    full: Collin F. Baker
+    id: collin-f-baker
+    last: Baker
+  - first: Hiroaki
+    full: Hiroaki Sato
+    id: hiroaki-sato
+    last: Sato
+  author_string: Collin F. Baker, Hiroaki Sato
+  bibkey: baker-sato-2003-framenet
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075206
+  month: July
+  page_first: '161'
+  page_last: '164'
+  pages: "161\u2013164"
+  paper_id: '30'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2030.jpg
+  title: The FrameNet Data and Software
+  title_html: The <span class="acl-fixed-case">F</span>rame<span class="acl-fixed-case">N</span>et
+    Data and Software
+  url: https://www.aclweb.org/anthology/P03-2030
+  year: '2003'
+P03-2031:
+  address: Sapporo, Japan
+  author:
+  - first: Joohui
+    full: Joohui An
+    id: joohui-an
+    last: An
+  - first: Seungwoo
+    full: Seungwoo Lee
+    id: seungwoo-lee
+    last: Lee
+  - first: Gary Geunbae
+    full: Gary Geunbae Lee
+    id: gary-geunbae-lee
+    last: Lee
+  author_string: Joohui An, Seungwoo Lee, Gary Geunbae Lee
+  bibkey: an-etal-2003-automatic
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075207
+  month: July
+  page_first: '165'
+  page_last: '168'
+  pages: "165\u2013168"
+  paper_id: '31'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2031.jpg
+  title: Automatic Acquisition of Named Entity Tagged Corpus from World Wide Web
+  title_html: Automatic Acquisition of Named Entity Tagged Corpus from World Wide
+    Web
+  url: https://www.aclweb.org/anthology/P03-2031
+  year: '2003'
+P03-2032:
+  address: Sapporo, Japan
+  author:
+  - first: Atsuko
+    full: Atsuko Kida
+    id: atsuko-kida
+    last: Kida
+  - first: Eiko
+    full: Eiko Yamamoto
+    id: eiko-yamamoto
+    last: Yamamoto
+  - first: Kyoko
+    full: Kyoko Kanzaki
+    id: kyoko-kanzaki
+    last: Kanzaki
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  author_string: Atsuko Kida, Eiko Yamamoto, Kyoko Kanzaki, Hitoshi Isahara
+  bibkey: kida-etal-2003-extraction
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075208
+  month: July
+  page_first: '169'
+  page_last: '172'
+  pages: "169\u2013172"
+  paper_id: '32'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2032.jpg
+  title: Extraction and Verification of KO-OU Expressions from Large Corpora
+  title_html: Extraction and Verification of <span class="acl-fixed-case">KO</span>-<span
+    class="acl-fixed-case">OU</span> Expressions from Large Corpora
+  url: https://www.aclweb.org/anthology/P03-2032
+  year: '2003'
+P03-2033:
+  address: Sapporo, Japan
+  author:
+  - first: Akane
+    full: Akane Yakushiji
+    id: akane-yakushiji
+    last: Yakushiji
+  - first: Yuka
+    full: Yuka Tateisi
+    id: yuka-tateisi
+    last: Tateisi
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: Naoki
+    full: Naoki Yoshinaga
+    id: naoki-yoshinaga
+    last: Yoshinaga
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Akane Yakushiji, Yuka Tateisi, Yusuke Miyao, Naoki Yoshinaga, Jun\u2019\
+    ichi Tsujii"
+  bibkey: yakushiji-etal-2003-debug
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075209
+  month: July
+  page_first: '173'
+  page_last: '176'
+  pages: "173\u2013176"
+  paper_id: '33'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2033.jpg
+  title: A Debug Tool for Practical Grammar Development
+  title_html: A Debug Tool for Practical Grammar Development
+  url: https://www.aclweb.org/anthology/P03-2033
+  year: '2003'
+P03-2034:
+  address: Sapporo, Japan
+  author:
+  - first: Edward
+    full: Edward Schofield
+    id: edward-schofield
+    last: Schofield
+  - first: Zhiping
+    full: Zhiping Zheng
+    id: zhiping-zheng
+    last: Zheng
+  author_string: Edward Schofield, Zhiping Zheng
+  bibkey: schofield-zheng-2003-speech
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075210
+  month: July
+  page_first: '177'
+  page_last: '180'
+  pages: "177\u2013180"
+  paper_id: '34'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2034.jpg
+  title: A Speech Interface for Open-Domain Question-Answering
+  title_html: A Speech Interface for Open-Domain Question-Answering
+  url: https://www.aclweb.org/anthology/P03-2034
+  year: '2003'
+P03-2035:
+  address: Sapporo, Japan
+  author:
+  - first: Koichi
+    full: Koichi Takeuchi
+    id: koichi-takeuchi
+    last: Takeuchi
+  - first: Kyo
+    full: Kyo Kageura
+    id: kyo-kageura
+    last: Kageura
+  - first: Teruo
+    full: Teruo Koyama
+    id: teruo-koyama
+    last: Koyama
+  author_string: Koichi Takeuchi, Kyo Kageura, Teruo Koyama
+  bibkey: takeuchi-etal-2003-deverbal
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075211
+  month: July
+  page_first: '181'
+  page_last: '184'
+  pages: "181\u2013184"
+  paper_id: '35'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2035.jpg
+  title: Deverbal Compound Noun Analysis Based on Lexical Conceptual Structure
+  title_html: Deverbal Compound Noun Analysis Based on Lexical Conceptual Structure
+  url: https://www.aclweb.org/anthology/P03-2035
+  year: '2003'
+P03-2036:
+  address: Sapporo, Japan
+  author:
+  - first: Naoki
+    full: Naoki Yoshinaga
+    id: naoki-yoshinaga
+    last: Yoshinaga
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Naoki Yoshinaga, Kentaro Torisawa, Jun\u2019ichi Tsujii"
+  bibkey: yoshinaga-etal-2003-comparison
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075212
+  month: July
+  page_first: '185'
+  page_last: '188'
+  pages: "185\u2013188"
+  paper_id: '36'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2036.jpg
+  title: Comparison between CFG Filtering Techniques for LTAG and HPSG
+  title_html: Comparison between <span class="acl-fixed-case">CFG</span> Filtering
+    Techniques for <span class="acl-fixed-case">LTAG</span> and <span class="acl-fixed-case">HPSG</span>
+  url: https://www.aclweb.org/anthology/P03-2036
+  year: '2003'
+P03-2037:
+  address: Sapporo, Japan
+  author:
+  - first: Masatoshi
+    full: Masatoshi Tsuchiya
+    id: masatoshi-tsuchiya
+    last: Tsuchiya
+  - first: Satoshi
+    full: Satoshi Sato
+    id: satoshi-sato
+    last: Sato
+  author_string: Masatoshi Tsuchiya, Satoshi Sato
+  bibkey: tsuchiya-sato-2003-automatic
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075213
+  month: July
+  page_first: '189'
+  page_last: '192'
+  pages: "189\u2013192"
+  paper_id: '37'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2037.jpg
+  title: Automatic Detection of Grammar Elements that Decrease Readability
+  title_html: Automatic Detection of Grammar Elements that Decrease Readability
+  url: https://www.aclweb.org/anthology/P03-2037
+  year: '2003'
+P03-2038:
+  address: Sapporo, Japan
+  author:
+  - first: Manny
+    full: Manny Rayner
+    id: manny-rayner
+    last: Rayner
+  - first: Beth Ann
+    full: Beth Ann Hockey
+    id: beth-ann-hockey
+    last: Hockey
+  - first: Jim
+    full: Jim Hieronymus
+    id: jim-hieronymus
+    last: Hieronymus
+  - first: John
+    full: John Dowding
+    id: john-dowding
+    last: Dowding
+  - first: Greg
+    full: Greg Aist
+    id: gregory-aist
+    last: Aist
+  - first: Susana
+    full: Susana Early
+    id: susana-early
+    last: Early
+  author_string: Manny Rayner, Beth Ann Hockey, Jim Hieronymus, John Dowding, Greg
+    Aist, Susana Early
+  bibkey: rayner-etal-2003-intelligent
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075214
+  month: July
+  page_first: '193'
+  page_last: '196'
+  pages: "193\u2013196"
+  paper_id: '38'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2038.jpg
+  title: An Intelligent Procedure Assistant Built Using REGULUS 2 and ALTERF
+  title_html: An Intelligent Procedure Assistant Built Using <span class="acl-fixed-case">REGULUS</span>
+    2 and <span class="acl-fixed-case">ALTERF</span>
+  url: https://www.aclweb.org/anthology/P03-2038
+  year: '2003'
+P03-2039:
+  address: Sapporo, Japan
+  author:
+  - first: Chooi Ling
+    full: Chooi Ling Goh
+    id: chooi-ling-goh
+    last: Goh
+  - first: Masayuki
+    full: Masayuki Asahara
+    id: masayuki-asahara
+    last: Asahara
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Chooi Ling Goh, Masayuki Asahara, Yuji Matsumoto
+  bibkey: goh-etal-2003-chinese
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075215
+  month: July
+  page_first: '197'
+  page_last: '200'
+  pages: "197\u2013200"
+  paper_id: '39'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2039.jpg
+  title: Chinese Unknown Word Identification Using Character-based Tagging and Chunking
+  title_html: <span class="acl-fixed-case">C</span>hinese Unknown Word Identification
+    Using Character-based Tagging and Chunking
+  url: https://www.aclweb.org/anthology/P03-2039
+  year: '2003'
+P03-2040:
+  address: Sapporo, Japan
+  author:
+  - first: Jian-Cheng
+    full: Jian-Cheng Wu
+    id: jian-cheng-wu
+    last: Wu
+  - first: Kevin C.
+    full: Kevin C. Yeh
+    id: kevin-c-yeh
+    last: Yeh
+  - first: Thomas C.
+    full: Thomas C. Chuang
+    id: thomas-c-chuang
+    last: Chuang
+  - first: Wen-Chi
+    full: Wen-Chi Shei
+    id: wen-chi-shei
+    last: Shei
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Jian-Cheng Wu, Kevin C. Yeh, Thomas C. Chuang, Wen-Chi Shei, Jason
+    S. Chang
+  bibkey: wu-etal-2003-totalrecall
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075216
+  month: July
+  page_first: '201'
+  page_last: '204'
+  pages: "201\u2013204"
+  paper_id: '40'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2040.jpg
+  title: 'TotalRecall: A Bilingual Concordance for Computer Assisted Translation and
+    Language Learning'
+  title_html: '<span class="acl-fixed-case">T</span>otal<span class="acl-fixed-case">R</span>ecall:
+    A Bilingual Concordance for Computer Assisted Translation and Language Learning'
+  url: https://www.aclweb.org/anthology/P03-2040
+  year: '2003'
+P03-2041:
+  address: Sapporo, Japan
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Jason Eisner
+  bibkey: eisner-2003-learning
+  bibtype: inproceedings
+  booktitle: The Companion Volume to the Proceedings of 41st Annual Meeting of the
+    Association for Computational Linguistics
+  booktitle_html: The Companion Volume to the Proceedings of 41st Annual Meeting of
+    the Association for Computational Linguistics
+  doi: 10.3115/1075178.1075217
+  month: July
+  page_first: '205'
+  page_last: '208'
+  pages: "205\u2013208"
+  paper_id: '41'
+  parent_volume_id: P03-2
+  pdf: https://www.aclweb.org/anthology/P03-2041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P03-2041.jpg
+  title: Learning Non-Isomorphic Tree Mappings for Machine Translation
+  title_html: Learning Non-Isomorphic Tree Mappings for Machine Translation
+  url: https://www.aclweb.org/anthology/P03-2041
+  year: '2003'

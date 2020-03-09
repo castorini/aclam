@@ -1,0 +1,2314 @@
+Q18-1000:
+  bibkey: tacl-2018-transactions
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  paper_id: '0'
+  parent_volume_id: Q18-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1000.jpg
+  title: Transactions of the Association for Computational Linguistics, Volume 6
+  title_html: Transactions of the Association for Computational Linguistics, Volume
+    6
+  year: '2018'
+Q18-1001:
+  abstract: 'In this paper we argue that crime drama exemplified in television programs
+    such as CSI: Crime Scene Investigation is an ideal testbed for approximating real-world
+    natural language understanding and the complex inferences associated with it.
+    We propose to treat crime drama as a new inference task, capitalizing on the fact
+    that each episode poses the same basic question (i.e., who committed the crime)
+    and naturally provides the answer when the perpetrator is revealed. We develop
+    a new dataset based on CSI episodes, formalize perpetrator identification as a
+    sequence labeling problem, and develop an LSTM-based model which learns from multi-modal
+    data. Experimental results show that an incremental inference strategy is key
+    to making accurate guesses as well as learning from representations fusing textual,
+    visual, and acoustic input.'
+  attachment:
+  - filename: https://vimeo.com/285805531
+    type: video
+    url: https://vimeo.com/285805531
+  author:
+  - first: Lea
+    full: Lea Frermann
+    id: lea-frermann
+    last: Frermann
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Lea Frermann, Shay B. Cohen, Mirella Lapata
+  bibkey: frermann-etal-2018-whodunnit
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00001
+  page_first: '1'
+  page_last: '15'
+  pages: "1\u201315"
+  paper_id: '1'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1001.jpg
+  title: Whodunnit? Crime Drama as a Case for Natural Language Understanding
+  title_html: Whodunnit? Crime Drama as a Case for Natural Language Understanding
+  url: https://www.aclweb.org/anthology/Q18-1001
+  year: '2018'
+Q18-1002:
+  abstract: We consider the task of fine-grained sentiment analysis from the perspective
+    of multiple instance learning (MIL). Our neural model is trained on document sentiment
+    labels, and learns to predict the sentiment of text segments, i.e. sentences or
+    elementary discourse units (EDUs), without segment-level supervision. We introduce
+    an attention-based polarity scoring method for identifying positive and negative
+    text snippets and a new dataset which we call SpoT (as shorthand for Segment-level
+    POlariTy annotations) for evaluating MIL-style sentiment models like ours. Experimental
+    results demonstrate superior performance against multiple baselines, whereas a
+    judgement elicitation study shows that EDU-level opinion extraction produces more
+    informative summaries than sentence-based alternatives.
+  attachment:
+  - filename: https://vimeo.com/276427943
+    type: video
+    url: https://vimeo.com/276427943
+  author:
+  - first: Stefanos
+    full: Stefanos Angelidis
+    id: stefanos-angelidis
+    last: Angelidis
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Stefanos Angelidis, Mirella Lapata
+  bibkey: angelidis-lapata-2018-multiple
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00002
+  page_first: '17'
+  page_last: '31'
+  pages: "17\u201331"
+  paper_id: '2'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1002.jpg
+  title: Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
+  title_html: Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
+  url: https://www.aclweb.org/anthology/Q18-1002
+  year: '2018'
+Q18-1003:
+  abstract: "Much like sentences are composed of words, words themselves are composed\
+    \ of smaller units. For example, the English word questionably can be analyzed\
+    \ as question+able+ly. However, this structural decomposition of the word does\
+    \ not directly give us a semantic representation of the word\u2019s meaning. Since\
+    \ morphology obeys the principle of compositionality, the semantics of the word\
+    \ can be systematically derived from the meaning of its parts. In this work, we\
+    \ propose a novel probabilistic model of word formation that captures both the\
+    \ analysis of a word w into its constituent segments and the synthesis of the\
+    \ meaning of w from the meanings of those segments. Our model jointly learns to\
+    \ segment words into morphemes and compose distributional semantic vectors of\
+    \ those morphemes. We experiment with the model on English CELEX data and German\
+    \ DErivBase (Zeller et al., 2013) data. We show that jointly modeling semantics\
+    \ increases both segmentation accuracy and morpheme F1 by between 3% and 5%. Additionally,\
+    \ we investigate different models of vector composition, showing that recurrent\
+    \ neural networks yield an improvement over simple additive models. Finally, we\
+    \ study the degree to which the representations correspond to a linguist\u2019\
+    s notion of morphological productivity."
+  attachment:
+  - filename: https://vimeo.com/234952794
+    type: video
+    url: https://vimeo.com/234952794
+  author:
+  - first: Ryan
+    full: Ryan Cotterell
+    id: ryan-cotterell
+    last: Cotterell
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Ryan Cotterell, Hinrich Sch\xFCtze"
+  bibkey: cotterell-schutze-2018-joint
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00003
+  page_first: '33'
+  page_last: '48'
+  pages: "33\u201348"
+  paper_id: '3'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1003.jpg
+  title: Joint Semantic Synthesis and Morphological Analysis of the Derived Word
+  title_html: Joint Semantic Synthesis and Morphological Analysis of the Derived Word
+  url: https://www.aclweb.org/anthology/Q18-1003
+  year: '2018'
+Q18-1004:
+  abstract: The interpretation of spatial references is highly contextual, requiring
+    joint inference over both language and the environment. We consider the task of
+    spatial reasoning in a simulated environment, where an agent can act and receive
+    rewards. The proposed model learns a representation of the world steered by instruction
+    text. This design allows for precise alignment of local neighborhoods with corresponding
+    verbalizations, while also handling global references in the instructions. We
+    train our model with reinforcement learning using a variant of generalized value
+    iteration. The model outperforms state-of-the-art approaches on several metrics,
+    yielding a 45% reduction in goal localization error.
+  attachment:
+  - filename: https://vimeo.com/285802158
+    type: video
+    url: https://vimeo.com/285802158
+  author:
+  - first: Michael
+    full: Michael Janner
+    id: michael-janner
+    last: Janner
+  - first: Karthik
+    full: Karthik Narasimhan
+    id: karthik-narasimhan
+    last: Narasimhan
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  author_string: Michael Janner, Karthik Narasimhan, Regina Barzilay
+  bibkey: janner-etal-2018-representation
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00004
+  page_first: '49'
+  page_last: '61'
+  pages: "49\u201361"
+  paper_id: '4'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1004.jpg
+  title: Representation Learning for Grounded Spatial Reasoning
+  title_html: Representation Learning for Grounded Spatial Reasoning
+  url: https://www.aclweb.org/anthology/Q18-1004
+  year: '2018'
+Q18-1005:
+  abstract: In this paper, we focus on learning structure-aware document representations
+    from data without recourse to a discourse parser or additional annotations. Drawing
+    inspiration from recent efforts to empower neural networks with a structural bias
+    (Cheng et al., 2016; Kim et al., 2017), we propose a model that can encode a document
+    while automatically inducing rich structural dependencies. Specifically, we embed
+    a differentiable non-projective parsing algorithm into a neural model and use
+    attention mechanisms to incorporate the structural biases. Experimental evaluations
+    across different tasks and datasets show that the proposed model achieves state-of-the-art
+    results on document modeling tasks while inducing intermediate structures which
+    are both interpretable and meaningful.
+  attachment:
+  - filename: https://vimeo.com/276396538
+    type: video
+    url: https://vimeo.com/276396538
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-edinburgh
+    last: Liu
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Yang Liu, Mirella Lapata
+  bibkey: liu-lapata-2018-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00005
+  page_first: '63'
+  page_last: '75'
+  pages: "63\u201375"
+  paper_id: '5'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1005.jpg
+  title: Learning Structured Text Representations
+  title_html: Learning Structured Text Representations
+  url: https://www.aclweb.org/anthology/Q18-1005
+  year: '2018'
+Q18-1006:
+  abstract: Extracting the information from text when an event happened is challenging.
+    Documents do not only report on current events, but also on past events as well
+    as on future events. Often, the relevant time information for an event is scattered
+    across the document. In this paper we present a novel method to automatically
+    anchor events in time. To our knowledge it is the first approach that takes temporal
+    information from the complete document into account. We created a decision tree
+    that applies neural network based classifiers at its nodes. We use this tree to
+    incrementally infer, in a stepwise manner, at which time frame an event happened.
+    We evaluate the approach on the TimeBank-EventTime Corpus (Reimers et al., 2016)
+    achieving an accuracy of 42.0% compared to an inter-annotator agreement (IAA)
+    of 56.7%. For events that span over a single day we observe an accuracy improvement
+    of 33.1 points compared to the state-of-the-art CAEVO system (Chambers et al.,
+    2014). Without retraining, we apply this model to the SemEval-2015 Task 4 on automatic
+    timeline generation and achieve an improvement of 4.01 points F1-score compared
+    to the state-of-the-art. Our code is publically available.
+  author:
+  - first: Nils
+    full: Nils Reimers
+    id: nils-reimers
+    last: Reimers
+  - first: Nazanin
+    full: Nazanin Dehghani
+    id: nazanin-dehghani
+    last: Dehghani
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Nils Reimers, Nazanin Dehghani, Iryna Gurevych
+  bibkey: reimers-etal-2018-event
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00006
+  page_first: '77'
+  page_last: '89'
+  pages: "77\u201389"
+  paper_id: '6'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1006.jpg
+  title: Event Time Extraction with a Decision Tree of Neural Classifiers
+  title_html: Event Time Extraction with a Decision Tree of Neural Classifiers
+  url: https://www.aclweb.org/anthology/Q18-1006
+  year: '2018'
+Q18-1007:
+  abstract: This work lays the foundation for automated assessments of narrative quality
+    in student writing. We first manually score essays for narrative-relevant traits
+    and sub-traits, and measure inter-annotator agreement. We then explore linguistic
+    features that are indicative of good narrative writing and use them to build an
+    automated scoring system. Experiments show that our features are more effective
+    in scoring specific aspects of narrative quality than a state-of-the-art feature
+    set.
+  attachment:
+  - filename: https://vimeo.com/276372446
+    type: video
+    url: https://vimeo.com/276372446
+  author:
+  - first: Swapna
+    full: Swapna Somasundaran
+    id: swapna-somasundaran
+    last: Somasundaran
+  - first: Michael
+    full: Michael Flor
+    id: michael-flor
+    last: Flor
+  - first: Martin
+    full: Martin Chodorow
+    id: martin-chodorow
+    last: Chodorow
+  - first: Hillary
+    full: Hillary Molloy
+    id: hillary-molloy
+    last: Molloy
+  - first: Binod
+    full: Binod Gyawali
+    id: binod-gyawali
+    last: Gyawali
+  - first: Laura
+    full: Laura McCulla
+    id: laura-mcculla
+    last: McCulla
+  author_string: Swapna Somasundaran, Michael Flor, Martin Chodorow, Hillary Molloy,
+    Binod Gyawali, Laura McCulla
+  bibkey: somasundaran-etal-2018-towards
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00007
+  page_first: '91'
+  page_last: '106'
+  pages: "91\u2013106"
+  paper_id: '7'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1007.jpg
+  title: Towards Evaluating Narrative Quality In Student Writing
+  title_html: Towards Evaluating Narrative Quality In Student Writing
+  url: https://www.aclweb.org/anthology/Q18-1007
+  year: '2018'
+Q18-1008:
+  abstract: Word embeddings are increasingly being used as a tool to study word associations
+    in specific corpora. However, it is unclear whether such embeddings reflect enduring
+    properties of language or if they are sensitive to inconsequential variations
+    in the source documents. We find that nearest-neighbor distances are highly sensitive
+    to small changes in the training corpus for a variety of algorithms. For all methods,
+    including specific documents in the training set can result in substantial variations.
+    We show that these effects are more prominent for smaller training corpora. We
+    recommend that users never rely on single embedding models for distance calculations,
+    but rather average over multiple bootstrap samples, especially for small corpora.
+  attachment:
+  - filename: https://vimeo.com/277670053
+    type: video
+    url: https://vimeo.com/277670053
+  author:
+  - first: Maria
+    full: Maria Antoniak
+    id: maria-antoniak
+    last: Antoniak
+  - first: David
+    full: David Mimno
+    id: david-mimno
+    last: Mimno
+  author_string: Maria Antoniak, David Mimno
+  bibkey: antoniak-mimno-2018-evaluating
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00008
+  page_first: '107'
+  page_last: '119'
+  pages: "107\u2013119"
+  paper_id: '8'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1008.jpg
+  title: Evaluating the Stability of Embedding-based Word Similarities
+  title_html: Evaluating the Stability of Embedding-based Word Similarities
+  url: https://www.aclweb.org/anthology/Q18-1008
+  year: '2018'
+Q18-1009:
+  abstract: This paper presents a novel approach for modeling threaded discussions
+    on social media using a graph-structured bidirectional LSTM (long-short term memory)
+    which represents both hierarchical and temporal conversation structure. In experiments
+    with a task of predicting popularity of comments in Reddit discussions, the proposed
+    model outperforms a node-independent architecture for different sets of input
+    features. Analyses show a benefit to the model over the full course of the discussion,
+    improving detection in both early and late stages. Further, the use of language
+    cues with the bidirectional tree state updates helps with identifying controversial
+    comments.
+  attachment:
+  - filename: https://vimeo.com/238231888
+    type: video
+    url: https://vimeo.com/238231888
+  author:
+  - first: Victoria
+    full: Victoria Zayats
+    id: victoria-zayats
+    last: Zayats
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  author_string: Victoria Zayats, Mari Ostendorf
+  bibkey: zayats-ostendorf-2018-conversation
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00009
+  page_first: '121'
+  page_last: '132'
+  pages: "121\u2013132"
+  paper_id: '9'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1009.jpg
+  title: Conversation Modeling on Reddit Using a Graph-Structured LSTM
+  title_html: Conversation Modeling on <span class="acl-fixed-case">R</span>eddit
+    Using a Graph-Structured <span class="acl-fixed-case">LSTM</span>
+  url: https://www.aclweb.org/anthology/Q18-1009
+  year: '2018'
+Q18-1010:
+  abstract: "Spatial understanding is crucial in many real-world problems, yet little\
+    \ progress has been made towards building representations that capture spatial\
+    \ knowledge. Here, we move one step forward in this direction and learn such representations\
+    \ by leveraging a task consisting in predicting continuous 2D spatial arrangements\
+    \ of objects given object-relationship-object instances (e.g., \u201Ccat under\
+    \ chair\u201D) and a simple neural network model that learns the task from annotated\
+    \ images. We show that the model succeeds in this task and, furthermore, that\
+    \ it is capable of predicting correct spatial arrangements for unseen objects\
+    \ if either CNN features or word embeddings of the objects are provided. The differences\
+    \ between visual and linguistic features are discussed. Next, to evaluate the\
+    \ spatial representations learned in the previous task, we introduce a task and\
+    \ a dataset consisting in a set of crowdsourced human ratings of spatial similarity\
+    \ for object pairs. We find that both CNN (convolutional neural network) features\
+    \ and word embeddings predict human judgments of similarity well and that these\
+    \ vectors can be further specialized in spatial knowledge if we update them when\
+    \ training the model that predicts spatial arrangements of objects. Overall, this\
+    \ paper paves the way towards building distributed spatial representations, contributing\
+    \ to the understanding of spatial expressions in language."
+  author:
+  - first: Guillem
+    full: Guillem Collell
+    id: guillem-collell
+    last: Collell
+  - first: Marie-Francine
+    full: Marie-Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: Guillem Collell, Marie-Francine Moens
+  bibkey: collell-moens-2018-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00010
+  page_first: '133'
+  page_last: '144'
+  pages: "133\u2013144"
+  paper_id: '10'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1010.jpg
+  title: 'Learning Representations Specialized in Spatial Knowledge: Leveraging Language
+    and Vision'
+  title_html: 'Learning Representations Specialized in Spatial Knowledge: Leveraging
+    Language and Vision'
+  url: https://www.aclweb.org/anthology/Q18-1010
+  year: '2018'
+Q18-1011:
+  abstract: 'Existing neural machine translation systems do not explicitly model what
+    has been translated and what has not during the decoding phase. To address this
+    problem, we propose a novel mechanism that separates the source information into
+    two parts: translated Past contents and untranslated Future contents, which are
+    modeled by two additional recurrent layers. The Past and Future contents are fed
+    to both the attention model and the decoder states, which provides Neural Machine
+    Translation (NMT) systems with the knowledge of translated and untranslated contents.
+    Experimental results show that the proposed approach significantly improves the
+    performance in Chinese-English, German-English, and English-German translation
+    tasks. Specifically, the proposed model outperforms the conventional coverage
+    model in terms of both the translation quality and the alignment error rate.'
+  author:
+  - first: Zaixiang
+    full: Zaixiang Zheng
+    id: zaixiang-zheng
+    last: Zheng
+  - first: Hao
+    full: Hao Zhou
+    id: hao-zhou
+    last: Zhou
+  - first: Shujian
+    full: Shujian Huang
+    id: shujian-huang
+    last: Huang
+  - first: Lili
+    full: Lili Mou
+    id: lili-mou
+    last: Mou
+  - first: Xinyu
+    full: Xinyu Dai
+    id: xinyu-dai
+    last: Dai
+  - first: Jiajun
+    full: Jiajun Chen
+    id: jiajun-chen
+    last: Chen
+  - first: Zhaopeng
+    full: Zhaopeng Tu
+    id: zhaopeng-tu
+    last: Tu
+  author_string: Zaixiang Zheng, Hao Zhou, Shujian Huang, Lili Mou, Xinyu Dai, Jiajun
+    Chen, Zhaopeng Tu
+  bibkey: zheng-etal-2018-modeling
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00011
+  page_first: '145'
+  page_last: '157'
+  pages: "145\u2013157"
+  paper_id: '11'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1011.jpg
+  title: Modeling Past and Future for Neural Machine Translation
+  title_html: Modeling Past and Future for Neural Machine Translation
+  url: https://www.aclweb.org/anthology/Q18-1011
+  year: '2018'
+Q18-1012:
+  abstract: Math word problems form a natural abstraction to a range of quantitative
+    reasoning problems, such as understanding financial news, sports results, and
+    casualties of war. Solving such problems requires the understanding of several
+    mathematical concepts such as dimensional analysis, subset relationships, etc.
+    In this paper, we develop declarative rules which govern the translation of natural
+    language description of these concepts to math expressions. We then present a
+    framework for incorporating such declarative knowledge into word problem solving.
+    Our method learns to map arithmetic word problem text to math expressions, by
+    learning to select the relevant declarative knowledge for each operation of the
+    solution expression. This provides a way to handle multiple concepts in the same
+    problem while, at the same time, supporting interpretability of the answer expression.
+    Our method models the mapping to declarative knowledge as a latent variable, thus
+    removing the need for expensive annotations. Experimental evaluation suggests
+    that our domain knowledge based solver outperforms all other systems, and that
+    it generalizes better in the realistic case where the training data it is exposed
+    to is biased in a different way than the test data.
+  attachment:
+  - filename: https://vimeo.com/282338901
+    type: video
+    url: https://vimeo.com/282338901
+  author:
+  - first: Subhro
+    full: Subhro Roy
+    id: subhro-roy
+    last: Roy
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Subhro Roy, Dan Roth
+  bibkey: roy-roth-2018-mapping
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00012
+  page_first: '159'
+  page_last: '172'
+  pages: "159\u2013172"
+  paper_id: '12'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1012.jpg
+  title: Mapping to Declarative Knowledge for Word Problem Solving
+  title_html: Mapping to Declarative Knowledge for Word Problem Solving
+  url: https://www.aclweb.org/anthology/Q18-1012
+  year: '2018'
+Q18-1013:
+  abstract: Video captioning has attracted an increasing amount of interest, due in
+    part to its potential for improved accessibility and information retrieval. While
+    existing methods rely on different kinds of visual features and model architectures,
+    they do not make full use of pertinent semantic cues. We present a unified and
+    extensible framework to jointly leverage multiple sorts of visual features and
+    semantic attributes. Our novel architecture builds on LSTMs with two multi-faceted
+    attention layers. These first learn to automatically select the most salient visual
+    features or semantic attributes, and then yield overall representations for the
+    input and output of the sentence generation component via custom feature scaling
+    operations. Experimental results on the challenging MSVD and MSR-VTT datasets
+    show that our framework outperforms previous work and performs robustly even in
+    the presence of added noise to the features and attributes.
+  author:
+  - first: Xiang
+    full: Xiang Long
+    id: xiang-long
+    last: Long
+  - first: Chuang
+    full: Chuang Gan
+    id: chuang-gan
+    last: Gan
+  - first: Gerard
+    full: Gerard de Melo
+    id: gerard-de-melo
+    last: de Melo
+  author_string: Xiang Long, Chuang Gan, Gerard de Melo
+  bibkey: long-etal-2018-video
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00013
+  page_first: '173'
+  page_last: '184'
+  pages: "173\u2013184"
+  paper_id: '13'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1013.jpg
+  title: Video Captioning with Multi-Faceted Attention
+  title_html: Video Captioning with Multi-Faceted Attention
+  url: https://www.aclweb.org/anthology/Q18-1013
+  year: '2018'
+Q18-1014:
+  abstract: Most existing methods for automatic bilingual dictionary induction rely
+    on prior alignments between the source and target languages, such as parallel
+    corpora or seed dictionaries. For many language pairs, such supervised alignments
+    are not readily available. We propose an unsupervised approach for learning a
+    bilingual dictionary for a pair of languages given their independently-learned
+    monolingual word embeddings. The proposed method exploits local and global structures
+    in monolingual vector spaces to align them such that similar words are mapped
+    to each other. We show empirically that the performance of bilingual correspondents
+    that are learned using our proposed unsupervised method is comparable to that
+    of using supervised bilingual correspondents from a seed dictionary.
+  author:
+  - first: Hanan
+    full: Hanan Aldarmaki
+    id: hanan-aldarmaki
+    last: Aldarmaki
+  - first: Mahesh
+    full: Mahesh Mohan
+    id: mahesh-mohan
+    last: Mohan
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  author_string: Hanan Aldarmaki, Mahesh Mohan, Mona Diab
+  bibkey: aldarmaki-etal-2018-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00014
+  page_first: '185'
+  page_last: '196'
+  pages: "185\u2013196"
+  paper_id: '14'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1014.jpg
+  title: Unsupervised Word Mapping Using Structural Similarities in Monolingual Embeddings
+  title_html: Unsupervised Word Mapping Using Structural Similarities in Monolingual
+    Embeddings
+  url: https://www.aclweb.org/anthology/Q18-1014
+  year: '2018'
+Q18-1015:
+  abstract: "Given a knowledge base or KB containing (noisy) facts about common nouns\
+    \ or generics, such as \u201Call trees produce oxygen\u201D or \u201Csome animals\
+    \ live in forests\u201D, we consider the problem of inferring additional such\
+    \ facts at a precision similar to that of the starting KB. Such KBs capture general\
+    \ knowledge about the world, and are crucial for various applications such as\
+    \ question answering. Different from commonly studied named entity KBs such as\
+    \ Freebase, generics KBs involve quantification, have more complex underlying\
+    \ regularities, tend to be more incomplete, and violate the commonly used locally\
+    \ closed world assumption (LCWA). We show that existing KB completion methods\
+    \ struggle with this new task, and present the first approach that is successful.\
+    \ Our results demonstrate that external information, such as relation schemas\
+    \ and entity taxonomies, if used appropriately, can be a surprisingly powerful\
+    \ tool in this setting. First, our simple yet effective knowledge guided tensor\
+    \ factorization approach achieves state-of-the-art results on two generics KBs\
+    \ (80% precise) for science, doubling their size at 74%\u201386% precision. Second,\
+    \ our novel taxonomy guided, submodular, active learning method for collecting\
+    \ annotations about rare entities (e.g., oriole, a bird) is 6x more effective\
+    \ at inferring further new facts about them than multiple active learning baselines."
+  attachment:
+  - filename: https://vimeo.com/276898240
+    type: video
+    url: https://vimeo.com/276898240
+  author:
+  - first: Hanie
+    full: Hanie Sedghi
+    id: hanie-sedghi
+    last: Sedghi
+  - first: Ashish
+    full: Ashish Sabharwal
+    id: ashish-sabharwal
+    last: Sabharwal
+  author_string: Hanie Sedghi, Ashish Sabharwal
+  bibkey: sedghi-sabharwal-2018-knowledge
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00015
+  page_first: '197'
+  page_last: '210'
+  pages: "197\u2013210"
+  paper_id: '15'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1015.jpg
+  title: Knowledge Completion for Generics using Guided Tensor Factorization
+  title_html: Knowledge Completion for Generics using Guided Tensor Factorization
+  url: https://www.aclweb.org/anthology/Q18-1015
+  year: '2018'
+Q18-1016:
+  abstract: There has been recent interest in applying cognitively- or empirically-motivated
+    bounds on recursion depth to limit the search space of grammar induction models
+    (Ponvert et al., 2011; Noji and Johnson, 2016; Shain et al., 2016). This work
+    extends this depth-bounding approach to probabilistic context-free grammar induction
+    (DB-PCFG), which has a smaller parameter space than hierarchical sequence models,
+    and therefore more fully exploits the space reductions of depth-bounding. Results
+    for this model on grammar acquisition from transcribed child-directed speech and
+    newswire text exceed or are competitive with those of other models when evaluated
+    on parse accuracy. Moreover, grammars acquired from this model demonstrate a consistent
+    use of category labels, something which has not been demonstrated by other acquisition
+    models.
+  attachment:
+  - filename: https://vimeo.com/277673890
+    type: video
+    url: https://vimeo.com/277673890
+  author:
+  - first: Lifeng
+    full: Lifeng Jin
+    id: lifeng-jin
+    last: Jin
+  - first: Finale
+    full: Finale Doshi-Velez
+    id: finale-doshi-velez
+    last: Doshi-Velez
+  - first: Timothy
+    full: Timothy Miller
+    id: timothy-miller
+    last: Miller
+  - first: William
+    full: William Schuler
+    id: william-schuler
+    last: Schuler
+  - first: Lane
+    full: Lane Schwartz
+    id: lane-schwartz
+    last: Schwartz
+  author_string: Lifeng Jin, Finale Doshi-Velez, Timothy Miller, William Schuler,
+    Lane Schwartz
+  bibkey: jin-etal-2018-unsupervised
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00016
+  page_first: '211'
+  page_last: '224'
+  pages: "211\u2013224"
+  paper_id: '16'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1016.jpg
+  title: Unsupervised Grammar Induction with Depth-bounded PCFG
+  title_html: Unsupervised Grammar Induction with Depth-bounded <span class="acl-fixed-case">PCFG</span>
+  url: https://www.aclweb.org/anthology/Q18-1016
+  year: '2018'
+Q18-1017:
+  abstract: Neural encoder-decoder models of machine translation have achieved impressive
+    results, while learning linguistic knowledge of both the source and target languages
+    in an implicit end-to-end manner. We propose a framework in which our model begins
+    learning syntax and translation interleaved, gradually putting more focus on translation.
+    Using this approach, we achieve considerable improvements in terms of BLEU score
+    on relatively large parallel corpus (WMT14 English to German) and a low-resource
+    (WIT German to English) setup.
+  author:
+  - first: Eliyahu
+    full: Eliyahu Kiperwasser
+    id: eliyahu-kiperwasser
+    last: Kiperwasser
+  - first: Miguel
+    full: Miguel Ballesteros
+    id: miguel-ballesteros
+    last: Ballesteros
+  author_string: Eliyahu Kiperwasser, Miguel Ballesteros
+  bibkey: kiperwasser-ballesteros-2018-scheduled
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00017
+  page_first: '225'
+  page_last: '240'
+  pages: "225\u2013240"
+  paper_id: '17'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1017.jpg
+  title: 'Scheduled Multi-Task Learning: From Syntax to Translation'
+  title_html: 'Scheduled Multi-Task Learning: From Syntax to Translation'
+  url: https://www.aclweb.org/anthology/Q18-1017
+  year: '2018'
+Q18-1018:
+  abstract: "\u201CBased on theoretical reasoning it has been suggested that the reliability\
+    \ of findings published in the scientific literature decreases with the popularity\
+    \ of a research field\u201D (Pfeiffer and Hoffmann, 2009). As we know, deep learning\
+    \ is very popular and the ability to reproduce results is an important part of\
+    \ science. There is growing concern within the deep learning community about the\
+    \ reproducibility of results that are presented. In this paper we present a number\
+    \ of controllable, yet unreported, effects that can substantially change the effectiveness\
+    \ of a sample model, and thusly the reproducibility of those results. Through\
+    \ these environmental effects we show that the commonly held belief that distribution\
+    \ of source code is all that is needed for reproducibility is not enough. Source\
+    \ code without a reproducible environment does not mean anything at all. In addition\
+    \ the range of results produced from these effects can be larger than the majority\
+    \ of incremental improvement reported."
+  attachment:
+  - filename: https://vimeo.com/276435177
+    type: video
+    url: https://vimeo.com/276435177
+  author:
+  - first: Matt
+    full: Matt Crane
+    id: matt-crane
+    last: Crane
+  author_string: Matt Crane
+  bibkey: crane-2018-questionable
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00018
+  page_first: '241'
+  page_last: '252'
+  pages: "241\u2013252"
+  paper_id: '18'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1018.jpg
+  title: 'Questionable Answers in Question Answering Research: Reproducibility and
+    Variability of Published Results'
+  title_html: 'Questionable Answers in Question Answering Research: Reproducibility
+    and Variability of Published Results'
+  url: https://www.aclweb.org/anthology/Q18-1018
+  year: '2018'
+Q18-1019:
+  abstract: Recent work on the problem of latent tree learning has made it possible
+    to train neural networks that learn to both parse a sentence and use the resulting
+    parse to interpret the sentence, all without exposure to ground-truth parse trees
+    at training time. Surprisingly, these models often perform better at sentence
+    understanding tasks than models that use parse trees from conventional parsers.
+    This paper aims to investigate what these latent tree learning models learn. We
+    replicate two such models in a shared codebase and find that (i) only one of these
+    models outperforms conventional tree-structured models on sentence classification,
+    (ii) its parsing strategies are not especially consistent across random restarts,
+    (iii) the parses it produces tend to be shallower than standard Penn Treebank
+    (PTB) parses, and (iv) they do not resemble those of PTB or any other semantic
+    or syntactic formalism that the authors are aware of.
+  attachment:
+  - filename: https://vimeo.com/277673973
+    type: video
+    url: https://vimeo.com/277673973
+  author:
+  - first: Adina
+    full: Adina Williams
+    id: adina-williams
+    last: Williams
+  - first: Andrew
+    full: Andrew Drozdov
+    id: andrew-drozdov
+    last: Drozdov
+  - first: Samuel R.
+    full: Samuel R. Bowman
+    id: samuel-bowman
+    last: Bowman
+  author_string: Adina Williams, Andrew Drozdov, Samuel R. Bowman
+  bibkey: williams-etal-2018-latent
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00019
+  page_first: '253'
+  page_last: '267'
+  pages: "253\u2013267"
+  paper_id: '19'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1019.jpg
+  title: Do latent tree learning models identify meaningful structure in sentences?
+  title_html: Do latent tree learning models identify meaningful structure in sentences?
+  url: https://www.aclweb.org/anthology/Q18-1019
+  year: '2018'
+Q18-1020:
+  abstract: "There is often the need to perform sentiment classification in a particular\
+    \ domain where no labeled document is available. Although we could make use of\
+    \ a general-purpose off-the-shelf sentiment classifier or a pre-built one for\
+    \ a different domain, the effectiveness would be inferior. In this paper, we explore\
+    \ the possibility of building domain-specific sentiment classifiers with unlabeled\
+    \ documents only. Our investigation indicates that in the word embeddings learned\
+    \ from the unlabeled corpus of a given domain, the distributed word representations\
+    \ (vectors) for opposite sentiments form distinct clusters, though those clusters\
+    \ are not transferable across domains. Exploiting such a clustering structure,\
+    \ we are able to utilize machine learning algorithms to induce a quality domain-specific\
+    \ sentiment lexicon from just a few typical sentiment words (\u201Cseeds\u201D\
+    ). An important finding is that simple linear model based supervised learning\
+    \ algorithms (such as linear SVM) can actually work better than more sophisticated\
+    \ semi-supervised/transductive learning algorithms which represent the state-of-the-art\
+    \ technique for sentiment lexicon induction. The induced lexicon could be applied\
+    \ directly in a lexicon-based method for sentiment classification, but a higher\
+    \ performance could be achieved through a two-phase bootstrapping method which\
+    \ uses the induced lexicon to assign positive/negative sentiment scores to unlabeled\
+    \ documents first, a nd t hen u ses those documents found to have clear sentiment\
+    \ signals as pseudo-labeled examples to train a document sentiment classifier\
+    \ v ia supervised learning algorithms (such as LSTM). On several benchmark datasets\
+    \ for document sentiment classification, our end-to-end pipelined approach which\
+    \ is overall unsupervised (except for a tiny set of seed words) outperforms existing\
+    \ unsupervised approaches and achieves an accuracy comparable to that of fully\
+    \ supervised approaches."
+  author:
+  - first: Andrius
+    full: Andrius Mudinas
+    id: andrius-mudinas
+    last: Mudinas
+  - first: Dell
+    full: Dell Zhang
+    id: dell-zhang
+    last: Zhang
+  - first: Mark
+    full: Mark Levene
+    id: mark-levene
+    last: Levene
+  author_string: Andrius Mudinas, Dell Zhang, Mark Levene
+  bibkey: mudinas-etal-2018-bootstrap
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00020
+  page_first: '269'
+  page_last: '285'
+  pages: "269\u2013285"
+  paper_id: '20'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1020.jpg
+  title: Bootstrap Domain-Specific Sentiment Classifiers from Unlabeled Corpora
+  title_html: Bootstrap Domain-Specific Sentiment Classifiers from Unlabeled Corpora
+  url: https://www.aclweb.org/anthology/Q18-1020
+  year: '2018'
+Q18-1021:
+  abstract: "Most Reading Comprehension methods limit themselves to queries which\
+    \ can be answered using a single sentence, paragraph, or document. Enabling models\
+    \ to combine disjoint pieces of textual evidence would extend the scope of machine\
+    \ comprehension methods, but currently no resources exist to train and test this\
+    \ capability. We propose a novel task to encourage the development of models for\
+    \ text understanding across multiple documents and to investigate the limits of\
+    \ existing methods. In our task, a model learns to seek and combine evidence \u2014\
+    \ effectively performing multihop, alias multi-step, inference. We devise a methodology\
+    \ to produce datasets for this task, given a collection of query-answer pairs\
+    \ and thematically linked documents. Two datasets from different domains are induced,\
+    \ and we identify potential pitfalls and devise circumvention strategies. We evaluate\
+    \ two previously proposed competitive models and find that one can integrate information\
+    \ across documents. However, both models struggle to select relevant information;\
+    \ and providing documents guaranteed to be relevant greatly improves their performance.\
+    \ While the models outperform several strong baselines, their best accuracy reaches\
+    \ 54.5% on an annotated test set, compared to human performance at 85.0%, leaving\
+    \ ample room for improvement."
+  author:
+  - first: Johannes
+    full: Johannes Welbl
+    id: johannes-welbl
+    last: Welbl
+  - first: Pontus
+    full: Pontus Stenetorp
+    id: pontus-stenetorp
+    last: Stenetorp
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  author_string: Johannes Welbl, Pontus Stenetorp, Sebastian Riedel
+  bibkey: welbl-etal-2018-constructing
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00021
+  page_first: '287'
+  page_last: '302'
+  pages: "287\u2013302"
+  paper_id: '21'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1021.jpg
+  title: Constructing Datasets for Multi-hop Reading Comprehension Across Documents
+  title_html: Constructing Datasets for Multi-hop Reading Comprehension Across Documents
+  url: https://www.aclweb.org/anthology/Q18-1021
+  year: '2018'
+Q18-1022:
+  abstract: We address the task of joint training of transliteration models for multiple
+    language pairs (multilingual transliteration). This is an instance of multitask
+    learning, where individual tasks (language pairs) benefit from sharing knowledge
+    with related tasks. We focus on transliteration involving related tasks i.e.,
+    languages sharing writing systems and phonetic properties (orthographically similar
+    languages). We propose a modified neural encoder-decoder model that maximizes
+    parameter sharing across language pairs in order to effectively leverage orthographic
+    similarity. We show that multilingual transliteration significantly outperforms
+    bilingual transliteration in different scenarios (average increase of 58% across
+    a variety of languages we experimented with). We also show that multilingual transliteration
+    models can generalize well to languages/language pairs not encountered during
+    training and hence perform well on the zeroshot transliteration task. We show
+    that further improvements can be achieved by using phonetic feature input.
+  author:
+  - first: Anoop
+    full: Anoop Kunchukuttan
+    id: anoop-kunchukuttan
+    last: Kunchukuttan
+  - first: Mitesh
+    full: Mitesh Khapra
+    id: mitesh-m-khapra
+    last: Khapra
+  - first: Gurneet
+    full: Gurneet Singh
+    id: gurneet-singh
+    last: Singh
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Anoop Kunchukuttan, Mitesh Khapra, Gurneet Singh, Pushpak Bhattacharyya
+  bibkey: kunchukuttan-etal-2018-leveraging
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00022
+  page_first: '303'
+  page_last: '316'
+  pages: "303\u2013316"
+  paper_id: '22'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1022.jpg
+  title: Leveraging Orthographic Similarity for Multilingual Neural Transliteration
+  title_html: Leveraging Orthographic Similarity for Multilingual Neural Transliteration
+  url: https://www.aclweb.org/anthology/Q18-1022
+  year: '2018'
+Q18-1023:
+  abstract: "Reading comprehension (RC)\u2014in contrast to information retrieval\u2014\
+    requires integrating information and reasoning about events, entities, and their\
+    \ relations across a full document. Question answering is conventionally used\
+    \ to assess RC ability, in both artificial agents and children learning to read.\
+    \ However, existing RC datasets and tasks are dominated by questions that can\
+    \ be solved by selecting answers using superficial information (e.g., local context\
+    \ similarity or global term frequency); they thus fail to test for the essential\
+    \ integrative aspect of RC. To encourage progress on deeper comprehension of language,\
+    \ we present a new dataset and set of tasks in which the reader must answer questions\
+    \ about stories by reading entire books or movie scripts. These tasks are designed\
+    \ so that successfully answering their questions requires understanding the underlying\
+    \ narrative rather than relying on shallow pattern matching or salience. We show\
+    \ that although humans solve the tasks easily, standard RC models struggle on\
+    \ the tasks presented here. We provide an analysis of the dataset and the challenges\
+    \ it presents."
+  attachment:
+  - filename: https://vimeo.com/285804931
+    type: video
+    url: https://vimeo.com/285804931
+  author:
+  - first: "Tom\xE1\u0161"
+    full: "Tom\xE1\u0161 Ko\u010Disk\xFD"
+    id: tomas-kocisky
+    last: "Ko\u010Disk\xFD"
+  - first: Jonathan
+    full: Jonathan Schwarz
+    id: jonathan-schwarz
+    last: Schwarz
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  - first: Chris
+    full: Chris Dyer
+    id: chris-dyer
+    last: Dyer
+  - first: Karl Moritz
+    full: Karl Moritz Hermann
+    id: karl-moritz-hermann
+    last: Hermann
+  - first: "G\xE1bor"
+    full: "G\xE1bor Melis"
+    id: gabor-melis
+    last: Melis
+  - first: Edward
+    full: Edward Grefenstette
+    id: edward-grefenstette
+    last: Grefenstette
+  author_string: "Tom\xE1\u0161 Ko\u010Disk\xFD, Jonathan Schwarz, Phil Blunsom, Chris\
+    \ Dyer, Karl Moritz Hermann, G\xE1bor Melis, Edward Grefenstette"
+  bibkey: kocisky-etal-2018-narrativeqa
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00023
+  page_first: '317'
+  page_last: '328'
+  pages: "317\u2013328"
+  paper_id: '23'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1023.jpg
+  title: The NarrativeQA Reading Comprehension Challenge
+  title_html: The <span class="acl-fixed-case">N</span>arrative<span class="acl-fixed-case">QA</span>
+    Reading Comprehension Challenge
+  url: https://www.aclweb.org/anthology/Q18-1023
+  year: '2018'
+Q18-1024:
+  abstract: We present a computational analysis of cognate effects on the spontaneous
+    linguistic productions of advanced non-native speakers. Introducing a large corpus
+    of highly competent non-native English speakers, and using a set of carefully
+    selected lexical items, we show that the lexical choices of non-natives are affected
+    by cognates in their native language. This effect is so powerful that we are able
+    to reconstruct the phylogenetic language tree of the Indo-European language family
+    solely from the frequencies of specific lexical items in the English of authors
+    with various native languages. We quantitatively analyze non-native lexical choice,
+    highlighting cognate facilitation as one of the important phenomena shaping the
+    language of non-native speakers.
+  attachment:
+  - filename: https://vimeo.com/285802410
+    type: video
+    url: https://vimeo.com/285802410
+  author:
+  - first: Ella
+    full: Ella Rabinovich
+    id: ella-rabinovich
+    last: Rabinovich
+  - first: Yulia
+    full: Yulia Tsvetkov
+    id: yulia-tsvetkov
+    last: Tsvetkov
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Ella Rabinovich, Yulia Tsvetkov, Shuly Wintner
+  bibkey: rabinovich-etal-2018-native
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00024
+  page_first: '329'
+  page_last: '342'
+  pages: "329\u2013342"
+  paper_id: '24'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1024.jpg
+  title: Native Language Cognate Effects on Second Language Lexical Choice
+  title_html: Native Language Cognate Effects on Second Language Lexical Choice
+  url: https://www.aclweb.org/anthology/Q18-1024
+  year: '2018'
+Q18-1025:
+  abstract: This paper presents the first model for time normalization trained on
+    the SCATE corpus. In the SCATE schema, time expressions are annotated as a semantic
+    composition of time entities. This novel schema favors machine learning approaches,
+    as it can be viewed as a semantic parsing task. In this work, we propose a character
+    level multi-output neural network that outperforms previous state-of-the-art built
+    on the TimeML schema. To compare predictions of systems that follow both SCATE
+    and TimeML, we present a new scoring metric for time intervals. We also apply
+    this new metric to carry out a comparative analysis of the annotations of both
+    schemes in the same corpus.
+  author:
+  - first: Egoitz
+    full: Egoitz Laparra
+    id: egoitz-laparra
+    last: Laparra
+  - first: Dongfang
+    full: Dongfang Xu
+    id: dongfang-xu
+    last: Xu
+  - first: Steven
+    full: Steven Bethard
+    id: steven-bethard
+    last: Bethard
+  author_string: Egoitz Laparra, Dongfang Xu, Steven Bethard
+  bibkey: laparra-etal-2018-characters
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00025
+  page_first: '343'
+  page_last: '356'
+  pages: "343\u2013356"
+  paper_id: '25'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1025.jpg
+  title: 'From Characters to Time Intervals: New Paradigms for Evaluation and Neural
+    Parsing of Time Normalizations'
+  title_html: 'From Characters to Time Intervals: New Paradigms for Evaluation and
+    Neural Parsing of Time Normalizations'
+  url: https://www.aclweb.org/anthology/Q18-1025
+  year: '2018'
+Q18-1026:
+  abstract: We introduce a scalable Bayesian preference learning method for identifying
+    convincing arguments in the absence of gold-standard ratings or rankings. In contrast
+    to previous work, we avoid the need for separate methods to perform quality control
+    on training data, predict rankings and perform pairwise classification. Bayesian
+    approaches are an effective solution when faced with sparse or noisy training
+    data, but have not previously been used to identify convincing arguments. One
+    issue is scalability, which we address by developing a stochastic variational
+    inference method for Gaussian process (GP) preference learning. We show how our
+    method can be applied to predict argument convincingness from crowdsourced data,
+    outperforming the previous state-of-the-art, particularly when trained with small
+    amounts of unreliable data. We demonstrate how the Bayesian approach enables more
+    effective active learning, thereby reducing the amount of data required to identify
+    convincing arguments for new users and domains. While word embeddings are principally
+    used with neural networks, our results show that word embeddings in combination
+    with linguistic features also benefit GPs when predicting argument convincingness.
+  attachment:
+  - filename: https://vimeo.com/285800680
+    type: video
+    url: https://vimeo.com/285800680
+  author:
+  - first: Edwin
+    full: Edwin Simpson
+    id: edwin-simpson
+    last: Simpson
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Edwin Simpson, Iryna Gurevych
+  bibkey: simpson-gurevych-2018-finding
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00026
+  page_first: '357'
+  page_last: '371'
+  pages: "357\u2013371"
+  paper_id: '26'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1026.jpg
+  title: Finding Convincing Arguments Using Scalable Bayesian Preference Learning
+  title_html: Finding Convincing Arguments Using Scalable <span class="acl-fixed-case">B</span>ayesian
+    Preference Learning
+  url: https://www.aclweb.org/anthology/Q18-1026
+  year: '2018'
+Q18-1027:
+  abstract: Stylistic dialogue response generation, with valuable applications in
+    personality-based conversational agents, is a challenging task because the response
+    needs to be fluent, contextually-relevant, as well as paralinguistically accurate.
+    Moreover, parallel datasets for regular-to-stylistic pairs are usually unavailable.
+    We present three weakly-supervised models that can generate diverse, polite (or
+    rude) dialogue responses without parallel data. Our late fusion model (Fusion)
+    merges the decoder of an encoder-attention-decoder dialogue model with a language
+    model trained on stand-alone polite utterances. Our label-finetuning (LFT) model
+    prepends to each source sequence a politeness-score scaled label (predicted by
+    our state-of-the-art politeness classifier) during training, and at test time
+    is able to generate polite, neutral, and rude responses by simply scaling the
+    label embedding by the corresponding score. Our reinforcement learning model (Polite-RL)
+    encourages politeness generation by assigning rewards proportional to the politeness
+    classifier score of the sampled response. We also present two retrievalbased,
+    polite dialogue model baselines. Human evaluation validates that while the Fusion
+    and the retrieval-based models achieve politeness with poorer context-relevance,
+    the LFT and Polite-RL models can produce significantly more polite responses without
+    sacrificing dialogue quality.
+  author:
+  - first: Tong
+    full: Tong Niu
+    id: tong-niu
+    last: Niu
+  - first: Mohit
+    full: Mohit Bansal
+    id: mohit-bansal
+    last: Bansal
+  author_string: Tong Niu, Mohit Bansal
+  bibkey: niu-bansal-2018-polite
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00027
+  page_first: '373'
+  page_last: '389'
+  pages: "373\u2013389"
+  paper_id: '27'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1027.jpg
+  title: Polite Dialogue Generation Without Parallel Data
+  title_html: Polite Dialogue Generation Without Parallel Data
+  url: https://www.aclweb.org/anthology/Q18-1027
+  year: '2018'
+Q18-1028:
+  abstract: 'Citations have long been used to characterize the state of a scientific
+    field and to identify influential works. However, writers use citations for different
+    purposes, and this varied purpose influences uptake by future scholars. Unfortunately,
+    our understanding of how scholars use and frame citations has been limited to
+    small-scale manual citation analysis of individual papers. We perform the largest
+    behavioral study of citations to date, analyzing how scientific works frame their
+    contributions through different types of citations and how this framing affects
+    the field as a whole. We introduce a new dataset of nearly 2,000 citations annotated
+    for their function, and use it to develop a state-of-the-art classifier and label
+    the papers of an entire field: Natural Language Processing. We then show how differences
+    in framing affect scientific uptake and reveal the evolution of the publication
+    venues and the field as a whole. We demonstrate that authors are sensitive to
+    discourse structure and publication venue when citing, and that how a paper frames
+    its work through citations is predictive of the citation count it will receive.
+    Finally, we use changes in citation framing to show that the field of NLP is undergoing
+    a significant increase in consensus.'
+  attachment:
+  - filename: https://vimeo.com/285802276
+    type: video
+    url: https://vimeo.com/285802276
+  author:
+  - first: David
+    full: David Jurgens
+    id: david-jurgens
+    last: Jurgens
+  - first: Srijan
+    full: Srijan Kumar
+    id: srijan-kumar
+    last: Kumar
+  - first: Raine
+    full: Raine Hoover
+    id: raine-hoover
+    last: Hoover
+  - first: Dan
+    full: Dan McFarland
+    id: dan-mcfarland
+    last: McFarland
+  - first: Dan
+    full: Dan Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: David Jurgens, Srijan Kumar, Raine Hoover, Dan McFarland, Dan Jurafsky
+  bibkey: jurgens-etal-2018-measuring
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00028
+  page_first: '391'
+  page_last: '406'
+  pages: "391\u2013406"
+  paper_id: '28'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1028.jpg
+  title: Measuring the Evolution of a Scientific Field through Citation Frames
+  title_html: Measuring the Evolution of a Scientific Field through Citation Frames
+  url: https://www.aclweb.org/anthology/Q18-1028
+  year: '2018'
+Q18-1029:
+  abstract: Existing neural machine translation (NMT) models generally translate sentences
+    in isolation, missing the opportunity to take advantage of document-level information.
+    In this work, we propose to augment NMT models with a very light-weight cache-like
+    memory network, which stores recent hidden representations as translation history.
+    The probability distribution over generated words is updated online depending
+    on the translation history retrieved from the memory, endowing NMT models with
+    the capability to dynamically adapt over time. Experiments on multiple domains
+    with different topics and styles show the effectiveness of the proposed approach
+    with negligible impact on the computational cost.
+  author:
+  - first: Zhaopeng
+    full: Zhaopeng Tu
+    id: zhaopeng-tu
+    last: Tu
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Shuming
+    full: Shuming Shi
+    id: shuming-shi
+    last: Shi
+  - first: Tong
+    full: Tong Zhang
+    id: tong-zhang
+    last: Zhang
+  author_string: Zhaopeng Tu, Yang Liu, Shuming Shi, Tong Zhang
+  bibkey: tu-etal-2018-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00029
+  page_first: '407'
+  page_last: '420'
+  pages: "407\u2013420"
+  paper_id: '29'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1029.jpg
+  title: Learning to Remember Translation History with a Continuous Cache
+  title_html: Learning to Remember Translation History with a Continuous Cache
+  url: https://www.aclweb.org/anthology/Q18-1029
+  year: '2018'
+Q18-1030:
+  abstract: Word segmentation is a low-level NLP task that is non-trivial for a considerable
+    number of languages. In this paper, we present a sequence tagging framework and
+    apply it to word segmentation for a wide range of languages with different writing
+    systems and typological characteristics. Additionally, we investigate the correlations
+    between various typological factors and word segmentation accuracy. The experimental
+    results indicate that segmentation accuracy is positively related to word boundary
+    markers and negatively to the number of unique non-segmental terms. Based on the
+    analysis, we design a small set of language-specific settings and extensively
+    evaluate the segmentation system on the Universal Dependencies datasets. Our model
+    obtains state-of-the-art accuracies on all the UD languages. It performs substantially
+    better on languages that are non-trivial to segment, such as Chinese, Japanese,
+    Arabic and Hebrew, when compared to previous work.
+  author:
+  - first: Yan
+    full: Yan Shao
+    id: yan-shao
+    last: Shao
+  - first: Christian
+    full: Christian Hardmeier
+    id: christian-hardmeier
+    last: Hardmeier
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Yan Shao, Christian Hardmeier, Joakim Nivre
+  bibkey: shao-etal-2018-universal
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00033
+  page_first: '421'
+  page_last: '435'
+  pages: "421\u2013435"
+  paper_id: '30'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1030.jpg
+  title: 'Universal Word Segmentation: Implementation and Interpretation'
+  title_html: 'Universal Word Segmentation: Implementation and Interpretation'
+  url: https://www.aclweb.org/anthology/Q18-1030
+  year: '2018'
+Q18-1031:
+  abstract: We propose a new generative language model for sentences that first samples
+    a prototype sentence from the training corpus and then edits it into a new sentence.
+    Compared to traditional language models that generate from scratch either left-to-right
+    or by first sampling a latent sentence vector, our prototype-then-edit model improves
+    perplexity on language modeling and generates higher quality outputs according
+    to human evaluation. Furthermore, the model gives rise to a latent edit vector
+    that captures interpretable semantics such as sentence similarity and sentence-level
+    analogies.
+  attachment:
+  - filename: https://vimeo.com/285801187
+    type: video
+    url: https://vimeo.com/285801187
+  author:
+  - first: Kelvin
+    full: Kelvin Guu
+    id: kelvin-guu
+    last: Guu
+  - first: Tatsunori B.
+    full: Tatsunori B. Hashimoto
+    id: tatsunori-b-hashimoto
+    last: Hashimoto
+  - first: Yonatan
+    full: Yonatan Oren
+    id: yonatan-oren
+    last: Oren
+  - first: Percy
+    full: Percy Liang
+    id: percy-liang
+    last: Liang
+  author_string: Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang
+  bibkey: guu-etal-2018-generating
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00030
+  page_first: '437'
+  page_last: '450'
+  pages: "437\u2013450"
+  paper_id: '31'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1031.jpg
+  title: Generating Sentences by Editing Prototypes
+  title_html: Generating Sentences by Editing Prototypes
+  url: https://www.aclweb.org/anthology/Q18-1031
+  year: '2018'
+Q18-1032:
+  abstract: Neural architectures are prominent in the construction of language models
+    (LMs). However, word-level prediction is typically agnostic of subword-level information
+    (characters and character sequences) and operates over a closed vocabulary, consisting
+    of a limited word set. Indeed, while subword-aware models boost performance across
+    a variety of NLP tasks, previous work did not evaluate the ability of these models
+    to assist next-word prediction in language modeling tasks. Such subword-level
+    informed models should be particularly effective for morphologically-rich languages
+    (MRLs) that exhibit high type-to-token ratios. In this work, we present a large-scale
+    LM study on 50 typologically diverse languages covering a wide variety of morphological
+    systems, and offer new LM benchmarks to the community, while considering subword-level
+    information. The main technical contribution of our work is a novel method for
+    injecting subword-level information into semantic word vectors, integrated into
+    the neural language modeling training, to facilitate word-level prediction. We
+    conduct experiments in the LM setting where the number of infrequent words is
+    large, and demonstrate strong perplexity gains across our 50 languages, especially
+    for morphologically-rich languages. Our code and data sets are publicly available.
+  author:
+  - first: Daniela
+    full: Daniela Gerz
+    id: daniela-gerz
+    last: Gerz
+  - first: Ivan
+    full: "Ivan Vuli\u0107"
+    id: ivan-vulic
+    last: "Vuli\u0107"
+  - first: Edoardo
+    full: Edoardo Ponti
+    id: edoardo-ponti
+    last: Ponti
+  - first: Jason
+    full: Jason Naradowsky
+    id: jason-naradowsky
+    last: Naradowsky
+  - first: Roi
+    full: Roi Reichart
+    id: roi-reichart
+    last: Reichart
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: "Daniela Gerz, Ivan Vuli\u0107, Edoardo Ponti, Jason Naradowsky,\
+    \ Roi Reichart, Anna Korhonen"
+  bibkey: gerz-etal-2018-language
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00032
+  page_first: '451'
+  page_last: '465'
+  pages: "451\u2013465"
+  paper_id: '32'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1032.jpg
+  title: 'Language Modeling for Morphologically Rich Languages: Character-Aware Modeling
+    for Word-Level Prediction'
+  title_html: 'Language Modeling for Morphologically Rich Languages: Character-Aware
+    Modeling for Word-Level Prediction'
+  url: https://www.aclweb.org/anthology/Q18-1032
+  year: '2018'
+Q18-1033:
+  abstract: We apply computational dialog methods to police body-worn camera footage
+    to model conversations between police officers and community members in traffic
+    stops. Relying on the theory of institutional talk, we develop a labeling scheme
+    for police speech during traffic stops, and a tagger to detect institutional dialog
+    acts (Reasons, Searches, Offering Help) from transcribed text at the turn (78%
+    F-score) and stop (89% F-score) level. We then develop speech recognition and
+    segmentation algorithms to detect these acts at the stop level from raw camera
+    audio (81% F-score, with even higher accuracy for crucial acts like conveying
+    the reason for the stop). We demonstrate that the dialog structures produced by
+    our tagger could reveal whether officers follow law enforcement norms like introducing
+    themselves, explaining the reason for the stop, and asking permission for searches.
+    This work may therefore inform and aid efforts to ensure the procedural justice
+    of police-community interactions.
+  attachment:
+  - filename: https://vimeo.com/285803587
+    type: video
+    url: https://vimeo.com/285803587
+  author:
+  - first: Vinodkumar
+    full: Vinodkumar Prabhakaran
+    id: vinodkumar-prabhakaran
+    last: Prabhakaran
+  - first: Camilla
+    full: Camilla Griffiths
+    id: camilla-griffiths
+    last: Griffiths
+  - first: Hang
+    full: Hang Su
+    id: hang-su
+    last: Su
+  - first: Prateek
+    full: Prateek Verma
+    id: prateek-verma
+    last: Verma
+  - first: Nelson
+    full: Nelson Morgan
+    id: nelson-morgan
+    last: Morgan
+  - first: Jennifer L.
+    full: Jennifer L. Eberhardt
+    id: jennifer-l-eberhardt
+    last: Eberhardt
+  - first: Dan
+    full: Dan Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Vinodkumar Prabhakaran, Camilla Griffiths, Hang Su, Prateek Verma,
+    Nelson Morgan, Jennifer L. Eberhardt, Dan Jurafsky
+  bibkey: prabhakaran-etal-2018-detecting
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00031
+  page_first: '467'
+  page_last: '481'
+  pages: "467\u2013481"
+  paper_id: '33'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1033.jpg
+  title: Detecting Institutional Dialog Acts in Police Traffic Stops
+  title_html: Detecting Institutional Dialog Acts in Police Traffic Stops
+  url: https://www.aclweb.org/anthology/Q18-1033
+  year: '2018'
+Q18-1034:
+  abstract: "Word embeddings are ubiquitous in NLP and information retrieval, but\
+    \ it is unclear what they represent when the word is polysemous. Here it is shown\
+    \ that multiple word senses reside in linear superposition within the word embedding\
+    \ and simple sparse coding can recover vectors that approximately capture the\
+    \ senses. The success of our approach, which applies to several embedding methods,\
+    \ is mathematically explained using a variant of the random walk on discourses\
+    \ model (Arora et al., 2016). A novel aspect of our technique is that each extracted\
+    \ word sense is accompanied by one of about 2000 \u201Cdiscourse atoms\u201D that\
+    \ gives a succinct description of which other words co-occur with that word sense.\
+    \ Discourse atoms can be of independent interest, and make the method potentially\
+    \ more useful. Empirical tests are used to verify and support the theory."
+  author:
+  - first: Sanjeev
+    full: Sanjeev Arora
+    id: sanjeev-arora
+    last: Arora
+  - first: Yuanzhi
+    full: Yuanzhi Li
+    id: yuanzhi-li
+    last: Li
+  - first: Yingyu
+    full: Yingyu Liang
+    id: yingyu-liang
+    last: Liang
+  - first: Tengyu
+    full: Tengyu Ma
+    id: tengyu-ma
+    last: Ma
+  - first: Andrej
+    full: Andrej Risteski
+    id: andrej-risteski
+    last: Risteski
+  author_string: Sanjeev Arora, Yuanzhi Li, Yingyu Liang, Tengyu Ma, Andrej Risteski
+  bibkey: arora-etal-2018-linear
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00034
+  page_first: '483'
+  page_last: '495'
+  pages: "483\u2013495"
+  paper_id: '34'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1034.jpg
+  title: Linear Algebraic Structure of Word Senses, with Applications to Polysemy
+  title_html: Linear Algebraic Structure of Word Senses, with Applications to Polysemy
+  url: https://www.aclweb.org/anthology/Q18-1034
+  year: '2018'
+Q18-1035:
+  abstract: A context-aware language model uses location, user and/or domain metadata
+    (context) to adapt its predictions. In neural language models, context information
+    is typically represented as an embedding and it is given to the RNN as an additional
+    input, which has been shown to be useful in many applications. We introduce a
+    more powerful mechanism for using context to adapt an RNN by letting the context
+    vector control a low-rank transformation of the recurrent layer weight matrix.
+    Experiments show that allowing a greater fraction of the model parameters to be
+    adjusted has benefits in terms of perplexity and classification for several different
+    types of context.
+  author:
+  - first: Aaron
+    full: Aaron Jaech
+    id: aaron-jaech
+    last: Jaech
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  author_string: Aaron Jaech, Mari Ostendorf
+  bibkey: jaech-ostendorf-2018-low
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00035
+  page_first: '497'
+  page_last: '510'
+  pages: "497\u2013510"
+  paper_id: '35'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1035.jpg
+  title: Low-Rank RNN Adaptation for Context-Aware Language Modeling
+  title_html: Low-Rank <span class="acl-fixed-case">RNN</span> Adaptation for Context-Aware
+    Language Modeling
+  url: https://www.aclweb.org/anthology/Q18-1035
+  year: '2018'
+Q18-1036:
+  abstract: "In this work, we propose a new language modeling paradigm that has the\
+    \ ability to perform both prediction and moderation of information flow at multiple\
+    \ granularities: neural lattice language models. These models construct a lattice\
+    \ of possible paths through a sentence and marginalize across this lattice to\
+    \ calculate sequence probabilities or optimize parameters. This approach allows\
+    \ us to seamlessly incorporate linguistic intuitions \u2014 including polysemy\
+    \ and the existence of multiword lexical items \u2014 into our language model.\
+    \ Experiments on multiple language modeling tasks show that English neural lattice\
+    \ language models that utilize polysemous embeddings are able to improve perplexity\
+    \ by 9.95% relative to a word-level baseline, and that a Chinese model that handles\
+    \ multi-character tokens is able to improve perplexity by 20.94% relative to a\
+    \ character-level baseline."
+  author:
+  - first: Jacob
+    full: Jacob Buckman
+    id: jacob-buckman
+    last: Buckman
+  - first: Graham
+    full: Graham Neubig
+    id: graham-neubig
+    last: Neubig
+  author_string: Jacob Buckman, Graham Neubig
+  bibkey: buckman-neubig-2018-neural
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00036
+  page_first: '529'
+  page_last: '541'
+  pages: "529\u2013541"
+  paper_id: '36'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1036.jpg
+  title: Neural Lattice Language Models
+  title_html: Neural Lattice Language Models
+  url: https://www.aclweb.org/anthology/Q18-1036
+  year: '2018'
+Q18-1037:
+  abstract: "We study sequential language games in which two players, each with private\
+    \ information, communicate to achieve a common goal. In such games, a successful\
+    \ player must (i) infer the partner\u2019s private information from the partner\u2019\
+    s messages, (ii) generate messages that are most likely to help with the goal,\
+    \ and (iii) reason pragmatically about the partner\u2019s strategy. We propose\
+    \ a model that captures all three characteristics and demonstrate their importance\
+    \ in capturing human behavior on a new goal-oriented dataset we collected using\
+    \ crowdsourcing."
+  author:
+  - first: Fereshte
+    full: Fereshte Khani
+    id: fereshte-khani
+    last: Khani
+  - first: Noah D.
+    full: Noah D. Goodman
+    id: noah-goodman
+    last: Goodman
+  - first: Percy
+    full: Percy Liang
+    id: percy-liang
+    last: Liang
+  author_string: Fereshte Khani, Noah D. Goodman, Percy Liang
+  bibkey: khani-etal-2018-planning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00037
+  page_first: '543'
+  page_last: '555'
+  pages: "543\u2013555"
+  paper_id: '37'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1037.jpg
+  title: Planning, Inference and Pragmatics in Sequential Language Games
+  title_html: Planning, Inference and Pragmatics in Sequential Language Games
+  url: https://www.aclweb.org/anthology/Q18-1037
+  year: '2018'
+Q18-1038:
+  abstract: "In data-to-text Natural Language Generation (NLG) systems, computers\
+    \ need to find the right words to describe phenomena seen in the data. This paper\
+    \ focuses on the problem of choosing appropriate verbs to express the direction\
+    \ and magnitude of a percentage change (e.g., in stock prices). Rather than simply\
+    \ using the same verbs again and again, we present a principled data-driven approach\
+    \ to this problem based on Shannon\u2019s noisy-channel model so as to bring variation\
+    \ and naturalness into the generated text. Our experiments on three large-scale\
+    \ real-world news corpora demonstrate that the proposed probabilistic model can\
+    \ be learned to accurately imitate human authors\u2019 pattern of usage around\
+    \ verbs, outperforming the state-of-the-art method significantly."
+  author:
+  - first: Dell
+    full: Dell Zhang
+    id: dell-zhang
+    last: Zhang
+  - first: Jiahao
+    full: Jiahao Yuan
+    id: jiahao-yuan
+    last: Yuan
+  - first: Xiaoling
+    full: Xiaoling Wang
+    id: xiaoling-wang
+    last: Wang
+  - first: Adam
+    full: Adam Foster
+    id: adam-foster
+    last: Foster
+  author_string: Dell Zhang, Jiahao Yuan, Xiaoling Wang, Adam Foster
+  bibkey: zhang-etal-2018-probabilistic
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00038
+  page_first: '511'
+  page_last: '527'
+  pages: "511\u2013527"
+  paper_id: '38'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1038.jpg
+  title: Probabilistic Verb Selection for Data-to-Text Generation
+  title_html: Probabilistic Verb Selection for Data-to-Text Generation
+  url: https://www.aclweb.org/anthology/Q18-1038
+  year: '2018'
+Q18-1039:
+  abstract: 'In recent years great success has been achieved in sentiment classification
+    for English, thanks in part to the availability of copious annotated resources.
+    Unfortunately, most languages do not enjoy such an abundance of labeled data.
+    To tackle the sentiment classification problem in low-resource languages without
+    adequate annotated data, we propose an Adversarial Deep Averaging Network (ADAN1)
+    to transfer the knowledge learned from labeled data on a resource-rich source
+    language to low-resource languages where only unlabeled data exist. ADAN has two
+    discriminative branches: a sentiment classifier and an adversarial language discriminator.
+    Both branches take input from a shared feature extractor to learn hidden representations
+    that are simultaneously indicative for the classification task and invariant across
+    languages. Experiments on Chinese and Arabic sentiment classification demonstrate
+    that ADAN significantly outperforms state-of-the-art systems.'
+  attachment:
+  - filename: https://vimeo.com/306129914
+    type: video
+    url: https://vimeo.com/306129914
+  author:
+  - first: Xilun
+    full: Xilun Chen
+    id: xilun-chen
+    last: Chen
+  - first: Yu
+    full: Yu Sun
+    id: yu-sun
+    last: Sun
+  - first: Ben
+    full: Ben Athiwaratkun
+    id: ben-athiwaratkun
+    last: Athiwaratkun
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Kilian
+    full: Kilian Weinberger
+    id: kilian-weinberger
+    last: Weinberger
+  author_string: Xilun Chen, Yu Sun, Ben Athiwaratkun, Claire Cardie, Kilian Weinberger
+  bibkey: chen-etal-2018-adversarial
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00039
+  page_first: '557'
+  page_last: '570'
+  pages: "557\u2013570"
+  paper_id: '39'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1039.jpg
+  title: Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification
+  title_html: Adversarial Deep Averaging Networks for Cross-Lingual Sentiment Classification
+  url: https://www.aclweb.org/anthology/Q18-1039
+  year: '2018'
+Q18-1040:
+  abstract: 'The analysis of crowdsourced annotations in natural language processing
+    is concerned with identifying (1) gold standard labels, (2) annotator accuracies
+    and biases, and (3) item difficulties and error patterns. Traditionally, majority
+    voting was used for 1, and coefficients of agreement for 2 and 3. Lately, model-based
+    analysis of corpus annotations have proven better at all three tasks. But there
+    has been relatively little work comparing them on the same datasets. This paper
+    aims to fill this gap by analyzing six models of annotation, covering different
+    approaches to annotator ability, item difficulty, and parameter pooling (tying)
+    across annotators and items. We evaluate these models along four aspects: comparison
+    to gold labels, predictive accuracy for new annotations, annotator characterization,
+    and item difficulty, using four datasets with varying degrees of noise in the
+    form of random (spammy) annotators. We conclude with guidelines for model selection,
+    application, and implementation.'
+  attachment:
+  - filename: https://vimeo.com/305663095
+    type: video
+    url: https://vimeo.com/305663095
+  author:
+  - first: Silviu
+    full: Silviu Paun
+    id: silviu-paun
+    last: Paun
+  - first: Bob
+    full: Bob Carpenter
+    id: bob-carpenter
+    last: Carpenter
+  - first: Jon
+    full: Jon Chamberlain
+    id: jon-chamberlain
+    last: Chamberlain
+  - first: Dirk
+    full: Dirk Hovy
+    id: dirk-hovy
+    last: Hovy
+  - first: Udo
+    full: Udo Kruschwitz
+    id: udo-kruschwitz
+    last: Kruschwitz
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Silviu Paun, Bob Carpenter, Jon Chamberlain, Dirk Hovy, Udo Kruschwitz,
+    Massimo Poesio
+  bibkey: paun-etal-2018-comparing
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00040
+  page_first: '571'
+  page_last: '585'
+  pages: "571\u2013585"
+  paper_id: '40'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1040.jpg
+  title: Comparing Bayesian Models of Annotation
+  title_html: Comparing <span class="acl-fixed-case">B</span>ayesian Models of Annotation
+  url: https://www.aclweb.org/anthology/Q18-1040
+  year: '2018'
+Q18-1041:
+  abstract: In this paper, we propose data statements as a design solution and professional
+    practice for natural language processing technologists, in both research and development.
+    Through the adoption and widespread use of data statements, the field can begin
+    to address critical scientific and ethical issues that result from the use of
+    data from certain populations in the development of technology for other populations.
+    We present a form that data statements can take and explore the implications of
+    adopting them as part of regular practice. We argue that data statements will
+    help alleviate issues related to exclusion and bias in language technology, lead
+    to better precision in claims about how natural language processing research can
+    generalize and thus better engineering results, protect companies from public
+    embarrassment, and ultimately lead to language technology that meets its users
+    in their own preferred linguistic style and furthermore does not misrepresent
+    them to others.
+  author:
+  - first: Emily M.
+    full: Emily M. Bender
+    id: emily-m-bender
+    last: Bender
+  - first: Batya
+    full: Batya Friedman
+    id: batya-friedman
+    last: Friedman
+  author_string: Emily M. Bender, Batya Friedman
+  bibkey: bender-friedman-2018-data
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00041
+  page_first: '587'
+  page_last: '604'
+  pages: "587\u2013604"
+  paper_id: '41'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1041.jpg
+  title: 'Data Statements for Natural Language Processing: Toward Mitigating System
+    Bias and Enabling Better Science'
+  title_html: 'Data Statements for Natural Language Processing: Toward Mitigating
+    System Bias and Enabling Better Science'
+  url: https://www.aclweb.org/anthology/Q18-1041
+  year: '2018'
+Q18-1042:
+  abstract: "Coreference resolution is an important task for natural language understanding,\
+    \ and the resolution of ambiguous pronouns a longstanding challenge. Nonetheless,\
+    \ existing corpora do not capture ambiguous pronouns in sufficient volume or diversity\
+    \ to accurately indicate the practical utility of models. Furthermore, we find\
+    \ gender bias in existing corpora and systems favoring masculine entities. To\
+    \ address this, we present and release GAP, a gender-balanced labeled corpus of\
+    \ 8,908 ambiguous pronoun\u2013name pairs sampled to provide diverse coverage\
+    \ of challenges posed by real-world text. We explore a range of baselines that\
+    \ demonstrate the complexity of the challenge, the best achieving just 66.9% F1.\
+    \ We show that syntactic structure and continuous neural models provide promising,\
+    \ complementary cues for approaching the challenge."
+  author:
+  - first: Kellie
+    full: Kellie Webster
+    id: kellie-webster
+    last: Webster
+  - first: Marta
+    full: Marta Recasens
+    id: marta-recasens
+    last: Recasens
+  - first: Vera
+    full: Vera Axelrod
+    id: vera-axelrod
+    last: Axelrod
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  author_string: Kellie Webster, Marta Recasens, Vera Axelrod, Jason Baldridge
+  bibkey: webster-etal-2018-mind
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00240
+  page_first: '605'
+  page_last: '617'
+  pages: "605\u2013617"
+  paper_id: '42'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1042.jpg
+  title: 'Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns'
+  title_html: 'Mind the <span class="acl-fixed-case">GAP</span>: A Balanced Corpus
+    of Gendered Ambiguous Pronouns'
+  url: https://www.aclweb.org/anthology/Q18-1042
+  year: '2018'
+Q18-1043:
+  abstract: Neural methods have had several recent successes in semantic parsing,
+    though they have yet to face the challenge of producing meaning representations
+    based on formal semantics. We present a sequence-to-sequence neural semantic parser
+    that is able to produce Discourse Representation Structures (DRSs) for English
+    sentences with high accuracy, outperforming traditional DRS parsers. To facilitate
+    the learning of the output, we represent DRSs as a sequence of flat clauses and
+    introduce a method to verify that produced DRSs are well-formed and interpretable.
+    We compare models using characters and words as input and see (somewhat surprisingly)
+    that the former performs better than the latter. We show that eliminating variable
+    names from the output using De Bruijn indices increases parser performance. Adding
+    silver training data boosts performance even further.
+  author:
+  - first: Rik
+    full: Rik van Noord
+    id: rik-van-noord
+    last: van Noord
+  - first: Lasha
+    full: Lasha Abzianidze
+    id: lasha-abzianidze
+    last: Abzianidze
+  - first: Antonio
+    full: Antonio Toral
+    id: antonio-toral
+    last: Toral
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  author_string: Rik van Noord, Lasha Abzianidze, Antonio Toral, Johan Bos
+  bibkey: van-noord-etal-2018-exploring
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00241
+  page_first: '619'
+  page_last: '633'
+  pages: "619\u2013633"
+  paper_id: '43'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1043.jpg
+  title: Exploring Neural Methods for Parsing Discourse Representation Structures
+  title_html: Exploring Neural Methods for Parsing Discourse Representation Structures
+  url: https://www.aclweb.org/anthology/Q18-1043
+  year: '2018'
+Q18-1044:
+  abstract: This paper demonstrates that word sense disambiguation (WSD) can improve
+    neural machine translation (NMT) by widening the source context considered when
+    modeling the senses of potentially ambiguous words. We first introduce three adaptive
+    clustering algorithms for WSD, based on k-means, Chinese restaurant processes,
+    and random walks, which are then applied to large word contexts represented in
+    a low-rank space and evaluated on SemEval shared-task data. We then learn word
+    vectors jointly with sense vectors defined by our best WSD method, within a state-of-the-art
+    NMT system. We show that the concatenation of these vectors, and the use of a
+    sense selection mechanism based on the weighted average of sense vectors, outperforms
+    several baselines including sense-aware ones. This is demonstrated by translation
+    on five language pairs. The improvements are more than 1 BLEU point over strong
+    NMT baselines, +4% accuracy over all ambiguous nouns and verbs, or +20% when scored
+    manually over several challenging words.
+  attachment:
+  - filename: https://vimeo.com/385255818
+    type: video
+    url: https://vimeo.com/385255818
+  author:
+  - first: Xiao
+    full: Xiao Pu
+    id: xiao-pu
+    last: Pu
+  - first: Nikolaos
+    full: Nikolaos Pappas
+    id: nikolaos-pappas
+    last: Pappas
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  - first: Andrei
+    full: Andrei Popescu-Belis
+    id: andrei-popescu-belis
+    last: Popescu-Belis
+  author_string: Xiao Pu, Nikolaos Pappas, James Henderson, Andrei Popescu-Belis
+  bibkey: pu-etal-2018-integrating
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00242
+  page_first: '635'
+  page_last: '649'
+  pages: "635\u2013649"
+  paper_id: '44'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1044.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1044.jpg
+  title: Integrating Weakly Supervised Word Sense Disambiguation into Neural Machine
+    Translation
+  title_html: Integrating Weakly Supervised Word Sense Disambiguation into Neural
+    Machine Translation
+  url: https://www.aclweb.org/anthology/Q18-1044
+  year: '2018'
+Q18-1045:
+  abstract: "Can advances in NLP help advance cognitive modeling? We examine the role\
+    \ of artificial neural networks, the current state of the art in many common NLP\
+    \ tasks, by returning to a classic case study. In 1986, Rumelhart and McClelland\
+    \ famously introduced a neural architecture that learned to transduce English\
+    \ verb stems to their past tense forms. Shortly thereafter in 1988, Pinker and\
+    \ Prince presented a comprehensive rebuttal of many of Rumelhart and McClelland\u2019\
+    s claims. Much of the force of their attack centered on the empirical inadequacy\
+    \ of the Rumelhart and McClelland model. Today, however, that model is severely\
+    \ outmoded. We show that the Encoder-Decoder network architectures used in modern\
+    \ NLP systems obviate most of Pinker and Prince\u2019s criticisms without requiring\
+    \ any simplification of the past tense mapping problem. We suggest that the empirical\
+    \ performance of modern networks warrants a reexamination of their utility in\
+    \ linguistic and cognitive modeling."
+  attachment:
+  - filename: https://vimeo.com/305684335
+    type: video
+    url: https://vimeo.com/305684335
+  author:
+  - first: Christo
+    full: Christo Kirov
+    id: christo-kirov
+    last: Kirov
+  - first: Ryan
+    full: Ryan Cotterell
+    id: ryan-cotterell
+    last: Cotterell
+  author_string: Christo Kirov, Ryan Cotterell
+  bibkey: kirov-cotterell-2018-recurrent
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00247
+  page_first: '651'
+  page_last: '665'
+  pages: "651\u2013665"
+  paper_id: '45'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1045.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1045.jpg
+  title: 'Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and Prince
+    (1988) and the Past Tense Debate'
+  title_html: 'Recurrent Neural Networks in Linguistic Theory: Revisiting Pinker and
+    Prince (1988) and the Past Tense Debate'
+  url: https://www.aclweb.org/anthology/Q18-1045
+  year: '2018'
+Q18-1046:
+  abstract: "We introduce a novel framework for delexicalized dependency parsing in\
+    \ a new language. We show that useful features of the target language can be extracted\
+    \ automatically from an unparsed corpus, which consists only of gold part-of-speech\
+    \ (POS) sequences. Providing these features to our neural parser enables it to\
+    \ parse sequences like those in the corpus. Strikingly, our system has no supervision\
+    \ in the target language. Rather, it is a multilingual system that is trained\
+    \ end-to-end on a variety of other languages, so it learns a feature extractor\
+    \ that works well. We show experimentally across multiple languages: (1) Features\
+    \ computed from the unparsed corpus improve parsing accuracy. (2) Including thousands\
+    \ of synthetic languages in the training yields further improvement. (3) Despite\
+    \ being computed from unparsed corpora, our learned task-specific features beat\
+    \ previous work\u2019s interpretable typological features that require parsed\
+    \ corpora or expert categorization of the language. Our best method improved attachment\
+    \ scores on held-out test languages by an average of 5.6 percentage points over\
+    \ past work that does not inspect the unparsed data (McDonald et al., 2011), and\
+    \ by 20.7 points over past \u201Cgrammar induction\u201D work that does not use\
+    \ training languages (Naseem et al., 2010)."
+  author:
+  - first: Dingquan
+    full: Dingquan Wang
+    id: dingquan-wang
+    last: Wang
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Dingquan Wang, Jason Eisner
+  bibkey: wang-eisner-2018-surface
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00248
+  page_first: '667'
+  page_last: '685'
+  pages: "667\u2013685"
+  paper_id: '46'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1046.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1046.jpg
+  title: Surface Statistics of an Unknown Language Indicate How to Parse It
+  title_html: Surface Statistics of an Unknown Language Indicate How to Parse It
+  url: https://www.aclweb.org/anthology/Q18-1046
+  year: '2018'
+Q18-1047:
+  abstract: In NLP, convolutional neural networks (CNNs) have benefited less than
+    recurrent neural networks (RNNs) from attention mechanisms. We hypothesize that
+    this is because the attention in CNNs has been mainly implemented as attentive
+    pooling (i.e., it is applied to pooling) rather than as attentive convolution
+    (i.e., it is integrated into convolution). Convolution is the differentiator of
+    CNNs in that it can powerfully model the higher-level representation of a word
+    by taking into account its local fixed-size context in the input text tx. In this
+    work, we propose an attentive convolution network, ATTCONV. It extends the context
+    scope of the convolution operation, deriving higher-level features for a word
+    not only from local context, but also from information extracted from nonlocal
+    context by the attention mechanism commonly used in RNNs. This nonlocal context
+    can come (i) from parts of the input text tx that are distant or (ii) from extra
+    (i.e., external) contexts ty. Experiments on sentence modeling with zero-context
+    (sentiment analysis), single-context (textual entailment) and multiple-context
+    (claim verification) demonstrate the effectiveness of ATTCONV in sentence representation
+    learning with the incorporation of context. In particular, attentive convolution
+    outperforms attentive pooling and is a strong competitor to popular attentive
+    RNNs.1
+  author:
+  - first: Wenpeng
+    full: Wenpeng Yin
+    id: wenpeng-yin
+    last: Yin
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Wenpeng Yin, Hinrich Sch\xFCtze"
+  bibkey: yin-schutze-2018-attentive
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00249
+  page_first: '687'
+  page_last: '702'
+  pages: "687\u2013702"
+  paper_id: '47'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1047.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1047.jpg
+  title: 'Attentive Convolution: Equipping CNNs with RNN-style Attention Mechanisms'
+  title_html: 'Attentive Convolution: Equipping <span class="acl-fixed-case">CNN</span>s
+    with <span class="acl-fixed-case">RNN</span>-style Attention Mechanisms'
+  url: https://www.aclweb.org/anthology/Q18-1047
+  year: '2018'
+Q18-1048:
+  abstract: This paper presents a new method for learning typed entailment graphs
+    from text. We extract predicate-argument structures from multiple-source news
+    corpora, and compute local distributional similarity scores to learn entailments
+    between predicates with typed arguments (e.g., person contracted disease). Previous
+    work has used transitivity constraints to improve local decisions, but these constraints
+    are intractable on large graphs. We instead propose a scalable method that learns
+    globally consistent similarity scores based on new soft constraints that consider
+    both the structures across typed entailment graphs and inside each graph. Learning
+    takes only a few hours to run over 100K predicates and our results show large
+    improvements over local similarity scores on two entailment data sets. We further
+    show improvements over paraphrases and entailments from the Paraphrase Database,
+    and prior state-of-the-art entailment graphs. We show that the entailment graphs
+    improve performance in a downstream task.
+  attachment:
+  - filename: https://vimeo.com/384777183
+    type: video
+    url: https://vimeo.com/384777183
+  author:
+  - first: Mohammad Javad
+    full: Mohammad Javad Hosseini
+    id: mohammad-javad-hosseini
+    last: Hosseini
+  - first: Nathanael
+    full: Nathanael Chambers
+    id: nathanael-chambers
+    last: Chambers
+  - first: Siva
+    full: Siva Reddy
+    id: siva-reddy
+    last: Reddy
+  - first: Xavier R.
+    full: Xavier R. Holt
+    id: xavier-r-holt
+    last: Holt
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Mohammad Javad Hosseini, Nathanael Chambers, Siva Reddy, Xavier R.
+    Holt, Shay B. Cohen, Mark Johnson, Mark Steedman
+  bibkey: hosseini-etal-2018-learning
+  bibtype: article
+  booktitle: Transactions of the Association for Computational Linguistics, Volume
+    6
+  doi: 10.1162/tacl_a_00250
+  page_first: '703'
+  page_last: '717'
+  pages: "703\u2013717"
+  paper_id: '48'
+  parent_volume_id: Q18-1
+  pdf: https://www.aclweb.org/anthology/Q18-1048.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Q18-1048.jpg
+  title: Learning Typed Entailment Graphs with Global Soft Constraints
+  title_html: Learning Typed Entailment Graphs with Global Soft Constraints
+  url: https://www.aclweb.org/anthology/Q18-1048
+  year: '2018'

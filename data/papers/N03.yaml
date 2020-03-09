@@ -1,0 +1,3519 @@
+N03-1000:
+  bibkey: naacl-2003-2003
+  bibtype: proceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  paper_id: '0'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1000.jpg
+  title: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  title_html: Proceedings of the 2003 Human Language Technology Conference of the
+    North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  url: https://www.aclweb.org/anthology/N03-1000
+  year: '2003'
+N03-1001:
+  author:
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  author_string: Hiyan Alshawi
+  bibkey: alshawi-2003-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '1'
+  page_last: '7'
+  pages: "1\u20137"
+  paper_id: '1'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1001.jpg
+  title: Effective Utterance Classification with Unsupervised Phonotactic Models
+  title_html: Effective Utterance Classification with Unsupervised Phonotactic Models
+  url: https://www.aclweb.org/anthology/N03-1001
+  year: '2003'
+N03-1002:
+  author:
+  - first: Masayuki
+    full: Masayuki Asahara
+    id: masayuki-asahara
+    last: Asahara
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Masayuki Asahara, Yuji Matsumoto
+  bibkey: asahara-matsumoto-2003-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '8'
+  page_last: '15'
+  pages: "8\u201315"
+  paper_id: '2'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1002.jpg
+  title: Japanese Named Entity Extraction with Redundant Morphological Analysis
+  title_html: <span class="acl-fixed-case">J</span>apanese Named Entity Extraction
+    with Redundant Morphological Analysis
+  url: https://www.aclweb.org/anthology/N03-1002
+  year: '2003'
+N03-1003:
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Lillian
+    full: Lillian Lee
+    id: lillian-lee
+    last: Lee
+  author_string: Regina Barzilay, Lillian Lee
+  bibkey: barzilay-lee-2003-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '16'
+  page_last: '23'
+  pages: "16\u201323"
+  paper_id: '3'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1003.jpg
+  title: 'Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence
+    Alignment'
+  title_html: 'Learning to Paraphrase: An Unsupervised Approach Using Multiple-Sequence
+    Alignment'
+  url: https://www.aclweb.org/anthology/N03-1003
+  year: '2003'
+N03-1004:
+  author:
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  - first: Krzysztof
+    full: Krzysztof Czuba
+    id: krzysztof-czuba
+    last: Czuba
+  - first: John
+    full: John Prager
+    id: john-prager
+    last: Prager
+  - first: Abraham
+    full: Abraham Ittycheriah
+    id: abraham-ittycheriah
+    last: Ittycheriah
+  author_string: Jennifer Chu-Carroll, Krzysztof Czuba, John Prager, Abraham Ittycheriah
+  bibkey: chu-carroll-etal-2003-question
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '24'
+  page_last: '31'
+  pages: "24\u201331"
+  paper_id: '4'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1004.jpg
+  title: In Question Answering, Two Heads Are Better Than One
+  title_html: In Question Answering, Two Heads Are Better Than One
+  url: https://www.aclweb.org/anthology/N03-1004
+  year: '2003'
+N03-1005:
+  author:
+  - first: Grace
+    full: Grace Chung
+    id: grace-chung
+    last: Chung
+  - first: Stephanie
+    full: Stephanie Seneff
+    id: stephanie-seneff
+    last: Seneff
+  - first: Chao
+    full: Chao Wang
+    id: chao-wang
+    last: Wang
+  author_string: Grace Chung, Stephanie Seneff, Chao Wang
+  bibkey: chung-etal-2003-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '32'
+  page_last: '39'
+  pages: "32\u201339"
+  paper_id: '5'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1005.jpg
+  title: Automatic Acquisition of Names Using Speak and Spell Mode in Spoken Dialogue
+    Systems
+  title_html: Automatic Acquisition of Names Using Speak and Spell Mode in Spoken
+    Dialogue Systems
+  url: https://www.aclweb.org/anthology/N03-1005
+  year: '2003'
+N03-1006:
+  author:
+  - first: Silviu
+    full: Silviu Cucerzan
+    id: silviu-cucerzan
+    last: Cucerzan
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Silviu Cucerzan, David Yarowsky
+  bibkey: cucerzan-yarowsky-2003-minimally
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '40'
+  page_last: '47'
+  pages: "40\u201347"
+  paper_id: '6'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1006.jpg
+  title: Minimally Supervised Induction of Grammatical Gender
+  title_html: Minimally Supervised Induction of Grammatical Gender
+  url: https://www.aclweb.org/anthology/N03-1006
+  year: '2003'
+N03-1007:
+  author:
+  - first: Marco De
+    full: Marco De Boni
+    id: marco-de-boni
+    last: Boni
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  author_string: Marco De Boni, Suresh Manandhar
+  bibkey: boni-manandhar-2003-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '48'
+  page_last: '55'
+  pages: "48\u201355"
+  paper_id: '7'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1007.jpg
+  title: An Analysis of Clarification Dialogue for Question Answering
+  title_html: An Analysis of Clarification Dialogue for Question Answering
+  url: https://www.aclweb.org/anthology/N03-1007
+  year: '2003'
+N03-1008:
+  author:
+  - first: Yonggang
+    full: Yonggang Deng
+    id: yonggang-deng
+    last: Deng
+  - first: Sanjeev
+    full: Sanjeev Khudanpur
+    id: sanjeev-khudanpur
+    last: Khudanpur
+  author_string: Yonggang Deng, Sanjeev Khudanpur
+  bibkey: deng-khudanpur-2003-latent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '56'
+  page_last: '63'
+  pages: "56\u201363"
+  paper_id: '8'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1008.jpg
+  title: Latent Semantic Information in Maximum Entropy Language Models for Conversational
+    Speech Recognition
+  title_html: Latent Semantic Information in Maximum Entropy Language Models for Conversational
+    Speech Recognition
+  url: https://www.aclweb.org/anthology/N03-1008
+  year: '2003'
+N03-1009:
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Jason Eisner
+  bibkey: eisner-2003-simpler
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '9'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1009.jpg
+  title: Simpler and More General Minimization for Weighted Finite-State Automata
+  title_html: Simpler and More General Minimization for Weighted Finite-State Automata
+  url: https://www.aclweb.org/anthology/N03-1009
+  year: '2003'
+N03-1010:
+  author:
+  - first: Ulrich
+    full: Ulrich Germann
+    id: ulrich-germann
+    last: Germann
+  author_string: Ulrich Germann
+  bibkey: germann-2003-greedy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '72'
+  page_last: '79'
+  pages: "72\u201379"
+  paper_id: '10'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1010.jpg
+  title: Greedy Decoding for Statistical Machine Translation in Almost Linear Time
+  title_html: Greedy Decoding for Statistical Machine Translation in Almost Linear
+    Time
+  url: https://www.aclweb.org/anthology/N03-1010
+  year: '2003'
+N03-1011:
+  author:
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  - first: Adriana
+    full: Adriana Badulescu
+    id: adriana-badulescu
+    last: Badulescu
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  author_string: Roxana Girju, Adriana Badulescu, Dan Moldovan
+  bibkey: girju-etal-2003-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '80'
+  page_last: '87'
+  pages: "80\u201387"
+  paper_id: '11'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1011.jpg
+  title: Learning Semantic Constraints for the Automatic Discovery of Part-Whole Relations
+  title_html: Learning Semantic Constraints for the Automatic Discovery of Part-Whole
+    Relations
+  url: https://www.aclweb.org/anthology/N03-1011
+  year: '2003'
+N03-1012:
+  author:
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  - first: Rainer
+    full: Rainer Malaka
+    id: rainer-malaka
+    last: Malaka
+  - first: Robert
+    full: Robert Porzel
+    id: robert-porzel
+    last: Porzel
+  - first: Hans-Peter
+    full: Hans-Peter Zorn
+    id: hans-peter-zorn
+    last: Zorn
+  author_string: Iryna Gurevych, Rainer Malaka, Robert Porzel, Hans-Peter Zorn
+  bibkey: gurevych-etal-2003-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '88'
+  page_last: '95'
+  pages: "88\u201395"
+  paper_id: '12'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1012.jpg
+  title: Semantic Coherence Scoring Using an Ontology
+  title_html: Semantic Coherence Scoring Using an Ontology
+  url: https://www.aclweb.org/anthology/N03-1012
+  year: '2003'
+N03-1013:
+  author:
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  - first: Bonnie
+    full: Bonnie Dorr
+    id: bonnie-dorr
+    last: Dorr
+  author_string: Nizar Habash, Bonnie Dorr
+  bibkey: habash-dorr-2003-categorial
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '96'
+  page_last: '102'
+  pages: "96\u2013102"
+  paper_id: '13'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1013.jpg
+  title: A Categorial Variation Database for English
+  title_html: A Categorial Variation Database for <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/N03-1013
+  year: '2003'
+N03-1014:
+  author:
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  author_string: James Henderson
+  bibkey: henderson-2003-inducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '103'
+  page_last: '110'
+  pages: "103\u2013110"
+  paper_id: '14'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1014.jpg
+  title: Inducing History Representations for Broad Coverage Statistical Parsing
+  title_html: Inducing History Representations for Broad Coverage Statistical Parsing
+  url: https://www.aclweb.org/anthology/N03-1014
+  year: '2003'
+N03-1015:
+  author:
+  - first: Hiroyuki
+    full: Hiroyuki Kaji
+    id: hiroyuki-kaji
+    last: Kaji
+  author_string: Hiroyuki Kaji
+  bibkey: kaji-2003-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '111'
+  page_last: '118'
+  pages: "111\u2013118"
+  paper_id: '15'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1015.jpg
+  title: Word Sense Acquisition from Bilingual Comparable Corpora
+  title_html: Word Sense Acquisition from Bilingual Comparable Corpora
+  url: https://www.aclweb.org/anthology/N03-1015
+  year: '2003'
+N03-1016:
+  author:
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Dan Klein, Christopher D. Manning
+  bibkey: klein-manning-2003-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '119'
+  page_last: '126'
+  pages: "119\u2013126"
+  paper_id: '16'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1016.jpg
+  title: 'A* Parsing: Fast Exact Viterbi Parse Selection'
+  title_html: '<span class="acl-fixed-case">A</span>* Parsing: Fast Exact <span class="acl-fixed-case">V</span>iterbi
+    Parse Selection'
+  url: https://www.aclweb.org/anthology/N03-1016
+  year: '2003'
+N03-1017:
+  author:
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Franz J.
+    full: Franz J. Och
+    id: franz-josef-och
+    last: Och
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Philipp Koehn, Franz J. Och, Daniel Marcu
+  bibkey: koehn-etal-2003-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '127'
+  page_last: '133'
+  pages: "127\u2013133"
+  paper_id: '17'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1017.jpg
+  title: Statistical Phrase-Based Translation
+  title_html: Statistical Phrase-Based Translation
+  url: https://www.aclweb.org/anthology/N03-1017
+  year: '2003'
+N03-1018:
+  author:
+  - first: Okan
+    full: Okan Kolak
+    id: okan-kolak
+    last: Kolak
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Okan Kolak, William Byrne, Philip Resnik
+  bibkey: kolak-etal-2003-generative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '134'
+  page_last: '141'
+  pages: "134\u2013141"
+  paper_id: '18'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1018.jpg
+  title: A Generative Probabilistic OCR Model for NLP Applications
+  title_html: A Generative Probabilistic <span class="acl-fixed-case">OCR</span> Model
+    for <span class="acl-fixed-case">NLP</span> Applications
+  url: https://www.aclweb.org/anthology/N03-1018
+  year: '2003'
+N03-1019:
+  author:
+  - first: Shankar
+    full: Shankar Kumar
+    id: shankar-kumar
+    last: Kumar
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  author_string: Shankar Kumar, William Byrne
+  bibkey: kumar-byrne-2003-weighted
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '142'
+  page_last: '149'
+  pages: "142\u2013149"
+  paper_id: '19'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1019.jpg
+  title: A Weighted Finite State Transducer Implementation of the Alignment Template
+    Model for Statistical Machine Translation
+  title_html: A Weighted Finite State Transducer Implementation of the Alignment Template
+    Model for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/N03-1019
+  year: '2003'
+N03-1020:
+  author:
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Chin-Yew Lin, Eduard Hovy
+  bibkey: lin-hovy-2003-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '150'
+  page_last: '157'
+  pages: "150\u2013157"
+  paper_id: '20'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1020.jpg
+  title: Automatic Evaluation of Summaries Using N-gram Co-occurrence Statistics
+  title_html: Automatic Evaluation of Summaries Using N-gram Co-occurrence Statistics
+  url: https://www.aclweb.org/anthology/N03-1020
+  year: '2003'
+N03-1021:
+  author:
+  - first: I. Dan
+    full: I. Dan Melamed
+    id: i-dan-melamed
+    last: Melamed
+  author_string: I. Dan Melamed
+  bibkey: melamed-2003-multitext
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '158'
+  page_last: '165'
+  pages: "158\u2013165"
+  paper_id: '21'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1021.jpg
+  title: Multitext Grammars and Synchronous Parsers
+  title_html: Multitext Grammars and Synchronous Parsers
+  url: https://www.aclweb.org/anthology/N03-1021
+  year: '2003'
+N03-1022:
+  author:
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Christine
+    full: Christine Clark
+    id: chris-clark
+    last: Clark
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  - first: Steve
+    full: Steve Maiorano
+    id: steven-j-maiorano
+    last: Maiorano
+  author_string: Dan Moldovan, Christine Clark, Sanda Harabagiu, Steve Maiorano
+  bibkey: moldovan-etal-2003-cogex
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '166'
+  page_last: '172'
+  pages: "166\u2013172"
+  paper_id: '22'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1022.jpg
+  title: 'COGEX: A Logic Prover for Question Answering'
+  title_html: '<span class="acl-fixed-case">COGEX</span>: A Logic Prover for Question
+    Answering'
+  url: https://www.aclweb.org/anthology/N03-1022
+  year: '2003'
+N03-1023:
+  author:
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Vincent Ng, Claire Cardie
+  bibkey: ng-cardie-2003-weakly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '173'
+  page_last: '180'
+  pages: "173\u2013180"
+  paper_id: '23'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1023.jpg
+  title: Weakly Supervised Natural Language Learning Without Redundant Views
+  title_html: Weakly Supervised Natural Language Learning Without Redundant Views
+  url: https://www.aclweb.org/anthology/N03-1023
+  year: '2003'
+N03-1024:
+  author:
+  - first: Bo
+    full: Bo Pang
+    id: bo-pang
+    last: Pang
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Bo Pang, Kevin Knight, Daniel Marcu
+  bibkey: pang-etal-2003-syntax
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '181'
+  page_last: '188'
+  pages: "181\u2013188"
+  paper_id: '24'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1024.jpg
+  title: 'Syntax-based Alignment of Multiple Translations: Extracting Paraphrases
+    and Generating New Sentences'
+  title_html: 'Syntax-based Alignment of Multiple Translations: Extracting Paraphrases
+    and Generating New Sentences'
+  url: https://www.aclweb.org/anthology/N03-1024
+  year: '2003'
+N03-1025:
+  author:
+  - first: Fuchun
+    full: Fuchun Peng
+    id: fuchun-peng
+    last: Peng
+  - first: Dale
+    full: Dale Schuurmans
+    id: dale-schuurmans
+    last: Schuurmans
+  - first: Shaojun
+    full: Shaojun Wang
+    id: shaojun-wang
+    last: Wang
+  author_string: Fuchun Peng, Dale Schuurmans, Shaojun Wang
+  bibkey: peng-etal-2003-language-task
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '189'
+  page_last: '196'
+  pages: "189\u2013196"
+  paper_id: '25'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1025.jpg
+  title: Language and Task Independent Text Categorization with Simple Language Models
+  title_html: Language and Task Independent Text Categorization with Simple Language
+    Models
+  url: https://www.aclweb.org/anthology/N03-1025
+  year: '2003'
+N03-1026:
+  author:
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  - first: Tracy H.
+    full: Tracy H. King
+    id: tracy-holloway-king
+    last: King
+  - first: Richard
+    full: Richard Crouch
+    id: richard-crouch
+    last: Crouch
+  - first: Annie
+    full: Annie Zaenen
+    id: annie-zaenen
+    last: Zaenen
+  author_string: Stefan Riezler, Tracy H. King, Richard Crouch, Annie Zaenen
+  bibkey: riezler-etal-2003-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '197'
+  page_last: '204'
+  pages: "197\u2013204"
+  paper_id: '26'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1026.jpg
+  title: Statistical Sentence Condensation using Ambiguity Packing and Stochastic
+    Disambiguation Methods for Lexical-Functional Grammar
+  title_html: Statistical Sentence Condensation using Ambiguity Packing and Stochastic
+    Disambiguation Methods for <span class="acl-fixed-case">L</span>exical-<span class="acl-fixed-case">F</span>unctional
+    <span class="acl-fixed-case">G</span>rammar
+  url: https://www.aclweb.org/anthology/N03-1026
+  year: '2003'
+N03-1027:
+  author:
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  - first: Michiel
+    full: Michiel Bacchiani
+    id: michiel-bacchiani
+    last: Bacchiani
+  author_string: Brian Roark, Michiel Bacchiani
+  bibkey: roark-bacchiani-2003-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '205'
+  page_last: '212'
+  pages: "205\u2013212"
+  paper_id: '27'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1027.jpg
+  title: Supervised and unsupervised PCFG adaptation to novel domains
+  title_html: Supervised and unsupervised <span class="acl-fixed-case">PCFG</span>
+    adaptation to novel domains
+  url: https://www.aclweb.org/anthology/N03-1027
+  year: '2003'
+N03-1028:
+  author:
+  - first: Fei
+    full: Fei Sha
+    id: fei-sha
+    last: Sha
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: Fei Sha, Fernando Pereira
+  bibkey: sha-pereira-2003-shallow
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '213'
+  page_last: '220'
+  pages: "213\u2013220"
+  paper_id: '28'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1028.jpg
+  title: Shallow Parsing with Conditional Random Fields
+  title_html: Shallow Parsing with Conditional Random Fields
+  url: https://www.aclweb.org/anthology/N03-1028
+  year: '2003'
+N03-1029:
+  author:
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  - first: Xiaopeng
+    full: Xiaopeng Tao
+    id: xiaopeng-tao
+    last: Tao
+  author_string: Stuart M. Shieber, Xiaopeng Tao
+  bibkey: shieber-tao-2003-comma
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '221'
+  page_last: '227'
+  pages: "221\u2013227"
+  paper_id: '29'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1029.jpg
+  title: Comma Restoration Using Constituency Information
+  title_html: Comma Restoration Using Constituency Information
+  url: https://www.aclweb.org/anthology/N03-1029
+  year: '2003'
+N03-1030:
+  author:
+  - first: Radu
+    full: Radu Soricut
+    id: radu-soricut
+    last: Soricut
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Radu Soricut, Daniel Marcu
+  bibkey: soricut-marcu-2003-sentence
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '228'
+  page_last: '235'
+  pages: "228\u2013235"
+  paper_id: '30'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1030.jpg
+  title: Sentence Level Discourse Parsing using Syntactic and Lexical Information
+  title_html: Sentence Level Discourse Parsing using Syntactic and Lexical Information
+  url: https://www.aclweb.org/anthology/N03-1030
+  year: '2003'
+N03-1031:
+  author:
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  - first: Rebecca
+    full: Rebecca Hwa
+    id: rebecca-hwa
+    last: Hwa
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  - first: Anoop
+    full: Anoop Sarkar
+    id: anoop-sarkar
+    last: Sarkar
+  - first: Julia
+    full: Julia Hockenmaier
+    id: julia-hockenmaier
+    last: Hockenmaier
+  - first: Paul
+    full: Paul Ruhlen
+    id: paul-ruhlen
+    last: Ruhlen
+  - first: Steven
+    full: Steven Baker
+    id: steven-baker
+    last: Baker
+  - first: Jeremiah
+    full: Jeremiah Crim
+    id: jeremiah-crim
+    last: Crim
+  author_string: Mark Steedman, Rebecca Hwa, Stephen Clark, Miles Osborne, Anoop Sarkar,
+    Julia Hockenmaier, Paul Ruhlen, Steven Baker, Jeremiah Crim
+  bibkey: steedman-etal-2003-example
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '236'
+  page_last: '243'
+  pages: "236\u2013243"
+  paper_id: '31'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1031.jpg
+  title: Example Selection for Bootstrapping Statistical Parsers
+  title_html: Example Selection for Bootstrapping Statistical Parsers
+  url: https://www.aclweb.org/anthology/N03-1031
+  year: '2003'
+N03-1032:
+  author:
+  - first: Egidio L.
+    full: Egidio L. Terra
+    id: egidio-l-terra
+    last: Terra
+  - first: Charles L. A.
+    full: Charles L. A. Clarke
+    id: charles-l-a-clarke
+    last: Clarke
+  author_string: Egidio L. Terra, Charles L. A. Clarke
+  bibkey: terra-clarke-2003-frequency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '244'
+  page_last: '251'
+  pages: "244\u2013251"
+  paper_id: '32'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1032.jpg
+  title: Frequency Estimates for Statistical Word Similarity Measures
+  title_html: Frequency Estimates for Statistical Word Similarity Measures
+  url: https://www.aclweb.org/anthology/N03-1032
+  year: '2003'
+N03-1033:
+  author:
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  - first: Yoram
+    full: Yoram Singer
+    id: yoram-singer
+    last: Singer
+  author_string: Kristina Toutanova, Dan Klein, Christopher D. Manning, Yoram Singer
+  bibkey: toutanova-etal-2003-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '252'
+  page_last: '259'
+  pages: "252\u2013259"
+  paper_id: '33'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1033.jpg
+  title: Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network
+  title_html: Feature-Rich Part-of-Speech Tagging with a Cyclic Dependency Network
+  url: https://www.aclweb.org/anthology/N03-1033
+  year: '2003'
+N03-1034:
+  author:
+  - first: Ellen M.
+    full: Ellen M. Voorhees
+    id: ellen-m-voorhees
+    last: Voorhees
+  author_string: Ellen M. Voorhees
+  bibkey: voorhees-2003-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '260'
+  page_last: '267'
+  pages: "260\u2013267"
+  paper_id: '34'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1034.jpg
+  title: 'Evaluating the Evaluation: A Case Study Using the TREC 2002 Question Answering
+    Track'
+  title_html: 'Evaluating the Evaluation: A Case Study Using the <span class="acl-fixed-case">TREC</span>
+    2002 Question Answering Track'
+  url: https://www.aclweb.org/anthology/N03-1034
+  year: '2003'
+N03-1035:
+  author:
+  - first: Nina
+    full: Nina Wacholder
+    id: nina-wacholder
+    last: Wacholder
+  - first: Peng
+    full: Peng Song
+    id: peng-song
+    last: Song
+  author_string: Nina Wacholder, Peng Song
+  bibkey: wacholder-song-2003-toward
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '268'
+  page_last: '275'
+  pages: "268\u2013275"
+  paper_id: '35'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1035.jpg
+  title: Toward a Task-based Gold Standard for Evaluation of NP Chunks and Technical
+    Terms
+  title_html: Toward a Task-based Gold Standard for Evaluation of <span class="acl-fixed-case">NP</span>
+    Chunks and Technical Terms
+  url: https://www.aclweb.org/anthology/N03-1035
+  year: '2003'
+N03-1036:
+  author:
+  - first: Dominic
+    full: Dominic Widdows
+    id: dominic-widdows
+    last: Widdows
+  author_string: Dominic Widdows
+  bibkey: widdows-2003-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '276'
+  page_last: '283'
+  pages: "276\u2013283"
+  paper_id: '36'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1036.jpg
+  title: Unsupervised methods for developing taxonomies by combining syntactic and
+    statistical information
+  title_html: Unsupervised methods for developing taxonomies by combining syntactic
+    and statistical information
+  url: https://www.aclweb.org/anthology/N03-1036
+  year: '2003'
+N03-1037:
+  author:
+  - first: Liang
+    full: Liang Zhou
+    id: liang-zhou
+    last: Zhou
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Liang Zhou, Eduard Hovy
+  bibkey: zhou-hovy-2003-web
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2003 Human Language Technology Conference of the North
+    American Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the 2003 Human Language Technology Conference of
+    the North <span class="acl-fixed-case">A</span>merican Chapter of the Association
+    for Computational Linguistics
+  page_first: '284'
+  page_last: '290'
+  pages: "284\u2013290"
+  paper_id: '37'
+  parent_volume_id: N03-1
+  pdf: https://www.aclweb.org/anthology/N03-1037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-1037.jpg
+  title: A Web-Trained Extraction Summarization System
+  title_html: A Web-Trained Extraction Summarization System
+  url: https://www.aclweb.org/anthology/N03-1037
+  year: '2003'
+N03-2000:
+  bibkey: naacl-2003-companion
+  bibtype: proceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  paper_id: '0'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2000.jpg
+  title: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  title_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  url: https://www.aclweb.org/anthology/N03-2000
+  year: '2003'
+N03-2001:
+  author:
+  - first: Shazia
+    full: Shazia Akhtar
+    id: shazia-akhtar
+    last: Akhtar
+  - first: Ronan G.
+    full: Ronan G. Reilly
+    id: ronan-g-reilly
+    last: Reilly
+  - first: John
+    full: John Dunnion
+    id: john-dunnion
+    last: Dunnion
+  author_string: Shazia Akhtar, Ronan G. Reilly, John Dunnion
+  bibkey: akhtar-etal-2003-automating
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '1'
+  page_last: '3'
+  pages: "1\u20133"
+  paper_id: '1'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2001.jpg
+  title: Automating XML markup of text documents
+  title_html: Automating <span class="acl-fixed-case">XML</span> markup of text documents
+  url: https://www.aclweb.org/anthology/N03-2001
+  year: '2003'
+N03-2002:
+  author:
+  - first: Jeff A.
+    full: Jeff A. Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  - first: Katrin
+    full: Katrin Kirchhoff
+    id: katrin-kirchhoff
+    last: Kirchhoff
+  author_string: Jeff A. Bilmes, Katrin Kirchhoff
+  bibkey: bilmes-kirchhoff-2003-factored
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '4'
+  page_last: '6'
+  pages: "4\u20136"
+  paper_id: '2'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2002.jpg
+  title: Factored Language Models and Generalized Parallel Backoff
+  title_html: Factored Language Models and Generalized Parallel Backoff
+  url: https://www.aclweb.org/anthology/N03-2002
+  year: '2003'
+N03-2003:
+  author:
+  - first: Ivan
+    full: Ivan Bulyko
+    id: ivan-bulyko
+    last: Bulyko
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  - first: Andreas
+    full: Andreas Stolcke
+    id: andreas-stolcke
+    last: Stolcke
+  author_string: Ivan Bulyko, Mari Ostendorf, Andreas Stolcke
+  bibkey: bulyko-etal-2003-getting
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '7'
+  page_last: '9'
+  pages: "7\u20139"
+  paper_id: '3'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2003.jpg
+  title: Getting More Mileage from Web Text Sources for Conversational Speech Language
+    Modeling using Class-Dependent Mixtures
+  title_html: Getting More Mileage from Web Text Sources for Conversational Speech
+    Language Modeling using Class-Dependent Mixtures
+  url: https://www.aclweb.org/anthology/N03-2003
+  year: '2003'
+N03-2004:
+  author:
+  - first: John
+    full: John Burger
+    id: john-d-burger
+    last: Burger
+  - first: John
+    full: John Henderson
+    id: john-henderson
+    last: Henderson
+  author_string: John Burger, John Henderson
+  bibkey: burger-henderson-2003-exploiting
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '10'
+  page_last: '12'
+  pages: "10\u201312"
+  paper_id: '4'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2004.jpg
+  title: Exploiting Diversity for Answering Questions
+  title_html: Exploiting Diversity for Answering Questions
+  url: https://www.aclweb.org/anthology/N03-2004
+  year: '2003'
+N03-2005:
+  author:
+  - first: Francine
+    full: Francine Chen
+    id: francine-chen
+    last: Chen
+  - first: Ayman
+    full: Ayman Farahat
+    id: ayman-farahat
+    last: Farahat
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  author_string: Francine Chen, Ayman Farahat, Thorsten Brants
+  bibkey: chen-etal-2003-story
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '13'
+  page_last: '15'
+  pages: "13\u201315"
+  paper_id: '5'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2005.jpg
+  title: Story Link Detection and New Event Detection are Asymmetric
+  title_html: Story Link Detection and New Event Detection are Asymmetric
+  url: https://www.aclweb.org/anthology/N03-2005
+  year: '2003'
+N03-2006:
+  author:
+  - first: Takao
+    full: Takao Doi
+    id: takao-doi
+    last: Doi
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Hirofumi
+    full: Hirofumi Yamamoto
+    id: hirofumi-yamamoto
+    last: Yamamoto
+  author_string: Takao Doi, Eiichiro Sumita, Hirofumi Yamamoto
+  bibkey: doi-etal-2003-adaptation
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '16'
+  page_last: '18'
+  pages: "16\u201318"
+  paper_id: '6'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2006.jpg
+  title: Adaptation Using Out-of-Domain Corpus within EBMT
+  title_html: Adaptation Using Out-of-Domain Corpus within <span class="acl-fixed-case">EBMT</span>
+  url: https://www.aclweb.org/anthology/N03-2006
+  year: '2003'
+N03-2007:
+  author:
+  - first: Shona
+    full: Shona Douglas
+    id: shona-douglas
+    last: Douglas
+  author_string: Shona Douglas
+  bibkey: douglas-2003-active
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '19'
+  page_last: '21'
+  pages: "19\u201321"
+  paper_id: '7'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2007.jpg
+  title: Active Learning for Classifying Phone Sequences from Unsupervised Phonotactic
+    Models
+  title_html: Active Learning for Classifying Phone Sequences from Unsupervised Phonotactic
+    Models
+  url: https://www.aclweb.org/anthology/N03-2007
+  year: '2003'
+N03-2008:
+  author:
+  - first: Michael
+    full: Michael Fleischman
+    id: michael-fleischman
+    last: Fleischman
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Michael Fleischman, Eduard Hovy
+  bibkey: fleischman-hovy-2003-maximum
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '22'
+  page_last: '24'
+  pages: "22\u201324"
+  paper_id: '8'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2008.jpg
+  title: A Maximum Entropy Approach to FrameNet Tagging
+  title_html: A Maximum Entropy Approach to <span class="acl-fixed-case">F</span>rame<span
+    class="acl-fixed-case">N</span>et Tagging
+  url: https://www.aclweb.org/anthology/N03-2008
+  year: '2003'
+N03-2009:
+  author:
+  - first: Kadri
+    full: Kadri Hacioglu
+    id: kadri-hacioglu
+    last: Hacioglu
+  - first: Wayne
+    full: Wayne Ward
+    id: wayne-ward
+    last: Ward
+  author_string: Kadri Hacioglu, Wayne Ward
+  bibkey: hacioglu-ward-2003-target
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '25'
+  page_last: '27'
+  pages: "25\u201327"
+  paper_id: '9'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2009.jpg
+  title: Target Word Detection and Semantic Role Chunking using Support Vector Machines
+  title_html: Target Word Detection and Semantic Role Chunking using Support Vector
+    Machines
+  url: https://www.aclweb.org/anthology/N03-2009
+  year: '2003'
+N03-2010:
+  author:
+  - first: Kadri
+    full: Kadri Hacioglu
+    id: kadri-hacioglu
+    last: Hacioglu
+  - first: Wayne
+    full: Wayne Ward
+    id: wayne-ward
+    last: Ward
+  author_string: Kadri Hacioglu, Wayne Ward
+  bibkey: hacioglu-ward-2003-question
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '28'
+  page_last: '30'
+  pages: "28\u201330"
+  paper_id: '10'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2010.jpg
+  title: Question Classification with Support Vector Machines and Error Correcting
+    Codes
+  title_html: Question Classification with Support Vector Machines and Error Correcting
+    Codes
+  url: https://www.aclweb.org/anthology/N03-2010
+  year: '2003'
+N03-2011:
+  author:
+  - first: Thomas
+    full: Thomas Hanneforth
+    id: thomas-hanneforth
+    last: Hanneforth
+  - first: Silvan
+    full: Silvan Heintze
+    id: silvan-heintze
+    last: Heintze
+  - first: Manfred
+    full: Manfred Stede
+    id: manfred-stede
+    last: Stede
+  author_string: Thomas Hanneforth, Silvan Heintze, Manfred Stede
+  bibkey: hanneforth-etal-2003-rhetorical
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '31'
+  page_last: '33'
+  pages: "31\u201333"
+  paper_id: '11'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2011.jpg
+  title: Rhetorical Parsing with Underspecification and Forests
+  title_html: Rhetorical Parsing with Underspecification and Forests
+  url: https://www.aclweb.org/anthology/N03-2011
+  year: '2003'
+N03-2012:
+  author:
+  - first: Dustin
+    full: Dustin Hillard
+    id: dustin-hillard
+    last: Hillard
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  - first: Elizabeth
+    full: Elizabeth Shriberg
+    id: elizabeth-shriberg
+    last: Shriberg
+  author_string: Dustin Hillard, Mari Ostendorf, Elizabeth Shriberg
+  bibkey: hillard-etal-2003-detection
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '34'
+  page_last: '36'
+  pages: "34\u201336"
+  paper_id: '12'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2012.jpg
+  title: 'Detection Of Agreement vs. Disagreement In Meetings: Training With Unlabeled
+    Data'
+  title_html: 'Detection Of Agreement vs. Disagreement In Meetings: Training With
+    Unlabeled Data'
+  url: https://www.aclweb.org/anthology/N03-2012
+  year: '2003'
+N03-2013:
+  author:
+  - first: Kenji
+    full: Kenji Imamura
+    id: kenji-imamura
+    last: Imamura
+  - first: Yasuhiro
+    full: Yasuhiro Akiba
+    id: yasuhiro-akiba
+    last: Akiba
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Kenji Imamura, Yasuhiro Akiba, Eiichiro Sumita
+  bibkey: imamura-etal-2003-automatic-expansion
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '37'
+  page_last: '39'
+  pages: "37\u201339"
+  paper_id: '13'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2013.jpg
+  title: Automatic Expansion of Equivalent Sentence Set Based on Syntactic Substitution
+  title_html: Automatic Expansion of Equivalent Sentence Set Based on Syntactic Substitution
+  url: https://www.aclweb.org/anthology/N03-2013
+  year: '2003'
+N03-2014:
+  author:
+  - first: Abraham
+    full: Abraham Ittycheriah
+    id: abraham-ittycheriah
+    last: Ittycheriah
+  - first: Lucian
+    full: Lucian Lita
+    id: lucian-vlad-lita
+    last: Lita
+  - first: Nanda
+    full: Nanda Kambhatla
+    id: nanda-kambhatla
+    last: Kambhatla
+  - first: Nicolas
+    full: Nicolas Nicolov
+    id: nicolas-nicolov
+    last: Nicolov
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  - first: Margo
+    full: Margo Stys
+    id: margo-stys-budzikowska
+    last: Stys
+  author_string: Abraham Ittycheriah, Lucian Lita, Nanda Kambhatla, Nicolas Nicolov,
+    Salim Roukos, Margo Stys
+  bibkey: ittycheriah-etal-2003-identifying
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '40'
+  page_last: '42'
+  pages: "40\u201342"
+  paper_id: '14'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2014.jpg
+  title: Identifying and Tracking Entity Mentions in a Maximum Entropy Framework
+  title_html: Identifying and Tracking Entity Mentions in a Maximum Entropy Framework
+  url: https://www.aclweb.org/anthology/N03-2014
+  year: '2003'
+N03-2015:
+  author:
+  - first: Howard
+    full: Howard Johnson
+    id: howard-johnson
+    last: Johnson
+  - first: Joel
+    full: Joel Martin
+    id: joel-martin
+    last: Martin
+  author_string: Howard Johnson, Joel Martin
+  bibkey: johnson-martin-2003-unsupervised
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '43'
+  page_last: '45'
+  pages: "43\u201345"
+  paper_id: '15'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2015.jpg
+  title: Unsupervised Learning of Morphology for English and Inuktitut
+  title_html: Unsupervised Learning of Morphology for <span class="acl-fixed-case">E</span>nglish
+    and <span class="acl-fixed-case">I</span>nuktitut
+  url: https://www.aclweb.org/anthology/N03-2015
+  year: '2003'
+N03-2016:
+  author:
+  - first: Grzegorz
+    full: Grzegorz Kondrak
+    id: grzegorz-kondrak
+    last: Kondrak
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Grzegorz Kondrak, Daniel Marcu, Kevin Knight
+  bibkey: kondrak-etal-2003-cognates
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '46'
+  page_last: '48'
+  pages: "46\u201348"
+  paper_id: '16'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2016.jpg
+  title: Cognates Can Improve Statistical Translation Models
+  title_html: Cognates Can Improve Statistical Translation Models
+  url: https://www.aclweb.org/anthology/N03-2016
+  year: '2003'
+N03-2017:
+  author:
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  - first: Colin
+    full: Colin Cherry
+    id: colin-cherry
+    last: Cherry
+  author_string: Dekang Lin, Colin Cherry
+  bibkey: lin-cherry-2003-word
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '49'
+  page_last: '51'
+  pages: "49\u201351"
+  paper_id: '17'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2017.jpg
+  title: Word Alignment with Cohesion Constraint
+  title_html: Word Alignment with Cohesion Constraint
+  url: https://www.aclweb.org/anthology/N03-2017
+  year: '2003'
+N03-2018:
+  author:
+  - first: Diane
+    full: Diane Litman
+    id: diane-litman
+    last: Litman
+  - first: Kate
+    full: Kate Forbes
+    id: kate-forbes-riley
+    last: Forbes
+  - first: Scott
+    full: Scott Silliman
+    id: scott-silliman
+    last: Silliman
+  author_string: Diane Litman, Kate Forbes, Scott Silliman
+  bibkey: litman-etal-2003-towards
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '52'
+  page_last: '54'
+  pages: "52\u201354"
+  paper_id: '18'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2018.jpg
+  title: Towards Emotion Prediction in Spoken Tutoring Dialogues
+  title_html: Towards Emotion Prediction in Spoken Tutoring Dialogues
+  url: https://www.aclweb.org/anthology/N03-2018
+  year: '2003'
+N03-2019:
+  author:
+  - first: Inderjeet
+    full: Inderjeet Mani
+    id: inderjeet-mani
+    last: Mani
+  - first: Barry
+    full: Barry Schiffman
+    id: barry-schiffman
+    last: Schiffman
+  - first: Jianping
+    full: Jianping Zhang
+    id: jianping-zhang
+    last: Zhang
+  author_string: Inderjeet Mani, Barry Schiffman, Jianping Zhang
+  bibkey: mani-etal-2003-inferring
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '55'
+  page_last: '57'
+  pages: "55\u201357"
+  paper_id: '19'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2019.jpg
+  title: Inferring Temporal Ordering of Events in News
+  title_html: Inferring Temporal Ordering of Events in News
+  url: https://www.aclweb.org/anthology/N03-2019
+  year: '2003'
+N03-2020:
+  author:
+  - first: Katsuya
+    full: Katsuya Masuda
+    id: katsuya-masuda
+    last: Masuda
+  - first: Takashi
+    full: Takashi Ninomiya
+    id: takashi-ninomiya
+    last: Ninomiya
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: Tomoko
+    full: Tomoko Ohta
+    id: tomoko-ohta
+    last: Ohta
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Katsuya Masuda, Takashi Ninomiya, Yusuke Miyao, Tomoko Ohta, Jun\u2019\
+    ichi Tsujii"
+  bibkey: masuda-etal-2003-robust
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '58'
+  page_last: '60'
+  pages: "58\u201360"
+  paper_id: '20'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2020.jpg
+  title: A Robust Retrieval Engine for Proximal and Structural Search
+  title_html: A Robust Retrieval Engine for Proximal and Structural Search
+  url: https://www.aclweb.org/anthology/N03-2020
+  year: '2003'
+N03-2021:
+  author:
+  - first: I. Dan
+    full: I. Dan Melamed
+    id: i-dan-melamed
+    last: Melamed
+  - first: Ryan
+    full: Ryan Green
+    id: ryan-green
+    last: Green
+  - first: Joseph P.
+    full: Joseph P. Turian
+    id: joseph-turian
+    last: Turian
+  author_string: I. Dan Melamed, Ryan Green, Joseph P. Turian
+  bibkey: melamed-etal-2003-precision
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '61'
+  page_last: '63'
+  pages: "61\u201363"
+  paper_id: '21'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2021.jpg
+  title: Precision and Recall of Machine Translation
+  title_html: Precision and Recall of Machine Translation
+  url: https://www.aclweb.org/anthology/N03-2021
+  year: '2003'
+N03-2022:
+  author:
+  - first: Behrang
+    full: Behrang Mohit
+    id: behrang-mohit
+    last: Mohit
+  - first: Srini
+    full: Srini Narayanan
+    id: srini-narayanan
+    last: Narayanan
+  author_string: Behrang Mohit, Srini Narayanan
+  bibkey: mohit-narayanan-2003-semantic
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '64'
+  page_last: '66'
+  pages: "64\u201366"
+  paper_id: '22'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2022.jpg
+  title: Semantic Extraction with Wide-Coverage Lexical Resources
+  title_html: Semantic Extraction with Wide-Coverage Lexical Resources
+  url: https://www.aclweb.org/anthology/N03-2022
+  year: '2003'
+N03-2023:
+  author:
+  - first: Preslav I.
+    full: Preslav I. Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Marti A.
+    full: Marti A. Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Preslav I. Nakov, Marti A. Hearst
+  bibkey: nakov-hearst-2003-category
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '67'
+  page_last: '69'
+  pages: "67\u201369"
+  paper_id: '23'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2023.jpg
+  title: Category-based Pseudowords
+  title_html: Category-based Pseudowords
+  url: https://www.aclweb.org/anthology/N03-2023
+  year: '2003'
+N03-2024:
+  author:
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Ani Nenkova, Kathleen McKeown
+  bibkey: nenkova-mckeown-2003-references
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '70'
+  page_last: '72'
+  pages: "70\u201372"
+  paper_id: '24'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2024.jpg
+  title: 'References to Named Entities: a Corpus Study'
+  title_html: 'References to Named Entities: a Corpus Study'
+  url: https://www.aclweb.org/anthology/N03-2024
+  year: '2003'
+N03-2025:
+  author:
+  - first: Cheng
+    full: Cheng Niu
+    id: cheng-niu
+    last: Niu
+  - first: Wei
+    full: Wei Li
+    id: wei-li
+    last: Li
+  - first: Jihong
+    full: Jihong Ding
+    id: jihong-ding
+    last: Ding
+  - first: Rohini K.
+    full: Rohini K. Srihari
+    id: rohini-k-srihari
+    last: Srihari
+  author_string: Cheng Niu, Wei Li, Jihong Ding, Rohini K. Srihari
+  bibkey: niu-etal-2003-bootstrapping
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '73'
+  page_last: '75'
+  pages: "73\u201375"
+  paper_id: '25'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2025.jpg
+  title: Bootstrapping for Named Entity Tagging Using Concept-based Seeds
+  title_html: Bootstrapping for Named Entity Tagging Using Concept-based Seeds
+  url: https://www.aclweb.org/anthology/N03-2025
+  year: '2003'
+N03-2026:
+  author:
+  - first: Douglas W.
+    full: Douglas W. Oard
+    id: douglas-w-oard
+    last: Oard
+  - first: David
+    full: David Doermann
+    id: david-doermann
+    last: Doermann
+  - first: Bonnie
+    full: Bonnie Dorr
+    id: bonnie-dorr
+    last: Dorr
+  - first: Daqing
+    full: Daqing He
+    id: daqing-he
+    last: He
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Amy
+    full: Amy Weinberg
+    id: amy-weinberg
+    last: Weinberg
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  - first: Sanjeev
+    full: Sanjeev Khudanpur
+    id: sanjeev-khudanpur
+    last: Khudanpur
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  - first: Anton
+    full: Anton Leuski
+    id: anton-leuski
+    last: Leuski
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Douglas W. Oard, David Doermann, Bonnie Dorr, Daqing He, Philip Resnik,
+    Amy Weinberg, William Byrne, Sanjeev Khudanpur, David Yarowsky, Anton Leuski,
+    Philipp Koehn, Kevin Knight
+  bibkey: oard-etal-2003-desparately
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '76'
+  page_last: '78'
+  pages: "76\u201378"
+  paper_id: '26'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2026.jpg
+  title: Desparately Seeking Cebuano
+  title_html: Desparately Seeking <span class="acl-fixed-case">C</span>ebuano
+  url: https://www.aclweb.org/anthology/N03-2026
+  year: '2003'
+N03-2027:
+  author:
+  - first: Leonid
+    full: Leonid Peshkin
+    id: leonid-peshkin
+    last: Peshkin
+  - first: Avi
+    full: Avi Pfeffer
+    id: avi-pfeffer
+    last: Pfeffer
+  - first: Virginia
+    full: Virginia Savova
+    id: virginia-savova
+    last: Savova
+  author_string: Leonid Peshkin, Avi Pfeffer, Virginia Savova
+  bibkey: peshkin-etal-2003-bayesian
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '79'
+  page_last: '81'
+  pages: "79\u201381"
+  paper_id: '27'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2027.jpg
+  title: Bayesian Nets for Syntactic Categorization of Novel Words
+  title_html: <span class="acl-fixed-case">B</span>ayesian Nets for Syntactic Categorization
+    of Novel Words
+  url: https://www.aclweb.org/anthology/N03-2027
+  year: '2003'
+N03-2028:
+  author:
+  - first: Jochen
+    full: Jochen Peters
+    id: jochen-peters
+    last: Peters
+  author_string: Jochen Peters
+  bibkey: peters-2003-lm
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '82'
+  page_last: '84'
+  pages: "82\u201384"
+  paper_id: '28'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2028.jpg
+  title: LM Studies on Filled Pauses in Spontaneous Medical Dictation
+  title_html: <span class="acl-fixed-case">LM</span> Studies on Filled Pauses in Spontaneous
+    Medical Dictation
+  url: https://www.aclweb.org/anthology/N03-2028
+  year: '2003'
+N03-2029:
+  author:
+  - first: Deepak
+    full: Deepak Ravichandran
+    id: deepak-ravichandran
+    last: Ravichandran
+  - first: Abraham
+    full: Abraham Ittycheriah
+    id: abraham-ittycheriah
+    last: Ittycheriah
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  author_string: Deepak Ravichandran, Abraham Ittycheriah, Salim Roukos
+  bibkey: ravichandran-etal-2003-automatic
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '85'
+  page_last: '87'
+  pages: "85\u201387"
+  paper_id: '29'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2029.jpg
+  title: Automatic Derivation of Surface Text Patterns for a Maximum Entropy Based
+    Question Answering System
+  title_html: Automatic Derivation of Surface Text Patterns for a Maximum Entropy
+    Based Question Answering System
+  url: https://www.aclweb.org/anthology/N03-2029
+  year: '2003'
+N03-2030:
+  author:
+  - first: Carolyn P.
+    full: Carolyn P. Rose
+    id: carolyn-rose
+    last: Rose
+  - first: Antonio
+    full: Antonio Roque
+    id: antonio-roque
+    last: Roque
+  - first: Dumisizwe
+    full: Dumisizwe Bhembe
+    id: dumisizwe-bhembe
+    last: Bhembe
+  - first: Kurt
+    full: Kurt VanLehn
+    id: kurt-vanlehn
+    last: VanLehn
+  author_string: Carolyn P. Rose, Antonio Roque, Dumisizwe Bhembe, Kurt VanLehn
+  bibkey: rose-etal-2003-hybrid
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '88'
+  page_last: '90'
+  pages: "88\u201390"
+  paper_id: '30'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2030.jpg
+  title: A Hybrid Approach to Content Analysis for Automatic Essay Grading
+  title_html: A Hybrid Approach to Content Analysis for Automatic Essay Grading
+  url: https://www.aclweb.org/anthology/N03-2030
+  year: '2003'
+N03-2031:
+  author:
+  - first: Sid-Ahmed
+    full: Sid-Ahmed Selouani
+    id: sid-ahmed-selouani
+    last: Selouani
+  - first: Hesham
+    full: Hesham Tolba
+    id: hesham-tolba
+    last: Tolba
+  - first: Douglas
+    full: "Douglas O\u2019Shaughnessy"
+    id: douglas-oshaughnessy
+    last: "O\u2019Shaughnessy"
+  author_string: "Sid-Ahmed Selouani, Hesham Tolba, Douglas O\u2019Shaughnessy"
+  bibkey: selouani-etal-2003-auditory
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '91'
+  page_last: '93'
+  pages: "91\u201393"
+  paper_id: '31'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2031.jpg
+  title: Auditory-based Acoustic Distinctive Features and Spectral Cues for Robust
+    Automatic Speech Recognition in Low-SNR Car Environments
+  title_html: Auditory-based Acoustic Distinctive Features and Spectral Cues for Robust
+    Automatic Speech Recognition in Low-<span class="acl-fixed-case">SNR</span> Car
+    Environments
+  url: https://www.aclweb.org/anthology/N03-2031
+  year: '2003'
+N03-2032:
+  author:
+  - first: Riccardo
+    full: Riccardo Serafin
+    id: riccardo-serafin
+    last: Serafin
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  - first: Michael
+    full: Michael Glass
+    id: michael-glass
+    last: Glass
+  author_string: Riccardo Serafin, Barbara Di Eugenio, Michael Glass
+  bibkey: serafin-etal-2003-latent
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '94'
+  page_last: '96'
+  pages: "94\u201396"
+  paper_id: '32'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2032.jpg
+  title: Latent Semantic Analysis for Dialogue Act Classification
+  title_html: Latent Semantic Analysis for Dialogue Act Classification
+  url: https://www.aclweb.org/anthology/N03-2032
+  year: '2003'
+N03-2033:
+  author:
+  - first: Rong
+    full: Rong Tang
+    id: rong-tang
+    last: Tang
+  - first: Kwong Bor
+    full: Kwong Bor Ng
+    id: kwong-bor-ng
+    last: Ng
+  - first: Tomek
+    full: Tomek Strzalkowski
+    id: tomek-strzalkowski
+    last: Strzalkowski
+  - first: Paul B.
+    full: Paul B. Kantor
+    id: paul-kantor
+    last: Kantor
+  author_string: Rong Tang, Kwong Bor Ng, Tomek Strzalkowski, Paul B. Kantor
+  bibkey: tang-etal-2003-automatically
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '97'
+  page_last: '99'
+  pages: "97\u201399"
+  paper_id: '33'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2033.jpg
+  title: Automatically Predicting Information Quality in News Documents
+  title_html: Automatically Predicting Information Quality in News Documents
+  url: https://www.aclweb.org/anthology/N03-2033
+  year: '2003'
+N03-2034:
+  author:
+  - first: Elena
+    full: Elena Terenzi
+    id: elena-terenzi
+    last: Terenzi
+  - first: Barbara
+    full: Barbara Di Eugenio
+    id: barbara-di-eugenio
+    last: Di Eugenio
+  author_string: Elena Terenzi, Barbara Di Eugenio
+  bibkey: terenzi-di-eugenio-2003-building
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '100'
+  page_last: '102'
+  pages: "100\u2013102"
+  paper_id: '34'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2034.jpg
+  title: Building lexical semantic representations for Natural Language instructions
+  title_html: Building lexical semantic representations for Natural Language instructions
+  url: https://www.aclweb.org/anthology/N03-2034
+  year: '2003'
+N03-2035:
+  author:
+  - first: Virongrong
+    full: Virongrong Tesprasit
+    id: virongrong-tesprasit
+    last: Tesprasit
+  - first: Paisarn
+    full: Paisarn Charoenpornsawat
+    id: paisarn-charoenpornsawat
+    last: Charoenpornsawat
+  - first: Virach
+    full: Virach Sornlertlamvanich
+    id: virach-sornlertlamvanich
+    last: Sornlertlamvanich
+  author_string: Virongrong Tesprasit, Paisarn Charoenpornsawat, Virach Sornlertlamvanich
+  bibkey: tesprasit-etal-2003-context
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '103'
+  page_last: '105'
+  pages: "103\u2013105"
+  paper_id: '35'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2035.jpg
+  title: A Context-Sensitive Homograph Disambiguation in Thai Text-to-Speech Synthesis
+  title_html: A Context-Sensitive Homograph Disambiguation in <span class="acl-fixed-case">T</span>hai
+    Text-to-Speech Synthesis
+  url: https://www.aclweb.org/anthology/N03-2035
+  year: '2003'
+N03-2036:
+  author:
+  - first: Christoph
+    full: Christoph Tillmann
+    id: christoph-tillmann
+    last: Tillmann
+  - first: Fei
+    full: Fei Xia
+    id: fei-xia
+    last: Xia
+  author_string: Christoph Tillmann, Fei Xia
+  bibkey: tillmann-xia-2003-phrase
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '106'
+  page_last: '108'
+  pages: "106\u2013108"
+  paper_id: '36'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2036.jpg
+  title: A Phrase-based Unigram Model for Statistical Machine Translation
+  title_html: A Phrase-based Unigram Model for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/N03-2036
+  year: '2003'
+N03-2037:
+  author:
+  - first: Ellen M.
+    full: Ellen M. Voorhees
+    id: ellen-m-voorhees
+    last: Voorhees
+  author_string: Ellen M. Voorhees
+  bibkey: voorhees-2003-evaluating-answers
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '109'
+  page_last: '111'
+  pages: "109\u2013111"
+  paper_id: '37'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2037.jpg
+  title: Evaluating Answers to Definition Questions
+  title_html: Evaluating Answers to Definition Questions
+  url: https://www.aclweb.org/anthology/N03-2037
+  year: '2003'
+N03-2038:
+  author:
+  - first: Hua
+    full: Hua Yu
+    id: hua-yu
+    last: Yu
+  - first: Tanja
+    full: Tanja Schultz
+    id: tanja-schultz
+    last: Schultz
+  author_string: Hua Yu, Tanja Schultz
+  bibkey: yu-schultz-2003-implicit
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Short Papers
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Short Papers
+  page_first: '112'
+  page_last: '114'
+  pages: "112\u2013114"
+  paper_id: '38'
+  parent_volume_id: N03-2
+  pdf: https://www.aclweb.org/anthology/N03-2038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-2038.jpg
+  title: Implicit Trajectory Modeling through Gaussian Transition Models for Speech
+    Recognition
+  title_html: Implicit Trajectory Modeling through <span class="acl-fixed-case">G</span>aussian
+    Transition Models for Speech Recognition
+  url: https://www.aclweb.org/anthology/N03-2038
+  year: '2003'
+N03-3000:
+  bibkey: naacl-2003-hlt
+  bibtype: proceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  paper_id: '0'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3000.jpg
+  title: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  title_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span class="acl-fixed-case">NAACL</span>
+    2003 Student Research Workshop
+  url: https://www.aclweb.org/anthology/N03-3000
+  year: '2003'
+N03-3001:
+  author:
+  - first: Ramesh
+    full: Ramesh Nallapati
+    id: ramesh-nallapati
+    last: Nallapati
+  author_string: Ramesh Nallapati
+  bibkey: nallapati-2003-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3001.jpg
+  title: Semantic Language Models for Topic Detection and Tracking
+  title_html: Semantic Language Models for Topic Detection and Tracking
+  url: https://www.aclweb.org/anthology/N03-3001
+  year: '2003'
+N03-3002:
+  author:
+  - first: Sarah
+    full: Sarah Borys
+    id: sarah-borys
+    last: Borys
+  author_string: Sarah Borys
+  bibkey: borys-2003-importance
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '7'
+  page_last: '12'
+  pages: "7\u201312"
+  paper_id: '2'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3002.jpg
+  title: The Importance of Prosodic Factors in Phoneme Modeling with Applications
+    to Speech Recognition
+  title_html: The Importance of Prosodic Factors in Phoneme Modeling with Applications
+    to Speech Recognition
+  url: https://www.aclweb.org/anthology/N03-3002
+  year: '2003'
+N03-3003:
+  author:
+  - first: Sandra
+    full: Sandra Williams
+    id: sandra-williams
+    last: Williams
+  author_string: Sandra Williams
+  bibkey: williams-2003-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '13'
+  page_last: '18'
+  pages: "13\u201318"
+  paper_id: '3'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3003.jpg
+  title: Language choice models for microplanning and readability
+  title_html: Language choice models for microplanning and readability
+  url: https://www.aclweb.org/anthology/N03-3003
+  year: '2003'
+N03-3004:
+  author:
+  - first: Amruta
+    full: Amruta Purandare
+    id: amruta-purandare
+    last: Purandare
+  author_string: Amruta Purandare
+  bibkey: purandare-2003-discriminating
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '19'
+  page_last: '24'
+  pages: "19\u201324"
+  paper_id: '4'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3004.jpg
+  title: "Discriminating Among Word Senses Using McQuitty\u2019s Similarity Analysis"
+  title_html: "Discriminating Among Word Senses Using <span class=\"acl-fixed-case\"\
+    >M</span>c<span class=\"acl-fixed-case\">Q</span>uitty\u2019s Similarity Analysis"
+  url: https://www.aclweb.org/anthology/N03-3004
+  year: '2003'
+N03-3005:
+  author:
+  - first: Cosmin
+    full: Cosmin Munteanu
+    id: cosmin-munteanu
+    last: Munteanu
+  author_string: Cosmin Munteanu
+  bibkey: munteanu-2003-indexing
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '25'
+  page_last: '30'
+  pages: "25\u201330"
+  paper_id: '5'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3005.jpg
+  title: Indexing methods for efficient parsing
+  title_html: Indexing methods for efficient parsing
+  url: https://www.aclweb.org/anthology/N03-3005
+  year: '2003'
+N03-3006:
+  author:
+  - first: Gerold
+    full: Gerold Schneider
+    id: gerold-schneider
+    last: Schneider
+  author_string: Gerold Schneider
+  bibkey: schneider-2003-low
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '31'
+  page_last: '36'
+  pages: "31\u201336"
+  paper_id: '6'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3006.jpg
+  title: A low-complexity, broad-coverage probabilistic Dependency Parser for English
+  title_html: A low-complexity, broad-coverage probabilistic Dependency Parser for
+    <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/N03-3006
+  year: '2003'
+N03-3007:
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Yang Liu
+  bibkey: liu-2003-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '37'
+  page_last: '42'
+  pages: "37\u201342"
+  paper_id: '7'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3007.jpg
+  title: Word Fragments Identification Using Acoustic-Prosodic Features in Conversational
+    Speech
+  title_html: Word Fragments Identification Using Acoustic-Prosodic Features in Conversational
+    Speech
+  url: https://www.aclweb.org/anthology/N03-3007
+  year: '2003'
+N03-3008:
+  author:
+  - first: Juha
+    full: Juha Makkonen
+    id: juha-makkonen
+    last: Makkonen
+  author_string: Juha Makkonen
+  bibkey: makkonen-2003-investigations
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '43'
+  page_last: '48'
+  pages: "43\u201348"
+  paper_id: '8'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3008.jpg
+  title: Investigations on Event Evolution on TDT
+  title_html: Investigations on Event Evolution on <span class="acl-fixed-case">TDT</span>
+  url: https://www.aclweb.org/anthology/N03-3008
+  year: '2003'
+N03-3009:
+  author:
+  - first: Nicola
+    full: Nicola Stokes
+    id: nicola-stokes
+    last: Stokes
+  author_string: Nicola Stokes
+  bibkey: stokes-2003-spoken
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '49'
+  page_last: '54'
+  pages: "49\u201354"
+  paper_id: '9'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3009.jpg
+  title: Spoken and Written News Story Segmentation Using Lexical Chains
+  title_html: Spoken and Written News Story Segmentation Using Lexical Chains
+  url: https://www.aclweb.org/anthology/N03-3009
+  year: '2003'
+N03-3010:
+  author:
+  - first: Donghui
+    full: Donghui Feng
+    id: donghui-feng
+    last: Feng
+  author_string: Donghui Feng
+  bibkey: feng-2003-cooperative
+  bibtype: inproceedings
+  booktitle: Proceedings of the HLT-NAACL 2003 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 Student Research Workshop
+  page_first: '55'
+  page_last: '60'
+  pages: "55\u201360"
+  paper_id: '10'
+  parent_volume_id: N03-3
+  pdf: https://www.aclweb.org/anthology/N03-3010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-3010.jpg
+  title: Cooperative model-based language understanding
+  title_html: Cooperative model-based language understanding
+  url: https://www.aclweb.org/anthology/N03-3010
+  year: '2003'
+N03-4000:
+  bibkey: naacl-2003-companion-hlt
+  bibtype: proceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  paper_id: '0'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4000.jpg
+  title: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  title_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  url: https://www.aclweb.org/anthology/N03-4000
+  year: '2003'
+N03-4001:
+  author:
+  - first: Yaser
+    full: Yaser Al-Onaizan
+    id: yaser-al-onaizan
+    last: Al-Onaizan
+  - first: Radu
+    full: Radu Florian
+    id: radu-florian
+    last: Florian
+  - first: Martin
+    full: Martin Franz
+    id: martin-franz
+    last: Franz
+  - first: Hany
+    full: Hany Hassan
+    id: hany-hassan
+    last: Hassan
+  - first: Young-Suk
+    full: Young-Suk Lee
+    id: young-suk-lee
+    last: Lee
+  - first: J. Scott
+    full: J. Scott McCarley
+    id: j-scott-mccarley
+    last: McCarley
+  - first: Kishore
+    full: Kishore Papineni
+    id: kishore-papineni
+    last: Papineni
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  - first: Jeffrey
+    full: Jeffrey Sorensen
+    id: jeffrey-sorensen
+    last: Sorensen
+  - first: Christoph
+    full: Christoph Tillmann
+    id: christoph-tillmann
+    last: Tillmann
+  - first: Todd
+    full: Todd Ward
+    id: todd-ward
+    last: Ward
+  - first: Fei
+    full: Fei Xia
+    id: fei-xia
+    last: Xia
+  author_string: Yaser Al-Onaizan, Radu Florian, Martin Franz, Hany Hassan, Young-Suk
+    Lee, J. Scott McCarley, Kishore Papineni, Salim Roukos, Jeffrey Sorensen, Christoph
+    Tillmann, Todd Ward, Fei Xia
+  bibkey: al-onaizan-etal-2003-tips
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '1'
+  page_last: '2'
+  pages: "1\u20132"
+  paper_id: '1'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4001.jpg
+  title: 'TIPS: A Translingual Information Processing System'
+  title_html: '<span class="acl-fixed-case">TIPS</span>: A Translingual Information
+    Processing System'
+  url: https://www.aclweb.org/anthology/N03-4001
+  year: '2003'
+N03-4002:
+  author:
+  - first: Breck
+    full: Breck Baldwin
+    id: breck-baldwin
+    last: Baldwin
+  - first: Bob
+    full: Bob Carpenter
+    id: bob-carpenter
+    last: Carpenter
+  - first: Aaron
+    full: Aaron Ross
+    id: aaron-ross
+    last: Ross
+  author_string: Breck Baldwin, Bob Carpenter, Aaron Ross
+  bibkey: baldwin-etal-2003-alias
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '3'
+  page_last: '4'
+  pages: "3\u20134"
+  paper_id: '2'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4002.jpg
+  title: Alias-i Threat Trackers
+  title_html: Alias-i Threat Trackers
+  url: https://www.aclweb.org/anthology/N03-4002
+  year: '2003'
+N03-4003:
+  author:
+  - first: Songsak
+    full: Songsak Channarukul
+    id: songsak-channarukul
+    last: Channarukul
+  - first: Susan W.
+    full: Susan W. McRoy
+    id: susan-w-mcroy
+    last: McRoy
+  - first: Syed S.
+    full: Syed S. Ali
+    id: syed-s-ali
+    last: Ali
+  author_string: Songsak Channarukul, Susan W. McRoy, Syed S. Ali
+  bibkey: channarukul-etal-2003-doghed
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '5'
+  page_last: '6'
+  pages: "5\u20136"
+  paper_id: '3'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4003.jpg
+  title: 'DOGHED: A Template-Based Generator for Multimodal Dialog Systems Targeting
+    Heterogeneous Devices'
+  title_html: '<span class="acl-fixed-case">DOGHED</span>: A Template-Based Generator
+    for Multimodal Dialog Systems Targeting Heterogeneous Devices'
+  url: https://www.aclweb.org/anthology/N03-4003
+  year: '2003'
+N03-4004:
+  author:
+  - first: Sean
+    full: Sean Colbath
+    id: sean-colbath
+    last: Colbath
+  - first: Francis
+    full: Francis Kubala
+    id: francis-kubala
+    last: Kubala
+  author_string: Sean Colbath, Francis Kubala
+  bibkey: colbath-kubala-2003-tap
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '7'
+  page_last: '8'
+  pages: "7\u20138"
+  paper_id: '4'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4004.jpg
+  title: "TAP-XL: An Automated Analyst\u2019s Assistant"
+  title_html: "<span class=\"acl-fixed-case\">TAP</span>-<span class=\"acl-fixed-case\"\
+    >XL</span>: An Automated Analyst\u2019s Assistant"
+  url: https://www.aclweb.org/anthology/N03-4004
+  year: '2003'
+N03-4005:
+  author:
+  - first: John
+    full: John Dowding
+    id: john-dowding
+    last: Dowding
+  - first: James
+    full: James Hieronymus
+    id: james-hieronymus
+    last: Hieronymus
+  author_string: John Dowding, James Hieronymus
+  bibkey: dowding-hieronymus-2003-spoken
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '9'
+  page_last: '10'
+  pages: "9\u201310"
+  paper_id: '5'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4005.jpg
+  title: "A Spoken Dialogue Interface to a Geologist\u2019s Field Assistant"
+  title_html: "A Spoken Dialogue Interface to a Geologist\u2019s Field Assistant"
+  url: https://www.aclweb.org/anthology/N03-4005
+  year: '2003'
+N03-4006:
+  author:
+  - first: Daniel M.
+    full: Daniel M. Dunlavy
+    id: daniel-m-dunlavy
+    last: Dunlavy
+  - first: John
+    full: John Conroy
+    id: john-conroy
+    last: Conroy
+  - first: Dianne P.
+    full: "Dianne P. O\u2019Leary"
+    id: dianne-p-oleary
+    last: "O\u2019Leary"
+  author_string: "Daniel M. Dunlavy, John Conroy, Dianne P. O\u2019Leary"
+  bibkey: dunlavy-etal-2003-qcs
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '11'
+  page_last: '12'
+  pages: "11\u201312"
+  paper_id: '6'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4006.jpg
+  title: 'QCS: A Tool for Querying, Clustering, and Summarizing Documents'
+  title_html: '<span class="acl-fixed-case">QCS</span>: A Tool for Querying, Clustering,
+    and Summarizing Documents'
+  url: https://www.aclweb.org/anthology/N03-4006
+  year: '2003'
+N03-4007:
+  author:
+  - first: Vangelis
+    full: Vangelis Karkaletsis
+    id: vangelis-karkaletsis
+    last: Karkaletsis
+  - first: Constantine D.
+    full: Constantine D. Spyropoulos
+    id: constantine-d-spyropoulos
+    last: Spyropoulos
+  - first: Dimitris
+    full: Dimitris Souflis
+    id: dimitris-souflis
+    last: Souflis
+  - first: Claire
+    full: Claire Grover
+    id: claire-grover
+    last: Grover
+  - first: Ben
+    full: Ben Hachey
+    id: ben-hachey
+    last: Hachey
+  - first: Maria Teresa
+    full: Maria Teresa Pazienza
+    id: maria-teresa-pazienza
+    last: Pazienza
+  - first: Michele
+    full: Michele Vindigni
+    id: michele-vindigni
+    last: Vindigni
+  - first: Emmanuel
+    full: Emmanuel Cartier
+    id: emmanuel-cartier
+    last: Cartier
+  - first: Jose
+    full: Jose Coch
+    id: jose-coch
+    last: Coch
+  author_string: Vangelis Karkaletsis, Constantine D. Spyropoulos, Dimitris Souflis,
+    Claire Grover, Ben Hachey, Maria Teresa Pazienza, Michele Vindigni, Emmanuel Cartier,
+    Jose Coch
+  bibkey: karkaletsis-etal-2003-demonstration
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '13'
+  page_last: '14'
+  pages: "13\u201314"
+  paper_id: '7'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4007.jpg
+  title: Demonstration of the CROSSMARC System
+  title_html: Demonstration of the <span class="acl-fixed-case">CROSSMARC</span> System
+  url: https://www.aclweb.org/anthology/N03-4007
+  year: '2003'
+N03-4008:
+  author:
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: John
+    full: John Chen
+    id: john-chen
+    last: Chen
+  - first: David
+    full: David Elson
+    id: david-elson
+    last: Elson
+  - first: David
+    full: David Evans
+    id: david-k-evans
+    last: Evans
+  - first: Judith
+    full: Judith Klavans
+    id: judith-l-klavans
+    last: Klavans
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  - first: Barry
+    full: Barry Schiffman
+    id: barry-schiffman
+    last: Schiffman
+  - first: Sergey
+    full: Sergey Sigelman
+    id: sergey-sigelman
+    last: Sigelman
+  author_string: Kathleen McKeown, Regina Barzilay, John Chen, David Elson, David
+    Evans, Judith Klavans, Ani Nenkova, Barry Schiffman, Sergey Sigelman
+  bibkey: mckeown-etal-2003-columbias
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '15'
+  page_last: '16'
+  pages: "15\u201316"
+  paper_id: '8'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4008.jpg
+  title: "Columbia\u2019s Newsblaster: New Features and Future Directions"
+  title_html: "<span class=\"acl-fixed-case\">C</span>olumbia\u2019s Newsblaster:\
+    \ New Features and Future Directions"
+  url: https://www.aclweb.org/anthology/N03-4008
+  year: '2003'
+N03-4009:
+  author:
+  - first: Thomas
+    full: Thomas Morton
+    id: thomas-s-morton
+    last: Morton
+  - first: Jeremy
+    full: Jeremy LaCivita
+    id: jeremy-lacivita
+    last: LaCivita
+  author_string: Thomas Morton, Jeremy LaCivita
+  bibkey: morton-lacivita-2003-wordfreak
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '17'
+  page_last: '18'
+  pages: "17\u201318"
+  paper_id: '9'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4009.jpg
+  title: 'WordFreak: An Open Tool for Linguistic Annotation'
+  title_html: '<span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">F</span>reak:
+    An Open Tool for Linguistic Annotation'
+  url: https://www.aclweb.org/anthology/N03-4009
+  year: '2003'
+N03-4010:
+  author:
+  - first: Eric
+    full: Eric Nyberg
+    id: eric-nyberg
+    last: Nyberg
+  - first: Robert
+    full: Robert Frederking
+    id: robert-frederking
+    last: Frederking
+  author_string: Eric Nyberg, Robert Frederking
+  bibkey: nyberg-frederking-2003-javelin
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '19'
+  page_last: '20'
+  pages: "19\u201320"
+  paper_id: '10'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4010.jpg
+  title: 'JAVELIN: A Flexible, Planner-Based Architecture for Question Answering'
+  title_html: '<span class="acl-fixed-case">JAVELIN</span>: A Flexible, Planner-Based
+    Architecture for Question Answering'
+  url: https://www.aclweb.org/anthology/N03-4010
+  year: '2003'
+N03-4011:
+  author:
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Patrick Pantel, Dekang Lin
+  bibkey: pantel-lin-2003-automatically
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '21'
+  page_last: '22'
+  pages: "21\u201322"
+  paper_id: '11'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4011.jpg
+  title: Automatically Discovering Word Senses
+  title_html: Automatically Discovering Word Senses
+  url: https://www.aclweb.org/anthology/N03-4011
+  year: '2003'
+N03-4012:
+  author:
+  - first: Andrew E.
+    full: Andrew E. Smith
+    id: andrew-smith
+    last: Smith
+  author_string: Andrew E. Smith
+  bibkey: smith-2003-automatic
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '23'
+  page_last: '24'
+  pages: "23\u201324"
+  paper_id: '12'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4012.jpg
+  title: Automatic Extraction of Semantic Networks from Text using Leximancer
+  title_html: Automatic Extraction of Semantic Networks from Text using Leximancer
+  url: https://www.aclweb.org/anthology/N03-4012
+  year: '2003'
+N03-4013:
+  author:
+  - first: Kiyoshi
+    full: Kiyoshi Sudo
+    id: kiyoshi-sudo
+    last: Sudo
+  - first: Satoshi
+    full: Satoshi Sekine
+    id: satoshi-sekine
+    last: Sekine
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Kiyoshi Sudo, Satoshi Sekine, Ralph Grishman
+  bibkey: sudo-etal-2003-pre
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '25'
+  page_last: '26'
+  pages: "25\u201326"
+  paper_id: '13'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4013.jpg
+  title: "pre-CODIE\u2013Crosslingual On-Demand Information Extraction"
+  title_html: "pre-<span class=\"acl-fixed-case\">CODIE</span>\u2013Crosslingual On-Demand\
+    \ Information Extraction"
+  url: https://www.aclweb.org/anthology/N03-4013
+  year: '2003'
+N03-4014:
+  author:
+  - first: Paul
+    full: Paul Thompson
+    id: paul-thompson
+    last: Thompson
+  author_string: Paul Thompson
+  bibkey: thompson-2003-dynamic
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '27'
+  page_last: '28'
+  pages: "27\u201328"
+  paper_id: '14'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4014.jpg
+  title: 'Dynamic Integration of Distributed Semantic Services: Infrastructure for
+    Process Queries and Question Answering'
+  title_html: 'Dynamic Integration of Distributed Semantic Services: Infrastructure
+    for Process Queries and Question Answering'
+  url: https://www.aclweb.org/anthology/N03-4014
+  year: '2003'
+N03-4015:
+  author:
+  - first: Alex
+    full: Alex Waibel
+    id: alex-waibel
+    last: Waibel
+  - first: Ahmed
+    full: Ahmed Badran
+    id: ahmed-badran
+    last: Badran
+  - first: Alan W.
+    full: Alan W. Black
+    id: alan-w-black
+    last: Black
+  - first: Robert
+    full: Robert Frederking
+    id: robert-frederking
+    last: Frederking
+  - first: Donna
+    full: Donna Gates
+    id: donna-gates
+    last: Gates
+  - first: Alon
+    full: Alon Lavie
+    id: alon-lavie
+    last: Lavie
+  - first: Lori
+    full: Lori Levin
+    id: lori-levin
+    last: Levin
+  - first: Kevin
+    full: Kevin Lenzo
+    id: kevin-lenzo
+    last: Lenzo
+  - first: Laura Mayfield
+    full: Laura Mayfield Tomokiyo
+    id: laura-mayfield-tomokiyo
+    last: Tomokiyo
+  - first: Juergen
+    full: Juergen Reichert
+    id: juergen-reichert
+    last: Reichert
+  - first: Tanja
+    full: Tanja Schultz
+    id: tanja-schultz
+    last: Schultz
+  - first: Dorcas
+    full: Dorcas Wallace
+    id: dorcas-wallace
+    last: Wallace
+  - first: Monika
+    full: Monika Woszczyna
+    id: monika-woszczyna
+    last: Woszczyna
+  - first: Jing
+    full: Jing Zhang
+    id: jing-zhang
+    last: Zhang
+  author_string: Alex Waibel, Ahmed Badran, Alan W. Black, Robert Frederking, Donna
+    Gates, Alon Lavie, Lori Levin, Kevin Lenzo, Laura Mayfield Tomokiyo, Juergen Reichert,
+    Tanja Schultz, Dorcas Wallace, Monika Woszczyna, Jing Zhang
+  bibkey: waibel-etal-2003-speechalator
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '29'
+  page_last: '30'
+  pages: "29\u201330"
+  paper_id: '15'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4015.jpg
+  title: 'Speechalator: Two-Way Speech-to-Speech Translation in Your Hand'
+  title_html: '<span class="acl-fixed-case">S</span>peechalator: Two-Way Speech-to-Speech
+    Translation in Your Hand'
+  url: https://www.aclweb.org/anthology/N03-4015
+  year: '2003'
+N03-4016:
+  author:
+  - first: Dominic
+    full: Dominic Widdows
+    id: dominic-widdows
+    last: Widdows
+  - first: Scott
+    full: Scott Cederberg
+    id: scott-cederberg
+    last: Cederberg
+  author_string: Dominic Widdows, Scott Cederberg
+  bibkey: widdows-cederberg-2003-monolingual
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '31'
+  page_last: '32'
+  pages: "31\u201332"
+  paper_id: '16'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4016.jpg
+  title: Monolingual and Bilingual Concept Visualization from Corpora
+  title_html: Monolingual and Bilingual Concept Visualization from Corpora
+  url: https://www.aclweb.org/anthology/N03-4016
+  year: '2003'
+N03-4017:
+  author:
+  - first: Theresa
+    full: Theresa Wilson
+    id: theresa-wilson
+    last: Wilson
+  - first: David R.
+    full: David R. Pierce
+    id: david-pierce
+    last: Pierce
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  author_string: Theresa Wilson, David R. Pierce, Janyce Wiebe
+  bibkey: wilson-etal-2003-identifying
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Demonstrations
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Demonstrations
+  page_first: '33'
+  page_last: '34'
+  pages: "33\u201334"
+  paper_id: '17'
+  parent_volume_id: N03-4
+  pdf: https://www.aclweb.org/anthology/N03-4017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-4017.jpg
+  title: Identifying Opinionated Sentences
+  title_html: Identifying Opinionated Sentences
+  url: https://www.aclweb.org/anthology/N03-4017
+  year: '2003'
+N03-5000:
+  bibkey: naacl-2003-companion-hlt-naacl
+  bibtype: proceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  paper_id: '0'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5000.jpg
+  title: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  title_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  url: https://www.aclweb.org/anthology/N03-5000
+  year: '2003'
+N03-5001:
+  author:
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Graeme Hirst
+  bibkey: hirst-2003-introduction
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '1'
+  page_last: '1'
+  pages: "1\u20131"
+  paper_id: '1'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5001.jpg
+  title: Introduction to Non-Statistical Natural Language Processing
+  title_html: Introduction to Non-Statistical Natural Language Processing
+  url: https://www.aclweb.org/anthology/N03-5001
+  year: '2003'
+N03-5002:
+  author:
+  - first: Douglas W.
+    full: Douglas W. Oard
+    id: douglas-w-oard
+    last: Oard
+  author_string: Douglas W. Oard
+  bibkey: oard-2003-information
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '2'
+  page_last: '2'
+  pages: "2\u20132"
+  paper_id: '2'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5002.jpg
+  title: Information Retrieval Systems as Integration Platforms for Language Technologies
+  title_html: Information Retrieval Systems as Integration Platforms for Language
+    Technologies
+  url: https://www.aclweb.org/anthology/N03-5002
+  year: '2003'
+N03-5003:
+  author:
+  - first: Alex
+    full: Alex Acero
+    id: alex-acero
+    last: Acero
+  author_string: Alex Acero
+  bibkey: acero-2003-speech
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '3'
+  page_last: '3'
+  pages: "3\u20133"
+  paper_id: '3'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5003.jpg
+  title: Speech Recognition and Understanding
+  title_html: Speech Recognition and Understanding
+  url: https://www.aclweb.org/anthology/N03-5003
+  year: '2003'
+N03-5004:
+  author:
+  - first: Joshua
+    full: Joshua Goodman
+    id: joshua-goodman
+    last: Goodman
+  author_string: Joshua Goodman
+  bibkey: goodman-2003-state
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '4'
+  page_last: '4'
+  pages: "4\u20134"
+  paper_id: '4'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5004.jpg
+  title: The State of the Art in Language Modeling
+  title_html: The State of the Art in Language Modeling
+  url: https://www.aclweb.org/anthology/N03-5004
+  year: '2003'
+N03-5005:
+  author:
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  author_string: Kevin Knight, Philipp Koehn
+  bibkey: knight-koehn-2003-whats
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '5'
+  page_last: '5'
+  pages: "5\u20135"
+  paper_id: '5'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5005.jpg
+  title: "What\u2019s New in Statistical Machine Translation"
+  title_html: "What\u2019s New in Statistical Machine Translation"
+  url: https://www.aclweb.org/anthology/N03-5005
+  year: '2003'
+N03-5006:
+  author:
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Inderjeet
+    full: Inderjeet Mani
+    id: inderjeet-mani
+    last: Mani
+  author_string: James Pustejovsky, Inderjeet Mani
+  bibkey: pustejovsky-mani-2003-annotation
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '6'
+  page_last: '6'
+  pages: "6\u20136"
+  paper_id: '6'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5006.jpg
+  title: Annotation of Temporal and Event Expressions
+  title_html: Annotation of Temporal and Event Expressions
+  url: https://www.aclweb.org/anthology/N03-5006
+  year: '2003'
+N03-5007:
+  author:
+  - first: Mark
+    full: Mark Wasson
+    id: mark-wasson
+    last: Wasson
+  author_string: Mark Wasson
+  bibkey: wasson-2003-nlp
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '7'
+  page_last: '7'
+  pages: "7\u20137"
+  paper_id: '7'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5007.jpg
+  title: NLP R&D and Commercial Deployment
+  title_html: <span class="acl-fixed-case">NLP</span> <span class="acl-fixed-case">R&amp;D</span>
+    and Commercial Deployment
+  url: https://www.aclweb.org/anthology/N03-5007
+  year: '2003'
+N03-5008:
+  author:
+  - first: Christopher
+    full: Christopher Manning
+    id: christopher-d-manning
+    last: Manning
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Christopher Manning, Dan Klein
+  bibkey: manning-klein-2003-optimization
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '8'
+  page_last: '8'
+  pages: "8\u20138"
+  paper_id: '8'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5008.jpg
+  title: Optimization, Maxent Models, and Conditional Estimation without Magic
+  title_html: Optimization, Maxent Models, and Conditional Estimation without Magic
+  url: https://www.aclweb.org/anthology/N03-5008
+  year: '2003'
+N03-5009:
+  author:
+  - first: Doug
+    full: Doug Reynolds
+    id: doug-reynolds
+    last: Reynolds
+  - first: Marc
+    full: Marc Zissman
+    id: marc-zissman
+    last: Zissman
+  author_string: Doug Reynolds, Marc Zissman
+  bibkey: reynolds-zissman-2003-automatic
+  bibtype: inproceedings
+  booktitle: Companion Volume of the Proceedings of HLT-NAACL 2003 - Tutorial Abstracts
+  booktitle_html: Companion Volume of the Proceedings of <span class="acl-fixed-case">HLT</span>-<span
+    class="acl-fixed-case">NAACL</span> 2003 - Tutorial Abstracts
+  page_first: '9'
+  page_last: '9'
+  pages: "9\u20139"
+  paper_id: '9'
+  parent_volume_id: N03-5
+  pdf: https://www.aclweb.org/anthology/N03-5009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/N03-5009.jpg
+  title: Automatic Speaker and Language Recognition
+  title_html: Automatic Speaker and Language Recognition
+  url: https://www.aclweb.org/anthology/N03-5009
+  year: '2003'

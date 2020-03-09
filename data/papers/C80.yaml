@@ -1,0 +1,2315 @@
+C80-1000:
+  bibkey: coling-1980-coling
+  bibtype: proceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  paper_id: '0'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1000.jpg
+  title: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  title_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th International
+    Conference on Computational Linguistics'
+  url: https://www.aclweb.org/anthology/C80-1000
+  year: '1980'
+C80-1001:
+  author:
+  - first: Kosho
+    full: Kosho Shudo
+    id: kosho-shudo
+    last: Shudo
+  - first: Toshiko
+    full: Toshiko Narahara
+    id: toshiko-narahara
+    last: Narahara
+  - first: Sho
+    full: Sho Yoshida
+    id: sho-yoshida
+    last: Yoshida
+  author_string: Kosho Shudo, Toshiko Narahara, Sho Yoshida
+  bibkey: shudo-etal-1980-morphological
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '1'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1001.jpg
+  title: Morphological Aspect of Japanese Language Processing
+  title_html: Morphological Aspect of <span class="acl-fixed-case">J</span>apanese
+    Language Processing
+  url: https://www.aclweb.org/anthology/C80-1001
+  year: '1980'
+C80-1002:
+  author:
+  - first: J.L.
+    full: J.L. Binot
+    id: j-l-binot
+    last: Binot
+  - first: M.
+    full: M. Graitson
+    id: m-graitson
+    last: Graitson
+  - first: Ph.
+    full: Ph. Lemaire
+    id: ph-lemaire
+    last: Lemaire
+  - first: D.
+    full: D. Ribbens
+    id: d-ribbens
+    last: Ribbens
+  author_string: J.L. Binot, M. Graitson, Ph. Lemaire, D. Ribbens
+  bibkey: binot-etal-1980-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '2'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1002.jpg
+  title: Automatic Processing of Written French Language
+  title_html: Automatic Processing of Written <span class="acl-fixed-case">F</span>rench
+    Language
+  url: https://www.aclweb.org/anthology/C80-1002
+  year: '1980'
+C80-1003:
+  author:
+  - first: Toru
+    full: Toru Hitaka
+    id: toru-hitaka
+    last: Hitaka
+  - first: Sho
+    full: Sho Yoshida
+    id: sho-yoshida
+    last: Yoshida
+  author_string: Toru Hitaka, Sho Yoshida
+  bibkey: hitaka-yoshida-1980-syntax
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '3'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1003.jpg
+  title: A Syntax Parser Based on the Case Dependency Grammar and Its Efficiency
+  title_html: A Syntax Parser Based on the Case Dependency Grammar and Its Efficiency
+  url: https://www.aclweb.org/anthology/C80-1003
+  year: '1980'
+C80-1004:
+  author:
+  - first: Taisuke
+    full: Taisuke Sato
+    id: taisuke-sato
+    last: Sato
+  author_string: Taisuke Sato
+  bibkey: sato-1980-sgs
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '4'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1004.jpg
+  title: 'SGS: A System for Mechanical Generation of Japanese Sentences'
+  title_html: '<span class="acl-fixed-case">SGS</span>: A System for Mechanical Generation
+    of <span class="acl-fixed-case">J</span>apanese Sentences'
+  url: https://www.aclweb.org/anthology/C80-1004
+  year: '1980'
+C80-1005:
+  author:
+  - first: Jan
+    full: Jan Svartvik
+    id: jan-svartvik
+    last: Svartvik
+  author_string: Jan Svartvik
+  bibkey: svartvik-1980-computer
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '5'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1005.jpg
+  title: Computer-Aided Grammatical Tagging of Spoken English
+  title_html: Computer-Aided Grammatical Tagging of Spoken <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/C80-1005
+  year: '1980'
+C80-1006:
+  author:
+  - first: Henry
+    full: Henry Kucera
+    id: henry-kucera
+    last: Kucera
+  author_string: Henry Kucera
+  bibkey: kucera-1980-computational
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '6'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1006.jpg
+  title: Computational Analysis of Predicational Structures in English
+  title_html: Computational Analysis of Predicational Structures in <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/C80-1006
+  year: '1980'
+C80-1007:
+  author:
+  - first: Morris
+    full: Morris Salkoff
+    id: morris-salkoff
+    last: Salkoff
+  author_string: Morris Salkoff
+  bibkey: salkoff-1980-context
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '7'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1007.jpg
+  title: A Context-Free Grammar of French
+  title_html: A Context-Free Grammar of <span class="acl-fixed-case">F</span>rench
+  url: https://www.aclweb.org/anthology/C80-1007
+  year: '1980'
+C80-1008:
+  author:
+  - first: Norman K.
+    full: Norman K. Sondheimer
+    id: norman-k-sondheimer
+    last: Sondheimer
+  - first: Ralph M.
+    full: Ralph M. Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Norman K. Sondheimer, Ralph M. Weischedel
+  bibkey: sondheimer-weischedel-1980-rule
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '8'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1008.jpg
+  title: A Rule-Based Approach to Ill-Formed Input
+  title_html: A Rule-Based Approach to Ill-Formed Input
+  url: https://www.aclweb.org/anthology/C80-1008
+  year: '1980'
+C80-1009:
+  author:
+  - first: S.G.
+    full: S.G. Pulman
+    id: stephen-pulman
+    last: Pulman
+  author_string: S.G. Pulman
+  bibkey: pulman-1980-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '9'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1009.jpg
+  title: Parsing and Syntactic Theory
+  title_html: Parsing and Syntactic Theory
+  url: https://www.aclweb.org/anthology/C80-1009
+  year: '1980'
+C80-1010:
+  author:
+  - first: Gary D.
+    full: Gary D. Prideaux
+    id: gary-d-prideaux
+    last: Prideaux
+  author_string: Gary D. Prideaux
+  bibkey: prideaux-1980-role
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '10'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1010.jpg
+  title: The Role of Perceptual Strategies in the Processing of English Relative Clause
+    Structures
+  title_html: The Role of Perceptual Strategies in the Processing of <span class="acl-fixed-case">E</span>nglish
+    Relative Clause Structures
+  url: https://www.aclweb.org/anthology/C80-1010
+  year: '1980'
+C80-1011:
+  author:
+  - first: Eva
+    full: Eva Hajicova
+    id: eva-hajicova
+    last: Hajicova
+  - first: Petr
+    full: Petr Sgall
+    id: petr-sgall
+    last: Sgall
+  author_string: Eva Hajicova, Petr Sgall
+  bibkey: hajicova-sgall-1980-linguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '11'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1011.jpg
+  title: Linguistic Meaning and Knowledge Representation in Automatic Understanding
+    of Natural Language
+  title_html: Linguistic Meaning and Knowledge Representation in Automatic Understanding
+    of Natural Language
+  url: https://www.aclweb.org/anthology/C80-1011
+  year: '1980'
+C80-1012:
+  author:
+  - first: Burghard B.
+    full: Burghard B. Rieger
+    id: burghard-b-rieger
+    last: Rieger
+  author_string: Burghard B. Rieger
+  bibkey: rieger-1980-fuzzy
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '12'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1012.jpg
+  title: Fuzzy Word Meaning Analysis and Representation in Linguistic Semantics. An
+    Empirical Approach to the Reconstruction of Lexical Meanings in East- and West-German
+    Newspaper Texts.
+  title_html: Fuzzy Word Meaning Analysis and Representation in Linguistic Semantics.
+    An Empirical Approach to the Reconstruction of Lexical Meanings in <span class="acl-fixed-case">E</span>ast-
+    and <span class="acl-fixed-case">W</span>est-<span class="acl-fixed-case">G</span>erman
+    Newspaper Texts.
+  url: https://www.aclweb.org/anthology/C80-1012
+  year: '1980'
+C80-1013:
+  author:
+  - first: Toyo-aki
+    full: Toyo-aki Nishida
+    id: toyoaki-nishida
+    last: Nishida
+  - first: Shuji
+    full: Shuji Doshita
+    id: shuji-doshita
+    last: Doshita
+  author_string: Toyo-aki Nishida, Shuji Doshita
+  bibkey: nishida-doshita-1980-hierarchical
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '13'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1013.jpg
+  title: Hierarchical Meaning Representation and Analysis of Natural Language Documents
+  title_html: Hierarchical Meaning Representation and Analysis of Natural Language
+    Documents
+  url: https://www.aclweb.org/anthology/C80-1013
+  year: '1980'
+C80-1014:
+  author:
+  - first: Seiichi
+    full: Seiichi Uchinami
+    id: seiichi-uchinami
+    last: Uchinami
+  - first: Yoshikazu
+    full: Yoshikazu Tezuka
+    id: yoshikazu-tezuka
+    last: Tezuka
+  author_string: Seiichi Uchinami, Yoshikazu Tezuka
+  bibkey: uchinami-tezuka-1980-linguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '14'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1014.jpg
+  title: Linguistic Model Based on the Generative Topological Information Space
+  title_html: Linguistic Model Based on the Generative Topological Information Space
+  url: https://www.aclweb.org/anthology/C80-1014
+  year: '1980'
+C80-1015:
+  author:
+  - first: Yutaka
+    full: Yutaka Kusanagi
+    id: yutaka-kusanagi
+    last: Kusanagi
+  author_string: Yutaka Kusanagi
+  bibkey: kusanagi-1980-model
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '15'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1015.jpg
+  title: A Model of Natural Language Processing of Time-Related Expressions
+  title_html: A Model of Natural Language Processing of Time-Related Expressions
+  url: https://www.aclweb.org/anthology/C80-1015
+  year: '1980'
+C80-1016:
+  author:
+  - first: Yoshio
+    full: Yoshio Momouchi
+    id: yoshio-momouchi
+    last: Momouchi
+  author_string: Yoshio Momouchi
+  bibkey: momouchi-1980-control
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '16'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1016.jpg
+  title: Control Structures for Actions in Procedural Texts and PT-Chart
+  title_html: Control Structures for Actions in Procedural Texts and <span class="acl-fixed-case">PT</span>-Chart
+  url: https://www.aclweb.org/anthology/C80-1016
+  year: '1980'
+C80-1017:
+  author:
+  - first: Bo
+    full: Bo Ralph
+    id: bo-ralph
+    last: Ralph
+  author_string: Bo Ralph
+  bibkey: ralph-1980-relative
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '17'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1017.jpg
+  title: Relative Semantic Complexity in Lexical Units
+  title_html: Relative Semantic Complexity in Lexical Units
+  url: https://www.aclweb.org/anthology/C80-1017
+  year: '1980'
+C80-1018:
+  author:
+  - first: Christian
+    full: Christian Rohrer
+    id: christian-rohrer
+    last: Rohrer
+  author_string: Christian Rohrer
+  bibkey: rohrer-1980-lanalyse
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '18'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1018.jpg
+  title: "L\u2019ANALYSE LOGIQUE DES TEMPS DU PASSE EN FRANCAIS: Comment on peut appliquer\
+    \ la distinction entre nom de matiere et nom comptable aux temps du verbe"
+  title_html: "L\u2019ANALYSE LOGIQUE DES TEMPS DU PASSE EN <span class=\"acl-fixed-case\"\
+    >F</span>RANCAIS: Comment on peut appliquer la distinction entre nom de matiere\
+    \ et nom comptable aux temps du verbe"
+  url: https://www.aclweb.org/anthology/C80-1018
+  year: '1980'
+C80-1019:
+  author:
+  - first: Naoyuki
+    full: Naoyuki Okada
+    id: naoyuki-okada
+    last: Okada
+  author_string: Naoyuki Okada
+  bibkey: okada-1980-conceptual
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '19'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1019.jpg
+  title: Conceptual Taxonomy of Japanese Verbs for Uderstanding Natural Language and
+    Picture Patterns
+  title_html: Conceptual Taxonomy of <span class="acl-fixed-case">J</span>apanese
+    Verbs for Uderstanding Natural Language and Picture Patterns
+  url: https://www.aclweb.org/anthology/C80-1019
+  year: '1980'
+C80-1020:
+  author:
+  - first: Fumio
+    full: Fumio Mizoguchi
+    id: fumio-mizoguchi
+    last: Mizoguchi
+  - first: Akihiko
+    full: Akihiko Yamamoto
+    id: akihiko-yamamoto
+    last: Yamamoto
+  author_string: Fumio Mizoguchi, Akihiko Yamamoto
+  bibkey: mizoguchi-yamamoto-1980-approach
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '20'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1020.jpg
+  title: An Approach to a Semantic Analysis of Metaphor
+  title_html: An Approach to a Semantic Analysis of Metaphor
+  url: https://www.aclweb.org/anthology/C80-1020
+  year: '1980'
+C80-1021:
+  author:
+  - first: W.
+    full: W. Wahlster
+    id: wolfgang-wahlster
+    last: Wahlster
+  author_string: W. Wahlster
+  bibkey: wahlster-1980-towards
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '21'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1021.jpg
+  title: Towards a Computational Model for the Semantics of Why-Questions
+  title_html: Towards a Computational Model for the Semantics of Why-Questions
+  url: https://www.aclweb.org/anthology/C80-1021
+  year: '1980'
+C80-1022:
+  author:
+  - first: Hitoshi
+    full: Hitoshi Ogawa
+    id: hitoshi-ogawa
+    last: Ogawa
+  - first: Junichiro
+    full: Junichiro Nishi
+    id: junichiro-nishi
+    last: Nishi
+  - first: Kokichi
+    full: Kokichi Tanaka
+    id: kokichi-tanaka
+    last: Tanaka
+  author_string: Hitoshi Ogawa, Junichiro Nishi, Kokichi Tanaka
+  bibkey: ogawa-etal-1980-knowledge
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '22'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1022.jpg
+  title: The Knowledge Representation for a Story Understanding and Simulation System
+  title_html: The Knowledge Representation for a Story Understanding and Simulation
+    System
+  url: https://www.aclweb.org/anthology/C80-1022
+  year: '1980'
+C80-1023:
+  author:
+  - first: F.
+    full: F. Dreizin
+    id: felix-dreizin
+    last: Dreizin
+  - first: A.
+    full: A. Shenhar
+    id: a-shenhar
+    last: Shenhar
+  - first: H.
+    full: H. Bar-Itzhak
+    id: h-bar-itzhak
+    last: Bar-Itzhak
+  author_string: F. Dreizin, A. Shenhar, H. Bar-Itzhak
+  bibkey: dreizin-etal-1980-formal
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '23'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1023.jpg
+  title: A Formal Grammar of Expressiveness for Sacred Legends
+  title_html: A Formal Grammar of Expressiveness for Sacred Legends
+  url: https://www.aclweb.org/anthology/C80-1023
+  year: '1980'
+C80-1024:
+  author:
+  - first: M. Cassandra Foster
+    full: M. Cassandra Foster Smith
+    id: m-cassandra-foster-smith
+    last: Smith
+  author_string: M. Cassandra Foster Smith
+  bibkey: smith-1980-efficiency
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '24'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1024.jpg
+  title: Efficiency Tools in the Speeches of Martin Luther King, Jr.
+  title_html: Efficiency Tools in the Speeches of <span class="acl-fixed-case">M</span>artin
+    <span class="acl-fixed-case">L</span>uther <span class="acl-fixed-case">K</span>ing,
+    <span class="acl-fixed-case">J</span>r.
+  url: https://www.aclweb.org/anthology/C80-1024
+  year: '1980'
+C80-1025:
+  author:
+  - first: Z.M.
+    full: Z.M. Shalyapina
+    id: zoya-m-shalyapina
+    last: Shalyapina
+  author_string: Z.M. Shalyapina
+  bibkey: shalyapina-1980-problems
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '25'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1025.jpg
+  title: Problems of Formal Representation of Text Structure From the Point of View
+    of Automatic Translation
+  title_html: Problems of Formal Representation of Text Structure From the Point of
+    View of Automatic Translation
+  url: https://www.aclweb.org/anthology/C80-1025
+  year: '1980'
+C80-1026:
+  author:
+  - first: Pat
+    full: Pat Langley
+    id: pat-langley
+    last: Langley
+  author_string: Pat Langley
+  bibkey: langley-1980-production
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '26'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1026.jpg
+  title: A Production System Model of First Language Acquisition
+  title_html: A Production System Model of First Language Acquisition
+  url: https://www.aclweb.org/anthology/C80-1026
+  year: '1980'
+C80-1027:
+  author:
+  - first: Bozena Henisz
+    full: Bozena Henisz Thompson
+    id: bozena-henisz-thompson
+    last: Thompson
+  author_string: Bozena Henisz Thompson
+  bibkey: thompson-1980-linguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '27'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1027.jpg
+  title: Linguistic Analysis of Natural Language Communication With Computers
+  title_html: Linguistic Analysis of Natural Language Communication With Computers
+  url: https://www.aclweb.org/anthology/C80-1027
+  year: '1980'
+C80-1028:
+  author:
+  - first: G.
+    full: G. Zifonun
+    id: g-zifonun
+    last: Zifonun
+  author_string: G. Zifonun
+  bibkey: zifonun-1980-levels
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '28'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1028.jpg
+  title: Levels of Representation in Natural Language Based Information Systems and
+    Their Relation to the Methodology of Computational Linguistics
+  title_html: Levels of Representation in Natural Language Based Information Systems
+    and Their Relation to the Methodology of Computational Linguistics
+  url: https://www.aclweb.org/anthology/C80-1028
+  year: '1980'
+C80-1029:
+  author:
+  - first: Richard
+    full: Richard Kittredge
+    id: richard-kittredge
+    last: Kittredge
+  author_string: Richard Kittredge
+  bibkey: kittredge-1980-embedded
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '29'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1029.jpg
+  title: Embedded Sublanguages and Natural Language Processing
+  title_html: Embedded Sublanguages and Natural Language Processing
+  url: https://www.aclweb.org/anthology/C80-1029
+  year: '1980'
+C80-1030:
+  author:
+  - first: S.P.J.
+    full: S.P.J. Landsbergen
+    id: jan-landsbergen
+    last: Landsbergen
+  author_string: S.P.J. Landsbergen
+  bibkey: landsbergen-1980-adaptation
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '30'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1030.jpg
+  title: Adaptation of Montague Grammar to the Requirements of Question-Answering
+  title_html: Adaptation of <span class="acl-fixed-case">M</span>ontague Grammar to
+    the Requirements of Question-Answering
+  url: https://www.aclweb.org/anthology/C80-1030
+  year: '1980'
+C80-1031:
+  author:
+  - first: H.
+    full: H. Andreka
+    id: h-andreka
+    last: Andreka
+  - first: T.
+    full: T. Gergely
+    id: t-gergely
+    last: Gergely
+  - first: T.
+    full: T. Gergely
+    id: t-gergely
+    last: Gergely
+  author_string: H. Andreka, T. Gergely, T. Gergely
+  bibkey: andreka-etal-1980-model
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '31'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1031.jpg
+  title: Model Theoretic Semantics for Many-Purpose Languages and Language Hierarchies
+  title_html: Model Theoretic Semantics for Many-Purpose Languages and Language Hierarchies
+  url: https://www.aclweb.org/anthology/C80-1031
+  year: '1980'
+C80-1032:
+  author:
+  - first: Naoki
+    full: Naoki Yonezaki
+    id: naoki-yonezaki
+    last: Yonezaki
+  - first: Hajime
+    full: Hajime Enomoto
+    id: hajime-enomoto
+    last: Enomoto
+  author_string: Naoki Yonezaki, Hajime Enomoto
+  bibkey: yonezaki-enomoto-1980-database
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '32'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1032.jpg
+  title: Database System Based on Intensional Logic
+  title_html: Database System Based on Intensional Logic
+  url: https://www.aclweb.org/anthology/C80-1032
+  year: '1980'
+C80-1033:
+  author:
+  - first: JB
+    full: JB Berthelin
+    id: jb-berthelin
+    last: Berthelin
+  author_string: JB Berthelin
+  bibkey: berthelin-1980-connotation
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '33'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1033.jpg
+  title: Connotation as a Form of Inference
+  title_html: Connotation as a Form of Inference
+  url: https://www.aclweb.org/anthology/C80-1033
+  year: '1980'
+C80-1034:
+  author:
+  - first: Th. R.
+    full: Th. R. Hofmann
+    id: th-r-hofmann
+    last: Hofmann
+  author_string: Th. R. Hofmann
+  bibkey: hofmann-1980-derivation
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '34'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1034.jpg
+  title: On the Derivation of a Conversational Maxim
+  title_html: On the Derivation of a Conversational Maxim
+  url: https://www.aclweb.org/anthology/C80-1034
+  year: '1980'
+C80-1035:
+  author:
+  - first: Ferenc
+    full: Ferenc Kiefer
+    id: ferenc-kiefer
+    last: Kiefer
+  author_string: Ferenc Kiefer
+  bibkey: kiefer-1980-topic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '35'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1035.jpg
+  title: Topic-Comment Structure of Texts (And Its Contribution to the Automatic Processing
+    of Texts)
+  title_html: Topic-Comment Structure of Texts (And Its Contribution to the Automatic
+    Processing of Texts)
+  url: https://www.aclweb.org/anthology/C80-1035
+  year: '1980'
+C80-1036:
+  author:
+  - first: Yuzuru
+    full: Yuzuru Hiraga
+    id: yuzuru-hiraga
+    last: Hiraga
+  - first: Yoshihiko
+    full: Yoshihiko Ono
+    id: yoshihiko-ono
+    last: Ono
+  - first: Hisao
+    full: Hisao Yamada
+    id: hisao-yamada
+    last: Yamada
+  author_string: Yuzuru Hiraga, Yoshihiko Ono, Hisao Yamada
+  bibkey: hiraga-etal-1980-analysis
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '36'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1036.jpg
+  title: An Analysis of the Standard English Keyboard
+  title_html: An Analysis of the Standard <span class="acl-fixed-case">E</span>nglish
+    Keyboard
+  url: https://www.aclweb.org/anthology/C80-1036
+  year: '1980'
+C80-1037:
+  author:
+  - first: Yuzuru
+    full: Yuzuru Hiraga
+    id: yuzuru-hiraga
+    last: Hiraga
+  - first: Yoshihiko
+    full: Yoshihiko Ono
+    id: yoshihiko-ono
+    last: Ono
+  - first: Hisao
+    full: Hisao Yamada
+    id: hisao-yamada
+    last: Yamada
+  author_string: Yuzuru Hiraga, Yoshihiko Ono, Hisao Yamada
+  bibkey: hiraga-etal-1980-assignment
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '37'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1037.jpg
+  title: An Assignment of Key-Codes for a Japanese Character Keyboard
+  title_html: An Assignment of Key-Codes for a <span class="acl-fixed-case">J</span>apanese
+    Character Keyboard
+  url: https://www.aclweb.org/anthology/C80-1037
+  year: '1980'
+C80-1038:
+  author:
+  - first: Tsutomu
+    full: Tsutomu Kawada
+    id: tsutomu-kawada
+    last: Kawada
+  - first: Shin-ya
+    full: Shin-ya Amano
+    id: shin-ya-amano
+    last: Amano
+  - first: Kunio
+    full: Kunio Sakai
+    id: kunio-sakai
+    last: Sakai
+  author_string: Tsutomu Kawada, Shin-ya Amano, Kunio Sakai
+  bibkey: kawada-etal-1980-linguistic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '38'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1038.jpg
+  title: Linguistic Error Correction of Japanese Sentences
+  title_html: Linguistic Error Correction of <span class="acl-fixed-case">J</span>apanese
+    Sentences
+  url: https://www.aclweb.org/anthology/C80-1038
+  year: '1980'
+C80-1039:
+  author:
+  - first: Norihiro
+    full: Norihiro Abe
+    id: norihiro-abe
+    last: Abe
+  - first: Nobutaka
+    full: Nobutaka Uemura
+    id: nobutaka-uemura
+    last: Uemura
+  - first: Masahiro
+    full: Masahiro Higashide
+    id: masahiro-higashide
+    last: Higashide
+  - first: Saburo
+    full: Saburo Tsuji
+    id: saburo-tsuji
+    last: Tsuji
+  author_string: Norihiro Abe, Nobutaka Uemura, Masahiro Higashide, Saburo Tsuji
+  bibkey: abe-etal-1980-froff
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '39'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1039.jpg
+  title: 'On FROFF: A Text Processing System for English Texts and Figures'
+  title_html: 'On <span class="acl-fixed-case">FROFF</span>: A Text Processing System
+    for <span class="acl-fixed-case">E</span>nglish Texts and Figures'
+  url: https://www.aclweb.org/anthology/C80-1039
+  year: '1980'
+C80-1040:
+  author:
+  - first: Takeshi
+    full: Takeshi Shimomura
+    id: takeshi-shimomura
+    last: Shimomura
+  author_string: Takeshi Shimomura
+  bibkey: shimomura-1980-science
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '40'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1040.jpg
+  title: Science of the Stroke Sequence of Kanji
+  title_html: Science of the Stroke Sequence of Kanji
+  url: https://www.aclweb.org/anthology/C80-1040
+  year: '1980'
+C80-1041:
+  author:
+  - first: Chorkin
+    full: Chorkin Chan
+    id: chorkin-chan
+    last: Chan
+  author_string: Chorkin Chan
+  bibkey: chan-1980-chinese
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '41'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1041.jpg
+  title: A Chinese Characters Coding Scheme for Computer Input and Internal Storage
+  title_html: A <span class="acl-fixed-case">C</span>hinese Characters Coding Scheme
+    for Computer Input and Internal Storage
+  url: https://www.aclweb.org/anthology/C80-1041
+  year: '1980'
+C80-1042:
+  author:
+  - first: Paul L.
+    full: Paul L. King
+    id: paul-l-king
+    last: King
+  author_string: Paul L. King
+  bibkey: king-1980-human
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '42'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1042.jpg
+  title: 'Human Factors and Linguistic Considerations: Keys to High-Speed Chinese
+    Character Input'
+  title_html: 'Human Factors and Linguistic Considerations: Keys to High-Speed <span
+    class="acl-fixed-case">C</span>hinese Character Input'
+  url: https://www.aclweb.org/anthology/C80-1042
+  year: '1980'
+C80-1043:
+  author:
+  - first: Joseph E.
+    full: Joseph E. Grimes
+    id: joseph-e-grimes
+    last: Grimes
+  author_string: Joseph E. Grimes
+  bibkey: grimes-1980-system
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '43'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1043.jpg
+  title: System Support in Chinese Data Entry
+  title_html: System Support in <span class="acl-fixed-case">C</span>hinese Data Entry
+  url: https://www.aclweb.org/anthology/C80-1043
+  year: '1980'
+C80-1044:
+  author:
+  - first: Jouko J.
+    full: Jouko J. Seppanen
+    id: jouko-j-seppanen
+    last: Seppanen
+  author_string: Jouko J. Seppanen
+  bibkey: seppanen-1980-soft
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '44'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1044.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1044.jpg
+  title: Soft Display Key for Kanji Input
+  title_html: Soft Display Key for Kanji Input
+  url: https://www.aclweb.org/anthology/C80-1044
+  year: '1980'
+C80-1045:
+  author:
+  - first: Hiroshi
+    full: Hiroshi Makino
+    id: hiroshi-makino
+    last: Makino
+  - first: Makoto
+    full: Makoto Kizawa
+    id: makoto-kizawa
+    last: Kizawa
+  author_string: Hiroshi Makino, Makoto Kizawa
+  bibkey: makino-kizawa-1980-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '45'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1045.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1045.jpg
+  title: An Automatic Translation System of Non-Segmented Kana Sentences Into Kanji-Kana
+    Sentences
+  title_html: An Automatic Translation System of Non-Segmented Kana Sentences Into
+    Kanji-Kana Sentences
+  url: https://www.aclweb.org/anthology/C80-1045
+  year: '1980'
+C80-1046:
+  author:
+  - first: F. J.
+    full: F. J. Devadason
+    id: f-j-devadason
+    last: Devadason
+  author_string: F. J. Devadason
+  bibkey: devadason-1980-generation
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '46'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1046.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1046.jpg
+  title: Generation of Thesaurus in Different Languages a Computer Based System
+  title_html: Generation of Thesaurus in Different Languages a Computer Based System
+  url: https://www.aclweb.org/anthology/C80-1046
+  year: '1980'
+C80-1047:
+  author:
+  - first: Takushi
+    full: Takushi Tanaka
+    id: takushi-tanaka
+    last: Tanaka
+  author_string: Takushi Tanaka
+  bibkey: tanaka-1980-statistical
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '47'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1047.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1047.jpg
+  title: Statistical Analysis of Japanese Characters
+  title_html: Statistical Analysis of <span class="acl-fixed-case">J</span>apanese
+    Characters
+  url: https://www.aclweb.org/anthology/C80-1047
+  year: '1980'
+C80-1048:
+  author:
+  - first: Syunsuke
+    full: Syunsuke Uemura
+    id: shunsuke-uemura
+    last: Uemura
+  - first: Yasuo
+    full: Yasuo Sugawara
+    id: yasuo-sugawara
+    last: Sugawara
+  - first: Mantaro J.
+    full: Mantaro J. Hashimoto
+    id: mantaro-j-hashimoto
+    last: Hashimoto
+  - first: Akihiro
+    full: Akihiro Furuya
+    id: akihiro-furuya
+    last: Furuya
+  author_string: Syunsuke Uemura, Yasuo Sugawara, Mantaro J. Hashimoto, Akihiro Furuya
+  bibkey: uemura-etal-1980-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '48'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1048.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1048.jpg
+  title: Automatic Compilation of Modern Chinese Concordances
+  title_html: Automatic Compilation of Modern <span class="acl-fixed-case">C</span>hinese
+    Concordances
+  url: https://www.aclweb.org/anthology/C80-1048
+  year: '1980'
+C80-1049:
+  author:
+  - first: Shigeharu
+    full: Shigeharu Sugita
+    id: shigeharu-sugita
+    last: Sugita
+  author_string: Shigeharu Sugita
+  bibkey: sugita-1980-text
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '49'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1049.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1049.jpg
+  title: "Text Processing of Thai Language \u201CThe Three Seals Law\u201D"
+  title_html: "Text Processing of <span class=\"acl-fixed-case\">T</span>hai Language\
+    \ \u201C<span class=\"acl-fixed-case\">T</span>he <span class=\"acl-fixed-case\"\
+    >T</span>hree <span class=\"acl-fixed-case\">S</span>eals <span class=\"acl-fixed-case\"\
+    >L</span>aw\u201D"
+  url: https://www.aclweb.org/anthology/C80-1049
+  year: '1980'
+C80-1050:
+  author:
+  - first: Hiroshi
+    full: Hiroshi Nakano
+    id: hiroshi-nakano
+    last: Nakano
+  - first: "Shin\u2019ichi"
+    full: "Shin\u2019ichi Tsuchiya"
+    id: shinichi-tsuchiya
+    last: Tsuchiya
+  - first: Akio
+    full: Akio Tsuruoka
+    id: akio-tsuruoka
+    last: Tsuruoka
+  author_string: "Hiroshi Nakano, Shin\u2019ichi Tsuchiya, Akio Tsuruoka"
+  bibkey: nakano-etal-1980-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '50'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1050.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1050.jpg
+  title: An Automatic Processing of the Natural Language in the Word Count System
+  title_html: An Automatic Processing of the Natural Language in the Word Count System
+  url: https://www.aclweb.org/anthology/C80-1050
+  year: '1980'
+C80-1051:
+  author:
+  - first: Janusz Stanislaw
+    full: Janusz Stanislaw Bien
+    id: janusz-stanislaw-bien
+    last: Bien
+  - first: Krystyna
+    full: Krystyna Laus-Maczyniska
+    id: krystyna-laus-maczyniska
+    last: Laus-Maczyniska
+  - first: Stanislaw
+    full: Stanislaw Szpakowicz
+    id: stan-szpakowicz
+    last: Szpakowicz
+  author_string: Janusz Stanislaw Bien, Krystyna Laus-Maczyniska, Stanislaw Szpakowicz
+  bibkey: bien-etal-1980-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '51'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1051.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1051.jpg
+  title: Parsing Free Word Order Languages in Prolog
+  title_html: Parsing Free Word Order Languages in <span class="acl-fixed-case">P</span>rolog
+  url: https://www.aclweb.org/anthology/C80-1051
+  year: '1980'
+C80-1052:
+  author:
+  - first: Rob
+    full: Rob Milne
+    id: robert-milne
+    last: Milne
+  author_string: Rob Milne
+  bibkey: milne-1980-parsing
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '52'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1052.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1052.jpg
+  title: Parsing Against Lexical Ambiguity
+  title_html: Parsing Against Lexical Ambiguity
+  url: https://www.aclweb.org/anthology/C80-1052
+  year: '1980'
+C80-1053:
+  author:
+  - first: Pierre
+    full: Pierre Plante
+    id: pierre-plante
+    last: Plante
+  author_string: Pierre Plante
+  bibkey: plante-1980-text
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '53'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1053.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1053.jpg
+  title: Text Analysis Learning Strategies
+  title_html: Text Analysis Learning Strategies
+  url: https://www.aclweb.org/anthology/C80-1053
+  year: '1980'
+C80-1054:
+  author:
+  - first: Jean-Guy
+    full: Jean-Guy Meunier
+    id: jean-guy-meunier
+    last: Meunier
+  author_string: Jean-Guy Meunier
+  bibkey: meunier-1980-semantic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '54'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1054.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1054.jpg
+  title: Semantic for Text Processing
+  title_html: Semantic for Text Processing
+  url: https://www.aclweb.org/anthology/C80-1054
+  year: '1980'
+C80-1055:
+  author:
+  - first: Joachim H.
+    full: Joachim H. Laubsch
+    id: joachim-h-laubsch
+    last: Laubsch
+  - first: Dietmar F.
+    full: Dietmar F. Roesner
+    id: dietmar-rosner
+    last: Roesner
+  author_string: Joachim H. Laubsch, Dietmar F. Roesner
+  bibkey: laubsch-roesner-1980-active
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '55'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1055.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1055.jpg
+  title: Active Schemata and Their Role in Semantic Parsing
+  title_html: Active Schemata and Their Role in Semantic Parsing
+  url: https://www.aclweb.org/anthology/C80-1055
+  year: '1980'
+C80-1056:
+  author:
+  - first: Hidetosi
+    full: Hidetosi Sirai
+    id: hidetosi-sirai
+    last: Sirai
+  author_string: Hidetosi Sirai
+  bibkey: sirai-1980-deal
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '56'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1056.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1056.jpg
+  title: 'How to Deal With Ambiguities While Parsing: EXAM - A Semantic Processing
+    System for Japanese Language'
+  title_html: 'How to Deal With Ambiguities While Parsing: <span class="acl-fixed-case">EXAM</span>
+    - A Semantic Processing System for <span class="acl-fixed-case">J</span>apanese
+    Language'
+  url: https://www.aclweb.org/anthology/C80-1056
+  year: '1980'
+C80-1057:
+  author:
+  - first: A.
+    full: A. Michiels
+    id: archibald-michiels
+    last: Michiels
+  - first: J.
+    full: J. Mullenders
+    id: j-mullenders
+    last: Mullenders
+  - first: J.
+    full: J. Noel
+    id: j-noel
+    last: Noel
+  author_string: A. Michiels, J. Mullenders, J. Noel
+  bibkey: michiels-etal-1980-exploiting
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '57'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1057.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1057.jpg
+  title: Exploiting a Large Data Base by Longman
+  title_html: Exploiting a Large Data Base by <span class="acl-fixed-case">L</span>ongman
+  url: https://www.aclweb.org/anthology/C80-1057
+  year: '1980'
+C80-1058:
+  author:
+  - first: Hozumi
+    full: Hozumi Tanaka
+    id: hozumi-tanaka
+    last: Tanaka
+  author_string: Hozumi Tanaka
+  bibkey: tanaka-1980-unit
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '58'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1058.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1058.jpg
+  title: Unit-to-Unit Interaction as a Basis for Semantic Interpretation of Japanese
+    Sentences
+  title_html: Unit-to-Unit Interaction as a Basis for Semantic Interpretation of <span
+    class="acl-fixed-case">J</span>apanese Sentences
+  url: https://www.aclweb.org/anthology/C80-1058
+  year: '1980'
+C80-1059:
+  author:
+  - first: Hiroyuki
+    full: Hiroyuki Yamauchi
+    id: hiroyuki-yamauchi
+    last: Yamauchi
+  author_string: Hiroyuki Yamauchi
+  bibkey: yamauchi-1980-processing
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '59'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1059.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1059.jpg
+  title: Processing of Syntax and Semantics of Natural Language by Predicate Logic
+    of Predicate Logic
+  title_html: Processing of Syntax and Semantics of Natural Language by Predicate
+    Logic of Predicate Logic
+  url: https://www.aclweb.org/anthology/C80-1059
+  year: '1980'
+C80-1060:
+  author:
+  - first: Werner
+    full: Werner Dilger
+    id: werner-dilger
+    last: Dilger
+  author_string: Werner Dilger
+  bibkey: dilger-1980-automatic
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '60'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1060.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1060.jpg
+  title: Automatic Translation With Attribute Grammars
+  title_html: Automatic Translation With Attribute Grammars
+  url: https://www.aclweb.org/anthology/C80-1060
+  year: '1980'
+C80-1061:
+  author:
+  - first: Juen-tin
+    full: Juen-tin Wang
+    id: juen-tin-wang
+    last: Wang
+  author_string: Juen-tin Wang
+  bibkey: wang-1980-computational
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '61'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1061.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1061.jpg
+  title: On Computational Sentence Generation From Logical Form
+  title_html: On Computational Sentence Generation From Logical Form
+  url: https://www.aclweb.org/anthology/C80-1061
+  year: '1980'
+C80-1062:
+  author:
+  - first: Francis Jeffry
+    full: Francis Jeffry Pelletier
+    id: francis-jeffry-pelletier
+    last: Pelletier
+  author_string: Francis Jeffry Pelletier
+  bibkey: pelletier-1980-formal
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '62'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1062.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1062.jpg
+  title: Formal Properties of Rule Orderings in Linguistics
+  title_html: Formal Properties of Rule Orderings in Linguistics
+  url: https://www.aclweb.org/anthology/C80-1062
+  year: '1980'
+C80-1063:
+  author:
+  - first: M.
+    full: M. Nagao
+    id: makoto-nagao
+    last: Nagao
+  - first: J.
+    full: J. Tsujii
+    id: junichi-tsujii
+    last: Tsujii
+  - first: K.
+    full: K. Mitamura
+    id: kei-mitamura
+    last: Mitamura
+  - first: H.
+    full: H. Hirakawa
+    id: hideki-hirakawa
+    last: Hirakawa
+  - first: M.
+    full: M. Kume
+    id: masako-kume
+    last: Kume
+  author_string: M. Nagao, J. Tsujii, K. Mitamura, H. Hirakawa, M. Kume
+  bibkey: nagao-etal-1980-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '63'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1063.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1063.jpg
+  title: A Machine Translation System From Japanese Into English - Another Perspective
+    of MT Systems -
+  title_html: A Machine Translation System From <span class="acl-fixed-case">J</span>apanese
+    Into <span class="acl-fixed-case">E</span>nglish - Another Perspective of <span
+    class="acl-fixed-case">MT</span> Systems -
+  url: https://www.aclweb.org/anthology/C80-1063
+  year: '1980'
+C80-1064:
+  author:
+  - first: Alan K.
+    full: Alan K. Melby
+    id: alan-k-melby
+    last: Melby
+  - first: Melvin R.
+    full: Melvin R. Smith
+    id: melvin-r-smith
+    last: Smith
+  - first: Jill
+    full: Jill Peterson
+    id: j-peterson
+    last: Peterson
+  author_string: Alan K. Melby, Melvin R. Smith, Jill Peterson
+  bibkey: melby-etal-1980-interactive
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '64'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1064.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1064.jpg
+  title: 'ITS: Interactive Translation System'
+  title_html: '<span class="acl-fixed-case">ITS</span>: Interactive Translation System'
+  url: https://www.aclweb.org/anthology/C80-1064
+  year: '1980'
+C80-1065:
+  author:
+  - first: Ch.
+    full: Ch. Boitet
+    id: christian-boitet
+    last: Boitet
+  - first: P.
+    full: P. Chatelin
+    id: p-chatelin
+    last: Chatelin
+  - first: P. Daun
+    full: P. Daun Fraga
+    id: p-daun-fraga
+    last: Fraga
+  author_string: Ch. Boitet, P. Chatelin, P. Daun Fraga
+  bibkey: boitet-etal-1980-present
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '65'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1065.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1065.jpg
+  title: Present and Future Paradigms in the Automatized Translation of Natural Languages.
+  title_html: Present and Future Paradigms in the Automatized Translation of Natural
+    Languages.
+  url: https://www.aclweb.org/anthology/C80-1065
+  year: '1980'
+C80-1066:
+  author:
+  - first: Ch.
+    full: Ch. Boitet
+    id: christian-boitet
+    last: Boitet
+  - first: N.
+    full: N. Nedobejkine
+    id: nicolas-nedobejkine
+    last: Nedobejkine
+  author_string: Ch. Boitet, N. Nedobejkine
+  bibkey: boitet-nedobejkine-1980-russian
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '66'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1066.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1066.jpg
+  title: 'Russian-French at GETA: Outline of the Method and Detailed Example'
+  title_html: '<span class="acl-fixed-case">R</span>ussian-<span class="acl-fixed-case">F</span>rench
+    at <span class="acl-fixed-case">GETA</span>: Outline of the Method and Detailed
+    Example'
+  url: https://www.aclweb.org/anthology/C80-1066
+  year: '1980'
+C80-1067:
+  author:
+  - first: Fujio
+    full: Fujio Nishida
+    id: fujio-nishida
+    last: Nishida
+  - first: Shinobu
+    full: Shinobu Takamatsu
+    id: shinobu-takamatsu
+    last: Takamatsu
+  - first: Hiroaki
+    full: Hiroaki Kuroki
+    id: hiroaki-kuroki
+    last: Kuroki
+  author_string: Fujio Nishida, Shinobu Takamatsu, Hiroaki Kuroki
+  bibkey: nishida-etal-1980-english
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '67'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1067.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1067.jpg
+  title: English-Japanese Translation Through Case-Structure Conversion
+  title_html: <span class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">J</span>apanese
+    Translation Through Case-Structure Conversion
+  url: https://www.aclweb.org/anthology/C80-1067
+  year: '1980'
+C80-1068:
+  author:
+  - first: Hiroshi
+    full: Hiroshi Uchida
+    id: hiroshi-uchida
+    last: Uchida
+  - first: Kenji
+    full: Kenji Sugiyama
+    id: kenji-sugiyama
+    last: Sugiyama
+  author_string: Hiroshi Uchida, Kenji Sugiyama
+  bibkey: uchida-sugiyama-1980-machine
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '68'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1068.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1068.jpg
+  title: A Machine Translation System From Japanese Into English Based on Conceptual
+    Structure
+  title_html: A Machine Translation System From <span class="acl-fixed-case">J</span>apanese
+    Into <span class="acl-fixed-case">E</span>nglish Based on Conceptual Structure
+  url: https://www.aclweb.org/anthology/C80-1068
+  year: '1980'
+C80-1069:
+  author:
+  - first: Karl-Heinz
+    full: Karl-Heinz Brinkmann
+    id: karl-heinz-brinkmann
+    last: Brinkmann
+  author_string: Karl-Heinz Brinkmann
+  bibkey: brinkmann-1980-terminology
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '69'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1069.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1069.jpg
+  title: Terminology Data Banks as a Basis for High-Quality Translation
+  title_html: Terminology Data Banks as a Basis for High-Quality Translation
+  url: https://www.aclweb.org/anthology/C80-1069
+  year: '1980'
+C80-1070:
+  author:
+  - first: K.
+    full: K. Shirai
+    id: katsuhiko-shirai
+    last: Shirai
+  - first: Y.
+    full: Y. Fukazawa
+    id: y-fukazawa
+    last: Fukazawa
+  - first: T.
+    full: T. Matzui
+    id: t-matzui
+    last: Matzui
+  - first: H.
+    full: H. Matzuura
+    id: h-matzuura
+    last: Matzuura
+  author_string: K. Shirai, Y. Fukazawa, T. Matzui, H. Matzuura
+  bibkey: shirai-etal-1980-trial
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '70'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1070.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1070.jpg
+  title: A Trial of Japanese Text Input System Using Speech Recognition
+  title_html: A Trial of <span class="acl-fixed-case">J</span>apanese Text Input System
+    Using Speech Recognition
+  url: https://www.aclweb.org/anthology/C80-1070
+  year: '1980'
+C80-1071:
+  author:
+  - first: Minoru
+    full: Minoru Shigenaga
+    id: minoru-shigenaga
+    last: Shigenaga
+  - first: Yoshihiro
+    full: Yoshihiro Sekiguchi
+    id: yoshihiro-sekiguchi
+    last: Sekiguchi
+  - first: Chia-horng
+    full: Chia-horng Lai
+    id: chia-horng-lai
+    last: Lai
+  author_string: Minoru Shigenaga, Yoshihiro Sekiguchi, Chia-horng Lai
+  bibkey: shigenaga-etal-1980-speech
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '71'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1071.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1071.jpg
+  title: Speech Recognition System for Spoken Japanese Sentences
+  title_html: Speech Recognition System for Spoken <span class="acl-fixed-case">J</span>apanese
+    Sentences
+  url: https://www.aclweb.org/anthology/C80-1071
+  year: '1980'
+C80-1072:
+  author:
+  - first: Brian
+    full: Brian Phillips
+    id: brian-phillips
+    last: Phillips
+  - first: James
+    full: James Hendler
+    id: james-hendler
+    last: Hendler
+  author_string: Brian Phillips, James Hendler
+  bibkey: phillips-hendler-1980-impatient
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '72'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1072.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1072.jpg
+  title: 'The Impatient Tutor: An Integrated Language Understanding System'
+  title_html: 'The Impatient Tutor: An Integrated Language Understanding System'
+  url: https://www.aclweb.org/anthology/C80-1072
+  year: '1980'
+C80-1073:
+  author:
+  - first: D.
+    full: D. Metzing
+    id: dieter-metzing
+    last: Metzing
+  author_string: D. Metzing
+  bibkey: metzing-1980-atns
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '73'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1073.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1073.jpg
+  title: ATNs Used as a Procedural Dialog Model
+  title_html: <span class="acl-fixed-case">ATN</span>s Used as a Procedural Dialog
+    Model
+  url: https://www.aclweb.org/anthology/C80-1073
+  year: '1980'
+C80-1074:
+  author:
+  - first: Tsutomu
+    full: Tsutomu Endo
+    id: tsutomu-endo
+    last: Endo
+  - first: Tuneo
+    full: Tuneo Tamati
+    id: tuneo-tamati
+    last: Tamati
+  author_string: Tsutomu Endo, Tuneo Tamati
+  bibkey: endo-tamati-1980-decomposition
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '74'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1074.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1074.jpg
+  title: Decomposition of Japanese Sentences Into Normal Forms Based on Human Linguistic
+    Process
+  title_html: Decomposition of <span class="acl-fixed-case">J</span>apanese Sentences
+    Into Normal Forms Based on Human Linguistic Process
+  url: https://www.aclweb.org/anthology/C80-1074
+  year: '1980'
+C80-1075:
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Ralph Grishman
+  bibkey: grishman-1980-conjunctions
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '75'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1075.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1075.jpg
+  title: Conjunctions and Modularity in Language Analysis Procedures
+  title_html: Conjunctions and Modularity in Language Analysis Procedures
+  url: https://www.aclweb.org/anthology/C80-1075
+  year: '1980'
+C80-1076:
+  author:
+  - first: K.
+    full: K. Hanakata
+    id: kenji-hanakata
+    last: Hanakata
+  author_string: K. Hanakata
+  bibkey: hanakata-1980-intelligent
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '76'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1076.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1076.jpg
+  title: An intelligent digester for interactive text processings
+  title_html: An intelligent digester for interactive text processings
+  url: https://www.aclweb.org/anthology/C80-1076
+  year: '1980'
+C80-1077:
+  author:
+  - first: Ernest
+    full: Ernest Grandjean
+    id: ernest-grandjean
+    last: Grandjean
+  - first: Gerard
+    full: Gerard Veillon
+    id: gerard-veillon
+    last: Veillon
+  author_string: Ernest Grandjean, Gerard Veillon
+  bibkey: grandjean-veillon-1980-une
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '77'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1077.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1077.jpg
+  title: "Une Experience Pratique D\u2019utilisation De L\u2019analyse Linguistique\
+    \ En Recherche D\u2019information: Bilan & Perspectives"
+  title_html: "Une Experience Pratique D\u2019utilisation De L\u2019analyse Linguistique\
+    \ En Recherche D\u2019information: Bilan &amp; Perspectives"
+  url: https://www.aclweb.org/anthology/C80-1077
+  year: '1980'
+C80-1078:
+  author:
+  - first: Hiroshi
+    full: Hiroshi Kinukawa
+    id: hiroshi-kinukawa
+    last: Kinukawa
+  - first: Hiroshi
+    full: Hiroshi Matsuoka
+    id: hiroshi-matsuoka
+    last: Matsuoka
+  - first: Mutsuko
+    full: Mutsuko Kimura
+    id: mutsuko-kimura
+    last: Kimura
+  author_string: Hiroshi Kinukawa, Hiroshi Matsuoka, Mutsuko Kimura
+  bibkey: kinukawa-etal-1980-japanese
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '78'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1078.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1078.jpg
+  title: Japanese Sentence Analysis for Automatic Indexing
+  title_html: <span class="acl-fixed-case">J</span>apanese Sentence Analysis for Automatic
+    Indexing
+  url: https://www.aclweb.org/anthology/C80-1078
+  year: '1980'
+C80-1079:
+  author:
+  - first: P.A.C.
+    full: P.A.C. Bailes
+    id: p-a-c-bailes
+    last: Bailes
+  - first: L.H.
+    full: L.H. Reeker
+    id: larry-h-reeker
+    last: Reeker
+  author_string: P.A.C. Bailes, L.H. Reeker
+  bibkey: bailes-reeker-1980-experimental
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '79'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1079.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1079.jpg
+  title: An Experimental Applicative Programming Language for Linguistics and String
+    Processing
+  title_html: An Experimental Applicative Programming Language for Linguistics and
+    String Processing
+  url: https://www.aclweb.org/anthology/C80-1079
+  year: '1980'
+C80-1080:
+  author:
+  - first: Ian H.
+    full: Ian H. Witten
+    id: ian-h-witten
+    last: Witten
+  author_string: Ian H. Witten
+  bibkey: witten-1980-translating
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '80'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1080.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1080.jpg
+  title: Translating Interactive Computer Dialogues From Ideographic to Alphabetic
+    Languages
+  title_html: Translating Interactive Computer Dialogues From Ideographic to Alphabetic
+    Languages
+  url: https://www.aclweb.org/anthology/C80-1080
+  year: '1980'
+C80-1081:
+  author:
+  - first: M.
+    full: M. Nagao
+    id: makoto-nagao
+    last: Nagao
+  - first: J.
+    full: J. Tsujii
+    id: junichi-tsujii
+    last: Tsujii
+  - first: Y.
+    full: Y. Ueda
+    id: yoshihiro-ueda
+    last: Ueda
+  - first: M.
+    full: M. Takiyama
+    id: m-takiyama
+    last: Takiyama
+  author_string: M. Nagao, J. Tsujii, Y. Ueda, M. Takiyama
+  bibkey: nagao-etal-1980-attempt
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '81'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1081.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1081.jpg
+  title: An Attempt to Computerized Dictionary Data Bases
+  title_html: An Attempt to Computerized Dictionary Data Bases
+  url: https://www.aclweb.org/anthology/C80-1081
+  year: '1980'
+C80-1082:
+  author:
+  - first: Teruaki
+    full: Teruaki Aizawa
+    id: teruaki-aizawa
+    last: Aizawa
+  - first: Nobuko
+    full: Nobuko Hatada
+    id: nobuko-hatada
+    last: Hatada
+  author_string: Teruaki Aizawa, Nobuko Hatada
+  bibkey: aizawa-hatada-1980-using
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '82'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1082.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1082.jpg
+  title: Using a Natural-Artificial Hybrid Language for Database Access
+  title_html: Using a Natural-Artificial Hybrid Language for Database Access
+  url: https://www.aclweb.org/anthology/C80-1082
+  year: '1980'
+C80-1083:
+  author:
+  - first: Giovanni
+    full: Giovanni Guida
+    id: giovanni-guida
+    last: Guida
+  author_string: Giovanni Guida
+  bibkey: guida-1980-goal
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '83'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1083.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1083.jpg
+  title: 'Goal Oriented Parsing: Improving the Efficiency of Natural Language Access
+    to Relational Data Bases'
+  title_html: 'Goal Oriented Parsing: Improving the Efficiency of Natural Language
+    Access to Relational Data Bases'
+  url: https://www.aclweb.org/anthology/C80-1083
+  year: '1980'
+C80-1084:
+  author:
+  - first: Harald H.
+    full: Harald H. Zimmermann
+    id: harald-h-zimmermann
+    last: Zimmermann
+  author_string: Harald H. Zimmermann
+  bibkey: zimmermann-1980-naturlichsprachige
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '84'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1084.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1084.jpg
+  title: Naturlichsprachige Problembeschreibung Als Ein Verfahren Fur Den Burgernahen
+    Zugang Zu Dokumentationssystemen
+  title_html: Naturlichsprachige Problembeschreibung Als Ein Verfahren Fur Den Burgernahen
+    Zugang Zu Dokumentationssystemen
+  url: https://www.aclweb.org/anthology/C80-1084
+  year: '1980'
+C80-1085:
+  author:
+  - first: Peter
+    full: Peter Kummel
+    id: peter-kummel
+    last: Kummel
+  author_string: Peter Kummel
+  bibkey: kummel-1980-content
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '85'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1085.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1085.jpg
+  title: Content Guided Answer Search System for Natural Languages
+  title_html: Content Guided Answer Search System for Natural Languages
+  url: https://www.aclweb.org/anthology/C80-1085
+  year: '1980'
+C80-1086:
+  author:
+  - first: A.S.
+    full: "A.S. Narin\u2019yani"
+    id: a-s-narinyani
+    last: "Narin\u2019yani"
+  author_string: "A.S. Narin\u2019yani"
+  bibkey: narinyani-1980-interaction
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '86'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1086.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1086.jpg
+  title: Interaction With a Limited Object Domain - ZAPSIB Project
+  title_html: Interaction With a Limited Object Domain - <span class="acl-fixed-case">ZAPSIB</span>
+    Project
+  url: https://www.aclweb.org/anthology/C80-1086
+  year: '1980'
+C80-1087:
+  author:
+  - first: Gerhard
+    full: Gerhard Fischer
+    id: gerhard-fischer
+    last: Fischer
+  author_string: Gerhard Fischer
+  bibkey: fischer-1980-integrated
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '87'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1087.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1087.jpg
+  title: Integrated Information Manipulation Systems (IMS) - A Cognitive View
+  title_html: Integrated Information Manipulation Systems (<span class="acl-fixed-case">IMS</span>)
+    - A Cognitive View
+  url: https://www.aclweb.org/anthology/C80-1087
+  year: '1980'
+C80-1088:
+  author:
+  - first: Chang May
+    full: Chang May See
+    id: chang-may-see
+    last: See
+  author_string: Chang May See
+  bibkey: see-1980-morphological
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '88'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1088.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1088.jpg
+  title: The Morphological Analysis of Bahasa Malaysia
+  title_html: The Morphological Analysis of <span class="acl-fixed-case">B</span>ahasa
+    <span class="acl-fixed-case">M</span>alaysia
+  url: https://www.aclweb.org/anthology/C80-1088
+  year: '1980'
+C80-1089:
+  author:
+  - first: M.F.
+    full: M.F. Bruandet
+    id: m-f-bruandet
+    last: Bruandet
+  author_string: M.F. Bruandet
+  bibkey: bruandet-1980-conceptual
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '89'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1089.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1089.jpg
+  title: A Conceptual Framework for Automatic and Dynamic Thesaurus Updating in Information
+    Retrieval Systems
+  title_html: A Conceptual Framework for Automatic and Dynamic Thesaurus Updating
+    in Information Retrieval Systems
+  url: https://www.aclweb.org/anthology/C80-1089
+  year: '1980'
+C80-1090:
+  author:
+  - first: Maria
+    full: Maria Pozzi
+    id: maria-pozzi
+    last: Pozzi
+  - first: Javier
+    full: Javier Becerra
+    id: javier-becerra
+    last: Becerra
+  - first: Jaime
+    full: Jaime Rangel
+    id: jaime-rangel
+    last: Rangel
+  - first: Luis Fernando
+    full: Luis Fernando Lara
+    id: luis-fernando-lara
+    last: Lara
+  author_string: Maria Pozzi, Javier Becerra, Jaime Rangel, Luis Fernando Lara
+  bibkey: pozzi-etal-1980-method
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '90'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1090.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1090.jpg
+  title: A Method to Reduce Large Number of Concordances
+  title_html: A Method to Reduce Large Number of Concordances
+  url: https://www.aclweb.org/anthology/C80-1090
+  year: '1980'
+C80-1091:
+  author:
+  - first: Juhan
+    full: Juhan Tuldava
+    id: juhan-tuldava
+    last: Tuldava
+  author_string: Juhan Tuldava
+  bibkey: tuldava-1980-mathematical
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '91'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1091.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1091.jpg
+  title: A Mathematical Model of the Vocabulary-Text Relation
+  title_html: A Mathematical Model of the Vocabulary-Text Relation
+  url: https://www.aclweb.org/anthology/C80-1091
+  year: '1980'
+C80-1092:
+  author:
+  - first: Tsunao
+    full: Tsunao Ogino
+    id: tsunao-ogino
+    last: Ogino
+  author_string: Tsunao Ogino
+  bibkey: ogino-1980-computational
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '92'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1092.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1092.jpg
+  title: COMPUTATIONAL DIALECTOLOGY USING GLAPS - Automated Processing of Field Survey
+    Data -
+  title_html: COMPUTATIONAL DIALECTOLOGY USING <span class="acl-fixed-case">GLAPS</span>
+    - Automated Processing of Field Survey Data -
+  url: https://www.aclweb.org/anthology/C80-1092
+  year: '1980'
+C80-1093:
+  bibkey: nn-1980-author
+  bibtype: inproceedings
+  booktitle: 'COLING 1980 Volume 1: The 8th International Conference on Computational
+    Linguistics'
+  booktitle_html: '<span class="acl-fixed-case">COLING</span> 1980 Volume 1: The 8th
+    International Conference on Computational Linguistics'
+  paper_id: '93'
+  parent_volume_id: C80-1
+  pdf: https://www.aclweb.org/anthology/C80-1093.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/C80-1093.jpg
+  title: Author Index
+  title_html: Author Index
+  url: https://www.aclweb.org/anthology/C80-1093
+  year: '1980'

@@ -1,0 +1,3796 @@
+Y15-1000:
+  address: Shanghai, China
+  author:
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  author_string: Hai Zhao
+  bibkey: paclic-2015-pacific
+  bibtype: proceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  paper_id: '0'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1000.jpg
+  title: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  title_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  url: https://www.aclweb.org/anthology/Y15-1000
+  year: '2015'
+Y15-1001:
+  address: Shanghai, China
+  author:
+  - first: Renqiang
+    full: Renqiang Wang
+    id: renqiang-wang
+    last: Wang
+  - first: Changning
+    full: Changning Huang
+    id: changning-huang
+    last: Huang
+  author_string: Renqiang Wang, Changning Huang
+  bibkey: wang-huang-2015-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '1'
+  page_last: '10'
+  pages: "1\u201310"
+  paper_id: '1'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1001.jpg
+  title: Two-level Word Class Categorization Model in Analytic Languages and Its Implications
+    for POS Tagging in Modern Chinese Corpora
+  title_html: Two-level Word Class Categorization Model in Analytic Languages and
+    Its Implications for <span class="acl-fixed-case">POS</span> Tagging in Modern
+    <span class="acl-fixed-case">C</span>hinese Corpora
+  url: https://www.aclweb.org/anthology/Y15-1001
+  year: '2015'
+Y15-1002:
+  address: Shanghai, China
+  author:
+  - first: Yao
+    full: Yao Yao
+    id: yao-yao
+    last: Yao
+  author_string: Yao Yao
+  bibkey: yao-2015-review
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '11'
+  page_last: '15'
+  pages: "11\u201315"
+  paper_id: '2'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1002.jpg
+  title: A Review of Corpus-based Statistical Models of Language Variation
+  title_html: A Review of Corpus-based Statistical Models of Language Variation
+  url: https://www.aclweb.org/anthology/Y15-1002
+  year: '2015'
+Y15-1003:
+  address: Shanghai, China
+  author:
+  - first: Hao
+    full: Hao Wang
+    id: hao-wang
+    last: Wang
+  - first: Lu
+    full: Lu Lyu
+    id: lu-lyu
+    last: Lyu
+  - first: Yves
+    full: Yves Lepage
+    id: yves-lepage
+    last: Lepage
+  author_string: Hao Wang, Lu Lyu, Yves Lepage
+  bibkey: wang-etal-2015-translation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '16'
+  page_last: '25'
+  pages: "16\u201325"
+  paper_id: '3'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1003.jpg
+  title: Translation of Unseen Bigrams by Analogy Using an SVM Classifier
+  title_html: Translation of Unseen Bigrams by Analogy Using an <span class="acl-fixed-case">SVM</span>
+    Classifier
+  url: https://www.aclweb.org/anthology/Y15-1003
+  year: '2015'
+Y15-1004:
+  address: Shanghai, China
+  author:
+  - first: Karima
+    full: Karima Meftouh
+    id: karima-meftouh
+    last: Meftouh
+  - first: Salima
+    full: Salima Harrat
+    id: salima-harrat
+    last: Harrat
+  - first: Salma
+    full: Salma Jamoussi
+    id: salma-jamoussi
+    last: Jamoussi
+  - first: Mourad
+    full: Mourad Abbas
+    id: mourad-abbas
+    last: Abbas
+  - first: Kamel
+    full: Kamel Smaili
+    id: kamel-smaili
+    last: Smaili
+  author_string: Karima Meftouh, Salima Harrat, Salma Jamoussi, Mourad Abbas, Kamel
+    Smaili
+  bibkey: meftouh-etal-2015-machine
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '26'
+  page_last: '34'
+  pages: "26\u201334"
+  paper_id: '4'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1004.jpg
+  title: 'Machine Translation Experiments on PADIC: A Parallel Arabic DIalect Corpus'
+  title_html: 'Machine Translation Experiments on <span class="acl-fixed-case">PADIC</span>:
+    A Parallel <span class="acl-fixed-case">A</span>rabic <span class="acl-fixed-case">DI</span>alect
+    Corpus'
+  url: https://www.aclweb.org/anthology/Y15-1004
+  year: '2015'
+Y15-1005:
+  address: Shanghai, China
+  author:
+  - first: Kanako
+    full: Kanako Komiya
+    id: kanako-komiya
+    last: Komiya
+  - first: Yuto
+    full: Yuto Sasaki
+    id: yuto-sasaki
+    last: Sasaki
+  - first: Hajime
+    full: Hajime Morita
+    id: hajime-morita
+    last: Morita
+  - first: Minoru
+    full: Minoru Sasaki
+    id: minoru-sasaki
+    last: Sasaki
+  - first: Hiroyuki
+    full: Hiroyuki Shinnou
+    id: hiroyuki-shinnou
+    last: Shinnou
+  - first: Yoshiyuki
+    full: Yoshiyuki Kotani
+    id: yoshiyuki-kotani
+    last: Kotani
+  author_string: Kanako Komiya, Yuto Sasaki, Hajime Morita, Minoru Sasaki, Hiroyuki
+    Shinnou, Yoshiyuki Kotani
+  bibkey: komiya-etal-2015-surrounding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '35'
+  page_last: '43'
+  pages: "35\u201343"
+  paper_id: '5'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1005.jpg
+  title: Surrounding Word Sense Model for Japanese All-words Word Sense Disambiguation
+  title_html: Surrounding Word Sense Model for <span class="acl-fixed-case">J</span>apanese
+    All-words Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/Y15-1005
+  year: '2015'
+Y15-1006:
+  address: Shanghai, China
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu
+    last: Liu
+  - first: Chengjie
+    full: Chengjie Sun
+    id: cheng-jie-sun
+    last: Sun
+  - first: Lei
+    full: Lei Lin
+    id: lei-lin
+    last: Lin
+  - first: Xiaolong
+    full: Xiaolong Wang
+    id: xiaolong-wang
+    last: Wang
+  - first: Yuming
+    full: Yuming Zhao
+    id: yuming-zhao
+    last: Zhao
+  author_string: Yang Liu, Chengjie Sun, Lei Lin, Xiaolong Wang, Yuming Zhao
+  bibkey: liu-etal-2015-computing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '44'
+  page_last: '52'
+  pages: "44\u201352"
+  paper_id: '6'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1006.jpg
+  title: Computing Semantic Text Similarity Using Rich Features
+  title_html: Computing Semantic Text Similarity Using Rich Features
+  url: https://www.aclweb.org/anthology/Y15-1006
+  year: '2015'
+Y15-1007:
+  address: Shanghai, China
+  author:
+  - first: Shichang
+    full: Shichang Wang
+    id: shichang-wang
+    last: Wang
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  - first: Yao
+    full: Yao Yao
+    id: yao-yao
+    last: Yao
+  - first: Angel
+    full: Angel Chan
+    id: angel-chan
+    last: Chan
+  author_string: Shichang Wang, Chu-Ren Huang, Yao Yao, Angel Chan
+  bibkey: wang-etal-2015-mechanical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '53'
+  page_last: '62'
+  pages: "53\u201362"
+  paper_id: '7'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1007.jpg
+  title: 'Mechanical Turk-based Experiment vs Laboratory-based Experiment: A Case
+    Study on the Comparison of Semantic Transparency Rating Data'
+  title_html: 'Mechanical Turk-based Experiment vs Laboratory-based Experiment: A
+    Case Study on the Comparison of Semantic Transparency Rating Data'
+  url: https://www.aclweb.org/anthology/Y15-1007
+  year: '2015'
+Y15-1008:
+  address: Shanghai, China
+  author:
+  - first: Atsushi
+    full: Atsushi Otsuka
+    id: atsushi-otsuka
+    last: Otsuka
+  - first: Toru
+    full: Toru Hirano
+    id: toru-hirano
+    last: Hirano
+  - first: Chiaki
+    full: Chiaki Miyazaki
+    id: chiaki-miyazaki
+    last: Miyazaki
+  - first: Ryo
+    full: Ryo Masumura
+    id: ryo-masumura
+    last: Masumura
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Toshiro
+    full: Toshiro Makino
+    id: toshiro-makino
+    last: Makino
+  - first: Yoshihiro
+    full: Yoshihiro Matsuo
+    id: yoshihiro-matsuo
+    last: Matsuo
+  author_string: Atsushi Otsuka, Toru Hirano, Chiaki Miyazaki, Ryo Masumura, Ryuichiro
+    Higashinaka, Toshiro Makino, Yoshihiro Matsuo
+  bibkey: otsuka-etal-2015-discourse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '63'
+  page_last: '72'
+  pages: "63\u201372"
+  paper_id: '8'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1008.jpg
+  title: Discourse Relation Recognition by Comparing Various Units of Sentence Expression
+    with Recursive Neural Network
+  title_html: Discourse Relation Recognition by Comparing Various Units of Sentence
+    Expression with Recursive Neural Network
+  url: https://www.aclweb.org/anthology/Y15-1008
+  year: '2015'
+Y15-1009:
+  address: Shanghai, China
+  author:
+  - first: Shu
+    full: Shu Zhang
+    id: shu-zhang
+    last: Zhang
+  - first: Dequan
+    full: Dequan Zheng
+    id: dequan-zheng
+    last: Zheng
+  - first: Xinchen
+    full: Xinchen Hu
+    id: xinchen-hu
+    last: Hu
+  - first: Ming
+    full: Ming Yang
+    id: ming-yang
+    last: Yang
+  author_string: Shu Zhang, Dequan Zheng, Xinchen Hu, Ming Yang
+  bibkey: zhang-etal-2015-bidirectional
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '73'
+  page_last: '78'
+  pages: "73\u201378"
+  paper_id: '9'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1009.jpg
+  title: Bidirectional Long Short-Term Memory Networks for Relation Classification
+  title_html: Bidirectional Long Short-Term Memory Networks for Relation Classification
+  url: https://www.aclweb.org/anthology/Y15-1009
+  year: '2015'
+Y15-1010:
+  address: Shanghai, China
+  author:
+  - first: Miao
+    full: Miao Fan
+    id: miao-fan
+    last: Fan
+  - first: Qiang
+    full: Qiang Zhou
+    id: qiang-zhou
+    last: Zhou
+  - first: Thomas Fang
+    full: Thomas Fang Zheng
+    id: fang-zheng
+    last: Zheng
+  author_string: Miao Fan, Qiang Zhou, Thomas Fang Zheng
+  bibkey: fan-etal-2015-distant
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '79'
+  page_last: '86'
+  pages: "79\u201386"
+  paper_id: '10'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1010.jpg
+  title: Distant Supervision for Entity Linking
+  title_html: Distant Supervision for Entity Linking
+  url: https://www.aclweb.org/anthology/Y15-1010
+  year: '2015'
+Y15-1011:
+  address: Shanghai, China
+  author:
+  - first: Chao-Lin
+    full: Chao-Lin Liu
+    id: chao-lin-liu
+    last: Liu
+  - first: Chih-Kai
+    full: Chih-Kai Huang
+    id: chih-kai-huang
+    last: Huang
+  - first: Hongsu
+    full: Hongsu Wang
+    id: hongsu-wang
+    last: Wang
+  - first: Peter K.
+    full: Peter K. Bol
+    id: peter-k-bol
+    last: Bol
+  author_string: Chao-Lin Liu, Chih-Kai Huang, Hongsu Wang, Peter K. Bol
+  bibkey: liu-etal-2015-toward
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '87'
+  page_last: '95'
+  pages: "87\u201395"
+  paper_id: '11'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1011.jpg
+  title: Toward Algorithmic Discovery of Biographical Information in Local Gazetteers
+    of Ancient China
+  title_html: Toward Algorithmic Discovery of Biographical Information in Local Gazetteers
+    of Ancient China
+  url: https://www.aclweb.org/anthology/Y15-1011
+  year: '2015'
+Y15-1012:
+  address: Shanghai, China
+  author:
+  - first: Sho
+    full: Sho Takase
+    id: sho-takase
+    last: Takase
+  - first: Naoaki
+    full: Naoaki Okazaki
+    id: naoaki-okazaki
+    last: Okazaki
+  - first: Kentaro
+    full: Kentaro Inui
+    id: kentaro-inui
+    last: Inui
+  author_string: Sho Takase, Naoaki Okazaki, Kentaro Inui
+  bibkey: takase-etal-2015-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '96'
+  page_last: '105'
+  pages: "96\u2013105"
+  paper_id: '12'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1012.jpg
+  title: Fast and Large-scale Unsupervised Relation Extraction
+  title_html: Fast and Large-scale Unsupervised Relation Extraction
+  url: https://www.aclweb.org/anthology/Y15-1012
+  year: '2015'
+Y15-1013:
+  address: Shanghai, China
+  author:
+  - first: Hiroya
+    full: Hiroya Komatsu
+    id: hiroya-komatsu
+    last: Komatsu
+  - first: Ran
+    full: Ran Tian
+    id: ran-tian
+    last: Tian
+  - first: Naoaki
+    full: Naoaki Okazaki
+    id: naoaki-okazaki
+    last: Okazaki
+  - first: Kentaro
+    full: Kentaro Inui
+    id: kentaro-inui
+    last: Inui
+  author_string: Hiroya Komatsu, Ran Tian, Naoaki Okazaki, Kentaro Inui
+  bibkey: komatsu-etal-2015-reducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '106'
+  page_last: '113'
+  pages: "106\u2013113"
+  paper_id: '13'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1013.jpg
+  title: Reducing Lexical Features in Parsing by Word Embeddings
+  title_html: Reducing Lexical Features in Parsing by Word Embeddings
+  url: https://www.aclweb.org/anthology/Y15-1013
+  year: '2015'
+Y15-1014:
+  address: Shanghai, China
+  author:
+  - first: Zhisong
+    full: Zhisong Zhang
+    id: zhisong-zhang
+    last: Zhang
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  author_string: Zhisong Zhang, Hai Zhao
+  bibkey: zhang-zhao-2015-high
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '114'
+  page_last: '123'
+  pages: "114\u2013123"
+  paper_id: '14'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1014.jpg
+  title: High-order Graph-based Neural Dependency Parsing
+  title_html: High-order Graph-based Neural Dependency Parsing
+  url: https://www.aclweb.org/anthology/Y15-1014
+  year: '2015'
+Y15-1015:
+  address: Shanghai, China
+  author:
+  - first: Tohru
+    full: Tohru Seraku
+    id: tohru-seraku
+    last: Seraku
+  author_string: Tohru Seraku
+  bibkey: seraku-2015-dynamic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '124'
+  page_last: '132'
+  pages: "124\u2013132"
+  paper_id: '15'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1015.jpg
+  title: A Dynamic Syntax Modelling of Postposing in Japanese Narratives
+  title_html: A Dynamic Syntax Modelling of Postposing in <span class="acl-fixed-case">J</span>apanese
+    Narratives
+  url: https://www.aclweb.org/anthology/Y15-1015
+  year: '2015'
+Y15-1016:
+  address: Shanghai, China
+  author:
+  - first: Othman
+    full: Othman Zennaki
+    id: othman-zennaki
+    last: Zennaki
+  - first: Nasredine
+    full: Nasredine Semmar
+    id: nasredine-semmar
+    last: Semmar
+  - first: Laurent
+    full: Laurent Besacier
+    id: laurent-besacier
+    last: Besacier
+  author_string: Othman Zennaki, Nasredine Semmar, Laurent Besacier
+  bibkey: zennaki-etal-2015-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '133'
+  page_last: '142'
+  pages: "133\u2013142"
+  paper_id: '16'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1016.jpg
+  title: Unsupervised and Lightly Supervised Part-of-Speech Tagging Using Recurrent
+    Neural Networks
+  title_html: Unsupervised and Lightly Supervised Part-of-Speech Tagging Using Recurrent
+    Neural Networks
+  url: https://www.aclweb.org/anthology/Y15-1016
+  year: '2015'
+Y15-1017:
+  address: Shanghai, China
+  author:
+  - first: Hongzheng
+    full: Hongzheng Li
+    id: hongzheng-li
+    last: Li
+  - first: Yaohong
+    full: Yaohong Jin
+    id: yaohong-jin
+    last: Jin
+  author_string: Hongzheng Li, Yaohong Jin
+  bibkey: li-jin-2015-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '143'
+  page_last: '149'
+  pages: "143\u2013149"
+  paper_id: '17'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1017.jpg
+  title: Identifying Prepositional Phrases in Chinese Patent Texts with Rule-based
+    and CRF Methods
+  title_html: Identifying Prepositional Phrases in <span class="acl-fixed-case">C</span>hinese
+    Patent Texts with Rule-based and <span class="acl-fixed-case">CRF</span> Methods
+  url: https://www.aclweb.org/anthology/Y15-1017
+  year: '2015'
+Y15-1018:
+  address: Shanghai, China
+  author:
+  - first: Peinan
+    full: Peinan Zhang
+    id: peinan-zhang
+    last: Zhang
+  - first: Mamoru
+    full: Mamoru Komachi
+    id: mamoru-komachi
+    last: Komachi
+  author_string: Peinan Zhang, Mamoru Komachi
+  bibkey: zhang-komachi-2015-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '150'
+  page_last: '159'
+  pages: "150\u2013159"
+  paper_id: '18'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1018.jpg
+  title: Japanese Sentiment Classification with Stacked Denoising Auto-Encoder using
+    Distributed Word Representation
+  title_html: <span class="acl-fixed-case">J</span>apanese Sentiment Classification
+    with Stacked Denoising Auto-Encoder using Distributed Word Representation
+  url: https://www.aclweb.org/anthology/Y15-1018
+  year: '2015'
+Y15-1019:
+  address: Shanghai, China
+  author:
+  - first: Yiwei
+    full: Yiwei Zhou
+    id: yiwei-zhou
+    last: Zhou
+  - first: Alexandra
+    full: Alexandra Cristea
+    id: alexandra-cristea
+    last: Cristea
+  - first: Zachary
+    full: Zachary Roberts
+    id: zachary-roberts
+    last: Roberts
+  author_string: Yiwei Zhou, Alexandra Cristea, Zachary Roberts
+  bibkey: zhou-etal-2015-wikipedia
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '160'
+  page_last: '168'
+  pages: "160\u2013168"
+  paper_id: '19'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1019.jpg
+  title: Is Wikipedia Really Neutral? A Sentiment Perspective Study of War-related
+    Wikipedia Articles since 1945
+  title_html: Is <span class="acl-fixed-case">W</span>ikipedia Really Neutral? A Sentiment
+    Perspective Study of War-related <span class="acl-fixed-case">W</span>ikipedia
+    Articles since 1945
+  url: https://www.aclweb.org/anthology/Y15-1019
+  year: '2015'
+Y15-1020:
+  address: Shanghai, China
+  author:
+  - first: Nguyen Hoai Nam
+    full: Nguyen Hoai Nam Le
+    id: nguyen-hoai-nam-le
+    last: Le
+  - first: Bao Quoc
+    full: Bao Quoc Ho
+    id: bao-quoc-ho
+    last: Ho
+  author_string: Nguyen Hoai Nam Le, Bao Quoc Ho
+  bibkey: le-ho-2015-comprehensive
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '169'
+  page_last: '177'
+  pages: "169\u2013177"
+  paper_id: '20'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1020.jpg
+  title: A Comprehensive Filter Feature Selection for Improving Document Classification
+  title_html: A Comprehensive Filter Feature Selection for Improving Document Classification
+  url: https://www.aclweb.org/anthology/Y15-1020
+  year: '2015'
+Y15-1021:
+  address: Shanghai, China
+  author:
+  - first: Piyoros
+    full: Piyoros Tungthamthiti
+    id: piyoros-tungthamthiti
+    last: Tungthamthiti
+  - first: Enrico
+    full: Enrico Santus
+    id: enrico-santus
+    last: Santus
+  - first: Hongzhi
+    full: Hongzhi Xu
+    id: hongzhi-xu
+    last: Xu
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  - first: Kiyoaki
+    full: Kiyoaki Shirai
+    id: kiyoaki-shirai
+    last: Shirai
+  author_string: Piyoros Tungthamthiti, Enrico Santus, Hongzhi Xu, Chu-Ren Huang,
+    Kiyoaki Shirai
+  bibkey: tungthamthiti-etal-2015-sentiment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '178'
+  page_last: '187'
+  pages: "178\u2013187"
+  paper_id: '21'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1021.jpg
+  title: Sentiment Analyzer with Rich Features for Ironic and Sarcastic Tweets
+  title_html: Sentiment Analyzer with Rich Features for Ironic and Sarcastic Tweets
+  url: https://www.aclweb.org/anthology/Y15-1021
+  year: '2015'
+Y15-1022:
+  address: Shanghai, China
+  author:
+  - first: Ponrudee
+    full: Ponrudee Netisopakul
+    id: ponrudee-netisopakul
+    last: Netisopakul
+  - first: Apinan
+    full: Apinan Chattupan
+    id: apinan-chattupan
+    last: Chattupan
+  author_string: Ponrudee Netisopakul, Apinan Chattupan
+  bibkey: netisopakul-chattupan-2015-thai
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '188'
+  page_last: '195'
+  pages: "188\u2013195"
+  paper_id: '22'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1022.jpg
+  title: Thai Stock News Sentiment Classification using Wordpair Features
+  title_html: <span class="acl-fixed-case">T</span>hai Stock News Sentiment Classification
+    using Wordpair Features
+  url: https://www.aclweb.org/anthology/Y15-1022
+  year: '2015'
+Y15-1023:
+  address: Shanghai, China
+  author:
+  - first: Amine
+    full: Amine Bayoudhi
+    id: amine-bayoudhi
+    last: Bayoudhi
+  - first: Hatem
+    full: Hatem Ghorbel
+    id: hatem-ghorbel
+    last: Ghorbel
+  - first: Lamia Hadrich
+    full: Lamia Hadrich Belguith
+    id: lamia-hadrich-belguith
+    last: Belguith
+  author_string: Amine Bayoudhi, Hatem Ghorbel, Lamia Hadrich Belguith
+  bibkey: bayoudhi-etal-2015-sentiment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '196'
+  page_last: '205'
+  pages: "196\u2013205"
+  paper_id: '23'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1023.jpg
+  title: 'Sentiment Classification of Arabic Documents: Experiments with multi-type
+    features and ensemble algorithms'
+  title_html: 'Sentiment Classification of <span class="acl-fixed-case">A</span>rabic
+    Documents: Experiments with multi-type features and ensemble algorithms'
+  url: https://www.aclweb.org/anthology/Y15-1023
+  year: '2015'
+Y15-1024:
+  address: Shanghai, China
+  author:
+  - first: Yan
+    full: Yan Cong
+    id: yan-cong
+    last: Cong
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  - first: Lian-Hee
+    full: Lian-Hee Wee
+    id: lian-hee-wee
+    last: Wee
+  author_string: Yan Cong, Chu-Ren Huang, Lian-Hee Wee
+  bibkey: cong-etal-2015-invertible
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '206'
+  page_last: '211'
+  pages: "206\u2013211"
+  paper_id: '24'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1024.jpg
+  title: The Invertible Construction in Chinese
+  title_html: The Invertible Construction in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/Y15-1024
+  year: '2015'
+Y15-1025:
+  address: Shanghai, China
+  author:
+  - first: Hyunjun
+    full: Hyunjun Park
+    id: hyunjun-park
+    last: Park
+  author_string: Hyunjun Park
+  bibkey: park-2015-pans
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '212'
+  page_last: '220'
+  pages: "212\u2013220"
+  paper_id: '25'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1025.jpg
+  title: "Pan\u2019s (2001) puzzle revisited"
+  title_html: "Pan\u2019s (2001) puzzle revisited"
+  url: https://www.aclweb.org/anthology/Y15-1025
+  year: '2015'
+Y15-1026:
+  address: Shanghai, China
+  author:
+  - first: Kohji
+    full: Kohji Kamada
+    id: kohji-kamada
+    last: Kamada
+  author_string: Kohji Kamada
+  bibkey: kamada-2015-english
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '221'
+  page_last: '230'
+  pages: "221\u2013230"
+  paper_id: '26'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1026.jpg
+  title: English Right Dislocation
+  title_html: <span class="acl-fixed-case">E</span>nglish Right Dislocation
+  url: https://www.aclweb.org/anthology/Y15-1026
+  year: '2015'
+Y15-1027:
+  address: Shanghai, China
+  author:
+  - first: Helena Yan Ping
+    full: Helena Yan Ping Lau
+    id: helena-yan-ping-lau
+    last: Lau
+  - first: Sophia Yat Mei
+    full: Sophia Yat Mei Lee
+    id: sophia-yat-mei-lee
+    last: Lee
+  author_string: Helena Yan Ping Lau, Sophia Yat Mei Lee
+  bibkey: lau-lee-2015-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '231'
+  page_last: '239'
+  pages: "231\u2013239"
+  paper_id: '27'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1027.jpg
+  title: A Comparative Study on Mandarin and Cantonese Resultative Verb Compounds
+  title_html: A Comparative Study on <span class="acl-fixed-case">M</span>andarin
+    and <span class="acl-fixed-case">C</span>antonese Resultative Verb Compounds
+  url: https://www.aclweb.org/anthology/Y15-1027
+  year: '2015'
+Y15-1028:
+  address: Shanghai, China
+  author:
+  - first: Yong-hun
+    full: Yong-hun Lee
+    id: yong-hun-lee
+    last: Lee
+  - first: Yeonkyung
+    full: Yeonkyung Park
+    id: yeonkyung-park
+    last: Park
+  author_string: Yong-hun Lee, Yeonkyung Park
+  bibkey: lee-park-2015-complex
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '240'
+  page_last: '249'
+  pages: "240\u2013249"
+  paper_id: '28'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1028.jpg
+  title: 'Complex-NP Islands in Korean: An Experimental Approach'
+  title_html: 'Complex-<span class="acl-fixed-case">NP</span> Islands in <span class="acl-fixed-case">K</span>orean:
+    An Experimental Approach'
+  url: https://www.aclweb.org/anthology/Y15-1028
+  year: '2015'
+Y15-1029:
+  address: Shanghai, China
+  author:
+  - first: Ji-Hye
+    full: Ji-Hye Kim
+    id: ji-hye-kim
+    last: Kim
+  - first: Eunah
+    full: Eunah Kim
+    id: eunah-kim
+    last: Kim
+  - first: James
+    full: James Yoon
+    id: james-yoon
+    last: Yoon
+  author_string: Ji-Hye Kim, Eunah Kim, James Yoon
+  bibkey: kim-etal-2015-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '250'
+  page_last: '258'
+  pages: "250\u2013258"
+  paper_id: '29'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1029.jpg
+  title: Two Types of Multiple Subject Constructions (MSCs) in Korean
+  title_html: Two Types of Multiple Subject Constructions (<span class="acl-fixed-case">MSC</span>s)
+    in <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y15-1029
+  year: '2015'
+Y15-1030:
+  address: Shanghai, China
+  author:
+  - first: Ye
+    full: Ye Kyaw Thu
+    id: ye-kyaw-thu1
+    last: Kyaw Thu
+  - first: Vichet
+    full: Vichet Chea
+    id: vichet-chea
+    last: Chea
+  - first: Andrew
+    full: Andrew Finch
+    id: andrew-finch
+    last: Finch
+  - first: Masao
+    full: Masao Utiyama
+    id: masao-utiyama
+    last: Utiyama
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Ye Kyaw Thu, Vichet Chea, Andrew Finch, Masao Utiyama, Eiichiro Sumita
+  bibkey: kyaw-thu-etal-2015-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '259'
+  page_last: '269'
+  pages: "259\u2013269"
+  paper_id: '30'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1030.jpg
+  title: A Large-scale Study of Statistical Machine Translation Methods for Khmer
+    Language
+  title_html: A Large-scale Study of Statistical Machine Translation Methods for <span
+    class="acl-fixed-case">K</span>hmer Language
+  url: https://www.aclweb.org/anthology/Y15-1030
+  year: '2015'
+Y15-1031:
+  address: Shanghai, China
+  author:
+  - first: Rui
+    full: Rui Wang
+    id: rui-wang
+    last: Wang
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  - first: Bao-Liang
+    full: Bao-Liang Lu
+    id: bao-liang-lu
+    last: Lu
+  author_string: Rui Wang, Hai Zhao, Bao-Liang Lu
+  bibkey: wang-etal-2015-english
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '270'
+  page_last: '280'
+  pages: "270\u2013280"
+  paper_id: '31'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1031.jpg
+  title: 'English to Chinese Translation: How Chinese Character Matters'
+  title_html: '<span class="acl-fixed-case">E</span>nglish to <span class="acl-fixed-case">C</span>hinese
+    Translation: How <span class="acl-fixed-case">C</span>hinese Character Matters'
+  url: https://www.aclweb.org/anthology/Y15-1031
+  year: '2015'
+Y15-1032:
+  address: Shanghai, China
+  author:
+  - first: Xiaoqing
+    full: Xiaoqing Li
+    id: xiaoqing-li
+    last: Li
+  - first: Kun
+    full: Kun Wang
+    id: kun-wang
+    last: Wang
+  - first: Dakun
+    full: Dakun Zhang
+    id: dakun-zhang
+    last: Zhang
+  - first: Jie
+    full: Jie Hao
+    id: jie-hao
+    last: Hao
+  author_string: Xiaoqing Li, Kun Wang, Dakun Zhang, Jie Hao
+  bibkey: li-etal-2015-well
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '281'
+  page_last: '288'
+  pages: "281\u2013288"
+  paper_id: '32'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1032.jpg
+  title: Well-Formed Dependency to String translation with BTG Grammar
+  title_html: Well-Formed Dependency to String translation with <span class="acl-fixed-case">BTG</span>
+    Grammar
+  url: https://www.aclweb.org/anthology/Y15-1032
+  year: '2015'
+Y15-1033:
+  address: Shanghai, China
+  author:
+  - first: Raj
+    full: Raj Dabre
+    id: raj-dabre
+    last: Dabre
+  - first: Chenhui
+    full: Chenhui Chu
+    id: chenhui-chu
+    last: Chu
+  - first: Fabien
+    full: Fabien Cromieres
+    id: fabien-cromieres
+    last: Cromieres
+  - first: Toshiaki
+    full: Toshiaki Nakazawa
+    id: toshiaki-nakazawa
+    last: Nakazawa
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Raj Dabre, Chenhui Chu, Fabien Cromieres, Toshiaki Nakazawa, Sadao
+    Kurohashi
+  bibkey: dabre-etal-2015-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '289'
+  page_last: '297'
+  pages: "289\u2013297"
+  paper_id: '33'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1033.jpg
+  title: Large-scale Dictionary Construction via Pivot-based Statistical Machine Translation
+    with Significance Pruning and Neural Network Features
+  title_html: Large-scale Dictionary Construction via Pivot-based Statistical Machine
+    Translation with Significance Pruning and Neural Network Features
+  url: https://www.aclweb.org/anthology/Y15-1033
+  year: '2015'
+Y15-1034:
+  address: Shanghai, China
+  author:
+  - first: Laurent
+    full: "Laurent Pr\xE9vot"
+    id: laurent-prevot
+    last: "Pr\xE9vot"
+  - first: Jan
+    full: Jan Gorisch
+    id: jan-gorisch
+    last: Gorisch
+  - first: Sankar
+    full: Sankar Mukherjee
+    id: sankar-mukherjee
+    last: Mukherjee
+  author_string: "Laurent Pr\xE9vot, Jan Gorisch, Sankar Mukherjee"
+  bibkey: prevot-etal-2015-annotation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '298'
+  page_last: '306'
+  pages: "298\u2013306"
+  paper_id: '34'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1034.jpg
+  title: Annotation and Classification of French Feedback Communicative Functions
+  title_html: Annotation and Classification of <span class="acl-fixed-case">F</span>rench
+    Feedback Communicative Functions
+  url: https://www.aclweb.org/anthology/Y15-1034
+  year: '2015'
+Y15-1035:
+  address: Shanghai, China
+  author:
+  - first: Chiaki
+    full: Chiaki Miyazaki
+    id: chiaki-miyazaki
+    last: Miyazaki
+  - first: Toru
+    full: Toru Hirano
+    id: toru-hirano
+    last: Hirano
+  - first: Ryuichiro
+    full: Ryuichiro Higashinaka
+    id: ryuichiro-higashinaka
+    last: Higashinaka
+  - first: Toshiro
+    full: Toshiro Makino
+    id: toshiro-makino
+    last: Makino
+  - first: Yoshihiro
+    full: Yoshihiro Matsuo
+    id: yoshihiro-matsuo
+    last: Matsuo
+  author_string: Chiaki Miyazaki, Toru Hirano, Ryuichiro Higashinaka, Toshiro Makino,
+    Yoshihiro Matsuo
+  bibkey: miyazaki-etal-2015-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '307'
+  page_last: '314'
+  pages: "307\u2013314"
+  paper_id: '35'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1035.jpg
+  title: Automatic conversion of sentence-end expressions for utterance characterization
+    of dialogue systems
+  title_html: Automatic conversion of sentence-end expressions for utterance characterization
+    of dialogue systems
+  url: https://www.aclweb.org/anthology/Y15-1035
+  year: '2015'
+Y15-1036:
+  address: Shanghai, China
+  author:
+  - first: Qingqing
+    full: Qingqing Zhao
+    id: qingqing-zhao
+    last: Zhao
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  - first: Hongzhi
+    full: Hongzhi Xu
+    id: hongzhi-xu
+    last: Xu
+  author_string: Qingqing Zhao, Chu-Ren Huang, Hongzhi Xu
+  bibkey: zhao-etal-2015-auditory
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '315'
+  page_last: '322'
+  pages: "315\u2013322"
+  paper_id: '36'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1036.jpg
+  title: 'Auditory Synaesthesia and Near Synonyms: A Corpus-Based Analysis of sheng1
+    and yin1 in Mandarin Chinese'
+  title_html: 'Auditory Synaesthesia and Near Synonyms: A Corpus-Based Analysis of
+    sheng1 and yin1 in <span class="acl-fixed-case">M</span>andarin <span class="acl-fixed-case">C</span>hinese'
+  url: https://www.aclweb.org/anthology/Y15-1036
+  year: '2015'
+Y15-1037:
+  address: Shanghai, China
+  author:
+  - first: Hiroshi
+    full: Hiroshi Tsukahara
+    id: hiroshi-tsukahara
+    last: Tsukahara
+  - first: Kei
+    full: Kei Uchiumi
+    id: kei-uchiumi
+    last: Uchiumi
+  author_string: Hiroshi Tsukahara, Kei Uchiumi
+  bibkey: tsukahara-uchiumi-2015-system
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '323'
+  page_last: '331'
+  pages: "323\u2013331"
+  paper_id: '37'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1037.jpg
+  title: System Utterance Generation by Label Propagation over Association Graph of
+    Words and Utterance Patterns for Open-Domain Dialogue Systems
+  title_html: System Utterance Generation by Label Propagation over Association Graph
+    of Words and Utterance Patterns for Open-Domain Dialogue Systems
+  url: https://www.aclweb.org/anthology/Y15-1037
+  year: '2015'
+Y15-1038:
+  address: Shanghai, China
+  author:
+  - first: Yutung
+    full: Yutung Chang
+    id: yutung-chang
+    last: Chang
+  - first: Kawai
+    full: Kawai Chui
+    id: ka-wai-chui
+    last: Chui
+  author_string: Yutung Chang, Kawai Chui
+  bibkey: chang-chui-2015-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '332'
+  page_last: '340'
+  pages: "332\u2013340"
+  paper_id: '38'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1038.jpg
+  title: The Cross-modal Representation of Metaphors
+  title_html: The Cross-modal Representation of Metaphors
+  url: https://www.aclweb.org/anthology/Y15-1038
+  year: '2015'
+Y15-1039:
+  address: Shanghai, China
+  author:
+  - first: Qi
+    full: Qi Zhang
+    id: qi-zhang
+    last: Zhang
+  - first: Ronan
+    full: Ronan Reilly
+    id: ronan-g-reilly
+    last: Reilly
+  author_string: Qi Zhang, Ronan Reilly
+  bibkey: zhang-reilly-2015-writing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '341'
+  page_last: '350'
+  pages: "341\u2013350"
+  paper_id: '39'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1039.jpg
+  title: 'Writing to Read: the Case of Chinese'
+  title_html: 'Writing to Read: the Case of <span class="acl-fixed-case">C</span>hinese'
+  url: https://www.aclweb.org/anthology/Y15-1039
+  year: '2015'
+Y15-1040:
+  address: Shanghai, China
+  author:
+  - first: Katsunori
+    full: Katsunori Kotani
+    id: katsunori-kotani
+    last: Kotani
+  - first: Takehiko
+    full: Takehiko Yoshimi
+    id: takehiko-yoshimi
+    last: Yoshimi
+  author_string: Katsunori Kotani, Takehiko Yoshimi
+  bibkey: kotani-yoshimi-2015-design
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '351'
+  page_last: '358'
+  pages: "351\u2013358"
+  paper_id: '40'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1040.jpg
+  title: Design of a Learner Corpus for Listening and Speaking Performance
+  title_html: Design of a Learner Corpus for Listening and Speaking Performance
+  url: https://www.aclweb.org/anthology/Y15-1040
+  year: '2015'
+Y15-1041:
+  address: Shanghai, China
+  author:
+  - first: Helena Hong
+    full: Helena Hong Gao
+    id: helena-hong-gao
+    last: Gao
+  - first: Can
+    full: Can Guo
+    id: can-guo
+    last: Guo
+  author_string: Helena Hong Gao, Can Guo
+  bibkey: gao-guo-2015-understanding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '359'
+  page_last: '368'
+  pages: "359\u2013368"
+  paper_id: '41'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1041.jpg
+  title: "Understanding Infants\u2019 Language Development in Relation to Levels of\
+    \ Consciousness: An Approach in Building up an Agent-based Model"
+  title_html: "Understanding Infants\u2019 Language Development in Relation to Levels\
+    \ of Consciousness: An Approach in Building up an Agent-based Model"
+  url: https://www.aclweb.org/anthology/Y15-1041
+  year: '2015'
+Y15-1042:
+  address: Shanghai, China
+  author:
+  - first: John
+    full: John Richardson
+    id: john-richardson
+    last: Richardson
+  - first: Toshiaki
+    full: Toshiaki Nakazawa
+    id: toshiaki-nakazawa
+    last: Nakazawa
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: John Richardson, Toshiaki Nakazawa, Sadao Kurohashi
+  bibkey: richardson-etal-2015-pivot
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '369'
+  page_last: '377'
+  pages: "369\u2013377"
+  paper_id: '42'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1042.jpg
+  title: Pivot-Based Topic Models for Low-Resource Lexicon Extraction
+  title_html: Pivot-Based Topic Models for Low-Resource Lexicon Extraction
+  url: https://www.aclweb.org/anthology/Y15-1042
+  year: '2015'
+Y15-1043:
+  address: Shanghai, China
+  author:
+  - first: Ying
+    full: Ying Liu
+    id: ying-liu
+    last: Liu
+  author_string: Ying Liu
+  bibkey: liu-2015-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '378'
+  page_last: '386'
+  pages: "378\u2013386"
+  paper_id: '43'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1043.jpg
+  title: A Corpus-Based Study of zunshou and Its English Equivalents
+  title_html: A Corpus-Based Study of zunshou and Its <span class="acl-fixed-case">E</span>nglish
+    Equivalents
+  url: https://www.aclweb.org/anthology/Y15-1043
+  year: '2015'
+Y15-1044:
+  address: Shanghai, China
+  author:
+  - first: Imen
+    full: Imen Elleuch
+    id: imen-elleuch
+    last: Elleuch
+  - first: Bilel
+    full: Bilel Gargouri
+    id: bilel-gargouri
+    last: Gargouri
+  - first: Abdelmajid
+    full: Abdelmajid Ben Hamadou
+    id: abdelmajid-ben-hamadou
+    last: Ben Hamadou
+  author_string: Imen Elleuch, Bilel Gargouri, Abdelmajid Ben Hamadou
+  bibkey: elleuch-etal-2015-self
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '387'
+  page_last: '395'
+  pages: "387\u2013395"
+  paper_id: '44'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1044.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1044.jpg
+  title: Self Syntactico-Semantic Enrichment of LMF Normalized Dictionaries
+  title_html: Self Syntactico-Semantic Enrichment of <span class="acl-fixed-case">LMF</span>
+    Normalized Dictionaries
+  url: https://www.aclweb.org/anthology/Y15-1044
+  year: '2015'
+Y15-1045:
+  address: Shanghai, China
+  author:
+  - first: Ren-feng
+    full: Ren-feng Duann
+    id: ren-feng-duann
+    last: Duann
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  author_string: Ren-feng Duann, Chu-Ren Huang
+  bibkey: duann-huang-2015-embodiment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '396'
+  page_last: '403'
+  pages: "396\u2013403"
+  paper_id: '45'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1045.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1045.jpg
+  title: 'When Embodiment Meets Generative Lexicon: The Human Body Part Metaphors
+    in Sinica Corpus'
+  title_html: 'When Embodiment Meets Generative Lexicon: The Human Body Part Metaphors
+    in Sinica Corpus'
+  url: https://www.aclweb.org/anthology/Y15-1045
+  year: '2015'
+Y15-1046:
+  address: Shanghai, China
+  author:
+  - first: Toshiko
+    full: Toshiko Oda
+    id: toshiko-oda
+    last: Oda
+  author_string: Toshiko Oda
+  bibkey: oda-2015-degree
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '404'
+  page_last: '412'
+  pages: "404\u2013412"
+  paper_id: '46'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1046.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1046.jpg
+  title: "Degree Variables by Choose Degree in Izyooni \u2018than\u2019-Clauses"
+  title_html: "Degree Variables by Choose Degree in Izyooni \u2018than\u2019-Clauses"
+  url: https://www.aclweb.org/anthology/Y15-1046
+  year: '2015'
+Y15-1047:
+  address: Shanghai, China
+  author:
+  - first: Myungkwan
+    full: Myungkwan Park
+    id: myung-kwan-park
+    last: Park
+  - first: Sunjoo
+    full: Sunjoo Choi
+    id: sunjoo-choi
+    last: Choi
+  author_string: Myungkwan Park, Sunjoo Choi
+  bibkey: park-choi-2015-voice
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '413'
+  page_last: '421'
+  pages: "413\u2013421"
+  paper_id: '47'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1047.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1047.jpg
+  title: Not Voice but Case Identity in VP Ellipsis of English
+  title_html: Not Voice but Case Identity in <span class="acl-fixed-case">VP</span>
+    Ellipsis of <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/Y15-1047
+  year: '2015'
+Y15-1048:
+  address: Shanghai, China
+  author:
+  - first: Euhee
+    full: Euhee Kim
+    id: euhee-kim
+    last: Kim
+  - first: Myungkwan
+    full: Myungkwan Park
+    id: myung-kwan-park
+    last: Park
+  author_string: Euhee Kim, Myungkwan Park
+  bibkey: kim-park-2015-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '422'
+  page_last: '430'
+  pages: "422\u2013430"
+  paper_id: '48'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1048.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1048.jpg
+  title: A Statistical Modeling of the Correlation between Island Effects and Working-memory
+    Capacity for L2 Learners
+  title_html: A Statistical Modeling of the Correlation between Island Effects and
+    Working-memory Capacity for <span class="acl-fixed-case">L</span>2 Learners
+  url: https://www.aclweb.org/anthology/Y15-1048
+  year: '2015'
+Y15-1049:
+  address: Shanghai, China
+  author:
+  - first: Jiajuan
+    full: Jiajuan Xiong
+    id: jiajuan-xiong
+    last: Xiong
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  author_string: Jiajuan Xiong, Chu-Ren Huang
+  bibkey: xiong-huang-2015-de
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '431'
+  page_last: '438'
+  pages: "431\u2013438"
+  paper_id: '49'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1049.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1049.jpg
+  title: 'De-verbalization and Nominal Categories in Mandarin Chinese: A corpus-driven
+    study in both Mainland Mandarin and Taiwan Mandarin'
+  title_html: 'De-verbalization and Nominal Categories in <span class="acl-fixed-case">M</span>andarin
+    <span class="acl-fixed-case">C</span>hinese: A corpus-driven study in both Mainland
+    <span class="acl-fixed-case">M</span>andarin and Taiwan <span class="acl-fixed-case">M</span>andarin'
+  url: https://www.aclweb.org/anthology/Y15-1049
+  year: '2015'
+Y15-1050:
+  address: Shanghai, China
+  author:
+  - first: Arum
+    full: Arum Park
+    id: arum-park
+    last: Park
+  - first: Seunghee
+    full: Seunghee Lim
+    id: seunghee-lim
+    last: Lim
+  - first: Munpyo
+    full: Munpyo Hong
+    id: munpyo-hong
+    last: Hong
+  author_string: Arum Park, Seunghee Lim, Munpyo Hong
+  bibkey: park-etal-2015-zero
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '439'
+  page_last: '448'
+  pages: "439\u2013448"
+  paper_id: '50'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1050.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1050.jpg
+  title: Zero Object Resolution in Korean
+  title_html: Zero Object Resolution in <span class="acl-fixed-case">K</span>orean
+  url: https://www.aclweb.org/anthology/Y15-1050
+  year: '2015'
+Y15-1051:
+  address: Shanghai, China
+  author:
+  - first: Xiaoyi
+    full: Xiaoyi Wu
+    id: xiaoyi-wu
+    last: Wu
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Xiaoyi Wu, Yuji Matsumoto
+  bibkey: wu-matsumoto-2015-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '449'
+  page_last: '454'
+  pages: "449\u2013454"
+  paper_id: '51'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1051.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1051.jpg
+  title: An Improved Hierarchical Word Sequence Language Model Using Directional Information
+  title_html: An Improved Hierarchical Word Sequence Language Model Using Directional
+    Information
+  url: https://www.aclweb.org/anthology/Y15-1051
+  year: '2015'
+Y15-1052:
+  address: Shanghai, China
+  author:
+  - first: Shenyuan
+    full: Shenyuan Chen
+    id: shenyuan-chen
+    last: Chen
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  - first: Rui
+    full: Rui Wang
+    id: rui-wang
+    last: Wang
+  author_string: Shenyuan Chen, Hai Zhao, Rui Wang
+  bibkey: chen-etal-2015-neural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '455'
+  page_last: '461'
+  pages: "455\u2013461"
+  paper_id: '52'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1052.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1052.jpg
+  title: Neural Network Language Model for Chinese Pinyin Input Method Engine
+  title_html: Neural Network Language Model for <span class="acl-fixed-case">C</span>hinese
+    Pinyin Input Method Engine
+  url: https://www.aclweb.org/anthology/Y15-1052
+  year: '2015'
+Y15-1053:
+  address: Shanghai, China
+  author:
+  - first: Wenting
+    full: Wenting Tu
+    id: wenting-tu
+    last: Tu
+  - first: David
+    full: David Cheung
+    id: david-cheung
+    last: Cheung
+  - first: Nikos
+    full: Nikos Mamoulis
+    id: nikos-mamoulis
+    last: Mamoulis
+  - first: Min
+    full: Min Yang
+    id: min-yang
+    last: Yang
+  - first: Ziyu
+    full: Ziyu Lu
+    id: ziyu-lu
+    last: Lu
+  author_string: Wenting Tu, David Cheung, Nikos Mamoulis, Min Yang, Ziyu Lu
+  bibkey: tu-etal-2015-real
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '462'
+  page_last: '470'
+  pages: "462\u2013470"
+  paper_id: '53'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1053.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1053.jpg
+  title: Real-time Detection and Sorting of News on Microblogging Platforms
+  title_html: Real-time Detection and Sorting of News on Microblogging Platforms
+  url: https://www.aclweb.org/anthology/Y15-1053
+  year: '2015'
+Y15-1054:
+  address: Shanghai, China
+  author:
+  - first: Kohei
+    full: Kohei Kurihara
+    id: kohei-kurihara
+    last: Kurihara
+  - first: Kazutaka
+    full: Kazutaka Shimada
+    id: kazutaka-shimada
+    last: Shimada
+  author_string: Kohei Kurihara, Kazutaka Shimada
+  bibkey: kurihara-shimada-2015-trouble
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '471'
+  page_last: '479'
+  pages: "471\u2013479"
+  paper_id: '54'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1054.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1054.jpg
+  title: Trouble information extraction based on a bootstrap approach from Twitter
+  title_html: Trouble information extraction based on a bootstrap approach from Twitter
+  url: https://www.aclweb.org/anthology/Y15-1054
+  year: '2015'
+Y15-1055:
+  address: Shanghai, China
+  author:
+  - first: Yinjun
+    full: Yinjun Hu
+    id: yinjun-hu
+    last: Hu
+  - first: Yasuo
+    full: Yasuo Tanida
+    id: yasuo-tanida
+    last: Tanida
+  author_string: Yinjun Hu, Yasuo Tanida
+  bibkey: hu-tanida-2015-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '480'
+  page_last: '487'
+  pages: "480\u2013487"
+  paper_id: '55'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1055.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1055.jpg
+  title: Using Twitter Data to Infer Personal Values of Japanese Consumers
+  title_html: Using Twitter Data to Infer Personal Values of <span class="acl-fixed-case">J</span>apanese
+    Consumers
+  url: https://www.aclweb.org/anthology/Y15-1055
+  year: '2015'
+Y15-1056:
+  address: Shanghai, China
+  author:
+  - first: Yoshinari
+    full: Yoshinari Fujinuma
+    id: yoshinari-fujinuma
+    last: Fujinuma
+  - first: Hikaru
+    full: Hikaru Yokono
+    id: hikaru-yokono
+    last: Yokono
+  - first: Pascual
+    full: "Pascual Mart\xEDnez-G\xF3mez"
+    id: pascual-martinez-gomez
+    last: "Mart\xEDnez-G\xF3mez"
+  - first: Akiko
+    full: Akiko Aizawa
+    id: akiko-aizawa
+    last: Aizawa
+  author_string: "Yoshinari Fujinuma, Hikaru Yokono, Pascual Mart\xEDnez-G\xF3mez,\
+    \ Akiko Aizawa"
+  bibkey: fujinuma-etal-2015-distant
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '488'
+  page_last: '495'
+  pages: "488\u2013495"
+  paper_id: '56'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1056.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1056.jpg
+  title: Distant-supervised Language Model for Detecting Emotional Upsurge on Twitter
+  title_html: Distant-supervised Language Model for Detecting Emotional Upsurge on
+    Twitter
+  url: https://www.aclweb.org/anthology/Y15-1056
+  year: '2015'
+Y15-1057:
+  address: Shanghai, China
+  author:
+  - first: Hiroyuki
+    full: Hiroyuki Shinnou
+    id: hiroyuki-shinnou
+    last: Shinnou
+  - first: Liying
+    full: Liying Xiao
+    id: liying-xiao
+    last: Xiao
+  - first: Minoru
+    full: Minoru Sasaki
+    id: minoru-sasaki
+    last: Sasaki
+  - first: Kanako
+    full: Kanako Komiya
+    id: kanako-komiya
+    last: Komiya
+  author_string: Hiroyuki Shinnou, Liying Xiao, Minoru Sasaki, Kanako Komiya
+  bibkey: shinnou-etal-2015-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '496'
+  page_last: '503'
+  pages: "496\u2013503"
+  paper_id: '57'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1057.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1057.jpg
+  title: Hybrid Method of Semi-supervised Learning and Feature Weighted Learning for
+    Domain Adaptation of Document Classification
+  title_html: Hybrid Method of Semi-supervised Learning and Feature Weighted Learning
+    for Domain Adaptation of Document Classification
+  url: https://www.aclweb.org/anthology/Y15-1057
+  year: '2015'
+Y15-1058:
+  address: Shanghai, China
+  author:
+  - first: Hoang-Quoc
+    full: Hoang-Quoc Nguyen-Son
+    id: hoang-quoc-nguyen-son
+    last: Nguyen-Son
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: Isao
+    full: Isao Echizen
+    id: isao-echizen
+    last: Echizen
+  author_string: Hoang-Quoc Nguyen-Son, Yusuke Miyao, Isao Echizen
+  bibkey: nguyen-son-etal-2015-paraphrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '504'
+  page_last: '512'
+  pages: "504\u2013512"
+  paper_id: '58'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1058.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1058.jpg
+  title: Paraphrase Detection Based on Identical Phrase and Similar Word Matching
+  title_html: Paraphrase Detection Based on Identical Phrase and Similar Word Matching
+  url: https://www.aclweb.org/anthology/Y15-1058
+  year: '2015'
+Y15-1059:
+  address: Shanghai, China
+  author:
+  - first: Takuto
+    full: Takuto Nakamuta
+    id: takuto-nakamuta
+    last: Nakamuta
+  - first: Kazutaka
+    full: Kazutaka Shimada
+    id: kazutaka-shimada
+    last: Shimada
+  author_string: Takuto Nakamuta, Kazutaka Shimada
+  bibkey: nakamuta-shimada-2015-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '513'
+  page_last: '521'
+  pages: "513\u2013521"
+  paper_id: '59'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1059.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1059.jpg
+  title: Multi-aspects Rating Prediction Using Aspect Words and Sentences
+  title_html: Multi-aspects Rating Prediction Using Aspect Words and Sentences
+  url: https://www.aclweb.org/anthology/Y15-1059
+  year: '2015'
+Y15-1060:
+  address: Shanghai, China
+  author:
+  - first: Rahul
+    full: Rahul Kamath
+    id: rahul-kamath
+    last: Kamath
+  - first: Masanao
+    full: Masanao Ochi
+    id: masanao-ochi
+    last: Ochi
+  - first: Yutaka
+    full: Yutaka Matsuo
+    id: yutaka-matsuo
+    last: Matsuo
+  author_string: Rahul Kamath, Masanao Ochi, Yutaka Matsuo
+  bibkey: kamath-etal-2015-understanding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '522'
+  page_last: '528'
+  pages: "522\u2013528"
+  paper_id: '60'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1060.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1060.jpg
+  title: Understanding Rating Behaviour and Predicting Ratings by Identifying Representative
+    Users
+  title_html: Understanding Rating Behaviour and Predicting Ratings by Identifying
+    Representative Users
+  url: https://www.aclweb.org/anthology/Y15-1060
+  year: '2015'
+Y15-1061:
+  address: Shanghai, China
+  author:
+  - first: Xuwen
+    full: Xuwen Wang
+    id: xuwen-wang
+    last: Wang
+  - first: Qiang
+    full: Qiang Zhang
+    id: qiang-zhang
+    last: Zhang
+  - first: Xiaojie
+    full: Xiaojie Wang
+    id: xiaojie-wang
+    last: Wang
+  - first: Junlian
+    full: Junlian Li
+    id: junlian-li
+    last: Li
+  author_string: Xuwen Wang, Qiang Zhang, Xiaojie Wang, Junlian Li
+  bibkey: wang-etal-2015-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '529'
+  page_last: '534'
+  pages: "529\u2013534"
+  paper_id: '61'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1061.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1061.jpg
+  title: Cross-lingual Pseudo Relevance Feedback Based on Weak Relevant Topic Alignment
+  title_html: Cross-lingual Pseudo Relevance Feedback Based on Weak Relevant Topic
+    Alignment
+  url: https://www.aclweb.org/anthology/Y15-1061
+  year: '2015'
+Y15-1062:
+  address: Shanghai, China
+  author:
+  - first: Jin-Woo
+    full: Jin-Woo Chung
+    id: jin-woo-chung
+    last: Chung
+  - first: Jinseon
+    full: Jinseon You
+    id: jinseon-you
+    last: You
+  - first: Jong C.
+    full: Jong C. Park
+    id: jong-c-park
+    last: Park
+  author_string: Jin-Woo Chung, Jinseon You, Jong C. Park
+  bibkey: chung-etal-2015-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '535'
+  page_last: '543'
+  pages: "535\u2013543"
+  paper_id: '62'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1062.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1062.jpg
+  title: Corpus annotation with a linguistic analysis of the associations between
+    event mentions and spatial expressions
+  title_html: Corpus annotation with a linguistic analysis of the associations between
+    event mentions and spatial expressions
+  url: https://www.aclweb.org/anthology/Y15-1062
+  year: '2015'
+Y15-1063:
+  address: Shanghai, China
+  author:
+  - first: Junta
+    full: Junta Mizuno
+    id: junta-mizuno
+    last: Mizuno
+  - first: Canasai
+    full: Canasai Kruengkrai
+    id: canasai-kruengkrai
+    last: Kruengkrai
+  - first: Kiyonori
+    full: Kiyonori Ohtake
+    id: kiyonori-ohtake
+    last: Ohtake
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: Julien
+    full: Julien Kloetzer
+    id: julien-kloetzer
+    last: Kloetzer
+  - first: Kentaro
+    full: Kentaro Inui
+    id: kentaro-inui
+    last: Inui
+  author_string: Junta Mizuno, Canasai Kruengkrai, Kiyonori Ohtake, Chikara Hashimoto,
+    Kentaro Torisawa, Julien Kloetzer, Kentaro Inui
+  bibkey: mizuno-etal-2015-recognizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '544'
+  page_last: '552'
+  pages: "544\u2013552"
+  paper_id: '63'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1063.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1063.jpg
+  title: Recognizing Complex Negation on Twitter
+  title_html: Recognizing Complex Negation on Twitter
+  url: https://www.aclweb.org/anthology/Y15-1063
+  year: '2015'
+Y15-1064:
+  address: Shanghai, China
+  author:
+  - first: Xiaolei
+    full: Xiaolei Huang
+    id: xiaolei-huang
+    last: Huang
+  - first: Xin
+    full: Xin Li
+    id: xin-li
+    last: Li
+  - first: Tianli
+    full: Tianli Liu
+    id: tianli-liu
+    last: Liu
+  - first: David
+    full: David Chiu
+    id: david-chiu
+    last: Chiu
+  - first: Tingshao
+    full: Tingshao Zhu
+    id: tingshao-zhu
+    last: Zhu
+  - first: Lei
+    full: Lei Zhang
+    id: lei-zhang
+    last: Zhang
+  author_string: Xiaolei Huang, Xin Li, Tianli Liu, David Chiu, Tingshao Zhu, Lei
+    Zhang
+  bibkey: huang-etal-2015-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '553'
+  page_last: '562'
+  pages: "553\u2013562"
+  paper_id: '64'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1064.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1064.jpg
+  title: Topic Model for Identifying Suicidal Ideation in Chinese Microblog
+  title_html: Topic Model for Identifying Suicidal Ideation in <span class="acl-fixed-case">C</span>hinese
+    Microblog
+  url: https://www.aclweb.org/anthology/Y15-1064
+  year: '2015'
+Y15-1065:
+  address: Shanghai, China
+  author:
+  - first: Yujie
+    full: Yujie Lu
+    id: yujie-lu
+    last: Lu
+  - first: Jinlong
+    full: Jinlong Guo
+    id: jinlong-guo
+    last: Guo
+  - first: Kotaro
+    full: Kotaro Sakamoto
+    id: kotaro-sakamoto
+    last: Sakamoto
+  - first: Hideyuki
+    full: Hideyuki Shibuki
+    id: hideyuki-shibuki
+    last: Shibuki
+  - first: Tatsunori
+    full: Tatsunori Mori
+    id: tatsunori-mori
+    last: Mori
+  author_string: Yujie Lu, Jinlong Guo, Kotaro Sakamoto, Hideyuki Shibuki, Tatsunori
+    Mori
+  bibkey: lu-etal-2015-predicting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  booktitle_html: Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation
+  month: October
+  page_first: '563'
+  page_last: '571'
+  pages: "563\u2013571"
+  paper_id: '65'
+  parent_volume_id: Y15-1
+  pdf: https://www.aclweb.org/anthology/Y15-1065.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-1065.jpg
+  title: Predicting Sector Index Movement with Microblogging Public Mood Time Series
+    on Social Issues
+  title_html: Predicting Sector Index Movement with Microblogging Public Mood Time
+    Series on Social Issues
+  url: https://www.aclweb.org/anthology/Y15-1065
+  year: '2015'
+Y15-2000:
+  address: Shanghai, China
+  author:
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  author_string: Hai Zhao
+  bibkey: paclic-2015-pacific-asia
+  bibtype: proceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  paper_id: '0'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2000.jpg
+  title: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  title_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  url: https://www.aclweb.org/anthology/Y15-2000
+  year: '2015'
+Y15-2001:
+  address: Shanghai, China
+  author:
+  - first: Tomotaka
+    full: Tomotaka Fukuoka
+    id: tomotaka-fukuoka
+    last: Fukuoka
+  - first: Kiyoaki
+    full: Kiyoaki Shirai
+    id: kiyoaki-shirai
+    last: Shirai
+  author_string: Tomotaka Fukuoka, Kiyoaki Shirai
+  bibkey: fukuoka-shirai-2015-identification
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '1'
+  page_last: '9'
+  pages: "1\u20139"
+  paper_id: '1'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2001.jpg
+  title: Identification of Sympathy in Free Conversation
+  title_html: Identification of Sympathy in Free Conversation
+  url: https://www.aclweb.org/anthology/Y15-2001
+  year: '2015'
+Y15-2002:
+  address: Shanghai, China
+  author:
+  - first: Oi Yee
+    full: Oi Yee Kwong
+    id: olivia-o-y-kwong
+    last: Kwong
+  author_string: Oi Yee Kwong
+  bibkey: kwong-2015-toward
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '10'
+  page_last: '18'
+  pages: "10\u201318"
+  paper_id: '2'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2002.jpg
+  title: Toward a Corpus of Cantonese Verbal Comments and their Classification by
+    Multi-dimensional Analysis
+  title_html: Toward a Corpus of <span class="acl-fixed-case">C</span>antonese Verbal
+    Comments and their Classification by Multi-dimensional Analysis
+  url: https://www.aclweb.org/anthology/Y15-2002
+  year: '2015'
+Y15-2003:
+  address: Shanghai, China
+  author:
+  - first: Soyun
+    full: Soyun Jeong
+    id: soyun-jeong
+    last: Jeong
+  - first: Youngmin
+    full: Youngmin Park
+    id: youngmin-park
+    last: Park
+  - first: Sangwoo
+    full: Sangwoo Kang
+    id: sangwoo-kang
+    last: Kang
+  - first: Jungyun
+    full: Jungyun Seo
+    id: jungyun-seo
+    last: Seo
+  author_string: Soyun Jeong, Youngmin Park, Sangwoo Kang, Jungyun Seo
+  bibkey: jeong-etal-2015-improved
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '19'
+  page_last: '26'
+  pages: "19\u201326"
+  paper_id: '3'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2003.jpg
+  title: Improved Entity Linking with User History and News Articles
+  title_html: Improved Entity Linking with User History and News Articles
+  url: https://www.aclweb.org/anthology/Y15-2003
+  year: '2015'
+Y15-2004:
+  address: Shanghai, China
+  author:
+  - first: Ju-han
+    full: Ju-han Chuang
+    id: ju-han-chuang
+    last: Chuang
+  - first: Shu-Kai
+    full: Shu-Kai Hsieh
+    id: shu-kai-hsieh
+    last: Hsieh
+  author_string: Ju-han Chuang, Shu-Kai Hsieh
+  bibkey: chuang-hsieh-2015-arguing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '27'
+  page_last: '36'
+  pages: "27\u201336"
+  paper_id: '4'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2004.jpg
+  title: An Arguing Lexicon for Stance Classification on Short Text Comments in Chinese
+  title_html: An Arguing Lexicon for Stance Classification on Short Text Comments
+    in <span class="acl-fixed-case">C</span>hinese
+  url: https://www.aclweb.org/anthology/Y15-2004
+  year: '2015'
+Y15-2005:
+  address: Shanghai, China
+  author:
+  - first: Jim
+    full: Jim Chang
+    id: jim-chang
+    last: Chang
+  - first: Hsiang-Ling
+    full: Hsiang-Ling Hsu
+    id: hsiang-ling-hsu
+    last: Hsu
+  - first: Joanne
+    full: Joanne Boisson
+    id: joanne-boisson
+    last: Boisson
+  - first: Hao-Chun
+    full: Hao-Chun Peng
+    id: hao-chun-peng
+    last: Peng
+  - first: Yu-Hsuan
+    full: Yu-Hsuan Wu
+    id: yu-hsuan-wu
+    last: Wu
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Jim Chang, Hsiang-Ling Hsu, Joanne Boisson, Hao-Chun Peng, Yu-Hsuan
+    Wu, Jason S. Chang
+  bibkey: chang-etal-2015-learning
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '37'
+  page_last: '45'
+  pages: "37\u201345"
+  paper_id: '5'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2005.jpg
+  title: Learning Sentential Patterns of Various Rhetoric Moves for Assisted Academic
+    Writing
+  title_html: Learning Sentential Patterns of Various Rhetoric Moves for Assisted
+    Academic Writing
+  url: https://www.aclweb.org/anthology/Y15-2005
+  year: '2015'
+Y15-2006:
+  address: Shanghai, China
+  author:
+  - first: Hee-Rahk
+    full: Hee-Rahk Chae
+    id: hee-rahk-chae
+    last: Chae
+  author_string: Hee-Rahk Chae
+  bibkey: chae-2015-idioms
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '46'
+  page_last: '54'
+  pages: "46\u201354"
+  paper_id: '6'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2006.jpg
+  title: 'Idioms: Formally Flexible but Semantically Non-transparent'
+  title_html: '<span class="acl-fixed-case">I</span>dioms: Formally Flexible but Semantically
+    Non-transparent'
+  url: https://www.aclweb.org/anthology/Y15-2006
+  year: '2015'
+Y15-2007:
+  address: Shanghai, China
+  author:
+  - first: Gwangrak
+    full: Gwangrak Son
+    id: gwangrak-son
+    last: Son
+  author_string: Gwangrak Son
+  bibkey: son-2015-asymmetries
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '55'
+  page_last: '63'
+  pages: "55\u201363"
+  paper_id: '7'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2007.jpg
+  title: Asymmetries in Scrambling and Distinctness of Copies
+  title_html: Asymmetries in Scrambling and Distinctness of Copies
+  url: https://www.aclweb.org/anthology/Y15-2007
+  year: '2015'
+Y15-2008:
+  address: Shanghai, China
+  author:
+  - first: Hiroshi
+    full: Hiroshi Uehara
+    id: hiroshi-uehara
+    last: Uehara
+  - first: Mizuho
+    full: Mizuho Baba
+    id: mizuho-baba
+    last: Baba
+  - first: Takehito
+    full: Takehito Utsuro
+    id: takehito-utsuro
+    last: Utsuro
+  author_string: Hiroshi Uehara, Mizuho Baba, Takehito Utsuro
+  bibkey: uehara-etal-2015-detecting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '64'
+  page_last: '71'
+  pages: "64\u201371"
+  paper_id: '8'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2008.jpg
+  title: "Detecting an Infant\u2019s Developmental Reactions in Reviews on Picture\
+    \ Books"
+  title_html: "Detecting an Infant\u2019s Developmental Reactions in Reviews on Picture\
+    \ Books"
+  url: https://www.aclweb.org/anthology/Y15-2008
+  year: '2015'
+Y15-2009:
+  address: Shanghai, China
+  author:
+  - first: Sung-Kwon
+    full: Sung-Kwon Choi
+    id: sung-kwon-choi
+    last: Choi
+  - first: Jong-Hun
+    full: Jong-Hun Shin
+    id: jong-hun-shin
+    last: Shin
+  - first: Young-Gil
+    full: Young-Gil Kim
+    id: young-gil-kim
+    last: Kim
+  author_string: Sung-Kwon Choi, Jong-Hun Shin, Young-Gil Kim
+  bibkey: choi-etal-2015-semi
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '72'
+  page_last: '79'
+  pages: "72\u201379"
+  paper_id: '9'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2009.jpg
+  title: Semi-automatic Filtering of Translation Errors in Triangle Corpus
+  title_html: Semi-automatic Filtering of Translation Errors in Triangle Corpus
+  url: https://www.aclweb.org/anthology/Y15-2009
+  year: '2015'
+Y15-2010:
+  address: Shanghai, China
+  author:
+  - first: Yu
+    full: Yu Shen
+    id: yu-shen
+    last: Shen
+  - first: Chenhui
+    full: Chenhui Chu
+    id: chenhui-chu
+    last: Chu
+  - first: Fabien
+    full: Fabien Cromieres
+    id: fabien-cromieres
+    last: Cromieres
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Yu Shen, Chenhui Chu, Fabien Cromieres, Sadao Kurohashi
+  bibkey: shen-etal-2015-cross
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '80'
+  page_last: '88'
+  pages: "80\u201388"
+  paper_id: '10'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2010.jpg
+  title: Cross-language Projection of Dependency Trees for Tree-to-tree Machine Translation
+  title_html: Cross-language Projection of Dependency Trees for Tree-to-tree Machine
+    Translation
+  url: https://www.aclweb.org/anthology/Y15-2010
+  year: '2015'
+Y15-2011:
+  address: Shanghai, China
+  author:
+  - first: Jing
+    full: Jing Wu
+    id: jing-wu
+    last: Wu
+  - first: Hongxu
+    full: Hongxu Hou
+    id: hongxu-hou
+    last: Hou
+  - first: Congjiao
+    full: Congjiao Xie
+    id: congjiao-xie
+    last: Xie
+  author_string: Jing Wu, Hongxu Hou, Congjiao Xie
+  bibkey: wu-etal-2015-realignment
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '89'
+  page_last: '95'
+  pages: "89\u201395"
+  paper_id: '11'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2011.jpg
+  title: Realignment from Finer-grained Alignment to Coarser-grained Alignment to
+    Enhance Mongolian-Chinese SMT
+  title_html: Realignment from Finer-grained Alignment to Coarser-grained Alignment
+    to Enhance <span class="acl-fixed-case">M</span>ongolian-<span class="acl-fixed-case">C</span>hinese
+    <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/Y15-2011
+  year: '2015'
+Y15-2012:
+  address: Shanghai, China
+  author:
+  - first: Zahrul
+    full: Zahrul Islam
+    id: zahurul-islam
+    last: Islam
+  - first: Natia
+    full: Natia Dundua
+    id: natia-dundua
+    last: Dundua
+  author_string: Zahrul Islam, Natia Dundua
+  bibkey: islam-dundua-2015-finding
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '96'
+  page_last: '105'
+  pages: "96\u2013105"
+  paper_id: '12'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2012.jpg
+  title: Finding the Origin of a Translated Historical Document
+  title_html: Finding the Origin of a Translated Historical Document
+  url: https://www.aclweb.org/anthology/Y15-2012
+  year: '2015'
+Y15-2013:
+  address: Shanghai, China
+  author:
+  - first: Nasredine
+    full: Nasredine Semmar
+    id: nasredine-semmar
+    last: Semmar
+  - first: Othman
+    full: Othman Zennaki
+    id: othman-zennaki
+    last: Zennaki
+  - first: Meriama
+    full: Meriama Laib
+    id: meriama-laib
+    last: Laib
+  author_string: Nasredine Semmar, Othman Zennaki, Meriama Laib
+  bibkey: semmar-etal-2015-improving
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '106'
+  page_last: '115'
+  pages: "106\u2013115"
+  paper_id: '13'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2013.jpg
+  title: Improving the Performance of an Example-Based Machine Translation System
+    Using a Domain-specific Bilingual Lexicon
+  title_html: Improving the Performance of an Example-Based Machine Translation System
+    Using a Domain-specific Bilingual Lexicon
+  url: https://www.aclweb.org/anthology/Y15-2013
+  year: '2015'
+Y15-2014:
+  address: Shanghai, China
+  author:
+  - first: Gyu-Hyeong
+    full: Gyu-Hyeong Lee
+    id: gyu-hyeong-lee
+    last: Lee
+  - first: Ha-Eung
+    full: Ha-Eung Kim
+    id: ha-eung-kim
+    last: Kim
+  - first: Yong-hun
+    full: Yong-hun Lee
+    id: yong-hun-lee
+    last: Lee
+  author_string: Gyu-Hyeong Lee, Ha-Eung Kim, Yong-hun Lee
+  bibkey: lee-etal-2015-multifactorial
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '116'
+  page_last: '124'
+  pages: "116\u2013124"
+  paper_id: '14'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2014.jpg
+  title: "A Multifactorial Analysis of English Particle Movement in Korean EFL Learners\u2019\
+    \ Writings"
+  title_html: "A Multifactorial Analysis of <span class=\"acl-fixed-case\">E</span>nglish\
+    \ Particle Movement in <span class=\"acl-fixed-case\">K</span>orean <span class=\"\
+    acl-fixed-case\">EFL</span> Learners\u2019 Writings"
+  url: https://www.aclweb.org/anthology/Y15-2014
+  year: '2015'
+Y15-2015:
+  address: Shanghai, China
+  author:
+  - first: Masayuki
+    full: Masayuki Komai
+    id: masayuki-komai
+    last: Komai
+  - first: Hiroyuki
+    full: Hiroyuki Shindo
+    id: hiroyuki-shindo
+    last: Shindo
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Masayuki Komai, Hiroyuki Shindo, Yuji Matsumoto
+  bibkey: komai-etal-2015-efficient
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '125'
+  page_last: '131'
+  pages: "125\u2013131"
+  paper_id: '15'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2015.jpg
+  title: An Efficient Annotation for Phrasal Verbs using Dependency Information
+  title_html: An Efficient Annotation for Phrasal Verbs using Dependency Information
+  url: https://www.aclweb.org/anthology/Y15-2015
+  year: '2015'
+Y15-2016:
+  address: Shanghai, China
+  author:
+  - first: Chao-Lin
+    full: Chao-Lin Liu
+    id: chao-lin-liu
+    last: Liu
+  - first: Hongsu
+    full: Hongsu Wang
+    id: hongsu-wang
+    last: Wang
+  - first: Wen-Huei
+    full: Wen-Huei Cheng
+    id: wen-huei-cheng
+    last: Cheng
+  - first: Chu-Ting
+    full: Chu-Ting Hsu
+    id: chu-ting-hsu
+    last: Hsu
+  - first: Wei-Yun
+    full: Wei-Yun Chiu
+    id: wei-yun-chiu
+    last: Chiu
+  author_string: Chao-Lin Liu, Hongsu Wang, Wen-Huei Cheng, Chu-Ting Hsu, Wei-Yun
+    Chiu
+  bibkey: liu-etal-2015-color
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '132'
+  page_last: '141'
+  pages: "132\u2013141"
+  paper_id: '16'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2016.jpg
+  title: 'Color Aesthetics and Social Networks in Complete Tang Poems: Explorations
+    and Discoveries'
+  title_html: 'Color Aesthetics and Social Networks in Complete Tang Poems: Explorations
+    and Discoveries'
+  url: https://www.aclweb.org/anthology/Y15-2016
+  year: '2015'
+Y15-2017:
+  address: Shanghai, China
+  author:
+  - first: Hyo Jin
+    full: Hyo Jin Do
+    id: hyo-jin-do
+    last: Do
+  - first: Ho-Jin
+    full: Ho-Jin Choi
+    id: ho-jin-choi
+    last: Choi
+  author_string: Hyo Jin Do, Ho-Jin Choi
+  bibkey: do-choi-2015-korean
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '142'
+  page_last: '150'
+  pages: "142\u2013150"
+  paper_id: '17'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2017.jpg
+  title: Korean Twitter Emotion Classification Using Automatically Built Emotion Lexicons
+    and Fine-Grained Features
+  title_html: <span class="acl-fixed-case">K</span>orean Twitter Emotion Classification
+    Using Automatically Built Emotion Lexicons and Fine-Grained Features
+  url: https://www.aclweb.org/anthology/Y15-2017
+  year: '2015'
+Y15-2018:
+  address: Shanghai, China
+  author:
+  - first: Zongrong
+    full: Zongrong Zheng
+    id: zongrong-zheng
+    last: Zheng
+  - first: Yi
+    full: Yi Wang
+    id: yi-wang
+    last: Wang
+  - first: Yves
+    full: Yves Lepage
+    id: yves-lepage
+    last: Lepage
+  author_string: Zongrong Zheng, Yi Wang, Yves Lepage
+  bibkey: zheng-etal-2015-chinese
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '151'
+  page_last: '156'
+  pages: "151\u2013156"
+  paper_id: '18'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2018.jpg
+  title: Chinese Word Segmentation based on analogy and majority voting
+  title_html: <span class="acl-fixed-case">C</span>hinese Word Segmentation based
+    on analogy and majority voting
+  url: https://www.aclweb.org/anthology/Y15-2018
+  year: '2015'
+Y15-2019:
+  address: Shanghai, China
+  author:
+  - first: Mahmoud
+    full: Mahmoud El-Defrawy
+    id: mahmoud-el-defrawy
+    last: El-Defrawy
+  - first: Yasser
+    full: Yasser El-Sonbaty
+    id: yasser-el-sonbaty
+    last: El-Sonbaty
+  - first: Nahla
+    full: Nahla Belal
+    id: nahla-belal
+    last: Belal
+  author_string: Mahmoud El-Defrawy, Yasser El-Sonbaty, Nahla Belal
+  bibkey: el-defrawy-etal-2015-enhancing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '157'
+  page_last: '166'
+  pages: "157\u2013166"
+  paper_id: '19'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2019.jpg
+  title: Enhancing Root Extractors Using Light Stemmers
+  title_html: Enhancing Root Extractors Using Light Stemmers
+  url: https://www.aclweb.org/anthology/Y15-2019
+  year: '2015'
+Y15-2020:
+  address: Shanghai, China
+  author:
+  - first: Tomokazu
+    full: Tomokazu Takehisa
+    id: tomokazu-takehisa
+    last: Takehisa
+  author_string: Tomokazu Takehisa
+  bibkey: takehisa-2015-morphological
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '167'
+  page_last: '175'
+  pages: "167\u2013175"
+  paper_id: '20'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2020.jpg
+  title: Where Morphological Complexity Matters
+  title_html: Where Morphological Complexity Matters
+  url: https://www.aclweb.org/anthology/Y15-2020
+  year: '2015'
+Y15-2021:
+  address: Shanghai, China
+  author:
+  - first: Yaakov
+    full: Yaakov Hacohen-Kerner
+    id: yaakov-hacohen-kerner
+    last: Hacohen-Kerner
+  - first: Rakefet
+    full: Rakefet Dilmon
+    id: rakefet-dilmon
+    last: Dilmon
+  - first: Shimon
+    full: Shimon Friedlich
+    id: shimon-friedlich
+    last: Friedlich
+  - first: Daniel Nisim
+    full: Daniel Nisim Cohen
+    id: daniel-nisim-cohen
+    last: Cohen
+  author_string: Yaakov Hacohen-Kerner, Rakefet Dilmon, Shimon Friedlich, Daniel Nisim
+    Cohen
+  bibkey: hacohen-kerner-etal-2015-distinguishing
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '176'
+  page_last: '186'
+  pages: "176\u2013186"
+  paper_id: '21'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2021.jpg
+  title: Distinguishing between True and False Stories using various Linguistic Features
+  title_html: Distinguishing between True and False Stories using various Linguistic
+    Features
+  url: https://www.aclweb.org/anthology/Y15-2021
+  year: '2015'
+Y15-2022:
+  address: Shanghai, China
+  author:
+  - first: Kavitha Karimbi
+    full: Kavitha Karimbi Mahesh
+    id: kavi-mahesh
+    last: Mahesh
+  - first: "Lu\xEDs"
+    full: "Lu\xEDs Gomes"
+    id: luis-gomes
+    last: Gomes
+  - first: "Jos\xE9"
+    full: "Jos\xE9 Lopes"
+    id: jose-lopes
+    last: Lopes
+  author_string: "Kavitha Karimbi Mahesh, Lu\xEDs Gomes, Jos\xE9 Lopes"
+  bibkey: mahesh-etal-2015-bilingually
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '187'
+  page_last: '196'
+  pages: "187\u2013196"
+  paper_id: '22'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2022.jpg
+  title: Bilingually motivated segmentation and generation of word translations using
+    relatively small translation data sets
+  title_html: Bilingually motivated segmentation and generation of word translations
+    using relatively small translation data sets
+  url: https://www.aclweb.org/anthology/Y15-2022
+  year: '2015'
+Y15-2023:
+  address: Shanghai, China
+  author:
+  - first: Rivindu
+    full: Rivindu Perera
+    id: rivindu-perera
+    last: Perera
+  - first: Parma
+    full: Parma Nand
+    id: parma-nand
+    last: Nand
+  author_string: Rivindu Perera, Parma Nand
+  bibkey: perera-nand-2015-selecting
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '197'
+  page_last: '205'
+  pages: "197\u2013205"
+  paper_id: '23'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2023.jpg
+  title: 'Selecting Contextual Peripheral Information for Answer Presentation: The
+    Need for Pragmatic Models'
+  title_html: 'Selecting Contextual Peripheral Information for Answer Presentation:
+    The Need for Pragmatic Models'
+  url: https://www.aclweb.org/anthology/Y15-2023
+  year: '2015'
+Y15-2024:
+  address: Shanghai, China
+  author:
+  - first: Rivindu
+    full: Rivindu Perera
+    id: rivindu-perera
+    last: Perera
+  - first: Parma
+    full: Parma Nand
+    id: parma-nand
+    last: Nand
+  author_string: Rivindu Perera, Parma Nand
+  bibkey: perera-nand-2015-realtext
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '206'
+  page_last: '214'
+  pages: "206\u2013214"
+  paper_id: '24'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2024.jpg
+  title: 'RealText-asg: A Model to Present Answers Utilizing the Linguistic Structure
+    of Source Question'
+  title_html: '<span class="acl-fixed-case">R</span>eal<span class="acl-fixed-case">T</span>ext-asg:
+    A Model to Present Answers Utilizing the Linguistic Structure of Source Question'
+  url: https://www.aclweb.org/anthology/Y15-2024
+  year: '2015'
+Y15-2025:
+  address: Shanghai, China
+  author:
+  - first: Hiroyuki
+    full: Hiroyuki Shinnou
+    id: hiroyuki-shinnou
+    last: Shinnou
+  - first: Minoru
+    full: Minoru Sasaki
+    id: minoru-sasaki
+    last: Sasaki
+  - first: Kanako
+    full: Kanako Komiya
+    id: kanako-komiya
+    last: Komiya
+  author_string: Hiroyuki Shinnou, Minoru Sasaki, Kanako Komiya
+  bibkey: shinnou-etal-2015-learning
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '215'
+  page_last: '223'
+  pages: "215\u2013223"
+  paper_id: '25'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2025.jpg
+  title: Learning under Covariate Shift for Domain Adaptation for Word Sense Disambiguation
+  title_html: Learning under Covariate Shift for Domain Adaptation for Word Sense
+    Disambiguation
+  url: https://www.aclweb.org/anthology/Y15-2025
+  year: '2015'
+Y15-2026:
+  address: Shanghai, China
+  author:
+  - first: Kazuhei
+    full: Kazuhei Kouno
+    id: kazuhei-kouno
+    last: Kouno
+  - first: Hiroyuki
+    full: Hiroyuki Shinnou
+    id: hiroyuki-shinnou
+    last: Shinnou
+  - first: Minoru
+    full: Minoru Sasaki
+    id: minoru-sasaki
+    last: Sasaki
+  - first: Kanako
+    full: Kanako Komiya
+    id: kanako-komiya
+    last: Komiya
+  author_string: Kazuhei Kouno, Hiroyuki Shinnou, Minoru Sasaki, Kanako Komiya
+  bibkey: kouno-etal-2015-unsupervised
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '224'
+  page_last: '231'
+  pages: "224\u2013231"
+  paper_id: '26'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2026.jpg
+  title: Unsupervised Domain Adaptation for Word Sense Disambiguation using Stacked
+    Denoising Autoencoder
+  title_html: Unsupervised Domain Adaptation for Word Sense Disambiguation using Stacked
+    Denoising Autoencoder
+  url: https://www.aclweb.org/anthology/Y15-2026
+  year: '2015'
+Y15-2027:
+  address: Shanghai, China
+  author:
+  - first: Shijun
+    full: Shijun Liu
+    id: shijun-liu
+    last: Liu
+  - first: Yanqiu
+    full: Yanqiu Shao
+    id: yanqiu-shao
+    last: Shao
+  - first: Yu
+    full: Yu Ding
+    id: yu-ding
+    last: Ding
+  - first: Lijuan
+    full: Lijuan Zheng
+    id: lijuan-zheng
+    last: Zheng
+  author_string: Shijun Liu, Yanqiu Shao, Yu Ding, Lijuan Zheng
+  bibkey: liu-etal-2015-construction
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '232'
+  page_last: '240'
+  pages: "232\u2013240"
+  paper_id: '27'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2027.jpg
+  title: Construction of Semantic Collocation Bank Based on Semantic Dependency Parsing
+  title_html: Construction of Semantic Collocation Bank Based on Semantic Dependency
+    Parsing
+  url: https://www.aclweb.org/anthology/Y15-2027
+  year: '2015'
+Y15-2028:
+  address: Shanghai, China
+  author:
+  - first: Jiun-Shiung
+    full: Jiun-Shiung Wu
+    id: jiun-shiung-wu
+    last: Wu
+  author_string: Jiun-Shiung Wu
+  bibkey: wu-2015-dynamic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '241'
+  page_last: '248'
+  pages: "241\u2013248"
+  paper_id: '28'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2028.jpg
+  title: "Dynamic Semantics for Intensification and Epistemic Necessity: The Case\
+    \ of Y\xEDd\xECng and Sh\xECb\xEC in Mandarin Chinese"
+  title_html: "Dynamic Semantics for Intensification and Epistemic Necessity: The\
+    \ Case of Y\xEDd\xECng and Sh\xECb\xEC in <span class=\"acl-fixed-case\">M</span>andarin\
+    \ <span class=\"acl-fixed-case\">C</span>hinese"
+  url: https://www.aclweb.org/anthology/Y15-2028
+  year: '2015'
+Y15-2029:
+  address: Shanghai, China
+  author:
+  - first: Yuncui
+    full: Yuncui Zhang
+    id: yuncui-zhang
+    last: Zhang
+  - first: Pengyuan
+    full: Pengyuan Liu
+    id: pengyuan-liu
+    last: Liu
+  author_string: Yuncui Zhang, Pengyuan Liu
+  bibkey: zhang-liu-2015-corpus
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '249'
+  page_last: '257'
+  pages: "249\u2013257"
+  paper_id: '29'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2029.jpg
+  title: "A Corpus-based Comparatively Study on the Semantic Features and Syntactic\
+    \ patterns of Y\xF2u/H\xE1i in Mandarin Chinese"
+  title_html: "A Corpus-based Comparatively Study on the Semantic Features and Syntactic\
+    \ patterns of Y\xF2u/H\xE1i in <span class=\"acl-fixed-case\">M</span>andarin\
+    \ <span class=\"acl-fixed-case\">C</span>hinese"
+  url: https://www.aclweb.org/anthology/Y15-2029
+  year: '2015'
+Y15-2030:
+  address: Shanghai, China
+  author:
+  - first: Yiou
+    full: Yiou Lin
+    id: yiou-lin
+    last: Lin
+  - first: Hang
+    full: Hang Lei
+    id: hang-lei
+    last: Lei
+  - first: Jia
+    full: Jia Wu
+    id: jia-wu
+    last: Wu
+  - first: Xiaoyu
+    full: Xiaoyu Li
+    id: xiaoyu-li
+    last: Li
+  author_string: Yiou Lin, Hang Lei, Jia Wu, Xiaoyu Li
+  bibkey: lin-etal-2015-empirical
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '258'
+  page_last: '266'
+  pages: "258\u2013266"
+  paper_id: '30'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2030.jpg
+  title: An Empirical Study on Sentiment Classification of Chinese Review using Word
+    Embedding
+  title_html: An Empirical Study on Sentiment Classification of <span class="acl-fixed-case">C</span>hinese
+    Review using Word Embedding
+  url: https://www.aclweb.org/anthology/Y15-2030
+  year: '2015'
+Y15-2031:
+  address: Shanghai, China
+  author:
+  - first: Jiaying
+    full: Jiaying Song
+    id: jiaying-song
+    last: Song
+  - first: Yu
+    full: Yu He
+    id: yu-he
+    last: He
+  - first: Guohong
+    full: Guohong Fu
+    id: guohong-fu
+    last: Fu
+  author_string: Jiaying Song, Yu He, Guohong Fu
+  bibkey: song-etal-2015-polarity
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '267'
+  page_last: '274'
+  pages: "267\u2013274"
+  paper_id: '31'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2031.jpg
+  title: Polarity Classification of Short Product Reviews via Multiple Cluster-based
+    SVM Classifiers
+  title_html: Polarity Classification of Short Product Reviews via Multiple Cluster-based
+    <span class="acl-fixed-case">SVM</span> Classifiers
+  url: https://www.aclweb.org/anthology/Y15-2031
+  year: '2015'
+Y15-2032:
+  address: Shanghai, China
+  author:
+  - first: Yaakov
+    full: Yaakov Hacohen-Kerner
+    id: yaakov-hacohen-kerner
+    last: Hacohen-Kerner
+  - first: Ruben
+    full: Ruben Hagege
+    id: ruben-hagege
+    last: Hagege
+  author_string: Yaakov Hacohen-Kerner, Ruben Hagege
+  bibkey: hacohen-kerner-hagege-2015-automatic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '275'
+  page_last: '285'
+  pages: "275\u2013285"
+  paper_id: '32'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2032.jpg
+  title: Automatic Classification of Spoken Languages using Diverse Acoustic Features
+  title_html: Automatic Classification of Spoken Languages using Diverse Acoustic
+    Features
+  url: https://www.aclweb.org/anthology/Y15-2032
+  year: '2015'
+Y15-2033:
+  address: Shanghai, China
+  author:
+  - first: Yen-ju
+    full: Yen-ju Chen
+    id: yen-ju-chen
+    last: Chen
+  - first: Huei-ling
+    full: Huei-ling Lai
+    id: huei-ling-lai1
+    last: Lai
+  - first: Shao-chun
+    full: Shao-chun Hsu
+    id: shao-chun-hsu
+    last: Hsu
+  author_string: Yen-ju Chen, Huei-ling Lai, Shao-chun Hsu
+  bibkey: chen-etal-2015-syntactic
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '286'
+  page_last: '292'
+  pages: "286\u2013292"
+  paper_id: '33'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2033.jpg
+  title: "The Syntactic and Semantic Analysis of H\u011Bn X Constructions in Spoken\
+    \ Corpora"
+  title_html: "The Syntactic and Semantic Analysis of H\u011Bn X Constructions in\
+    \ Spoken Corpora"
+  url: https://www.aclweb.org/anthology/Y15-2033
+  year: '2015'
+Y15-2034:
+  address: Shanghai, China
+  author:
+  - first: Adirek
+    full: Adirek Munthuli
+    id: adirek-munthuli
+    last: Munthuli
+  - first: Charturong
+    full: Charturong Tantibundhit
+    id: charturong-tantibundhit
+    last: Tantibundhit
+  - first: Chutamanee
+    full: Chutamanee Onsuwan
+    id: chutamanee-onsuwan
+    last: Onsuwan
+  - first: Krit
+    full: Krit Kosawat
+    id: krit-kosawat
+    last: Kosawat
+  author_string: Adirek Munthuli, Charturong Tantibundhit, Chutamanee Onsuwan, Krit
+    Kosawat
+  bibkey: munthuli-etal-2015-methods
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '293'
+  page_last: '301'
+  pages: "293\u2013301"
+  paper_id: '34'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2034.jpg
+  title: 'Methods and Tool for Constructing Phonetically-Balanced Materials for Speech
+    Perception Testing: A Development of Thai Sentence-Length Materials'
+  title_html: 'Methods and Tool for Constructing Phonetically-Balanced Materials for
+    Speech Perception Testing: A Development of <span class="acl-fixed-case">T</span>hai
+    Sentence-Length Materials'
+  url: https://www.aclweb.org/anthology/Y15-2034
+  year: '2015'
+Y15-2035:
+  address: Shanghai, China
+  author:
+  - first: Karl
+    full: Karl Neergaard
+    id: karl-neergaard
+    last: Neergaard
+  - first: Chu-Ren
+    full: Chu-Ren Huang
+    id: chu-ren-huang
+    last: Huang
+  author_string: Karl Neergaard, Chu-Ren Huang
+  bibkey: neergaard-huang-2015-graph
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '302'
+  page_last: '308'
+  pages: "302\u2013308"
+  paper_id: '35'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2035.jpg
+  title: 'Graph Theoretic Features of the Adult Mental lexicon Predict Language Production
+    in Mandarin: Clustering Coefficient'
+  title_html: 'Graph Theoretic Features of the Adult Mental lexicon Predict Language
+    Production in <span class="acl-fixed-case">M</span>andarin: Clustering Coefficient'
+  url: https://www.aclweb.org/anthology/Y15-2035
+  year: '2015'
+Y15-2036:
+  address: Shanghai, China
+  author:
+  - first: Yingju
+    full: Yingju Xia
+    id: yingju-xia
+    last: Xia
+  - first: Cuiqin
+    full: Cuiqin Hou
+    id: cuiqin-hou
+    last: Hou
+  - first: Zhuoran
+    full: Zhuoran Xu
+    id: zhuoran-xu
+    last: Xu
+  - first: Jun
+    full: Jun Sun
+    id: jun-sun
+    last: Sun
+  author_string: Yingju Xia, Cuiqin Hou, Zhuoran Xu, Jun Sun
+  bibkey: xia-etal-2015-feature
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '309'
+  page_last: '318'
+  pages: "309\u2013318"
+  paper_id: '36'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2036.jpg
+  title: Feature Reduction Using Ensemble Approach
+  title_html: Feature Reduction Using Ensemble Approach
+  url: https://www.aclweb.org/anthology/Y15-2036
+  year: '2015'
+Y15-2037:
+  address: Shanghai, China
+  author:
+  - first: Jong Myoung
+    full: Jong Myoung Kim
+    id: jong-myoung-kim
+    last: Kim
+  - first: Hancheol
+    full: Hancheol Park
+    id: hancheol-park
+    last: Park
+  - first: Young-Seob
+    full: Young-Seob Jeong
+    id: young-seob-jeong
+    last: Jeong
+  - first: Ho-Jin
+    full: Ho-Jin Choi
+    id: ho-jin-choi
+    last: Choi
+  - first: Gahgene
+    full: Gahgene Gweon
+    id: gahgene-gweon
+    last: Gweon
+  - first: Jeong
+    full: Jeong Hur
+    id: jeong-hur
+    last: Hur
+  author_string: Jong Myoung Kim, Hancheol Park, Young-Seob Jeong, Ho-Jin Choi, Gahgene
+    Gweon, Jeong Hur
+  bibkey: kim-etal-2015-measuring
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '319'
+  page_last: '327'
+  pages: "319\u2013327"
+  paper_id: '37'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2037.jpg
+  title: Measuring Popularity of Machine-Generated Sentences Using Term Count, Document
+    Frequency, and Dependency Language Model
+  title_html: Measuring Popularity of Machine-Generated Sentences Using Term Count,
+    Document Frequency, and Dependency Language Model
+  url: https://www.aclweb.org/anthology/Y15-2037
+  year: '2015'
+Y15-2038:
+  address: Shanghai, China
+  author:
+  - first: Miki
+    full: Miki Iwai
+    id: miki-iwai
+    last: Iwai
+  - first: Takashi
+    full: Takashi Ninomiya
+    id: takashi-ninomiya
+    last: Ninomiya
+  - first: Kyo
+    full: Kyo Kageura
+    id: kyo-kageura
+    last: Kageura
+  author_string: Miki Iwai, Takashi Ninomiya, Kyo Kageura
+  bibkey: iwai-etal-2015-acquiring
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '328'
+  page_last: '336'
+  pages: "328\u2013336"
+  paper_id: '38'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2038.jpg
+  title: Acquiring distributed representations for verb-object pairs by using word2vec
+  title_html: Acquiring distributed representations for verb-object pairs by using
+    word2vec
+  url: https://www.aclweb.org/anthology/Y15-2038
+  year: '2015'
+Y15-2039:
+  address: Shanghai, China
+  author:
+  - first: Bo
+    full: Bo Li
+    id: bo-li
+    last: Li
+  - first: Yunfei
+    full: Yunfei Long
+    id: yunfei-long
+    last: Long
+  - first: Weiguang
+    full: Weiguang Qu
+    id: weiguang-qu
+    last: Qu
+  author_string: Bo Li, Yunfei Long, Weiguang Qu
+  bibkey: li-etal-2015-dependency
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '337'
+  page_last: '344'
+  pages: "337\u2013344"
+  paper_id: '39'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2039.jpg
+  title: 'Dependency parsing for Chinese long sentence: A second-stage main structure
+    parsing method'
+  title_html: 'Dependency parsing for <span class="acl-fixed-case">C</span>hinese
+    long sentence: A second-stage main structure parsing method'
+  url: https://www.aclweb.org/anthology/Y15-2039
+  year: '2015'
+Y15-2040:
+  address: Shanghai, China
+  author:
+  - first: Yuzhu
+    full: Yuzhu Wang
+    id: yuzhu-wang
+    last: Wang
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  author_string: Yuzhu Wang, Hai Zhao
+  bibkey: wang-zhao-2015-light
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '345'
+  page_last: '353'
+  pages: "345\u2013353"
+  paper_id: '40'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2040.jpg
+  title: A Light Rule-based Approach to English Subject-Verb Agreement Errors on the
+    Third Person Singular Forms
+  title_html: A Light Rule-based Approach to <span class="acl-fixed-case">E</span>nglish
+    Subject-Verb Agreement Errors on the Third Person Singular Forms
+  url: https://www.aclweb.org/anthology/Y15-2040
+  year: '2015'
+Y15-2041:
+  address: Shanghai, China
+  author:
+  - first: Yitong
+    full: Yitong Li
+    id: yitong-li
+    last: Li
+  - first: Rui
+    full: Rui Wang
+    id: rui-wang
+    last: Wang
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  author_string: Yitong Li, Rui Wang, Hai Zhao
+  bibkey: li-etal-2015-machine
+  bibtype: inproceedings
+  booktitle: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  booktitle_html: 'Proceedings of the 29th Pacific Asia Conference on Language, Information
+    and Computation: Posters'
+  month: October
+  page_first: '354'
+  page_last: '360'
+  pages: "354\u2013360"
+  paper_id: '41'
+  parent_volume_id: Y15-2
+  pdf: https://www.aclweb.org/anthology/Y15-2041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/Y15-2041.jpg
+  title: A Machine Learning Method to Distinguish Machine Translation from Human Translation
+  title_html: A Machine Learning Method to Distinguish Machine Translation from Human
+    Translation
+  url: https://www.aclweb.org/anthology/Y15-2041
+  year: '2015'

@@ -1,0 +1,4540 @@
+S12-1000:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  - first: Yuval
+    full: Yuval Marton
+    id: yuval-marton
+    last: Marton
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  author_string: Eneko Agirre, Johan Bos, Mona Diab, Suresh Manandhar, Yuval Marton,
+    Deniz Yuret
+  bibkey: semeval-2012-sem
+  bibtype: proceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  month: 7-8 June
+  paper_id: '0'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1000.jpg
+  title: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  title_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint Conference\
+    \ on Lexical and Computational Semantics \u2013 Volume 1: Proceedings of the main\
+    \ conference and the shared task, and Volume 2: Proceedings of the Sixth International\
+    \ Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\">S</span>em<span\
+    \ class=\"acl-fixed-case\">E</span>val 2012)"
+  url: https://www.aclweb.org/anthology/S12-1000
+  year: '2012'
+S12-1001:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Carina
+    full: Carina Silberer
+    id: carina-silberer
+    last: Silberer
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  author_string: Carina Silberer, Anette Frank
+  bibkey: silberer-frank-2012-casting
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '1'
+  page_last: '10'
+  pages: "1\u201310"
+  paper_id: '1'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1001.jpg
+  title: Casting Implicit Role Linking as an Anaphora Resolution Task
+  title_html: Casting Implicit Role Linking as an Anaphora Resolution Task
+  url: https://www.aclweb.org/anthology/S12-1001
+  year: '2012'
+S12-1002:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Razvan
+    full: Razvan Bunescu
+    id: razvan-bunescu
+    last: Bunescu
+  author_string: Razvan Bunescu
+  bibkey: bunescu-2012-adaptive
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '11'
+  page_last: '19'
+  pages: "11\u201319"
+  paper_id: '2'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1002.jpg
+  title: Adaptive Clustering for Coreference Resolution with Deterministic Rules and
+    Web-Based Language Models
+  title_html: Adaptive Clustering for Coreference Resolution with Deterministic Rules
+    and Web-Based Language Models
+  url: https://www.aclweb.org/anthology/S12-1002
+  year: '2012'
+S12-1003:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Samer
+    full: Samer Hassan
+    id: samer-hassan
+    last: Hassan
+  - first: Carmen
+    full: Carmen Banea
+    id: carmen-banea
+    last: Banea
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Samer Hassan, Carmen Banea, Rada Mihalcea
+  bibkey: hassan-etal-2012-measuring
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '20'
+  page_last: '29'
+  pages: "20\u201329"
+  paper_id: '3'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1003.jpg
+  title: Measuring Semantic Relatedness using Multilingual Representations
+  title_html: Measuring Semantic Relatedness using Multilingual Representations
+  url: https://www.aclweb.org/anthology/S12-1003
+  year: '2012'
+S12-1004:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Bharath
+    full: Bharath Dandala
+    id: bharath-dandala
+    last: Dandala
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Razvan
+    full: Razvan Bunescu
+    id: razvan-bunescu
+    last: Bunescu
+  author_string: Bharath Dandala, Rada Mihalcea, Razvan Bunescu
+  bibkey: dandala-etal-2012-towards
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '30'
+  page_last: '37'
+  pages: "30\u201337"
+  paper_id: '4'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1004.jpg
+  title: 'Towards Building a Multilingual Semantic Network: Identifying Interlingual
+    Links in Wikipedia'
+  title_html: 'Towards Building a Multilingual Semantic Network: Identifying Interlingual
+    Links in <span class="acl-fixed-case">W</span>ikipedia'
+  url: https://www.aclweb.org/anthology/S12-1004
+  year: '2012'
+S12-1005:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Lili
+    full: Lili Kotlerman
+    id: lili-kotlerman
+    last: Kotlerman
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Maya
+    full: Maya Gorodetsky
+    id: maya-gorodetsky
+    last: Gorodetsky
+  - first: Ezra
+    full: Ezra Daya
+    id: ezra-daya
+    last: Daya
+  author_string: Lili Kotlerman, Ido Dagan, Maya Gorodetsky, Ezra Daya
+  bibkey: kotlerman-etal-2012-sentence
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '38'
+  page_last: '43'
+  pages: "38\u201343"
+  paper_id: '5'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1005.jpg
+  title: Sentence Clustering via Projection over Term Clusters
+  title_html: Sentence Clustering via Projection over Term Clusters
+  url: https://www.aclweb.org/anthology/S12-1005
+  year: '2012'
+S12-1006:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Blake
+    full: Blake Howald
+    id: blake-howald
+    last: Howald
+  - first: Martha
+    full: Martha Abramson
+    id: martha-abramson
+    last: Abramson
+  author_string: Blake Howald, Martha Abramson
+  bibkey: howald-abramson-2012-use
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '44'
+  page_last: '48'
+  pages: "44\u201348"
+  paper_id: '6'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1006.jpg
+  title: The Use of Granularity in Rhetorical Relation Prediction
+  title_html: The Use of Granularity in Rhetorical Relation Prediction
+  url: https://www.aclweb.org/anthology/S12-1006
+  year: '2012'
+S12-1007:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sophia
+    full: Sophia Katrenko
+    id: sophia-katrenko
+    last: Katrenko
+  author_string: Sophia Katrenko
+  bibkey: katrenko-2012-make
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '49'
+  page_last: '53'
+  pages: "49\u201353"
+  paper_id: '7'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1007.jpg
+  title: "\u201CCould you make me a favour and do coffee, please?\u201D: Implications\
+    \ for Automatic Error Correction in English and Dutch"
+  title_html: "\u201CCould you make me a favour and do coffee, please?\u201D: Implications\
+    \ for Automatic Error Correction in <span class=\"acl-fixed-case\">E</span>nglish\
+    \ and <span class=\"acl-fixed-case\">D</span>utch"
+  url: https://www.aclweb.org/anthology/S12-1007
+  year: '2012'
+S12-1008:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Rao Muhammad Adeel
+    full: Rao Muhammad Adeel Nawab
+    id: rao-muhammad-adeel-nawab
+    last: Nawab
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  - first: Paul
+    full: Paul Clough
+    id: paul-clough
+    last: Clough
+  author_string: Rao Muhammad Adeel Nawab, Mark Stevenson, Paul Clough
+  bibkey: nawab-etal-2012-detecting
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '54'
+  page_last: '58'
+  pages: "54\u201358"
+  paper_id: '8'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1008.jpg
+  title: Detecting Text Reuse with Modified and Weighted N-grams
+  title_html: Detecting Text Reuse with Modified and Weighted N-grams
+  url: https://www.aclweb.org/anthology/S12-1008
+  year: '2012'
+S12-1009:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Chaya
+    full: Chaya Liebeskind
+    id: chaya-liebeskind
+    last: Liebeskind
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Jonathan
+    full: Jonathan Schler
+    id: jonathan-schler
+    last: Schler
+  author_string: Chaya Liebeskind, Ido Dagan, Jonathan Schler
+  bibkey: liebeskind-etal-2012-statistical
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '59'
+  page_last: '64'
+  pages: "59\u201364"
+  paper_id: '9'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1009.jpg
+  title: Statistical Thesaurus Construction for a Morphologically Rich Language
+  title_html: Statistical Thesaurus Construction for a Morphologically Rich Language
+  url: https://www.aclweb.org/anthology/S12-1009
+  year: '2012'
+S12-1010:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Yuancheng
+    full: Yuancheng Tu
+    id: yuancheng-tu
+    last: Tu
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Yuancheng Tu, Dan Roth
+  bibkey: tu-roth-2012-sorting
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '65'
+  page_last: '69'
+  pages: "65\u201369"
+  paper_id: '10'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1010.jpg
+  title: Sorting out the Most Confusing English Phrasal Verbs
+  title_html: Sorting out the Most Confusing <span class="acl-fixed-case">E</span>nglish
+    Phrasal Verbs
+  url: https://www.aclweb.org/anthology/S12-1010
+  year: '2012'
+S12-1011:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Karl Moritz
+    full: Karl Moritz Hermann
+    id: karl-moritz-hermann
+    last: Hermann
+  - first: Chris
+    full: Chris Dyer
+    id: chris-dyer
+    last: Dyer
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  - first: Stephen
+    full: Stephen Pulman
+    id: stephen-pulman
+    last: Pulman
+  author_string: Karl Moritz Hermann, Chris Dyer, Phil Blunsom, Stephen Pulman
+  bibkey: hermann-etal-2012-learning
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '70'
+  page_last: '74'
+  pages: "70\u201374"
+  paper_id: '11'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1011.jpg
+  title: Learning Semantics and Selectional Preference of Adjective-Noun Pairs
+  title_html: Learning Semantics and Selectional Preference of Adjective-Noun Pairs
+  url: https://www.aclweb.org/anthology/S12-1011
+  year: '2012'
+S12-1012:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Alessandro
+    full: Alessandro Lenci
+    id: alessandro-lenci
+    last: Lenci
+  - first: Giulia
+    full: Giulia Benotto
+    id: giulia-benotto
+    last: Benotto
+  author_string: Alessandro Lenci, Giulia Benotto
+  bibkey: lenci-benotto-2012-identifying
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '75'
+  page_last: '79'
+  pages: "75\u201379"
+  paper_id: '12'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1012.jpg
+  title: Identifying hypernyms in distributional semantic spaces
+  title_html: Identifying hypernyms in distributional semantic spaces
+  url: https://www.aclweb.org/anthology/S12-1012
+  year: '2012'
+S12-1013:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Bert
+    full: Bert Baumgaertner
+    id: bert-baumgaertner
+    last: Baumgaertner
+  - first: Raquel
+    full: "Raquel Fern\xE1ndez"
+    id: raquel-fernandez
+    last: "Fern\xE1ndez"
+  - first: Matthew
+    full: Matthew Stone
+    id: matthew-stone
+    last: Stone
+  author_string: "Bert Baumgaertner, Raquel Fern\xE1ndez, Matthew Stone"
+  bibkey: baumgaertner-etal-2012-towards
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '80'
+  page_last: '84'
+  pages: "80\u201384"
+  paper_id: '13'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1013.jpg
+  title: 'Towards a Flexible Semantics: Colour Terms in Collaborative Reference Tasks'
+  title_html: 'Towards a Flexible Semantics: Colour Terms in Collaborative Reference
+    Tasks'
+  url: https://www.aclweb.org/anthology/S12-1013
+  year: '2012'
+S12-1014:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Wesley
+    full: Wesley May
+    id: wesley-may
+    last: May
+  - first: Sanja
+    full: Sanja Fidler
+    id: sanja-fidler
+    last: Fidler
+  - first: Afsaneh
+    full: Afsaneh Fazly
+    id: afsaneh-fazly
+    last: Fazly
+  - first: Sven
+    full: Sven Dickinson
+    id: sven-dickinson
+    last: Dickinson
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: Wesley May, Sanja Fidler, Afsaneh Fazly, Sven Dickinson, Suzanne
+    Stevenson
+  bibkey: may-etal-2012-unsupervised
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '85'
+  page_last: '89'
+  pages: "85\u201389"
+  paper_id: '14'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1014.jpg
+  title: Unsupervised Disambiguation of Image Captions
+  title_html: Unsupervised Disambiguation of Image Captions
+  url: https://www.aclweb.org/anthology/S12-1014
+  year: '2012'
+S12-1015:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Steffen
+    full: Steffen Eger
+    id: steffen-eger
+    last: Eger
+  author_string: Steffen Eger
+  bibkey: eger-2012-lexical
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '90'
+  page_last: '94'
+  pages: "90\u201394"
+  paper_id: '15'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1015.jpg
+  title: "Lexical semantic typologies from bilingual corpora \u2014 A framework"
+  title_html: "Lexical semantic typologies from bilingual corpora \u2014 A framework"
+  url: https://www.aclweb.org/anthology/S12-1015
+  year: '2012'
+S12-1016:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  author_string: Richard Johansson
+  bibkey: johansson-2012-non
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '95'
+  page_last: '99'
+  pages: "95\u201399"
+  paper_id: '16'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1016.jpg
+  title: Non-atomic Classification to Improve a Semantic Role Labeler for a Low-resource
+    Language
+  title_html: Non-atomic Classification to Improve a Semantic Role Labeler for a Low-resource
+    Language
+  url: https://www.aclweb.org/anthology/S12-1016
+  year: '2012'
+S12-1017:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Richard
+    full: Richard Fothergill
+    id: richard-fothergill
+    last: Fothergill
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Richard Fothergill, Timothy Baldwin
+  bibkey: fothergill-baldwin-2012-combining
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '100'
+  page_last: '104'
+  pages: "100\u2013104"
+  paper_id: '17'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1017.jpg
+  title: Combining resources for MWE-token classification
+  title_html: Combining resources for <span class="acl-fixed-case">MWE</span>-token
+    classification
+  url: https://www.aclweb.org/anthology/S12-1017
+  year: '2012'
+S12-1018:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: "Ana\xEFs"
+    full: "Ana\xEFs Cadilhac"
+    id: anais-cadilhac
+    last: Cadilhac
+  - first: Nicholas
+    full: Nicholas Asher
+    id: nicholas-asher
+    last: Asher
+  - first: Farah
+    full: Farah Benamara
+    id: farah-benamara
+    last: Benamara
+  author_string: "Ana\xEFs Cadilhac, Nicholas Asher, Farah Benamara"
+  bibkey: cadilhac-etal-2012-annotating
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  erratum:
+  - id: '1'
+    url: https://www.aclweb.org/anthology/S12-1018e1.pdf
+    value: S12-1018e1
+  month: 7-8 June
+  page_first: '105'
+  page_last: '113'
+  pages: "105\u2013113"
+  paper_id: '18'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1018.jpg
+  title: Annotating Preferences in Negotiation Dialogues
+  title_html: Annotating Preferences in Negotiation Dialogues
+  url: https://www.aclweb.org/anthology/S12-1018
+  year: '2012'
+S12-1019:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Brian
+    full: Brian Murphy
+    id: brian-murphy
+    last: Murphy
+  - first: Partha
+    full: Partha Talukdar
+    id: partha-talukdar
+    last: Talukdar
+  - first: Tom
+    full: Tom Mitchell
+    id: tom-mitchell
+    last: Mitchell
+  author_string: Brian Murphy, Partha Talukdar, Tom Mitchell
+  bibkey: murphy-etal-2012-selecting
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '114'
+  page_last: '123'
+  pages: "114\u2013123"
+  paper_id: '19'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1019.jpg
+  title: Selecting Corpus-Semantic Models for Neurolinguistic Decoding
+  title_html: Selecting Corpus-Semantic Models for Neurolinguistic Decoding
+  url: https://www.aclweb.org/anthology/S12-1019
+  year: '2012'
+S12-1020:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Lauri
+    full: Lauri Karttunen
+    id: lauri-karttunen
+    last: Karttunen
+  author_string: Lauri Karttunen
+  bibkey: karttunen-2012-simple
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '124'
+  page_last: '131'
+  pages: "124\u2013131"
+  paper_id: '20'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1020.jpg
+  title: Simple and Phrasal Implicatives
+  title_html: Simple and Phrasal Implicatives
+  url: https://www.aclweb.org/anthology/S12-1020
+  year: '2012'
+S12-1021:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Karl Moritz
+    full: Karl Moritz Hermann
+    id: karl-moritz-hermann
+    last: Hermann
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  - first: Stephen
+    full: Stephen Pulman
+    id: stephen-pulman
+    last: Pulman
+  author_string: Karl Moritz Hermann, Phil Blunsom, Stephen Pulman
+  bibkey: hermann-etal-2012-unsupervised
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '132'
+  page_last: '141'
+  pages: "132\u2013141"
+  paper_id: '21'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1021.jpg
+  title: An Unsupervised Ranking Model for Noun-Noun Compositionality
+  title_html: An Unsupervised Ranking Model for Noun-Noun Compositionality
+  url: https://www.aclweb.org/anthology/S12-1021
+  year: '2012'
+S12-1022:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Mehdi
+    full: Mehdi Manshadi
+    id: mehdi-manshadi
+    last: Manshadi
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  author_string: Mehdi Manshadi, James Allen
+  bibkey: manshadi-allen-2012-expanding
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '142'
+  page_last: '150'
+  pages: "142\u2013150"
+  paper_id: '22'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1022.jpg
+  title: Expanding the Range of Tractable Scope-Underspecified Semantic Representations
+  title_html: Expanding the Range of Tractable Scope-Underspecified Semantic Representations
+  url: https://www.aclweb.org/anthology/S12-1022
+  year: '2012'
+S12-1023:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Gemma
+    full: Gemma Boleda
+    id: gemma-boleda
+    last: Boleda
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  - first: Jason
+    full: Jason Utt
+    id: jason-utt
+    last: Utt
+  author_string: "Gemma Boleda, Sebastian Pad\xF3, Jason Utt"
+  bibkey: boleda-etal-2012-regular
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '151'
+  page_last: '160'
+  pages: "151\u2013160"
+  paper_id: '23'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1023.jpg
+  title: 'Regular polysemy: A distributional model'
+  title_html: 'Regular polysemy: A distributional model'
+  url: https://www.aclweb.org/anthology/S12-1023
+  year: '2012'
+S12-1024:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Selja
+    full: "Selja Sepp\xE4l\xE4"
+    id: selja-seppala
+    last: "Sepp\xE4l\xE4"
+  - first: Lucie
+    full: Lucie Barque
+    id: lucie-barque
+    last: Barque
+  - first: Alexis
+    full: Alexis Nasr
+    id: alexis-nasr
+    last: Nasr
+  author_string: "Selja Sepp\xE4l\xE4, Lucie Barque, Alexis Nasr"
+  bibkey: seppala-etal-2012-extracting
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '161'
+  page_last: '169'
+  pages: "161\u2013169"
+  paper_id: '24'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1024.jpg
+  title: Extracting a Semantic Lexicon of French Adjectives from a Large Lexicographic
+    Dictionary
+  title_html: Extracting a Semantic Lexicon of <span class="acl-fixed-case">F</span>rench
+    Adjectives from a Large Lexicographic Dictionary
+  url: https://www.aclweb.org/anthology/S12-1024
+  year: '2012'
+S12-1025:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Diarmuid
+    full: "Diarmuid \xD3 S\xE9aghdha"
+    id: diarmuid-o-seaghdha
+    last: "\xD3 S\xE9aghdha"
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: "Diarmuid \xD3 S\xE9aghdha, Anna Korhonen"
+  bibkey: o-seaghdha-korhonen-2012-modelling
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '170'
+  page_last: '179'
+  pages: "170\u2013179"
+  paper_id: '25'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1025.jpg
+  title: Modelling selectional preferences in a lexical hierarchy
+  title_html: Modelling selectional preferences in a lexical hierarchy
+  url: https://www.aclweb.org/anthology/S12-1025
+  year: '2012'
+S12-1026:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Hagen
+    full: "Hagen F\xFCrstenau"
+    id: hagen-furstenau
+    last: "F\xFCrstenau"
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  author_string: "Hagen F\xFCrstenau, Owen Rambow"
+  bibkey: furstenau-rambow-2012-unsupervised
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '180'
+  page_last: '188'
+  pages: "180\u2013188"
+  paper_id: '26'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1026.jpg
+  title: Unsupervised Induction of a Syntax-Semantics Lexicon Using Iterative Refinement
+  title_html: Unsupervised Induction of a Syntax-Semantics Lexicon Using Iterative
+    Refinement
+  url: https://www.aclweb.org/anthology/S12-1026
+  year: '2012'
+S12-1027:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: David
+    full: David Jurgens
+    id: david-jurgens
+    last: Jurgens
+  author_string: David Jurgens
+  bibkey: jurgens-2012-evaluation
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '189'
+  page_last: '198'
+  pages: "189\u2013198"
+  paper_id: '27'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1027.jpg
+  title: An Evaluation of Graded Sense Disambiguation using Word Sense Induction
+  title_html: An Evaluation of Graded Sense Disambiguation using Word Sense Induction
+  url: https://www.aclweb.org/anthology/S12-1027
+  year: '2012'
+S12-1028:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Ashequl
+    full: Ashequl Qadir
+    id: ashequl-qadir
+    last: Qadir
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  author_string: Ashequl Qadir, Ellen Riloff
+  bibkey: qadir-riloff-2012-ensemble
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '199'
+  page_last: '208'
+  pages: "199\u2013208"
+  paper_id: '28'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1028.jpg
+  title: Ensemble-based Semantic Lexicon Induction for Semantic Tagging
+  title_html: Ensemble-based Semantic Lexicon Induction for Semantic Tagging
+  url: https://www.aclweb.org/anthology/S12-1028
+  year: '2012'
+S12-1029:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Dipanjan
+    full: Dipanjan Das
+    id: dipanjan-das
+    last: Das
+  - first: "Andr\xE9 F. T."
+    full: "Andr\xE9 F. T. Martins"
+    id: andre-f-t-martins
+    last: Martins
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: "Dipanjan Das, Andr\xE9 F. T. Martins, Noah A. Smith"
+  bibkey: das-etal-2012-exact
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '209'
+  page_last: '217'
+  pages: "209\u2013217"
+  paper_id: '29'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1029.jpg
+  title: An Exact Dual Decomposition Algorithm for Shallow Semantic Parsing with Constraints
+  title_html: An Exact Dual Decomposition Algorithm for Shallow Semantic Parsing with
+    Constraints
+  url: https://www.aclweb.org/anthology/S12-1029
+  year: '2012'
+S12-1030:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Michael
+    full: Michael Roth
+    id: michael-roth
+    last: Roth
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  author_string: Michael Roth, Anette Frank
+  bibkey: roth-frank-2012-aligning
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '218'
+  page_last: '227'
+  pages: "218\u2013227"
+  paper_id: '30'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1030.jpg
+  title: 'Aligning Predicate Argument Structures in Monolingual Comparable Texts:
+    A New Corpus for a New Task'
+  title_html: 'Aligning Predicate Argument Structures in Monolingual Comparable Texts:
+    A New Corpus for a New Task'
+  url: https://www.aclweb.org/anthology/S12-1030
+  year: '2012'
+S12-1031:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Andrew
+    full: Andrew MacKinlay
+    id: andrew-mackinlay
+    last: MacKinlay
+  - first: Rebecca
+    full: Rebecca Dridan
+    id: rebecca-dridan
+    last: Dridan
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Andrew MacKinlay, Rebecca Dridan, Diana McCarthy, Timothy Baldwin
+  bibkey: mackinlay-etal-2012-effects
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '228'
+  page_last: '236'
+  pages: "228\u2013236"
+  paper_id: '31'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1031.jpg
+  title: The Effects of Semantic Annotations on Precision Parse Ranking
+  title_html: The Effects of Semantic Annotations on Precision Parse Ranking
+  url: https://www.aclweb.org/anthology/S12-1031
+  year: '2012'
+S12-1032:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Eyal
+    full: Eyal Shnarch
+    id: eyal-shnarch
+    last: Shnarch
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Jacob
+    full: Jacob Goldberger
+    id: jacob-goldberger
+    last: Goldberger
+  author_string: Eyal Shnarch, Ido Dagan, Jacob Goldberger
+  bibkey: shnarch-etal-2012-probabilistic
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '237'
+  page_last: '245'
+  pages: "237\u2013245"
+  paper_id: '32'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1032.jpg
+  title: A Probabilistic Lexical Model for Ranking Textual Inferences
+  title_html: A Probabilistic Lexical Model for Ranking Textual Inferences
+  url: https://www.aclweb.org/anthology/S12-1032
+  year: '2012'
+S12-1033:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  author_string: Saif Mohammad
+  bibkey: mohammad-2012-emotional
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '246'
+  page_last: '255'
+  pages: "246\u2013255"
+  paper_id: '33'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1033.jpg
+  title: '#Emotional Tweets'
+  title_html: '#Emotional Tweets'
+  url: https://www.aclweb.org/anthology/S12-1033
+  year: '2012'
+S12-1034:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Juri
+    full: Juri Ganitkevitch
+    id: juri-ganitkevitch
+    last: Ganitkevitch
+  - first: Benjamin
+    full: Benjamin Van Durme
+    id: benjamin-van-durme
+    last: Van Durme
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  author_string: Juri Ganitkevitch, Benjamin Van Durme, Chris Callison-Burch
+  bibkey: ganitkevitch-etal-2012-monolingual
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '256'
+  page_last: '264'
+  pages: "256\u2013264"
+  paper_id: '34'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1034.jpg
+  title: Monolingual Distributional Similarity for Text-to-Text Generation
+  title_html: Monolingual Distributional Similarity for Text-to-Text Generation
+  url: https://www.aclweb.org/anthology/S12-1034
+  year: '2012'
+S12-1035:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Eduardo
+    full: Eduardo Blanco
+    id: eduardo-blanco
+    last: Blanco
+  author_string: Roser Morante, Eduardo Blanco
+  bibkey: morante-blanco-2012-sem
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '265'
+  page_last: '274'
+  pages: "265\u2013274"
+  paper_id: '35'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1035.jpg
+  title: '*SEM 2012 Shared Task: Resolving the Scope and Focus of Negation'
+  title_html: '*<span class="acl-fixed-case">SEM</span> 2012 Shared Task: Resolving
+    the Scope and Focus of Negation'
+  url: https://www.aclweb.org/anthology/S12-1035
+  year: '2012'
+S12-1036:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Binod
+    full: Binod Gyawali
+    id: binod-gyawali
+    last: Gyawali
+  - first: Thamar
+    full: Thamar Solorio
+    id: thamar-solorio
+    last: Solorio
+  author_string: Binod Gyawali, Thamar Solorio
+  bibkey: gyawali-solorio-2012-uabcoral
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '275'
+  page_last: '281'
+  pages: "275\u2013281"
+  paper_id: '36'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1036.jpg
+  title: 'UABCoRAL: A Preliminary study for Resolving the Scope of Negation'
+  title_html: '<span class="acl-fixed-case">UABC</span>o<span class="acl-fixed-case">RAL</span>:
+    A Preliminary study for Resolving the Scope of Negation'
+  url: https://www.aclweb.org/anthology/S12-1036
+  year: '2012'
+S12-1037:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Jorge
+    full: Jorge Carrillo de Albornoz
+    id: jorge-carrillo-de-albornoz
+    last: Carrillo de Albornoz
+  - first: Laura
+    full: Laura Plaza
+    id: laura-plaza
+    last: Plaza
+  - first: Alberto
+    full: "Alberto D\xEDaz"
+    id: alberto-diaz
+    last: "D\xEDaz"
+  - first: Miguel
+    full: Miguel Ballesteros
+    id: miguel-ballesteros
+    last: Ballesteros
+  author_string: "Jorge Carrillo de Albornoz, Laura Plaza, Alberto D\xEDaz, Miguel\
+    \ Ballesteros"
+  bibkey: carrillo-de-albornoz-etal-2012-ucm
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '282'
+  page_last: '287'
+  pages: "282\u2013287"
+  paper_id: '37'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1037.jpg
+  title: 'UCM-I: A Rule-based Syntactic Approach for Resolving the Scope of Negation'
+  title_html: '<span class="acl-fixed-case">UCM</span>-<span class="acl-fixed-case">I</span>:
+    A Rule-based Syntactic Approach for Resolving the Scope of Negation'
+  url: https://www.aclweb.org/anthology/S12-1037
+  year: '2012'
+S12-1038:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Miguel
+    full: Miguel Ballesteros
+    id: miguel-ballesteros
+    last: Ballesteros
+  - first: Alberto
+    full: "Alberto D\xEDaz"
+    id: alberto-diaz
+    last: "D\xEDaz"
+  - first: Virginia
+    full: Virginia Francisco
+    id: virginia-francisco
+    last: Francisco
+  - first: Pablo
+    full: "Pablo Gerv\xE1s"
+    id: pablo-gervas
+    last: "Gerv\xE1s"
+  - first: Jorge
+    full: Jorge Carrillo de Albornoz
+    id: jorge-carrillo-de-albornoz
+    last: Carrillo de Albornoz
+  - first: Laura
+    full: Laura Plaza
+    id: laura-plaza
+    last: Plaza
+  author_string: "Miguel Ballesteros, Alberto D\xEDaz, Virginia Francisco, Pablo Gerv\xE1\
+    s, Jorge Carrillo de Albornoz, Laura Plaza"
+  bibkey: ballesteros-etal-2012-ucm
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '288'
+  page_last: '293'
+  pages: "288\u2013293"
+  paper_id: '38'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1038.jpg
+  title: 'UCM-2: a Rule-Based Approach to Infer the Scope of Negation via Dependency
+    Parsing'
+  title_html: '<span class="acl-fixed-case">UCM</span>-2: a Rule-Based Approach to
+    Infer the Scope of Negation via Dependency Parsing'
+  url: https://www.aclweb.org/anthology/S12-1038
+  year: '2012'
+S12-1039:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sabine
+    full: Sabine Rosenberg
+    id: sabine-rosenberg
+    last: Rosenberg
+  - first: Sabine
+    full: Sabine Bergler
+    id: sabine-bergler
+    last: Bergler
+  author_string: Sabine Rosenberg, Sabine Bergler
+  bibkey: rosenberg-bergler-2012-uconcordia
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '294'
+  page_last: '300'
+  pages: "294\u2013300"
+  paper_id: '39'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1039.jpg
+  title: 'UConcordia: CLaC Negation Focus Detection at *Sem 2012'
+  title_html: '<span class="acl-fixed-case">UC</span>oncordia: <span class="acl-fixed-case">CL</span>a<span
+    class="acl-fixed-case">C</span> Negation Focus Detection at *<span class="acl-fixed-case">S</span>em
+    2012'
+  url: https://www.aclweb.org/anthology/S12-1039
+  year: '2012'
+S12-1040:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Valerio
+    full: Valerio Basile
+    id: valerio-basile
+    last: Basile
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  - first: Kilian
+    full: Kilian Evang
+    id: kilian-evang
+    last: Evang
+  - first: Noortje
+    full: Noortje Venhuizen
+    id: noortje-venhuizen
+    last: Venhuizen
+  author_string: Valerio Basile, Johan Bos, Kilian Evang, Noortje Venhuizen
+  bibkey: basile-etal-2012-ugroningen
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '301'
+  page_last: '309'
+  pages: "301\u2013309"
+  paper_id: '40'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1040.jpg
+  title: 'UGroningen: Negation detection with Discourse Representation Structures'
+  title_html: '<span class="acl-fixed-case">UG</span>roningen: Negation detection
+    with Discourse Representation Structures'
+  url: https://www.aclweb.org/anthology/S12-1040
+  year: '2012'
+S12-1041:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Jonathon
+    full: Jonathon Read
+    id: jonathon-read
+    last: Read
+  - first: Erik
+    full: Erik Velldal
+    id: erik-velldal
+    last: Velldal
+  - first: Lilja
+    full: "Lilja \xD8vrelid"
+    id: lilja-ovrelid
+    last: "\xD8vrelid"
+  - first: Stephan
+    full: Stephan Oepen
+    id: stephan-oepen
+    last: Oepen
+  author_string: "Jonathon Read, Erik Velldal, Lilja \xD8vrelid, Stephan Oepen"
+  bibkey: read-etal-2012-uio1
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '310'
+  page_last: '318'
+  pages: "310\u2013318"
+  paper_id: '41'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1041.jpg
+  title: 'UiO1: Constituent-Based Discriminative Ranking for Negation Resolution'
+  title_html: '<span class="acl-fixed-case">U</span>i<span class="acl-fixed-case">O</span>1:
+    Constituent-Based Discriminative Ranking for Negation Resolution'
+  url: https://www.aclweb.org/anthology/S12-1041
+  year: '2012'
+S12-1042:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Emanuele
+    full: Emanuele Lapponi
+    id: emanuele-lapponi
+    last: Lapponi
+  - first: Erik
+    full: Erik Velldal
+    id: erik-velldal
+    last: Velldal
+  - first: Lilja
+    full: "Lilja \xD8vrelid"
+    id: lilja-ovrelid
+    last: "\xD8vrelid"
+  - first: Jonathon
+    full: Jonathon Read
+    id: jonathon-read
+    last: Read
+  author_string: "Emanuele Lapponi, Erik Velldal, Lilja \xD8vrelid, Jonathon Read"
+  bibkey: lapponi-etal-2012-uio
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '319'
+  page_last: '327'
+  pages: "319\u2013327"
+  paper_id: '42'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1042.jpg
+  title: 'UiO 2: Sequence-labeling Negation Using Dependency Features'
+  title_html: '<span class="acl-fixed-case">U</span>i<span class="acl-fixed-case">O</span>
+    2: Sequence-labeling Negation Using Dependency Features'
+  url: https://www.aclweb.org/anthology/S12-1042
+  year: '2012'
+S12-1043:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Amjad
+    full: Amjad Abu-Jbara
+    id: amjad-abu-jbara
+    last: Abu-Jbara
+  - first: Dragomir
+    full: Dragomir Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: Amjad Abu-Jbara, Dragomir Radev
+  bibkey: abu-jbara-radev-2012-umichigan
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '328'
+  page_last: '334'
+  pages: "328\u2013334"
+  paper_id: '43'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1043.jpg
+  title: 'UMichigan: A Conditional Random Field Model for Resolving the Scope of Negation'
+  title_html: '<span class="acl-fixed-case">UM</span>ichigan: A Conditional Random
+    Field Model for Resolving the Scope of Negation'
+  url: https://www.aclweb.org/anthology/S12-1043
+  year: '2012'
+S12-1044:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: James Paul
+    full: James Paul White
+    id: james-paul-white
+    last: White
+  author_string: James Paul White
+  bibkey: white-2012-uwashington
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '335'
+  page_last: '339'
+  pages: "335\u2013339"
+  paper_id: '44'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1044.jpg
+  title: 'UWashington: Negation Resolution using Machine Learning Methods'
+  title_html: '<span class="acl-fixed-case">UW</span>ashington: Negation Resolution
+    using Machine Learning Methods'
+  url: https://www.aclweb.org/anthology/S12-1044
+  year: '2012'
+S12-1045:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Md. Faisal Mahbub
+    full: Md. Faisal Mahbub Chowdhury
+    id: md-faisal-mahbub-chowdhury
+    last: Chowdhury
+  author_string: Md. Faisal Mahbub Chowdhury
+  bibkey: chowdhury-2012-fbk
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '340'
+  page_last: '346'
+  pages: "340\u2013346"
+  paper_id: '45'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1045.jpg
+  title: 'FBK: Exploiting Phrasal and Contextual Clues for Negation Scope Detection'
+  title_html: '<span class="acl-fixed-case">FBK</span>: Exploiting Phrasal and Contextual
+    Clues for Negation Scope Detection'
+  url: https://www.aclweb.org/anthology/S12-1045
+  year: '2012'
+S12-1046:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  - first: Sujay Kumar
+    full: Sujay Kumar Jauhar
+    id: sujay-kumar-jauhar
+    last: Jauhar
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Lucia Specia, Sujay Kumar Jauhar, Rada Mihalcea
+  bibkey: specia-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '347'
+  page_last: '355'
+  pages: "347\u2013355"
+  paper_id: '46'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1046.jpg
+  title: 'SemEval-2012 Task 1: English Lexical Simplification'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 1: <span class="acl-fixed-case">E</span>nglish Lexical Simplification'
+  url: https://www.aclweb.org/anthology/S12-1046
+  year: '2012'
+S12-1047:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: David
+    full: David Jurgens
+    id: david-jurgens
+    last: Jurgens
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Peter
+    full: Peter Turney
+    id: peter-turney
+    last: Turney
+  - first: Keith
+    full: Keith Holyoak
+    id: keith-holyoak
+    last: Holyoak
+  author_string: David Jurgens, Saif Mohammad, Peter Turney, Keith Holyoak
+  bibkey: jurgens-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '356'
+  page_last: '364'
+  pages: "356\u2013364"
+  paper_id: '47'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1047.jpg
+  title: 'SemEval-2012 Task 2: Measuring Degrees of Relational Similarity'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 2: Measuring Degrees of Relational Similarity'
+  url: https://www.aclweb.org/anthology/S12-1047
+  year: '2012'
+S12-1048:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Parisa
+    full: Parisa Kordjamshidi
+    id: parisa-kordjamshidi
+    last: Kordjamshidi
+  - first: Steven
+    full: Steven Bethard
+    id: steven-bethard
+    last: Bethard
+  - first: Marie-Francine
+    full: Marie-Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: Parisa Kordjamshidi, Steven Bethard, Marie-Francine Moens
+  bibkey: kordjamshidi-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '365'
+  page_last: '373'
+  pages: "365\u2013373"
+  paper_id: '48'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1048.jpg
+  title: 'SemEval-2012 Task 3: Spatial Role Labeling'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 3: Spatial Role Labeling'
+  url: https://www.aclweb.org/anthology/S12-1048
+  year: '2012'
+S12-1049:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Peng
+    full: Peng Jin
+    id: peng-jin
+    last: Jin
+  - first: Yunfang
+    full: Yunfang Wu
+    id: yunfang-wu
+    last: Wu
+  author_string: Peng Jin, Yunfang Wu
+  bibkey: jin-wu-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '374'
+  page_last: '377'
+  pages: "374\u2013377"
+  paper_id: '49'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1049.jpg
+  title: 'SemEval-2012 Task 4: Evaluating Chinese Word Similarity'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 4: Evaluating <span class="acl-fixed-case">C</span>hinese Word Similarity'
+  url: https://www.aclweb.org/anthology/S12-1049
+  year: '2012'
+S12-1050:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Wanxiang
+    full: Wanxiang Che
+    id: wanxiang-che
+    last: Che
+  - first: Meishan
+    full: Meishan Zhang
+    id: meishan-zhang
+    last: Zhang
+  - first: Yanqiu
+    full: Yanqiu Shao
+    id: yanqiu-shao
+    last: Shao
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  author_string: Wanxiang Che, Meishan Zhang, Yanqiu Shao, Ting Liu
+  bibkey: che-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '378'
+  page_last: '384'
+  pages: "378\u2013384"
+  paper_id: '50'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1050.jpg
+  title: 'SemEval-2012 Task 5: Chinese Semantic Dependency Parsing'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 5: <span class="acl-fixed-case">C</span>hinese Semantic Dependency Parsing'
+  url: https://www.aclweb.org/anthology/S12-1050
+  year: '2012'
+S12-1051:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Daniel
+    full: Daniel Cer
+    id: daniel-cer
+    last: Cer
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Aitor
+    full: Aitor Gonzalez-Agirre
+    id: aitor-gonzalez-agirre
+    last: Gonzalez-Agirre
+  author_string: Eneko Agirre, Daniel Cer, Mona Diab, Aitor Gonzalez-Agirre
+  bibkey: agirre-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '385'
+  page_last: '393'
+  pages: "385\u2013393"
+  paper_id: '51'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1051.jpg
+  title: 'SemEval-2012 Task 6: A Pilot on Semantic Textual Similarity'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 6: A Pilot on Semantic Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1051
+  year: '2012'
+S12-1052:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Andrew
+    full: Andrew Gordon
+    id: andrew-gordon
+    last: Gordon
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  - first: Melissa
+    full: Melissa Roemmele
+    id: melissa-roemmele
+    last: Roemmele
+  author_string: Andrew Gordon, Zornitsa Kozareva, Melissa Roemmele
+  bibkey: gordon-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '394'
+  page_last: '398'
+  pages: "394\u2013398"
+  paper_id: '52'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1052.jpg
+  title: 'SemEval-2012 Task 7: Choice of Plausible Alternatives: An Evaluation of
+    Commonsense Causal Reasoning'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    Task 7: Choice of Plausible Alternatives: An Evaluation of Commonsense Causal
+    Reasoning'
+  url: https://www.aclweb.org/anthology/S12-1052
+  year: '2012'
+S12-1053:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: Alessandro
+    full: Alessandro Marchetti
+    id: alessandro-marchetti
+    last: Marchetti
+  - first: Yashar
+    full: Yashar Mehdad
+    id: yashar-mehdad
+    last: Mehdad
+  - first: Luisa
+    full: Luisa Bentivogli
+    id: luisa-bentivogli
+    last: Bentivogli
+  - first: Danilo
+    full: Danilo Giampiccolo
+    id: danilo-giampiccolo
+    last: Giampiccolo
+  author_string: Matteo Negri, Alessandro Marchetti, Yashar Mehdad, Luisa Bentivogli,
+    Danilo Giampiccolo
+  bibkey: negri-etal-2012-semeval
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '399'
+  page_last: '407'
+  pages: "399\u2013407"
+  paper_id: '53'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1053.jpg
+  title: 'Semeval-2012 Task 8: Cross-lingual Textual Entailment for Content Synchronization'
+  title_html: '<span class="acl-fixed-case">S</span>emeval-2012 Task 8: Cross-lingual
+    Textual Entailment for Content Synchronization'
+  url: https://www.aclweb.org/anthology/S12-1053
+  year: '2012'
+S12-1054:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Anders
+    full: Anders Johannsen
+    id: anders-johannsen
+    last: Johannsen
+  - first: "H\xE9ctor"
+    full: "H\xE9ctor Mart\xEDnez"
+    id: hector-martinez-alonso
+    last: "Mart\xEDnez"
+  - first: Sigrid
+    full: Sigrid Klerke
+    id: sigrid-klerke
+    last: Klerke
+  - first: Anders
+    full: "Anders S\xF8gaard"
+    id: anders-sogaard
+    last: "S\xF8gaard"
+  author_string: "Anders Johannsen, H\xE9ctor Mart\xEDnez, Sigrid Klerke, Anders S\xF8\
+    gaard"
+  bibkey: johannsen-etal-2012-emnlp
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '408'
+  page_last: '412'
+  pages: "408\u2013412"
+  paper_id: '54'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1054.jpg
+  title: 'EMNLP@CPH: Is frequency all there is to simplicity?'
+  title_html: '<span class="acl-fixed-case">EMNLP</span>@<span class="acl-fixed-case">CPH</span>:
+    Is frequency all there is to simplicity?'
+  url: https://www.aclweb.org/anthology/S12-1054
+  year: '2012'
+S12-1055:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Bryan
+    full: Bryan Rink
+    id: bryan-rink
+    last: Rink
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Bryan Rink, Sanda Harabagiu
+  bibkey: rink-harabagiu-2012-utd
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '413'
+  page_last: '418'
+  pages: "413\u2013418"
+  paper_id: '55'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1055.jpg
+  title: 'UTD: Determining Relational Similarity Using Lexical Patterns'
+  title_html: '<span class="acl-fixed-case">UTD</span>: Determining Relational Similarity
+    Using Lexical Patterns'
+  url: https://www.aclweb.org/anthology/S12-1055
+  year: '2012'
+S12-1056:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Kirk
+    full: Kirk Roberts
+    id: kirk-roberts
+    last: Roberts
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Kirk Roberts, Sanda Harabagiu
+  bibkey: roberts-harabagiu-2012-utd
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '419'
+  page_last: '424'
+  pages: "419\u2013424"
+  paper_id: '56'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1056.jpg
+  title: 'UTD-SpRL: A Joint Approach to Spatial Role Labeling'
+  title_html: '<span class="acl-fixed-case">UTD</span>-<span class="acl-fixed-case">S</span>p<span
+    class="acl-fixed-case">RL</span>: A Joint Approach to Spatial Role Labeling'
+  url: https://www.aclweb.org/anthology/S12-1056
+  year: '2012'
+S12-1057:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Yingjie
+    full: Yingjie Zhang
+    id: yingjie-zhang
+    last: Zhang
+  - first: Bin
+    full: Bin Li
+    id: bin-li
+    last: Li
+  - first: Xinyu
+    full: Xinyu Dai
+    id: xinyu-dai
+    last: Dai
+  - first: Jiajun
+    full: Jiajun Chen
+    id: jiajun-chen
+    last: Chen
+  author_string: Yingjie Zhang, Bin Li, Xinyu Dai, Jiajun Chen
+  bibkey: zhang-etal-2012-mixcd
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '425'
+  page_last: '429'
+  pages: "425\u2013429"
+  paper_id: '57'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1057.jpg
+  title: 'MIXCD: System Description for Evaluating Chinese Word Similarity at SemEval-2012'
+  title_html: '<span class="acl-fixed-case">MIXCD</span>: System Description for Evaluating
+    <span class="acl-fixed-case">C</span>hinese Word Similarity at <span class="acl-fixed-case">S</span>em<span
+    class="acl-fixed-case">E</span>val-2012'
+  url: https://www.aclweb.org/anthology/S12-1057
+  year: '2012'
+S12-1058:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Zhijun
+    full: Zhijun Wu
+    id: zhijun-wu
+    last: Wu
+  - first: Xuan
+    full: Xuan Wang
+    id: xuan-wang
+    last: Wang
+  - first: Xinxin
+    full: Xinxin Li
+    id: xinxin-li
+    last: Li
+  author_string: Zhijun Wu, Xuan Wang, Xinxin Li
+  bibkey: wu-etal-2012-zhijun
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '430'
+  page_last: '434'
+  pages: "430\u2013434"
+  paper_id: '58'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1058.jpg
+  title: 'Zhijun Wu: Chinese Semantic Dependency Parsing with Third-Order Features'
+  title_html: 'Zhijun Wu: <span class="acl-fixed-case">C</span>hinese Semantic Dependency
+    Parsing with Third-Order Features'
+  url: https://www.aclweb.org/anthology/S12-1058
+  year: '2012'
+S12-1059:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Daniel
+    full: "Daniel B\xE4r"
+    id: daniel-bar
+    last: "B\xE4r"
+  - first: Chris
+    full: Chris Biemann
+    id: chris-biemann
+    last: Biemann
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  - first: Torsten
+    full: Torsten Zesch
+    id: torsten-zesch
+    last: Zesch
+  author_string: "Daniel B\xE4r, Chris Biemann, Iryna Gurevych, Torsten Zesch"
+  bibkey: bar-etal-2012-ukp
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '435'
+  page_last: '440'
+  pages: "435\u2013440"
+  paper_id: '59'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1059.jpg
+  title: 'UKP: Computing Semantic Textual Similarity by Combining Multiple Content
+    Similarity Measures'
+  title_html: '<span class="acl-fixed-case">UKP</span>: Computing Semantic Textual
+    Similarity by Combining Multiple Content Similarity Measures'
+  url: https://www.aclweb.org/anthology/S12-1059
+  year: '2012'
+S12-1060:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Frane
+    full: "Frane \u0160ari\u0107"
+    id: frane-saric
+    last: "\u0160ari\u0107"
+  - first: Goran
+    full: "Goran Glava\u0161"
+    id: goran-glavas
+    last: "Glava\u0161"
+  - first: Mladen
+    full: Mladen Karan
+    id: mladen-karan
+    last: Karan
+  - first: Jan
+    full: "Jan \u0160najder"
+    id: jan-snajder
+    last: "\u0160najder"
+  - first: Bojana
+    full: "Bojana Dalbelo Ba\u0161i\u0107"
+    id: bojana-dalbelo-basic
+    last: "Dalbelo Ba\u0161i\u0107"
+  author_string: "Frane \u0160ari\u0107, Goran Glava\u0161, Mladen Karan, Jan \u0160\
+    najder, Bojana Dalbelo Ba\u0161i\u0107"
+  bibkey: saric-etal-2012-takelab
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '441'
+  page_last: '448'
+  pages: "441\u2013448"
+  paper_id: '60'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1060.jpg
+  title: 'TakeLab: Systems for Measuring Semantic Text Similarity'
+  title_html: '<span class="acl-fixed-case">T</span>ake<span class="acl-fixed-case">L</span>ab:
+    Systems for Measuring Semantic Text Similarity'
+  url: https://www.aclweb.org/anthology/S12-1060
+  year: '2012'
+S12-1061:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sergio
+    full: Sergio Jimenez
+    id: sergio-jimenez
+    last: Jimenez
+  - first: Claudia
+    full: Claudia Becerra
+    id: claudia-becerra
+    last: Becerra
+  - first: Alexander
+    full: Alexander Gelbukh
+    id: alexander-gelbukh
+    last: Gelbukh
+  author_string: Sergio Jimenez, Claudia Becerra, Alexander Gelbukh
+  bibkey: jimenez-etal-2012-soft
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '449'
+  page_last: '453'
+  pages: "449\u2013453"
+  paper_id: '61'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1061.jpg
+  title: 'Soft Cardinality: A Parameterized Similarity Function for Text Comparison'
+  title_html: 'Soft Cardinality: A Parameterized Similarity Function for Text Comparison'
+  url: https://www.aclweb.org/anthology/S12-1061
+  year: '2012'
+S12-1062:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Enrique
+    full: "Enrique Amig\xF3"
+    id: enrique-amigo
+    last: "Amig\xF3"
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Gim\xE9nez"
+    id: jesus-gimenez
+    last: "Gim\xE9nez"
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  - first: Felisa
+    full: Felisa Verdejo
+    id: felisa-verdejo
+    last: Verdejo
+  author_string: "Enrique Amig\xF3, Jes\xFAs Gim\xE9nez, Julio Gonzalo, Felisa Verdejo"
+  bibkey: amigo-etal-2012-uned
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '454'
+  page_last: '460'
+  pages: "454\u2013460"
+  paper_id: '62'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1062.jpg
+  title: 'UNED: Improving Text Similarity Measures without Human Assessments'
+  title_html: '<span class="acl-fixed-case">UNED</span>: Improving Text Similarity
+    Measures without Human Assessments'
+  url: https://www.aclweb.org/anthology/S12-1062
+  year: '2012'
+S12-1063:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Travis
+    full: Travis Goodwin
+    id: travis-goodwin
+    last: Goodwin
+  - first: Bryan
+    full: Bryan Rink
+    id: bryan-rink
+    last: Rink
+  - first: Kirk
+    full: Kirk Roberts
+    id: kirk-roberts
+    last: Roberts
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Travis Goodwin, Bryan Rink, Kirk Roberts, Sanda Harabagiu
+  bibkey: goodwin-etal-2012-utdhlt
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '461'
+  page_last: '466'
+  pages: "461\u2013466"
+  paper_id: '63'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1063.jpg
+  title: 'UTDHLT: COPACETIC System for Choosing Plausible Alternatives'
+  title_html: '<span class="acl-fixed-case">UTDHLT</span>: <span class="acl-fixed-case">COPACETIC</span>
+    System for Choosing Plausible Alternatives'
+  url: https://www.aclweb.org/anthology/S12-1063
+  year: '2012'
+S12-1064:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Katharina
+    full: "Katharina W\xE4schle"
+    id: katharina-waschle
+    last: "W\xE4schle"
+  - first: Sascha
+    full: Sascha Fendrich
+    id: sascha-fendrich
+    last: Fendrich
+  author_string: "Katharina W\xE4schle, Sascha Fendrich"
+  bibkey: waschle-fendrich-2012-hdu
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '467'
+  page_last: '471'
+  pages: "467\u2013471"
+  paper_id: '64'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1064.jpg
+  title: 'HDU: Cross-lingual Textual Entailment with SMT Features'
+  title_html: '<span class="acl-fixed-case">HDU</span>: Cross-lingual Textual Entailment
+    with <span class="acl-fixed-case">SMT</span> Features'
+  url: https://www.aclweb.org/anthology/S12-1064
+  year: '2012'
+S12-1065:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Miquel
+    full: "Miquel Espl\xE0-Gomis"
+    id: miquel-espla-gomis
+    last: "Espl\xE0-Gomis"
+  - first: Felipe
+    full: "Felipe S\xE1nchez-Mart\xEDnez"
+    id: felipe-sanchez-martinez
+    last: "S\xE1nchez-Mart\xEDnez"
+  - first: Mikel L.
+    full: Mikel L. Forcada
+    id: mikel-l-forcada
+    last: Forcada
+  author_string: "Miquel Espl\xE0-Gomis, Felipe S\xE1nchez-Mart\xEDnez, Mikel L. Forcada"
+  bibkey: espla-gomis-etal-2012-ualacant
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '472'
+  page_last: '476'
+  pages: "472\u2013476"
+  paper_id: '65'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1065.jpg
+  title: 'UAlacant: Using Online Machine Translation for Cross-Lingual Textual Entailment'
+  title_html: '<span class="acl-fixed-case">UA</span>lacant: Using Online Machine
+    Translation for Cross-Lingual Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1065
+  year: '2012'
+S12-1066:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sujay Kumar
+    full: Sujay Kumar Jauhar
+    id: sujay-kumar-jauhar
+    last: Jauhar
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Sujay Kumar Jauhar, Lucia Specia
+  bibkey: jauhar-specia-2012-uow
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '477'
+  page_last: '481'
+  pages: "477\u2013481"
+  paper_id: '66'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1066.jpg
+  title: "UOW-SHEF: SimpLex \u2013 Lexical Simplicity Ranking based on Contextual\
+    \ and Psycholinguistic Features"
+  title_html: "<span class=\"acl-fixed-case\">UOW</span>-<span class=\"acl-fixed-case\"\
+    >SHEF</span>: <span class=\"acl-fixed-case\">S</span>imp<span class=\"acl-fixed-case\"\
+    >L</span>ex \u2013 Lexical Simplicity Ranking based on Contextual and Psycholinguistic\
+    \ Features"
+  url: https://www.aclweb.org/anthology/S12-1066
+  year: '2012'
+S12-1067:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Marilisa
+    full: Marilisa Amoia
+    id: marilisa-amoia
+    last: Amoia
+  - first: Massimo
+    full: Massimo Romanelli
+    id: massimo-romanelli
+    last: Romanelli
+  author_string: Marilisa Amoia, Massimo Romanelli
+  bibkey: amoia-romanelli-2012-sb
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '482'
+  page_last: '486'
+  pages: "482\u2013486"
+  paper_id: '67'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1067.jpg
+  title: 'SB: mmSystem - Using Decompositional Semantics for Lexical Simplification'
+  title_html: '<span class="acl-fixed-case">SB</span>: mm<span class="acl-fixed-case">S</span>ystem
+    - Using Decompositional Semantics for Lexical Simplification'
+  url: https://www.aclweb.org/anthology/S12-1067
+  year: '2012'
+S12-1068:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Anne-Laure
+    full: Anne-Laure Ligozat
+    id: anne-laure-ligozat
+    last: Ligozat
+  - first: Cyril
+    full: Cyril Grouin
+    id: cyril-grouin
+    last: Grouin
+  - first: Anne
+    full: Anne Garcia-Fernandez
+    id: anne-garcia-fernandez
+    last: Garcia-Fernandez
+  - first: Delphine
+    full: Delphine Bernhard
+    id: delphine-bernhard
+    last: Bernhard
+  author_string: Anne-Laure Ligozat, Cyril Grouin, Anne Garcia-Fernandez, Delphine
+    Bernhard
+  bibkey: ligozat-etal-2012-annlor
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '487'
+  page_last: '492'
+  pages: "487\u2013492"
+  paper_id: '68'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1068.jpg
+  title: "ANNLOR: A Na\xEFve Notation-system for Lexical Outputs Ranking"
+  title_html: "<span class=\"acl-fixed-case\">ANNLOR</span>: A Na\xEFve Notation-system\
+    \ for Lexical Outputs Ranking"
+  url: https://www.aclweb.org/anthology/S12-1068
+  year: '2012'
+S12-1069:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Ravi
+    full: Ravi Sinha
+    id: ravi-sinha
+    last: Sinha
+  author_string: Ravi Sinha
+  bibkey: sinha-2012-unt
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '493'
+  page_last: '496'
+  pages: "493\u2013496"
+  paper_id: '69'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1069.jpg
+  title: 'UNT-SimpRank: Systems for Lexical Simplification Ranking'
+  title_html: '<span class="acl-fixed-case">UNT</span>-<span class="acl-fixed-case">S</span>imp<span
+    class="acl-fixed-case">R</span>ank: Systems for Lexical Simplification Ranking'
+  url: https://www.aclweb.org/anthology/S12-1069
+  year: '2012'
+S12-1070:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Ted Pedersen
+  bibkey: pedersen-2012-duluth
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '497'
+  page_last: '501'
+  pages: "497\u2013501"
+  paper_id: '70'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1070.jpg
+  title: 'Duluth : Measuring Degrees of Relational Similarity with the Gloss Vector
+    Measure of Semantic Relatedness'
+  title_html: '<span class="acl-fixed-case">D</span>uluth : Measuring Degrees of Relational
+    Similarity with the Gloss Vector Measure of Semantic Relatedness'
+  url: https://www.aclweb.org/anthology/S12-1070
+  year: '2012'
+S12-1071:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Mireya
+    full: Mireya Tovar
+    id: mireya-tovar
+    last: Tovar
+  - first: J. Alejandro
+    full: J. Alejandro Reyes
+    id: j-alejandro-reyes
+    last: Reyes
+  - first: Azucena
+    full: Azucena Montes
+    id: azucena-montes-rendon
+    last: Montes
+  - first: Darnes
+    full: "Darnes Vilari\xF1o"
+    id: darnes-vilarino
+    last: "Vilari\xF1o"
+  - first: David
+    full: David Pinto
+    id: david-pinto
+    last: Pinto
+  - first: Saul
+    full: "Saul Le\xF3n"
+    id: saul-leon
+    last: "Le\xF3n"
+  author_string: "Mireya Tovar, J. Alejandro Reyes, Azucena Montes, Darnes Vilari\xF1\
+    o, David Pinto, Saul Le\xF3n"
+  bibkey: tovar-etal-2012-buap
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '502'
+  page_last: '505'
+  pages: "502\u2013505"
+  paper_id: '71'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1071.jpg
+  title: 'BUAP: A First Approximation to Relational Similarity Measuring'
+  title_html: '<span class="acl-fixed-case">BUAP</span>: A First Approximation to
+    Relational Similarity Measuring'
+  url: https://www.aclweb.org/anthology/S12-1071
+  year: '2012'
+S12-1072:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Qiaoli
+    full: Qiaoli Zhou
+    id: qiaoli-zhou
+    last: Zhou
+  - first: Ling
+    full: Ling Zhang
+    id: ling-zhang
+    last: Zhang
+  - first: Fei
+    full: Fei Liu
+    id: fei-liu
+    last: Liu
+  - first: Dongfeng
+    full: Dongfeng Cai
+    id: dongfeng-cai
+    last: Cai
+  - first: Guiping
+    full: Guiping Zhang
+    id: guiping-zhang
+    last: Zhang
+  author_string: Qiaoli Zhou, Ling Zhang, Fei Liu, Dongfeng Cai, Guiping Zhang
+  bibkey: zhou-etal-2012-zhou
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '506'
+  page_last: '513'
+  pages: "506\u2013513"
+  paper_id: '72'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1072.jpg
+  title: 'Zhou qiaoli: A divide-and-conquer strategy for semantic dependency parsing'
+  title_html: '<span class="acl-fixed-case">Z</span>hou qiaoli: A divide-and-conquer
+    strategy for semantic dependency parsing'
+  url: https://www.aclweb.org/anthology/S12-1072
+  year: '2012'
+S12-1073:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Hao
+    full: Hao Xiong
+    id: hao-xiong
+    last: Xiong
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Hao Xiong, Qun Liu
+  bibkey: xiong-liu-2012-ict
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '514'
+  page_last: '518'
+  pages: "514\u2013518"
+  paper_id: '73'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1073.jpg
+  title: ICT:A System Combination for Chinese Semantic Dependency Parsing
+  title_html: <span class="acl-fixed-case">ICT</span>:A System Combination for <span
+    class="acl-fixed-case">C</span>hinese Semantic Dependency Parsing
+  url: https://www.aclweb.org/anthology/S12-1073
+  year: '2012'
+S12-1074:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Guangchao
+    full: Guangchao Tang
+    id: guangchao-tang
+    last: Tang
+  - first: Bin
+    full: Bin Li
+    id: bin-li
+    last: Li
+  - first: Shuaishuai
+    full: Shuaishuai Xu
+    id: shuaishuai-xu
+    last: Xu
+  - first: Xinyu
+    full: Xinyu Dai
+    id: xinyu-dai
+    last: Dai
+  - first: Jiajun
+    full: Jiajun Chen
+    id: jiajun-chen
+    last: Chen
+  author_string: Guangchao Tang, Bin Li, Shuaishuai Xu, Xinyu Dai, Jiajun Chen
+  bibkey: tang-etal-2012-nju
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '519'
+  page_last: '523'
+  pages: "519\u2013523"
+  paper_id: '74'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1074.jpg
+  title: 'NJU-Parser: Achievements on Semantic Dependency Parsing'
+  title_html: '<span class="acl-fixed-case">NJU</span>-Parser: Achievements on Semantic
+    Dependency Parsing'
+  url: https://www.aclweb.org/anthology/S12-1074
+  year: '2012'
+S12-1075:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Jian
+    full: Jian Xu
+    id: jian-xu
+    last: Xu
+  - first: Qin
+    full: Qin Lu
+    id: qin-lu
+    last: Lu
+  - first: Zhengzhong
+    full: Zhengzhong Liu
+    id: zhengzhong-liu
+    last: Liu
+  author_string: Jian Xu, Qin Lu, Zhengzhong Liu
+  bibkey: xu-etal-2012-polyucomp
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '524'
+  page_last: '528'
+  pages: "524\u2013528"
+  paper_id: '75'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1075.jpg
+  title: 'PolyUCOMP: Combining Semantic Vectors with Skip bigrams for Semantic Textual
+    Similarity'
+  title_html: '<span class="acl-fixed-case">P</span>oly<span class="acl-fixed-case">UCOMP</span>:
+    Combining Semantic Vectors with Skip bigrams for Semantic Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1075
+  year: '2012'
+S12-1076:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Michael
+    full: Michael Heilman
+    id: michael-heilman
+    last: Heilman
+  - first: Nitin
+    full: Nitin Madnani
+    id: nitin-madnani
+    last: Madnani
+  author_string: Michael Heilman, Nitin Madnani
+  bibkey: heilman-madnani-2012-ets
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '529'
+  page_last: '535'
+  pages: "529\u2013535"
+  paper_id: '76'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1076.jpg
+  title: 'ETS: Discriminative Edit Models for Paraphrase Scoring'
+  title_html: '<span class="acl-fixed-case">ETS</span>: Discriminative Edit Models
+    for Paraphrase Scoring'
+  url: https://www.aclweb.org/anthology/S12-1076
+  year: '2012'
+S12-1077:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Samir
+    full: Samir AbdelRahman
+    id: samir-abdelrahman
+    last: AbdelRahman
+  - first: Catherine
+    full: Catherine Blake
+    id: catherine-blake
+    last: Blake
+  author_string: Samir AbdelRahman, Catherine Blake
+  bibkey: abdelrahman-blake-2012-sbdlrhmn
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '536'
+  page_last: '542'
+  pages: "536\u2013542"
+  paper_id: '77'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1077.jpg
+  title: 'Sbdlrhmn: A Rule-based Human Interpretation System for Semantic Textual
+    Similarity Task'
+  title_html: '<span class="acl-fixed-case">S</span>bdlrhmn: A Rule-based Human Interpretation
+    System for Semantic Textual Similarity Task'
+  url: https://www.aclweb.org/anthology/S12-1077
+  year: '2012'
+S12-1078:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Artem
+    full: Artem Sokolov
+    id: artem-sokolov
+    last: Sokolov
+  author_string: Artem Sokolov
+  bibkey: sokolov-2012-limsi
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '543'
+  page_last: '546'
+  pages: "543\u2013546"
+  paper_id: '78'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1078.jpg
+  title: 'LIMSI: Learning Semantic Similarity by Selecting Random Word Subsets'
+  title_html: '<span class="acl-fixed-case">LIMSI</span>: Learning Semantic Similarity
+    by Selecting Random Word Subsets'
+  url: https://www.aclweb.org/anthology/S12-1078
+  year: '2012'
+S12-1079:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Demetrios
+    full: Demetrios Glinos
+    id: demetrios-glinos
+    last: Glinos
+  author_string: Demetrios Glinos
+  bibkey: glinos-2012-ata
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '547'
+  page_last: '551'
+  pages: "547\u2013551"
+  paper_id: '79'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1079.jpg
+  title: 'ATA-Sem: Chunk-based Determination of Semantic Text Similarity'
+  title_html: '<span class="acl-fixed-case">ATA</span>-Sem: Chunk-based Determination
+    of Semantic Text Similarity'
+  url: https://www.aclweb.org/anthology/S12-1079
+  year: '2012'
+S12-1080:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Davide
+    full: Davide Buscaldi
+    id: davide-buscaldi
+    last: Buscaldi
+  - first: Ronan
+    full: Ronan Tournier
+    id: ronan-tournier
+    last: Tournier
+  - first: Nathalie
+    full: Nathalie Aussenac-Gilles
+    id: nathalie-aussenac-gilles
+    last: Aussenac-Gilles
+  - first: Josiane
+    full: Josiane Mothe
+    id: josiane-mothe
+    last: Mothe
+  author_string: Davide Buscaldi, Ronan Tournier, Nathalie Aussenac-Gilles, Josiane
+    Mothe
+  bibkey: buscaldi-etal-2012-irit
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '552'
+  page_last: '556'
+  pages: "552\u2013556"
+  paper_id: '80'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1080.jpg
+  title: 'IRIT: Textual Similarity Combining Conceptual Similarity with an N-Gram
+    Comparison Method'
+  title_html: '<span class="acl-fixed-case">IRIT</span>: Textual Similarity Combining
+    Conceptual Similarity with an N-Gram Comparison Method'
+  url: https://www.aclweb.org/anthology/S12-1080
+  year: '2012'
+S12-1081:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: Spandana
+    full: Spandana Gella
+    id: spandana-gella
+    last: Gella
+  - first: Siva
+    full: Siva Reddy
+    id: siva-reddy
+    last: Reddy
+  author_string: Diana McCarthy, Spandana Gella, Siva Reddy
+  bibkey: mccarthy-etal-2012-dss
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '557'
+  page_last: '564'
+  pages: "557\u2013564"
+  paper_id: '81'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1081.pdf
+  publisher: Association for Computational Linguistics
+  revision:
+  - id: '1'
+    url: https://www.aclweb.org/anthology/S12-1081v1.pdf
+    value: S12-1081v1
+  - explanation: No description of the changes were recorded.
+    id: '2'
+    url: https://www.aclweb.org/anthology/S12-1081v2.pdf
+    value: S12-1081v2
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1081.jpg
+  title: 'DSS: Text Similarity Using Lexical Alignments of Form, Distributional Semantics
+    and Grammatical Relations'
+  title_html: '<span class="acl-fixed-case">DSS</span>: Text Similarity Using Lexical
+    Alignments of Form, Distributional Semantics and Grammatical Relations'
+  url: https://www.aclweb.org/anthology/S12-1081
+  year: '2012'
+S12-1082:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Nikos
+    full: Nikos Malandrakis
+    id: nikos-malandrakis
+    last: Malandrakis
+  - first: Elias
+    full: Elias Iosif
+    id: elias-iosif
+    last: Iosif
+  - first: Alexandros
+    full: Alexandros Potamianos
+    id: alexandros-potamianos
+    last: Potamianos
+  author_string: Nikos Malandrakis, Elias Iosif, Alexandros Potamianos
+  bibkey: malandrakis-etal-2012-deeppurple
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '565'
+  page_last: '570'
+  pages: "565\u2013570"
+  paper_id: '82'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1082.jpg
+  title: 'DeepPurple: Estimating Sentence Semantic Similarity using N-gram Regression
+    Models and Web Snippets'
+  title_html: '<span class="acl-fixed-case">D</span>eep<span class="acl-fixed-case">P</span>urple:
+    Estimating Sentence Semantic Similarity using N-gram Regression Models and Web
+    Snippets'
+  url: https://www.aclweb.org/anthology/S12-1082
+  year: '2012'
+S12-1083:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Snehasis
+    full: Snehasis Neogi
+    id: snehasis-neogi
+    last: Neogi
+  - first: Partha
+    full: Partha Pakray
+    id: partha-pakray
+    last: Pakray
+  - first: Sivaji
+    full: Sivaji Bandyopadhyay
+    id: sivaji-bandyopadhyay
+    last: Bandyopadhyay
+  - first: Alexander
+    full: Alexander Gelbukh
+    id: alexander-gelbukh
+    last: Gelbukh
+  author_string: Snehasis Neogi, Partha Pakray, Sivaji Bandyopadhyay, Alexander Gelbukh
+  bibkey: neogi-etal-2012-ju
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '571'
+  page_last: '574'
+  pages: "571\u2013574"
+  paper_id: '83'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1083.jpg
+  title: 'JU_CSE_NLP: Multi-grade Classification of Semantic Similarity between Text
+    Pairs'
+  title_html: '<span class="acl-fixed-case">JU</span>_<span class="acl-fixed-case">CSE</span>_<span
+    class="acl-fixed-case">NLP</span>: Multi-grade Classification of Semantic Similarity
+    between Text Pairs'
+  url: https://www.aclweb.org/anthology/S12-1083
+  year: '2012'
+S12-1084:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Tiantian
+    full: Tiantian Zhu
+    id: tiantian-zhu
+    last: Zhu
+  - first: Man
+    full: Man Lan
+    id: man-lan
+    last: Lan
+  author_string: Tiantian Zhu, Man Lan
+  bibkey: zhu-lan-2012-tiantianzhu7
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '575'
+  page_last: '578'
+  pages: "575\u2013578"
+  paper_id: '84'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1084.jpg
+  title: Tiantianzhu7:System Description of Semantic Textual Similarity (STS) in the
+    SemEval-2012 (Task 6)
+  title_html: <span class="acl-fixed-case">T</span>iantianzhu7:System Description
+    of Semantic Textual Similarity (<span class="acl-fixed-case">STS</span>) in the
+    <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2012
+    (Task 6)
+  url: https://www.aclweb.org/anthology/S12-1084
+  year: '2012'
+S12-1085:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sumit
+    full: Sumit Bhagwani
+    id: sumit-bhagwani
+    last: Bhagwani
+  - first: Shrutiranjan
+    full: Shrutiranjan Satapathy
+    id: shrutiranjan-satapathy
+    last: Satapathy
+  - first: Harish
+    full: Harish Karnick
+    id: harish-karnick
+    last: Karnick
+  author_string: Sumit Bhagwani, Shrutiranjan Satapathy, Harish Karnick
+  bibkey: bhagwani-etal-2012-sranjans
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '579'
+  page_last: '585'
+  pages: "579\u2013585"
+  paper_id: '85'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1085.jpg
+  title: 'sranjans : Semantic Textual Similarity using Maximal Weighted Bipartite
+    Graph Matching'
+  title_html: 'sranjans : Semantic Textual Similarity using Maximal Weighted Bipartite
+    Graph Matching'
+  url: https://www.aclweb.org/anthology/S12-1085
+  year: '2012'
+S12-1086:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Weiwei
+    full: Weiwei Guo
+    id: weiwei-guo
+    last: Guo
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  author_string: Weiwei Guo, Mona Diab
+  bibkey: guo-diab-2012-weiwei
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '586'
+  page_last: '590'
+  pages: "586\u2013590"
+  paper_id: '86'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1086.jpg
+  title: 'Weiwei: A Simple Unsupervised Latent Semantics based Approach for Sentence
+    Similarity'
+  title_html: '<span class="acl-fixed-case">W</span>eiwei: A Simple Unsupervised Latent
+    Semantics based Approach for Sentence Similarity'
+  url: https://www.aclweb.org/anthology/S12-1086
+  year: '2012'
+S12-1087:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Annalina
+    full: Annalina Caputo
+    id: annalina-caputo
+    last: Caputo
+  - first: Pierpaolo
+    full: Pierpaolo Basile
+    id: pierpaolo-basile
+    last: Basile
+  - first: Giovanni
+    full: Giovanni Semeraro
+    id: giovanni-semeraro
+    last: Semeraro
+  author_string: Annalina Caputo, Pierpaolo Basile, Giovanni Semeraro
+  bibkey: caputo-etal-2012-uniba
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '591'
+  page_last: '596'
+  pages: "591\u2013596"
+  paper_id: '87'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1087.jpg
+  title: 'UNIBA: Distributional Semantics for Textual Similarity'
+  title_html: '<span class="acl-fixed-case">UNIBA</span>: Distributional Semantics
+    for Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1087
+  year: '2012'
+S12-1088:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Danilo
+    full: Danilo Croce
+    id: danilo-croce
+    last: Croce
+  - first: Paolo
+    full: Paolo Annesi
+    id: paolo-annesi
+    last: Annesi
+  - first: Valerio
+    full: Valerio Storch
+    id: valerio-storch
+    last: Storch
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  author_string: Danilo Croce, Paolo Annesi, Valerio Storch, Roberto Basili
+  bibkey: croce-etal-2012-unitor
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '597'
+  page_last: '602'
+  pages: "597\u2013602"
+  paper_id: '88'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1088.jpg
+  title: 'UNITOR: Combining Semantic Text Similarity functions through SV Regression'
+  title_html: '<span class="acl-fixed-case">UNITOR</span>: Combining Semantic Text
+    Similarity functions through <span class="acl-fixed-case">SV</span> Regression'
+  url: https://www.aclweb.org/anthology/S12-1088
+  year: '2012'
+S12-1089:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Georgiana
+    full: Georgiana Dinu
+    id: georgiana-dinu
+    last: Dinu
+  - first: Stefan
+    full: Stefan Thater
+    id: stefan-thater
+    last: Thater
+  author_string: Georgiana Dinu, Stefan Thater
+  bibkey: dinu-thater-2012-saarland
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '603'
+  page_last: '607'
+  pages: "603\u2013607"
+  paper_id: '89'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1089.jpg
+  title: 'Saarland: Vector-based models of semantic textual similarity'
+  title_html: '<span class="acl-fixed-case">S</span>aarland: Vector-based models of
+    semantic textual similarity'
+  url: https://www.aclweb.org/anthology/S12-1089
+  year: '2012'
+S12-1090:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Antonio
+    full: "Antonio Fern\xE1ndez"
+    id: antonio-fernandez-orquin
+    last: "Fern\xE1ndez"
+  - first: Yoan
+    full: "Yoan Guti\xE9rrez"
+    id: yoan-gutierrez
+    last: "Guti\xE9rrez"
+  - first: "H\xE9ctor"
+    full: "H\xE9ctor D\xE1vila"
+    id: hector-davila
+    last: "D\xE1vila"
+  - first: Alexander
+    full: "Alexander Ch\xE1vez"
+    id: alexander-chavez
+    last: "Ch\xE1vez"
+  - first: Andy
+    full: "Andy Gonz\xE1lez"
+    id: andy-gonzalez
+    last: "Gonz\xE1lez"
+  - first: Rainel
+    full: Rainel Estrada
+    id: rainel-estrada
+    last: Estrada
+  - first: Yenier
+    full: "Yenier Casta\xF1eda"
+    id: yenier-castaneda
+    last: "Casta\xF1eda"
+  - first: Sonia
+    full: "Sonia V\xE1zquez"
+    id: sonia-vazquez
+    last: "V\xE1zquez"
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo"
+    id: andres-montoyo
+    last: Montoyo
+  - first: Rafael
+    full: "Rafael Mu\xF1oz"
+    id: rafael-munoz
+    last: "Mu\xF1oz"
+  author_string: "Antonio Fern\xE1ndez, Yoan Guti\xE9rrez, H\xE9ctor D\xE1vila, Alexander\
+    \ Ch\xE1vez, Andy Gonz\xE1lez, Rainel Estrada, Yenier Casta\xF1eda, Sonia V\xE1\
+    zquez, Andr\xE9s Montoyo, Rafael Mu\xF1oz"
+  bibkey: fernandez-etal-2012-umcc
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '608'
+  page_last: '616'
+  pages: "608\u2013616"
+  paper_id: '90'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1090.jpg
+  title: 'UMCC_DLSI: Multidimensional Lexical-Semantic Textual Similarity'
+  title_html: '<span class="acl-fixed-case">UMCC</span>_<span class="acl-fixed-case">DLSI</span>:
+    Multidimensional Lexical-Semantic Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1090
+  year: '2012'
+S12-1091:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Eric
+    full: Eric Yeh
+    id: eric-yeh
+    last: Yeh
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  author_string: Eric Yeh, Eneko Agirre
+  bibkey: yeh-agirre-2012-sriubc
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '617'
+  page_last: '623'
+  pages: "617\u2013623"
+  paper_id: '91'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1091.jpg
+  title: 'SRIUBC: Simple Similarity Features for Semantic Textual Similarity'
+  title_html: '<span class="acl-fixed-case">SRIUBC</span>: Simple Similarity Features
+    for Semantic Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1091
+  year: '2012'
+S12-1092:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: "Jos\xE9 Guilherme"
+    full: "Jos\xE9 Guilherme Camargo de Souza"
+    id: jose-g-c-de-souza
+    last: Camargo de Souza
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: Yashar
+    full: Yashar Mehdad
+    id: yashar-mehdad
+    last: Mehdad
+  author_string: "Jos\xE9 Guilherme Camargo de Souza, Matteo Negri, Yashar Mehdad"
+  bibkey: camargo-de-souza-etal-2012-fbk
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '624'
+  page_last: '630'
+  pages: "624\u2013630"
+  paper_id: '92'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1092.jpg
+  title: 'FBK: Machine Translation Evaluation and Word Similarity metrics for Semantic
+    Textual Similarity'
+  title_html: '<span class="acl-fixed-case">FBK</span>: Machine Translation Evaluation
+    and Word Similarity metrics for Semantic Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1092
+  year: '2012'
+S12-1093:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Maya
+    full: Maya Carrillo
+    id: maya-carrillo
+    last: Carrillo
+  - first: Darnes
+    full: "Darnes Vilari\xF1o"
+    id: darnes-vilarino
+    last: "Vilari\xF1o"
+  - first: David
+    full: David Pinto
+    id: david-pinto
+    last: Pinto
+  - first: Mireya
+    full: Mireya Tovar
+    id: mireya-tovar
+    last: Tovar
+  - first: Saul
+    full: "Saul Le\xF3n"
+    id: saul-leon
+    last: "Le\xF3n"
+  - first: Esteban
+    full: Esteban Castillo
+    id: esteban-castillo
+    last: Castillo
+  author_string: "Maya Carrillo, Darnes Vilari\xF1o, David Pinto, Mireya Tovar, Saul\
+    \ Le\xF3n, Esteban Castillo"
+  bibkey: carrillo-etal-2012-fcc
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '631'
+  page_last: '634'
+  pages: "631\u2013634"
+  paper_id: '93'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1093.jpg
+  title: 'FCC: Three Approaches for Semantic Textual Similarity'
+  title_html: '<span class="acl-fixed-case">FCC</span>: Three Approaches for Semantic
+    Textual Similarity'
+  url: https://www.aclweb.org/anthology/S12-1093
+  year: '2012'
+S12-1094:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Carmen
+    full: Carmen Banea
+    id: carmen-banea
+    last: Banea
+  - first: Samer
+    full: Samer Hassan
+    id: samer-hassan
+    last: Hassan
+  - first: Michael
+    full: Michael Mohler
+    id: michael-mohler
+    last: Mohler
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Carmen Banea, Samer Hassan, Michael Mohler, Rada Mihalcea
+  bibkey: banea-etal-2012-unt
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '635'
+  page_last: '642'
+  pages: "635\u2013642"
+  paper_id: '94'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1094.jpg
+  title: 'UNT: A Supervised Synergistic Approach to Semantic Text Similarity'
+  title_html: '<span class="acl-fixed-case">UNT</span>: A Supervised Synergistic Approach
+    to Semantic Text Similarity'
+  url: https://www.aclweb.org/anthology/S12-1094
+  year: '2012'
+S12-1095:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Nitish
+    full: Nitish Aggarwal
+    id: nitish-aggarwal
+    last: Aggarwal
+  - first: Kartik
+    full: Kartik Asooja
+    id: kartik-asooja
+    last: Asooja
+  - first: Paul
+    full: Paul Buitelaar
+    id: paul-buitelaar
+    last: Buitelaar
+  author_string: Nitish Aggarwal, Kartik Asooja, Paul Buitelaar
+  bibkey: aggarwal-etal-2012-deri
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '643'
+  page_last: '647'
+  pages: "643\u2013647"
+  paper_id: '95'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1095.jpg
+  title: 'DERI&UPM: Pushing Corpus Based Relatedness to Similarity: Shared Task System
+    Description'
+  title_html: '<span class="acl-fixed-case">DERI</span>&amp;<span class="acl-fixed-case">UPM</span>:
+    Pushing Corpus Based Relatedness to Similarity: Shared Task System Description'
+  url: https://www.aclweb.org/anthology/S12-1095
+  year: '2012'
+S12-1096:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Mengqiu
+    full: Mengqiu Wang
+    id: mengqiu-wang
+    last: Wang
+  - first: Daniel
+    full: Daniel Cer
+    id: daniel-cer
+    last: Cer
+  author_string: Mengqiu Wang, Daniel Cer
+  bibkey: wang-cer-2012-stanford
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '648'
+  page_last: '654'
+  pages: "648\u2013654"
+  paper_id: '96'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1096.jpg
+  title: 'Stanford: Probabilistic Edit Distance Metrics for STS'
+  title_html: '<span class="acl-fixed-case">S</span>tanford: Probabilistic Edit Distance
+    Metrics for <span class="acl-fixed-case">STS</span>'
+  url: https://www.aclweb.org/anthology/S12-1096
+  year: '2012'
+S12-1097:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sam
+    full: Sam Biggins
+    id: sam-biggins
+    last: Biggins
+  - first: Shaabi
+    full: Shaabi Mohammed
+    id: shaabi-mohammed
+    last: Mohammed
+  - first: Sam
+    full: Sam Oakley
+    id: sam-oakley
+    last: Oakley
+  - first: Luke
+    full: Luke Stringer
+    id: luke-stringer
+    last: Stringer
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  - first: Judita
+    full: Judita Preiss
+    id: judita-preiss
+    last: Preiss
+  author_string: Sam Biggins, Shaabi Mohammed, Sam Oakley, Luke Stringer, Mark Stevenson,
+    Judita Preiss
+  bibkey: biggins-etal-2012-university
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '655'
+  page_last: '661'
+  pages: "655\u2013661"
+  paper_id: '97'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1097.jpg
+  title: 'University_Of_Sheffield: Two Approaches to Semantic Text Similarity'
+  title_html: '<span class="acl-fixed-case">U</span>niversity_<span class="acl-fixed-case">O</span>f_<span
+    class="acl-fixed-case">S</span>heffield: Two Approaches to Semantic Text Similarity'
+  url: https://www.aclweb.org/anthology/S12-1097
+  year: '2012'
+S12-1098:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Janardhan
+    full: Janardhan Singh
+    id: janardhan-singh
+    last: Singh
+  - first: Arindam
+    full: Arindam Bhattacharya
+    id: arindam-bhattacharya
+    last: Bhattacharya
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Janardhan Singh, Arindam Bhattacharya, Pushpak Bhattacharyya
+  bibkey: singh-etal-2012-janardhan
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '662'
+  page_last: '666'
+  pages: "662\u2013666"
+  paper_id: '98'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1098.jpg
+  title: 'janardhan: Semantic Textual Similarity using Universal Networking Language
+    graph matching'
+  title_html: 'janardhan: Semantic Textual Similarity using Universal Networking Language
+    graph matching'
+  url: https://www.aclweb.org/anthology/S12-1098
+  year: '2012'
+S12-1099:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Julio
+    full: Julio Castillo
+    id: julio-castillo
+    last: Castillo
+  - first: Paula
+    full: Paula Estrella
+    id: paula-estrella
+    last: Estrella
+  author_string: Julio Castillo, Paula Estrella
+  bibkey: castillo-estrella-2012-sagan
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '667'
+  page_last: '672'
+  pages: "667\u2013672"
+  paper_id: '99'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1099.jpg
+  title: 'SAGAN: An approach to Semantic Textual Similarity based on Textual Entailment'
+  title_html: '<span class="acl-fixed-case">SAGAN</span>: An approach to Semantic
+    Textual Similarity based on Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1099
+  year: '2012'
+S12-1100:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Miguel
+    full: Miguel Rios
+    id: miguel-rios
+    last: Rios
+  - first: Wilker
+    full: Wilker Aziz
+    id: wilker-aziz
+    last: Aziz
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Miguel Rios, Wilker Aziz, Lucia Specia
+  bibkey: rios-etal-2012-uow
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '673'
+  page_last: '678'
+  pages: "673\u2013678"
+  paper_id: '100'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1100.jpg
+  title: 'UOW: Semantically Informed Text Similarity'
+  title_html: '<span class="acl-fixed-case">UOW</span>: Semantically Informed Text
+    Similarity'
+  url: https://www.aclweb.org/anthology/S12-1100
+  year: '2012'
+S12-1101:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sneha
+    full: Sneha Jha
+    id: sneha-jha
+    last: Jha
+  - first: Hansen A.
+    full: Hansen A. Schwartz
+    id: h-andrew-schwartz
+    last: Schwartz
+  - first: Lyle
+    full: Lyle Ungar
+    id: lyle-ungar
+    last: Ungar
+  author_string: Sneha Jha, Hansen A. Schwartz, Lyle Ungar
+  bibkey: jha-etal-2012-penn
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '679'
+  page_last: '683'
+  pages: "679\u2013683"
+  paper_id: '101'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1101.jpg
+  title: 'Penn: Using Word Similarities to better Estimate Sentence Similarity'
+  title_html: '<span class="acl-fixed-case">P</span>enn: Using Word Similarities to
+    better Estimate Sentence Similarity'
+  url: https://www.aclweb.org/anthology/S12-1101
+  year: '2012'
+S12-1102:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Sergio
+    full: Sergio Jimenez
+    id: sergio-jimenez
+    last: Jimenez
+  - first: Claudia
+    full: Claudia Becerra
+    id: claudia-becerra
+    last: Becerra
+  - first: Alexander
+    full: Alexander Gelbukh
+    id: alexander-gelbukh
+    last: Gelbukh
+  author_string: Sergio Jimenez, Claudia Becerra, Alexander Gelbukh
+  bibkey: jimenez-etal-2012-soft-cardinality
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '684'
+  page_last: '688'
+  pages: "684\u2013688"
+  paper_id: '102'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1102.jpg
+  title: 'Soft Cardinality + ML: Learning Adaptive Similarity Functions for Cross-lingual
+    Textual Entailment'
+  title_html: 'Soft Cardinality + <span class="acl-fixed-case">ML</span>: Learning
+    Adaptive Similarity Functions for Cross-lingual Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1102
+  year: '2012'
+S12-1103:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Snehasis
+    full: Snehasis Neogi
+    id: snehasis-neogi
+    last: Neogi
+  - first: Partha
+    full: Partha Pakray
+    id: partha-pakray
+    last: Pakray
+  - first: Sivaji
+    full: Sivaji Bandyopadhyay
+    id: sivaji-bandyopadhyay
+    last: Bandyopadhyay
+  - first: Alexander
+    full: Alexander Gelbukh
+    id: alexander-gelbukh
+    last: Gelbukh
+  author_string: Snehasis Neogi, Partha Pakray, Sivaji Bandyopadhyay, Alexander Gelbukh
+  bibkey: neogi-etal-2012-ju-cse
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '689'
+  page_last: '695'
+  pages: "689\u2013695"
+  paper_id: '103'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1103.jpg
+  title: 'JU_CSE_NLP: Language Independent Cross-lingual Textual Entailment System'
+  title_html: '<span class="acl-fixed-case">JU</span>_<span class="acl-fixed-case">CSE</span>_<span
+    class="acl-fixed-case">NLP</span>: Language Independent Cross-lingual Textual
+    Entailment System'
+  url: https://www.aclweb.org/anthology/S12-1103
+  year: '2012'
+S12-1104:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Milen
+    full: Milen Kouylekov
+    id: milen-kouylekov
+    last: Kouylekov
+  - first: Luca
+    full: Luca Dini
+    id: luca-dini
+    last: Dini
+  - first: Alessio
+    full: Alessio Bosca
+    id: alessio-bosca
+    last: Bosca
+  - first: Marco
+    full: Marco Trevisan
+    id: marco-trevisan
+    last: Trevisan
+  author_string: Milen Kouylekov, Luca Dini, Alessio Bosca, Marco Trevisan
+  bibkey: kouylekov-etal-2012-celi
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '696'
+  page_last: '700'
+  pages: "696\u2013700"
+  paper_id: '104'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1104.jpg
+  title: 'CELI: An Experiment with Cross Language Textual Entailment'
+  title_html: '<span class="acl-fixed-case">CELI</span>: An Experiment with Cross
+    Language Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1104
+  year: '2012'
+S12-1105:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Yashar
+    full: Yashar Mehdad
+    id: yashar-mehdad
+    last: Mehdad
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: "Jos\xE9 Guilherme"
+    full: "Jos\xE9 Guilherme C. de Souza"
+    id: jose-g-c-de-souza
+    last: C. de Souza
+  author_string: "Yashar Mehdad, Matteo Negri, Jos\xE9 Guilherme C. de Souza"
+  bibkey: mehdad-etal-2012-fbk
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '701'
+  page_last: '705'
+  pages: "701\u2013705"
+  paper_id: '105'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1105.jpg
+  title: 'FBK: Cross-Lingual Textual Entailment Without Translation'
+  title_html: '<span class="acl-fixed-case">FBK</span>: Cross-Lingual Textual Entailment
+    Without Translation'
+  url: https://www.aclweb.org/anthology/S12-1105
+  year: '2012'
+S12-1106:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Darnes
+    full: "Darnes Vilari\xF1o"
+    id: darnes-vilarino
+    last: "Vilari\xF1o"
+  - first: David
+    full: David Pinto
+    id: david-pinto
+    last: Pinto
+  - first: Mireya
+    full: Mireya Tovar
+    id: mireya-tovar
+    last: Tovar
+  - first: Saul
+    full: "Saul Le\xF3n"
+    id: saul-leon
+    last: "Le\xF3n"
+  - first: Esteban
+    full: Esteban Castillo
+    id: esteban-castillo
+    last: Castillo
+  author_string: "Darnes Vilari\xF1o, David Pinto, Mireya Tovar, Saul Le\xF3n, Esteban\
+    \ Castillo"
+  bibkey: vilarino-etal-2012-buap
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '706'
+  page_last: '709'
+  pages: "706\u2013709"
+  paper_id: '106'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1106.jpg
+  title: 'BUAP: Lexical and Semantic Similarity for Cross-lingual Textual Entailment'
+  title_html: '<span class="acl-fixed-case">BUAP</span>: Lexical and Semantic Similarity
+    for Cross-lingual Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1106
+  year: '2012'
+S12-1107:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: "Alp\xE1r"
+    full: "Alp\xE1r Perini"
+    id: alpar-perini
+    last: Perini
+  author_string: "Alp\xE1r Perini"
+  bibkey: perini-2012-dirrelcond3
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '710'
+  page_last: '714'
+  pages: "710\u2013714"
+  paper_id: '107'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1107.jpg
+  title: 'DirRelCond3: Detecting Textual Entailment Across Languages With Conditions
+    On Directional Text Relatedness Scores'
+  title_html: '<span class="acl-fixed-case">D</span>ir<span class="acl-fixed-case">R</span>el<span
+    class="acl-fixed-case">C</span>ond3: Detecting Textual Entailment Across Languages
+    With Conditions On Directional Text Relatedness Scores'
+  url: https://www.aclweb.org/anthology/S12-1107
+  year: '2012'
+S12-1108:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Fandong
+    full: Fandong Meng
+    id: fandong-meng
+    last: Meng
+  - first: Hao
+    full: Hao Xiong
+    id: hao-xiong
+    last: Xiong
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Fandong Meng, Hao Xiong, Qun Liu
+  bibkey: meng-etal-2012-ict
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '715'
+  page_last: '720'
+  pages: "715\u2013720"
+  paper_id: '108'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1108.jpg
+  title: 'ICT: A Translation based Method for Cross-lingual Textual Entailment'
+  title_html: '<span class="acl-fixed-case">ICT</span>: A Translation based Method
+    for Cross-lingual Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1108
+  year: '2012'
+S12-1109:
+  address: "Montr\xE9al, Canada"
+  author:
+  - first: Julio
+    full: Julio Castillo
+    id: julio-castillo
+    last: Castillo
+  - first: Marina
+    full: Marina Cardenas
+    id: marina-cardenas
+    last: Cardenas
+  author_string: Julio Castillo, Marina Cardenas
+  bibkey: castillo-cardenas-2012-sagan
+  bibtype: inproceedings
+  booktitle: "*SEM 2012: The First Joint Conference on Lexical and Computational Semantics\
+    \ \u2013 Volume 1: Proceedings of the main conference and the shared task, and\
+    \ Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation\
+    \ (SemEval 2012)"
+  booktitle_html: "*<span class=\"acl-fixed-case\">SEM</span> 2012: The First Joint\
+    \ Conference on Lexical and Computational Semantics \u2013 Volume 1: Proceedings\
+    \ of the main conference and the shared task, and Volume 2: Proceedings of the\
+    \ Sixth International Workshop on Semantic Evaluation (<span class=\"acl-fixed-case\"\
+    >S</span>em<span class=\"acl-fixed-case\">E</span>val 2012)"
+  month: 7-8 June
+  page_first: '721'
+  page_last: '726'
+  pages: "721\u2013726"
+  paper_id: '109'
+  parent_volume_id: S12-1
+  pdf: https://www.aclweb.org/anthology/S12-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S12-1109.jpg
+  title: 'SAGAN: A Machine Translation Approach for Cross-Lingual Textual Entailment'
+  title_html: '<span class="acl-fixed-case">SAGAN</span>: A Machine Translation Approach
+    for Cross-Lingual Textual Entailment'
+  url: https://www.aclweb.org/anthology/S12-1109
+  year: '2012'

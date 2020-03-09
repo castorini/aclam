@@ -1,0 +1,5740 @@
+D09-1000:
+  address: Singapore
+  author:
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Philipp Koehn, Rada Mihalcea
+  bibkey: emnlp-2009-2009
+  bibtype: proceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  month: August
+  paper_id: '0'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1000.jpg
+  title: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  title_html: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  url: https://www.aclweb.org/anthology/D09-1000
+  year: '2009'
+D09-1001:
+  address: Singapore
+  author:
+  - first: Hoifung
+    full: Hoifung Poon
+    id: hoifung-poon
+    last: Poon
+  - first: Pedro
+    full: Pedro Domingos
+    id: pedro-domingos
+    last: Domingos
+  author_string: Hoifung Poon, Pedro Domingos
+  bibkey: poon-domingos-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1'
+  page_last: '10'
+  pages: "1\u201310"
+  paper_id: '1'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1001.jpg
+  title: Unsupervised Semantic Parsing
+  title_html: Unsupervised Semantic Parsing
+  url: https://www.aclweb.org/anthology/D09-1001
+  year: '2009'
+D09-1002:
+  address: Singapore
+  author:
+  - first: Hagen
+    full: "Hagen F\xFCrstenau"
+    id: hagen-furstenau
+    last: "F\xFCrstenau"
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: "Hagen F\xFCrstenau, Mirella Lapata"
+  bibkey: furstenau-lapata-2009-graph
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '11'
+  page_last: '20'
+  pages: "11\u201320"
+  paper_id: '2'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1002.jpg
+  title: Graph Alignment for Semi-Supervised Semantic Role Labeling
+  title_html: Graph Alignment for Semi-Supervised Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/D09-1002
+  year: '2009'
+D09-1003:
+  address: Singapore
+  author:
+  - first: Koen
+    full: Koen Deschacht
+    id: koen-deschacht
+    last: Deschacht
+  - first: Marie-Francine
+    full: Marie-Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: Koen Deschacht, Marie-Francine Moens
+  bibkey: deschacht-moens-2009-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '21'
+  page_last: '29'
+  pages: "21\u201329"
+  paper_id: '3'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1003.jpg
+  title: Semi-supervised Semantic Role Labeling Using the Latent Words Language Model
+  title_html: Semi-supervised Semantic Role Labeling Using the <span class="acl-fixed-case">L</span>atent
+    <span class="acl-fixed-case">W</span>ords <span class="acl-fixed-case">L</span>anguage
+    <span class="acl-fixed-case">M</span>odel
+  url: https://www.aclweb.org/anthology/D09-1003
+  year: '2009'
+D09-1004:
+  address: Singapore
+  author:
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  - first: Wenliang
+    full: Wenliang Chen
+    id: wenliang-chen
+    last: Chen
+  - first: Chunyu
+    full: Chunyu Kit
+    id: chunyu-kit
+    last: Kit
+  author_string: Hai Zhao, Wenliang Chen, Chunyu Kit
+  bibkey: zhao-etal-2009-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '30'
+  page_last: '39'
+  pages: "30\u201339"
+  paper_id: '4'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1004.jpg
+  title: 'Semantic Dependency Parsing of NomBank and PropBank: An Efficient Integrated
+    Approach via a Large-scale Feature Selection'
+  title_html: 'Semantic Dependency Parsing of <span class="acl-fixed-case">N</span>om<span
+    class="acl-fixed-case">B</span>ank and <span class="acl-fixed-case">P</span>rop<span
+    class="acl-fixed-case">B</span>ank: An Efficient Integrated Approach via a Large-scale
+    Feature Selection'
+  url: https://www.aclweb.org/anthology/D09-1004
+  year: '2009'
+D09-1005:
+  address: Singapore
+  author:
+  - first: Zhifei
+    full: Zhifei Li
+    id: zhifei-li
+    last: Li
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Zhifei Li, Jason Eisner
+  bibkey: li-eisner-2009-first
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '40'
+  page_last: '51'
+  pages: "40\u201351"
+  paper_id: '5'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1005.jpg
+  title: First- and Second-Order Expectation Semirings with Applications to Minimum-Risk
+    Training on Translation Forests
+  title_html: First- and Second-Order Expectation Semirings with Applications to Minimum-Risk
+    Training on Translation Forests
+  url: https://www.aclweb.org/anthology/D09-1005
+  year: '2009'
+D09-1006:
+  address: Singapore
+  author:
+  - first: Omar F.
+    full: Omar F. Zaidan
+    id: omar-zaidan
+    last: Zaidan
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  author_string: Omar F. Zaidan, Chris Callison-Burch
+  bibkey: zaidan-callison-burch-2009-feasibility
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '52'
+  page_last: '61'
+  pages: "52\u201361"
+  paper_id: '6'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1006.jpg
+  title: Feasibility of Human-in-the-loop Minimum Error Rate Training
+  title_html: Feasibility of Human-in-the-loop Minimum Error Rate Training
+  url: https://www.aclweb.org/anthology/D09-1006
+  year: '2009'
+D09-1007:
+  address: Singapore
+  author:
+  - first: Mark
+    full: Mark Hopkins
+    id: mark-hopkins
+    last: Hopkins
+  - first: Greg
+    full: Greg Langmead
+    id: greg-langmead
+    last: Langmead
+  author_string: Mark Hopkins, Greg Langmead
+  bibkey: hopkins-langmead-2009-cube
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '62'
+  page_last: '71'
+  pages: "62\u201371"
+  paper_id: '7'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1007.jpg
+  title: Cube Pruning as Heuristic Search
+  title_html: Cube Pruning as Heuristic Search
+  url: https://www.aclweb.org/anthology/D09-1007
+  year: '2009'
+D09-1008:
+  address: Singapore
+  author:
+  - first: Libin
+    full: Libin Shen
+    id: libin-shen
+    last: Shen
+  - first: Jinxi
+    full: Jinxi Xu
+    id: jinxi-xu
+    last: Xu
+  - first: Bing
+    full: Bing Zhang
+    id: bing-zhang
+    last: Zhang
+  - first: Spyros
+    full: Spyros Matsoukas
+    id: spyros-matsoukas
+    last: Matsoukas
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Libin Shen, Jinxi Xu, Bing Zhang, Spyros Matsoukas, Ralph Weischedel
+  bibkey: shen-etal-2009-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '72'
+  page_last: '80'
+  pages: "72\u201380"
+  paper_id: '8'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1008.jpg
+  title: Effective Use of Linguistic and Contextual Information for Statistical Machine
+    Translation
+  title_html: Effective Use of Linguistic and Contextual Information for Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1008
+  year: '2009'
+D09-1009:
+  address: Singapore
+  author:
+  - first: Gregory
+    full: Gregory Druck
+    id: gregory-druck
+    last: Druck
+  - first: Burr
+    full: Burr Settles
+    id: burr-settles
+    last: Settles
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Gregory Druck, Burr Settles, Andrew McCallum
+  bibkey: druck-etal-2009-active
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '81'
+  page_last: '90'
+  pages: "81\u201390"
+  paper_id: '9'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1009.jpg
+  title: Active Learning by Labeling Features
+  title_html: Active Learning by Labeling Features
+  url: https://www.aclweb.org/anthology/D09-1009
+  year: '2009'
+D09-1010:
+  address: Singapore
+  author:
+  - first: Fabio Massimo
+    full: Fabio Massimo Zanzotto
+    id: fabio-massimo-zanzotto
+    last: Zanzotto
+  - first: Lorenzo
+    full: "Lorenzo Dell\u2019Arciprete"
+    id: lorenzo-dellarciprete
+    last: "Dell\u2019Arciprete"
+  author_string: "Fabio Massimo Zanzotto, Lorenzo Dell\u2019Arciprete"
+  bibkey: zanzotto-dellarciprete-2009-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '91'
+  page_last: '100'
+  pages: "91\u2013100"
+  paper_id: '10'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1010.jpg
+  title: Efficient kernels for sentence pair classification
+  title_html: Efficient kernels for sentence pair classification
+  url: https://www.aclweb.org/anthology/D09-1010
+  year: '2009'
+D09-1011:
+  address: Singapore
+  author:
+  - first: Markus
+    full: Markus Dreyer
+    id: markus-dreyer
+    last: Dreyer
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Markus Dreyer, Jason Eisner
+  bibkey: dreyer-eisner-2009-graphical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '101'
+  page_last: '110'
+  pages: "101\u2013110"
+  paper_id: '11'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1011.jpg
+  title: Graphical Models over Multiple Strings
+  title_html: Graphical Models over Multiple Strings
+  url: https://www.aclweb.org/anthology/D09-1011
+  year: '2009'
+D09-1012:
+  address: Singapore
+  author:
+  - first: Daniele
+    full: Daniele Pighin
+    id: daniele-pighin
+    last: Pighin
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  author_string: Daniele Pighin, Alessandro Moschitti
+  bibkey: pighin-moschitti-2009-reverse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '111'
+  page_last: '120'
+  pages: "111\u2013120"
+  paper_id: '12'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1012.jpg
+  title: Reverse Engineering of Tree Kernel Feature Spaces
+  title_html: Reverse Engineering of Tree Kernel Feature Spaces
+  url: https://www.aclweb.org/anthology/D09-1012
+  year: '2009'
+D09-1013:
+  address: Singapore
+  author:
+  - first: Makoto
+    full: Makoto Miwa
+    id: makoto-miwa
+    last: Miwa
+  - first: Rune
+    full: "Rune S\xE6tre"
+    id: rune-saetre
+    last: "S\xE6tre"
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Makoto Miwa, Rune S\xE6tre, Yusuke Miyao, Jun\u2019ichi Tsujii"
+  bibkey: miwa-etal-2009-rich
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '121'
+  page_last: '130'
+  pages: "121\u2013130"
+  paper_id: '13'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1013.jpg
+  title: A Rich Feature Vector for Protein-Protein Interaction Extraction from Multiple
+    Corpora
+  title_html: A Rich Feature Vector for Protein-Protein Interaction Extraction from
+    Multiple Corpora
+  url: https://www.aclweb.org/anthology/D09-1013
+  year: '2009'
+D09-1014:
+  address: Singapore
+  author:
+  - first: Kedar
+    full: Kedar Bellare
+    id: kedar-bellare
+    last: Bellare
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Kedar Bellare, Andrew McCallum
+  bibkey: bellare-mccallum-2009-generalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '131'
+  page_last: '140'
+  pages: "131\u2013140"
+  paper_id: '14'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1014.jpg
+  title: Generalized Expectation Criteria for Bootstrapping Extractors using Record-Text
+    Alignment
+  title_html: Generalized Expectation Criteria for Bootstrapping Extractors using
+    Record-Text Alignment
+  url: https://www.aclweb.org/anthology/D09-1014
+  year: '2009'
+D09-1015:
+  address: Singapore
+  author:
+  - first: Jenny Rose
+    full: Jenny Rose Finkel
+    id: jenny-rose-finkel
+    last: Finkel
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Jenny Rose Finkel, Christopher D. Manning
+  bibkey: finkel-manning-2009-nested
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '141'
+  page_last: '150'
+  pages: "141\u2013150"
+  paper_id: '15'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1015.jpg
+  title: Nested Named Entity Recognition
+  title_html: Nested Named Entity Recognition
+  url: https://www.aclweb.org/anthology/D09-1015
+  year: '2009'
+D09-1016:
+  address: Singapore
+  author:
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  author_string: Siddharth Patwardhan, Ellen Riloff
+  bibkey: patwardhan-riloff-2009-unified
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '151'
+  page_last: '160'
+  pages: "151\u2013160"
+  paper_id: '16'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1016.jpg
+  title: A Unified Model of Phrasal and Sentential Evidence for Information Extraction
+  title_html: A Unified Model of Phrasal and Sentential Evidence for Information Extraction
+  url: https://www.aclweb.org/anthology/D09-1016
+  year: '2009'
+D09-1017:
+  address: Singapore
+  author:
+  - first: Jingjing
+    full: Jingjing Liu
+    id: jingjing-liu
+    last: Liu
+  - first: Stephanie
+    full: Stephanie Seneff
+    id: stephanie-seneff
+    last: Seneff
+  author_string: Jingjing Liu, Stephanie Seneff
+  bibkey: liu-seneff-2009-review
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '161'
+  page_last: '169'
+  pages: "161\u2013169"
+  paper_id: '17'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1017.jpg
+  title: Review Sentiment Scoring via a Parse-and-Paraphrase Paradigm
+  title_html: Review Sentiment Scoring via a Parse-and-Paraphrase Paradigm
+  url: https://www.aclweb.org/anthology/D09-1017
+  year: '2009'
+D09-1018:
+  address: Singapore
+  author:
+  - first: Swapna
+    full: Swapna Somasundaran
+    id: swapna-somasundaran
+    last: Somasundaran
+  - first: Galileo
+    full: Galileo Namata
+    id: galileo-namata
+    last: Namata
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Lise
+    full: Lise Getoor
+    id: lise-getoor
+    last: Getoor
+  author_string: Swapna Somasundaran, Galileo Namata, Janyce Wiebe, Lise Getoor
+  bibkey: somasundaran-etal-2009-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '170'
+  page_last: '179'
+  pages: "170\u2013179"
+  paper_id: '18'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1018.jpg
+  title: Supervised and Unsupervised Methods in Employing Discourse Relations for
+    Improving Opinion Polarity Classification
+  title_html: Supervised and Unsupervised Methods in Employing Discourse Relations
+    for Improving Opinion Polarity Classification
+  url: https://www.aclweb.org/anthology/D09-1018
+  year: '2009'
+D09-1019:
+  address: Singapore
+  author:
+  - first: Ramanathan
+    full: Ramanathan Narayanan
+    id: ramanathan-narayanan
+    last: Narayanan
+  - first: Bing
+    full: Bing Liu
+    id: bing-liu
+    last: Liu
+  - first: Alok
+    full: Alok Choudhary
+    id: alok-choudhary
+    last: Choudhary
+  author_string: Ramanathan Narayanan, Bing Liu, Alok Choudhary
+  bibkey: narayanan-etal-2009-sentiment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '180'
+  page_last: '189'
+  pages: "180\u2013189"
+  paper_id: '19'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1019.jpg
+  title: Sentiment Analysis of Conditional Sentences
+  title_html: Sentiment Analysis of Conditional Sentences
+  url: https://www.aclweb.org/anthology/D09-1019
+  year: '2009'
+D09-1020:
+  address: Singapore
+  author:
+  - first: Cem
+    full: Cem Akkaya
+    id: cem-akkaya
+    last: Akkaya
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Cem Akkaya, Janyce Wiebe, Rada Mihalcea
+  bibkey: akkaya-etal-2009-subjectivity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '190'
+  page_last: '199'
+  pages: "190\u2013199"
+  paper_id: '20'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1020.jpg
+  title: Subjectivity Word Sense Disambiguation
+  title_html: Subjectivity Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/D09-1020
+  year: '2009'
+D09-1021:
+  address: Singapore
+  author:
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Xavier Carreras, Michael Collins
+  bibkey: carreras-collins-2009-non
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '200'
+  page_last: '209'
+  pages: "200\u2013209"
+  paper_id: '21'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1021.jpg
+  title: Non-Projective Parsing for Statistical Machine Translation
+  title_html: Non-Projective Parsing for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1021
+  year: '2009'
+D09-1022:
+  address: Singapore
+  author:
+  - first: Arne
+    full: Arne Mauser
+    id: arne-mauser
+    last: Mauser
+  - first: "Sa\u0161a"
+    full: "Sa\u0161a Hasan"
+    id: sasa-hasan
+    last: Hasan
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: "Arne Mauser, Sa\u0161a Hasan, Hermann Ney"
+  bibkey: mauser-etal-2009-extending
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '210'
+  page_last: '218'
+  pages: "210\u2013218"
+  paper_id: '22'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1022.jpg
+  title: Extending Statistical Machine Translation with Discriminative and Trigger-Based
+    Lexicon Models
+  title_html: Extending Statistical Machine Translation with Discriminative and Trigger-Based
+    Lexicon Models
+  url: https://www.aclweb.org/anthology/D09-1022
+  year: '2009'
+D09-1023:
+  address: Singapore
+  author:
+  - first: Kevin
+    full: Kevin Gimpel
+    id: kevin-gimpel
+    last: Gimpel
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Kevin Gimpel, Noah A. Smith
+  bibkey: gimpel-smith-2009-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '219'
+  page_last: '228'
+  pages: "219\u2013228"
+  paper_id: '23'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1023.jpg
+  title: Feature-Rich Translation by Quasi-Synchronous Lattice Parsing
+  title_html: Feature-Rich Translation by Quasi-Synchronous Lattice Parsing
+  url: https://www.aclweb.org/anthology/D09-1023
+  year: '2009'
+D09-1024:
+  address: Singapore
+  author:
+  - first: Ulf
+    full: Ulf Hermjakob
+    id: ulf-hermjakob
+    last: Hermjakob
+  author_string: Ulf Hermjakob
+  bibkey: hermjakob-2009-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '229'
+  page_last: '237'
+  pages: "229\u2013237"
+  paper_id: '24'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1024.jpg
+  title: Improved Word Alignment with Statistics and Linguistic Heuristics
+  title_html: Improved Word Alignment with Statistics and Linguistic Heuristics
+  url: https://www.aclweb.org/anthology/D09-1024
+  year: '2009'
+D09-1025:
+  address: Singapore
+  author:
+  - first: Marco
+    full: Marco Pennacchiotti
+    id: marco-pennacchiotti
+    last: Pennacchiotti
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  author_string: Marco Pennacchiotti, Patrick Pantel
+  bibkey: pennacchiotti-pantel-2009-entity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '238'
+  page_last: '247'
+  pages: "238\u2013247"
+  paper_id: '25'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1025.jpg
+  title: Entity Extraction via Ensemble Semantics
+  title_html: Entity Extraction via Ensemble Semantics
+  url: https://www.aclweb.org/anthology/D09-1025
+  year: '2009'
+D09-1026:
+  address: Singapore
+  author:
+  - first: Daniel
+    full: Daniel Ramage
+    id: daniel-ramage
+    last: Ramage
+  - first: David
+    full: David Hall
+    id: david-hall
+    last: Hall
+  - first: Ramesh
+    full: Ramesh Nallapati
+    id: ramesh-nallapati
+    last: Nallapati
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Daniel Ramage, David Hall, Ramesh Nallapati, Christopher D. Manning
+  bibkey: ramage-etal-2009-labeled
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '248'
+  page_last: '256'
+  pages: "248\u2013256"
+  paper_id: '26'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1026.jpg
+  title: 'Labeled LDA: A supervised topic model for credit attribution in multi-labeled
+    corpora'
+  title_html: '<span class="acl-fixed-case">L</span>abeled <span class="acl-fixed-case">LDA</span>:
+    A supervised topic model for credit attribution in multi-labeled corpora'
+  url: https://www.aclweb.org/anthology/D09-1026
+  year: '2009'
+D09-1027:
+  address: Singapore
+  author:
+  - first: Zhiyuan
+    full: Zhiyuan Liu
+    id: zhiyuan-liu
+    last: Liu
+  - first: Peng
+    full: Peng Li
+    id: peng-li
+    last: Li
+  - first: Yabin
+    full: Yabin Zheng
+    id: yabin-zheng
+    last: Zheng
+  - first: Maosong
+    full: Maosong Sun
+    id: maosong-sun
+    last: Sun
+  author_string: Zhiyuan Liu, Peng Li, Yabin Zheng, Maosong Sun
+  bibkey: liu-etal-2009-clustering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '257'
+  page_last: '266'
+  pages: "257\u2013266"
+  paper_id: '27'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1027.jpg
+  title: Clustering to Find Exemplar Terms for Keyphrase Extraction
+  title_html: Clustering to Find Exemplar Terms for Keyphrase Extraction
+  url: https://www.aclweb.org/anthology/D09-1027
+  year: '2009'
+D09-1028:
+  address: Singapore
+  author:
+  - first: Dmitry
+    full: Dmitry Davidov
+    id: dmitry-davidov
+    last: Davidov
+  - first: Ari
+    full: Ari Rappoport
+    id: ari-rappoport
+    last: Rappoport
+  author_string: Dmitry Davidov, Ari Rappoport
+  bibkey: davidov-rappoport-2009-geo
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '267'
+  page_last: '275'
+  pages: "267\u2013275"
+  paper_id: '28'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1028.jpg
+  title: 'Geo-mining: Discovery of Road and Transport Networks Using Directional Patterns'
+  title_html: 'Geo-mining: Discovery of Road and Transport Networks Using Directional
+    Patterns'
+  url: https://www.aclweb.org/anthology/D09-1028
+  year: '2009'
+D09-1029:
+  address: Singapore
+  author:
+  - first: Sara
+    full: Sara Tonelli
+    id: sara-tonelli
+    last: Tonelli
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  author_string: Sara Tonelli, Claudio Giuliano
+  bibkey: tonelli-giuliano-2009-wikipedia
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '276'
+  page_last: '285'
+  pages: "276\u2013285"
+  paper_id: '29'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1029.jpg
+  title: Wikipedia as Frame Information Repository
+  title_html: <span class="acl-fixed-case">W</span>ikipedia as Frame Information Repository
+  url: https://www.aclweb.org/anthology/D09-1029
+  year: '2009'
+D09-1030:
+  address: Singapore
+  author:
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  author_string: Chris Callison-Burch
+  bibkey: callison-burch-2009-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '286'
+  page_last: '295'
+  pages: "286\u2013295"
+  paper_id: '30'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1030.jpg
+  title: "Fast, Cheap, and Creative: Evaluating Translation Quality Using Amazon\u2019\
+    s Mechanical Turk"
+  title_html: "Fast, Cheap, and Creative: Evaluating Translation Quality Using <span\
+    \ class=\"acl-fixed-case\">A</span>mazon\u2019s <span class=\"acl-fixed-case\"\
+    >M</span>echanical <span class=\"acl-fixed-case\">T</span>urk"
+  url: https://www.aclweb.org/anthology/D09-1030
+  year: '2009'
+D09-1031:
+  address: Singapore
+  author:
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  - first: Alexis
+    full: Alexis Palmer
+    id: alexis-palmer
+    last: Palmer
+  author_string: Jason Baldridge, Alexis Palmer
+  bibkey: baldridge-palmer-2009-well
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '296'
+  page_last: '305'
+  pages: "296\u2013305"
+  paper_id: '31'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1031.jpg
+  title: How well does active learning actually work? Time-based evaluation of cost-reduction
+    strategies for language documentation.
+  title_html: How well does active learning <i>actually</i> work? <span class="acl-fixed-case">T</span>ime-based
+    evaluation of cost-reduction strategies for language documentation.
+  url: https://www.aclweb.org/anthology/D09-1031
+  year: '2009'
+D09-1032:
+  address: Singapore
+  author:
+  - first: Annie
+    full: Annie Louis
+    id: annie-louis
+    last: Louis
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  author_string: Annie Louis, Ani Nenkova
+  bibkey: louis-nenkova-2009-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '306'
+  page_last: '314'
+  pages: "306\u2013314"
+  paper_id: '32'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1032.jpg
+  title: Automatically Evaluating Content Selection in Summarization without Human
+    Models
+  title_html: Automatically Evaluating Content Selection in Summarization without
+    Human Models
+  url: https://www.aclweb.org/anthology/D09-1032
+  year: '2009'
+D09-1033:
+  address: Singapore
+  author:
+  - first: Linlin
+    full: Linlin Li
+    id: linlin-li
+    last: Li
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  author_string: Linlin Li, Caroline Sporleder
+  bibkey: li-sporleder-2009-classifier
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '315'
+  page_last: '323'
+  pages: "315\u2013323"
+  paper_id: '33'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1033.jpg
+  title: Classifier Combination for Contextual Idiom Detection Without Labelled Data
+  title_html: Classifier Combination for Contextual Idiom Detection Without Labelled
+    Data
+  url: https://www.aclweb.org/anthology/D09-1033
+  year: '2009'
+D09-1034:
+  address: Singapore
+  author:
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  - first: Asaf
+    full: Asaf Bachrach
+    id: asaf-bachrach
+    last: Bachrach
+  - first: Carlos
+    full: Carlos Cardenas
+    id: carlos-cardenas
+    last: Cardenas
+  - first: Christophe
+    full: Christophe Pallier
+    id: christophe-pallier
+    last: Pallier
+  author_string: Brian Roark, Asaf Bachrach, Carlos Cardenas, Christophe Pallier
+  bibkey: roark-etal-2009-deriving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '324'
+  page_last: '333'
+  pages: "324\u2013333"
+  paper_id: '34'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1034.jpg
+  title: Deriving lexical and syntactic expectation-based measures for psycholinguistic
+    modeling via incremental top-down parsing
+  title_html: Deriving lexical and syntactic expectation-based measures for psycholinguistic
+    modeling via incremental top-down parsing
+  url: https://www.aclweb.org/anthology/D09-1034
+  year: '2009'
+D09-1035:
+  address: Singapore
+  author:
+  - first: Rajesh
+    full: Rajesh Ranganath
+    id: rajesh-ranganath
+    last: Ranganath
+  - first: Dan
+    full: Dan Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  - first: Dan
+    full: Dan McFarland
+    id: dan-mcfarland
+    last: McFarland
+  author_string: Rajesh Ranganath, Dan Jurafsky, Dan McFarland
+  bibkey: ranganath-etal-2009-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '334'
+  page_last: '342'
+  pages: "334\u2013342"
+  paper_id: '35'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1035.jpg
+  title: "It\u2019s Not You, it\u2019s Me: Detecting Flirting and its Misperception\
+    \ in Speed-Dates"
+  title_html: "It\u2019s Not You, it\u2019s Me: Detecting Flirting and its Misperception\
+    \ in Speed-Dates"
+  url: https://www.aclweb.org/anthology/D09-1035
+  year: '2009'
+D09-1036:
+  address: Singapore
+  author:
+  - first: Ziheng
+    full: Ziheng Lin
+    id: ziheng-lin
+    last: Lin
+  - first: Min-Yen
+    full: Min-Yen Kan
+    id: min-yen-kan
+    last: Kan
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Ziheng Lin, Min-Yen Kan, Hwee Tou Ng
+  bibkey: lin-etal-2009-recognizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '343'
+  page_last: '351'
+  pages: "343\u2013351"
+  paper_id: '36'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1036.jpg
+  title: Recognizing Implicit Discourse Relations in the Penn Discourse Treebank
+  title_html: Recognizing Implicit Discourse Relations in the <span class="acl-fixed-case">P</span>enn
+    <span class="acl-fixed-case">D</span>iscourse <span class="acl-fixed-case">T</span>reebank
+  url: https://www.aclweb.org/anthology/D09-1036
+  year: '2009'
+D09-1037:
+  address: Singapore
+  author:
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  author_string: Trevor Cohn, Phil Blunsom
+  bibkey: cohn-blunsom-2009-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '352'
+  page_last: '361'
+  pages: "352\u2013361"
+  paper_id: '37'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1037.jpg
+  title: A Bayesian Model of Syntax-Directed Tree to String Grammar Induction
+  title_html: A <span class="acl-fixed-case">B</span>ayesian Model of Syntax-Directed
+    Tree to String Grammar Induction
+  url: https://www.aclweb.org/anthology/D09-1037
+  year: '2009'
+D09-1038:
+  address: Singapore
+  author:
+  - first: Tong
+    full: Tong Xiao
+    id: tong-xiao
+    last: Xiao
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Dongdong
+    full: Dongdong Zhang
+    id: dongdong-zhang
+    last: Zhang
+  - first: Jingbo
+    full: Jingbo Zhu
+    id: jingbo-zhu
+    last: Zhu
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Tong Xiao, Mu Li, Dongdong Zhang, Jingbo Zhu, Ming Zhou
+  bibkey: xiao-etal-2009-better
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '362'
+  page_last: '370'
+  pages: "362\u2013370"
+  paper_id: '38'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1038.jpg
+  title: Better Synchronous Binarization for Machine Translation
+  title_html: Better Synchronous Binarization for Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1038
+  year: '2009'
+D09-1039:
+  address: Singapore
+  author:
+  - first: Daniel
+    full: Daniel Galron
+    id: daniel-galron
+    last: Galron
+  - first: Sergio
+    full: Sergio Penkale
+    id: sergio-penkale
+    last: Penkale
+  - first: Andy
+    full: Andy Way
+    id: andy-way
+    last: Way
+  - first: I. Dan
+    full: I. Dan Melamed
+    id: i-dan-melamed
+    last: Melamed
+  author_string: Daniel Galron, Sergio Penkale, Andy Way, I. Dan Melamed
+  bibkey: galron-etal-2009-accuracy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '371'
+  page_last: '380'
+  pages: "371\u2013380"
+  paper_id: '39'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1039.jpg
+  title: 'Accuracy-Based Scoring for DOT: Towards Direct Error Minimization for Data-Oriented
+    Translation'
+  title_html: 'Accuracy-Based Scoring for <span class="acl-fixed-case">DOT</span>:
+    Towards Direct Error Minimization for <span class="acl-fixed-case">D</span>ata-<span
+    class="acl-fixed-case">O</span>riented <span class="acl-fixed-case">T</span>ranslation'
+  url: https://www.aclweb.org/anthology/D09-1039
+  year: '2009'
+D09-1040:
+  address: Singapore
+  author:
+  - first: Yuval
+    full: Yuval Marton
+    id: yuval-marton
+    last: Marton
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Yuval Marton, Chris Callison-Burch, Philip Resnik
+  bibkey: marton-etal-2009-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '381'
+  page_last: '390'
+  pages: "381\u2013390"
+  paper_id: '40'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1040.jpg
+  title: Improved Statistical Machine Translation Using Monolingually-Derived Paraphrases
+  title_html: Improved Statistical Machine Translation Using Monolingually-Derived
+    Paraphrases
+  url: https://www.aclweb.org/anthology/D09-1040
+  year: '2009'
+D09-1041:
+  address: Singapore
+  author:
+  - first: Tadashi
+    full: Tadashi Nomoto
+    id: tadashi-nomoto
+    last: Nomoto
+  author_string: Tadashi Nomoto
+  bibkey: nomoto-2009-comparison
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '391'
+  page_last: '399'
+  pages: "391\u2013399"
+  paper_id: '41'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1041.jpg
+  title: A Comparison of Model Free versus Model Intensive Approaches to Sentence
+    Compression
+  title_html: A Comparison of Model Free versus Model Intensive Approaches to Sentence
+    Compression
+  url: https://www.aclweb.org/anthology/D09-1041
+  year: '2009'
+D09-1042:
+  address: Singapore
+  author:
+  - first: Wei
+    full: Wei Lu
+    id: wei-lu
+    last: Lu
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Wee Sun
+    full: Wee Sun Lee
+    id: wee-sun-lee
+    last: Lee
+  author_string: Wei Lu, Hwee Tou Ng, Wee Sun Lee
+  bibkey: lu-etal-2009-natural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '400'
+  page_last: '409'
+  pages: "400\u2013409"
+  paper_id: '42'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1042.jpg
+  title: Natural Language Generation with Tree Conditional Random Fields
+  title_html: Natural Language Generation with Tree Conditional Random Fields
+  url: https://www.aclweb.org/anthology/D09-1042
+  year: '2009'
+D09-1043:
+  address: Singapore
+  author:
+  - first: Michael
+    full: Michael White
+    id: michael-white
+    last: White
+  - first: Rajakrishnan
+    full: Rajakrishnan Rajkumar
+    id: rajakrishnan-rajkumar
+    last: Rajkumar
+  author_string: Michael White, Rajakrishnan Rajkumar
+  bibkey: white-rajkumar-2009-perceptron
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '410'
+  page_last: '419'
+  pages: "410\u2013419"
+  paper_id: '43'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1043.jpg
+  title: Perceptron Reranking for CCG Realization
+  title_html: Perceptron Reranking for <span class="acl-fixed-case">CCG</span> Realization
+  url: https://www.aclweb.org/anthology/D09-1043
+  year: '2009'
+D09-1044:
+  address: Singapore
+  author:
+  - first: Ben
+    full: Ben Hachey
+    id: ben-hachey
+    last: Hachey
+  author_string: Ben Hachey
+  bibkey: hachey-2009-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '420'
+  page_last: '429'
+  pages: "420\u2013429"
+  paper_id: '44'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1044.jpg
+  title: Multi-Document Summarisation Using Generic Relation Extraction
+  title_html: Multi-Document Summarisation Using Generic Relation Extraction
+  url: https://www.aclweb.org/anthology/D09-1044
+  year: '2009'
+D09-1045:
+  address: Singapore
+  author:
+  - first: Jeff
+    full: Jeff Mitchell
+    id: jeff-mitchell
+    last: Mitchell
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Jeff Mitchell, Mirella Lapata
+  bibkey: mitchell-lapata-2009-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '430'
+  page_last: '439'
+  pages: "430\u2013439"
+  paper_id: '45'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1045.jpg
+  title: Language Models Based on Semantic Composition
+  title_html: Language Models Based on Semantic Composition
+  url: https://www.aclweb.org/anthology/D09-1045
+  year: '2009'
+D09-1046:
+  address: Singapore
+  author:
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  author_string: Katrin Erk, Diana McCarthy
+  bibkey: erk-mccarthy-2009-graded
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '440'
+  page_last: '449'
+  pages: "440\u2013449"
+  paper_id: '46'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1046.jpg
+  title: Graded Word Sense Assignment
+  title_html: Graded Word Sense Assignment
+  url: https://www.aclweb.org/anthology/D09-1046
+  year: '2009'
+D09-1047:
+  address: Singapore
+  author:
+  - first: Daniel
+    full: Daniel Dahlmeier
+    id: daniel-dahlmeier
+    last: Dahlmeier
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Tanja
+    full: Tanja Schultz
+    id: tanja-schultz
+    last: Schultz
+  author_string: Daniel Dahlmeier, Hwee Tou Ng, Tanja Schultz
+  bibkey: dahlmeier-etal-2009-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '450'
+  page_last: '458'
+  pages: "450\u2013458"
+  paper_id: '47'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1047.jpg
+  title: Joint Learning of Preposition Senses and Semantic Roles of Prepositional
+    Phrases
+  title_html: Joint Learning of Preposition Senses and Semantic Roles of Prepositional
+    Phrases
+  url: https://www.aclweb.org/anthology/D09-1047
+  year: '2009'
+D09-1048:
+  address: Singapore
+  author:
+  - first: Mitesh M.
+    full: Mitesh M. Khapra
+    id: mitesh-m-khapra
+    last: Khapra
+  - first: Sapan
+    full: Sapan Shah
+    id: sapan-shah
+    last: Shah
+  - first: Piyush
+    full: Piyush Kedia
+    id: piyush-kedia
+    last: Kedia
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Mitesh M. Khapra, Sapan Shah, Piyush Kedia, Pushpak Bhattacharyya
+  bibkey: khapra-etal-2009-projecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '459'
+  page_last: '467'
+  pages: "459\u2013467"
+  paper_id: '48'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1048.jpg
+  title: Projecting Parameters for Multilingual Word Sense Disambiguation
+  title_html: Projecting Parameters for Multilingual Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/D09-1048
+  year: '2009'
+D09-1049:
+  address: Singapore
+  author:
+  - first: Ram
+    full: Ram Boukobza
+    id: ram-boukobza
+    last: Boukobza
+  - first: Ari
+    full: Ari Rappoport
+    id: ari-rappoport
+    last: Rappoport
+  author_string: Ram Boukobza, Ari Rappoport
+  bibkey: boukobza-rappoport-2009-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '468'
+  page_last: '477'
+  pages: "468\u2013477"
+  paper_id: '49'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1049.jpg
+  title: Multi-Word Expression Identification Using Sentence Surface Features
+  title_html: Multi-Word Expression Identification Using Sentence Surface Features
+  url: https://www.aclweb.org/anthology/D09-1049
+  year: '2009'
+D09-1050:
+  address: Singapore
+  author:
+  - first: Ming-Hong
+    full: Ming-Hong Bai
+    id: ming-hong-bai
+    last: Bai
+  - first: Jia-Ming
+    full: Jia-Ming You
+    id: jia-ming-you
+    last: You
+  - first: Keh-Jiann
+    full: Keh-Jiann Chen
+    id: keh-jiann-chen
+    last: Chen
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Ming-Hong Bai, Jia-Ming You, Keh-Jiann Chen, Jason S. Chang
+  bibkey: bai-etal-2009-acquiring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '478'
+  page_last: '486'
+  pages: "478\u2013486"
+  paper_id: '50'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1050.jpg
+  title: Acquiring Translation Equivalences of Multiword Expressions by Normalized
+    Correlation Frequencies
+  title_html: Acquiring Translation Equivalences of Multiword Expressions by Normalized
+    Correlation Frequencies
+  url: https://www.aclweb.org/anthology/D09-1050
+  year: '2009'
+D09-1051:
+  address: Singapore
+  author:
+  - first: Zhanyi
+    full: Zhanyi Liu
+    id: zhanyi-liu
+    last: Liu
+  - first: Haifeng
+    full: Haifeng Wang
+    id: haifeng-wang
+    last: Wang
+  - first: Hua
+    full: Hua Wu
+    id: hua-wu
+    last: Wu
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  author_string: Zhanyi Liu, Haifeng Wang, Hua Wu, Sheng Li
+  bibkey: liu-etal-2009-collocation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '487'
+  page_last: '495'
+  pages: "487\u2013495"
+  paper_id: '51'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1051.jpg
+  title: Collocation Extraction Using Monolingual Word Alignment Method
+  title_html: Collocation Extraction Using Monolingual Word Alignment Method
+  url: https://www.aclweb.org/anthology/D09-1051
+  year: '2009'
+D09-1052:
+  address: Singapore
+  author:
+  - first: Koby
+    full: Koby Crammer
+    id: koby-crammer
+    last: Crammer
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  - first: Alex
+    full: Alex Kulesza
+    id: alex-kulesza
+    last: Kulesza
+  author_string: Koby Crammer, Mark Dredze, Alex Kulesza
+  bibkey: crammer-etal-2009-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '496'
+  page_last: '504'
+  pages: "496\u2013504"
+  paper_id: '52'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1052.jpg
+  title: Multi-Class Confidence Weighted Algorithms
+  title_html: Multi-Class Confidence Weighted Algorithms
+  url: https://www.aclweb.org/anthology/D09-1052
+  year: '2009'
+D09-1053:
+  address: Singapore
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Qiang
+    full: Qiang Wu
+    id: qiang-wu
+    last: Wu
+  - first: Chris
+    full: Chris Burges
+    id: chris-burges
+    last: Burges
+  - first: Krysta
+    full: Krysta Svore
+    id: krysta-svore
+    last: Svore
+  - first: Yi
+    full: Yi Su
+    id: yi-su
+    last: Su
+  - first: Nazan
+    full: Nazan Khan
+    id: nazan-khan
+    last: Khan
+  - first: Shalin
+    full: Shalin Shah
+    id: shalin-shah
+    last: Shah
+  - first: Hongyan
+    full: Hongyan Zhou
+    id: hongyan-zhou
+    last: Zhou
+  author_string: Jianfeng Gao, Qiang Wu, Chris Burges, Krysta Svore, Yi Su, Nazan
+    Khan, Shalin Shah, Hongyan Zhou
+  bibkey: gao-etal-2009-model
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '505'
+  page_last: '513'
+  pages: "505\u2013513"
+  paper_id: '53'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1053.jpg
+  title: Model Adaptation via Model Interpolation and Boosting for Web Search Ranking
+  title_html: Model Adaptation via Model Interpolation and Boosting for <span class="acl-fixed-case">W</span>eb
+    Search Ranking
+  url: https://www.aclweb.org/anthology/D09-1053
+  year: '2009'
+D09-1054:
+  address: Singapore
+  author:
+  - first: Wen-Yun
+    full: Wen-Yun Yang
+    id: wen-yun-yang
+    last: Yang
+  - first: Yunbo
+    full: Yunbo Cao
+    id: yunbo-cao
+    last: Cao
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  author_string: Wen-Yun Yang, Yunbo Cao, Chin-Yew Lin
+  bibkey: yang-etal-2009-structural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '514'
+  page_last: '523'
+  pages: "514\u2013523"
+  paper_id: '54'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1054.jpg
+  title: A Structural Support Vector Method for Extracting Contexts and Answers of
+    Questions from Online Forums
+  title_html: A Structural Support Vector Method for Extracting Contexts and Answers
+    of Questions from Online Forums
+  url: https://www.aclweb.org/anthology/D09-1054
+  year: '2009'
+D09-1055:
+  address: Singapore
+  author:
+  - first: Huihsin
+    full: Huihsin Tseng
+    id: huihsin-tseng
+    last: Tseng
+  - first: Longbin
+    full: Longbin Chen
+    id: longbin-chen
+    last: Chen
+  - first: Fan
+    full: Fan Li
+    id: fan-li
+    last: Li
+  - first: Ziming
+    full: Ziming Zhuang
+    id: ziming-zhuang
+    last: Zhuang
+  - first: Lei
+    full: Lei Duan
+    id: lei-duan
+    last: Duan
+  - first: Belle
+    full: Belle Tseng
+    id: belle-tseng
+    last: Tseng
+  author_string: Huihsin Tseng, Longbin Chen, Fan Li, Ziming Zhuang, Lei Duan, Belle
+    Tseng
+  bibkey: tseng-etal-2009-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '524'
+  page_last: '533'
+  pages: "524\u2013533"
+  paper_id: '55'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1055.jpg
+  title: Mining Search Engine Clickthrough Log for Matching N-gram Features
+  title_html: Mining Search Engine Clickthrough Log for Matching N-gram Features
+  url: https://www.aclweb.org/anthology/D09-1055
+  year: '2009'
+D09-1056:
+  address: Singapore
+  author:
+  - first: Javier
+    full: Javier Artiles
+    id: javier-artiles
+    last: Artiles
+  - first: Enrique
+    full: "Enrique Amig\xF3"
+    id: enrique-amigo
+    last: "Amig\xF3"
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  author_string: "Javier Artiles, Enrique Amig\xF3, Julio Gonzalo"
+  bibkey: artiles-etal-2009-role
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '534'
+  page_last: '542'
+  pages: "534\u2013542"
+  paper_id: '56'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1056.jpg
+  title: The role of named entities in Web People Search
+  title_html: The role of named entities in <span class="acl-fixed-case">W</span>eb
+    <span class="acl-fixed-case">P</span>eople <span class="acl-fixed-case">S</span>earch
+  url: https://www.aclweb.org/anthology/D09-1056
+  year: '2009'
+D09-1057:
+  address: Singapore
+  author:
+  - first: Zhiheng
+    full: Zhiheng Huang
+    id: zhiheng-huang
+    last: Huang
+  - first: Marcus
+    full: Marcus Thint
+    id: marcus-thint
+    last: Thint
+  - first: Asli
+    full: Asli Celikyilmaz
+    id: asli-celikyilmaz
+    last: Celikyilmaz
+  author_string: Zhiheng Huang, Marcus Thint, Asli Celikyilmaz
+  bibkey: huang-etal-2009-investigation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '543'
+  page_last: '550'
+  pages: "543\u2013550"
+  paper_id: '57'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1057.jpg
+  title: Investigation of Question Classifier in Question Answering
+  title_html: Investigation of Question Classifier in Question Answering
+  url: https://www.aclweb.org/anthology/D09-1057
+  year: '2009'
+D09-1058:
+  address: Singapore
+  author:
+  - first: Jun
+    full: Jun Suzuki
+    id: jun-suzuki
+    last: Suzuki
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Jun Suzuki, Hideki Isozaki, Xavier Carreras, Michael Collins
+  bibkey: suzuki-etal-2009-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '551'
+  page_last: '560'
+  pages: "551\u2013560"
+  paper_id: '58'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1058.jpg
+  title: An Empirical Study of Semi-supervised Structured Conditional Models for Dependency
+    Parsing
+  title_html: An Empirical Study of Semi-supervised Structured Conditional Models
+    for Dependency Parsing
+  url: https://www.aclweb.org/anthology/D09-1058
+  year: '2009'
+D09-1059:
+  address: Singapore
+  author:
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  author_string: Richard Johansson
+  bibkey: johansson-2009-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '561'
+  page_last: '569'
+  pages: "561\u2013569"
+  paper_id: '59'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1059.jpg
+  title: Statistical Bistratal Dependency Parsing
+  title_html: Statistical Bistratal Dependency Parsing
+  url: https://www.aclweb.org/anthology/D09-1059
+  year: '2009'
+D09-1060:
+  address: Singapore
+  author:
+  - first: Wenliang
+    full: Wenliang Chen
+    id: wenliang-chen
+    last: Chen
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: "Wenliang Chen, Jun\u2019ichi Kazama, Kiyotaka Uchimoto, Kentaro\
+    \ Torisawa"
+  bibkey: chen-etal-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '570'
+  page_last: '579'
+  pages: "570\u2013579"
+  paper_id: '60'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1060.jpg
+  title: Improving Dependency Parsing with Subtrees from Auto-Parsed Data
+  title_html: Improving Dependency Parsing with Subtrees from Auto-Parsed Data
+  url: https://www.aclweb.org/anthology/D09-1060
+  year: '2009'
+D09-1061:
+  address: Singapore
+  author:
+  - first: Sajib
+    full: Sajib Dasgupta
+    id: sajib-dasgupta
+    last: Dasgupta
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Sajib Dasgupta, Vincent Ng
+  bibkey: dasgupta-ng-2009-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '580'
+  page_last: '589'
+  pages: "580\u2013589"
+  paper_id: '61'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1061.jpg
+  title: Topic-wise, Sentiment-wise, or Otherwise? Identifying the Hidden Dimension
+    for Unsupervised Text Classification
+  title_html: Topic-wise, Sentiment-wise, or Otherwise? <span class="acl-fixed-case">I</span>dentifying
+    the Hidden Dimension for Unsupervised Text Classification
+  url: https://www.aclweb.org/anthology/D09-1061
+  year: '2009'
+D09-1062:
+  address: Singapore
+  author:
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Yejin Choi, Claire Cardie
+  bibkey: choi-cardie-2009-adapting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '590'
+  page_last: '598'
+  pages: "590\u2013598"
+  paper_id: '62'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1062.jpg
+  title: Adapting a Polarity Lexicon using Integer Linear Programming for Domain-Specific
+    Sentiment Classification
+  title_html: Adapting a Polarity Lexicon using Integer Linear Programming for Domain-Specific
+    Sentiment Classification
+  url: https://www.aclweb.org/anthology/D09-1062
+  year: '2009'
+D09-1063:
+  address: Singapore
+  author:
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Cody
+    full: Cody Dunne
+    id: cody-dunne
+    last: Dunne
+  - first: Bonnie
+    full: Bonnie Dorr
+    id: bonnie-dorr
+    last: Dorr
+  author_string: Saif Mohammad, Cody Dunne, Bonnie Dorr
+  bibkey: mohammad-etal-2009-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '599'
+  page_last: '608'
+  pages: "599\u2013608"
+  paper_id: '63'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1063.jpg
+  title: Generating High-Coverage Semantic Orientation Lexicons From Overtly Marked
+    Words and a Thesaurus
+  title_html: Generating High-Coverage Semantic Orientation Lexicons From Overtly
+    Marked Words and a Thesaurus
+  url: https://www.aclweb.org/anthology/D09-1063
+  year: '2009'
+D09-1064:
+  address: Singapore
+  author:
+  - first: Nilesh
+    full: Nilesh Dalvi
+    id: nilesh-dalvi
+    last: Dalvi
+  - first: Ravi
+    full: Ravi Kumar
+    id: ravi-kumar
+    last: Kumar
+  - first: Bo
+    full: Bo Pang
+    id: bo-pang
+    last: Pang
+  - first: Andrew
+    full: Andrew Tomkins
+    id: andrew-tomkins
+    last: Tomkins
+  author_string: Nilesh Dalvi, Ravi Kumar, Bo Pang, Andrew Tomkins
+  bibkey: dalvi-etal-2009-matching
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '609'
+  page_last: '618'
+  pages: "609\u2013618"
+  paper_id: '64'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1064.jpg
+  title: Matching Reviews to Objects using a Language Model
+  title_html: Matching Reviews to Objects using a Language Model
+  url: https://www.aclweb.org/anthology/D09-1064
+  year: '2009'
+D09-1065:
+  address: Singapore
+  author:
+  - first: Brian
+    full: Brian Murphy
+    id: brian-murphy
+    last: Murphy
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  author_string: Brian Murphy, Marco Baroni, Massimo Poesio
+  bibkey: murphy-etal-2009-eeg
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '619'
+  page_last: '627'
+  pages: "619\u2013627"
+  paper_id: '65'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1065.jpg
+  title: EEG responds to conceptual stimuli and corpus semantics
+  title_html: <span class="acl-fixed-case">EEG</span> responds to conceptual stimuli
+    and corpus semantics
+  url: https://www.aclweb.org/anthology/D09-1065
+  year: '2009'
+D09-1066:
+  address: Singapore
+  author:
+  - first: Justin
+    full: Justin Washtell
+    id: justin-washtell
+    last: Washtell
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  author_string: Justin Washtell, Katja Markert
+  bibkey: washtell-markert-2009-comparison
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '628'
+  page_last: '637'
+  pages: "628\u2013637"
+  paper_id: '66'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1066.jpg
+  title: A Comparison of Windowless and Window-Based Computational Association Measures
+    as Predictors of Syntagmatic Human Associations
+  title_html: A Comparison of Windowless and Window-Based Computational Association
+    Measures as Predictors of Syntagmatic Human Associations
+  url: https://www.aclweb.org/anthology/D09-1066
+  year: '2009'
+D09-1067:
+  address: Singapore
+  author:
+  - first: Lin
+    full: Lin Sun
+    id: lin-sun
+    last: Sun
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: Lin Sun, Anna Korhonen
+  bibkey: sun-korhonen-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '638'
+  page_last: '647'
+  pages: "638\u2013647"
+  paper_id: '67'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1067.jpg
+  title: Improving Verb Clustering with Automatically Acquired Selectional Preferences
+  title_html: Improving Verb Clustering with Automatically Acquired Selectional Preferences
+  url: https://www.aclweb.org/anthology/D09-1067
+  year: '2009'
+D09-1068:
+  address: Singapore
+  author:
+  - first: Yumao
+    full: Yumao Lu
+    id: yumao-lu
+    last: Lu
+  - first: Fuchun
+    full: Fuchun Peng
+    id: fuchun-peng
+    last: Peng
+  - first: Gilad
+    full: Gilad Mishne
+    id: gilad-mishne
+    last: Mishne
+  - first: Xing
+    full: Xing Wei
+    id: xing-wei
+    last: Wei
+  - first: Benoit
+    full: Benoit Dumoulin
+    id: benoit-dumoulin
+    last: Dumoulin
+  author_string: Yumao Lu, Fuchun Peng, Gilad Mishne, Xing Wei, Benoit Dumoulin
+  bibkey: lu-etal-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '648'
+  page_last: '657'
+  pages: "648\u2013657"
+  paper_id: '68'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1068.jpg
+  title: Improving Web Search Relevance with Semantic Features
+  title_html: Improving <span class="acl-fixed-case">W</span>eb Search Relevance with
+    Semantic Features
+  url: https://www.aclweb.org/anthology/D09-1068
+  year: '2009'
+D09-1069:
+  address: Singapore
+  author:
+  - first: Jong-Hoon
+    full: Jong-Hoon Oh
+    id: jong-hoon-oh
+    last: Oh
+  - first: Kiyotaka
+    full: Kiyotaka Uchimoto
+    id: kiyotaka-uchimoto
+    last: Uchimoto
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: Jong-Hoon Oh, Kiyotaka Uchimoto, Kentaro Torisawa
+  bibkey: oh-etal-2009-chinese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '658'
+  page_last: '667'
+  pages: "658\u2013667"
+  paper_id: '69'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1069.jpg
+  title: 'Can Chinese Phonemes Improve Machine Transliteration?: A Comparative Study
+    of English-to-Chinese Transliteration Models'
+  title_html: 'Can <span class="acl-fixed-case">C</span>hinese Phonemes Improve Machine
+    Transliteration?: A Comparative Study of <span class="acl-fixed-case">E</span>nglish-to-<span
+    class="acl-fixed-case">C</span>hinese Transliteration Models'
+  url: https://www.aclweb.org/anthology/D09-1069
+  year: '2009'
+D09-1070:
+  address: Singapore
+  author:
+  - first: Taesun
+    full: Taesun Moon
+    id: taesun-moon
+    last: Moon
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  author_string: Taesun Moon, Katrin Erk, Jason Baldridge
+  bibkey: moon-etal-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '668'
+  page_last: '677'
+  pages: "668\u2013677"
+  paper_id: '70'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1070.jpg
+  title: Unsupervised morphological segmentation and clustering with document boundaries
+  title_html: Unsupervised morphological segmentation and clustering with document
+    boundaries
+  url: https://www.aclweb.org/anthology/D09-1070
+  year: '2009'
+D09-1071:
+  address: Singapore
+  author:
+  - first: Jurgen
+    full: Jurgen Van Gael
+    id: jurgen-van-gael
+    last: Van Gael
+  - first: Andreas
+    full: Andreas Vlachos
+    id: andreas-vlachos
+    last: Vlachos
+  - first: Zoubin
+    full: Zoubin Ghahramani
+    id: zoubin-ghahramani
+    last: Ghahramani
+  author_string: Jurgen Van Gael, Andreas Vlachos, Zoubin Ghahramani
+  bibkey: van-gael-etal-2009-infinite
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '678'
+  page_last: '687'
+  pages: "678\u2013687"
+  paper_id: '71'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1071.jpg
+  title: The infinite HMM for unsupervised PoS tagging
+  title_html: The infinite <span class="acl-fixed-case">HMM</span> for unsupervised
+    <span class="acl-fixed-case">P</span>o<span class="acl-fixed-case">S</span> tagging
+  url: https://www.aclweb.org/anthology/D09-1071
+  year: '2009'
+D09-1072:
+  address: Singapore
+  author:
+  - first: Qiuye
+    full: Qiuye Zhao
+    id: qiuye-zhao
+    last: Zhao
+  - first: Mitch
+    full: Mitch Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Qiuye Zhao, Mitch Marcus
+  bibkey: zhao-marcus-2009-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '688'
+  page_last: '697'
+  pages: "688\u2013697"
+  paper_id: '72'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1072.jpg
+  title: A Simple Unsupervised Learner for POS Disambiguation Rules Given Only a Minimal
+    Lexicon
+  title_html: A Simple Unsupervised Learner for <span class="acl-fixed-case">POS</span>
+    Disambiguation Rules Given Only a Minimal Lexicon
+  url: https://www.aclweb.org/anthology/D09-1072
+  year: '2009'
+D09-1073:
+  address: Singapore
+  author:
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  author_string: Min Zhang, Haizhou Li
+  bibkey: zhang-li-2009-tree
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '698'
+  page_last: '707'
+  pages: "698\u2013707"
+  paper_id: '73'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1073.jpg
+  title: Tree Kernel-based SVM with Structured Syntactic Knowledge for BTG-based Phrase
+    Reordering
+  title_html: Tree Kernel-based <span class="acl-fixed-case">SVM</span> with Structured
+    Syntactic Knowledge for <span class="acl-fixed-case">BTG</span>-based Phrase Reordering
+  url: https://www.aclweb.org/anthology/D09-1073
+  year: '2009'
+D09-1074:
+  address: Singapore
+  author:
+  - first: Spyros
+    full: Spyros Matsoukas
+    id: spyros-matsoukas
+    last: Matsoukas
+  - first: Antti-Veikko I.
+    full: Antti-Veikko I. Rosti
+    id: antti-veikko-rosti
+    last: Rosti
+  - first: Bing
+    full: Bing Zhang
+    id: bing-zhang
+    last: Zhang
+  author_string: Spyros Matsoukas, Antti-Veikko I. Rosti, Bing Zhang
+  bibkey: matsoukas-etal-2009-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '708'
+  page_last: '717'
+  pages: "708\u2013717"
+  paper_id: '74'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1074.jpg
+  title: Discriminative Corpus Weight Estimation for Machine Translation
+  title_html: Discriminative Corpus Weight Estimation for Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1074
+  year: '2009'
+D09-1075:
+  address: Singapore
+  author:
+  - first: Tagyoung
+    full: Tagyoung Chung
+    id: tagyoung-chung
+    last: Chung
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  author_string: Tagyoung Chung, Daniel Gildea
+  bibkey: chung-gildea-2009-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '718'
+  page_last: '726'
+  pages: "718\u2013726"
+  paper_id: '75'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1075.jpg
+  title: Unsupervised Tokenization for Machine Translation
+  title_html: Unsupervised Tokenization for Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1075
+  year: '2009'
+D09-1076:
+  address: Singapore
+  author:
+  - first: Steve
+    full: Steve DeNeefe
+    id: steve-deneefe
+    last: DeNeefe
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Steve DeNeefe, Kevin Knight
+  bibkey: deneefe-knight-2009-synchronous
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '727'
+  page_last: '736'
+  pages: "727\u2013736"
+  paper_id: '76'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1076.jpg
+  title: Synchronous Tree Adjoining Machine Translation
+  title_html: Synchronous Tree Adjoining Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1076
+  year: '2009'
+D09-1077:
+  address: Singapore
+  author:
+  - first: Tim
+    full: Tim Miller
+    id: timothy-miller
+    last: Miller
+  author_string: Tim Miller
+  bibkey: miller-2009-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '737'
+  page_last: '745'
+  pages: "737\u2013745"
+  paper_id: '77'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1077.jpg
+  title: Word Buffering Models for Improved Speech Repair Parsing
+  title_html: Word Buffering Models for Improved Speech Repair Parsing
+  url: https://www.aclweb.org/anthology/D09-1077
+  year: '2009'
+D09-1078:
+  address: Singapore
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  - first: Chris
+    full: Chris Quirk
+    id: chris-quirk
+    last: Quirk
+  author_string: Robert C. Moore, Chris Quirk
+  bibkey: moore-quirk-2009-less
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '746'
+  page_last: '755'
+  pages: "746\u2013755"
+  paper_id: '78'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1078.jpg
+  title: 'Less is More: Significance-Based N-gram Selection for Smaller, Better Language
+    Models'
+  title_html: 'Less is More: Significance-Based <span class="acl-fixed-case">N</span>-gram
+    Selection for Smaller, Better Language Models'
+  url: https://www.aclweb.org/anthology/D09-1078
+  year: '2009'
+D09-1079:
+  address: Singapore
+  author:
+  - first: Abby
+    full: Abby Levenberg
+    id: abby-levenberg
+    last: Levenberg
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: Abby Levenberg, Miles Osborne
+  bibkey: levenberg-osborne-2009-stream
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '756'
+  page_last: '764'
+  pages: "756\u2013764"
+  paper_id: '79'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1079.jpg
+  title: Stream-based Randomised Language Models for SMT
+  title_html: Stream-based Randomised Language Models for <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/D09-1079
+  year: '2009'
+D09-1080:
+  address: Singapore
+  author:
+  - first: Erin
+    full: Erin Fitzgerald
+    id: erin-fitzgerald
+    last: Fitzgerald
+  - first: Frederick
+    full: Frederick Jelinek
+    id: frederick-jelinek
+    last: Jelinek
+  - first: Keith
+    full: Keith Hall
+    id: keith-hall
+    last: Hall
+  author_string: Erin Fitzgerald, Frederick Jelinek, Keith Hall
+  bibkey: fitzgerald-etal-2009-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '765'
+  page_last: '774'
+  pages: "765\u2013774"
+  paper_id: '80'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1080.jpg
+  title: Integrating sentence- and word-level error identification for disfluency
+    correction
+  title_html: Integrating sentence- and word-level error identification for disfluency
+    correction
+  url: https://www.aclweb.org/anthology/D09-1080
+  year: '2009'
+D09-1081:
+  address: Singapore
+  author:
+  - first: Yuval
+    full: Yuval Marton
+    id: yuval-marton
+    last: Marton
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Yuval Marton, Saif Mohammad, Philip Resnik
+  bibkey: marton-etal-2009-estimating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '775'
+  page_last: '783'
+  pages: "775\u2013783"
+  paper_id: '81'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1081.jpg
+  title: "Estimating Semantic Distance Using Soft Semantic Constraints in Knowledge-Source\
+    \ \u2013 Corpus Hybrid Models"
+  title_html: "Estimating Semantic Distance Using Soft Semantic Constraints in Knowledge-Source\
+    \ \u2013 Corpus Hybrid Models"
+  url: https://www.aclweb.org/anthology/D09-1081
+  year: '2009'
+D09-1082:
+  address: Singapore
+  author:
+  - first: Rui
+    full: Rui Wang
+    id: rui-wang
+    last: Wang
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  author_string: Rui Wang, Yi Zhang
+  bibkey: wang-zhang-2009-recognizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '784'
+  page_last: '792'
+  pages: "784\u2013792"
+  paper_id: '82'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1082.jpg
+  title: Recognizing Textual Relatedness with Predicate-Argument Structures
+  title_html: Recognizing Textual Relatedness with Predicate-Argument Structures
+  url: https://www.aclweb.org/anthology/D09-1082
+  year: '2009'
+D09-1083:
+  address: Singapore
+  attachment:
+  - filename: D09-1083.Presentation.pptx
+    type: presentation
+    url: https://www.aclweb.org/anthology/attachments/D09-1083.Presentation.pptx
+  author:
+  - first: Wen-tau
+    full: Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  author_string: Wen-tau Yih
+  bibkey: yih-2009-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '793'
+  page_last: '802'
+  pages: "793\u2013802"
+  paper_id: '83'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1083.jpg
+  title: Learning Term-weighting Functions for Similarity Measures
+  title_html: Learning Term-weighting Functions for Similarity Measures
+  url: https://www.aclweb.org/anthology/D09-1083
+  year: '2009'
+D09-1084:
+  address: Singapore
+  author:
+  - first: Danushka
+    full: Danushka Bollegala
+    id: danushka-bollegala
+    last: Bollegala
+  - first: Yutaka
+    full: Yutaka Matsuo
+    id: yutaka-matsuo
+    last: Matsuo
+  - first: Mitsuru
+    full: Mitsuru Ishizuka
+    id: mitsuru-ishizuka
+    last: Ishizuka
+  author_string: Danushka Bollegala, Yutaka Matsuo, Mitsuru Ishizuka
+  bibkey: bollegala-etal-2009-relational
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '803'
+  page_last: '812'
+  pages: "803\u2013812"
+  paper_id: '84'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1084.jpg
+  title: A Relational Model of Semantic Similarity between Words using Automatically
+    Extracted Lexical Pattern Clusters from the Web
+  title_html: A Relational Model of Semantic Similarity between Words using Automatically
+    Extracted Lexical Pattern Clusters from the <span class="acl-fixed-case">W</span>eb
+  url: https://www.aclweb.org/anthology/D09-1084
+  year: '2009'
+D09-1085:
+  address: Singapore
+  author:
+  - first: Laura
+    full: Laura Rimell
+    id: laura-rimell
+    last: Rimell
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Laura Rimell, Stephen Clark, Mark Steedman
+  bibkey: rimell-etal-2009-unbounded
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '813'
+  page_last: '821'
+  pages: "813\u2013821"
+  paper_id: '85'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1085.jpg
+  title: Unbounded Dependency Recovery for Parser Evaluation
+  title_html: Unbounded Dependency Recovery for Parser Evaluation
+  url: https://www.aclweb.org/anthology/D09-1085
+  year: '2009'
+D09-1086:
+  address: Singapore
+  author:
+  - first: David A.
+    full: David A. Smith
+    id: david-a-smith
+    last: Smith
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: David A. Smith, Jason Eisner
+  bibkey: smith-eisner-2009-parser
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '822'
+  page_last: '831'
+  pages: "822\u2013831"
+  paper_id: '86'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1086.jpg
+  title: Parser Adaptation and Projection with Quasi-Synchronous Grammar Features
+  title_html: Parser Adaptation and Projection with Quasi-Synchronous Grammar Features
+  url: https://www.aclweb.org/anthology/D09-1086
+  year: '2009'
+D09-1087:
+  address: Singapore
+  author:
+  - first: Zhongqiang
+    full: Zhongqiang Huang
+    id: zhongqiang-huang
+    last: Huang
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  author_string: Zhongqiang Huang, Mary Harper
+  bibkey: huang-harper-2009-self
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '832'
+  page_last: '841'
+  pages: "832\u2013841"
+  paper_id: '87'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1087.jpg
+  title: Self-Training PCFG Grammars with Latent Annotations Across Languages
+  title_html: Self-Training <span class="acl-fixed-case">PCFG</span> Grammars with
+    Latent Annotations Across Languages
+  url: https://www.aclweb.org/anthology/D09-1087
+  year: '2009'
+D09-1088:
+  address: Singapore
+  author:
+  - first: Reut
+    full: Reut Tsarfaty
+    id: reut-tsarfaty
+    last: Tsarfaty
+  - first: Khalil
+    full: "Khalil Sima\u2019an"
+    id: khalil-simaan
+    last: "Sima\u2019an"
+  - first: Remko
+    full: Remko Scha
+    id: remko-scha
+    last: Scha
+  author_string: "Reut Tsarfaty, Khalil Sima\u2019an, Remko Scha"
+  bibkey: tsarfaty-etal-2009-alternative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '842'
+  page_last: '851'
+  pages: "842\u2013851"
+  paper_id: '88'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1088.jpg
+  title: An Alternative to Head-Driven Approaches for Parsing a (Relatively) Free
+    Word-Order Language
+  title_html: An Alternative to Head-Driven Approaches for Parsing a (Relatively)
+    Free Word-Order Language
+  url: https://www.aclweb.org/anthology/D09-1088
+  year: '2009'
+D09-1089:
+  address: Singapore
+  author:
+  - first: Dmitry
+    full: Dmitry Davidov
+    id: dmitry-davidov
+    last: Davidov
+  - first: Ari
+    full: Ari Rappoport
+    id: ari-rappoport
+    last: Rappoport
+  author_string: Dmitry Davidov, Ari Rappoport
+  bibkey: davidov-rappoport-2009-enhancement
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '852'
+  page_last: '861'
+  pages: "852\u2013861"
+  paper_id: '89'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1089.jpg
+  title: Enhancement of Lexical Concepts Using Cross-lingual Web Mining
+  title_html: Enhancement of Lexical Concepts Using Cross-lingual Web Mining
+  url: https://www.aclweb.org/anthology/D09-1089
+  year: '2009'
+D09-1090:
+  address: Singapore
+  author:
+  - first: "Istv\xE1n"
+    full: "Istv\xE1n Varga"
+    id: istvan-varga
+    last: Varga
+  - first: Shoichi
+    full: Shoichi Yokoyama
+    id: shoichi-yokoyama
+    last: Yokoyama
+  author_string: "Istv\xE1n Varga, Shoichi Yokoyama"
+  bibkey: varga-yokoyama-2009-bilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '862'
+  page_last: '870'
+  pages: "862\u2013870"
+  paper_id: '90'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1090.jpg
+  title: Bilingual dictionary generation for low-resourced language pairs
+  title_html: Bilingual dictionary generation for low-resourced language pairs
+  url: https://www.aclweb.org/anthology/D09-1090
+  year: '2009'
+D09-1091:
+  address: Singapore
+  author:
+  - first: Dani
+    full: Dani Yogatama
+    id: dani-yogatama
+    last: Yogatama
+  - first: Kumiko
+    full: Kumiko Tanaka-Ishii
+    id: kumiko-tanaka-ishii
+    last: Tanaka-Ishii
+  author_string: Dani Yogatama, Kumiko Tanaka-Ishii
+  bibkey: yogatama-tanaka-ishii-2009-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '871'
+  page_last: '879'
+  pages: "871\u2013879"
+  paper_id: '91'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1091.jpg
+  title: Multilingual Spectral Clustering Using Document Similarity Propagation
+  title_html: Multilingual Spectral Clustering Using Document Similarity Propagation
+  url: https://www.aclweb.org/anthology/D09-1091
+  year: '2009'
+D09-1092:
+  address: Singapore
+  author:
+  - first: David
+    full: David Mimno
+    id: david-mimno
+    last: Mimno
+  - first: Hanna M.
+    full: Hanna M. Wallach
+    id: hanna-wallach
+    last: Wallach
+  - first: Jason
+    full: Jason Naradowsky
+    id: jason-naradowsky
+    last: Naradowsky
+  - first: David A.
+    full: David A. Smith
+    id: david-a-smith
+    last: Smith
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: David Mimno, Hanna M. Wallach, Jason Naradowsky, David A. Smith,
+    Andrew McCallum
+  bibkey: mimno-etal-2009-polylingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '880'
+  page_last: '889'
+  pages: "880\u2013889"
+  paper_id: '92'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1092.jpg
+  title: Polylingual Topic Models
+  title_html: Polylingual Topic Models
+  url: https://www.aclweb.org/anthology/D09-1092
+  year: '2009'
+D09-1093:
+  address: Singapore
+  author:
+  - first: Casey
+    full: Casey Whitelaw
+    id: casey-whitelaw
+    last: Whitelaw
+  - first: Ben
+    full: Ben Hutchinson
+    id: ben-hutchinson
+    last: Hutchinson
+  - first: Grace Y
+    full: Grace Y Chung
+    id: grace-chung
+    last: Chung
+  - first: Ged
+    full: Ged Ellis
+    id: ged-ellis
+    last: Ellis
+  author_string: Casey Whitelaw, Ben Hutchinson, Grace Y Chung, Ged Ellis
+  bibkey: whitelaw-etal-2009-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '890'
+  page_last: '899'
+  pages: "890\u2013899"
+  paper_id: '93'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1093.jpg
+  title: Using the Web for Language Independent Spellchecking and Autocorrection
+  title_html: Using the <span class="acl-fixed-case">W</span>eb for Language Independent
+    Spellchecking and Autocorrection
+  url: https://www.aclweb.org/anthology/D09-1093
+  year: '2009'
+D09-1094:
+  address: Singapore
+  author:
+  - first: Paul
+    full: Paul Kidwell
+    id: paul-kidwell
+    last: Kidwell
+  - first: Guy
+    full: Guy Lebanon
+    id: guy-lebanon
+    last: Lebanon
+  - first: Kevyn
+    full: Kevyn Collins-Thompson
+    id: kevyn-collins-thompson
+    last: Collins-Thompson
+  author_string: Paul Kidwell, Guy Lebanon, Kevyn Collins-Thompson
+  bibkey: kidwell-etal-2009-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '900'
+  page_last: '909'
+  pages: "900\u2013909"
+  paper_id: '94'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1094.jpg
+  title: Statistical Estimation of Word Acquisition with Application to Readability
+    Prediction
+  title_html: Statistical Estimation of Word Acquisition with Application to Readability
+    Prediction
+  url: https://www.aclweb.org/anthology/D09-1094
+  year: '2009'
+D09-1095:
+  address: Singapore
+  author:
+  - first: Vivi
+    full: Vivi Nastase
+    id: vivi-nastase
+    last: Nastase
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Vivi Nastase, Michael Strube
+  bibkey: nastase-strube-2009-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '910'
+  page_last: '918'
+  pages: "910\u2013918"
+  paper_id: '95'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1095.jpg
+  title: Combining Collocations, Lexical and Encyclopedic Knowledge for Metonymy Resolution
+  title_html: Combining Collocations, Lexical and Encyclopedic Knowledge for Metonymy
+    Resolution
+  url: https://www.aclweb.org/anthology/D09-1095
+  year: '2009'
+D09-1096:
+  address: Singapore
+  author:
+  - first: Andrew
+    full: Andrew Lampert
+    id: andrew-lampert
+    last: Lampert
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  - first: "C\xE9cile"
+    full: "C\xE9cile Paris"
+    id: cecile-paris
+    last: Paris
+  author_string: "Andrew Lampert, Robert Dale, C\xE9cile Paris"
+  bibkey: lampert-etal-2009-segmenting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '919'
+  page_last: '928'
+  pages: "919\u2013928"
+  paper_id: '96'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1096.jpg
+  title: Segmenting Email Message Text into Zones
+  title_html: Segmenting Email Message Text into Zones
+  url: https://www.aclweb.org/anthology/D09-1096
+  year: '2009'
+D09-1097:
+  address: Singapore
+  author:
+  - first: Ichiro
+    full: Ichiro Yamada
+    id: ichiro-yamada
+    last: Yamada
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Kow
+    full: Kow Kuroda
+    id: kow-kuroda
+    last: Kuroda
+  - first: Masaki
+    full: Masaki Murata
+    id: masaki-murata
+    last: Murata
+  - first: Stijn
+    full: Stijn De Saeger
+    id: stijn-de-saeger
+    last: De Saeger
+  - first: Francis
+    full: Francis Bond
+    id: francis-bond
+    last: Bond
+  - first: Asuka
+    full: Asuka Sumida
+    id: asuka-sumida
+    last: Sumida
+  author_string: "Ichiro Yamada, Kentaro Torisawa, Jun\u2019ichi Kazama, Kow Kuroda,\
+    \ Masaki Murata, Stijn De Saeger, Francis Bond, Asuka Sumida"
+  bibkey: yamada-etal-2009-hypernym
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '929'
+  page_last: '937'
+  pages: "929\u2013937"
+  paper_id: '97'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1097.jpg
+  title: Hypernym Discovery Based on Distributional Similarity and Hierarchical Structures
+  title_html: Hypernym Discovery Based on Distributional Similarity and Hierarchical
+    Structures
+  url: https://www.aclweb.org/anthology/D09-1097
+  year: '2009'
+D09-1098:
+  address: Singapore
+  author:
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  - first: Eric
+    full: Eric Crestan
+    id: eric-crestan
+    last: Crestan
+  - first: Arkady
+    full: Arkady Borkovsky
+    id: arkady-borkovsky
+    last: Borkovsky
+  - first: Ana-Maria
+    full: Ana-Maria Popescu
+    id: ana-maria-popescu
+    last: Popescu
+  - first: Vishnu
+    full: Vishnu Vyas
+    id: vishnu-vyas
+    last: Vyas
+  author_string: Patrick Pantel, Eric Crestan, Arkady Borkovsky, Ana-Maria Popescu,
+    Vishnu Vyas
+  bibkey: pantel-etal-2009-web
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '938'
+  page_last: '947'
+  pages: "938\u2013947"
+  paper_id: '98'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1098.jpg
+  title: Web-Scale Distributional Similarity and Entity Set Expansion
+  title_html: <span class="acl-fixed-case">W</span>eb-Scale Distributional Similarity
+    and Entity Set Expansion
+  url: https://www.aclweb.org/anthology/D09-1098
+  year: '2009'
+D09-1099:
+  address: Singapore
+  author:
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  author_string: Eduard Hovy, Zornitsa Kozareva, Ellen Riloff
+  bibkey: hovy-etal-2009-toward
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '948'
+  page_last: '957'
+  pages: "948\u2013957"
+  paper_id: '99'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1099.jpg
+  title: Toward Completeness in Concept Extraction and Classification
+  title_html: Toward Completeness in Concept Extraction and Classification
+  url: https://www.aclweb.org/anthology/D09-1099
+  year: '2009'
+D09-1100:
+  address: Singapore
+  author:
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  - first: James
+    full: James Clarke
+    id: james-clarke
+    last: Clarke
+  - first: Dan
+    full: Dan Goldwasser
+    id: dan-goldwasser
+    last: Goldwasser
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Jacob Eisenstein, James Clarke, Dan Goldwasser, Dan Roth
+  bibkey: eisenstein-etal-2009-reading
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '958'
+  page_last: '967'
+  pages: "958\u2013967"
+  paper_id: '100'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1100.jpg
+  title: 'Reading to Learn: Constructing Features from Semantic Abstracts'
+  title_html: 'Reading to Learn: Constructing Features from Semantic Abstracts'
+  url: https://www.aclweb.org/anthology/D09-1100
+  year: '2009'
+D09-1101:
+  address: Singapore
+  author:
+  - first: Altaf
+    full: Altaf Rahman
+    id: altaf-rahman
+    last: Rahman
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Altaf Rahman, Vincent Ng
+  bibkey: rahman-ng-2009-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '968'
+  page_last: '977'
+  pages: "968\u2013977"
+  paper_id: '101'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1101.jpg
+  title: Supervised Models for Coreference Resolution
+  title_html: Supervised Models for Coreference Resolution
+  url: https://www.aclweb.org/anthology/D09-1101
+  year: '2009'
+D09-1102:
+  address: Singapore
+  author:
+  - first: GuoDong
+    full: GuoDong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Fang
+    full: Fang Kong
+    id: fang-kong
+    last: Kong
+  author_string: GuoDong Zhou, Fang Kong
+  bibkey: zhou-kong-2009-global
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '978'
+  page_last: '986'
+  pages: "978\u2013986"
+  paper_id: '102'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1102.jpg
+  title: Global Learning of Noun Phrase Anaphoricity in Coreference Resolution via
+    Label Propagation
+  title_html: Global Learning of Noun Phrase Anaphoricity in Coreference Resolution
+    via Label Propagation
+  url: https://www.aclweb.org/anthology/D09-1102
+  year: '2009'
+D09-1103:
+  address: Singapore
+  author:
+  - first: Fang
+    full: Fang Kong
+    id: fang-kong
+    last: Kong
+  - first: GuoDong
+    full: GuoDong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Qiaoming
+    full: Qiaoming Zhu
+    id: qiaoming-zhu
+    last: Zhu
+  author_string: Fang Kong, GuoDong Zhou, Qiaoming Zhu
+  bibkey: kong-etal-2009-employing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '987'
+  page_last: '996'
+  pages: "987\u2013996"
+  paper_id: '103'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1103.jpg
+  title: Employing the Centering Theory in Pronoun Resolution from the Semantic Perspective
+  title_html: Employing the Centering Theory in Pronoun Resolution from the Semantic
+    Perspective
+  url: https://www.aclweb.org/anthology/D09-1103
+  year: '2009'
+D09-1104:
+  address: Singapore
+  author:
+  - first: Octavian
+    full: Octavian Popescu
+    id: octavian-popescu
+    last: Popescu
+  author_string: Octavian Popescu
+  bibkey: popescu-2009-person
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '997'
+  page_last: '1006'
+  pages: "997\u20131006"
+  paper_id: '104'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1104.jpg
+  title: Person Cross Document Coreference with Name Perplexity Estimates
+  title_html: Person Cross Document Coreference with Name Perplexity Estimates
+  url: https://www.aclweb.org/anthology/D09-1104
+  year: '2009'
+D09-1105:
+  address: Singapore
+  author:
+  - first: Roy
+    full: Roy Tromble
+    id: roy-tromble
+    last: Tromble
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Roy Tromble, Jason Eisner
+  bibkey: tromble-eisner-2009-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1007'
+  page_last: '1016'
+  pages: "1007\u20131016"
+  paper_id: '105'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1105.jpg
+  title: Learning Linear Ordering Problems for Better Translation
+  title_html: Learning Linear Ordering Problems for Better Translation
+  url: https://www.aclweb.org/anthology/D09-1105
+  year: '2009'
+D09-1106:
+  address: Singapore
+  author:
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Tian
+    full: Tian Xia
+    id: tian-xia
+    last: Xia
+  - first: Xinyan
+    full: Xinyan Xiao
+    id: xinyan-xiao
+    last: Xiao
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Yang Liu, Tian Xia, Xinyan Xiao, Qun Liu
+  bibkey: liu-etal-2009-weighted
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1017'
+  page_last: '1026'
+  pages: "1017\u20131026"
+  paper_id: '106'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1106.jpg
+  title: Weighted Alignment Matrices for Statistical Machine Translation
+  title_html: Weighted Alignment Matrices for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1106
+  year: '2009'
+D09-1107:
+  address: Singapore
+  author:
+  - first: Matti
+    full: "Matti K\xE4\xE4ri\xE4inen"
+    id: matti-kaariainen
+    last: "K\xE4\xE4ri\xE4inen"
+  author_string: "Matti K\xE4\xE4ri\xE4inen"
+  bibkey: kaariainen-2009-sinuhe
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1027'
+  page_last: '1036'
+  pages: "1027\u20131036"
+  paper_id: '107'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1107.jpg
+  title: "Sinuhe \u2013 Statistical Machine Translation using a Globally Trained Conditional\
+    \ Exponential Family Translation Model"
+  title_html: "<span class=\"acl-fixed-case\">S</span>inuhe \u2013 Statistical Machine\
+    \ Translation using a Globally Trained Conditional Exponential Family Translation\
+    \ Model"
+  url: https://www.aclweb.org/anthology/D09-1107
+  year: '2009'
+D09-1108:
+  address: Singapore
+  author:
+  - first: Hui
+    full: Hui Zhang
+    id: hui-zhang
+    last: Zhang
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Hui Zhang, Min Zhang, Haizhou Li, Chew Lim Tan
+  bibkey: zhang-etal-2009-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1037'
+  page_last: '1045'
+  pages: "1037\u20131045"
+  paper_id: '108'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1108.jpg
+  title: Fast Translation Rule Matching for Syntax-based Statistical Machine Translation
+  title_html: Fast Translation Rule Matching for Syntax-based Statistical Machine
+    Translation
+  url: https://www.aclweb.org/anthology/D09-1108
+  year: '2009'
+D09-1109:
+  address: Singapore
+  author:
+  - first: Enrique
+    full: Enrique Alfonseca
+    id: enrique-alfonseca
+    last: Alfonseca
+  - first: Massimiliano
+    full: Massimiliano Ciaramita
+    id: massimiliano-ciaramita
+    last: Ciaramita
+  - first: Keith
+    full: Keith Hall
+    id: keith-hall
+    last: Hall
+  author_string: Enrique Alfonseca, Massimiliano Ciaramita, Keith Hall
+  bibkey: alfonseca-etal-2009-gazpacho
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1046'
+  page_last: '1055'
+  pages: "1046\u20131055"
+  paper_id: '109'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1109.jpg
+  title: 'Gazpacho and summer rash: lexical relationships from temporal patterns of
+    web search queries'
+  title_html: '<span class="acl-fixed-case">G</span>azpacho and summer rash: lexical
+    relationships from temporal patterns of web search queries'
+  url: https://www.aclweb.org/anthology/D09-1109
+  year: '2009'
+D09-1110:
+  address: Singapore
+  author:
+  - first: Roy
+    full: Roy Bar-Haim
+    id: roy-bar-haim
+    last: Bar-Haim
+  - first: Jonathan
+    full: Jonathan Berant
+    id: jonathan-berant
+    last: Berant
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Roy Bar-Haim, Jonathan Berant, Ido Dagan
+  bibkey: bar-haim-etal-2009-compact
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1056'
+  page_last: '1065'
+  pages: "1056\u20131065"
+  paper_id: '110'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1110.jpg
+  title: A Compact Forest for Scalable Inference over Entailment and Paraphrase Rules
+  title_html: A Compact Forest for Scalable Inference over Entailment and Paraphrase
+    Rules
+  url: https://www.aclweb.org/anthology/D09-1110
+  year: '2009'
+D09-1111:
+  address: Singapore
+  author:
+  - first: Colin
+    full: Colin Cherry
+    id: colin-cherry
+    last: Cherry
+  - first: Hisami
+    full: Hisami Suzuki
+    id: hisami-suzuki
+    last: Suzuki
+  author_string: Colin Cherry, Hisami Suzuki
+  bibkey: cherry-suzuki-2009-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1066'
+  page_last: '1075'
+  pages: "1066\u20131075"
+  paper_id: '111'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1111.jpg
+  title: Discriminative Substring Decoding for Transliteration
+  title_html: Discriminative Substring Decoding for Transliteration
+  url: https://www.aclweb.org/anthology/D09-1111
+  year: '2009'
+D09-1112:
+  address: Singapore
+  author:
+  - first: Marco
+    full: Marco Dinarelli
+    id: marco-dinarelli
+    last: Dinarelli
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  author_string: Marco Dinarelli, Alessandro Moschitti, Giuseppe Riccardi
+  bibkey: dinarelli-etal-2009-ranking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1076'
+  page_last: '1085'
+  pages: "1076\u20131085"
+  paper_id: '112'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1112.jpg
+  title: Re-Ranking Models Based-on Small Training Data for Spoken Language Understanding
+  title_html: Re-Ranking Models Based-on Small Training Data for Spoken Language Understanding
+  url: https://www.aclweb.org/anthology/D09-1112
+  year: '2009'
+D09-1113:
+  address: Singapore
+  author:
+  - first: Anlei
+    full: Anlei Dong
+    id: anlei-dong
+    last: Dong
+  - first: Yi
+    full: Yi Chang
+    id: yi-chang
+    last: Chang
+  - first: Shihao
+    full: Shihao Ji
+    id: shihao-ji
+    last: Ji
+  - first: Ciya
+    full: Ciya Liao
+    id: ciya-liao
+    last: Liao
+  - first: Xin
+    full: Xin Li
+    id: xin-li
+    last: Li
+  - first: Zhaohui
+    full: Zhaohui Zheng
+    id: zhaohui-zheng
+    last: Zheng
+  author_string: Anlei Dong, Yi Chang, Shihao Ji, Ciya Liao, Xin Li, Zhaohui Zheng
+  bibkey: dong-etal-2009-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1086'
+  page_last: '1095'
+  pages: "1086\u20131095"
+  paper_id: '113'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1113.jpg
+  title: Empirical Exploitation of Click Data for Task Specific Ranking
+  title_html: Empirical Exploitation of Click Data for Task Specific Ranking
+  url: https://www.aclweb.org/anthology/D09-1113
+  year: '2009'
+D09-1114:
+  address: Singapore
+  author:
+  - first: Nan
+    full: Nan Duan
+    id: nan-duan
+    last: Duan
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Tong
+    full: Tong Xiao
+    id: tong-xiao
+    last: Xiao
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Nan Duan, Mu Li, Tong Xiao, Ming Zhou
+  bibkey: duan-etal-2009-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1096'
+  page_last: '1104'
+  pages: "1096\u20131104"
+  paper_id: '114'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1114.jpg
+  title: The Feature Subspace Method for SMT System Combination
+  title_html: The <span class="acl-fixed-case">F</span>eature <span class="acl-fixed-case">S</span>ubspace
+    Method for <span class="acl-fixed-case">SMT</span> System Combination
+  url: https://www.aclweb.org/anthology/D09-1114
+  year: '2009'
+D09-1115:
+  address: Singapore
+  author:
+  - first: Yang
+    full: Yang Feng
+    id: yang-feng
+    last: Feng
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Haitao
+    full: Haitao Mi
+    id: haitao-mi
+    last: Mi
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Yajuan
+    full: "Yajuan L\xFC"
+    id: yajuan-lu
+    last: "L\xFC"
+  author_string: "Yang Feng, Yang Liu, Haitao Mi, Qun Liu, Yajuan L\xFC"
+  bibkey: feng-etal-2009-lattice
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1105'
+  page_last: '1113'
+  pages: "1105\u20131113"
+  paper_id: '115'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1115.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1115.jpg
+  title: Lattice-based System Combination for Statistical Machine Translation
+  title_html: Lattice-based System Combination for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1115
+  year: '2009'
+D09-1116:
+  address: Singapore
+  author:
+  - first: Denis
+    full: Denis Filimonov
+    id: denis-filimonov
+    last: Filimonov
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  author_string: Denis Filimonov, Mary Harper
+  bibkey: filimonov-harper-2009-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1114'
+  page_last: '1123'
+  pages: "1114\u20131123"
+  paper_id: '116'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1116.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1116.jpg
+  title: A Joint Language Model With Fine-grain Syntactic Tags
+  title_html: A Joint Language Model With Fine-grain Syntactic Tags
+  url: https://www.aclweb.org/anthology/D09-1116
+  year: '2009'
+D09-1117:
+  address: Singapore
+  author:
+  - first: Andrew
+    full: Andrew Finch
+    id: andrew-finch
+    last: Finch
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  author_string: Andrew Finch, Eiichiro Sumita
+  bibkey: finch-sumita-2009-bidirectional
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1124'
+  page_last: '1132'
+  pages: "1124\u20131132"
+  paper_id: '117'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1117.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1117.jpg
+  title: Bidirectional Phrase-based Statistical Machine Translation
+  title_html: Bidirectional Phrase-based Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1117
+  year: '2009'
+D09-1118:
+  address: Singapore
+  author:
+  - first: Matthew
+    full: Matthew Frampton
+    id: matthew-frampton
+    last: Frampton
+  - first: Jia
+    full: Jia Huang
+    id: jia-huang
+    last: Huang
+  - first: Trung
+    full: Trung Bui
+    id: trung-bui
+    last: Bui
+  - first: Stanley
+    full: Stanley Peters
+    id: stanley-peters
+    last: Peters
+  author_string: Matthew Frampton, Jia Huang, Trung Bui, Stanley Peters
+  bibkey: frampton-etal-2009-real
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1133'
+  page_last: '1141'
+  pages: "1133\u20131141"
+  paper_id: '118'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1118.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1118.jpg
+  title: Real-time decision detection in multi-party dialogue
+  title_html: Real-time decision detection in multi-party dialogue
+  url: https://www.aclweb.org/anthology/D09-1118
+  year: '2009'
+D09-1119:
+  address: Singapore
+  author:
+  - first: Yoav
+    full: Yoav Goldberg
+    id: yoav-goldberg
+    last: Goldberg
+  - first: Michael
+    full: Michael Elhadad
+    id: michael-elhadad
+    last: Elhadad
+  author_string: Yoav Goldberg, Michael Elhadad
+  bibkey: goldberg-elhadad-2009-role
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1142'
+  page_last: '1151'
+  pages: "1142\u20131151"
+  paper_id: '119'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1119.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1119.jpg
+  title: On the Role of Lexical Features in Sequence Labeling
+  title_html: On the Role of Lexical Features in Sequence Labeling
+  url: https://www.aclweb.org/anthology/D09-1119
+  year: '2009'
+D09-1120:
+  address: Singapore
+  author:
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Aria Haghighi, Dan Klein
+  bibkey: haghighi-klein-2009-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1152'
+  page_last: '1161'
+  pages: "1152\u20131161"
+  paper_id: '120'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1120.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1120.jpg
+  title: Simple Coreference Resolution with Rich Syntactic and Semantic Features
+  title_html: Simple Coreference Resolution with Rich Syntactic and Semantic Features
+  url: https://www.aclweb.org/anthology/D09-1120
+  year: '2009'
+D09-1121:
+  address: Singapore
+  author:
+  - first: Tadayoshi
+    full: Tadayoshi Hara
+    id: tadayoshi-hara
+    last: Hara
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Tadayoshi Hara, Yusuke Miyao, Jun\u2019ichi Tsujii"
+  bibkey: hara-etal-2009-descriptive
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1162'
+  page_last: '1171'
+  pages: "1162\u20131171"
+  paper_id: '121'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1121.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1121.jpg
+  title: Descriptive and Empirical Approaches to Capturing Underlying Dependencies
+    among Parsing Errors
+  title_html: Descriptive and Empirical Approaches to Capturing Underlying Dependencies
+    among Parsing Errors
+  url: https://www.aclweb.org/anthology/D09-1121
+  year: '2009'
+D09-1122:
+  address: Singapore
+  author:
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: Kow
+    full: Kow Kuroda
+    id: kow-kuroda
+    last: Kuroda
+  - first: Stijn
+    full: Stijn De Saeger
+    id: stijn-de-saeger
+    last: De Saeger
+  - first: Masaki
+    full: Masaki Murata
+    id: masaki-murata
+    last: Murata
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  author_string: "Chikara Hashimoto, Kentaro Torisawa, Kow Kuroda, Stijn De Saeger,\
+    \ Masaki Murata, Jun\u2019ichi Kazama"
+  bibkey: hashimoto-etal-2009-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1172'
+  page_last: '1181'
+  pages: "1172\u20131181"
+  paper_id: '122'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1122.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1122.jpg
+  title: Large-Scale Verb Entailment Acquisition from the Web
+  title_html: Large-Scale Verb Entailment Acquisition from the <span class="acl-fixed-case">W</span>eb
+  url: https://www.aclweb.org/anthology/D09-1122
+  year: '2009'
+D09-1123:
+  address: Singapore
+  author:
+  - first: Hany
+    full: Hany Hassan
+    id: hany-hassan
+    last: Hassan
+  - first: Khalil
+    full: "Khalil Sima\u2019an"
+    id: khalil-simaan
+    last: "Sima\u2019an"
+  - first: Andy
+    full: Andy Way
+    id: andy-way
+    last: Way
+  author_string: "Hany Hassan, Khalil Sima\u2019an, Andy Way"
+  bibkey: hassan-etal-2009-syntactified
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1182'
+  page_last: '1191'
+  pages: "1182\u20131191"
+  paper_id: '123'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1123.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1123.jpg
+  title: A Syntactified Direct Translation Model with Linear-time Decoding
+  title_html: A Syntactified Direct Translation Model with Linear-time Decoding
+  url: https://www.aclweb.org/anthology/D09-1123
+  year: '2009'
+D09-1124:
+  address: Singapore
+  author:
+  - first: Samer
+    full: Samer Hassan
+    id: samer-hassan
+    last: Hassan
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Samer Hassan, Rada Mihalcea
+  bibkey: hassan-mihalcea-2009-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1192'
+  page_last: '1201'
+  pages: "1192\u20131201"
+  paper_id: '124'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1124.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1124.jpg
+  title: Cross-lingual Semantic Relatedness Using Encyclopedic Knowledge
+  title_html: Cross-lingual Semantic Relatedness Using Encyclopedic Knowledge
+  url: https://www.aclweb.org/anthology/D09-1124
+  year: '2009'
+D09-1125:
+  address: Singapore
+  author:
+  - first: Xiaodong
+    full: Xiaodong He
+    id: xiaodong-he
+    last: He
+  - first: Kristina
+    full: Kristina Toutanova
+    id: kristina-toutanova
+    last: Toutanova
+  author_string: Xiaodong He, Kristina Toutanova
+  bibkey: he-toutanova-2009-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1202'
+  page_last: '1211'
+  pages: "1202\u20131211"
+  paper_id: '125'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1125.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1125.jpg
+  title: Joint Optimization for Machine Translation System Combination
+  title_html: Joint Optimization for Machine Translation System Combination
+  url: https://www.aclweb.org/anthology/D09-1125
+  year: '2009'
+D09-1126:
+  address: Singapore
+  author:
+  - first: Matthew
+    full: Matthew Honnibal
+    id: matthew-honnibal
+    last: Honnibal
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: Matthew Honnibal, James R. Curran
+  bibkey: honnibal-curran-2009-fully
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1212'
+  page_last: '1221'
+  pages: "1212\u20131221"
+  paper_id: '126'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1126.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1126.jpg
+  title: Fully Lexicalising CCGbank with Hat Categories
+  title_html: Fully Lexicalising <span class="acl-fixed-case">CCG</span>bank with
+    Hat Categories
+  url: https://www.aclweb.org/anthology/D09-1126
+  year: '2009'
+D09-1127:
+  address: Singapore
+  author:
+  - first: Liang
+    full: Liang Huang
+    id: liang-huang
+    last: Huang
+  - first: Wenbin
+    full: Wenbin Jiang
+    id: wenbin-jiang
+    last: Jiang
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Liang Huang, Wenbin Jiang, Qun Liu
+  bibkey: huang-etal-2009-bilingually
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1222'
+  page_last: '1231'
+  pages: "1222\u20131231"
+  paper_id: '127'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1127.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1127.jpg
+  title: Bilingually-Constrained (Monolingual) Shift-Reduce Parsing
+  title_html: Bilingually-Constrained (Monolingual) Shift-Reduce Parsing
+  url: https://www.aclweb.org/anthology/D09-1127
+  year: '2009'
+D09-1128:
+  address: Singapore
+  author:
+  - first: Zhiheng
+    full: Zhiheng Huang
+    id: zhiheng-huang
+    last: Huang
+  - first: Guangping
+    full: Guangping Zeng
+    id: guangping-zeng
+    last: Zeng
+  - first: Weiqun
+    full: Weiqun Xu
+    id: weiqun-xu
+    last: Xu
+  - first: Asli
+    full: Asli Celikyilmaz
+    id: asli-celikyilmaz
+    last: Celikyilmaz
+  author_string: Zhiheng Huang, Guangping Zeng, Weiqun Xu, Asli Celikyilmaz
+  bibkey: huang-etal-2009-accurate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1232'
+  page_last: '1240'
+  pages: "1232\u20131240"
+  paper_id: '128'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1128.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1128.jpg
+  title: Accurate Semantic Class Classifier for Coreference Resolution
+  title_html: Accurate Semantic Class Classifier for Coreference Resolution
+  url: https://www.aclweb.org/anthology/D09-1128
+  year: '2009'
+D09-1129:
+  address: Singapore
+  author:
+  - first: Aminul
+    full: Aminul Islam
+    id: aminul-islam
+    last: Islam
+  - first: Diana
+    full: Diana Inkpen
+    id: diana-inkpen
+    last: Inkpen
+  author_string: Aminul Islam, Diana Inkpen
+  bibkey: islam-inkpen-2009-real
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1241'
+  page_last: '1249'
+  pages: "1241\u20131249"
+  paper_id: '129'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1129.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1129.jpg
+  title: Real-Word Spelling Correction using Google Web 1T 3-grams
+  title_html: Real-Word Spelling Correction using <span class="acl-fixed-case">G</span>oogle
+    <span class="acl-fixed-case">W</span>eb 1<span class="acl-fixed-case">T</span>
+    3-grams
+  url: https://www.aclweb.org/anthology/D09-1129
+  year: '2009'
+D09-1130:
+  address: Singapore
+  author:
+  - first: Minwoo
+    full: Minwoo Jeong
+    id: minwoo-jeong
+    last: Jeong
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Gary Geunbae
+    full: Gary Geunbae Lee
+    id: gary-geunbae-lee
+    last: Lee
+  author_string: Minwoo Jeong, Chin-Yew Lin, Gary Geunbae Lee
+  bibkey: jeong-etal-2009-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1250'
+  page_last: '1259'
+  pages: "1250\u20131259"
+  paper_id: '130'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1130.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1130.jpg
+  title: Semi-supervised Speech Act Recognition in Emails and Forums
+  title_html: Semi-supervised Speech Act Recognition in Emails and Forums
+  url: https://www.aclweb.org/anthology/D09-1130
+  year: '2009'
+D09-1131:
+  address: Singapore
+  author:
+  - first: Lun-Wei
+    full: Lun-Wei Ku
+    id: lun-wei-ku
+    last: Ku
+  - first: Ting-Hao
+    full: Ting-Hao Huang
+    id: ting-hao-huang
+    last: Huang
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Lun-Wei Ku, Ting-Hao Huang, Hsin-Hsi Chen
+  bibkey: ku-etal-2009-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1260'
+  page_last: '1269'
+  pages: "1260\u20131269"
+  paper_id: '131'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1131.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1131.jpg
+  title: Using Morphological and Syntactic Structures for Chinese Opinion Analysis
+  title_html: Using Morphological and Syntactic Structures for <span class="acl-fixed-case">C</span>hinese
+    Opinion Analysis
+  url: https://www.aclweb.org/anthology/D09-1131
+  year: '2009'
+D09-1132:
+  address: Singapore
+  author:
+  - first: Gerasimos
+    full: Gerasimos Lampouras
+    id: gerasimos-lampouras
+    last: Lampouras
+  - first: Ion
+    full: Ion Androutsopoulos
+    id: ion-androutsopoulos
+    last: Androutsopoulos
+  author_string: Gerasimos Lampouras, Ion Androutsopoulos
+  bibkey: lampouras-androutsopoulos-2009-finding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1270'
+  page_last: '1279'
+  pages: "1270\u20131279"
+  paper_id: '132'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1132.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1132.jpg
+  title: Finding Short Definitions of Terms on Web Pages
+  title_html: Finding Short Definitions of Terms on <span class="acl-fixed-case">W</span>eb
+    Pages
+  url: https://www.aclweb.org/anthology/D09-1132
+  year: '2009'
+D09-1133:
+  address: Singapore
+  author:
+  - first: Junhui
+    full: Junhui Li
+    id: junhui-li
+    last: Li
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Hai
+    full: Hai Zhao
+    id: hai-zhao
+    last: Zhao
+  - first: Qiaoming
+    full: Qiaoming Zhu
+    id: qiaoming-zhu
+    last: Zhu
+  - first: Peide
+    full: Peide Qian
+    id: peide-qian
+    last: Qian
+  author_string: Junhui Li, Guodong Zhou, Hai Zhao, Qiaoming Zhu, Peide Qian
+  bibkey: li-etal-2009-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1280'
+  page_last: '1288'
+  pages: "1280\u20131288"
+  paper_id: '133'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1133.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1133.jpg
+  title: Improving Nominal SRL in Chinese Language with Verbal SRL Information and
+    Automatic Predicate Recognition
+  title_html: Improving Nominal <span class="acl-fixed-case">SRL</span> in <span class="acl-fixed-case">C</span>hinese
+    Language with Verbal <span class="acl-fixed-case">SRL</span> Information and Automatic
+    Predicate Recognition
+  url: https://www.aclweb.org/anthology/D09-1133
+  year: '2009'
+D09-1134:
+  address: Singapore
+  author:
+  - first: Xiao
+    full: Xiao Li
+    id: xiao-li
+    last: Li
+  author_string: Xiao Li
+  bibkey: li-2009-use
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1289'
+  page_last: '1297'
+  pages: "1289\u20131297"
+  paper_id: '134'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1134.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1134.jpg
+  title: On the Use of Virtual Evidence in Conditional Random Fields
+  title_html: On the Use of Virtual Evidence in Conditional Random Fields
+  url: https://www.aclweb.org/anthology/D09-1134
+  year: '2009'
+D09-1135:
+  address: Singapore
+  author:
+  - first: Xiaojun
+    full: Xiaojun Lin
+    id: xiaojun-lin
+    last: Lin
+  - first: Yang
+    full: Yang Fan
+    id: yang-fan
+    last: Fan
+  - first: Meng
+    full: Meng Zhang
+    id: meng-zhang
+    last: Zhang
+  - first: Xihong
+    full: Xihong Wu
+    id: xihong-wu
+    last: Wu
+  - first: Huisheng
+    full: Huisheng Chi
+    id: huisheng-chi
+    last: Chi
+  author_string: Xiaojun Lin, Yang Fan, Meng Zhang, Xihong Wu, Huisheng Chi
+  bibkey: lin-etal-2009-refining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1298'
+  page_last: '1307'
+  pages: "1298\u20131307"
+  paper_id: '135'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1135.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1135.jpg
+  title: Refining Grammars for Parsing with Hierarchical Semantic Knowledge
+  title_html: Refining Grammars for Parsing with Hierarchical Semantic Knowledge
+  url: https://www.aclweb.org/anthology/D09-1135
+  year: '2009'
+D09-1136:
+  address: Singapore
+  author:
+  - first: Ding
+    full: Ding Liu
+    id: ding-liu
+    last: Liu
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  author_string: Ding Liu, Daniel Gildea
+  bibkey: liu-gildea-2009-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1308'
+  page_last: '1317'
+  pages: "1308\u20131317"
+  paper_id: '136'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1136.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1136.jpg
+  title: Bayesian Learning of Phrasal Tree-to-String Templates
+  title_html: <span class="acl-fixed-case">B</span>ayesian Learning of Phrasal Tree-to-String
+    Templates
+  url: https://www.aclweb.org/anthology/D09-1136
+  year: '2009'
+D09-1137:
+  address: Singapore
+  author:
+  - first: Olena
+    full: Olena Medelyan
+    id: olena-medelyan
+    last: Medelyan
+  - first: Eibe
+    full: Eibe Frank
+    id: eibe-frank
+    last: Frank
+  - first: Ian H.
+    full: Ian H. Witten
+    id: ian-h-witten
+    last: Witten
+  author_string: Olena Medelyan, Eibe Frank, Ian H. Witten
+  bibkey: medelyan-etal-2009-human
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1318'
+  page_last: '1327'
+  pages: "1318\u20131327"
+  paper_id: '137'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1137.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1137.jpg
+  title: Human-competitive tagging using automatic keyphrase extraction
+  title_html: Human-competitive tagging using automatic keyphrase extraction
+  url: https://www.aclweb.org/anthology/D09-1137
+  year: '2009'
+D09-1138:
+  address: Singapore
+  author:
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Yusuke Miyao, Jun\u2019ichi Tsujii"
+  bibkey: miyao-tsujii-2009-supervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1328'
+  page_last: '1337'
+  pages: "1328\u20131337"
+  paper_id: '138'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1138.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1138.jpg
+  title: Supervised Learning of a Probabilistic Lexicon of Verb Semantic Classes
+  title_html: Supervised Learning of a Probabilistic Lexicon of Verb Semantic Classes
+  url: https://www.aclweb.org/anthology/D09-1138
+  year: '2009'
+D09-1139:
+  address: Singapore
+  author:
+  - first: Christof
+    full: "Christof M\xFCller"
+    id: christof-muller
+    last: "M\xFCller"
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: "Christof M\xFCller, Iryna Gurevych"
+  bibkey: muller-gurevych-2009-study
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1338'
+  page_last: '1347'
+  pages: "1338\u20131347"
+  paper_id: '139'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1139.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1139.jpg
+  title: A Study on the Semantic Relatedness of Query and Document Terms in Information
+    Retrieval
+  title_html: A Study on the Semantic Relatedness of Query and Document Terms in Information
+    Retrieval
+  url: https://www.aclweb.org/anthology/D09-1139
+  year: '2009'
+D09-1140:
+  address: Singapore
+  author:
+  - first: Gabriel
+    full: Gabriel Murray
+    id: gabriel-murray
+    last: Murray
+  - first: Giuseppe
+    full: Giuseppe Carenini
+    id: giuseppe-carenini
+    last: Carenini
+  author_string: Gabriel Murray, Giuseppe Carenini
+  bibkey: murray-carenini-2009-predicting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1348'
+  page_last: '1357'
+  pages: "1348\u20131357"
+  paper_id: '140'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1140.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1140.jpg
+  title: Predicting Subjectivity in Multimodal Conversations
+  title_html: Predicting Subjectivity in Multimodal Conversations
+  url: https://www.aclweb.org/anthology/D09-1140
+  year: '2009'
+D09-1141:
+  address: Singapore
+  author:
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Preslav Nakov, Hwee Tou Ng
+  bibkey: nakov-ng-2009-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1358'
+  page_last: '1367'
+  pages: "1358\u20131367"
+  paper_id: '141'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1141.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1141.jpg
+  title: Improved Statistical Machine Translation for Resource-Poor Languages Using
+    Related Resource-Rich Languages
+  title_html: Improved Statistical Machine Translation for Resource-Poor Languages
+    Using Related Resource-Rich Languages
+  url: https://www.aclweb.org/anthology/D09-1141
+  year: '2009'
+D09-1142:
+  address: Singapore
+  author:
+  - first: Vivi
+    full: Vivi Nastase
+    id: vivi-nastase
+    last: Nastase
+  - first: Marius
+    full: Marius Popescu
+    id: marius-popescu
+    last: Popescu
+  author_string: Vivi Nastase, Marius Popescu
+  bibkey: nastase-popescu-2009-whats
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1368'
+  page_last: '1377'
+  pages: "1368\u20131377"
+  paper_id: '142'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1142.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1142.jpg
+  title: "What\u2019s in a name? In some languages, grammatical gender"
+  title_html: "What\u2019s in a name? <span class=\"acl-fixed-case\">I</span>n some\
+    \ languages, grammatical gender"
+  url: https://www.aclweb.org/anthology/D09-1142
+  year: '2009'
+D09-1143:
+  address: Singapore
+  author:
+  - first: Truc-Vien T.
+    full: Truc-Vien T. Nguyen
+    id: truc-vien-t-nguyen
+    last: Nguyen
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  author_string: Truc-Vien T. Nguyen, Alessandro Moschitti, Giuseppe Riccardi
+  bibkey: nguyen-etal-2009-convolution
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1378'
+  page_last: '1387'
+  pages: "1378\u20131387"
+  paper_id: '143'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1143.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1143.jpg
+  title: Convolution Kernels on Constituent, Dependency and Sequential Structures
+    for Relation Extraction
+  title_html: Convolution Kernels on Constituent, Dependency and Sequential Structures
+    for Relation Extraction
+  url: https://www.aclweb.org/anthology/D09-1143
+  year: '2009'
+D09-1144:
+  address: Singapore
+  author:
+  - first: Ekaterina
+    full: Ekaterina Ovchinnikova
+    id: ekaterina-ovchinnikova
+    last: Ovchinnikova
+  - first: Theodore
+    full: Theodore Alexandrov
+    id: theodore-alexandrov
+    last: Alexandrov
+  - first: Tonio
+    full: Tonio Wandmacher
+    id: tonio-wandmacher
+    last: Wandmacher
+  author_string: Ekaterina Ovchinnikova, Theodore Alexandrov, Tonio Wandmacher
+  bibkey: ovchinnikova-etal-2009-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1388'
+  page_last: '1397'
+  pages: "1388\u20131397"
+  paper_id: '144'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1144.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1144.jpg
+  title: Automatic Acquisition of the Argument-Predicate Relations from a Frame-Annotated
+    Corpus
+  title_html: Automatic Acquisition of the <i>Argument-Predicate</i> Relations from
+    a Frame-Annotated Corpus
+  url: https://www.aclweb.org/anthology/D09-1144
+  year: '2009'
+D09-1145:
+  address: Singapore
+  author:
+  - first: Arzucan
+    full: "Arzucan \xD6zg\xFCr"
+    id: arzucan-ozgur
+    last: "\xD6zg\xFCr"
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: "Arzucan \xD6zg\xFCr, Dragomir R. Radev"
+  bibkey: ozgur-radev-2009-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1398'
+  page_last: '1407'
+  pages: "1398\u20131407"
+  paper_id: '145'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1145.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1145.jpg
+  title: Detecting Speculations and their Scopes in Scientific Text
+  title_html: Detecting Speculations and their Scopes in Scientific Text
+  url: https://www.aclweb.org/anthology/D09-1145
+  year: '2009'
+D09-1146:
+  address: Singapore
+  author:
+  - first: Michael
+    full: Michael Paul
+    id: michael-paul
+    last: Paul
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  author_string: Michael Paul, Roxana Girju
+  bibkey: paul-girju-2009-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1408'
+  page_last: '1417'
+  pages: "1408\u20131417"
+  paper_id: '146'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1146.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1146.jpg
+  title: Cross-Cultural Analysis of Blogs and Forums with Mixed-Collection Topic Models
+  title_html: Cross-Cultural Analysis of Blogs and Forums with Mixed-Collection Topic
+    Models
+  url: https://www.aclweb.org/anthology/D09-1146
+  year: '2009'
+D09-1147:
+  address: Singapore
+  author:
+  - first: Adam
+    full: Adam Pauls
+    id: adam-pauls
+    last: Pauls
+  - first: John
+    full: John DeNero
+    id: john-denero
+    last: DeNero
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Adam Pauls, John DeNero, Dan Klein
+  bibkey: pauls-etal-2009-consensus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1418'
+  page_last: '1427'
+  pages: "1418\u20131427"
+  paper_id: '147'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1147.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1147.jpg
+  title: Consensus Training for Consensus Decoding in Machine Translation
+  title_html: Consensus Training for Consensus Decoding in Machine Translation
+  url: https://www.aclweb.org/anthology/D09-1147
+  year: '2009'
+D09-1148:
+  address: Singapore
+  author:
+  - first: Emily
+    full: Emily Pitler
+    id: emily-pitler
+    last: Pitler
+  - first: Ken
+    full: Ken Church
+    id: kenneth-church
+    last: Church
+  author_string: Emily Pitler, Ken Church
+  bibkey: pitler-church-2009-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1428'
+  page_last: '1436'
+  pages: "1428\u20131436"
+  paper_id: '148'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1148.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1148.jpg
+  title: Using Word-Sense Disambiguation Methods to Classify Web Queries by Intent
+  title_html: Using Word-Sense Disambiguation Methods to Classify Web Queries by Intent
+  url: https://www.aclweb.org/anthology/D09-1148
+  year: '2009'
+D09-1149:
+  address: Singapore
+  author:
+  - first: Longhua
+    full: Longhua Qian
+    id: longhua-qian
+    last: Qian
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  - first: Fang
+    full: Fang Kong
+    id: fang-kong
+    last: Kong
+  - first: Qiaoming
+    full: Qiaoming Zhu
+    id: qiaoming-zhu
+    last: Zhu
+  author_string: Longhua Qian, Guodong Zhou, Fang Kong, Qiaoming Zhu
+  bibkey: qian-etal-2009-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1437'
+  page_last: '1445'
+  pages: "1437\u20131445"
+  paper_id: '149'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1149.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1149.jpg
+  title: Semi-Supervised Learning for Semantic Relation Classification using Stratified
+    Sampling Strategy
+  title_html: Semi-Supervised Learning for Semantic Relation Classification using
+    Stratified Sampling Strategy
+  url: https://www.aclweb.org/anthology/D09-1149
+  year: '2009'
+D09-1150:
+  address: Singapore
+  author:
+  - first: Changqin
+    full: Changqin Quan
+    id: changqin-quan
+    last: Quan
+  - first: Fuji
+    full: Fuji Ren
+    id: fuji-ren
+    last: Ren
+  author_string: Changqin Quan, Fuji Ren
+  bibkey: quan-ren-2009-construction
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1446'
+  page_last: '1454'
+  pages: "1446\u20131454"
+  paper_id: '150'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1150.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1150.jpg
+  title: Construction of a Blog Emotion Corpus for Chinese Emotional Expression Analysis
+  title_html: Construction of a Blog Emotion Corpus for <span class="acl-fixed-case">C</span>hinese
+    Emotional Expression Analysis
+  url: https://www.aclweb.org/anthology/D09-1150
+  year: '2009'
+D09-1151:
+  address: Singapore
+  author:
+  - first: Ryohei
+    full: Ryohei Sasano
+    id: ryohei-sasano
+    last: Sasano
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Ryohei Sasano, Sadao Kurohashi
+  bibkey: sasano-kurohashi-2009-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1455'
+  page_last: '1464'
+  pages: "1455\u20131464"
+  paper_id: '151'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1151.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1151.jpg
+  title: A Probabilistic Model for Associative Anaphora Resolution
+  title_html: A Probabilistic Model for Associative Anaphora Resolution
+  url: https://www.aclweb.org/anthology/D09-1151
+  year: '2009'
+D09-1152:
+  address: Singapore
+  author:
+  - first: Prakash
+    full: Prakash Srinivasan
+    id: prakash-srinivasan
+    last: Srinivasan
+  - first: Alexander
+    full: Alexander Yates
+    id: alexander-yates
+    last: Yates
+  author_string: Prakash Srinivasan, Alexander Yates
+  bibkey: srinivasan-yates-2009-quantifier
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1465'
+  page_last: '1474'
+  pages: "1465\u20131474"
+  paper_id: '152'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1152.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1152.jpg
+  title: 'Quantifier Scope Disambiguation Using Extracted Pragmatic Knowledge: Preliminary
+    Results'
+  title_html: 'Quantifier Scope Disambiguation Using Extracted Pragmatic Knowledge:
+    Preliminary Results'
+  url: https://www.aclweb.org/anthology/D09-1152
+  year: '2009'
+D09-1153:
+  address: Singapore
+  author:
+  - first: Weiwei
+    full: Weiwei Sun
+    id: weiwei-sun
+    last: Sun
+  - first: Zhifang
+    full: Zhifang Sui
+    id: zhifang-sui
+    last: Sui
+  - first: Meng
+    full: Meng Wang
+    id: meng-wang
+    last: Wang
+  - first: Xin
+    full: Xin Wang
+    id: xin-wang
+    last: Wang
+  author_string: Weiwei Sun, Zhifang Sui, Meng Wang, Xin Wang
+  bibkey: sun-etal-2009-chinese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1475'
+  page_last: '1483'
+  pages: "1475\u20131483"
+  paper_id: '153'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1153.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1153.jpg
+  title: Chinese Semantic Role Labeling with Shallow Parsing
+  title_html: <span class="acl-fixed-case">C</span>hinese Semantic Role Labeling with
+    Shallow Parsing
+  url: https://www.aclweb.org/anthology/D09-1153
+  year: '2009'
+D09-1154:
+  address: Singapore
+  author:
+  - first: Hisami
+    full: Hisami Suzuki
+    id: hisami-suzuki
+    last: Suzuki
+  - first: Xiao
+    full: Xiao Li
+    id: xiao-li
+    last: Li
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  author_string: Hisami Suzuki, Xiao Li, Jianfeng Gao
+  bibkey: suzuki-etal-2009-discovery
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1484'
+  page_last: '1492'
+  pages: "1484\u20131492"
+  paper_id: '154'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1154.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1154.jpg
+  title: Discovery of Term Variation in Japanese Web Search Queries
+  title_html: Discovery of Term Variation in <span class="acl-fixed-case">J</span>apanese
+    Web Search Queries
+  url: https://www.aclweb.org/anthology/D09-1154
+  year: '2009'
+D09-1155:
+  address: Singapore
+  author:
+  - first: Simone
+    full: Simone Teufel
+    id: simone-teufel
+    last: Teufel
+  - first: Advaith
+    full: Advaith Siddharthan
+    id: advaith-siddharthan
+    last: Siddharthan
+  - first: Colin
+    full: Colin Batchelor
+    id: colin-batchelor
+    last: Batchelor
+  author_string: Simone Teufel, Advaith Siddharthan, Colin Batchelor
+  bibkey: teufel-etal-2009-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1493'
+  page_last: '1502'
+  pages: "1493\u20131502"
+  paper_id: '155'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1155.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1155.jpg
+  title: 'Towards Domain-Independent Argumentative Zoning: Evidence from Chemistry
+    and Computational Linguistics'
+  title_html: 'Towards Domain-Independent Argumentative Zoning: Evidence from Chemistry
+    and Computational Linguistics'
+  url: https://www.aclweb.org/anthology/D09-1155
+  year: '2009'
+D09-1156:
+  address: Singapore
+  author:
+  - first: Richard C.
+    full: Richard C. Wang
+    id: richard-c-wang
+    last: Wang
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  author_string: Richard C. Wang, William W. Cohen
+  bibkey: wang-cohen-2009-character
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1503'
+  page_last: '1512'
+  pages: "1503\u20131512"
+  paper_id: '156'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1156.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1156.jpg
+  title: Character-level Analysis of Semi-Structured Documents for Set Expansion
+  title_html: Character-level Analysis of Semi-Structured Documents for Set Expansion
+  url: https://www.aclweb.org/anthology/D09-1156
+  year: '2009'
+D09-1157:
+  address: Singapore
+  author:
+  - first: Xinglong
+    full: Xinglong Wang
+    id: xinglong-wang
+    last: Wang
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  - first: Sophia
+    full: Sophia Ananiadou
+    id: sophia-ananiadou
+    last: Ananiadou
+  author_string: "Xinglong Wang, Jun\u2019ichi Tsujii, Sophia Ananiadou"
+  bibkey: wang-etal-2009-classifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1513'
+  page_last: '1522'
+  pages: "1513\u20131522"
+  paper_id: '157'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1157.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1157.jpg
+  title: Classifying Relations for Biomedical Named Entity Disambiguation
+  title_html: Classifying Relations for Biomedical Named Entity Disambiguation
+  url: https://www.aclweb.org/anthology/D09-1157
+  year: '2009'
+D09-1158:
+  address: Singapore
+  author:
+  - first: Dan
+    full: Dan Wu
+    id: dan-wu
+    last: Wu
+  - first: Wee Sun
+    full: Wee Sun Lee
+    id: wee-sun-lee
+    last: Lee
+  - first: Nan
+    full: Nan Ye
+    id: nan-ye
+    last: Ye
+  - first: Hai Leong
+    full: Hai Leong Chieu
+    id: hai-leong-chieu
+    last: Chieu
+  author_string: Dan Wu, Wee Sun Lee, Nan Ye, Hai Leong Chieu
+  bibkey: wu-etal-2009-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1523'
+  page_last: '1532'
+  pages: "1523\u20131532"
+  paper_id: '158'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1158.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1158.jpg
+  title: Domain adaptive bootstrapping for named entity recognition
+  title_html: Domain adaptive bootstrapping for named entity recognition
+  url: https://www.aclweb.org/anthology/D09-1158
+  year: '2009'
+D09-1159:
+  address: Singapore
+  author:
+  - first: Yuanbin
+    full: Yuanbin Wu
+    id: yuanbin-wu
+    last: Wu
+  - first: Qi
+    full: Qi Zhang
+    id: qi-zhang
+    last: Zhang
+  - first: Xuanjing
+    full: Xuanjing Huang
+    id: xuan-jing-huang
+    last: Huang
+  - first: Lide
+    full: Lide Wu
+    id: lide-wu
+    last: Wu
+  author_string: Yuanbin Wu, Qi Zhang, Xuanjing Huang, Lide Wu
+  bibkey: wu-etal-2009-phrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1533'
+  page_last: '1541'
+  pages: "1533\u20131541"
+  paper_id: '159'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1159.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1159.jpg
+  title: Phrase Dependency Parsing for Opinion Mining
+  title_html: Phrase Dependency Parsing for Opinion Mining
+  url: https://www.aclweb.org/anthology/D09-1159
+  year: '2009'
+D09-1160:
+  address: Singapore
+  author:
+  - first: Naoki
+    full: Naoki Yoshinaga
+    id: naoki-yoshinaga
+    last: Yoshinaga
+  - first: Masaru
+    full: Masaru Kitsuregawa
+    id: masaru-kitsuregawa
+    last: Kitsuregawa
+  author_string: Naoki Yoshinaga, Masaru Kitsuregawa
+  bibkey: yoshinaga-kitsuregawa-2009-polynomial
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1542'
+  page_last: '1551'
+  pages: "1542\u20131551"
+  paper_id: '160'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1160.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1160.jpg
+  title: 'Polynomial to Linear: Efficient Classification with Conjunctive Features'
+  title_html: 'Polynomial to Linear: Efficient Classification with Conjunctive Features'
+  url: https://www.aclweb.org/anthology/D09-1160
+  year: '2009'
+D09-1161:
+  address: Singapore
+  author:
+  - first: Hui
+    full: Hui Zhang
+    id: hui-zhang
+    last: Zhang
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  author_string: Hui Zhang, Min Zhang, Chew Lim Tan, Haizhou Li
+  bibkey: zhang-etal-2009-k
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1552'
+  page_last: '1560'
+  pages: "1552\u20131560"
+  paper_id: '161'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1161.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1161.jpg
+  title: K-Best Combination of Syntactic Parsers
+  title_html: K-Best Combination of Syntactic Parsers
+  url: https://www.aclweb.org/anthology/D09-1161
+  year: '2009'
+D09-1162:
+  address: Singapore
+  author:
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  - first: Flora S.
+    full: Flora S. Tsai
+    id: flora-s-tsai
+    last: Tsai
+  author_string: Yi Zhang, Flora S. Tsai
+  bibkey: zhang-tsai-2009-chinese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1561'
+  page_last: '1570'
+  pages: "1561\u20131570"
+  paper_id: '162'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1162.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1162.jpg
+  title: Chinese Novelty Mining
+  title_html: <span class="acl-fixed-case">C</span>hinese Novelty Mining
+  url: https://www.aclweb.org/anthology/D09-1162
+  year: '2009'
+D09-1163:
+  address: Singapore
+  author:
+  - first: Dong
+    full: Dong Zhou
+    id: dong-zhou
+    last: Zhou
+  - first: Vincent
+    full: Vincent Wade
+    id: vincent-wade
+    last: Wade
+  author_string: Dong Zhou, Vincent Wade
+  bibkey: zhou-wade-2009-latent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2009 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2009 Conference on Empirical Methods in Natural
+    Language Processing
+  month: August
+  page_first: '1571'
+  page_last: '1580'
+  pages: "1571\u20131580"
+  paper_id: '163'
+  parent_volume_id: D09-1
+  pdf: https://www.aclweb.org/anthology/D09-1163.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D09-1163.jpg
+  title: Latent Document Re-Ranking
+  title_html: Latent Document Re-Ranking
+  url: https://www.aclweb.org/anthology/D09-1163
+  year: '2009'

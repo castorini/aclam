@@ -1,0 +1,728 @@
+J05-1000:
+  bibkey: cl-2005-linguistics
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  paper_id: '0'
+  parent_volume_id: J05-1
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1000.jpg
+  title: Computational Linguistics, Volume 31, Number 1, March 2005
+  title_html: Computational Linguistics, Volume 31, Number 1, March 2005
+  year: '2005'
+J05-1001:
+  author:
+  - first: Karen
+    full: "Karen Sp\xE4rck Jones"
+    id: karen-sparck-jones
+    last: "Sp\xE4rck Jones"
+  author_string: "Karen Sp\xE4rck Jones"
+  bibkey: sparck-jones-2005-acl
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  doi: 10.1162/0891201053630237
+  page_first: '1'
+  page_last: '14'
+  pages: "1\u201314"
+  paper_id: '1'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1001.jpg
+  title: 'ACL Lifetime Achievement Award: Some Points in a Time'
+  title_html: '<span class="acl-fixed-case">ACL</span> Lifetime Achievement Award:
+    Some Points in a Time'
+  url: https://www.aclweb.org/anthology/J05-1001
+  year: '2005'
+J05-1002:
+  author:
+  - first: Kees
+    full: Kees van Deemter
+    id: kees-van-deemter
+    last: van Deemter
+  - first: Emiel
+    full: Emiel Krahmer
+    id: emiel-krahmer
+    last: Krahmer
+  - first: "Mari\xEBt"
+    full: "Mari\xEBt Theune"
+    id: mariet-theune
+    last: Theune
+  author_string: "Kees van Deemter, Emiel Krahmer, Mari\xEBt Theune"
+  bibkey: van-deemter-etal-2005-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  doi: 10.1162/0891201053630291
+  page_first: '15'
+  page_last: '24'
+  pages: "15\u201324"
+  paper_id: '2'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1002.jpg
+  title: 'Squibs and Discussions: Real versus Template-Based Natural Language Generation:
+    A False Opposition?'
+  title_html: 'Squibs and Discussions: Real versus Template-Based Natural Language
+    Generation: A False Opposition?'
+  url: https://www.aclweb.org/anthology/J05-1002
+  year: '2005'
+J05-1003:
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Terry
+    full: Terry Koo
+    id: terry-koo
+    last: Koo
+  author_string: Michael Collins, Terry Koo
+  bibkey: collins-koo-2005-discriminative
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  doi: 10.1162/0891201053630273
+  page_first: '25'
+  page_last: '70'
+  pages: "25\u201370"
+  paper_id: '3'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1003.jpg
+  title: Discriminative Reranking for Natural Language Parsing
+  title_html: Discriminative Reranking for Natural Language Parsing
+  url: https://www.aclweb.org/anthology/J05-1003
+  year: '2005'
+J05-1004:
+  author:
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  - first: Daniel
+    full: Daniel Gildea
+    id: daniel-gildea
+    last: Gildea
+  - first: Paul
+    full: Paul Kingsbury
+    id: paul-kingsbury
+    last: Kingsbury
+  author_string: Martha Palmer, Daniel Gildea, Paul Kingsbury
+  bibkey: palmer-etal-2005-proposition
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  doi: 10.1162/0891201053630264
+  page_first: '71'
+  page_last: '106'
+  pages: "71\u2013106"
+  paper_id: '4'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1004.jpg
+  title: 'The Proposition Bank: An Annotated Corpus of Semantic Roles'
+  title_html: 'The Proposition Bank: An Annotated Corpus of Semantic Roles'
+  url: https://www.aclweb.org/anthology/J05-1004
+  year: '2005'
+J05-1005:
+  author:
+  - first: Pablo
+    full: Pablo Gamallo
+    id: pablo-gamallo
+    last: Gamallo
+  - first: Alexandre
+    full: Alexandre Agustini
+    id: alexandre-agustini
+    last: Agustini
+  - first: Gabriel P.
+    full: Gabriel P. Lopes
+    id: gabriel-lopes
+    last: Lopes
+  author_string: Pablo Gamallo, Alexandre Agustini, Gabriel P. Lopes
+  bibkey: gamallo-etal-2005-clustering
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  doi: 10.1162/0891201053630318
+  page_first: '107'
+  page_last: '146'
+  pages: "107\u2013146"
+  paper_id: '5'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1005.jpg
+  title: Clustering Syntactic Positions with Similar Semantic Requirements
+  title_html: Clustering Syntactic Positions with Similar Semantic Requirements
+  url: https://www.aclweb.org/anthology/J05-1005
+  year: '2005'
+J05-1006:
+  author:
+  - first: John F.
+    full: John F. Sowa
+    id: john-f-sowa
+    last: Sowa
+  author_string: John F. Sowa
+  bibkey: sowa-2005-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  paper_id: '6'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1006.jpg
+  title: 'Book Review: Ontological Semantics, by Sergei Nirenburg and Victor Raskin'
+  title_html: 'Book Review: Ontological Semantics, by Sergei Nirenburg and Victor
+    Raskin'
+  url: https://www.aclweb.org/anthology/J05-1006
+  year: '2005'
+J05-1007:
+  author:
+  - first: Ingrid
+    full: Ingrid Zukerman
+    id: ingrid-zukerman
+    last: Zukerman
+  author_string: Ingrid Zukerman
+  bibkey: zukerman-2005-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  paper_id: '7'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1007.jpg
+  title: 'Book Review: Argumentation Machines: New Frontiers in Argumentation and
+    Computation, edited by Chris Reed and Timothy J. Norman'
+  title_html: 'Book Review: Argumentation Machines: New Frontiers in Argumentation
+    and Computation, edited by Chris Reed and Timothy J. Norman'
+  url: https://www.aclweb.org/anthology/J05-1007
+  year: '2005'
+J05-1008:
+  bibkey: nn-2005-briefly
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  paper_id: '8'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1008.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J05-1008
+  year: '2005'
+J05-1009:
+  bibkey: nn-2005-publications
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 1, March 2005
+  paper_id: '9'
+  parent_volume_id: J05-1
+  pdf: https://www.aclweb.org/anthology/J05-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-1009.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J05-1009
+  year: '2005'
+J05-2000:
+  bibkey: cl-2005-linguistics-31
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 2, June 2005
+  paper_id: '0'
+  parent_volume_id: J05-2
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-2000.jpg
+  title: Computational Linguistics, Volume 31, Number 2, June 2005
+  title_html: Computational Linguistics, Volume 31, Number 2, June 2005
+  year: '2005'
+J05-2001:
+  author:
+  - first: Christian M. I. M.
+    full: Christian M. I. M. Matthiessen
+    id: christian-m-i-m-matthiessen
+    last: Matthiessen
+  author_string: Christian M. I. M. Matthiessen
+  bibkey: matthiessen-2005-obituary
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 2, June 2005
+  doi: 10.1162/0891201054224002
+  page_first: '161'
+  page_last: '171'
+  pages: "161\u2013171"
+  paper_id: '1'
+  parent_volume_id: J05-2
+  pdf: https://www.aclweb.org/anthology/J05-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-2001.jpg
+  title: 'Obituary: Remembering Bill Mann'
+  title_html: '<span class="acl-fixed-case">O</span>bituary: Remembering Bill <span
+    class="acl-fixed-case">M</span>ann'
+  url: https://www.aclweb.org/anthology/J05-2001
+  year: '2005'
+J05-2002:
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  author_string: Mark-Jan Nederhof
+  bibkey: nederhof-2005-general
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 2, June 2005
+  doi: 10.1162/0891201054223986
+  page_first: '173'
+  page_last: '185'
+  pages: "173\u2013185"
+  paper_id: '2'
+  parent_volume_id: J05-2
+  pdf: https://www.aclweb.org/anthology/J05-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-2002.jpg
+  title: A General Technique to Train Language Models on Language Models
+  title_html: A General Technique to Train Language Models on Language Models
+  url: https://www.aclweb.org/anthology/J05-2002
+  year: '2005'
+J05-2003:
+  author:
+  - first: Laura
+    full: Laura Kallmeyer
+    id: laura-kallmeyer
+    last: Kallmeyer
+  author_string: Laura Kallmeyer
+  bibkey: kallmeyer-2005-tree
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 2, June 2005
+  doi: 10.1162/0891201054223968
+  page_first: '187'
+  page_last: '225'
+  pages: "187\u2013225"
+  paper_id: '3'
+  parent_volume_id: J05-2
+  pdf: https://www.aclweb.org/anthology/J05-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-2003.jpg
+  title: Tree-Local Multicomponent Tree-Adjoining Grammars with Shared Nodes
+  title_html: Tree-Local Multicomponent Tree-Adjoining Grammars with Shared Nodes
+  url: https://www.aclweb.org/anthology/J05-2003
+  year: '2005'
+J05-2004:
+  author:
+  - first: Martin C.
+    full: Martin C. Cooper
+    id: martin-c-cooper
+    last: Cooper
+  author_string: Martin C. Cooper
+  bibkey: cooper-2005-mathematical
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 2, June 2005
+  doi: 10.1162/0891201054223995
+  page_first: '227'
+  page_last: '248'
+  pages: "227\u2013248"
+  paper_id: '4'
+  parent_volume_id: J05-2
+  pdf: https://www.aclweb.org/anthology/J05-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-2004.jpg
+  title: A Mathematical Model of Historical Semantics and the Grouping of Word Meanings
+    into Concepts
+  title_html: A Mathematical Model of Historical Semantics and the Grouping of Word
+    Meanings into Concepts
+  url: https://www.aclweb.org/anthology/J05-2004
+  year: '2005'
+J05-2005:
+  author:
+  - first: Florian
+    full: Florian Wolf
+    id: florian-wolf
+    last: Wolf
+  - first: Edward
+    full: Edward Gibson
+    id: edward-gibson
+    last: Gibson
+  author_string: Florian Wolf, Edward Gibson
+  bibkey: wolf-gibson-2005-representing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 2, June 2005
+  doi: 10.1162/0891201054223977
+  page_first: '249'
+  page_last: '287'
+  pages: "249\u2013287"
+  paper_id: '5'
+  parent_volume_id: J05-2
+  pdf: https://www.aclweb.org/anthology/J05-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-2005.jpg
+  title: 'Representing Discourse Coherence: A Corpus-Based Study'
+  title_html: 'Representing Discourse Coherence: A Corpus-Based Study'
+  url: https://www.aclweb.org/anthology/J05-2005
+  year: '2005'
+J05-3000:
+  bibkey: cl-2005-linguistics-31-number
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  paper_id: '0'
+  parent_volume_id: J05-3
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3000.jpg
+  title: Computational Linguistics, Volume 31, Number 3, September 2005
+  title_html: Computational Linguistics, Volume 31, Number 3, September 2005
+  year: '2005'
+J05-3001:
+  author:
+  - first: Richard
+    full: Richard Craggs
+    id: richard-craggs
+    last: Craggs
+  - first: Mary McGee
+    full: Mary McGee Wood
+    id: mary-mcgee-wood
+    last: Wood
+  author_string: Richard Craggs, Mary McGee Wood
+  bibkey: craggs-wood-2005-squibs
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  doi: 10.1162/089120105774321109
+  page_first: '289'
+  page_last: '296'
+  pages: "289\u2013296"
+  paper_id: '1'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3001.jpg
+  title: 'Squibs and Discussions: Evaluating Discourse and Dialogue Coding Schemes'
+  title_html: 'Squibs and Discussions: Evaluating Discourse and Dialogue Coding Schemes'
+  url: https://www.aclweb.org/anthology/J05-3001
+  year: '2005'
+J05-3002:
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Regina Barzilay, Kathleen R. McKeown
+  bibkey: barzilay-mckeown-2005-sentence
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  doi: 10.1162/089120105774321091
+  page_first: '297'
+  page_last: '328'
+  pages: "297\u2013328"
+  paper_id: '2'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3002.jpg
+  title: Sentence Fusion for Multidocument News Summarization
+  title_html: Sentence Fusion for Multidocument News Summarization
+  url: https://www.aclweb.org/anthology/J05-3002
+  year: '2005'
+J05-3003:
+  author:
+  - first: Ruth
+    full: "Ruth O\u2019Donovan"
+    id: ruth-odonovan
+    last: "O\u2019Donovan"
+  - first: Michael
+    full: Michael Burke
+    id: michael-burke
+    last: Burke
+  - first: Aoife
+    full: Aoife Cahill
+    id: aoife-cahill
+    last: Cahill
+  - first: Josef
+    full: Josef van Genabith
+    id: josef-van-genabith
+    last: van Genabith
+  - first: Andy
+    full: Andy Way
+    id: andy-way
+    last: Way
+  author_string: "Ruth O\u2019Donovan, Michael Burke, Aoife Cahill, Josef van Genabith,\
+    \ Andy Way"
+  bibkey: odonovan-etal-2005-large
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  doi: 10.1162/089120105774321073
+  page_first: '329'
+  page_last: '366'
+  pages: "329\u2013366"
+  paper_id: '3'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3003.jpg
+  title: Large-Scale Induction and Evaluation of Lexical Resources from the Penn-II
+    and Penn-III Treebanks
+  title_html: Large-Scale Induction and Evaluation of Lexical Resources from the <span
+    class="acl-fixed-case">P</span>enn-<span class="acl-fixed-case">II</span> and
+    <span class="acl-fixed-case">P</span>enn-<span class="acl-fixed-case">III</span>
+    Treebanks
+  url: https://www.aclweb.org/anthology/J05-3003
+  year: '2005'
+J05-3004:
+  author:
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  - first: Malvina
+    full: Malvina Nissim
+    id: malvina-nissim
+    last: Nissim
+  author_string: Katja Markert, Malvina Nissim
+  bibkey: markert-nissim-2005-comparing
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  doi: 10.1162/089120105774321064
+  page_first: '367'
+  page_last: '402'
+  pages: "367\u2013402"
+  paper_id: '4'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3004.jpg
+  title: Comparing Knowledge Sources for Nominal Anaphora Resolution
+  title_html: Comparing Knowledge Sources for Nominal Anaphora Resolution
+  url: https://www.aclweb.org/anthology/J05-3004
+  year: '2005'
+J05-3005:
+  author:
+  - first: Johannes
+    full: Johannes Pittermann
+    id: johannes-pittermann
+    last: Pittermann
+  author_string: Johannes Pittermann
+  bibkey: pittermann-2005-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  paper_id: '5'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3005.jpg
+  title: 'Book Review: Spoken Dialogue Technology: Toward the Conversational User
+    Interface, by Michael F. McTear'
+  title_html: 'Book Review: Spoken Dialogue Technology: Toward the Conversational
+    User Interface, by <span class="acl-fixed-case">M</span>ichael F. <span class="acl-fixed-case">M</span>c<span
+    class="acl-fixed-case">T</span>ear'
+  url: https://www.aclweb.org/anthology/J05-3005
+  year: '2005'
+J05-3006:
+  author:
+  - first: William J.
+    full: William J. Rapaport
+    id: william-j-rapaport
+    last: Rapaport
+  author_string: William J. Rapaport
+  bibkey: rapaport-2005-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  paper_id: '6'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3006.jpg
+  title: 'Book Review: The Turing Test: Verbal Behavior as the Hallmark of Intelligence,
+    edited by Stuart Shieber'
+  title_html: 'Book Review: The <span class="acl-fixed-case">T</span>uring Test: Verbal
+    Behavior as the Hallmark of Intelligence, edited by Stuart Shieber'
+  url: https://www.aclweb.org/anthology/J05-3006
+  year: '2005'
+J05-3007:
+  author:
+  - first: Marius
+    full: "Marius Pa\u015Fca"
+    id: marius-pasca
+    last: "Pa\u015Fca"
+  author_string: "Marius Pa\u015Fca"
+  bibkey: pasca-2005-book
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  paper_id: '7'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3007.jpg
+  title: 'Book Review: New Directions in Question Answering, edited by Mark T. Maybury'
+  title_html: 'Book Review: New Directions in Question Answering, edited by Mark T.
+    Maybury'
+  url: https://www.aclweb.org/anthology/J05-3007
+  year: '2005'
+J05-3008:
+  bibkey: nn-2005-briefly-noted
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  paper_id: '8'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3008.jpg
+  title: Briefly Noted
+  title_html: Briefly Noted
+  url: https://www.aclweb.org/anthology/J05-3008
+  year: '2005'
+J05-3009:
+  bibkey: nn-2005-publications-received
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 3, September 2005
+  paper_id: '9'
+  parent_volume_id: J05-3
+  pdf: https://www.aclweb.org/anthology/J05-3009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-3009.jpg
+  title: Publications Received
+  title_html: Publications Received
+  url: https://www.aclweb.org/anthology/J05-3009
+  year: '2005'
+J05-4000:
+  bibkey: cl-2005-linguistics-31-number-4
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  paper_id: '0'
+  parent_volume_id: J05-4
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4000.jpg
+  title: Computational Linguistics, Volume 31, Number 4, December 2005
+  title_html: Computational Linguistics, Volume 31, Number 4, <span class="acl-fixed-case">D</span>ecember
+    2005
+  year: '2005'
+J05-4001:
+  author:
+  - first: Martin
+    full: Martin Kay
+    id: martin-kay
+    last: Kay
+  author_string: Martin Kay
+  bibkey: kay-2005-acl
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  doi: 10.1162/089120105775299159
+  page_first: '425'
+  page_last: '438'
+  pages: "425\u2013438"
+  paper_id: '1'
+  parent_volume_id: J05-4
+  pdf: https://www.aclweb.org/anthology/J05-4001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4001.jpg
+  title: 'ACL Lifetime Achievement Award: A Life of Language'
+  title_html: '<span class="acl-fixed-case">ACL</span> Lifetime Achievement Award:
+    A Life of Language'
+  url: https://www.aclweb.org/anthology/J05-4001
+  year: '2005'
+J05-4002:
+  author:
+  - first: Julie
+    full: Julie Weeds
+    id: julie-weeds
+    last: Weeds
+  - first: David
+    full: David Weir
+    id: david-weir
+    last: Weir
+  author_string: Julie Weeds, David Weir
+  bibkey: weeds-weir-2005-co
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  doi: 10.1162/089120105775299122
+  page_first: '439'
+  page_last: '475'
+  pages: "439\u2013475"
+  paper_id: '2'
+  parent_volume_id: J05-4
+  pdf: https://www.aclweb.org/anthology/J05-4002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4002.jpg
+  title: 'Co-occurrence Retrieval: A Flexible Framework for Lexical Distributional
+    Similarity'
+  title_html: 'Co-occurrence Retrieval: A Flexible Framework for Lexical Distributional
+    Similarity'
+  url: https://www.aclweb.org/anthology/J05-4002
+  year: '2005'
+J05-4003:
+  author:
+  - first: Dragos Stefan
+    full: Dragos Stefan Munteanu
+    id: dragos-stefan-munteanu
+    last: Munteanu
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Dragos Stefan Munteanu, Daniel Marcu
+  bibkey: munteanu-marcu-2005-improving
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  doi: 10.1162/089120105775299168
+  page_first: '477'
+  page_last: '504'
+  pages: "477\u2013504"
+  paper_id: '3'
+  parent_volume_id: J05-4
+  pdf: https://www.aclweb.org/anthology/J05-4003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4003.jpg
+  title: Improving Machine Translation Performance by Exploiting Non-Parallel Corpora
+  title_html: Improving Machine Translation Performance by Exploiting Non-Parallel
+    Corpora
+  url: https://www.aclweb.org/anthology/J05-4003
+  year: '2005'
+J05-4004:
+  author:
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: "Hal Daum\xE9 III, Daniel Marcu"
+  bibkey: daume-iii-marcu-2005-induction
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  doi: 10.1162/089120105775299140
+  page_first: '505'
+  page_last: '530'
+  pages: "505\u2013530"
+  paper_id: '4'
+  parent_volume_id: J05-4
+  pdf: https://www.aclweb.org/anthology/J05-4004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4004.jpg
+  title: Induction of Word and Phrase Alignments for Automatic Document Summarization
+  title_html: Induction of Word and Phrase Alignments for Automatic Document Summarization
+  url: https://www.aclweb.org/anthology/J05-4004
+  year: '2005'
+J05-4005:
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Mu
+    full: Mu Li
+    id: mu-li
+    last: Li
+  - first: Andi
+    full: Andi Wu
+    id: andi-wu
+    last: Wu
+  - first: Chang-Ning
+    full: Chang-Ning Huang
+    id: changning-huang
+    last: Huang
+  author_string: Jianfeng Gao, Mu Li, Andi Wu, Chang-Ning Huang
+  bibkey: gao-etal-2005-chinese
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  doi: 10.1162/089120105775299177
+  page_first: '531'
+  page_last: '574'
+  pages: "531\u2013574"
+  paper_id: '5'
+  parent_volume_id: J05-4
+  pdf: https://www.aclweb.org/anthology/J05-4005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4005.jpg
+  title: 'Chinese Word Segmentation and Named Entity Recognition: A Pragmatic Approach'
+  title_html: '<span class="acl-fixed-case">C</span>hinese Word Segmentation and Named
+    Entity Recognition: A Pragmatic Approach'
+  url: https://www.aclweb.org/anthology/J05-4005
+  year: '2005'
+J05-4006:
+  author:
+  - first: Kenneth
+    full: Kenneth Church
+    id: kenneth-church
+    last: Church
+  author_string: Kenneth Church
+  bibkey: church-2005-last
+  bibtype: article
+  booktitle: Computational Linguistics, Volume 31, Number 4, December 2005
+  doi: 10.1162/089120105775299131
+  page_first: '575'
+  page_last: '578'
+  pages: "575\u2013578"
+  paper_id: '6'
+  parent_volume_id: J05-4
+  pdf: https://www.aclweb.org/anthology/J05-4006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/J05-4006.jpg
+  title: 'Last Words: Reviewing the Reviewers'
+  title_html: 'Last Words: Reviewing the Reviewers'
+  url: https://www.aclweb.org/anthology/J05-4006
+  year: '2005'

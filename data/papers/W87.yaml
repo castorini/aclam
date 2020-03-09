@@ -1,0 +1,642 @@
+W87-0100:
+  address: Copenhagen, Denmark
+  bibkey: ws-1988-nordic
+  bibtype: proceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  month: March
+  paper_id: '0'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0100.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0100.jpg
+  title: Proceedings of the 6th Nordic Conference of Computational Linguistics (NODALIDA
+    1987)
+  title_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  url: https://www.aclweb.org/anthology/W87-0100
+  year: '1988'
+W87-0101:
+  address: Copenhagen, Denmark
+  author:
+  - first: Gunnel
+    full: "Gunnel K\xE4llgren"
+    id: gunnel-kallgren
+    last: "K\xE4llgren"
+  author_string: "Gunnel K\xE4llgren"
+  bibkey: kallgren-1988-good
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '5'
+  page_last: '16'
+  pages: "5\u201316"
+  paper_id: '1'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0101.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0101.jpg
+  title: What good is Syntactic Information in the Lexicon of a Syntactic Parser?
+  title_html: What good is Syntactic Information in the Lexicon of a Syntactic Parser?
+  url: https://www.aclweb.org/anthology/W87-0101
+  year: '1988'
+W87-0102:
+  address: Copenhagen, Denmark
+  author:
+  - first: Bengt
+    full: Bengt Sigurd
+    id: bengt-sigurd
+    last: Sigurd
+  author_string: Bengt Sigurd
+  bibkey: sigurd-1988-referentgrammatik
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '17'
+  page_last: '34'
+  pages: "17\u201334"
+  paper_id: '2'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0102.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0102.jpg
+  title: "Referentgrammatik \u2013 en kort presentation (Reference grammar \u2013\
+    \ A short presentation) [In Swedish]"
+  title_html: "Referentgrammatik \u2013 en kort presentation (Reference grammar \u2013\
+    \ A short presentation) [In <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W87-0102
+  year: '1988'
+W87-0103:
+  address: Copenhagen, Denmark
+  author:
+  - first: Ole
+    full: Ole Togeby
+    id: ole-togeby
+    last: Togeby
+  author_string: Ole Togeby
+  bibkey: togeby-1988-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '35'
+  page_last: '57'
+  pages: "35\u201357"
+  paper_id: '3'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0103.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0103.jpg
+  title: Parsing Danish Text in EUROTRA
+  title_html: Parsing <span class="acl-fixed-case">D</span>anish Text in <span class="acl-fixed-case">EUROTRA</span>
+  url: https://www.aclweb.org/anthology/W87-0103
+  year: '1988'
+W87-0104:
+  address: Copenhagen, Denmark
+  author:
+  - first: Aarno
+    full: Aarno Lehtola
+    id: aarno-lehtola
+    last: Lehtola
+  - first: Timo
+    full: Timo Honkela
+    id: timo-honkela
+    last: Honkela
+  author_string: Aarno Lehtola, Timo Honkela
+  bibkey: lehtola-honkela-1988-aware
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '58'
+  page_last: '68'
+  pages: "58\u201368"
+  paper_id: '4'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0104.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0104.jpg
+  title: "AWARE \u2013 DAG-transformations for Semantic Analysis"
+  title_html: "<span class=\"acl-fixed-case\">AWARE</span> \u2013 <span class=\"acl-fixed-case\"\
+    >DAG</span>-transformations for Semantic Analysis"
+  url: https://www.aclweb.org/anthology/W87-0104
+  year: '1988'
+W87-0105:
+  address: Copenhagen, Denmark
+  author:
+  - first: Timo
+    full: Timo Honkela
+    id: timo-honkela
+    last: Honkela
+  - first: Aarno
+    full: Aarno Lehtola
+    id: aarno-lehtola
+    last: Lehtola
+  - first: K.
+    full: K. Valkonen
+    id: k-valkonen
+    last: Valkonen
+  author_string: Timo Honkela, Aarno Lehtola, K. Valkonen
+  bibkey: honkela-etal-1988-predication
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '69'
+  page_last: '77'
+  pages: "69\u201377"
+  paper_id: '5'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0105.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0105.jpg
+  title: Predication Graphs as Canonical Representation of Query Sentences
+  title_html: Predication Graphs as Canonical Representation of Query Sentences
+  url: https://www.aclweb.org/anthology/W87-0105
+  year: '1988'
+W87-0106:
+  address: Copenhagen, Denmark
+  author:
+  - first: Henrik
+    full: Henrik Prebensen
+    id: henrik-prebensen
+    last: Prebensen
+  author_string: Henrik Prebensen
+  bibkey: prebensen-1988-nominalsyntagmespecificitet
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '78'
+  page_last: '95'
+  pages: "78\u201395"
+  paper_id: '6'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0106.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0106.jpg
+  title: Nominalsyntagmespecificitet og diskursuniverser (Nominal syntagm specificity
+    and universe of discourse) [In Danish]
+  title_html: Nominalsyntagmespecificitet og diskursuniverser (Nominal syntagm specificity
+    and universe of discourse) [In <span class="acl-fixed-case">D</span>anish]
+  url: https://www.aclweb.org/anthology/W87-0106
+  year: '1988'
+W87-0107:
+  address: Copenhagen, Denmark
+  author:
+  - first: Lars
+    full: Lars Ahrenberg
+    id: lars-ahrenberg
+    last: Ahrenberg
+  author_string: Lars Ahrenberg
+  bibkey: ahrenberg-1988-system
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '96'
+  page_last: '106'
+  pages: "96\u2013106"
+  paper_id: '7'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0107.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0107.jpg
+  title: A system for object-oriented dialogue in Swedish
+  title_html: A system for object-oriented dialogue in <span class="acl-fixed-case">S</span>wedish
+  url: https://www.aclweb.org/anthology/W87-0107
+  year: '1988'
+W87-0108:
+  address: Copenhagen, Denmark
+  author:
+  - first: Lars
+    full: Lars Borin
+    id: lars-borin
+    last: Borin
+  author_string: Lars Borin
+  bibkey: borin-1988-constraint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '107'
+  page_last: '116'
+  pages: "107\u2013116"
+  paper_id: '8'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0108.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0108.jpg
+  title: A constraint-based approach to morphological analysis (preliminaries)
+  title_html: A constraint-based approach to morphological analysis (preliminaries)
+  url: https://www.aclweb.org/anthology/W87-0108
+  year: '1988'
+W87-0109:
+  address: Copenhagen, Denmark
+  author:
+  - first: Torben
+    full: Torben Thrane
+    id: torben-thrane
+    last: Thrane
+  author_string: Torben Thrane
+  bibkey: thrane-1988-symbolic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '117'
+  page_last: '154'
+  pages: "117\u2013154"
+  paper_id: '9'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0109.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0109.jpg
+  title: Symbolic Representation and Natural Language
+  title_html: Symbolic Representation and Natural Language
+  url: https://www.aclweb.org/anthology/W87-0109
+  year: '1988'
+W87-0110:
+  address: Copenhagen, Denmark
+  author:
+  - first: Eva
+    full: Eva Ejerhed
+    id: eva-ejerhed
+    last: Ejerhed
+  author_string: Eva Ejerhed
+  bibkey: ejerhed-1988-processing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '155'
+  page_last: '169'
+  pages: "155\u2013169"
+  paper_id: '10'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0110.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0110.jpg
+  title: Processing Sentences Clause by Clause
+  title_html: Processing Sentences Clause by Clause
+  url: https://www.aclweb.org/anthology/W87-0110
+  year: '1988'
+W87-0111:
+  address: Copenhagen, Denmark
+  author:
+  - first: Frede
+    full: Frede Boje
+    id: frede-boje
+    last: Boje
+  author_string: Frede Boje
+  bibkey: boje-1988-disambiguering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '170'
+  page_last: '186'
+  pages: "170\u2013186"
+  paper_id: '11'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0111.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0111.jpg
+  title: "Disambiguering i human overs\xE6ttelse og i maskinovers\xE6ttelse (Disambiguation\
+    \ in human translation and in machine translation) [In Danish]"
+  title_html: "Disambiguering i human overs\xE6ttelse og i maskinovers\xE6ttelse (Disambiguation\
+    \ in human translation and in machine translation) [In <span class=\"acl-fixed-case\"\
+    >D</span>anish]"
+  url: https://www.aclweb.org/anthology/W87-0111
+  year: '1988'
+W87-0112:
+  address: Copenhagen, Denmark
+  author:
+  - first: Poul
+    full: Poul Andersen
+    id: poul-andersen
+    last: Andersen
+  - first: Annelise
+    full: Annelise Bech
+    id: annelise-bech
+    last: Bech
+  author_string: Poul Andersen, Annelise Bech
+  bibkey: andersen-bech-1988-strategy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '187'
+  page_last: '203'
+  pages: "187\u2013203"
+  paper_id: '12'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0112.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0112.jpg
+  title: A strategy for solving translation relevant ambiguities in a multilingual
+    machine translation system
+  title_html: A strategy for solving translation relevant ambiguities in a multilingual
+    machine translation system
+  url: https://www.aclweb.org/anthology/W87-0112
+  year: '1988'
+W87-0113:
+  address: Copenhagen, Denmark
+  author:
+  - first: Klaus
+    full: Klaus Schubert
+    id: klaus-schubert
+    last: Schubert
+  author_string: Klaus Schubert
+  bibkey: schubert-1988-att
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '204'
+  page_last: '216'
+  pages: "204\u2013216"
+  paper_id: '13'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0113.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0113.jpg
+  title: "Att knyta nordens spr\xE5k till ett m\xE5ngspr\xE5kigt dator\xF6vers\xE4\
+    ttningssystem (Connecting the Nordic languages to a multilingual computer translation\
+    \ system) [In Swedish]"
+  title_html: "Att knyta nordens spr\xE5k till ett m\xE5ngspr\xE5kigt dator\xF6vers\xE4\
+    ttningssystem (Connecting the Nordic languages to a multilingual computer translation\
+    \ system) [In <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W87-0113
+  year: '1988'
+W87-0114:
+  address: Copenhagen, Denmark
+  author:
+  - first: Tove
+    full: Tove Fjeldvig
+    id: tove-fjeldvig
+    last: Fjeldvig
+  - first: Anne
+    full: Anne Golden
+    id: anne-golden
+    last: Golden
+  author_string: Tove Fjeldvig, Anne Golden
+  bibkey: fjeldvig-golden-1988-bruk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '217'
+  page_last: '228'
+  pages: "217\u2013228"
+  paper_id: '14'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0114.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0114.jpg
+  title: "Bruk av spr\xE5kbaserte hjelpemidler i informasjonss\xF8king (Use of language-based\
+    \ aids in information retrieval) [In Norwegian]"
+  title_html: "Bruk av spr\xE5kbaserte hjelpemidler i informasjonss\xF8king (Use of\
+    \ language-based aids in information retrieval) [In <span class=\"acl-fixed-case\"\
+    >N</span>orwegian]"
+  url: https://www.aclweb.org/anthology/W87-0114
+  year: '1988'
+W87-0115:
+  address: Copenhagen, Denmark
+  author:
+  - first: Lennart
+    full: "Lennart L\xF6nngren"
+    id: lennart-lonngren
+    last: "L\xF6nngren"
+  author_string: "Lennart L\xF6nngren"
+  bibkey: lonngren-1988-lexika
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '229'
+  page_last: '236'
+  pages: "229\u2013236"
+  paper_id: '15'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0115.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0115.jpg
+  title: "Lexika, baserade p\xE5 semantiska relationer (Lexica, based on semantic\
+    \ relations) [In Swedish]"
+  title_html: "Lexika, baserade p\xE5 semantiska relationer (Lexica, based on semantic\
+    \ relations) [In <span class=\"acl-fixed-case\">S</span>wedish]"
+  url: https://www.aclweb.org/anthology/W87-0115
+  year: '1988'
+W87-0116:
+  address: Copenhagen, Denmark
+  author:
+  - first: Ole
+    full: Ole Norling-Christensen
+    id: ole-norling-christensen
+    last: Norling-Christensen
+  author_string: Ole Norling-Christensen
+  bibkey: norling-christensen-1988-laesning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '237'
+  page_last: '258'
+  pages: "237\u2013258"
+  paper_id: '16'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0116.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0116.jpg
+  title: "L\xE6sning af maskinl\xE6sbare tekster (Scanning of machine-readable texts)\
+    \ [In Danish]"
+  title_html: "L\xE6sning af maskinl\xE6sbare tekster (Scanning of machine-readable\
+    \ texts) [In <span class=\"acl-fixed-case\">D</span>anish]"
+  url: https://www.aclweb.org/anthology/W87-0116
+  year: '1988'
+W87-0117:
+  address: Copenhagen, Denmark
+  author:
+  - first: Hanne
+    full: Hanne Ruus
+    id: hanne-ruus
+    last: Ruus
+  - first: Dorthe
+    full: Dorthe Duncker
+    id: dorthe-duncker
+    last: Duncker
+  author_string: Hanne Ruus, Dorthe Duncker
+  bibkey: ruus-duncker-1988-ordboger
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '259'
+  page_last: '272'
+  pages: "259\u2013272"
+  paper_id: '17'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0117.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0117.jpg
+  title: "Ordb\xF8ger i Danmark: datamatst\xF8ttet leksikografi i praksis (Dictionaries\
+    \ in Denmark: Computer-assisted lexicography in practice) [In Danish]"
+  title_html: "Ordb\xF8ger i Danmark: datamatst\xF8ttet leksikografi i praksis (Dictionaries\
+    \ in Denmark: Computer-assisted lexicography in practice) [In <span class=\"acl-fixed-case\"\
+    >D</span>anish]"
+  url: https://www.aclweb.org/anthology/W87-0117
+  year: '1988'
+W87-0118:
+  address: Copenhagen, Denmark
+  author:
+  - first: Ivar
+    full: Ivar Utne
+    id: ivar-utne
+    last: Utne
+  author_string: Ivar Utne
+  bibkey: utne-1988-terminologi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '273'
+  page_last: '285'
+  pages: "273\u2013285"
+  paper_id: '18'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0118.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0118.jpg
+  title: "Terminologi, arbeidsinstrukser og lagerstyring \u2013 om kodeuttrykk i fagspr\xE5\
+    k (Terminology, work instructions and inventory control \u2013 on coded expressions\
+    \ in jargon) [In Norwegian]"
+  title_html: "Terminologi, arbeidsinstrukser og lagerstyring \u2013 om kodeuttrykk\
+    \ i fagspr\xE5k (Terminology, work instructions and inventory control \u2013 on\
+    \ coded expressions in jargon) [In <span class=\"acl-fixed-case\">N</span>orwegian]"
+  url: https://www.aclweb.org/anthology/W87-0118
+  year: '1988'
+W87-0119:
+  address: Copenhagen, Denmark
+  author:
+  - first: Bodil
+    full: Bodil Nistrup Madsen
+    id: bodil-nistrup-madsen
+    last: Nistrup Madsen
+  author_string: Bodil Nistrup Madsen
+  bibkey: nistrup-madsen-1988-simulering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '286'
+  page_last: '300'
+  pages: "286\u2013300"
+  paper_id: '19'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0119.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0119.jpg
+  title: Simulering af relationel database (Simulation of relational databases) [In
+    Danish]
+  title_html: Simulering af relationel database (Simulation of relational databases)
+    [In <span class="acl-fixed-case">D</span>anish]
+  url: https://www.aclweb.org/anthology/W87-0119
+  year: '1988'
+W87-0120:
+  address: Copenhagen, Denmark
+  author:
+  - first: Krista
+    full: Krista Varantola
+    id: krista-varantola
+    last: Varantola
+  author_string: Krista Varantola
+  bibkey: varantola-1988-term
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '301'
+  page_last: '311'
+  pages: "301\u2013311"
+  paper_id: '20'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0120.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0120.jpg
+  title: Term banks, text banks and bank users
+  title_html: Term banks, text banks and bank users
+  url: https://www.aclweb.org/anthology/W87-0120
+  year: '1988'
+W87-0121:
+  address: Copenhagen, Denmark
+  author:
+  - first: Inge Gorm
+    full: Inge Gorm Hansen
+    id: inge-gorm-hansen
+    last: Hansen
+  author_string: Inge Gorm Hansen
+  bibkey: hansen-1988-juraprojektet
+  bibtype: inproceedings
+  booktitle: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (NODALIDA 1987)
+  booktitle_html: Proceedings of the 6th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1987)
+  month: March
+  page_first: '312'
+  page_last: '326'
+  pages: "312\u2013326"
+  paper_id: '21'
+  parent_volume_id: W87-01
+  pdf: https://www.aclweb.org/anthology/W87-0121.pdf
+  publisher: "Institut for Datalingvistik, Handelsh\xF8jskolen i K\xF8benhavn, Denmark"
+  thumbnail: https://www.aclweb.org/anthology/thumb/W87-0121.jpg
+  title: JURAPROJEKTET, erfaringer og resultater (The JURA project, experiences and
+    results) [In Danish]
+  title_html: <span class="acl-fixed-case">JURAPROJEKTET</span>, erfaringer og resultater
+    (The <span class="acl-fixed-case">JURA</span> project, experiences and results)
+    [In <span class="acl-fixed-case">D</span>anish]
+  url: https://www.aclweb.org/anthology/W87-0121
+  year: '1988'

@@ -1,0 +1,537 @@
+W95-0100:
+  bibkey: ws-1995-large
+  bibtype: proceedings
+  booktitle: Third Workshop on Very Large Corpora
+  paper_id: '0'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0100.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0100.jpg
+  title: Third Workshop on Very Large Corpora
+  title_html: Third Workshop on Very Large Corpora
+  url: https://www.aclweb.org/anthology/W95-0100
+  year: '1995'
+W95-0101:
+  author:
+  - first: Eric
+    full: Eric Brill
+    id: eric-brill
+    last: Brill
+  author_string: Eric Brill
+  bibkey: brill-1995-unsupervised
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '1'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0101.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0101.jpg
+  title: Unsupervised Learning of Disambiguation Rules for Part of Speech Tagging
+  title_html: Unsupervised Learning of Disambiguation Rules for Part of Speech Tagging
+  url: https://www.aclweb.org/anthology/W95-0101
+  year: '1995'
+W95-0102:
+  author:
+  - first: Carl
+    full: Carl de Marcken
+    id: carl-de-marcken
+    last: de Marcken
+  author_string: Carl de Marcken
+  bibkey: de-marcken-1995-lexical
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '2'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0102.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0102.jpg
+  title: Lexical Heads, Phrase Structure and the Induction of Grammar
+  title_html: Lexical Heads, Phrase Structure and the Induction of Grammar
+  url: https://www.aclweb.org/anthology/W95-0102
+  year: '1995'
+W95-0103:
+  author:
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: James
+    full: James Brooks
+    id: james-brooks
+    last: Brooks
+  author_string: Michael Collins, James Brooks
+  bibkey: collins-brooks-1995-prepositional
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '3'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0103.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0103.jpg
+  title: Prepositional Phrase Attachment through a Backed-off Model
+  title_html: Prepositional Phrase Attachment through a Backed-off Model
+  url: https://www.aclweb.org/anthology/W95-0103
+  year: '1995'
+W95-0104:
+  author:
+  - first: Andrew
+    full: Andrew Golding
+    id: andrew-golding
+    last: Golding
+  author_string: Andrew Golding
+  bibkey: golding-1995-bayesian
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '4'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0104.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0104.jpg
+  title: A Bayesian Hybrid Method for Context-sensitive Spelling Correction
+  title_html: A <span class="acl-fixed-case">B</span>ayesian Hybrid Method for Context-sensitive
+    Spelling Correction
+  url: https://www.aclweb.org/anthology/W95-0104
+  year: '1995'
+W95-0105:
+  author:
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Philip Resnik
+  bibkey: resnik-1995-disambiguating
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '5'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0105.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0105.jpg
+  title: Disambiguating Noun Groupings with Respect to Wordnet Senses
+  title_html: Disambiguating Noun Groupings with Respect to <span class="acl-fixed-case">W</span>ordnet
+    Senses
+  url: https://www.aclweb.org/anthology/W95-0105
+  year: '1995'
+W95-0106:
+  author:
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Dekai Wu
+  bibkey: wu-1995-trainable
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '6'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0106.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0106.jpg
+  title: Trainable Coarse Bilingual Grammars for Parallel Text Bracketing
+  title_html: Trainable Coarse Bilingual Grammars for Parallel Text Bracketing
+  url: https://www.aclweb.org/anthology/W95-0106
+  year: '1995'
+W95-0107:
+  author:
+  - first: Lance
+    full: Lance Ramshaw
+    id: lance-ramshaw
+    last: Ramshaw
+  - first: Mitch
+    full: Mitch Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Lance Ramshaw, Mitch Marcus
+  bibkey: ramshaw-marcus-1995-text
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '7'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0107.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0107.jpg
+  title: Text Chunking using Transformation-Based Learning
+  title_html: Text Chunking using Transformation-Based Learning
+  url: https://www.aclweb.org/anthology/W95-0107
+  year: '1995'
+W95-0108:
+  author:
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  - first: Yoram
+    full: Yoram Singer
+    id: yoram-singer
+    last: Singer
+  - first: Naftali
+    full: Naftali Tishby
+    id: naftali-tishby
+    last: Tishby
+  author_string: Fernando Pereira, Yoram Singer, Naftali Tishby
+  bibkey: pereira-etal-1995-beyond
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '8'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0108.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0108.jpg
+  title: Beyond Word N-Grams
+  title_html: Beyond Word N-Grams
+  url: https://www.aclweb.org/anthology/W95-0108
+  year: '1995'
+W95-0109:
+  author:
+  - first: Jing-Shin
+    full: Jing-Shin Chang
+    id: jing-shin-chang
+    last: Chang
+  - first: Yi-Chung
+    full: Yi-Chung Lin
+    id: yi-chung-lin
+    last: Lin
+  - first: Keh-Yih
+    full: Keh-Yih Su
+    id: keh-yih-su
+    last: Su
+  author_string: Jing-Shin Chang, Yi-Chung Lin, Keh-Yih Su
+  bibkey: chang-etal-1995-automatic
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '9'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0109.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0109.jpg
+  title: Automatic Construction of a Chinese Electronic Dictionary
+  title_html: Automatic Construction of a <span class="acl-fixed-case">C</span>hinese
+    Electronic Dictionary
+  url: https://www.aclweb.org/anthology/W95-0109
+  year: '1995'
+W95-0110:
+  author:
+  - first: Kenneth
+    full: Kenneth Church
+    id: kenneth-church
+    last: Church
+  - first: William
+    full: William Gale
+    id: william-a-gale
+    last: Gale
+  author_string: Kenneth Church, William Gale
+  bibkey: church-gale-1995-inverse
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '10'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0110.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0110.jpg
+  title: 'Inverse Document Frequency (IDF): A Measure of Deviations from Poisson'
+  title_html: 'Inverse Document Frequency (<span class="acl-fixed-case">IDF</span>):
+    A Measure of Deviations from <span class="acl-fixed-case">P</span>oisson'
+  url: https://www.aclweb.org/anthology/W95-0110
+  year: '1995'
+W95-0111:
+  author:
+  - first: Joe
+    full: Joe Zhou
+    id: joe-zhou
+    last: Zhou
+  - first: Pete
+    full: Pete Dapkus
+    id: pete-dapkus
+    last: Dapkus
+  author_string: Joe Zhou, Pete Dapkus
+  bibkey: zhou-dapkus-1995-automatic
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '11'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0111.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0111.jpg
+  title: Automatic Suggestion of Significant Terms for a Predefined Topic
+  title_html: Automatic Suggestion of Significant Terms for a Predefined Topic
+  url: https://www.aclweb.org/anthology/W95-0111
+  year: '1995'
+W95-0112:
+  author:
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  - first: Jay
+    full: Jay Shoen
+    id: jay-shoen
+    last: Shoen
+  author_string: Ellen Riloff, Jay Shoen
+  bibkey: riloff-shoen-1995-automatically
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '12'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0112.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0112.jpg
+  title: Automatically Acquiring Conceptual Patterns without an Annotated Corpus
+  title_html: Automatically Acquiring Conceptual Patterns without an Annotated Corpus
+  url: https://www.aclweb.org/anthology/W95-0112
+  year: '1995'
+W95-0113:
+  author:
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  - first: Yue-Shi
+    full: Yue-Shi Lee
+    id: yue-shi-lee
+    last: Lee
+  author_string: Hsin-Hsi Chen, Yue-Shi Lee
+  bibkey: chen-lee-1995-development
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '13'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0113.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0113.jpg
+  title: Development of a Partially Bracketed Corpus with Part-of-Speech Information
+    Only
+  title_html: Development of a Partially Bracketed Corpus with Part-of-Speech Information
+    Only
+  url: https://www.aclweb.org/anthology/W95-0113
+  year: '1995'
+W95-0114:
+  author:
+  - first: Pascale
+    full: Pascale Fung
+    id: pascale-fung
+    last: Fung
+  author_string: Pascale Fung
+  bibkey: fung-1995-compiling
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '14'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0114.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0114.jpg
+  title: Compiling Bilingual Lexicon Entries From a Non-Parallel English-Chinese Corpus
+  title_html: Compiling Bilingual Lexicon Entries From a Non-Parallel <span class="acl-fixed-case">E</span>nglish-<span
+    class="acl-fixed-case">C</span>hinese Corpus
+  url: https://www.aclweb.org/anthology/W95-0114
+  year: '1995'
+W95-0115:
+  author:
+  - first: I. Dan
+    full: I. Dan Melamed
+    id: i-dan-melamed
+    last: Melamed
+  author_string: I. Dan Melamed
+  bibkey: melamed-1995-automatic
+  bibtype: inproceedings
+  booktitle: Third Workshop on Very Large Corpora
+  booktitle_html: Third Workshop on Very Large Corpora
+  paper_id: '15'
+  parent_volume_id: W95-01
+  pdf: https://www.aclweb.org/anthology/W95-0115.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0115.jpg
+  title: Automatic Evaluation and Uniform Filter Cascades for Inducing N-Best Translation
+    Lexicons
+  title_html: Automatic Evaluation and Uniform Filter Cascades for Inducing N-Best
+    Translation Lexicons
+  url: https://www.aclweb.org/anthology/W95-0115
+  year: '1995'
+W95-0200:
+  address: Helsinki, Finland
+  author:
+  - first: Kimmo
+    full: Kimmo Koskenniemi
+    id: kimmo-koskenniemi
+    last: Koskenniemi
+  author_string: Kimmo Koskenniemi
+  bibkey: ws-1995-nordic
+  bibtype: proceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  month: May
+  paper_id: '0'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0200.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0200.jpg
+  title: Proceedings of the 10th Nordic Conference of Computational Linguistics (NODALIDA
+    1995)
+  title_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  url: https://www.aclweb.org/anthology/W95-0200
+  year: '1995'
+W95-0201:
+  address: Helsinki, Finland
+  author:
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  - first: Christer
+    full: Christer Samuelsson
+    id: christer-samuelsson
+    last: Samuelsson
+  author_string: Thorsten Brants, Christer Samuelsson
+  bibkey: brants-samuelsson-1995-tagging
+  bibtype: inproceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  booktitle_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  month: May
+  page_first: '7'
+  page_last: '20'
+  pages: "7\u201320"
+  paper_id: '1'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0201.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0201.jpg
+  title: Tagging the Teleman Corpus
+  title_html: Tagging the Teleman Corpus
+  url: https://www.aclweb.org/anthology/W95-0201
+  year: '1995'
+W95-0202:
+  address: Helsinki, Finland
+  author:
+  - first: Tore
+    full: Tore Burheim
+    id: tore-burheim
+    last: Burheim
+  author_string: Tore Burheim
+  bibkey: burheim-1995-indexed
+  bibtype: inproceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  booktitle_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  month: May
+  page_first: '21'
+  page_last: '36'
+  pages: "21\u201336"
+  paper_id: '2'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0202.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0202.jpg
+  title: Indexed Languages and Unification Grammars
+  title_html: Indexed Languages and Unification Grammars
+  url: https://www.aclweb.org/anthology/W95-0202
+  year: '1995'
+W95-0203:
+  address: Helsinki, Finland
+  author:
+  - first: "Bj\xF6rn"
+    full: "Bj\xF6rn Gamb\xE4ck"
+    id: bjorn-gamback
+    last: "Gamb\xE4ck"
+  author_string: "Bj\xF6rn Gamb\xE4ck"
+  bibkey: gamback-1995-swedish
+  bibtype: inproceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  booktitle_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  month: May
+  page_first: '37'
+  page_last: '49'
+  pages: "37\u201349"
+  paper_id: '3'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0203.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0203.jpg
+  title: Swedish Language Processing in the Spoken Language Translator
+  title_html: <span class="acl-fixed-case">S</span>wedish Language Processing in the
+    Spoken Language Translator
+  url: https://www.aclweb.org/anthology/W95-0203
+  year: '1995'
+W95-0204:
+  address: Helsinki, Finland
+  author:
+  - first: Jussi
+    full: Jussi Piitulainen
+    id: jussi-piitulainen
+    last: Piitulainen
+  author_string: Jussi Piitulainen
+  bibkey: piitulainen-1995-locally
+  bibtype: inproceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  booktitle_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  month: May
+  page_first: '50'
+  page_last: '58'
+  pages: "50\u201358"
+  paper_id: '4'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0204.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0204.jpg
+  title: Locally Tree-shaped Sentence Automata and Resolution of Ambiguity
+  title_html: Locally Tree-shaped Sentence Automata and Resolution of Ambiguity
+  url: https://www.aclweb.org/anthology/W95-0204
+  year: '1995'
+W95-0205:
+  address: Helsinki, Finland
+  author:
+  - first: Peter
+    full: Peter Rossen Skadhauge
+    id: peter-rossen-skadhauge
+    last: Rossen Skadhauge
+  author_string: Peter Rossen Skadhauge
+  bibkey: rossen-skadhauge-1995-sense
+  bibtype: inproceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  booktitle_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  month: May
+  page_first: '59'
+  page_last: '68'
+  pages: "59\u201368"
+  paper_id: '5'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0205.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0205.jpg
+  title: Sense Extension Functions in Lexical Semantics
+  title_html: Sense Extension Functions in Lexical Semantics
+  url: https://www.aclweb.org/anthology/W95-0205
+  year: '1995'
+W95-0206:
+  address: Helsinki, Finland
+  author:
+  - first: Kjetil
+    full: Kjetil Strand
+    id: kjetil-strand
+    last: Strand
+  author_string: Kjetil Strand
+  bibkey: strand-1995-application
+  bibtype: inproceedings
+  booktitle: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (NODALIDA 1995)
+  booktitle_html: Proceedings of the 10th Nordic Conference of Computational Linguistics
+    (<span class="acl-fixed-case">NODALIDA</span> 1995)
+  month: May
+  page_first: '69'
+  page_last: '80'
+  pages: "69\u201380"
+  paper_id: '6'
+  parent_volume_id: W95-02
+  pdf: https://www.aclweb.org/anthology/W95-0206.pdf
+  publisher: Department of General Linguistics, University of Helsinki, Finland
+  thumbnail: https://www.aclweb.org/anthology/thumb/W95-0206.jpg
+  title: An Application of Inside-out Functional Uncertainty to Anaphora Resolution
+  title_html: An Application of Inside-out Functional Uncertainty to Anaphora Resolution
+  url: https://www.aclweb.org/anthology/W95-0206
+  year: '1995'

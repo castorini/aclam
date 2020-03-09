@@ -1,0 +1,2806 @@
+A00-1000:
+  address: Seattle, Washington, USA
+  bibkey: anlp-2000-applied
+  bibtype: proceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  month: April
+  paper_id: '0'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1000.jpg
+  title: Sixth Applied Natural Language Processing Conference
+  title_html: Sixth Applied Natural Language Processing Conference
+  url: https://www.aclweb.org/anthology/A00-1000
+  year: '2000'
+A00-1001:
+  address: Seattle, Washington, USA
+  author:
+  - first: Tore
+    full: Tore Amble
+    id: tore-amble
+    last: Amble
+  author_string: Tore Amble
+  bibkey: amble-2000-bustuc-natural
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974148
+  month: April
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1001.jpg
+  title: BusTUC - A natural language bus route oracle
+  title_html: <span class="acl-fixed-case">B</span>us<span class="acl-fixed-case">TUC</span>
+    - A natural language bus route oracle
+  url: https://www.aclweb.org/anthology/A00-1001
+  year: '2000'
+A00-1002:
+  address: Seattle, Washington, USA
+  author:
+  - first: Jan
+    full: Jan Hajic
+    id: jan-hajic
+    last: Hajic
+  author_string: Jan Hajic
+  bibkey: hajic-2000-machine
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974149
+  month: April
+  page_first: '7'
+  page_last: '12'
+  pages: "7\u201312"
+  paper_id: '2'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1002.jpg
+  title: Machine Translation of Very Close Languages
+  title_html: Machine Translation of Very Close Languages
+  url: https://www.aclweb.org/anthology/A00-1002
+  year: '2000'
+A00-1003:
+  address: Seattle, Washington, USA
+  author:
+  - first: Sharon
+    full: Sharon Flank
+    id: sharon-flank
+    last: Flank
+  author_string: Sharon Flank
+  bibkey: flank-2000-cross
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974150
+  month: April
+  page_first: '13'
+  page_last: '20'
+  pages: "13\u201320"
+  paper_id: '3'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1003.jpg
+  title: Cross-Language Multimedia Information Retrieval
+  title_html: Cross-Language Multimedia Information Retrieval
+  url: https://www.aclweb.org/anthology/A00-1003
+  year: '2000'
+A00-1004:
+  address: Seattle, Washington, USA
+  author:
+  - first: Jiang
+    full: Jiang Chen
+    id: jiang-chen
+    last: Chen
+  - first: Jian-Yun
+    full: Jian-Yun Nie
+    id: jian-yun-nie
+    last: Nie
+  author_string: Jiang Chen, Jian-Yun Nie
+  bibkey: chen-nie-2000-automatic
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974151
+  month: April
+  page_first: '21'
+  page_last: '28'
+  pages: "21\u201328"
+  paper_id: '4'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1004.jpg
+  title: Automatic construction of parallel English-Chinese corpus for cross-language
+    information retrieval
+  title_html: Automatic construction of parallel <span class="acl-fixed-case">E</span>nglish-<span
+    class="acl-fixed-case">C</span>hinese corpus for cross-language information retrieval
+  url: https://www.aclweb.org/anthology/A00-1004
+  year: '2000'
+A00-1005:
+  address: Seattle, Washington, USA
+  author:
+  - first: Amit
+    full: Amit Bagga
+    id: amit-bagga
+    last: Bagga
+  - first: Tomek
+    full: Tomek Strzalkowski
+    id: tomek-strzalkowski
+    last: Strzalkowski
+  - first: G. Bowden
+    full: G. Bowden Wise
+    id: g-bowden-wise
+    last: Wise
+  author_string: Amit Bagga, Tomek Strzalkowski, G. Bowden Wise
+  bibkey: bagga-etal-2000-partsid
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974152
+  month: April
+  page_first: '29'
+  page_last: '36'
+  pages: "29\u201336"
+  paper_id: '5'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1005.jpg
+  title: 'PartsID: A Dialogue-Based System for Identifying Parts for Medical Systems'
+  title_html: '<span class="acl-fixed-case">P</span>arts<span class="acl-fixed-case">ID</span>:
+    A Dialogue-Based System for Identifying Parts for Medical Systems'
+  url: https://www.aclweb.org/anthology/A00-1005
+  year: '2000'
+A00-1006:
+  address: Seattle, Washington, USA
+  author:
+  - first: Setsuo
+    full: Setsuo Yamada
+    id: setsuo-yamada
+    last: Yamada
+  - first: Eiichiro
+    full: Eiichiro Sumita
+    id: eiichiro-sumita
+    last: Sumita
+  - first: Hideki
+    full: Hideki Kashioka
+    id: hideki-kashioka
+    last: Kashioka
+  author_string: Setsuo Yamada, Eiichiro Sumita, Hideki Kashioka
+  bibkey: yamada-etal-2000-translation
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974153
+  month: April
+  page_first: '37'
+  page_last: '43'
+  pages: "37\u201343"
+  paper_id: '6'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1006.jpg
+  title: Translation using Information on Dialogue Participants
+  title_html: Translation using Information on Dialogue Participants
+  url: https://www.aclweb.org/anthology/A00-1006
+  year: '2000'
+A00-1007:
+  address: Seattle, Washington, USA
+  author:
+  - first: Arne
+    full: Arne Jonsson
+    id: arne-jonsson
+    last: Jonsson
+  - first: Nils
+    full: Nils Dahlback
+    id: nils-dahlback
+    last: Dahlback
+  author_string: Arne Jonsson, Nils Dahlback
+  bibkey: jonsson-dahlback-2000-distilling
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974154
+  month: April
+  page_first: '44'
+  page_last: '51'
+  pages: "44\u201351"
+  paper_id: '7'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1007.jpg
+  title: Distilling dialogues - A method using natural dialogue corpora for dialogue
+    systems development
+  title_html: Distilling dialogues - A method using natural dialogue corpora for dialogue
+    systems development
+  url: https://www.aclweb.org/anthology/A00-1007
+  year: '2000'
+A00-1008:
+  address: Seattle, Washington, USA
+  author:
+  - first: Reva
+    full: Reva Freedman
+    id: reva-freedman
+    last: Freedman
+  author_string: Reva Freedman
+  bibkey: freedman-2000-plan
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974155
+  month: April
+  page_first: '52'
+  page_last: '59'
+  pages: "52\u201359"
+  paper_id: '8'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1008.jpg
+  title: Plan-Based Dialogue Management in a Physics Tutor
+  title_html: Plan-Based Dialogue Management in a Physics Tutor
+  url: https://www.aclweb.org/anthology/A00-1008
+  year: '2000'
+A00-1009:
+  address: Seattle, Washington, USA
+  author:
+  - first: Benoit
+    full: Benoit Lavoie
+    id: benoit-lavoie
+    last: Lavoie
+  - first: Richard
+    full: Richard Kittredge
+    id: richard-kittredge
+    last: Kittredge
+  - first: Tanya
+    full: Tanya Korelsky
+    id: tanya-korelsky
+    last: Korelsky
+  - first: Owen
+    full: Owen Rambow
+    id: owen-rambow
+    last: Rambow
+  author_string: Benoit Lavoie, Richard Kittredge, Tanya Korelsky, Owen Rambow
+  bibkey: lavoie-etal-2000-framework
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974156
+  month: April
+  page_first: '60'
+  page_last: '67'
+  pages: "60\u201367"
+  paper_id: '9'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1009.jpg
+  title: A Framework for MT and Multilingual NLG Systems Based on Uniform Lexico-Structural
+    Processing
+  title_html: A Framework for <span class="acl-fixed-case">MT</span> and Multilingual
+    <span class="acl-fixed-case">NLG</span> Systems Based on Uniform Lexico-Structural
+    Processing
+  url: https://www.aclweb.org/anthology/A00-1009
+  year: '2000'
+A00-1010:
+  address: Seattle, Washington, USA
+  author:
+  - first: David
+    full: David Stallard
+    id: david-stallard
+    last: Stallard
+  author_string: David Stallard
+  bibkey: stallard-2000-talkntravel
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974157
+  month: April
+  page_first: '68'
+  page_last: '75'
+  pages: "68\u201375"
+  paper_id: '10'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1010.jpg
+  title: "Talk\u2019n\u2019Travel: A Conversational System for Air Travel Planning"
+  title_html: "<span class=\"acl-fixed-case\">T</span>alk\u2019n\u2019<span class=\"\
+    acl-fixed-case\">T</span>ravel: A Conversational System for Air Travel Planning"
+  url: https://www.aclweb.org/anthology/A00-1010
+  year: '2000'
+A00-1011:
+  address: Seattle, Washington, USA
+  author:
+  - first: Chinatsu
+    full: Chinatsu Aone
+    id: chinatsu-aone
+    last: Aone
+  - first: Mila
+    full: Mila Ramos-Santacruz
+    id: mila-ramos-santacruz
+    last: Ramos-Santacruz
+  author_string: Chinatsu Aone, Mila Ramos-Santacruz
+  bibkey: aone-ramos-santacruz-2000-rees
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974158
+  month: April
+  page_first: '76'
+  page_last: '83'
+  pages: "76\u201383"
+  paper_id: '11'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1011.jpg
+  title: 'REES: A Large-Scale Relation and Event Extraction System'
+  title_html: '<span class="acl-fixed-case">REES</span>: A Large-Scale Relation and
+    Event Extraction System'
+  url: https://www.aclweb.org/anthology/A00-1011
+  year: '2000'
+A00-1012:
+  address: Seattle, Washington, USA
+  author:
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  author_string: Mark Stevenson, Robert Gaizauskas
+  bibkey: stevenson-gaizauskas-2000-experiments
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974159
+  month: April
+  page_first: '84'
+  page_last: '89'
+  pages: "84\u201389"
+  paper_id: '12'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1012.jpg
+  title: Experiments on Sentence Boundary Detection
+  title_html: Experiments on Sentence Boundary Detection
+  url: https://www.aclweb.org/anthology/A00-1012
+  year: '2000'
+A00-1013:
+  address: Seattle, Washington, USA
+  author:
+  - first: Katja
+    full: Katja Wiemer-Hastings
+    id: katja-wiemer-hastings
+    last: Wiemer-Hastings
+  - first: Peter
+    full: Peter Wiemer-Hastings
+    id: peter-wiemer-hastings
+    last: Wiemer-Hastings
+  - first: Sonya
+    full: Sonya Rajah
+    id: sonya-rajah
+    last: Rajah
+  author_string: Katja Wiemer-Hastings, Peter Wiemer-Hastings, Sonya Rajah
+  bibkey: wiemer-hastings-etal-2000-dp
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974160
+  month: April
+  page_first: '90'
+  page_last: '96'
+  pages: "90\u201396"
+  paper_id: '13'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1013.jpg
+  title: 'DP: A Detector for Presuppositions in survey questions'
+  title_html: '<span class="acl-fixed-case">DP</span>: A Detector for Presuppositions
+    in survey questions'
+  url: https://www.aclweb.org/anthology/A00-1013
+  year: '2000'
+A00-1014:
+  address: Seattle, Washington, USA
+  author:
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  author_string: Jennifer Chu-Carroll
+  bibkey: chu-carroll-2000-mimic
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974161
+  month: April
+  page_first: '97'
+  page_last: '104'
+  pages: "97\u2013104"
+  paper_id: '14'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1014.jpg
+  title: 'MIMIC: An Adaptive Mixed Initiative Spoken Dialogue System for Information
+    Queries'
+  title_html: '<span class="acl-fixed-case">MIMIC</span>: An Adaptive Mixed Initiative
+    Spoken Dialogue System for Information Queries'
+  url: https://www.aclweb.org/anthology/A00-1014
+  year: '2000'
+A00-1015:
+  address: Seattle, Washington, USA
+  author:
+  - first: Michael S.
+    full: Michael S. Fulkerson
+    id: michael-s-fulkerson
+    last: Fulkerson
+  - first: Alan W.
+    full: Alan W. Biermann
+    id: alan-w-biermann
+    last: Biermann
+  author_string: Michael S. Fulkerson, Alan W. Biermann
+  bibkey: fulkerson-biermann-2000-javox
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974162
+  month: April
+  page_first: '105'
+  page_last: '111'
+  pages: "105\u2013111"
+  paper_id: '15'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1015.jpg
+  title: 'Javox: A Toolkit for Building Speech-Enabled Applications'
+  title_html: '<span class="acl-fixed-case">J</span>avox: A Toolkit for Building Speech-Enabled
+    Applications'
+  url: https://www.aclweb.org/anthology/A00-1015
+  year: '2000'
+A00-1016:
+  address: Seattle, Washington, USA
+  author:
+  - first: Manny
+    full: Manny Rayner
+    id: manny-rayner
+    last: Rayner
+  - first: Beth Ann
+    full: Beth Ann Hockey
+    id: beth-ann-hockey
+    last: Hockey
+  - first: Frankie
+    full: Frankie James
+    id: frankie-james
+    last: James
+  author_string: Manny Rayner, Beth Ann Hockey, Frankie James
+  bibkey: rayner-etal-2000-compact
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974163
+  month: April
+  page_first: '112'
+  page_last: '118'
+  pages: "112\u2013118"
+  paper_id: '16'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1016.jpg
+  title: A Compact Architecture for Dialogue Management Based on Scripts and Meta-Outputs
+  title_html: A Compact Architecture for Dialogue Management Based on Scripts and
+    Meta-Outputs
+  url: https://www.aclweb.org/anthology/A00-1016
+  year: '2000'
+A00-1017:
+  address: Seattle, Washington, USA
+  author:
+  - first: C
+    full: C Mellish
+    id: chris-mellish
+    last: Mellish
+  - first: R
+    full: R Evans
+    id: roger-evans
+    last: Evans
+  - first: L
+    full: L Cahill
+    id: lynne-cahill
+    last: Cahill
+  - first: C
+    full: C Doran
+    id: christine-doran
+    last: Doran
+  - first: D
+    full: D Paiva
+    id: daniel-paiva
+    last: Paiva
+  - first: M
+    full: M Reape
+    id: mike-reape
+    last: Reape
+  - first: D
+    full: D Scott
+    id: donia-scott
+    last: Scott
+  - first: 'N'
+    full: N Tipper
+    id: neil-tipper
+    last: Tipper
+  author_string: C Mellish, R Evans, L Cahill, C Doran, D Paiva, M Reape, D Scott,
+    N Tipper
+  bibkey: mellish-etal-2000-representation
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974164
+  month: April
+  page_first: '119'
+  page_last: '126'
+  pages: "119\u2013126"
+  paper_id: '17'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1017.jpg
+  title: A Representation for Complex and Evolving Data Dependencies in Generation
+  title_html: A Representation for Complex and Evolving Data Dependencies in Generation
+  url: https://www.aclweb.org/anthology/A00-1017
+  year: '2000'
+A00-1018:
+  address: Seattle, Washington, USA
+  author:
+  - first: Jean-Marc Jutras
+    full: Jean-Marc Jutras Rali
+    id: jean-marc-jutras-rali
+    last: Rali
+  author_string: Jean-Marc Jutras Rali
+  bibkey: rali-2000-automatic
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974165
+  month: April
+  page_first: '127'
+  page_last: '134'
+  pages: "127\u2013134"
+  paper_id: '18'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1018.jpg
+  title: 'An Automatic Reviser: The TransCheck System'
+  title_html: 'An Automatic Reviser: The <span class="acl-fixed-case">T</span>rans<span
+    class="acl-fixed-case">C</span>heck System'
+  url: https://www.aclweb.org/anthology/A00-1018
+  year: '2000'
+A00-1019:
+  address: Seattle, Washington, USA
+  author:
+  - first: Philippe
+    full: Philippe Langlais
+    id: philippe-langlais
+    last: Langlais
+  - first: George
+    full: George Foster
+    id: george-foster
+    last: Foster
+  - first: Guy
+    full: Guy Lapalme
+    id: guy-lapalme
+    last: Lapalme
+  author_string: Philippe Langlais, George Foster, Guy Lapalme
+  bibkey: langlais-etal-2000-unit
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974166
+  month: April
+  page_first: '135'
+  page_last: '141'
+  pages: "135\u2013141"
+  paper_id: '19'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1019.jpg
+  title: Unit Completion for a Computer-aided Translation Typing System
+  title_html: Unit Completion for a Computer-aided Translation Typing System
+  url: https://www.aclweb.org/anthology/A00-1019
+  year: '2000'
+A00-1020:
+  address: Seattle, Washington, USA
+  author:
+  - first: Sanda M.
+    full: Sanda M. Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  - first: Steven J.
+    full: Steven J. Maiorano
+    id: steven-j-maiorano
+    last: Maiorano
+  author_string: Sanda M. Harabagiu, Steven J. Maiorano
+  bibkey: harabagiu-maiorano-2000-multilingual
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974167
+  month: April
+  page_first: '142'
+  page_last: '149'
+  pages: "142\u2013149"
+  paper_id: '20'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1020.jpg
+  title: Multilingual Coreference Resolution
+  title_html: Multilingual Coreference Resolution
+  url: https://www.aclweb.org/anthology/A00-1020
+  year: '2000'
+A00-1021:
+  address: Seattle, Washington, USA
+  author:
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  - first: John
+    full: John Prager
+    id: john-prager
+    last: Prager
+  - first: Valerie
+    full: Valerie Samn
+    id: valerie-samn
+    last: Samn
+  author_string: Dragomir R. Radev, John Prager, Valerie Samn
+  bibkey: radev-etal-2000-ranking
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974168
+  month: April
+  page_first: '150'
+  page_last: '157'
+  pages: "150\u2013157"
+  paper_id: '21'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1021.jpg
+  title: Ranking suspected answers to natural language questions using predictive
+    annotation
+  title_html: Ranking suspected answers to natural language questions using predictive
+    annotation
+  url: https://www.aclweb.org/anthology/A00-1021
+  year: '2000'
+A00-1022:
+  address: Seattle, Washington, USA
+  author:
+  - first: Stephan
+    full: Stephan Busemann
+    id: stephan-busemann
+    last: Busemann
+  - first: Sven
+    full: Sven Schmeier
+    id: sven-schmeier
+    last: Schmeier
+  - first: Roman G.
+    full: Roman G. Arens
+    id: roman-g-arens
+    last: Arens
+  author_string: Stephan Busemann, Sven Schmeier, Roman G. Arens
+  bibkey: busemann-etal-2000-message
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974169
+  month: April
+  page_first: '158'
+  page_last: '165'
+  pages: "158\u2013165"
+  paper_id: '22'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1022.jpg
+  title: Message Classification in the Call Center
+  title_html: Message Classification in the Call Center
+  url: https://www.aclweb.org/anthology/A00-1022
+  year: '2000'
+A00-1023:
+  address: Seattle, Washington, USA
+  author:
+  - first: Rohini
+    full: Rohini Srihari
+    id: rohini-k-srihari
+    last: Srihari
+  - first: Wei
+    full: Wei Li
+    id: wei-li
+    last: Li
+  author_string: Rohini Srihari, Wei Li
+  bibkey: srihari-li-2000-question
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974170
+  month: April
+  page_first: '166'
+  page_last: '172'
+  pages: "166\u2013172"
+  paper_id: '23'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1023.jpg
+  title: A Question Answering System Supported by Information Extraction
+  title_html: A Question Answering System Supported by Information Extraction
+  url: https://www.aclweb.org/anthology/A00-1023
+  year: '2000'
+A00-1024:
+  address: Seattle, Washington, USA
+  author:
+  - first: Janine
+    full: Janine Toole
+    id: janine-toole
+    last: Toole
+  author_string: Janine Toole
+  bibkey: toole-2000-categorizing
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974171
+  month: April
+  page_first: '173'
+  page_last: '179'
+  pages: "173\u2013179"
+  paper_id: '24'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1024.jpg
+  title: 'Categorizing Unknown Words: Using Decision Trees to Identify Names and Misspellings'
+  title_html: 'Categorizing Unknown Words: Using Decision Trees to Identify Names
+    and Misspellings'
+  url: https://www.aclweb.org/anthology/A00-1024
+  year: '2000'
+A00-1025:
+  address: Seattle, Washington, USA
+  author:
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  - first: David
+    full: David Pierce
+    id: david-pierce
+    last: Pierce
+  - first: Chris
+    full: Chris Buckley
+    id: chris-buckley
+    last: Buckley
+  author_string: Claire Cardie, Vincent Ng, David Pierce, Chris Buckley
+  bibkey: cardie-etal-2000-examining
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974172
+  month: April
+  page_first: '180'
+  page_last: '187'
+  pages: "180\u2013187"
+  paper_id: '25'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1025.jpg
+  title: Examining the Role of Statistical and Linguistic Knowledge Sources in a General-Knowledge
+    Question-Answering System
+  title_html: Examining the Role of Statistical and Linguistic Knowledge Sources in
+    a General-Knowledge Question-Answering System
+  url: https://www.aclweb.org/anthology/A00-1025
+  year: '2000'
+A00-1026:
+  address: Seattle, Washington, USA
+  author:
+  - first: Thomas C.
+    full: Thomas C. Rindflesch
+    id: thomas-c-rindflesch
+    last: Rindflesch
+  - first: Jayant V.
+    full: Jayant V. Rajan
+    id: jayant-v-rajan
+    last: Rajan
+  - first: Lawrence
+    full: Lawrence Hunter
+    id: lawrence-hunter
+    last: Hunter
+  author_string: Thomas C. Rindflesch, Jayant V. Rajan, Lawrence Hunter
+  bibkey: rindflesch-etal-2000-extracting
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974173
+  month: April
+  page_first: '188'
+  page_last: '195'
+  pages: "188\u2013195"
+  paper_id: '26'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1026.jpg
+  title: Extracting Molecular Binding Relationships from Biomedical Text
+  title_html: Extracting Molecular Binding Relationships from Biomedical Text
+  url: https://www.aclweb.org/anthology/A00-1026
+  year: '2000'
+A00-1027:
+  address: Seattle, Washington, USA
+  author:
+  - first: Juntae
+    full: Juntae Yoon
+    id: juntae-yoon
+    last: Yoon
+  author_string: Juntae Yoon
+  bibkey: yoon-2000-compound
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974174
+  month: April
+  page_first: '196'
+  page_last: '203'
+  pages: "196\u2013203"
+  paper_id: '27'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1027.jpg
+  title: Compound Noun Segmentation Based on Lexical Data Extracted from Corpus
+  title_html: Compound Noun Segmentation Based on Lexical Data Extracted from Corpus
+  url: https://www.aclweb.org/anthology/A00-1027
+  year: '2000'
+A00-1028:
+  address: Seattle, Washington, USA
+  author:
+  - first: Nicola
+    full: Nicola Cancedda
+    id: nicola-cancedda
+    last: Cancedda
+  - first: Christer
+    full: Christer Samuelsson
+    id: christer-samuelsson
+    last: Samuelsson
+  author_string: Nicola Cancedda, Christer Samuelsson
+  bibkey: cancedda-samuelsson-2000-experiments
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974175
+  month: April
+  page_first: '204'
+  page_last: '209'
+  pages: "204\u2013209"
+  paper_id: '28'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1028.jpg
+  title: Experiments with Corpus-based LFG Specialization
+  title_html: Experiments with Corpus-based <span class="acl-fixed-case">LFG</span>
+    Specialization
+  url: https://www.aclweb.org/anthology/A00-1028
+  year: '2000'
+A00-1029:
+  address: Seattle, Washington, USA
+  author:
+  - first: Nanda
+    full: Nanda Kambhatla
+    id: nanda-kambhatla
+    last: Kambhatla
+  - first: Wlodek
+    full: Wlodek Zadrozny
+    id: wlodek-zadrozny
+    last: Zadrozny
+  author_string: Nanda Kambhatla, Wlodek Zadrozny
+  bibkey: kambhatla-zadrozny-2000-tool
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974176
+  month: April
+  page_first: '210'
+  page_last: '217'
+  pages: "210\u2013217"
+  paper_id: '29'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1029.jpg
+  title: A Tool for Automated Revision of Grammars for NLP Systems
+  title_html: A Tool for Automated Revision of Grammars for <span class="acl-fixed-case">NLP</span>
+    Systems
+  url: https://www.aclweb.org/anthology/A00-1029
+  year: '2000'
+A00-1030:
+  address: Seattle, Washington, USA
+  author:
+  - first: William A.
+    full: William A. Woods
+    id: william-a-woods
+    last: Woods
+  author_string: William A. Woods
+  bibkey: woods-2000-aggressive
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974177
+  month: April
+  page_first: '218'
+  page_last: '223'
+  pages: "218\u2013223"
+  paper_id: '30'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1030.jpg
+  title: Aggressive Morphology for Robust Lexical Coverage
+  title_html: Aggressive Morphology for Robust Lexical Coverage
+  url: https://www.aclweb.org/anthology/A00-1030
+  year: '2000'
+A00-1031:
+  address: Seattle, Washington, USA
+  author:
+  - first: Thorsten
+    full: Thorsten Brants
+    id: thorsten-brants
+    last: Brants
+  author_string: Thorsten Brants
+  bibkey: brants-2000-tnt
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974178
+  month: April
+  page_first: '224'
+  page_last: '231'
+  pages: "224\u2013231"
+  paper_id: '31'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1031.jpg
+  title: "TnT \u2013 A Statistical Part-of-Speech Tagger"
+  title_html: "<span class=\"acl-fixed-case\">T</span>n<span class=\"acl-fixed-case\"\
+    >T</span> \u2013 A Statistical Part-of-Speech Tagger"
+  url: https://www.aclweb.org/anthology/A00-1031
+  year: '2000'
+A00-1032:
+  address: Seattle, Washington, USA
+  author:
+  - first: Tatsuo
+    full: Tatsuo Yamashita
+    id: tatsuo-yamashita
+    last: Yamashita
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Tatsuo Yamashita, Yuji Matsumoto
+  bibkey: yamashita-matsumoto-2000-language
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974179
+  month: April
+  page_first: '232'
+  page_last: '238'
+  pages: "232\u2013238"
+  paper_id: '32'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1032.jpg
+  title: Language Independent Morphological Analysis
+  title_html: Language Independent Morphological Analysis
+  url: https://www.aclweb.org/anthology/A00-1032
+  year: '2000'
+A00-1033:
+  address: Seattle, Washington, USA
+  author:
+  - first: Gunter
+    full: Gunter Neumann
+    id: gunter-neumann
+    last: Neumann
+  - first: Christian
+    full: Christian Braun
+    id: christian-braun
+    last: Braun
+  - first: Jakub
+    full: Jakub Piskorski
+    id: jakub-piskorski
+    last: Piskorski
+  author_string: Gunter Neumann, Christian Braun, Jakub Piskorski
+  bibkey: neumann-etal-2000-divide
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974180
+  month: April
+  page_first: '239'
+  page_last: '246'
+  pages: "239\u2013246"
+  paper_id: '33'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1033.jpg
+  title: A Divide-and-Conquer Strategy for Shallow Parsing of German Free Texts
+  title_html: A Divide-and-Conquer Strategy for Shallow Parsing of <span class="acl-fixed-case">G</span>erman
+    Free Texts
+  url: https://www.aclweb.org/anthology/A00-1033
+  year: '2000'
+A00-1034:
+  address: Seattle, Washington, USA
+  author:
+  - first: Rohini
+    full: Rohini Srihari
+    id: rohini-k-srihari
+    last: Srihari
+  author_string: Rohini Srihari
+  bibkey: srihari-2000-hybrid
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974181
+  month: April
+  page_first: '247'
+  page_last: '254'
+  pages: "247\u2013254"
+  paper_id: '34'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1034.jpg
+  title: A Hybrid Approach for Named Entity and Sub-Type Tagging
+  title_html: A Hybrid Approach for Named Entity and Sub-Type Tagging
+  url: https://www.aclweb.org/anthology/A00-1034
+  year: '2000'
+A00-1035:
+  address: Seattle, Washington, USA
+  author:
+  - first: Patrizia
+    full: Patrizia Paggio
+    id: patrizia-paggio
+    last: Paggio
+  author_string: Patrizia Paggio
+  bibkey: paggio-2000-spelling
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974182
+  month: April
+  page_first: '255'
+  page_last: '261'
+  pages: "255\u2013261"
+  paper_id: '35'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1035.jpg
+  title: Spelling and Grammar Correction for Danish in SCARRIE
+  title_html: Spelling and Grammar Correction for <span class="acl-fixed-case">D</span>anish
+    in <span class="acl-fixed-case">SCARRIE</span>
+  url: https://www.aclweb.org/anthology/A00-1035
+  year: '2000'
+A00-1036:
+  address: Seattle, Washington, USA
+  author:
+  - first: William A.
+    full: William A. Woods
+    id: william-a-woods
+    last: Woods
+  - first: Lawrence A.
+    full: Lawrence A. Bookman
+    id: lawrence-a-bookman
+    last: Bookman
+  - first: Ann
+    full: Ann Houston
+    id: ann-houston
+    last: Houston
+  - first: Robert J.
+    full: Robert J. Kuhns
+    id: robert-j-kuhns
+    last: Kuhns
+  - first: Paul
+    full: Paul Martin
+    id: paul-martin
+    last: Martin
+  - first: Stephen
+    full: Stephen Green
+    id: stephen-j-green
+    last: Green
+  author_string: William A. Woods, Lawrence A. Bookman, Ann Houston, Robert J. Kuhns,
+    Paul Martin, Stephen Green
+  bibkey: woods-etal-2000-linguistic
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974183
+  month: April
+  page_first: '262'
+  page_last: '267'
+  pages: "262\u2013267"
+  paper_id: '36'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1036.jpg
+  title: Linguistic Knowledge can Improve Information Retrieval
+  title_html: Linguistic Knowledge can Improve Information Retrieval
+  url: https://www.aclweb.org/anthology/A00-1036
+  year: '2000'
+A00-1037:
+  address: Seattle, Washington, USA
+  author:
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Roxana
+    full: Roxana Girju
+    id: roxana-girju
+    last: Girju
+  - first: Vasile
+    full: Vasile Rus
+    id: vasile-rus
+    last: Rus
+  author_string: Dan Moldovan, Roxana Girju, Vasile Rus
+  bibkey: moldovan-etal-2000-domain
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974184
+  month: April
+  page_first: '268'
+  page_last: '275'
+  pages: "268\u2013275"
+  paper_id: '37'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1037.jpg
+  title: Domain-Specific Knowledge Acquisition from Text
+  title_html: Domain-Specific Knowledge Acquisition from Text
+  url: https://www.aclweb.org/anthology/A00-1037
+  year: '2000'
+A00-1038:
+  address: Seattle, Washington, USA
+  author:
+  - first: Mark
+    full: Mark Wasson
+    id: mark-wasson
+    last: Wasson
+  author_string: Mark Wasson
+  bibkey: wasson-2000-large
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974185
+  month: April
+  page_first: '276'
+  page_last: '281'
+  pages: "276\u2013281"
+  paper_id: '38'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1038.jpg
+  title: Large-scale Controlled Vocabulary Indexing for Named Entities
+  title_html: Large-scale Controlled Vocabulary Indexing for Named Entities
+  url: https://www.aclweb.org/anthology/A00-1038
+  year: '2000'
+A00-1039:
+  address: Seattle, Washington, USA
+  author:
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Pasi
+    full: Pasi Tapanainen
+    id: pasi-tapanainen
+    last: Tapanainen
+  author_string: Roman Yangarber, Ralph Grishman, Pasi Tapanainen
+  bibkey: yangarber-etal-2000-unsupervised
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974186
+  month: April
+  page_first: '282'
+  page_last: '289'
+  pages: "282\u2013289"
+  paper_id: '39'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1039.jpg
+  title: Unsupervised Discovery of Scenario-Level Patterns for Information Extraction
+  title_html: Unsupervised Discovery of Scenario-Level Patterns for Information Extraction
+  url: https://www.aclweb.org/anthology/A00-1039
+  year: '2000'
+A00-1040:
+  address: Seattle, Washington, USA
+  author:
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  author_string: Mark Stevenson, Robert Gaizauskas
+  bibkey: stevenson-gaizauskas-2000-using
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974187
+  month: April
+  page_first: '290'
+  page_last: '295'
+  pages: "290\u2013295"
+  paper_id: '40'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1040.jpg
+  title: Using Corpus-derived Name Lists for Named Entity Recognition
+  title_html: Using Corpus-derived Name Lists for Named Entity Recognition
+  url: https://www.aclweb.org/anthology/A00-1040
+  year: '2000'
+A00-1041:
+  address: Seattle, Washington, USA
+  author:
+  - first: Steven
+    full: Steven Abney
+    id: steven-abney
+    last: Abney
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  - first: Amit
+    full: Amit Singhal
+    id: amit-singhal
+    last: Singhal
+  author_string: Steven Abney, Michael Collins, Amit Singhal
+  bibkey: abney-etal-2000-answer
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974188
+  month: April
+  page_first: '296'
+  page_last: '301'
+  pages: "296\u2013301"
+  paper_id: '41'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1041.jpg
+  title: Answer Extraction
+  title_html: Answer Extraction
+  url: https://www.aclweb.org/anthology/A00-1041
+  year: '2000'
+A00-1042:
+  address: Seattle, Washington, USA
+  author:
+  - first: Nina
+    full: Nina Wacholder
+    id: nina-wacholder
+    last: Wacholder
+  - first: Judith L.
+    full: Judith L. Klavans
+    id: judith-l-klavans
+    last: Klavans
+  - first: David K.
+    full: David K. Evans
+    id: david-k-evans
+    last: Evans
+  author_string: Nina Wacholder, Judith L. Klavans, David K. Evans
+  bibkey: wacholder-etal-2000-evaluation
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974189
+  month: April
+  page_first: '302'
+  page_last: '309'
+  pages: "302\u2013309"
+  paper_id: '42'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1042.jpg
+  title: Evaluation of Automatically Identified Index Terms for Browsing Electronic
+    Documents
+  title_html: Evaluation of Automatically Identified Index Terms for Browsing Electronic
+    Documents
+  url: https://www.aclweb.org/anthology/A00-1042
+  year: '2000'
+A00-1043:
+  address: Seattle, Washington, USA
+  author:
+  - first: Hongyan
+    full: Hongyan Jing
+    id: hongyan-jing
+    last: Jing
+  author_string: Hongyan Jing
+  bibkey: jing-2000-sentence
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974190
+  month: April
+  page_first: '310'
+  page_last: '315'
+  pages: "310\u2013315"
+  paper_id: '43'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1043.jpg
+  title: Sentence Reduction for Automatic Text Summarization
+  title_html: Sentence Reduction for Automatic Text Summarization
+  url: https://www.aclweb.org/anthology/A00-1043
+  year: '2000'
+A00-1044:
+  address: Seattle, Washington, USA
+  author:
+  - first: David
+    full: David Miller
+    id: david-miller
+    last: Miller
+  - first: Sean
+    full: Sean Boisen
+    id: sean-boisen
+    last: Boisen
+  - first: Richard
+    full: Richard Schwartz
+    id: richard-schwartz
+    last: Schwartz
+  - first: Rebecca
+    full: Rebecca Stone
+    id: rebecca-stone
+    last: Stone
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: David Miller, Sean Boisen, Richard Schwartz, Rebecca Stone, Ralph
+    Weischedel
+  bibkey: miller-etal-2000-named
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974191
+  month: April
+  page_first: '316'
+  page_last: '324'
+  pages: "316\u2013324"
+  paper_id: '44'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1044.jpg
+  title: 'Named Entity Extraction from Noisy Input: Speech and OCR'
+  title_html: 'Named Entity Extraction from Noisy Input: Speech and <span class="acl-fixed-case">OCR</span>'
+  url: https://www.aclweb.org/anthology/A00-1044
+  year: '2000'
+A00-1045:
+  address: Seattle, Washington, USA
+  author:
+  - first: Norbert
+    full: Norbert Broker
+    id: norbert-broker
+    last: Broker
+  author_string: Norbert Broker
+  bibkey: broker-2000-improving
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974192
+  month: April
+  page_first: '325'
+  page_last: '330'
+  pages: "325\u2013330"
+  paper_id: '45'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1045.jpg
+  title: Improving Testsuites via Instrumentation
+  title_html: Improving Testsuites via Instrumentation
+  url: https://www.aclweb.org/anthology/A00-1045
+  year: '2000'
+A00-1046:
+  address: Seattle, Washington, USA
+  author:
+  - first: Philip
+    full: Philip Cohen
+    id: philip-r-cohen
+    last: Cohen
+  - first: David
+    full: David McGee
+    id: david-mcgee
+    last: McGee
+  - first: Josh
+    full: Josh Clow
+    id: josh-clow
+    last: Clow
+  author_string: Philip Cohen, David McGee, Josh Clow
+  bibkey: cohen-etal-2000-efficiency
+  bibtype: inproceedings
+  booktitle: Sixth Applied Natural Language Processing Conference
+  booktitle_html: Sixth Applied Natural Language Processing Conference
+  doi: 10.3115/974147.974193
+  month: April
+  page_first: '331'
+  page_last: '338'
+  pages: "331\u2013338"
+  paper_id: '46'
+  parent_volume_id: A00-1
+  pdf: https://www.aclweb.org/anthology/A00-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-1046.jpg
+  title: The Efficiency of Multimodal Interaction for a Map-based Task
+  title_html: The Efficiency of Multimodal Interaction for a Map-based Task
+  url: https://www.aclweb.org/anthology/A00-1046
+  year: '2000'
+A00-2000:
+  bibkey: anlp-2000-north
+  bibtype: proceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  paper_id: '0'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2000.jpg
+  title: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  title_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/A00-2000
+  year: '2000'
+A00-2001:
+  author:
+  - first: Colin
+    full: Colin Matheson
+    id: colin-matheson
+    last: Matheson
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: David
+    full: David Traum
+    id: david-traum
+    last: Traum
+  author_string: Colin Matheson, Massimo Poesio, David Traum
+  bibkey: matheson-etal-2000-modelling
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '1'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2001.jpg
+  title: Modelling Grounding and Discourse Obligations Using Update Rules
+  title_html: Modelling Grounding and Discourse Obligations Using Update Rules
+  url: https://www.aclweb.org/anthology/A00-2001
+  year: '2000'
+A00-2002:
+  author:
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  - first: Lynn
+    full: Lynn Carlson
+    id: lynn-carlson
+    last: Carlson
+  - first: Maki
+    full: Maki Watanabe
+    id: maki-watanabe
+    last: Watanabe
+  author_string: Daniel Marcu, Lynn Carlson, Maki Watanabe
+  bibkey: marcu-etal-2000-automatic
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '2'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2002.jpg
+  title: The Automatic Translation of Discourse Structures
+  title_html: The Automatic Translation of Discourse Structures
+  url: https://www.aclweb.org/anthology/A00-2002
+  year: '2000'
+A00-2003:
+  author:
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  - first: Maria
+    full: Maria Wolters
+    id: maria-wolters
+    last: Wolters
+  author_string: Michael Strube, Maria Wolters
+  bibkey: strube-wolters-2000-probabilistic
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '3'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2003.jpg
+  title: A Probabilistic Genre-Independent Model of Pronominalization
+  title_html: A Probabilistic Genre-Independent Model of Pronominalization
+  url: https://www.aclweb.org/anthology/A00-2003
+  year: '2000'
+A00-2004:
+  author:
+  - first: Freddy Y. Y.
+    full: Freddy Y. Y. Choi
+    id: freddy-y-y-choi
+    last: Choi
+  author_string: Freddy Y. Y. Choi
+  bibkey: choi-2000-advances
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '4'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2004.jpg
+  title: Advances in domain independent linear text segmentation
+  title_html: Advances in domain independent linear text segmentation
+  url: https://www.aclweb.org/anthology/A00-2004
+  year: '2000'
+A00-2005:
+  author:
+  - first: John C.
+    full: John C. Henderson
+    id: john-henderson
+    last: Henderson
+  - first: Eric
+    full: Eric Brill
+    id: eric-brill
+    last: Brill
+  author_string: John C. Henderson, Eric Brill
+  bibkey: henderson-brill-2000-bagging
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '5'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2005.jpg
+  title: Bagging and Boosting a Treebank Parser
+  title_html: Bagging and Boosting a Treebank Parser
+  url: https://www.aclweb.org/anthology/A00-2005
+  year: '2000'
+A00-2006:
+  author:
+  - first: Antonietta
+    full: Antonietta Alonge
+    id: antonietta-alonge
+    last: Alonge
+  - first: Francesca
+    full: Francesca Bertagna
+    id: francesca-bertagna
+    last: Bertagna
+  - first: Nicoletta
+    full: Nicoletta Calzolari
+    id: nicoletta-calzolari
+    last: Calzolari
+  - first: Adriana
+    full: Adriana Roventini
+    id: adriana-roventini
+    last: Roventini
+  - first: Antonio
+    full: Antonio Zampolli
+    id: antonio-zampolli
+    last: Zampolli
+  author_string: Antonietta Alonge, Francesca Bertagna, Nicoletta Calzolari, Adriana
+    Roventini, Antonio Zampolli
+  bibkey: alonge-etal-2000-encoding
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '6'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2006.jpg
+  title: Encoding information on adjectives in a lexical-semantic net for computational
+    applications
+  title_html: Encoding information on adjectives in a lexical-semantic net for computational
+    applications
+  url: https://www.aclweb.org/anthology/A00-2006
+  year: '2000'
+A00-2007:
+  author:
+  - first: Erik F.
+    full: Erik F. Tjong
+    id: erik-f-tjong
+    last: Tjong
+  author_string: Erik F. Tjong
+  bibkey: tjong-2000-noun
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '7'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2007.jpg
+  title: Noun Phrase Recognition by System Combination
+  title_html: Noun Phrase Recognition by System Combination
+  url: https://www.aclweb.org/anthology/A00-2007
+  year: '2000'
+A00-2008:
+  author:
+  - first: Christopher
+    full: Christopher Johnson
+    id: christopher-johnson
+    last: Johnson
+  - first: Charles J.
+    full: Charles J. Fillmore
+    id: charles-j-fillmore
+    last: Fillmore
+  author_string: Christopher Johnson, Charles J. Fillmore
+  bibkey: johnson-fillmore-2000-framenet
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '8'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2008.jpg
+  title: The FrameNet tagset for frame-semantic and syntactic coding of predicate-argument
+    structure
+  title_html: The <span class="acl-fixed-case">F</span>rame<span class="acl-fixed-case">N</span>et
+    tagset for frame-semantic and syntactic coding of predicate-argument structure
+  url: https://www.aclweb.org/anthology/A00-2008
+  year: '2000'
+A00-2009:
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Ted Pedersen
+  bibkey: pedersen-2000-simple
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '9'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2009.jpg
+  title: A Simple Approach to Building Ensembles of Naive Bayesian Classifiers for
+    Word Sense Disambiguation
+  title_html: A Simple Approach to Building Ensembles of Naive <span class="acl-fixed-case">B</span>ayesian
+    Classifiers for Word Sense Disambiguation
+  url: https://www.aclweb.org/anthology/A00-2009
+  year: '2000'
+A00-2010:
+  author:
+  - first: Sylvain
+    full: Sylvain Pogodalla
+    id: sylvain-pogodalla
+    last: Pogodalla
+  author_string: Sylvain Pogodalla
+  bibkey: pogodalla-2000-generation-lambek
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '10'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2010.jpg
+  title: 'Generation in the Lambek Calculus Framework: an Approach with Semantic Proof
+    Nets'
+  title_html: 'Generation in the Lambek Calculus Framework: an Approach with Semantic
+    Proof Nets'
+  url: https://www.aclweb.org/anthology/A00-2010
+  year: '2000'
+A00-2011:
+  author:
+  - first: Patrick
+    full: Patrick Pantel
+    id: patrick-pantel
+    last: Pantel
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  author_string: Patrick Pantel, Dekang Lin
+  bibkey: pantel-lin-2000-word
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '11'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2011.jpg
+  title: Word-for-Word Glossing with Contextually Similar Words
+  title_html: Word-for-Word Glossing with Contextually Similar Words
+  url: https://www.aclweb.org/anthology/A00-2011
+  year: '2000'
+A00-2012:
+  author:
+  - first: Violetta
+    full: Violetta Cavalli-Sforza
+    id: violetta-cavalli-sforza
+    last: Cavalli-Sforza
+  - first: Abdelhadi
+    full: Abdelhadi Soudi
+    id: abdelhadi-soudi
+    last: Soudi
+  - first: Teruko
+    full: Teruko Mitamura
+    id: teruko-mitamura
+    last: Mitamura
+  author_string: Violetta Cavalli-Sforza, Abdelhadi Soudi, Teruko Mitamura
+  bibkey: cavalli-sforza-etal-2000-arabic
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '12'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2012.jpg
+  title: Arabic Morphology Generation Using a Concatenative Strategy
+  title_html: <span class="acl-fixed-case">A</span>rabic Morphology Generation Using
+    a Concatenative Strategy
+  url: https://www.aclweb.org/anthology/A00-2012
+  year: '2000'
+A00-2013:
+  author:
+  - first: Jan
+    full: Jan Hajic
+    id: jan-hajic
+    last: Hajic
+  author_string: Jan Hajic
+  bibkey: hajic-2000-morphological
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '13'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2013.jpg
+  title: 'Morphological Tagging: Data vs. Dictionaries'
+  title_html: 'Morphological Tagging: Data vs. Dictionaries'
+  url: https://www.aclweb.org/anthology/A00-2013
+  year: '2000'
+A00-2014:
+  author:
+  - first: M. P.
+    full: M. P. Harper
+    id: mary-harper
+    last: Harper
+  - first: C. M.
+    full: C. M. White
+    id: christopher-m-white
+    last: White
+  - first: W.
+    full: W. Wang
+    id: wen-wang
+    last: Wang
+  - first: M. T.
+    full: M. T. Johnson
+    id: michael-t-johnson
+    last: Johnson
+  - first: R. A.
+    full: R. A. Helzerman
+    id: randall-a-helzerman
+    last: Helzerman
+  author_string: M. P. Harper, C. M. White, W. Wang, M. T. Johnson, R. A. Helzerman
+  bibkey: harper-etal-2000-effectiveness
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '14'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2014.jpg
+  title: The Effectiveness of Corpus-Induced Dependency Grammars for Post-processing
+    Speech
+  title_html: The Effectiveness of Corpus-Induced Dependency Grammars for Post-processing
+    Speech
+  url: https://www.aclweb.org/anthology/A00-2014
+  year: '2000'
+A00-2015:
+  author:
+  - first: Takehito
+    full: Takehito Utsuro
+    id: takehito-utsuro
+    last: Utsuro
+  - first: Shigeyuki
+    full: Shigeyuki Nishiokayama
+    id: shigeyuki-nishiokayama
+    last: Nishiokayama
+  - first: Masakazu
+    full: Masakazu Fujio
+    id: masakazu-fujio
+    last: Fujio
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Takehito Utsuro, Shigeyuki Nishiokayama, Masakazu Fujio, Yuji Matsumoto
+  bibkey: utsuro-etal-2000-analyzing
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '15'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2015.jpg
+  title: Analyzing Dependencies of Japanese Subordinate Clauses based on Statistics
+    of Scope Embedding Preference
+  title_html: Analyzing Dependencies of <span class="acl-fixed-case">J</span>apanese
+    Subordinate Clauses based on Statistics of Scope Embedding Preference
+  url: https://www.aclweb.org/anthology/A00-2015
+  year: '2000'
+A00-2016:
+  author:
+  - first: Ulf
+    full: Ulf Hermjakob
+    id: ulf-hermjakob
+    last: Hermjakob
+  author_string: Ulf Hermjakob
+  bibkey: hermjakob-2000-rapid
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '16'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2016.jpg
+  title: 'Rapid Parser Development: A Machine Learning Approach for Korean'
+  title_html: 'Rapid Parser Development: A Machine Learning Approach for <span class="acl-fixed-case">K</span>orean'
+  url: https://www.aclweb.org/anthology/A00-2016
+  year: '2000'
+A00-2017:
+  author:
+  - first: Yair
+    full: Yair Even-Zohar
+    id: yair-even-zohar
+    last: Even-Zohar
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Yair Even-Zohar, Dan Roth
+  bibkey: even-zohar-roth-2000-classification
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '17'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2017.jpg
+  title: A Classification Approach to Word Prediction
+  title_html: A Classification Approach to Word Prediction
+  url: https://www.aclweb.org/anthology/A00-2017
+  year: '2000'
+A00-2018:
+  author:
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  author_string: Eugene Charniak
+  bibkey: charniak-2000-maximum
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '18'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2018.jpg
+  title: A Maximum-Entropy-Inspired Parser
+  title_html: A Maximum-Entropy-Inspired Parser
+  url: https://www.aclweb.org/anthology/A00-2018
+  year: '2000'
+A00-2019:
+  author:
+  - first: Martin
+    full: Martin Chodorow
+    id: martin-chodorow
+    last: Chodorow
+  - first: Claudia
+    full: Claudia Leacock
+    id: claudia-leacock
+    last: Leacock
+  author_string: Martin Chodorow, Claudia Leacock
+  bibkey: chodorow-leacock-2000-unsupervised
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '19'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2019.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2019.jpg
+  title: An Unsupervised Method for Detecting Grammatical Errors
+  title_html: An Unsupervised Method for Detecting Grammatical Errors
+  url: https://www.aclweb.org/anthology/A00-2019
+  year: '2000'
+A00-2020:
+  author:
+  - first: Eleazar
+    full: Eleazar Eskin
+    id: eleazar-eskin
+    last: Eskin
+  author_string: Eleazar Eskin
+  bibkey: eskin-2000-detecting
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '20'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2020.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2020.jpg
+  title: Detecting Errors within a Corpus using Anomaly Detection
+  title_html: Detecting Errors within a Corpus using Anomaly Detection
+  url: https://www.aclweb.org/anthology/A00-2020
+  year: '2000'
+A00-2021:
+  author:
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  author_string: Mark Johnson, Stefan Riezler
+  bibkey: johnson-riezler-2000-exploiting
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '21'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2021.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2021.jpg
+  title: Exploiting auxiliary distributions in stochastic unification-based grammars
+  title_html: Exploiting auxiliary distributions in stochastic unification-based grammars
+  url: https://www.aclweb.org/anthology/A00-2021
+  year: '2000'
+A00-2022:
+  author:
+  - first: Stephan
+    full: Stephan Oepen
+    id: stephan-oepen
+    last: Oepen
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  author_string: Stephan Oepen, John Carroll
+  bibkey: oepen-carroll-2000-ambiguity
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '22'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2022.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2022.jpg
+  title: Ambiguity Packing in Constraint-based Parsing Practical Results
+  title_html: Ambiguity Packing in Constraint-based Parsing Practical Results
+  url: https://www.aclweb.org/anthology/A00-2022
+  year: '2000'
+A00-2023:
+  author:
+  - first: Irene
+    full: Irene Langkilde
+    id: irene-langkilde
+    last: Langkilde
+  author_string: Irene Langkilde
+  bibkey: langkilde-2000-forest
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '23'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2023.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2023.jpg
+  title: Forest-Based Statistical Sentence Generation
+  title_html: Forest-Based Statistical Sentence Generation
+  url: https://www.aclweb.org/anthology/A00-2023
+  year: '2000'
+A00-2024:
+  author:
+  - first: Hongyan
+    full: Hongyan Jing
+    id: hongyan-jing
+    last: Jing
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Hongyan Jing, Kathleen R. McKeown
+  bibkey: jing-mckeown-2000-cut
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '24'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2024.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2024.jpg
+  title: Cut and Paste Based Text Summarization
+  title_html: Cut and Paste Based Text Summarization
+  url: https://www.aclweb.org/anthology/A00-2024
+  year: '2000'
+A00-2025:
+  author:
+  - first: Klaus
+    full: Klaus Zechner
+    id: klaus-zechner
+    last: Zechner
+  - first: Alex
+    full: Alex Waibel
+    id: alex-waibel
+    last: Waibel
+  author_string: Klaus Zechner, Alex Waibel
+  bibkey: zechner-waibel-2000-minimizing
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '25'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2025.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2025.jpg
+  title: Minimizing Word Error Rate in Textual Summaries of Spoken Language
+  title_html: Minimizing Word Error Rate in Textual Summaries of Spoken Language
+  url: https://www.aclweb.org/anthology/A00-2025
+  year: '2000'
+A00-2026:
+  author:
+  - first: Adwait
+    full: Adwait Ratnaparkhi
+    id: adwait-ratnaparkhi
+    last: Ratnaparkhi
+  author_string: Adwait Ratnaparkhi
+  bibkey: ratnaparkhi-2000-trainable
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '26'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2026.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2026.jpg
+  title: Trainable Methods for Surface Natural Language Generation
+  title_html: Trainable Methods for Surface Natural Language Generation
+  url: https://www.aclweb.org/anthology/A00-2026
+  year: '2000'
+A00-2027:
+  author:
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  author_string: Jennifer Chu-Carroll
+  bibkey: chu-carroll-2000-evaluating
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '27'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2027.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2027.jpg
+  title: Evaluating Automatic Dialogue Strategy Adaptation for a Spoken Dialogue System
+  title_html: Evaluating Automatic Dialogue Strategy Adaptation for a Spoken Dialogue
+    System
+  url: https://www.aclweb.org/anthology/A00-2027
+  year: '2000'
+A00-2028:
+  author:
+  - first: Marilyn
+    full: Marilyn Walker
+    id: marilyn-walker
+    last: Walker
+  - first: Irene
+    full: Irene Langkilde
+    id: irene-langkilde
+    last: Langkilde
+  - first: Jerry
+    full: Jerry Wright
+    id: jerry-wright
+    last: Wright
+  - first: Allen
+    full: Allen Gorin
+    id: allen-l-gorin
+    last: Gorin
+  - first: Diane
+    full: Diane Litman
+    id: diane-litman
+    last: Litman
+  author_string: Marilyn Walker, Irene Langkilde, Jerry Wright, Allen Gorin, Diane
+    Litman
+  bibkey: walker-etal-2000-learning
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '28'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2028.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2028.jpg
+  title: 'Learning to Predict Problematic Situations in a Spoken Dialogue System:
+    Experiments with How May I Help You?'
+  title_html: 'Learning to Predict Problematic Situations in a Spoken Dialogue System:
+    Experiments with <span class="acl-fixed-case">H</span>ow <span class="acl-fixed-case">M</span>ay
+    <span class="acl-fixed-case">I</span> <span class="acl-fixed-case">H</span>elp
+    <span class="acl-fixed-case">Y</span>ou?'
+  url: https://www.aclweb.org/anthology/A00-2028
+  year: '2000'
+A00-2029:
+  author:
+  - first: Diane J.
+    full: Diane J. Litman
+    id: diane-litman
+    last: Litman
+  - first: Julia B.
+    full: Julia B. Hirschberg
+    id: julia-hirschberg
+    last: Hirschberg
+  - first: Marc
+    full: Marc Swerts
+    id: marc-swerts
+    last: Swerts
+  author_string: Diane J. Litman, Julia B. Hirschberg, Marc Swerts
+  bibkey: litman-etal-2000-predicting
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '29'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2029.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2029.jpg
+  title: Predicting Automatic Speech Recognition Performance Using Prosodic Cues
+  title_html: Predicting Automatic Speech Recognition Performance Using Prosodic Cues
+  url: https://www.aclweb.org/anthology/A00-2029
+  year: '2000'
+A00-2030:
+  author:
+  - first: Scott
+    full: Scott Miller
+    id: scott-miller
+    last: Miller
+  - first: Heidi
+    full: Heidi Fox
+    id: heidi-fox
+    last: Fox
+  - first: Lance
+    full: Lance Ramshaw
+    id: lance-ramshaw
+    last: Ramshaw
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Scott Miller, Heidi Fox, Lance Ramshaw, Ralph Weischedel
+  bibkey: miller-etal-2000-novel
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '30'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2030.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2030.jpg
+  title: A Novel Use of Statistical Parsing to Extract Information from Text
+  title_html: A Novel Use of Statistical Parsing to Extract Information from Text
+  url: https://www.aclweb.org/anthology/A00-2030
+  year: '2000'
+A00-2031:
+  author:
+  - first: Don
+    full: Don Blaheta
+    id: don-blaheta
+    last: Blaheta
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  author_string: Don Blaheta, Eugene Charniak
+  bibkey: blaheta-charniak-2000-assigning
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '31'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2031.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2031.jpg
+  title: Assigning Function Tags to Parsed Text
+  title_html: Assigning Function Tags to Parsed Text
+  url: https://www.aclweb.org/anthology/A00-2031
+  year: '2000'
+A00-2032:
+  author:
+  - first: Rie Kubota
+    full: Rie Kubota Ando
+    id: rie-johnson
+    last: Ando
+  - first: Lillian
+    full: Lillian Lee
+    id: lillian-lee
+    last: Lee
+  author_string: Rie Kubota Ando, Lillian Lee
+  bibkey: ando-lee-2000-mostly
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '32'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2032.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2032.jpg
+  title: 'Mostly-Unsupervised Statistical Segmentation of Japanese: Applications to
+    Kanji'
+  title_html: 'Mostly-Unsupervised Statistical Segmentation of <span class="acl-fixed-case">J</span>apanese:
+    Applications to Kanji'
+  url: https://www.aclweb.org/anthology/A00-2032
+  year: '2000'
+A00-2033:
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Robert C. Moore
+  bibkey: moore-2000-removing
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '33'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2033.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2033.jpg
+  title: Removing Left Recursion from Context-Free Grammars
+  title_html: Removing Left Recursion from Context-Free Grammars
+  url: https://www.aclweb.org/anthology/A00-2033
+  year: '2000'
+A00-2034:
+  author:
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  author_string: Diana McCarthy
+  bibkey: mccarthy-2000-using
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '34'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2034.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2034.jpg
+  title: Using Semantic Preferences to Identify Verbal Participation in Role Switching
+    Alternations
+  title_html: Using Semantic Preferences to Identify Verbal Participation in Role
+    Switching Alternations
+  url: https://www.aclweb.org/anthology/A00-2034
+  year: '2000'
+A00-2035:
+  author:
+  - first: Andrei
+    full: Andrei Mikheev
+    id: andrei-mikheev
+    last: Mikheev
+  author_string: Andrei Mikheev
+  bibkey: mikheev-2000-tagging
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '35'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2035.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2035.jpg
+  title: Tagging Sentence Boundaries
+  title_html: Tagging Sentence Boundaries
+  url: https://www.aclweb.org/anthology/A00-2035
+  year: '2000'
+A00-2036:
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Mark-Jan Nederhof, Giorgio Satta
+  bibkey: nederhof-satta-2000-left
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '36'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2036.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2036.jpg
+  title: Left-To-Right Parsing and Bilexical Context-Free Grammars
+  title_html: Left-To-Right Parsing and Bilexical Context-Free Grammars
+  url: https://www.aclweb.org/anthology/A00-2036
+  year: '2000'
+A00-2037:
+  author:
+  - first: Karen
+    full: Karen Ward
+    id: karen-ward
+    last: Ward
+  - first: Peter A.
+    full: Peter A. Heeman
+    id: peter-a-heeman
+    last: Heeman
+  author_string: Karen Ward, Peter A. Heeman
+  bibkey: ward-heeman-2000-acknowledgments
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '37'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2037.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2037.jpg
+  title: Acknowledgments in Human-Computer Interaction
+  title_html: Acknowledgments in Human-Computer Interaction
+  url: https://www.aclweb.org/anthology/A00-2037
+  year: '2000'
+A00-2038:
+  author:
+  - first: Grzegorz
+    full: Grzegorz Kondrak
+    id: grzegorz-kondrak
+    last: Kondrak
+  author_string: Grzegorz Kondrak
+  bibkey: kondrak-2000-new
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '38'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2038.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2038.jpg
+  title: A New Algorithm for the Alignment of Phonetic Sequences
+  title_html: A New Algorithm for the Alignment of Phonetic Sequences
+  url: https://www.aclweb.org/anthology/A00-2038
+  year: '2000'
+A00-2039:
+  author:
+  - first: Markus
+    full: Markus Walther
+    id: markus-walther
+    last: Walther
+  author_string: Markus Walther
+  bibkey: walther-2000-finite
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '39'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2039.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2039.jpg
+  title: Finite-State Reduplication in One-Level Prosodic Morphology
+  title_html: Finite-State Reduplication in One-Level Prosodic Morphology
+  url: https://www.aclweb.org/anthology/A00-2039
+  year: '2000'
+A00-2040:
+  author:
+  - first: Gosse
+    full: Gosse Bouma
+    id: gosse-bouma
+    last: Bouma
+  author_string: Gosse Bouma
+  bibkey: bouma-2000-finite
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '40'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2040.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2040.jpg
+  title: A Finite State and Data-Oriented Method for Grapheme to Phoneme Conversion
+  title_html: A Finite State and Data-Oriented Method for Grapheme to Phoneme Conversion
+  url: https://www.aclweb.org/anthology/A00-2040
+  year: '2000'
+A00-2041:
+  author:
+  - first: Carolyn P.
+    full: Carolyn P. Rose
+    id: carolyn-rose
+    last: Rose
+  author_string: Carolyn P. Rose
+  bibkey: rose-2000-framework
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '41'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2041.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2041.jpg
+  title: A Framework for Robust Semantic Interpretation Learning
+  title_html: A Framework for Robust Semantic Interpretation Learning
+  url: https://www.aclweb.org/anthology/A00-2041
+  year: '2000'
+A00-2042:
+  author:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Karsten
+    full: Karsten Konrad
+    id: karsten-konrad
+    last: Konrad
+  author_string: Claire Gardent, Karsten Konrad
+  bibkey: gardent-konrad-2000-understanding
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '42'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2042.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2042.jpg
+  title: "Understanding \u201CEach Other\u201D"
+  title_html: "Understanding \u201CEach Other\u201D"
+  url: https://www.aclweb.org/anthology/A00-2042
+  year: '2000'
+A00-2043:
+  author:
+  - first: Martin
+    full: Martin Romacker
+    id: martin-romacker
+    last: Romacker
+  - first: Udo
+    full: Udo Hahn
+    id: udo-hahn
+    last: Hahn
+  author_string: Martin Romacker, Udo Hahn
+  bibkey: romacker-hahn-2000-empirical
+  bibtype: inproceedings
+  booktitle: 1st Meeting of the North American Chapter of the Association for Computational
+    Linguistics
+  booktitle_html: 1st Meeting of the North <span class="acl-fixed-case">A</span>merican
+    Chapter of the Association for Computational Linguistics
+  paper_id: '43'
+  parent_volume_id: A00-2
+  pdf: https://www.aclweb.org/anthology/A00-2043.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-2043.jpg
+  title: An Empirical Assessment of Semantic Interpretation
+  title_html: An Empirical Assessment of Semantic Interpretation
+  url: https://www.aclweb.org/anthology/A00-2043
+  year: '2000'
+A00-3000:
+  bibkey: anlp-2000-anlp
+  bibtype: proceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  paper_id: '0'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3000.jpg
+  title: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  title_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span class="acl-fixed-case">NAACL</span>
+    2000 Student Research Workshop
+  url: https://www.aclweb.org/anthology/A00-3000
+  year: '2000'
+A00-3001:
+  author:
+  - first: Hua
+    full: Hua Cheng
+    id: hua-cheng
+    last: Cheng
+  author_string: Hua Cheng
+  bibkey: cheng-2000-experimenting
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '1'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3001.jpg
+  title: Experimenting with the Interaction between Aggregation and Text Structuring
+  title_html: Experimenting with the Interaction between Aggregation and Text Structuring
+  url: https://www.aclweb.org/anthology/A00-3001
+  year: '2000'
+A00-3002:
+  author:
+  - first: Krzysztof
+    full: Krzysztof Czuba
+    id: krzysztof-czuba
+    last: Czuba
+  author_string: Krzysztof Czuba
+  bibkey: czuba-2000-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '2'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3002.jpg
+  title: Efficient parsing strategies for syntactic analysis of closed captions
+  title_html: Efficient parsing strategies for syntactic analysis of closed captions
+  url: https://www.aclweb.org/anthology/A00-3002
+  year: '2000'
+A00-3003:
+  author:
+  - first: Ivan I.
+    full: Ivan I. Garibay
+    id: ivan-i-garibay
+    last: Garibay
+  author_string: Ivan I. Garibay
+  bibkey: garibay-2000-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '3'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3003.jpg
+  title: Generating Text with a Theorem Prover
+  title_html: Generating Text with a Theorem Prover
+  url: https://www.aclweb.org/anthology/A00-3003
+  year: '2000'
+A00-3004:
+  author:
+  - first: Hatem
+    full: Hatem Ghorbel
+    id: hatem-ghorbel
+    last: Ghorbel
+  - first: Vincenzo
+    full: Vincenzo Pallotta
+    id: vincenzo-pallotta
+    last: Pallotta
+  author_string: Hatem Ghorbel, Vincenzo Pallotta
+  bibkey: ghorbel-pallotta-2000-weighted
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '4'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3004.jpg
+  title: A Weighted Robust Parsing Approach to Semantic Annotation
+  title_html: A Weighted Robust Parsing Approach to Semantic Annotation
+  url: https://www.aclweb.org/anthology/A00-3004
+  year: '2000'
+A00-3005:
+  author:
+  - first: Koldo
+    full: Koldo Gojenola
+    id: koldo-gojenola
+    last: Gojenola
+  - first: Maite
+    full: Maite Oronoz
+    id: maite-oronoz
+    last: Oronoz
+  author_string: Koldo Gojenola, Maite Oronoz
+  bibkey: gojenola-oronoz-2000-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '5'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3005.jpg
+  title: Corpus-Based Syntactic Error Detection Using Syntactic Patterns
+  title_html: Corpus-Based Syntactic Error Detection Using Syntactic Patterns
+  url: https://www.aclweb.org/anthology/A00-3005
+  year: '2000'
+A00-3006:
+  author:
+  - first: Derrick
+    full: Derrick Higgins
+    id: derrick-higgins
+    last: Higgins
+  author_string: Derrick Higgins
+  bibkey: higgins-2000-use
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '6'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3006.jpg
+  title: "The use of error tags in ARTFL\u2019s Encyclop\xE9die: Does good error identification\
+    \ lead to good error correction?"
+  title_html: "The use of error tags in <span class=\"acl-fixed-case\">ARTFL</span>\u2019\
+    s <span class=\"acl-fixed-case\">E</span>ncyclop\xE9die: Does good error identification\
+    \ lead to good error correction?"
+  url: https://www.aclweb.org/anthology/A00-3006
+  year: '2000'
+A00-3007:
+  author:
+  - first: Mary Xiaoyong
+    full: Mary Xiaoyong Liu
+    id: mary-xiaoyong-liu
+    last: Liu
+  - first: Ted
+    full: Ted Diamond
+    id: ted-diamond
+    last: Diamond
+  - first: Anne R.
+    full: Anne R. Diekema
+    id: anne-r-diekema
+    last: Diekema
+  author_string: Mary Xiaoyong Liu, Ted Diamond, Anne R. Diekema
+  bibkey: liu-etal-2000-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '7'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3007.jpg
+  title: Word Sense Disambiguation for Cross-Language Information Retrieval
+  title_html: Word Sense Disambiguation for Cross-Language Information Retrieval
+  url: https://www.aclweb.org/anthology/A00-3007
+  year: '2000'
+A00-3008:
+  author:
+  - first: Sarah Louise
+    full: Sarah Louise Oates
+    id: sarah-louise-oates
+    last: Oates
+  author_string: Sarah Louise Oates
+  bibkey: oates-2000-multiple
+  bibtype: inproceedings
+  booktitle: Proceedings of the ANLP-NAACL 2000 Student Research Workshop
+  booktitle_html: Proceedings of the <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 Student Research Workshop
+  paper_id: '8'
+  parent_volume_id: A00-3
+  pdf: https://www.aclweb.org/anthology/A00-3008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-3008.jpg
+  title: 'Multiple Discourse Marker Occurrence: Creating Hierarchies for Natural Language
+    Generation'
+  title_html: 'Multiple Discourse Marker Occurrence: Creating Hierarchies for Natural
+    Language Generation'
+  url: https://www.aclweb.org/anthology/A00-3008
+  year: '2000'
+A00-4000:
+  bibkey: anlp-2000-author
+  bibtype: proceedings
+  booktitle: Author Index to the Proceedings of ANLP-NAACL 2000 and the Student Research
+    Workshop
+  paper_id: '0'
+  parent_volume_id: A00-4
+  pdf: https://www.aclweb.org/anthology/A00-4000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/A00-4000.jpg
+  title: Author Index to the Proceedings of ANLP-NAACL 2000 and the Student Research
+    Workshop
+  title_html: Author Index to the Proceedings of <span class="acl-fixed-case">ANLP</span>-<span
+    class="acl-fixed-case">NAACL</span> 2000 and the Student Research Workshop
+  url: https://www.aclweb.org/anthology/A00-4000
+  year: '2000'

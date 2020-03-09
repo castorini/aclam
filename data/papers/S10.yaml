@@ -1,0 +1,3497 @@
+S10-1000:
+  address: Uppsala, Sweden
+  author:
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Katrin Erk, Carlo Strapparava
+  bibkey: semeval-2010-international
+  bibtype: proceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  paper_id: '0'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1000.jpg
+  title: Proceedings of the 5th International Workshop on Semantic Evaluation
+  title_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  url: https://www.aclweb.org/anthology/S10-1000
+  year: '2010'
+S10-1001:
+  address: Uppsala, Sweden
+  author:
+  - first: Marta
+    full: Marta Recasens
+    id: marta-recasens
+    last: Recasens
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: Emili
+    full: Emili Sapena
+    id: emili-sapena
+    last: Sapena
+  - first: "M. Ant\xF2nia"
+    full: "M. Ant\xF2nia Mart\xED"
+    id: m-antonia-marti
+    last: "Mart\xED"
+  - first: Mariona
+    full: "Mariona Taul\xE9"
+    id: mariona-taule
+    last: "Taul\xE9"
+  - first: "V\xE9ronique"
+    full: "V\xE9ronique Hoste"
+    id: veronique-hoste
+    last: Hoste
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: Yannick
+    full: Yannick Versley
+    id: yannick-versley
+    last: Versley
+  author_string: "Marta Recasens, Llu\xEDs M\xE0rquez, Emili Sapena, M. Ant\xF2nia\
+    \ Mart\xED, Mariona Taul\xE9, V\xE9ronique Hoste, Massimo Poesio, Yannick Versley"
+  bibkey: recasens-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1001.jpg
+  title: 'SemEval-2010 Task 1: Coreference Resolution in Multiple Languages'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 1: Coreference Resolution in Multiple Languages'
+  url: https://www.aclweb.org/anthology/S10-1001
+  year: '2010'
+S10-1002:
+  address: Uppsala, Sweden
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Ravi
+    full: Ravi Sinha
+    id: ravi-sinha
+    last: Sinha
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  author_string: Rada Mihalcea, Ravi Sinha, Diana McCarthy
+  bibkey: mihalcea-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '9'
+  page_last: '14'
+  pages: "9\u201314"
+  paper_id: '2'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1002.jpg
+  title: 'SemEval-2010 Task 2: Cross-Lingual Lexical Substitution'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 2: Cross-Lingual Lexical Substitution'
+  url: https://www.aclweb.org/anthology/S10-1002
+  year: '2010'
+S10-1003:
+  address: Uppsala, Sweden
+  author:
+  - first: Els
+    full: Els Lefever
+    id: els-lefever
+    last: Lefever
+  - first: Veronique
+    full: Veronique Hoste
+    id: veronique-hoste
+    last: Hoste
+  author_string: Els Lefever, Veronique Hoste
+  bibkey: lefever-hoste-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '15'
+  page_last: '20'
+  pages: "15\u201320"
+  paper_id: '3'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1003.jpg
+  title: 'SemEval-2010 Task 3: Cross-Lingual Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 3: Cross-Lingual Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S10-1003
+  year: '2010'
+S10-1004:
+  address: Uppsala, Sweden
+  author:
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Olena
+    full: Olena Medelyan
+    id: olena-medelyan
+    last: Medelyan
+  - first: Min-Yen
+    full: Min-Yen Kan
+    id: min-yen-kan
+    last: Kan
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Su Nam Kim, Olena Medelyan, Min-Yen Kan, Timothy Baldwin
+  bibkey: kim-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '21'
+  page_last: '26'
+  pages: "21\u201326"
+  paper_id: '4'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1004.jpg
+  title: 'SemEval-2010 Task 5 : Automatic Keyphrase Extraction from Scientific Articles'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 5 : Automatic Keyphrase Extraction from Scientific Articles'
+  url: https://www.aclweb.org/anthology/S10-1004
+  year: '2010'
+S10-1005:
+  address: Uppsala, Sweden
+  author:
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  - first: Anna
+    full: Anna Rumshisky
+    id: anna-rumshisky
+    last: Rumshisky
+  - first: Alex
+    full: Alex Plotnick
+    id: alex-plotnick
+    last: Plotnick
+  - first: Elisabetta
+    full: Elisabetta Jezek
+    id: elisabetta-jezek
+    last: Jezek
+  - first: Olga
+    full: Olga Batiukova
+    id: olga-batiukova
+    last: Batiukova
+  - first: Valeria
+    full: Valeria Quochi
+    id: valeria-quochi
+    last: Quochi
+  author_string: James Pustejovsky, Anna Rumshisky, Alex Plotnick, Elisabetta Jezek,
+    Olga Batiukova, Valeria Quochi
+  bibkey: pustejovsky-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '27'
+  page_last: '32'
+  pages: "27\u201332"
+  paper_id: '5'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1005.jpg
+  title: 'SemEval-2010 Task 7: Argument Selection and Coercion'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 7: Argument Selection and Coercion'
+  url: https://www.aclweb.org/anthology/S10-1005
+  year: '2010'
+S10-1006:
+  address: Uppsala, Sweden
+  author:
+  - first: Iris
+    full: Iris Hendrickx
+    id: iris-hendrickx
+    last: Hendrickx
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Diarmuid
+    full: "Diarmuid \xD3 S\xE9aghdha"
+    id: diarmuid-o-seaghdha
+    last: "\xD3 S\xE9aghdha"
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  - first: Marco
+    full: Marco Pennacchiotti
+    id: marco-pennacchiotti
+    last: Pennacchiotti
+  - first: Lorenza
+    full: Lorenza Romano
+    id: lorenza-romano
+    last: Romano
+  - first: Stan
+    full: Stan Szpakowicz
+    id: stan-szpakowicz
+    last: Szpakowicz
+  author_string: "Iris Hendrickx, Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid\
+    \ \xD3 S\xE9aghdha, Sebastian Pad\xF3, Marco Pennacchiotti, Lorenza Romano, Stan\
+    \ Szpakowicz"
+  bibkey: hendrickx-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '33'
+  page_last: '38'
+  pages: "33\u201338"
+  paper_id: '6'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1006.jpg
+  title: 'SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations between
+    Pairs of Nominals'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 8: Multi-Way Classification of Semantic Relations between Pairs of Nominals'
+  url: https://www.aclweb.org/anthology/S10-1006
+  year: '2010'
+S10-1007:
+  address: Uppsala, Sweden
+  author:
+  - first: Cristina
+    full: Cristina Butnariu
+    id: cristina-butnariu
+    last: Butnariu
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Diarmuid
+    full: "Diarmuid \xD3 S\xE9aghdha"
+    id: diarmuid-o-seaghdha
+    last: "\xD3 S\xE9aghdha"
+  - first: Stan
+    full: Stan Szpakowicz
+    id: stan-szpakowicz
+    last: Szpakowicz
+  - first: Tony
+    full: Tony Veale
+    id: tony-veale
+    last: Veale
+  author_string: "Cristina Butnariu, Su Nam Kim, Preslav Nakov, Diarmuid \xD3 S\xE9\
+    aghdha, Stan Szpakowicz, Tony Veale"
+  bibkey: butnariu-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '39'
+  page_last: '44'
+  pages: "39\u201344"
+  paper_id: '7'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1007.jpg
+  title: 'SemEval-2 Task 9: The Interpretation of Noun Compounds Using Paraphrasing
+    Verbs and Prepositions'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2
+    Task 9: The Interpretation of Noun Compounds Using Paraphrasing Verbs and Prepositions'
+  url: https://www.aclweb.org/anthology/S10-1007
+  year: '2010'
+S10-1008:
+  address: Uppsala, Sweden
+  author:
+  - first: Josef
+    full: Josef Ruppenhofer
+    id: josef-ruppenhofer
+    last: Ruppenhofer
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Collin
+    full: Collin Baker
+    id: collin-f-baker
+    last: Baker
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Josef Ruppenhofer, Caroline Sporleder, Roser Morante, Collin Baker,
+    Martha Palmer
+  bibkey: ruppenhofer-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '45'
+  page_last: '50'
+  pages: "45\u201350"
+  paper_id: '8'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1008.jpg
+  title: 'SemEval-2010 Task 10: Linking Events and Their Participants in Discourse'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 10: Linking Events and Their Participants in Discourse'
+  url: https://www.aclweb.org/anthology/S10-1008
+  year: '2010'
+S10-1009:
+  address: Uppsala, Sweden
+  author:
+  - first: Deniz
+    full: Deniz Yuret
+    id: deniz-yuret
+    last: Yuret
+  - first: Aydin
+    full: Aydin Han
+    id: aydin-han
+    last: Han
+  - first: Zehra
+    full: Zehra Turgut
+    id: zehra-turgut
+    last: Turgut
+  author_string: Deniz Yuret, Aydin Han, Zehra Turgut
+  bibkey: yuret-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '51'
+  page_last: '56'
+  pages: "51\u201356"
+  paper_id: '9'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1009.jpg
+  title: 'SemEval-2010 Task 12: Parser Evaluation Using Textual Entailments'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 12: Parser Evaluation Using Textual Entailments'
+  url: https://www.aclweb.org/anthology/S10-1009
+  year: '2010'
+S10-1010:
+  address: Uppsala, Sweden
+  author:
+  - first: Marc
+    full: Marc Verhagen
+    id: marc-verhagen
+    last: Verhagen
+  - first: Roser
+    full: "Roser Saur\xED"
+    id: roser-sauri
+    last: "Saur\xED"
+  - first: Tommaso
+    full: Tommaso Caselli
+    id: tommaso-caselli
+    last: Caselli
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: "Marc Verhagen, Roser Saur\xED, Tommaso Caselli, James Pustejovsky"
+  bibkey: verhagen-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '57'
+  page_last: '62'
+  pages: "57\u201362"
+  paper_id: '10'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1010.jpg
+  title: 'SemEval-2010 Task 13: TempEval-2'
+  title_html: 'SemEval-2010 Task 13: TempEval-2'
+  url: https://www.aclweb.org/anthology/S10-1010
+  year: '2010'
+S10-1011:
+  address: Uppsala, Sweden
+  author:
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  - first: Ioannis
+    full: Ioannis Klapaftis
+    id: ioannis-klapaftis
+    last: Klapaftis
+  - first: Dmitriy
+    full: Dmitriy Dligach
+    id: dmitriy-dligach
+    last: Dligach
+  - first: Sameer
+    full: Sameer Pradhan
+    id: sameer-pradhan
+    last: Pradhan
+  author_string: Suresh Manandhar, Ioannis Klapaftis, Dmitriy Dligach, Sameer Pradhan
+  bibkey: manandhar-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '63'
+  page_last: '68'
+  pages: "63\u201368"
+  paper_id: '11'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1011.jpg
+  title: 'SemEval-2010 Task 14: Word Sense Induction &Disambiguation'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 14: Word Sense Induction &amp;Disambiguation'
+  url: https://www.aclweb.org/anthology/S10-1011
+  year: '2010'
+S10-1012:
+  address: Uppsala, Sweden
+  author:
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  - first: Kiyoaki
+    full: Kiyoaki Shirai
+    id: kiyoaki-shirai
+    last: Shirai
+  - first: Kanako
+    full: Kanako Komiya
+    id: kanako-komiya
+    last: Komiya
+  - first: Hikaru
+    full: Hikaru Yokono
+    id: hikaru-yokono
+    last: Yokono
+  author_string: Manabu Okumura, Kiyoaki Shirai, Kanako Komiya, Hikaru Yokono
+  bibkey: okumura-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '69'
+  page_last: '74'
+  pages: "69\u201374"
+  paper_id: '12'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1012.jpg
+  title: 'SemEval-2010 Task: Japanese WSD'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task: <span class="acl-fixed-case">J</span>apanese <span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S10-1012
+  year: '2010'
+S10-1013:
+  address: Uppsala, Sweden
+  author:
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Oier
+    full: Oier Lopez de Lacalle
+    id: oier-lopez-de-lacalle
+    last: Lopez de Lacalle
+  - first: Christiane
+    full: Christiane Fellbaum
+    id: christiane-fellbaum
+    last: Fellbaum
+  - first: Shu-Kai
+    full: Shu-Kai Hsieh
+    id: shu-kai-hsieh
+    last: Hsieh
+  - first: Maurizio
+    full: Maurizio Tesconi
+    id: maurizio-tesconi
+    last: Tesconi
+  - first: Monica
+    full: Monica Monachini
+    id: monica-monachini
+    last: Monachini
+  - first: Piek
+    full: Piek Vossen
+    id: piek-vossen
+    last: Vossen
+  - first: Roxanne
+    full: Roxanne Segers
+    id: roxane-segers
+    last: Segers
+  author_string: Eneko Agirre, Oier Lopez de Lacalle, Christiane Fellbaum, Shu-Kai
+    Hsieh, Maurizio Tesconi, Monica Monachini, Piek Vossen, Roxanne Segers
+  bibkey: agirre-etal-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '75'
+  page_last: '80'
+  pages: "75\u201380"
+  paper_id: '13'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1013.jpg
+  title: 'SemEval-2010 Task 17: All-Words Word Sense Disambiguation on a Specific
+    Domain'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 17: All-Words Word Sense Disambiguation on a Specific Domain'
+  url: https://www.aclweb.org/anthology/S10-1013
+  year: '2010'
+S10-1014:
+  address: Uppsala, Sweden
+  author:
+  - first: Yunfang
+    full: Yunfang Wu
+    id: yunfang-wu
+    last: Wu
+  - first: Peng
+    full: Peng Jin
+    id: peng-jin
+    last: Jin
+  author_string: Yunfang Wu, Peng Jin
+  bibkey: wu-jin-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '81'
+  page_last: '85'
+  pages: "81\u201385"
+  paper_id: '14'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1014.jpg
+  title: 'SemEval-2010 Task 18: Disambiguating Sentiment Ambiguous Adjectives'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 18: Disambiguating Sentiment Ambiguous Adjectives'
+  url: https://www.aclweb.org/anthology/S10-1014
+  year: '2010'
+S10-1015:
+  address: Uppsala, Sweden
+  author:
+  - first: Qiang
+    full: Qiang Zhou
+    id: qiang-zhou
+    last: Zhou
+  author_string: Qiang Zhou
+  bibkey: zhou-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  pages: '86'
+  paper_id: '15'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1015.jpg
+  title: 'SemEval-2010 Task 11: Event Detection in Chinese News Sentences'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 11: Event Detection in <span class="acl-fixed-case">C</span>hinese News Sentences'
+  url: https://www.aclweb.org/anthology/S10-1015
+  year: '2010'
+S10-1016:
+  address: Uppsala, Sweden
+  author:
+  - first: Peng
+    full: Peng Jin
+    id: peng-jin
+    last: Jin
+  - first: Yunfang
+    full: Yunfang Wu
+    id: yunfang-wu
+    last: Wu
+  author_string: Peng Jin, Yunfang Wu
+  bibkey: jin-wu-2010-semeval
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  pages: '87'
+  paper_id: '16'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1016.jpg
+  title: 'SemEval-2 Task 15: Infrequent Sense Identification for Mandarin Text to
+    Speech Systems'
+  title_html: '<span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2
+    Task 15: Infrequent Sense Identification for <span class="acl-fixed-case">M</span>andarin
+    Text to Speech Systems'
+  url: https://www.aclweb.org/anthology/S10-1016
+  year: '2010'
+S10-1017:
+  address: Uppsala, Sweden
+  author:
+  - first: Emili
+    full: Emili Sapena
+    id: emili-sapena
+    last: Sapena
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs Padr\xF3"
+    id: lluis-padro
+    last: "Padr\xF3"
+  - first: Jordi
+    full: Jordi Turmo
+    id: jordi-turmo
+    last: Turmo
+  author_string: "Emili Sapena, Llu\xEDs Padr\xF3, Jordi Turmo"
+  bibkey: sapena-etal-2010-relaxcor
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '88'
+  page_last: '91'
+  pages: "88\u201391"
+  paper_id: '17'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1017.jpg
+  title: 'RelaxCor: A Global Relaxation Labeling Approach to Coreference Resolution'
+  title_html: '<span class="acl-fixed-case">R</span>elax<span class="acl-fixed-case">C</span>or:
+    A Global Relaxation Labeling Approach to Coreference Resolution'
+  url: https://www.aclweb.org/anthology/S10-1017
+  year: '2010'
+S10-1018:
+  address: Uppsala, Sweden
+  author:
+  - first: Hamidreza
+    full: Hamidreza Kobdani
+    id: hamidreza-kobdani
+    last: Kobdani
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Hamidreza Kobdani, Hinrich Sch\xFCtze"
+  bibkey: kobdani-schutze-2010-sucre
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '92'
+  page_last: '95'
+  pages: "92\u201395"
+  paper_id: '18'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1018.jpg
+  title: 'SUCRE: A Modular System for Coreference Resolution'
+  title_html: '<span class="acl-fixed-case">SUCRE</span>: A Modular System for Coreference
+    Resolution'
+  url: https://www.aclweb.org/anthology/S10-1018
+  year: '2010'
+S10-1019:
+  address: Uppsala, Sweden
+  author:
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  author_string: "Desislava Zhekova, Sandra K\xFCbler"
+  bibkey: zhekova-kubler-2010-ubiu
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '96'
+  page_last: '99'
+  pages: "96\u201399"
+  paper_id: '19'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1019.jpg
+  title: 'UBIU: A Language-Independent System for Coreference Resolution'
+  title_html: '<span class="acl-fixed-case">UBIU</span>: A Language-Independent System
+    for Coreference Resolution'
+  url: https://www.aclweb.org/anthology/S10-1019
+  year: '2010'
+S10-1020:
+  address: Uppsala, Sweden
+  author:
+  - first: Olga
+    full: Olga Uryupina
+    id: olga-uryupina
+    last: Uryupina
+  author_string: Olga Uryupina
+  bibkey: uryupina-2010-corry
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '100'
+  page_last: '103'
+  pages: "100\u2013103"
+  paper_id: '20'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1020.jpg
+  title: 'Corry: A System for Coreference Resolution'
+  title_html: '<span class="acl-fixed-case">C</span>orry: A System for Coreference
+    Resolution'
+  url: https://www.aclweb.org/anthology/S10-1020
+  year: '2010'
+S10-1021:
+  address: Uppsala, Sweden
+  author:
+  - first: Samuel
+    full: Samuel Broscheit
+    id: samuel-broscheit
+    last: Broscheit
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: Simone Paolo
+    full: Simone Paolo Ponzetto
+    id: simone-paolo-ponzetto
+    last: Ponzetto
+  - first: Kepa Joseba
+    full: Kepa Joseba Rodriguez
+    id: kepa-joseba-rodriguez
+    last: Rodriguez
+  - first: Lorenza
+    full: Lorenza Romano
+    id: lorenza-romano
+    last: Romano
+  - first: Olga
+    full: Olga Uryupina
+    id: olga-uryupina
+    last: Uryupina
+  - first: Yannick
+    full: Yannick Versley
+    id: yannick-versley
+    last: Versley
+  - first: Roberto
+    full: Roberto Zanoli
+    id: roberto-zanoli
+    last: Zanoli
+  author_string: Samuel Broscheit, Massimo Poesio, Simone Paolo Ponzetto, Kepa Joseba
+    Rodriguez, Lorenza Romano, Olga Uryupina, Yannick Versley, Roberto Zanoli
+  bibkey: broscheit-etal-2010-bart
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '104'
+  page_last: '107'
+  pages: "104\u2013107"
+  paper_id: '21'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1021.jpg
+  title: 'BART: A Multilingual Anaphora Resolution System'
+  title_html: '<span class="acl-fixed-case">BART</span>: A Multilingual Anaphora Resolution
+    System'
+  url: https://www.aclweb.org/anthology/S10-1021
+  year: '2010'
+S10-1022:
+  address: Uppsala, Sweden
+  author:
+  - first: Giuseppe
+    full: Giuseppe Attardi
+    id: giuseppe-attardi
+    last: Attardi
+  - first: Maria
+    full: Maria Simi
+    id: maria-simi
+    last: Simi
+  - first: Stefano
+    full: Stefano Dei Rossi
+    id: stefano-dei-rossi
+    last: Dei Rossi
+  author_string: Giuseppe Attardi, Maria Simi, Stefano Dei Rossi
+  bibkey: attardi-etal-2010-tanl
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '108'
+  page_last: '111'
+  pages: "108\u2013111"
+  paper_id: '22'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1022.jpg
+  title: 'TANL-1: Coreference Resolution by Parse Analysis and Similarity Clustering'
+  title_html: '<span class="acl-fixed-case">TANL</span>-1: Coreference Resolution
+    by Parse Analysis and Similarity Clustering'
+  url: https://www.aclweb.org/anthology/S10-1022
+  year: '2010'
+S10-1023:
+  address: Uppsala, Sweden
+  author:
+  - first: Darnes
+    full: "Darnes Vilari\xF1o Ayala"
+    id: darnes-vilarino
+    last: "Vilari\xF1o Ayala"
+  - first: Carlos
+    full: Carlos Balderas Posada
+    id: carlos-balderas-posada
+    last: Balderas Posada
+  - first: David Eduardo
+    full: "David Eduardo Pinto Avenda\xF1o"
+    id: david-pinto
+    last: "Pinto Avenda\xF1o"
+  - first: Miguel
+    full: "Miguel Rodr\xEDguez Hern\xE1ndez"
+    id: miguel-rodriguez-hernandez
+    last: "Rodr\xEDguez Hern\xE1ndez"
+  - first: Saul
+    full: "Saul Le\xF3n Silverio"
+    id: saul-leon
+    last: "Le\xF3n Silverio"
+  author_string: "Darnes Vilari\xF1o Ayala, Carlos Balderas Posada, David Eduardo\
+    \ Pinto Avenda\xF1o, Miguel Rodr\xEDguez Hern\xE1ndez, Saul Le\xF3n Silverio"
+  bibkey: vilarino-ayala-etal-2010-fcc
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '112'
+  page_last: '116'
+  pages: "112\u2013116"
+  paper_id: '23'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1023.jpg
+  title: 'FCC: Modeling Probabilities with GIZA++ for Task 2 and 3 of SemEval-2'
+  title_html: '<span class="acl-fixed-case">FCC</span>: Modeling Probabilities with
+    <span class="acl-fixed-case">GIZA</span>++ for Task 2 and 3 of <span class="acl-fixed-case">S</span>em<span
+    class="acl-fixed-case">E</span>val-2'
+  url: https://www.aclweb.org/anthology/S10-1023
+  year: '2010'
+S10-1024:
+  address: Uppsala, Sweden
+  author:
+  - first: Wilker
+    full: Wilker Aziz
+    id: wilker-aziz
+    last: Aziz
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Wilker Aziz, Lucia Specia
+  bibkey: aziz-specia-2010-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '117'
+  page_last: '122'
+  pages: "117\u2013122"
+  paper_id: '24'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1024.jpg
+  title: Combining Dictionaries and Contextual Information for Cross-Lingual Lexical
+    Substitution
+  title_html: Combining Dictionaries and Contextual Information for Cross-Lingual
+    Lexical Substitution
+  url: https://www.aclweb.org/anthology/S10-1024
+  year: '2010'
+S10-1025:
+  address: Uppsala, Sweden
+  author:
+  - first: Richard
+    full: Richard Wicentowski
+    id: richard-wicentowski
+    last: Wicentowski
+  - first: Maria
+    full: Maria Kelly
+    id: maria-kelly
+    last: Kelly
+  - first: Rachel
+    full: Rachel Lee
+    id: rachel-lee
+    last: Lee
+  author_string: Richard Wicentowski, Maria Kelly, Rachel Lee
+  bibkey: wicentowski-etal-2010-swat
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '123'
+  page_last: '128'
+  pages: "123\u2013128"
+  paper_id: '25'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1025.jpg
+  title: 'SWAT: Cross-Lingual Lexical Substitution using Local Context Matching, Bilingual
+    Dictionaries and Machine Translation'
+  title_html: '<span class="acl-fixed-case">SWAT</span>: Cross-Lingual Lexical Substitution
+    using Local Context Matching, Bilingual Dictionaries and Machine Translation'
+  url: https://www.aclweb.org/anthology/S10-1025
+  year: '2010'
+S10-1026:
+  address: Uppsala, Sweden
+  author:
+  - first: Weiwei
+    full: Weiwei Guo
+    id: weiwei-guo
+    last: Guo
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  author_string: Weiwei Guo, Mona Diab
+  bibkey: guo-diab-2010-colepl
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '129'
+  page_last: '133'
+  pages: "129\u2013133"
+  paper_id: '26'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1026.jpg
+  title: 'COLEPL and COLSLM: An Unsupervised WSD Approach to Multilingual Lexical
+    Substitution, Tasks 2 and 3 SemEval 2010'
+  title_html: '<span class="acl-fixed-case">COLEPL</span> and <span class="acl-fixed-case">COLSLM</span>:
+    An Unsupervised <span class="acl-fixed-case">WSD</span> Approach to Multilingual
+    Lexical Substitution, Tasks 2 and 3 <span class="acl-fixed-case">S</span>em<span
+    class="acl-fixed-case">E</span>val 2010'
+  url: https://www.aclweb.org/anthology/S10-1026
+  year: '2010'
+S10-1027:
+  address: Uppsala, Sweden
+  author:
+  - first: Carina
+    full: Carina Silberer
+    id: carina-silberer
+    last: Silberer
+  - first: Simone Paolo
+    full: Simone Paolo Ponzetto
+    id: simone-paolo-ponzetto
+    last: Ponzetto
+  author_string: Carina Silberer, Simone Paolo Ponzetto
+  bibkey: silberer-ponzetto-2010-uhd
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '134'
+  page_last: '137'
+  pages: "134\u2013137"
+  paper_id: '27'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1027.jpg
+  title: 'UHD: Cross-Lingual Word Sense Disambiguation Using Multilingual Co-Occurrence
+    Graphs'
+  title_html: '<span class="acl-fixed-case">UHD</span>: Cross-Lingual Word Sense Disambiguation
+    Using Multilingual Co-Occurrence Graphs'
+  url: https://www.aclweb.org/anthology/S10-1027
+  year: '2010'
+S10-1028:
+  address: Uppsala, Sweden
+  author:
+  - first: Lipta
+    full: Lipta Mahapatra
+    id: lipta-mahapatra
+    last: Mahapatra
+  - first: Meera
+    full: Meera Mohan
+    id: meera-mohan
+    last: Mohan
+  - first: Mitesh
+    full: Mitesh Khapra
+    id: mitesh-m-khapra
+    last: Khapra
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Lipta Mahapatra, Meera Mohan, Mitesh Khapra, Pushpak Bhattacharyya
+  bibkey: mahapatra-etal-2010-owns
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '138'
+  page_last: '141'
+  pages: "138\u2013141"
+  paper_id: '28'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1028.jpg
+  title: 'OWNS: Cross-lingual Word Sense Disambiguation Using Weighted Overlap Counts
+    and Wordnet Based Similarity Measures'
+  title_html: '<span class="acl-fixed-case">OWNS</span>: Cross-lingual Word Sense
+    Disambiguation Using Weighted Overlap Counts and <span class="acl-fixed-case">W</span>ordnet
+    Based Similarity Measures'
+  url: https://www.aclweb.org/anthology/S10-1028
+  year: '2010'
+S10-1029:
+  address: Uppsala, Sweden
+  author:
+  - first: You
+    full: You Ouyang
+    id: you-ouyang
+    last: Ouyang
+  - first: Wenjie
+    full: Wenjie Li
+    id: wenjie-li
+    last: Li
+  - first: Renxian
+    full: Renxian Zhang
+    id: renxian-zhang
+    last: Zhang
+  author_string: You Ouyang, Wenjie Li, Renxian Zhang
+  bibkey: ouyang-etal-2010-273
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '142'
+  page_last: '145'
+  pages: "142\u2013145"
+  paper_id: '29'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1029.jpg
+  title: 273. Task 5. Keyphrase Extraction Based on Core Word Identification and Word
+    Expansion
+  title_html: 273. Task 5. Keyphrase Extraction Based on Core Word Identification
+    and Word Expansion
+  url: https://www.aclweb.org/anthology/S10-1029
+  year: '2010'
+S10-1030:
+  address: Uppsala, Sweden
+  author:
+  - first: Georgeta
+    full: Georgeta Bordea
+    id: georgeta-bordea
+    last: Bordea
+  - first: Paul
+    full: Paul Buitelaar
+    id: paul-buitelaar
+    last: Buitelaar
+  author_string: Georgeta Bordea, Paul Buitelaar
+  bibkey: bordea-buitelaar-2010-deriunlp
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '146'
+  page_last: '149'
+  pages: "146\u2013149"
+  paper_id: '30'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1030.jpg
+  title: 'DERIUNLP: A Context Based Approach to Automatic Keyphrase Extraction'
+  title_html: '<span class="acl-fixed-case">DERIUNLP</span>: A Context Based Approach
+    to Automatic Keyphrase Extraction'
+  url: https://www.aclweb.org/anthology/S10-1030
+  year: '2010'
+S10-1031:
+  address: Uppsala, Sweden
+  author:
+  - first: Kathrin
+    full: Kathrin Eichler
+    id: kathrin-eichler
+    last: Eichler
+  - first: "G\xFCnter"
+    full: "G\xFCnter Neumann"
+    id: gunter-neumann
+    last: Neumann
+  author_string: "Kathrin Eichler, G\xFCnter Neumann"
+  bibkey: eichler-neumann-2010-dfki
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '150'
+  page_last: '153'
+  pages: "150\u2013153"
+  paper_id: '31'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1031.jpg
+  title: 'DFKI KeyWE: Ranking Keyphrases Extracted from Scientific Articles'
+  title_html: '<span class="acl-fixed-case">DFKI</span> <span class="acl-fixed-case">K</span>ey<span
+    class="acl-fixed-case">WE</span>: Ranking Keyphrases Extracted from Scientific
+    Articles'
+  url: https://www.aclweb.org/anthology/S10-1031
+  year: '2010'
+S10-1032:
+  address: Uppsala, Sweden
+  author:
+  - first: Claude
+    full: Claude Pasquier
+    id: claude-pasquier
+    last: Pasquier
+  author_string: Claude Pasquier
+  bibkey: pasquier-2010-single
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '154'
+  page_last: '157'
+  pages: "154\u2013157"
+  paper_id: '32'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1032.jpg
+  title: Single Document Keyphrase Extraction Using Sentence Clustering and Latent
+    Dirichlet Allocation
+  title_html: Single Document Keyphrase Extraction Using Sentence Clustering and Latent
+    <span class="acl-fixed-case">D</span>irichlet Allocation
+  url: https://www.aclweb.org/anthology/S10-1032
+  year: '2010'
+S10-1033:
+  address: Uppsala, Sweden
+  author:
+  - first: Letian
+    full: Letian Wang
+    id: letian-wang
+    last: Wang
+  - first: Fang
+    full: Fang Li
+    id: fang-li
+    last: Li
+  author_string: Letian Wang, Fang Li
+  bibkey: wang-li-2010-sjtultlab
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '158'
+  page_last: '161'
+  pages: "158\u2013161"
+  paper_id: '33'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1033.jpg
+  title: 'SJTULTLAB: Chunk Based Method for Keyphrase Extraction'
+  title_html: '<span class="acl-fixed-case">SJTULTLAB</span>: Chunk Based Method for
+    Keyphrase Extraction'
+  url: https://www.aclweb.org/anthology/S10-1033
+  year: '2010'
+S10-1034:
+  address: Uppsala, Sweden
+  author:
+  - first: Mari-Sanna
+    full: Mari-Sanna Paukkeri
+    id: mari-sanna-paukkeri
+    last: Paukkeri
+  - first: Timo
+    full: Timo Honkela
+    id: timo-honkela
+    last: Honkela
+  author_string: Mari-Sanna Paukkeri, Timo Honkela
+  bibkey: paukkeri-honkela-2010-likey
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '162'
+  page_last: '165'
+  pages: "162\u2013165"
+  paper_id: '34'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1034.jpg
+  title: 'Likey: Unsupervised Language-Independent Keyphrase Extraction'
+  title_html: '<span class="acl-fixed-case">L</span>ikey: Unsupervised Language-Independent
+    Keyphrase Extraction'
+  url: https://www.aclweb.org/anthology/S10-1034
+  year: '2010'
+S10-1035:
+  address: Uppsala, Sweden
+  author:
+  - first: Thuy Dung
+    full: Thuy Dung Nguyen
+    id: thuy-dung-nguyen
+    last: Nguyen
+  - first: Minh-Thang
+    full: Minh-Thang Luong
+    id: minh-thang-luong
+    last: Luong
+  author_string: Thuy Dung Nguyen, Minh-Thang Luong
+  bibkey: nguyen-luong-2010-wingnus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '166'
+  page_last: '169'
+  pages: "166\u2013169"
+  paper_id: '35'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1035.jpg
+  title: 'WINGNUS: Keyphrase Extraction Utilizing Document Logical Structure'
+  title_html: '<span class="acl-fixed-case">WINGNUS</span>: Keyphrase Extraction Utilizing
+    Document Logical Structure'
+  url: https://www.aclweb.org/anthology/S10-1035
+  year: '2010'
+S10-1036:
+  address: Uppsala, Sweden
+  author:
+  - first: Emanuele
+    full: Emanuele Pianta
+    id: emanuele-pianta
+    last: Pianta
+  - first: Sara
+    full: Sara Tonelli
+    id: sara-tonelli
+    last: Tonelli
+  author_string: Emanuele Pianta, Sara Tonelli
+  bibkey: pianta-tonelli-2010-kx
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '170'
+  page_last: '173'
+  pages: "170\u2013173"
+  paper_id: '36'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1036.jpg
+  title: 'KX: A Flexible System for Keyphrase eXtraction'
+  title_html: '<span class="acl-fixed-case">KX</span>: A Flexible System for Keyphrase
+    e<span class="acl-fixed-case">X</span>traction'
+  url: https://www.aclweb.org/anthology/S10-1036
+  year: '2010'
+S10-1037:
+  address: Uppsala, Sweden
+  author:
+  - first: Roberto
+    full: Roberto Ortiz
+    id: roberto-ortiz
+    last: Ortiz
+  - first: David
+    full: David Pinto
+    id: david-pinto
+    last: Pinto
+  - first: Mireya
+    full: Mireya Tovar
+    id: mireya-tovar
+    last: Tovar
+  - first: "H\xE9ctor"
+    full: "H\xE9ctor Jim\xE9nez-Salazar"
+    id: hector-jimenez-salazar
+    last: "Jim\xE9nez-Salazar"
+  author_string: "Roberto Ortiz, David Pinto, Mireya Tovar, H\xE9ctor Jim\xE9nez-Salazar"
+  bibkey: ortiz-etal-2010-buap
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '174'
+  page_last: '177'
+  pages: "174\u2013177"
+  paper_id: '37'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1037.jpg
+  title: 'BUAP: An Unsupervised Approach to Automatic Keyphrase Extraction from Scientific
+    Articles'
+  title_html: '<span class="acl-fixed-case">BUAP</span>: An Unsupervised Approach
+    to Automatic Keyphrase Extraction from Scientific Articles'
+  url: https://www.aclweb.org/anthology/S10-1037
+  year: '2010'
+S10-1038:
+  address: Uppsala, Sweden
+  author:
+  - first: Jungyeul
+    full: Jungyeul Park
+    id: jungyeul-park
+    last: Park
+  - first: Jong Gun
+    full: Jong Gun Lee
+    id: jong-gun-lee
+    last: Lee
+  - first: "B\xE9atrice"
+    full: "B\xE9atrice Daille"
+    id: beatrice-daille
+    last: Daille
+  author_string: "Jungyeul Park, Jong Gun Lee, B\xE9atrice Daille"
+  bibkey: park-etal-2010-unpmc
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '178'
+  page_last: '181'
+  pages: "178\u2013181"
+  paper_id: '38'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1038.jpg
+  title: 'UNPMC: Naive Approach to Extract Keyphrases from Scientific Articles'
+  title_html: '<span class="acl-fixed-case">UNPMC</span>: Naive Approach to Extract
+    Keyphrases from Scientific Articles'
+  url: https://www.aclweb.org/anthology/S10-1038
+  year: '2010'
+S10-1039:
+  address: Uppsala, Sweden
+  author:
+  - first: Pucktada
+    full: Pucktada Treeratpituk
+    id: pucktada-treeratpituk
+    last: Treeratpituk
+  - first: Pradeep
+    full: Pradeep Teregowda
+    id: pradeep-teregowda
+    last: Teregowda
+  - first: Jian
+    full: Jian Huang
+    id: jian-huang
+    last: Huang
+  - first: C. Lee
+    full: C. Lee Giles
+    id: c-lee-giles
+    last: Giles
+  author_string: Pucktada Treeratpituk, Pradeep Teregowda, Jian Huang, C. Lee Giles
+  bibkey: treeratpituk-etal-2010-seerlab
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '182'
+  page_last: '185'
+  pages: "182\u2013185"
+  paper_id: '39'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1039.jpg
+  title: 'SEERLAB: A System for Extracting Keyphrases from Scholarly Documents'
+  title_html: '<span class="acl-fixed-case">SEERLAB</span>: A System for Extracting
+    Keyphrases from Scholarly Documents'
+  url: https://www.aclweb.org/anthology/S10-1039
+  year: '2010'
+S10-1040:
+  address: Uppsala, Sweden
+  author:
+  - first: "G\xE1bor"
+    full: "G\xE1bor Berend"
+    id: gabor-berend
+    last: Berend
+  - first: "Rich\xE1rd"
+    full: "Rich\xE1rd Farkas"
+    id: richard-farkas
+    last: Farkas
+  author_string: "G\xE1bor Berend, Rich\xE1rd Farkas"
+  bibkey: berend-farkas-2010-sztergak
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '186'
+  page_last: '189'
+  pages: "186\u2013189"
+  paper_id: '40'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1040.jpg
+  title: 'SZTERGAK : Feature Engineering for Keyphrase Extraction'
+  title_html: '<span class="acl-fixed-case">SZTERGAK</span> : Feature Engineering
+    for Keyphrase Extraction'
+  url: https://www.aclweb.org/anthology/S10-1040
+  year: '2010'
+S10-1041:
+  address: Uppsala, Sweden
+  author:
+  - first: Samhaa R.
+    full: Samhaa R. El-Beltagy
+    id: samhaa-r-el-beltagy
+    last: El-Beltagy
+  - first: Ahmed
+    full: Ahmed Rafea
+    id: ahmed-rafea
+    last: Rafea
+  author_string: Samhaa R. El-Beltagy, Ahmed Rafea
+  bibkey: el-beltagy-rafea-2010-kp
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '190'
+  page_last: '193'
+  pages: "190\u2013193"
+  paper_id: '41'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1041.jpg
+  title: 'KP-Miner: Participation in SemEval-2'
+  title_html: '<span class="acl-fixed-case">KP</span>-Miner: Participation in <span
+    class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2'
+  url: https://www.aclweb.org/anthology/S10-1041
+  year: '2010'
+S10-1042:
+  address: Uppsala, Sweden
+  author:
+  - first: Kalliopi
+    full: Kalliopi Zervanou
+    id: kalliopi-zervanou
+    last: Zervanou
+  author_string: Kalliopi Zervanou
+  bibkey: zervanou-2010-uvt
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '194'
+  page_last: '197'
+  pages: "194\u2013197"
+  paper_id: '42'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1042.jpg
+  title: 'UvT: The UvT Term Extraction System in the Keyphrase Extraction Task'
+  title_html: '<span class="acl-fixed-case">U</span>v<span class="acl-fixed-case">T</span>:
+    The <span class="acl-fixed-case">U</span>v<span class="acl-fixed-case">T</span>
+    Term Extraction System in the Keyphrase Extraction Task'
+  url: https://www.aclweb.org/anthology/S10-1042
+  year: '2010'
+S10-1043:
+  address: Uppsala, Sweden
+  author:
+  - first: Fabio
+    full: Fabio Celli
+    id: fabio-celli
+    last: Celli
+  author_string: Fabio Celli
+  bibkey: celli-2010-unitn
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '198'
+  page_last: '201'
+  pages: "198\u2013201"
+  paper_id: '43'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1043.jpg
+  title: 'UNITN: Part-Of-Speech Counting in Relation Extraction'
+  title_html: '<span class="acl-fixed-case">UNITN</span>: Part-Of-Speech Counting
+    in Relation Extraction'
+  url: https://www.aclweb.org/anthology/S10-1043
+  year: '2010'
+S10-1044:
+  address: Uppsala, Sweden
+  author:
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: Milen
+    full: Milen Kouylekov
+    id: milen-kouylekov
+    last: Kouylekov
+  author_string: Matteo Negri, Milen Kouylekov
+  bibkey: negri-kouylekov-2010-fbk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '202'
+  page_last: '205'
+  pages: "202\u2013205"
+  paper_id: '44'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1044.jpg
+  title: 'FBK_NK: A WordNet-Based System for Multi-Way Classification of Semantic
+    Relations'
+  title_html: '<span class="acl-fixed-case">FBK</span>_<span class="acl-fixed-case">NK</span>:
+    A <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et-Based
+    System for Multi-Way Classification of Semantic Relations'
+  url: https://www.aclweb.org/anthology/S10-1044
+  year: '2010'
+S10-1045:
+  address: Uppsala, Sweden
+  author:
+  - first: Santanu
+    full: Santanu Pal
+    id: santanu-pal
+    last: Pal
+  - first: Partha
+    full: Partha Pakray
+    id: partha-pakray
+    last: Pakray
+  - first: Dipankar
+    full: Dipankar Das
+    id: dipankar-das
+    last: Das
+  - first: Sivaji
+    full: Sivaji Bandyopadhyay
+    id: sivaji-bandyopadhyay
+    last: Bandyopadhyay
+  author_string: Santanu Pal, Partha Pakray, Dipankar Das, Sivaji Bandyopadhyay
+  bibkey: pal-etal-2010-ju
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '206'
+  page_last: '209'
+  pages: "206\u2013209"
+  paper_id: '45'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1045.jpg
+  title: 'JU: A Supervised Approach to Identify Semantic Relations from Paired Nominals'
+  title_html: '<span class="acl-fixed-case">JU</span>: A Supervised Approach to Identify
+    Semantic Relations from Paired Nominals'
+  url: https://www.aclweb.org/anthology/S10-1045
+  year: '2010'
+S10-1046:
+  address: Uppsala, Sweden
+  author:
+  - first: "Gy\xF6rgy"
+    full: "Gy\xF6rgy Szarvas"
+    id: gyorgy-szarvas
+    last: Szarvas
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: "Gy\xF6rgy Szarvas, Iryna Gurevych"
+  bibkey: szarvas-gurevych-2010-tud
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '210'
+  page_last: '213'
+  pages: "210\u2013213"
+  paper_id: '46'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1046.jpg
+  title: 'TUD: Semantic Relatedness for Relation Classification'
+  title_html: '<span class="acl-fixed-case">TUD</span>: Semantic Relatedness for Relation
+    Classification'
+  url: https://www.aclweb.org/anthology/S10-1046
+  year: '2010'
+S10-1047:
+  address: Uppsala, Sweden
+  author:
+  - first: Kateryna
+    full: Kateryna Tymoshenko
+    id: kateryna-tymoshenko
+    last: Tymoshenko
+  - first: Claudio
+    full: Claudio Giuliano
+    id: claudio-giuliano
+    last: Giuliano
+  author_string: Kateryna Tymoshenko, Claudio Giuliano
+  bibkey: tymoshenko-giuliano-2010-fbk
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '214'
+  page_last: '217'
+  pages: "214\u2013217"
+  paper_id: '47'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1047.jpg
+  title: 'FBK-IRST: Semantic Relation Extraction Using Cyc'
+  title_html: '<span class="acl-fixed-case">FBK</span>-<span class="acl-fixed-case">IRST</span>:
+    Semantic Relation Extraction Using Cyc'
+  url: https://www.aclweb.org/anthology/S10-1047
+  year: '2010'
+S10-1048:
+  address: Uppsala, Sweden
+  author:
+  - first: Andrea
+    full: Andrea Esuli
+    id: andrea-esuli
+    last: Esuli
+  - first: Diego
+    full: Diego Marcheggiani
+    id: diego-marcheggiani
+    last: Marcheggiani
+  - first: Fabrizio
+    full: Fabrizio Sebastiani
+    id: fabrizio-sebastiani
+    last: Sebastiani
+  author_string: Andrea Esuli, Diego Marcheggiani, Fabrizio Sebastiani
+  bibkey: esuli-etal-2010-isti
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '218'
+  page_last: '221'
+  pages: "218\u2013221"
+  paper_id: '48'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1048.jpg
+  title: 'ISTI@SemEval-2 Task 8: Boosting-Based Multiway Relation Classification'
+  title_html: '<span class="acl-fixed-case">ISTI</span>@<span class="acl-fixed-case">S</span>em<span
+    class="acl-fixed-case">E</span>val-2 Task 8: Boosting-Based Multiway Relation
+    Classification'
+  url: https://www.aclweb.org/anthology/S10-1048
+  year: '2010'
+S10-1049:
+  address: Uppsala, Sweden
+  author:
+  - first: Stephen
+    full: Stephen Tratz
+    id: stephen-tratz
+    last: Tratz
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Stephen Tratz, Eduard Hovy
+  bibkey: tratz-hovy-2010-isi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '222'
+  page_last: '225'
+  pages: "222\u2013225"
+  paper_id: '49'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1049.jpg
+  title: 'ISI: Automatic Classification of Relations Between Nominals Using a Maximum
+    Entropy Classifier'
+  title_html: '<span class="acl-fixed-case">ISI</span>: Automatic Classification of
+    Relations Between Nominals Using a Maximum Entropy Classifier'
+  url: https://www.aclweb.org/anthology/S10-1049
+  year: '2010'
+S10-1050:
+  address: Uppsala, Sweden
+  author:
+  - first: Yuan
+    full: Yuan Chen
+    id: yuan-chen
+    last: Chen
+  - first: Man
+    full: Man Lan
+    id: man-lan
+    last: Lan
+  - first: Jian
+    full: Jian Su
+    id: jian-su
+    last: Su
+  - first: Zhi Min
+    full: Zhi Min Zhou
+    id: zhi-min-zhou
+    last: Zhou
+  - first: Yu
+    full: Yu Xu
+    id: yu-xu
+    last: Xu
+  author_string: Yuan Chen, Man Lan, Jian Su, Zhi Min Zhou, Yu Xu
+  bibkey: chen-etal-2010-ecnu
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '226'
+  page_last: '229'
+  pages: "226\u2013229"
+  paper_id: '50'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1050.jpg
+  title: 'ECNU: Effective Semantic Relations Classification without Complicated Features
+    or Multiple External Corpora'
+  title_html: '<span class="acl-fixed-case">ECNU</span>: Effective Semantic Relations
+    Classification without Complicated Features or Multiple External Corpora'
+  url: https://www.aclweb.org/anthology/S10-1050
+  year: '2010'
+S10-1051:
+  address: Uppsala, Sweden
+  author:
+  - first: Guofu
+    full: Guofu Li
+    id: guofu-li
+    last: Li
+  - first: Alejandra
+    full: Alejandra Lopez-Fernandez
+    id: alejandra-lopez-fernandez
+    last: Lopez-Fernandez
+  - first: Tony
+    full: Tony Veale
+    id: tony-veale
+    last: Veale
+  author_string: Guofu Li, Alejandra Lopez-Fernandez, Tony Veale
+  bibkey: li-etal-2010-ucd
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '230'
+  page_last: '233'
+  pages: "230\u2013233"
+  paper_id: '51'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1051.jpg
+  title: 'UCD-Goggle: A Hybrid System for Noun Compound Paraphrasing'
+  title_html: '<span class="acl-fixed-case">UCD</span>-Goggle: A Hybrid System for
+    Noun Compound Paraphrasing'
+  url: https://www.aclweb.org/anthology/S10-1051
+  year: '2010'
+S10-1052:
+  address: Uppsala, Sweden
+  author:
+  - first: Paul
+    full: Paul Nulty
+    id: paul-nulty
+    last: Nulty
+  - first: Fintan
+    full: Fintan Costello
+    id: fintan-j-costello
+    last: Costello
+  author_string: Paul Nulty, Fintan Costello
+  bibkey: nulty-costello-2010-ucd
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '234'
+  page_last: '237'
+  pages: "234\u2013237"
+  paper_id: '52'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1052.jpg
+  title: 'UCD-PN: Selecting General Paraphrases Using Conditional Probability'
+  title_html: '<span class="acl-fixed-case">UCD</span>-<span class="acl-fixed-case">PN</span>:
+    Selecting General Paraphrases Using Conditional Probability'
+  url: https://www.aclweb.org/anthology/S10-1052
+  year: '2010'
+S10-1053:
+  address: Uppsala, Sweden
+  author:
+  - first: Maarten
+    full: Maarten van Gompel
+    id: maarten-van-gompel
+    last: van Gompel
+  author_string: Maarten van Gompel
+  bibkey: van-gompel-2010-uvt
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '238'
+  page_last: '241'
+  pages: "238\u2013241"
+  paper_id: '53'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1053.jpg
+  title: 'UvT-WSD1: A Cross-Lingual Word Sense Disambiguation System'
+  title_html: '<span class="acl-fixed-case">U</span>v<span class="acl-fixed-case">T</span>-<span
+    class="acl-fixed-case">WSD</span>1: A Cross-Lingual Word Sense Disambiguation
+    System'
+  url: https://www.aclweb.org/anthology/S10-1053
+  year: '2010'
+S10-1054:
+  address: Uppsala, Sweden
+  author:
+  - first: Pierpaolo
+    full: Pierpaolo Basile
+    id: pierpaolo-basile
+    last: Basile
+  - first: Giovanni
+    full: Giovanni Semeraro
+    id: giovanni-semeraro
+    last: Semeraro
+  author_string: Pierpaolo Basile, Giovanni Semeraro
+  bibkey: basile-semeraro-2010-uba
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '242'
+  page_last: '247'
+  pages: "242\u2013247"
+  paper_id: '54'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1054.jpg
+  title: 'UBA: Using Automatic Translation and Wikipedia for Cross-Lingual Lexical
+    Substitution'
+  title_html: '<span class="acl-fixed-case">UBA</span>: Using Automatic Translation
+    and <span class="acl-fixed-case">W</span>ikipedia for Cross-Lingual Lexical Substitution'
+  url: https://www.aclweb.org/anthology/S10-1054
+  year: '2010'
+S10-1055:
+  address: Uppsala, Sweden
+  author:
+  - first: Patrice
+    full: Patrice Lopez
+    id: patrice-lopez
+    last: Lopez
+  - first: Laurent
+    full: Laurent Romary
+    id: laurent-romary
+    last: Romary
+  author_string: Patrice Lopez, Laurent Romary
+  bibkey: lopez-romary-2010-humb
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '248'
+  page_last: '251'
+  pages: "248\u2013251"
+  paper_id: '55'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1055.jpg
+  title: 'HUMB: Automatic Key Term Extraction from Scientific Articles in GROBID'
+  title_html: '<span class="acl-fixed-case">HUMB</span>: Automatic Key Term Extraction
+    from Scientific Articles in <span class="acl-fixed-case">GROBID</span>'
+  url: https://www.aclweb.org/anthology/S10-1055
+  year: '2010'
+S10-1056:
+  address: Uppsala, Sweden
+  author:
+  - first: Kirk
+    full: Kirk Roberts
+    id: kirk-roberts
+    last: Roberts
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Kirk Roberts, Sanda Harabagiu
+  bibkey: roberts-harabagiu-2010-utdmet
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '252'
+  page_last: '255'
+  pages: "252\u2013255"
+  paper_id: '56'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1056.jpg
+  title: 'UTDMet: Combining WordNet and Corpus Data for Argument Coercion Detection'
+  title_html: '<span class="acl-fixed-case">UTDM</span>et: Combining <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et and Corpus Data for Argument Coercion Detection'
+  url: https://www.aclweb.org/anthology/S10-1056
+  year: '2010'
+S10-1057:
+  address: Uppsala, Sweden
+  author:
+  - first: Bryan
+    full: Bryan Rink
+    id: bryan-rink
+    last: Rink
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Bryan Rink, Sanda Harabagiu
+  bibkey: rink-harabagiu-2010-utd
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '256'
+  page_last: '259'
+  pages: "256\u2013259"
+  paper_id: '57'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1057.jpg
+  title: 'UTD: Classifying Semantic Relations by Combining Lexical and Semantic Resources'
+  title_html: '<span class="acl-fixed-case">UTD</span>: Classifying Semantic Relations
+    by Combining Lexical and Semantic Resources'
+  url: https://www.aclweb.org/anthology/S10-1057
+  year: '2010'
+S10-1058:
+  address: Uppsala, Sweden
+  author:
+  - first: Sander
+    full: Sander Wubben
+    id: sander-wubben
+    last: Wubben
+  author_string: Sander Wubben
+  bibkey: wubben-2010-uvt
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '260'
+  page_last: '263'
+  pages: "260\u2013263"
+  paper_id: '58'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1058.jpg
+  title: 'UvT: Memory-Based Pairwise Ranking of Paraphrasing Verbs'
+  title_html: '<span class="acl-fixed-case">U</span>v<span class="acl-fixed-case">T</span>:
+    Memory-Based Pairwise Ranking of Paraphrasing Verbs'
+  url: https://www.aclweb.org/anthology/S10-1058
+  year: '2010'
+S10-1059:
+  address: Uppsala, Sweden
+  author:
+  - first: Desai
+    full: Desai Chen
+    id: desai-chen
+    last: Chen
+  - first: Nathan
+    full: Nathan Schneider
+    id: nathan-schneider
+    last: Schneider
+  - first: Dipanjan
+    full: Dipanjan Das
+    id: dipanjan-das
+    last: Das
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Desai Chen, Nathan Schneider, Dipanjan Das, Noah A. Smith
+  bibkey: chen-etal-2010-semafor
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '264'
+  page_last: '267'
+  pages: "264\u2013267"
+  paper_id: '59'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1059.jpg
+  title: 'SEMAFOR: Frame Argument Resolution with Log-Linear Models'
+  title_html: '<span class="acl-fixed-case">SEMAFOR</span>: Frame Argument Resolution
+    with Log-Linear Models'
+  url: https://www.aclweb.org/anthology/S10-1059
+  year: '2010'
+S10-1060:
+  address: Uppsala, Sweden
+  author:
+  - first: Laura
+    full: Laura Rimell
+    id: laura-rimell
+    last: Rimell
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  author_string: Laura Rimell, Stephen Clark
+  bibkey: rimell-clark-2010-cambridge
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '268'
+  page_last: '271'
+  pages: "268\u2013271"
+  paper_id: '60'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1060.jpg
+  title: 'Cambridge: Parser Evaluation Using Textual Entailment by Grammatical Relation
+    Comparison'
+  title_html: '<span class="acl-fixed-case">C</span>ambridge: Parser Evaluation Using
+    Textual Entailment by Grammatical Relation Comparison'
+  url: https://www.aclweb.org/anthology/S10-1060
+  year: '2010'
+S10-1061:
+  address: Uppsala, Sweden
+  author:
+  - first: Rui
+    full: Rui Wang
+    id: rui-wang
+    last: Wang
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  author_string: Rui Wang, Yi Zhang
+  bibkey: wang-zhang-2010-mars
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '272'
+  page_last: '275'
+  pages: "272\u2013275"
+  paper_id: '61'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1061.jpg
+  title: 'MARS: A Specialized RTE System for Parser Evaluation'
+  title_html: '<span class="acl-fixed-case">MARS</span>: A Specialized <span class="acl-fixed-case">RTE</span>
+    System for Parser Evaluation'
+  url: https://www.aclweb.org/anthology/S10-1061
+  year: '2010'
+S10-1062:
+  address: Uppsala, Sweden
+  author:
+  - first: Naushad
+    full: Naushad UzZaman
+    id: naushad-uzzaman
+    last: UzZaman
+  - first: James
+    full: James Allen
+    id: james-allen
+    last: Allen
+  author_string: Naushad UzZaman, James Allen
+  bibkey: uzzaman-allen-2010-trips
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '276'
+  page_last: '283'
+  pages: "276\u2013283"
+  paper_id: '62'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1062.jpg
+  title: 'TRIPS and TRIOS System for TempEval-2: Extracting Temporal Information from
+    Text'
+  title_html: '<span class="acl-fixed-case">TRIPS</span> and <span class="acl-fixed-case">TRIOS</span>
+    System for <span class="acl-fixed-case">T</span>emp<span class="acl-fixed-case">E</span>val-2:
+    Extracting Temporal Information from Text'
+  url: https://www.aclweb.org/anthology/S10-1062
+  year: '2010'
+S10-1063:
+  address: Uppsala, Sweden
+  author:
+  - first: Hector
+    full: Hector Llorens
+    id: hector-llorens
+    last: Llorens
+  - first: Estela
+    full: Estela Saquete
+    id: estela-saquete
+    last: Saquete
+  - first: Borja
+    full: Borja Navarro
+    id: borja-navarro
+    last: Navarro
+  author_string: Hector Llorens, Estela Saquete, Borja Navarro
+  bibkey: llorens-etal-2010-tipsem
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '284'
+  page_last: '291'
+  pages: "284\u2013291"
+  paper_id: '63'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1063.jpg
+  title: 'TIPSem (English and Spanish): Evaluating CRFs and Semantic Roles in TempEval-2'
+  title_html: '<span class="acl-fixed-case">TIPS</span>em (<span class="acl-fixed-case">E</span>nglish
+    and <span class="acl-fixed-case">S</span>panish): Evaluating <span class="acl-fixed-case">CRF</span>s
+    and Semantic Roles in <span class="acl-fixed-case">T</span>emp<span class="acl-fixed-case">E</span>val-2'
+  url: https://www.aclweb.org/anthology/S10-1063
+  year: '2010'
+S10-1064:
+  address: Uppsala, Sweden
+  author:
+  - first: Bin
+    full: Bin Lu
+    id: bin-lu
+    last: Lu
+  - first: Benjamin K.
+    full: Benjamin K. Tsou
+    id: benjamin-k-tsou
+    last: Tsou
+  author_string: Bin Lu, Benjamin K. Tsou
+  bibkey: lu-tsou-2010-cityu
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '292'
+  page_last: '295'
+  pages: "292\u2013295"
+  paper_id: '64'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1064.jpg
+  title: 'CityU-DAC: Disambiguating Sentiment-Ambiguous Adjectives within Context'
+  title_html: '<span class="acl-fixed-case">C</span>ity<span class="acl-fixed-case">U</span>-<span
+    class="acl-fixed-case">DAC</span>: Disambiguating Sentiment-Ambiguous Adjectives
+    within Context'
+  url: https://www.aclweb.org/anthology/S10-1064
+  year: '2010'
+S10-1065:
+  address: Uppsala, Sweden
+  author:
+  - first: Sara
+    full: Sara Tonelli
+    id: sara-tonelli
+    last: Tonelli
+  - first: Rodolfo
+    full: Rodolfo Delmonte
+    id: rodolfo-delmonte
+    last: Delmonte
+  author_string: Sara Tonelli, Rodolfo Delmonte
+  bibkey: tonelli-delmonte-2010-venses
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '296'
+  page_last: '299'
+  pages: "296\u2013299"
+  paper_id: '65'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1065.jpg
+  title: 'VENSES++: Adapting a deep semantic processing system to the identification
+    of null instantiations'
+  title_html: '<span class="acl-fixed-case">VENSES</span>++: Adapting a deep semantic
+    processing system to the identification of null instantiations'
+  url: https://www.aclweb.org/anthology/S10-1065
+  year: '2010'
+S10-1066:
+  address: Uppsala, Sweden
+  author:
+  - first: Ken
+    full: Ken Litkowski
+    id: ken-litkowski
+    last: Litkowski
+  author_string: Ken Litkowski
+  bibkey: litkowski-2010-clr
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '300'
+  page_last: '303'
+  pages: "300\u2013303"
+  paper_id: '66'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1066.jpg
+  title: 'CLR: Linking Events and Their Participants in Discourse Using a Comprehensive
+    FrameNet Dictionary'
+  title_html: '<span class="acl-fixed-case">CLR</span>: Linking Events and Their Participants
+    in Discourse Using a Comprehensive <span class="acl-fixed-case">F</span>rame<span
+    class="acl-fixed-case">N</span>et Dictionary'
+  url: https://www.aclweb.org/anthology/S10-1066
+  year: '2010'
+S10-1067:
+  address: Uppsala, Sweden
+  author:
+  - first: Shiqi
+    full: Shiqi Li
+    id: shiqi-li
+    last: Li
+  - first: Pengyuan
+    full: Pengyuan Liu
+    id: pengyuan-liu
+    last: Liu
+  - first: Tiejun
+    full: Tiejun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  - first: Qin
+    full: Qin Lu
+    id: qin-lu
+    last: Lu
+  - first: Hanjing
+    full: Hanjing Li
+    id: hanjing-li
+    last: Li
+  author_string: Shiqi Li, Pengyuan Liu, Tiejun Zhao, Qin Lu, Hanjing Li
+  bibkey: li-etal-2010-pku
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '304'
+  page_last: '307'
+  pages: "304\u2013307"
+  paper_id: '67'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1067.jpg
+  title: 'PKU_HIT: An Event Detection System Based on Instances Expansion and Rich
+    Syntactic Features'
+  title_html: '<span class="acl-fixed-case">PKU</span>_<span class="acl-fixed-case">HIT</span>:
+    An Event Detection System Based on Instances Expansion and Rich Syntactic Features'
+  url: https://www.aclweb.org/anthology/S10-1067
+  year: '2010'
+S10-1068:
+  address: Uppsala, Sweden
+  author:
+  - first: Alexander
+    full: Alexander Volokh
+    id: alexander-volokh
+    last: Volokh
+  - first: "G\xFCnter"
+    full: "G\xFCnter Neumann"
+    id: gunter-neumann
+    last: Neumann
+  author_string: "Alexander Volokh, G\xFCnter Neumann"
+  bibkey: volokh-neumann-2010-372
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '308'
+  page_last: '312'
+  pages: "308\u2013312"
+  paper_id: '68'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1068.jpg
+  title: 372:Comparing the Benefit of Different Dependency Parsers for Textual Entailment
+    Using Syntactic Constraints Only
+  title_html: 372:Comparing the Benefit of Different Dependency Parsers for Textual
+    Entailment Using Syntactic Constraints Only
+  url: https://www.aclweb.org/anthology/S10-1068
+  year: '2010'
+S10-1069:
+  address: Uppsala, Sweden
+  author:
+  - first: Dominick
+    full: Dominick Ng
+    id: dominick-ng
+    last: Ng
+  - first: James W.D.
+    full: James W.D. Constable
+    id: james-w-d-constable
+    last: Constable
+  - first: Matthew
+    full: Matthew Honnibal
+    id: matthew-honnibal
+    last: Honnibal
+  - first: James R.
+    full: James R. Curran
+    id: james-r-curran
+    last: Curran
+  author_string: Dominick Ng, James W.D. Constable, Matthew Honnibal, James R. Curran
+  bibkey: ng-etal-2010-schwa
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '313'
+  page_last: '316'
+  pages: "313\u2013316"
+  paper_id: '69'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1069.jpg
+  title: 'SCHWA: PETE Using CCG Dependencies with the C&C Parser'
+  title_html: '<span class="acl-fixed-case">SCHWA</span>: <span class="acl-fixed-case">PETE</span>
+    Using <span class="acl-fixed-case">CCG</span> Dependencies with the <span class="acl-fixed-case">C&amp;C</span>
+    Parser'
+  url: https://www.aclweb.org/anthology/S10-1069
+  year: '2010'
+S10-1070:
+  address: Uppsala, Sweden
+  author:
+  - first: Estela
+    full: Estela Saquete Boro
+    id: estela-saquete
+    last: Saquete Boro
+  author_string: Estela Saquete Boro
+  bibkey: saquete-boro-2010-id
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '317'
+  page_last: '320'
+  pages: "317\u2013320"
+  paper_id: '70'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1070.jpg
+  title: ID 392:TERSEO + T2T3 Transducer. A systems for Recognizing and Normalizing
+    TIMEX3
+  title_html: <span class="acl-fixed-case">ID 392:TERSEO + T2T3</span> Transducer.
+    A systems for Recognizing and Normalizing <span class="acl-fixed-case">TIMEX3</span>
+  url: https://www.aclweb.org/anthology/S10-1070
+  year: '2010'
+S10-1071:
+  address: Uppsala, Sweden
+  author:
+  - first: Jannik
+    full: "Jannik Str\xF6tgen"
+    id: jannik-strotgen
+    last: "Str\xF6tgen"
+  - first: Michael
+    full: Michael Gertz
+    id: michael-gertz
+    last: Gertz
+  author_string: "Jannik Str\xF6tgen, Michael Gertz"
+  bibkey: strotgen-gertz-2010-heideltime
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '321'
+  page_last: '324'
+  pages: "321\u2013324"
+  paper_id: '71'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1071.jpg
+  title: 'HeidelTime: High Quality Rule-Based Extraction and Normalization of Temporal
+    Expressions'
+  title_html: '<span class="acl-fixed-case">H</span>eidel<span class="acl-fixed-case">T</span>ime:
+    High Quality Rule-Based Extraction and Normalization of Temporal Expressions'
+  url: https://www.aclweb.org/anthology/S10-1071
+  year: '2010'
+S10-1072:
+  address: Uppsala, Sweden
+  author:
+  - first: Oleksandr
+    full: Oleksandr Kolomiyets
+    id: oleksandr-kolomiyets
+    last: Kolomiyets
+  - first: Marie-Francine
+    full: Marie-Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: Oleksandr Kolomiyets, Marie-Francine Moens
+  bibkey: kolomiyets-moens-2010-kul
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '325'
+  page_last: '328'
+  pages: "325\u2013328"
+  paper_id: '72'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1072.jpg
+  title: 'KUL: Recognition and Normalization of Temporal Expressions'
+  title_html: '<span class="acl-fixed-case">KUL</span>: Recognition and Normalization
+    of Temporal Expressions'
+  url: https://www.aclweb.org/anthology/S10-1072
+  year: '2010'
+S10-1073:
+  address: Uppsala, Sweden
+  author:
+  - first: "Mar\xEDa Teresa"
+    full: "Mar\xEDa Teresa Vicente-D\xEDez"
+    id: maria-teresa-vicente-diez
+    last: "Vicente-D\xEDez"
+  - first: "Juli\xE1n"
+    full: "Juli\xE1n Moreno Schneider"
+    id: julian-moreno-schneider
+    last: Moreno Schneider
+  - first: Paloma
+    full: "Paloma Mart\xEDnez"
+    id: paloma-martinez
+    last: "Mart\xEDnez"
+  author_string: "Mar\xEDa Teresa Vicente-D\xEDez, Juli\xE1n Moreno Schneider, Paloma\
+    \ Mart\xEDnez"
+  bibkey: vicente-diez-etal-2010-uc3m
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '329'
+  page_last: '332'
+  pages: "329\u2013332"
+  paper_id: '73'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1073.jpg
+  title: 'UC3M System: Determining the Extent, Type and Value of Time Expressions
+    in TempEval-2'
+  title_html: '<span class="acl-fixed-case">UC</span>3<span class="acl-fixed-case">M</span>
+    System: Determining the Extent, Type and Value of Time Expressions in <span class="acl-fixed-case">T</span>emp<span
+    class="acl-fixed-case">E</span>val-2'
+  url: https://www.aclweb.org/anthology/S10-1073
+  year: '2010'
+S10-1074:
+  address: Uppsala, Sweden
+  author:
+  - first: Claire
+    full: Claire Grover
+    id: claire-grover
+    last: Grover
+  - first: Richard
+    full: Richard Tobin
+    id: richard-tobin
+    last: Tobin
+  - first: Beatrice
+    full: Beatrice Alex
+    id: beatrice-alex
+    last: Alex
+  - first: Kate
+    full: Kate Byrne
+    id: kate-byrne
+    last: Byrne
+  author_string: Claire Grover, Richard Tobin, Beatrice Alex, Kate Byrne
+  bibkey: grover-etal-2010-edinburgh
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '333'
+  page_last: '336'
+  pages: "333\u2013336"
+  paper_id: '74'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1074.jpg
+  title: 'Edinburgh-LTG: TempEval-2 System Description'
+  title_html: '<span class="acl-fixed-case">E</span>dinburgh-<span class="acl-fixed-case">LTG</span>:
+    <span class="acl-fixed-case">T</span>emp<span class="acl-fixed-case">E</span>val-2
+    System Description'
+  url: https://www.aclweb.org/anthology/S10-1074
+  year: '2010'
+S10-1075:
+  address: Uppsala, Sweden
+  author:
+  - first: Leon
+    full: Leon Derczynski
+    id: leon-derczynski
+    last: Derczynski
+  - first: Robert
+    full: Robert Gaizauskas
+    id: robert-gaizauskas
+    last: Gaizauskas
+  author_string: Leon Derczynski, Robert Gaizauskas
+  bibkey: derczynski-gaizauskas-2010-usfd2
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '337'
+  page_last: '340'
+  pages: "337\u2013340"
+  paper_id: '75'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1075.jpg
+  title: 'USFD2: Annotating Temporal Expresions and TLINKs for TempEval-2'
+  title_html: '<span class="acl-fixed-case">USFD</span>2: Annotating Temporal Expresions
+    and <span class="acl-fixed-case">TLINK</span>s for <span class="acl-fixed-case">T</span>emp<span
+    class="acl-fixed-case">E</span>val-2'
+  url: https://www.aclweb.org/anthology/S10-1075
+  year: '2010'
+S10-1076:
+  address: Uppsala, Sweden
+  author:
+  - first: Eun
+    full: Eun Ha
+    id: eun-young-ha
+    last: Ha
+  - first: Alok
+    full: Alok Baikadi
+    id: alok-baikadi
+    last: Baikadi
+  - first: Carlyle
+    full: Carlyle Licata
+    id: carlyle-licata
+    last: Licata
+  - first: James
+    full: James Lester
+    id: james-lester
+    last: Lester
+  author_string: Eun Ha, Alok Baikadi, Carlyle Licata, James Lester
+  bibkey: ha-etal-2010-ncsu
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '341'
+  page_last: '344'
+  pages: "341\u2013344"
+  paper_id: '76'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1076.jpg
+  title: 'NCSU: Modeling Temporal Relations with Markov Logic and Lexical Ontology'
+  title_html: '<span class="acl-fixed-case">NCSU</span>: Modeling Temporal Relations
+    with <span class="acl-fixed-case">M</span>arkov Logic and Lexical Ontology'
+  url: https://www.aclweb.org/anthology/S10-1076
+  year: '2010'
+S10-1077:
+  address: Uppsala, Sweden
+  author:
+  - first: Anup
+    full: Anup Kumar Kolya
+    id: anup-kumar-kolya
+    last: Kumar Kolya
+  - first: Asif
+    full: Asif Ekbal
+    id: asif-ekbal
+    last: Ekbal
+  - first: Sivaji
+    full: Sivaji Bandyopadhyay
+    id: sivaji-bandyopadhyay
+    last: Bandyopadhyay
+  author_string: Anup Kumar Kolya, Asif Ekbal, Sivaji Bandyopadhyay
+  bibkey: kumar-kolya-etal-2010-ju
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '345'
+  page_last: '350'
+  pages: "345\u2013350"
+  paper_id: '77'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1077.jpg
+  title: 'JU_CSE_TEMP: A First Step towards Evaluating Events, Time Expressions and
+    Temporal Relations'
+  title_html: '<span class="acl-fixed-case">JU</span>_<span class="acl-fixed-case">CSE</span>_<span
+    class="acl-fixed-case">TEMP</span>: A First Step towards Evaluating Events, Time
+    Expressions and Temporal Relations'
+  url: https://www.aclweb.org/anthology/S10-1077
+  year: '2010'
+S10-1078:
+  address: Uppsala, Sweden
+  author:
+  - first: Roman
+    full: Roman Kern
+    id: roman-kern
+    last: Kern
+  - first: Markus
+    full: Markus Muhr
+    id: markus-muhr
+    last: Muhr
+  - first: Michael
+    full: Michael Granitzer
+    id: michael-granitzer
+    last: Granitzer
+  author_string: Roman Kern, Markus Muhr, Michael Granitzer
+  bibkey: kern-etal-2010-kcdc
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '351'
+  page_last: '354'
+  pages: "351\u2013354"
+  paper_id: '78'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1078.jpg
+  title: 'KCDC: Word Sense Induction by Using Grammatical Dependencies and Sentence
+    Phrase Structure'
+  title_html: '<span class="acl-fixed-case">KCDC</span>: Word Sense Induction by Using
+    Grammatical Dependencies and Sentence Phrase Structure'
+  url: https://www.aclweb.org/anthology/S10-1078
+  year: '2010'
+S10-1079:
+  address: Uppsala, Sweden
+  author:
+  - first: Ioannis
+    full: Ioannis Korkontzelos
+    id: ioannis-korkontzelos
+    last: Korkontzelos
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  author_string: Ioannis Korkontzelos, Suresh Manandhar
+  bibkey: korkontzelos-manandhar-2010-uoy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '355'
+  page_last: '358'
+  pages: "355\u2013358"
+  paper_id: '79'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1079.jpg
+  title: 'UoY: Graphs of Unambiguous Vertices for Word Sense Induction and Disambiguation'
+  title_html: '<span class="acl-fixed-case">U</span>o<span class="acl-fixed-case">Y</span>:
+    Graphs of Unambiguous Vertices for Word Sense Induction and Disambiguation'
+  url: https://www.aclweb.org/anthology/S10-1079
+  year: '2010'
+S10-1080:
+  address: Uppsala, Sweden
+  author:
+  - first: David
+    full: David Jurgens
+    id: david-jurgens
+    last: Jurgens
+  - first: Keith
+    full: Keith Stevens
+    id: keith-stevens
+    last: Stevens
+  author_string: David Jurgens, Keith Stevens
+  bibkey: jurgens-stevens-2010-hermit
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '359'
+  page_last: '362'
+  pages: "359\u2013362"
+  paper_id: '80'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1080.jpg
+  title: 'HERMIT: Flexible Clustering for the SemEval-2 WSI Task'
+  title_html: '<span class="acl-fixed-case">HERMIT</span>: Flexible Clustering for
+    the <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2
+    <span class="acl-fixed-case">WSI</span> Task'
+  url: https://www.aclweb.org/anthology/S10-1080
+  year: '2010'
+S10-1081:
+  address: Uppsala, Sweden
+  author:
+  - first: Ted
+    full: Ted Pedersen
+    id: ted-pedersen
+    last: Pedersen
+  author_string: Ted Pedersen
+  bibkey: pedersen-2010-duluth
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '363'
+  page_last: '366'
+  pages: "363\u2013366"
+  paper_id: '81'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1081.jpg
+  title: 'Duluth-WSI: SenseClusters Applied to the Sense Induction Task of SemEval-2'
+  title_html: '<span class="acl-fixed-case">D</span>uluth-<span class="acl-fixed-case">WSI</span>:
+    <span class="acl-fixed-case">S</span>ense<span class="acl-fixed-case">C</span>lusters
+    Applied to the Sense Induction Task of <span class="acl-fixed-case">S</span>em<span
+    class="acl-fixed-case">E</span>val-2'
+  url: https://www.aclweb.org/anthology/S10-1081
+  year: '2010'
+S10-1082:
+  address: Uppsala, Sweden
+  author:
+  - first: Wesam
+    full: Wesam Elshamy
+    id: wesam-elshamy
+    last: Elshamy
+  - first: Doina
+    full: Doina Caragea
+    id: doina-caragea
+    last: Caragea
+  - first: William
+    full: William Hsu
+    id: william-hsu
+    last: Hsu
+  author_string: Wesam Elshamy, Doina Caragea, William Hsu
+  bibkey: elshamy-etal-2010-ksu
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '367'
+  page_last: '370'
+  pages: "367\u2013370"
+  paper_id: '82'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1082.jpg
+  title: 'KSU KDD: Word Sense Induction by Clustering in Topic Space'
+  title_html: '<span class="acl-fixed-case">KSU</span> <span class="acl-fixed-case">KDD</span>:
+    Word Sense Induction by Clustering in Topic Space'
+  url: https://www.aclweb.org/anthology/S10-1082
+  year: '2010'
+S10-1083:
+  address: Uppsala, Sweden
+  author:
+  - first: Peng-Yuan
+    full: Peng-Yuan Liu
+    id: pengyuan-liu
+    last: Liu
+  - first: Shi-Wen
+    full: Shi-Wen Yu
+    id: shi-wen-yu
+    last: Yu
+  - first: Shui
+    full: Shui Liu
+    id: shui-liu
+    last: Liu
+  - first: Tie-Jun
+    full: Tie-Jun Zhao
+    id: tiejun-zhao
+    last: Zhao
+  author_string: Peng-Yuan Liu, Shi-Wen Yu, Shui Liu, Tie-Jun Zhao
+  bibkey: liu-etal-2010-pengyuan
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '371'
+  page_last: '374'
+  pages: "371\u2013374"
+  paper_id: '83'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1083.jpg
+  title: 'PengYuan@PKU: Extracting Infrequent Sense Instance with the Same N-Gram
+    Pattern for the SemEval-2010 Task 15'
+  title_html: '<span class="acl-fixed-case">P</span>eng<span class="acl-fixed-case">Y</span>uan@<span
+    class="acl-fixed-case">PKU</span>: Extracting Infrequent Sense Instance with the
+    Same N-Gram Pattern for the <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010
+    Task 15'
+  url: https://www.aclweb.org/anthology/S10-1083
+  year: '2010'
+S10-1084:
+  address: Uppsala, Sweden
+  author:
+  - first: Bernard
+    full: Bernard Brosseau-Villeneuve
+    id: bernard-brosseau-villeneuve
+    last: Brosseau-Villeneuve
+  - first: Noriko
+    full: Noriko Kando
+    id: noriko-kando
+    last: Kando
+  - first: Jian-Yun
+    full: Jian-Yun Nie
+    id: jian-yun-nie
+    last: Nie
+  author_string: Bernard Brosseau-Villeneuve, Noriko Kando, Jian-Yun Nie
+  bibkey: brosseau-villeneuve-etal-2010-rali
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '375'
+  page_last: '378'
+  pages: "375\u2013378"
+  paper_id: '84'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1084.jpg
+  title: 'RALI: Automatic Weighting of Text Window Distances'
+  title_html: '<span class="acl-fixed-case">RALI</span>: Automatic Weighting of Text
+    Window Distances'
+  url: https://www.aclweb.org/anthology/S10-1084
+  year: '2010'
+S10-1085:
+  address: Uppsala, Sweden
+  author:
+  - first: Kiyoaki
+    full: Kiyoaki Shirai
+    id: kiyoaki-shirai
+    last: Shirai
+  - first: Makoto
+    full: Makoto Nakamura
+    id: makoto-nakamura
+    last: Nakamura
+  author_string: Kiyoaki Shirai, Makoto Nakamura
+  bibkey: shirai-nakamura-2010-jaist
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '379'
+  page_last: '382'
+  pages: "379\u2013382"
+  paper_id: '85'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1085.jpg
+  title: 'JAIST: Clustering and Classification Based Approaches for Japanese WSD'
+  title_html: '<span class="acl-fixed-case">JAIST</span>: Clustering and Classification
+    Based Approaches for <span class="acl-fixed-case">J</span>apanese <span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S10-1085
+  year: '2010'
+S10-1086:
+  address: Uppsala, Sweden
+  author:
+  - first: Sanae
+    full: Sanae Fujita
+    id: sanae-fujita
+    last: Fujita
+  - first: Kevin
+    full: Kevin Duh
+    id: kevin-duh
+    last: Duh
+  - first: Akinori
+    full: Akinori Fujino
+    id: akinori-fujino
+    last: Fujino
+  - first: Hirotoshi
+    full: Hirotoshi Taira
+    id: hirotoshi-taira
+    last: Taira
+  - first: Hiroyuki
+    full: Hiroyuki Shindo
+    id: hiroyuki-shindo
+    last: Shindo
+  author_string: Sanae Fujita, Kevin Duh, Akinori Fujino, Hirotoshi Taira, Hiroyuki
+    Shindo
+  bibkey: fujita-etal-2010-mss
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '383'
+  page_last: '386'
+  pages: "383\u2013386"
+  paper_id: '86'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1086.jpg
+  title: 'MSS: Investigating the Effectiveness of Domain Combinations and Topic Features
+    for Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">MSS</span>: Investigating the Effectiveness
+    of Domain Combinations and Topic Features for Word Sense Disambiguation'
+  url: https://www.aclweb.org/anthology/S10-1086
+  year: '2010'
+S10-1087:
+  address: Uppsala, Sweden
+  author:
+  - first: Siva
+    full: Siva Reddy
+    id: siva-reddy
+    last: Reddy
+  - first: Abhilash
+    full: Abhilash Inumella
+    id: abhilash-inumella
+    last: Inumella
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  author_string: Siva Reddy, Abhilash Inumella, Diana McCarthy, Mark Stevenson
+  bibkey: reddy-etal-2010-iiith
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '387'
+  page_last: '391'
+  pages: "387\u2013391"
+  paper_id: '87'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1087.jpg
+  title: 'IIITH: Domain Specific Word Sense Disambiguation'
+  title_html: '<span class="acl-fixed-case">IIITH</span>: Domain Specific Word Sense
+    Disambiguation'
+  url: https://www.aclweb.org/anthology/S10-1087
+  year: '2010'
+S10-1088:
+  address: Uppsala, Sweden
+  author:
+  - first: Hansen A.
+    full: Hansen A. Schwartz
+    id: h-andrew-schwartz
+    last: Schwartz
+  - first: Fernando
+    full: Fernando Gomez
+    id: fernando-gomez
+    last: Gomez
+  author_string: Hansen A. Schwartz, Fernando Gomez
+  bibkey: schwartz-gomez-2010-ucf
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '392'
+  page_last: '395'
+  pages: "392\u2013395"
+  paper_id: '88'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1088.jpg
+  title: 'UCF-WS: Domain Word Sense Disambiguation Using Web Selectors'
+  title_html: '<span class="acl-fixed-case">UCF</span>-<span class="acl-fixed-case">WS</span>:
+    Domain Word Sense Disambiguation Using Web Selectors'
+  url: https://www.aclweb.org/anthology/S10-1088
+  year: '2010'
+S10-1089:
+  address: Uppsala, Sweden
+  author:
+  - first: Andrew
+    full: Andrew Tran
+    id: andrew-tran
+    last: Tran
+  - first: Chris
+    full: Chris Bowes
+    id: chris-bowes
+    last: Bowes
+  - first: David
+    full: David Brown
+    id: david-brown
+    last: Brown
+  - first: Ping
+    full: Ping Chen
+    id: ping-chen
+    last: Chen
+  - first: Max
+    full: Max Choly
+    id: max-choly
+    last: Choly
+  - first: Wei
+    full: Wei Ding
+    id: wei-ding
+    last: Ding
+  author_string: Andrew Tran, Chris Bowes, David Brown, Ping Chen, Max Choly, Wei
+    Ding
+  bibkey: tran-etal-2010-treematch
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '396'
+  page_last: '401'
+  pages: "396\u2013401"
+  paper_id: '89'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1089.jpg
+  title: 'TreeMatch: A Fully Unsupervised WSD System Using Dependency Knowledge on
+    a Specific Domain'
+  title_html: '<span class="acl-fixed-case">T</span>ree<span class="acl-fixed-case">M</span>atch:
+    A Fully Unsupervised <span class="acl-fixed-case">WSD</span> System Using Dependency
+    Knowledge on a Specific Domain'
+  url: https://www.aclweb.org/anthology/S10-1089
+  year: '2010'
+S10-1090:
+  address: Uppsala, Sweden
+  author:
+  - first: "Rub\xE9n"
+    full: "Rub\xE9n Izquierdo"
+    id: ruben-izquierdo
+    last: Izquierdo
+  - first: Armando
+    full: "Armando Su\xE1rez"
+    id: armando-suarez
+    last: "Su\xE1rez"
+  - first: German
+    full: German Rigau
+    id: german-rigau
+    last: Rigau
+  author_string: "Rub\xE9n Izquierdo, Armando Su\xE1rez, German Rigau"
+  bibkey: izquierdo-etal-2010-gplsi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '402'
+  page_last: '406'
+  pages: "402\u2013406"
+  paper_id: '90'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1090.jpg
+  title: 'GPLSI-IXA: Using Semantic Classes to Acquire Monosemous Training Examples
+    from Domain Texts'
+  title_html: '<span class="acl-fixed-case">GPLSI</span>-<span class="acl-fixed-case">IXA</span>:
+    Using Semantic Classes to Acquire Monosemous Training Examples from Domain Texts'
+  url: https://www.aclweb.org/anthology/S10-1090
+  year: '2010'
+S10-1091:
+  address: Uppsala, Sweden
+  author:
+  - first: Yuhang
+    full: Yuhang Guo
+    id: yuhang-guo
+    last: Guo
+  - first: Wanxiang
+    full: Wanxiang Che
+    id: wanxiang-che
+    last: Che
+  - first: Wei
+    full: Wei He
+    id: wei-he
+    last: He
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  - first: Sheng
+    full: Sheng Li
+    id: sheng-li
+    last: Li
+  author_string: Yuhang Guo, Wanxiang Che, Wei He, Ting Liu, Sheng Li
+  bibkey: guo-etal-2010-hit
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '407'
+  page_last: '410'
+  pages: "407\u2013410"
+  paper_id: '91'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1091.jpg
+  title: 'HIT-CIR: An Unsupervised WSD System Based on Domain Most Frequent Sense
+    Estimation'
+  title_html: '<span class="acl-fixed-case">HIT</span>-<span class="acl-fixed-case">CIR</span>:
+    An Unsupervised <span class="acl-fixed-case">WSD</span> System Based on Domain
+    Most Frequent Sense Estimation'
+  url: https://www.aclweb.org/anthology/S10-1091
+  year: '2010'
+S10-1092:
+  address: Uppsala, Sweden
+  author:
+  - first: Radu
+    full: Radu Ion
+    id: radu-ion
+    last: Ion
+  - first: Dan
+    full: "Dan \u015Etef\u0103nescu"
+    id: dan-stefanescu
+    last: "\u015Etef\u0103nescu"
+  author_string: "Radu Ion, Dan \u015Etef\u0103nescu"
+  bibkey: ion-stefanescu-2010-racai
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '411'
+  page_last: '416'
+  pages: "411\u2013416"
+  paper_id: '92'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1092.jpg
+  title: 'RACAI: Unsupervised WSD Experiments @ SemEval-2, Task 17'
+  title_html: '<span class="acl-fixed-case">RACAI</span>: Unsupervised WSD Experiments
+    @ SemEval-2, Task 17'
+  url: https://www.aclweb.org/anthology/S10-1092
+  year: '2010'
+S10-1093:
+  address: Uppsala, Sweden
+  author:
+  - first: Aitor
+    full: Aitor Soroa
+    id: aitor-soroa
+    last: Soroa
+  - first: Eneko
+    full: Eneko Agirre
+    id: eneko-agirre
+    last: Agirre
+  - first: Oier
+    full: Oier Lopez de Lacalle
+    id: oier-lopez-de-lacalle
+    last: Lopez de Lacalle
+  - first: Wauter
+    full: Wauter Bosma
+    id: wauter-bosma
+    last: Bosma
+  - first: Piek
+    full: Piek Vossen
+    id: piek-vossen
+    last: Vossen
+  - first: Monica
+    full: Monica Monachini
+    id: monica-monachini
+    last: Monachini
+  - first: Jessie
+    full: Jessie Lo
+    id: jessie-lo
+    last: Lo
+  - first: Shu-Kai
+    full: Shu-Kai Hsieh
+    id: shu-kai-hsieh
+    last: Hsieh
+  author_string: Aitor Soroa, Eneko Agirre, Oier Lopez de Lacalle, Wauter Bosma, Piek
+    Vossen, Monica Monachini, Jessie Lo, Shu-Kai Hsieh
+  bibkey: soroa-etal-2010-kyoto
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '417'
+  page_last: '420'
+  pages: "417\u2013420"
+  paper_id: '93'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1093.jpg
+  title: 'Kyoto: An Integrated System for Specific Domain WSD'
+  title_html: '<span class="acl-fixed-case">K</span>yoto: An Integrated System for
+    Specific Domain <span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S10-1093
+  year: '2010'
+S10-1094:
+  address: Uppsala, Sweden
+  author:
+  - first: Anup
+    full: Anup Kulkarni
+    id: anup-kulkarni
+    last: Kulkarni
+  - first: Mitesh
+    full: Mitesh Khapra
+    id: mitesh-m-khapra
+    last: Khapra
+  - first: Saurabh
+    full: Saurabh Sohoney
+    id: saurabh-sohoney
+    last: Sohoney
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Anup Kulkarni, Mitesh Khapra, Saurabh Sohoney, Pushpak Bhattacharyya
+  bibkey: kulkarni-etal-2010-cfilt
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '421'
+  page_last: '426'
+  pages: "421\u2013426"
+  paper_id: '94'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1094.jpg
+  title: 'CFILT: Resource Conscious Approaches for All-Words Domain Specific WSD'
+  title_html: '<span class="acl-fixed-case">CFILT</span>: Resource Conscious Approaches
+    for All-Words Domain Specific <span class="acl-fixed-case">WSD</span>'
+  url: https://www.aclweb.org/anthology/S10-1094
+  year: '2010'
+S10-1095:
+  address: Uppsala, Sweden
+  author:
+  - first: Yoan
+    full: "Yoan Guti\xE9rrez V\xE1zquez"
+    id: yoan-gutierrez
+    last: "Guti\xE9rrez V\xE1zquez"
+  - first: Antonio
+    full: "Antonio Fernandez Orqu\xEDn"
+    id: antonio-fernandez-orquin
+    last: "Fernandez Orqu\xEDn"
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo Guijarro"
+    id: andres-montoyo
+    last: Montoyo Guijarro
+  - first: Sonia
+    full: "Sonia V\xE1zquez P\xE9rez"
+    id: sonia-vazquez
+    last: "V\xE1zquez P\xE9rez"
+  author_string: "Yoan Guti\xE9rrez V\xE1zquez, Antonio Fernandez Orqu\xEDn, Andr\xE9\
+    s Montoyo Guijarro, Sonia V\xE1zquez P\xE9rez"
+  bibkey: gutierrez-vazquez-etal-2010-umcc
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '427'
+  page_last: '432'
+  pages: "427\u2013432"
+  paper_id: '95'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1095.jpg
+  title: 'UMCC-DLSI: Integrative Resource for Disambiguation Task'
+  title_html: '<span class="acl-fixed-case">UMCC</span>-<span class="acl-fixed-case">DLSI</span>:
+    Integrative Resource for Disambiguation Task'
+  url: https://www.aclweb.org/anthology/S10-1095
+  year: '2010'
+S10-1096:
+  address: Uppsala, Sweden
+  author:
+  - first: Meng-Hsien
+    full: Meng-Hsien Shih
+    id: meng-hsien-shih
+    last: Shih
+  author_string: Meng-Hsien Shih
+  bibkey: shih-2010-hr
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '433'
+  page_last: '435'
+  pages: "433\u2013435"
+  paper_id: '96'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1096.jpg
+  title: 'HR-WSD: System Description for All-Words Word Sense Disambiguation on a
+    Specific Domain at SemEval-2010'
+  title_html: '<span class="acl-fixed-case">HR</span>-<span class="acl-fixed-case">WSD</span>:
+    System Description for All-Words Word Sense Disambiguation on a Specific Domain
+    at <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2010'
+  url: https://www.aclweb.org/anthology/S10-1096
+  year: '2010'
+S10-1097:
+  address: Uppsala, Sweden
+  author:
+  - first: Alexander
+    full: Alexander Pak
+    id: alexander-pak
+    last: Pak
+  - first: Patrick
+    full: Patrick Paroubek
+    id: patrick-paroubek
+    last: Paroubek
+  author_string: Alexander Pak, Patrick Paroubek
+  bibkey: pak-paroubek-2010-twitter
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '436'
+  page_last: '439'
+  pages: "436\u2013439"
+  paper_id: '97'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1097.jpg
+  title: 'Twitter Based System: Using Twitter for Disambiguating Sentiment Ambiguous
+    Adjectives'
+  title_html: 'Twitter Based System: Using Twitter for Disambiguating Sentiment Ambiguous
+    Adjectives'
+  url: https://www.aclweb.org/anthology/S10-1097
+  year: '2010'
+S10-1098:
+  address: Uppsala, Sweden
+  author:
+  - first: Shi-Cai
+    full: Shi-Cai Yang
+    id: shi-cai-yang
+    last: Yang
+  - first: Mei-Juan
+    full: Mei-Juan Liu
+    id: mei-juan-liu
+    last: Liu
+  author_string: Shi-Cai Yang, Mei-Juan Liu
+  bibkey: yang-liu-2010-ysc
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '440'
+  page_last: '443'
+  pages: "440\u2013443"
+  paper_id: '98'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1098.jpg
+  title: 'YSC-DSAA: An Approach to Disambiguate Sentiment Ambiguous Adjectives Based
+    on SAAOL'
+  title_html: '<span class="acl-fixed-case">YSC</span>-<span class="acl-fixed-case">DSAA</span>:
+    An Approach to Disambiguate Sentiment Ambiguous Adjectives Based on <span class="acl-fixed-case">SAAOL</span>'
+  url: https://www.aclweb.org/anthology/S10-1098
+  year: '2010'
+S10-1099:
+  address: Uppsala, Sweden
+  author:
+  - first: Alexandra
+    full: Alexandra Balahur
+    id: alexandra-balahur
+    last: Balahur
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo"
+    id: andres-montoyo
+    last: Montoyo
+  author_string: "Alexandra Balahur, Andr\xE9s Montoyo"
+  bibkey: balahur-montoyo-2010-opal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '444'
+  page_last: '447'
+  pages: "444\u2013447"
+  paper_id: '99'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1099.jpg
+  title: 'OpAL: Applying Opinion Mining Techniques for the Disambiguation of Sentiment
+    Ambiguous Adjectives in SemEval-2 Task 18'
+  title_html: '<span class="acl-fixed-case">O</span>p<span class="acl-fixed-case">AL</span>:
+    Applying Opinion Mining Techniques for the Disambiguation of Sentiment Ambiguous
+    Adjectives in <span class="acl-fixed-case">S</span>em<span class="acl-fixed-case">E</span>val-2
+    Task 18'
+  url: https://www.aclweb.org/anthology/S10-1099
+  year: '2010'
+S10-1100:
+  address: Uppsala, Sweden
+  author:
+  - first: Ruifeng
+    full: Ruifeng Xu
+    id: ruifeng-xu
+    last: Xu
+  - first: Jun
+    full: Jun Xu
+    id: jun-xu
+    last: Xu
+  - first: Chunyu
+    full: Chunyu Kit
+    id: chunyu-kit
+    last: Kit
+  author_string: Ruifeng Xu, Jun Xu, Chunyu Kit
+  bibkey: xu-etal-2010-hitsz
+  bibtype: inproceedings
+  booktitle: Proceedings of the 5th International Workshop on Semantic Evaluation
+  booktitle_html: Proceedings of the 5th International Workshop on Semantic Evaluation
+  month: July
+  page_first: '448'
+  page_last: '451'
+  pages: "448\u2013451"
+  paper_id: '100'
+  parent_volume_id: S10-1
+  pdf: https://www.aclweb.org/anthology/S10-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/S10-1100.jpg
+  title: 'HITSZ_CITYU: Combine Collocation, Context Words and Neighboring Sentence
+    Sentiment in Sentiment Adjectives Disambiguation'
+  title_html: '<span class="acl-fixed-case">HITSZ</span>_<span class="acl-fixed-case">CITYU</span>:
+    Combine Collocation, Context Words and Neighboring Sentence Sentiment in Sentiment
+    Adjectives Disambiguation'
+  url: https://www.aclweb.org/anthology/S10-1100
+  year: '2010'

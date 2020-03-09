@@ -1,0 +1,4235 @@
+E12-1000:
+  address: Avignon, France
+  author:
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  author_string: Walter Daelemans
+  bibkey: eacl-2012-european
+  bibtype: proceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  month: April
+  paper_id: '0'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1000.jpg
+  title: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  title_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/E12-1000
+  year: '2012'
+E12-1001:
+  address: Avignon, France
+  author:
+  - first: Martin
+    full: Martin Cooke
+    id: martin-cooke
+    last: Cooke
+  author_string: Martin Cooke
+  bibkey: cooke-2012-speech
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  pages: '1'
+  paper_id: '1'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1001.jpg
+  title: Speech Communication in the Wild
+  title_html: Speech Communication in the Wild
+  url: https://www.aclweb.org/anthology/E12-1001
+  year: '2012'
+E12-1002:
+  address: Avignon, France
+  author:
+  - first: Spyros
+    full: Spyros Martzoukos
+    id: spyros-martzoukos
+    last: Martzoukos
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  author_string: Spyros Martzoukos, Christof Monz
+  bibkey: martzoukos-monz-2012-power
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '2'
+  page_last: '11'
+  pages: "2\u201311"
+  paper_id: '2'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1002.jpg
+  title: Power-Law Distributions for Paraphrases Extracted from Bilingual Corpora
+  title_html: Power-Law Distributions for Paraphrases Extracted from Bilingual Corpora
+  url: https://www.aclweb.org/anthology/E12-1002
+  year: '2012'
+E12-1003:
+  address: Avignon, France
+  author:
+  - first: Ivan
+    full: Ivan Titov
+    id: ivan-titov
+    last: Titov
+  - first: Alexandre
+    full: Alexandre Klementiev
+    id: alexandre-klementiev
+    last: Klementiev
+  author_string: Ivan Titov, Alexandre Klementiev
+  bibkey: titov-klementiev-2012-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '12'
+  page_last: '22'
+  pages: "12\u201322"
+  paper_id: '3'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1003.jpg
+  title: A Bayesian Approach to Unsupervised Semantic Role Induction
+  title_html: A <span class="acl-fixed-case">B</span>ayesian Approach to Unsupervised
+    Semantic Role Induction
+  url: https://www.aclweb.org/anthology/E12-1003
+  year: '2012'
+E12-1004:
+  address: Avignon, France
+  author:
+  - first: Marco
+    full: Marco Baroni
+    id: marco-baroni
+    last: Baroni
+  - first: Raffaella
+    full: Raffaella Bernardi
+    id: raffaella-bernardi
+    last: Bernardi
+  - first: Ngoc-Quynh
+    full: Ngoc-Quynh Do
+    id: ngoc-quynh-do
+    last: Do
+  - first: Chung-chieh
+    full: Chung-chieh Shan
+    id: chung-chieh-shan
+    last: Shan
+  author_string: Marco Baroni, Raffaella Bernardi, Ngoc-Quynh Do, Chung-chieh Shan
+  bibkey: baroni-etal-2012-entailment
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '23'
+  page_last: '32'
+  pages: "23\u201332"
+  paper_id: '4'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1004.jpg
+  title: Entailment above the word level in distributional semantics
+  title_html: Entailment above the word level in distributional semantics
+  url: https://www.aclweb.org/anthology/E12-1004
+  year: '2012'
+E12-1005:
+  address: Avignon, France
+  author:
+  - first: Jackie Chi Kit
+    full: Jackie Chi Kit Cheung
+    id: jackie-chi-kit-cheung
+    last: Cheung
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  author_string: Jackie Chi Kit Cheung, Gerald Penn
+  bibkey: cheung-penn-2012-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '33'
+  page_last: '43'
+  pages: "33\u201343"
+  paper_id: '5'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1005.jpg
+  title: Evaluating Distributional Models of Semantics for Syntactically Invariant
+    Inference
+  title_html: Evaluating Distributional Models of Semantics for Syntactically Invariant
+    Inference
+  url: https://www.aclweb.org/anthology/E12-1005
+  year: '2012'
+E12-1006:
+  address: Avignon, France
+  author:
+  - first: Reut
+    full: Reut Tsarfaty
+    id: reut-tsarfaty
+    last: Tsarfaty
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Evelina
+    full: Evelina Andersson
+    id: evelina-andersson
+    last: Andersson
+  author_string: Reut Tsarfaty, Joakim Nivre, Evelina Andersson
+  bibkey: tsarfaty-etal-2012-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '44'
+  page_last: '54'
+  pages: "44\u201354"
+  paper_id: '6'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1006.jpg
+  title: Cross-Framework Evaluation for Statistical Parsing
+  title_html: Cross-Framework Evaluation for Statistical Parsing
+  url: https://www.aclweb.org/anthology/E12-1006
+  year: '2012'
+E12-1007:
+  address: Avignon, France
+  author:
+  - first: "Rich\xE1rd"
+    full: "Rich\xE1rd Farkas"
+    id: richard-farkas
+    last: Farkas
+  - first: Veronika
+    full: Veronika Vincze
+    id: veronika-vincze
+    last: Vincze
+  - first: Helmut
+    full: Helmut Schmid
+    id: helmut-schmid
+    last: Schmid
+  author_string: "Rich\xE1rd Farkas, Veronika Vincze, Helmut Schmid"
+  bibkey: farkas-etal-2012-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '55'
+  page_last: '65'
+  pages: "55\u201365"
+  paper_id: '7'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1007.jpg
+  title: 'Dependency Parsing of Hungarian: Baseline Results and Challenges'
+  title_html: 'Dependency Parsing of <span class="acl-fixed-case">H</span>ungarian:
+    Baseline Results and Challenges'
+  url: https://www.aclweb.org/anthology/E12-1007
+  year: '2012'
+E12-1008:
+  address: Avignon, France
+  attachment:
+  - filename: E12-1008.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/E12-1008.Attachment.zip
+  author:
+  - first: Carlos
+    full: "Carlos G\xF3mez-Rodr\xEDguez"
+    id: carlos-gomez-rodriguez
+    last: "G\xF3mez-Rodr\xEDguez"
+  - first: Daniel
+    full: "Daniel Fern\xE1ndez-Gonz\xE1lez"
+    id: daniel-fernandez-gonzalez
+    last: "Fern\xE1ndez-Gonz\xE1lez"
+  author_string: "Carlos G\xF3mez-Rodr\xEDguez, Daniel Fern\xE1ndez-Gonz\xE1lez"
+  bibkey: gomez-rodriguez-fernandez-gonzalez-2012-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '66'
+  page_last: '76'
+  pages: "66\u201376"
+  paper_id: '8'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1008.jpg
+  title: Dependency Parsing with Undirected Graphs
+  title_html: Dependency Parsing with Undirected Graphs
+  url: https://www.aclweb.org/anthology/E12-1008
+  year: '2012'
+E12-1009:
+  address: Avignon, France
+  author:
+  - first: Bernd
+    full: Bernd Bohnet
+    id: bernd-bohnet
+    last: Bohnet
+  - first: Jonas
+    full: Jonas Kuhn
+    id: jonas-kuhn
+    last: Kuhn
+  author_string: Bernd Bohnet, Jonas Kuhn
+  bibkey: bohnet-kuhn-2012-best
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '77'
+  page_last: '87'
+  pages: "77\u201387"
+  paper_id: '9'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1009.jpg
+  title: "The Best of Both Worlds \u2013 A Graph-based Completion Model for Transition-based\
+    \ Parsers"
+  title_html: "The Best of Both Worlds \u2013 A Graph-based Completion Model for Transition-based\
+    \ Parsers"
+  url: https://www.aclweb.org/anthology/E12-1009
+  year: '2012'
+E12-1010:
+  address: Avignon, France
+  author:
+  - first: Michael
+    full: Michael Kaisser
+    id: michael-kaisser
+    last: Kaisser
+  author_string: Michael Kaisser
+  bibkey: kaisser-2012-answer
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '88'
+  page_last: '98'
+  pages: "88\u201398"
+  paper_id: '10'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1010.jpg
+  title: Answer Sentence Retrieval by Matching Dependency Paths acquired from Question/Answer
+    Sentence Pairs
+  title_html: Answer Sentence Retrieval by Matching Dependency Paths acquired from
+    Question/Answer Sentence Pairs
+  url: https://www.aclweb.org/anthology/E12-1010
+  year: '2012'
+E12-1011:
+  address: Avignon, France
+  author:
+  - first: Alejandro
+    full: Alejandro Figueroa
+    id: alejandro-figueroa
+    last: Figueroa
+  author_string: Alejandro Figueroa
+  bibkey: figueroa-2012-click
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '99'
+  page_last: '108'
+  pages: "99\u2013108"
+  paper_id: '11'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1011.jpg
+  title: "Can Click Patterns across User\u2019s Query Logs Predict Answers to Definition\
+    \ Questions?"
+  title_html: "Can Click Patterns across User\u2019s Query Logs Predict Answers to\
+    \ Definition Questions?"
+  url: https://www.aclweb.org/anthology/E12-1011
+  year: '2012'
+E12-1012:
+  address: Avignon, France
+  author:
+  - first: Vassilina
+    full: Vassilina Nikoulina
+    id: vassilina-nikoulina
+    last: Nikoulina
+  - first: Bogomil
+    full: Bogomil Kovachev
+    id: bogomil-kovachev
+    last: Kovachev
+  - first: Nikolaos
+    full: Nikolaos Lagos
+    id: nikolaos-lagos
+    last: Lagos
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  author_string: Vassilina Nikoulina, Bogomil Kovachev, Nikolaos Lagos, Christof Monz
+  bibkey: nikoulina-etal-2012-adaptation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '109'
+  page_last: '119'
+  pages: "109\u2013119"
+  paper_id: '12'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1012.jpg
+  title: Adaptation of Statistical Machine Translation Model for Cross-Lingual Information
+    Retrieval in a Service Context
+  title_html: Adaptation of Statistical Machine Translation Model for Cross-Lingual
+    Information Retrieval in a Service Context
+  url: https://www.aclweb.org/anthology/E12-1012
+  year: '2012'
+E12-1013:
+  address: Avignon, France
+  author:
+  - first: Artem
+    full: Artem Sokolov
+    id: artem-sokolov
+    last: Sokolov
+  - first: Guillaume
+    full: Guillaume Wisniewski
+    id: guillaume-wisniewski
+    last: Wisniewski
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Yvon"
+    id: francois-yvon
+    last: Yvon
+  author_string: "Artem Sokolov, Guillaume Wisniewski, Fran\xE7ois Yvon"
+  bibkey: sokolov-etal-2012-computing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '120'
+  page_last: '129'
+  pages: "120\u2013129"
+  paper_id: '13'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1013.jpg
+  title: Computing Lattice BLEU Oracle Scores for Machine Translation
+  title_html: Computing Lattice <span class="acl-fixed-case">BLEU</span> Oracle Scores
+    for Machine Translation
+  url: https://www.aclweb.org/anthology/E12-1013
+  year: '2012'
+E12-1014:
+  address: Avignon, France
+  attachment:
+  - filename: E12-1014.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/E12-1014.Attachment.zip
+  author:
+  - first: Alexandre
+    full: Alexandre Klementiev
+    id: alexandre-klementiev
+    last: Klementiev
+  - first: Ann
+    full: Ann Irvine
+    id: ann-irvine
+    last: Irvine
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Alexandre Klementiev, Ann Irvine, Chris Callison-Burch, David Yarowsky
+  bibkey: klementiev-etal-2012-toward
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '130'
+  page_last: '140'
+  pages: "130\u2013140"
+  paper_id: '14'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1014.jpg
+  title: Toward Statistical Machine Translation without Parallel Corpora
+  title_html: Toward Statistical Machine Translation without Parallel Corpora
+  url: https://www.aclweb.org/anthology/E12-1014
+  year: '2012'
+E12-1015:
+  address: Avignon, France
+  author:
+  - first: "J\xF6rg"
+    full: "J\xF6rg Tiedemann"
+    id: jorg-tiedemann
+    last: Tiedemann
+  author_string: "J\xF6rg Tiedemann"
+  bibkey: tiedemann-2012-character
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '141'
+  page_last: '151'
+  pages: "141\u2013151"
+  paper_id: '15'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1015.jpg
+  title: Character-Based Pivot Translation for Under-Resourced Languages and Domains
+  title_html: Character-Based Pivot Translation for Under-Resourced Languages and
+    Domains
+  url: https://www.aclweb.org/anthology/E12-1015
+  year: '2012'
+E12-1016:
+  address: Avignon, France
+  author:
+  - first: Guillem
+    full: "Guillem Gasc\xF3"
+    id: guillem-gasco
+    last: "Gasc\xF3"
+  - first: Martha-Alicia
+    full: Martha-Alicia Rocha
+    id: martha-alicia-rocha
+    last: Rocha
+  - first: "Germ\xE1n"
+    full: "Germ\xE1n Sanchis-Trilles"
+    id: german-sanchis-trilles
+    last: Sanchis-Trilles
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Andr\xE9s-Ferrer"
+    id: jesus-andres-ferrer
+    last: "Andr\xE9s-Ferrer"
+  - first: Francisco
+    full: Francisco Casacuberta
+    id: francisco-casacuberta
+    last: Casacuberta
+  author_string: "Guillem Gasc\xF3, Martha-Alicia Rocha, Germ\xE1n Sanchis-Trilles,\
+    \ Jes\xFAs Andr\xE9s-Ferrer, Francisco Casacuberta"
+  bibkey: gasco-etal-2012-data
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '152'
+  page_last: '161'
+  pages: "152\u2013161"
+  paper_id: '16'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1016.jpg
+  title: Does more data always yield better translations?
+  title_html: Does more data always yield better translations?
+  url: https://www.aclweb.org/anthology/E12-1016
+  year: '2012'
+E12-1017:
+  address: Avignon, France
+  author:
+  - first: Behrang
+    full: Behrang Mohit
+    id: behrang-mohit
+    last: Mohit
+  - first: Nathan
+    full: Nathan Schneider
+    id: nathan-schneider
+    last: Schneider
+  - first: Rishav
+    full: Rishav Bhowmick
+    id: rishav-bhowmick
+    last: Bhowmick
+  - first: Kemal
+    full: Kemal Oflazer
+    id: kemal-oflazer
+    last: Oflazer
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Behrang Mohit, Nathan Schneider, Rishav Bhowmick, Kemal Oflazer,
+    Noah A. Smith
+  bibkey: mohit-etal-2012-recall
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '162'
+  page_last: '173'
+  pages: "162\u2013173"
+  paper_id: '17'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1017.jpg
+  title: Recall-Oriented Learning of Named Entities in Arabic Wikipedia
+  title_html: Recall-Oriented Learning of Named Entities in <span class="acl-fixed-case">A</span>rabic
+    <span class="acl-fixed-case">W</span>ikipedia
+  url: https://www.aclweb.org/anthology/E12-1017
+  year: '2012'
+E12-1018:
+  address: Avignon, France
+  author:
+  - first: Marco
+    full: Marco Dinarelli
+    id: marco-dinarelli
+    last: Dinarelli
+  - first: Sophie
+    full: Sophie Rosset
+    id: sophie-rosset
+    last: Rosset
+  author_string: Marco Dinarelli, Sophie Rosset
+  bibkey: dinarelli-rosset-2012-tree
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '174'
+  page_last: '184'
+  pages: "174\u2013184"
+  paper_id: '18'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1018.jpg
+  title: Tree Representations in Probabilistic Models for Extended Named Entities
+    Detection
+  title_html: Tree Representations in Probabilistic Models for Extended Named Entities
+    Detection
+  url: https://www.aclweb.org/anthology/E12-1018
+  year: '2012'
+E12-1019:
+  address: Avignon, France
+  author:
+  - first: Dirk
+    full: Dirk Hovy
+    id: dirk-hovy
+    last: Hovy
+  - first: James
+    full: James Fan
+    id: james-fan
+    last: Fan
+  - first: Alfio
+    full: Alfio Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  - first: Christopher
+    full: Christopher Welty
+    id: chris-welty
+    last: Welty
+  author_string: Dirk Hovy, James Fan, Alfio Gliozzo, Siddharth Patwardhan, Christopher
+    Welty
+  bibkey: hovy-etal-2012-happen
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '185'
+  page_last: '193'
+  pages: "185\u2013193"
+  paper_id: '19'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1019.jpg
+  title: "When Did that Happen? \u2014 Linking Events and Relations to Timestamps"
+  title_html: "When Did that Happen? \u2014 Linking Events and Relations to Timestamps"
+  url: https://www.aclweb.org/anthology/E12-1019
+  year: '2012'
+E12-1020:
+  address: Avignon, France
+  author:
+  - first: Bonan
+    full: Bonan Min
+    id: bonan-min
+    last: Min
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Bonan Min, Ralph Grishman
+  bibkey: min-grishman-2012-compensating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '194'
+  page_last: '203'
+  pages: "194\u2013203"
+  paper_id: '20'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1020.jpg
+  title: Compensating for Annotation Errors in Training a Relation Extractor
+  title_html: Compensating for Annotation Errors in Training a Relation Extractor
+  url: https://www.aclweb.org/anthology/E12-1020
+  year: '2012'
+E12-1021:
+  address: Avignon, France
+  author:
+  - first: Jagadeesh
+    full: Jagadeesh Jagarlamudi
+    id: jagadeesh-jagarlamudi
+    last: Jagarlamudi
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Raghavendra
+    full: Raghavendra Udupa
+    id: raghavendra-udupa
+    last: Udupa
+  author_string: "Jagadeesh Jagarlamudi, Hal Daum\xE9 III, Raghavendra Udupa"
+  bibkey: jagarlamudi-etal-2012-incorporating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '204'
+  page_last: '213'
+  pages: "204\u2013213"
+  paper_id: '21'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1021.jpg
+  title: Incorporating Lexical Priors into Topic Models
+  title_html: Incorporating Lexical Priors into Topic Models
+  url: https://www.aclweb.org/anthology/E12-1021
+  year: '2012'
+E12-1022:
+  address: Avignon, France
+  author:
+  - first: Jean-Yves
+    full: Jean-Yves Delort
+    id: jean-yves-delort
+    last: Delort
+  - first: Enrique
+    full: Enrique Alfonseca
+    id: enrique-alfonseca
+    last: Alfonseca
+  author_string: Jean-Yves Delort, Enrique Alfonseca
+  bibkey: delort-alfonseca-2012-dualsum
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '214'
+  page_last: '223'
+  pages: "214\u2013223"
+  paper_id: '22'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1022.jpg
+  title: 'DualSum: a Topic-Model based approach for update summarization'
+  title_html: '<span class="acl-fixed-case">D</span>ual<span class="acl-fixed-case">S</span>um:
+    a Topic-Model based approach for update summarization'
+  url: https://www.aclweb.org/anthology/E12-1022
+  year: '2012'
+E12-1023:
+  address: Avignon, France
+  author:
+  - first: Ruben
+    full: Ruben Sipos
+    id: ruben-sipos
+    last: Sipos
+  - first: Pannaga
+    full: Pannaga Shivaswamy
+    id: pannaga-shivaswamy
+    last: Shivaswamy
+  - first: Thorsten
+    full: Thorsten Joachims
+    id: thorsten-joachims
+    last: Joachims
+  author_string: Ruben Sipos, Pannaga Shivaswamy, Thorsten Joachims
+  bibkey: sipos-etal-2012-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '224'
+  page_last: '233'
+  pages: "224\u2013233"
+  paper_id: '23'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1023.jpg
+  title: Large-Margin Learning of Submodular Summarization Models
+  title_html: Large-Margin Learning of Submodular Summarization Models
+  url: https://www.aclweb.org/anthology/E12-1023
+  year: '2012'
+E12-1024:
+  address: Avignon, France
+  author:
+  - first: Tom
+    full: Tom Kwiatkowski
+    id: tom-kwiatkowski
+    last: Kwiatkowski
+  - first: Sharon
+    full: Sharon Goldwater
+    id: sharon-goldwater
+    last: Goldwater
+  - first: Luke
+    full: Luke Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Tom Kwiatkowski, Sharon Goldwater, Luke Zettlemoyer, Mark Steedman
+  bibkey: kwiatkowski-etal-2012-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '234'
+  page_last: '244'
+  pages: "234\u2013244"
+  paper_id: '24'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1024.jpg
+  title: A Probabilistic Model of Syntactic and Semantic Acquisition from Child-Directed
+    Utterances and their Meanings
+  title_html: A Probabilistic Model of Syntactic and Semantic Acquisition from Child-Directed
+    Utterances and their Meanings
+  url: https://www.aclweb.org/anthology/E12-1024
+  year: '2012'
+E12-1025:
+  address: Avignon, France
+  author:
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Gonz\xE1lez-Rubio"
+    id: jesus-gonzalez-rubio
+    last: "Gonz\xE1lez-Rubio"
+  - first: Daniel
+    full: "Daniel Ortiz-Mart\xEDnez"
+    id: daniel-ortiz-martinez
+    last: "Ortiz-Mart\xEDnez"
+  - first: Francisco
+    full: Francisco Casacuberta
+    id: francisco-casacuberta
+    last: Casacuberta
+  author_string: "Jes\xFAs Gonz\xE1lez-Rubio, Daniel Ortiz-Mart\xEDnez, Francisco\
+    \ Casacuberta"
+  bibkey: gonzalez-rubio-etal-2012-active
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '245'
+  page_last: '254'
+  pages: "245\u2013254"
+  paper_id: '25'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1025.jpg
+  title: Active learning for interactive machine translation
+  title_html: Active learning for interactive machine translation
+  url: https://www.aclweb.org/anthology/E12-1025
+  year: '2012'
+E12-1026:
+  address: Avignon, France
+  author:
+  - first: Gennadi
+    full: Gennadi Lembersky
+    id: gennadi-lembersky
+    last: Lembersky
+  - first: Noam
+    full: Noam Ordan
+    id: noam-ordan
+    last: Ordan
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Gennadi Lembersky, Noam Ordan, Shuly Wintner
+  bibkey: lembersky-etal-2012-adapting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '255'
+  page_last: '265'
+  pages: "255\u2013265"
+  paper_id: '26'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1026.jpg
+  title: Adapting Translation Models to Translationese Improves SMT
+  title_html: Adapting Translation Models to Translationese Improves <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/E12-1026
+  year: '2012'
+E12-1027:
+  address: Avignon, France
+  author:
+  - first: Francisco
+    full: Francisco Costa
+    id: francisco-costa
+    last: Costa
+  - first: "Ant\xF3nio"
+    full: "Ant\xF3nio Branco"
+    id: antonio-branco
+    last: Branco
+  author_string: "Francisco Costa, Ant\xF3nio Branco"
+  bibkey: costa-branco-2012-aspectual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '266'
+  page_last: '275'
+  pages: "266\u2013275"
+  paper_id: '27'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1027.jpg
+  title: Aspectual Type and Temporal Relation Classification
+  title_html: Aspectual Type and Temporal Relation Classification
+  url: https://www.aclweb.org/anthology/E12-1027
+  year: '2012'
+E12-1028:
+  address: Avignon, France
+  author:
+  - first: Andrea
+    full: Andrea Glaser
+    id: andrea-glaser
+    last: Glaser
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Andrea Glaser, Hinrich Sch\xFCtze"
+  bibkey: glaser-schutze-2012-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '276'
+  page_last: '285'
+  pages: "276\u2013285"
+  paper_id: '28'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1028.jpg
+  title: Automatic generation of short informative sentiment summaries
+  title_html: Automatic generation of short informative sentiment summaries
+  url: https://www.aclweb.org/anthology/E12-1028
+  year: '2012'
+E12-1029:
+  address: Avignon, France
+  author:
+  - first: Ruihong
+    full: Ruihong Huang
+    id: ruihong-huang
+    last: Huang
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  author_string: Ruihong Huang, Ellen Riloff
+  bibkey: huang-riloff-2012-bootstrapped
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '286'
+  page_last: '295'
+  pages: "286\u2013295"
+  paper_id: '29'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1029.jpg
+  title: Bootstrapped Training of Event Extraction Classifiers
+  title_html: Bootstrapped Training of Event Extraction Classifiers
+  url: https://www.aclweb.org/anthology/E12-1029
+  year: '2012'
+E12-1030:
+  address: Avignon, France
+  author:
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  - first: Tomek
+    full: Tomek Strzalkowski
+    id: tomek-strzalkowski
+    last: Strzalkowski
+  author_string: Ting Liu, Tomek Strzalkowski
+  bibkey: liu-strzalkowski-2012-bootstrapping
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '296'
+  page_last: '305'
+  pages: "296\u2013305"
+  paper_id: '30'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1030.jpg
+  title: Bootstrapping Events and Relations from Text
+  title_html: Bootstrapping Events and Relations from Text
+  url: https://www.aclweb.org/anthology/E12-1030
+  year: '2012'
+E12-1031:
+  address: Avignon, France
+  author:
+  - first: Svitlana
+    full: Svitlana Volkova
+    id: svitlana-volkova
+    last: Volkova
+  - first: William B.
+    full: William B. Dolan
+    id: william-b-dolan
+    last: Dolan
+  - first: Theresa
+    full: Theresa Wilson
+    id: theresa-wilson
+    last: Wilson
+  author_string: Svitlana Volkova, William B. Dolan, Theresa Wilson
+  bibkey: volkova-etal-2012-clex
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '306'
+  page_last: '314'
+  pages: "306\u2013314"
+  paper_id: '31'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1031.jpg
+  title: 'CLex: A Lexicon for Exploring Color, Concept and Emotion Associations in
+    Language'
+  title_html: '<span class="acl-fixed-case">CL</span>ex: A Lexicon for Exploring Color,
+    Concept and Emotion Associations in Language'
+  url: https://www.aclweb.org/anthology/E12-1031
+  year: '2012'
+E12-1032:
+  address: Avignon, France
+  author:
+  - first: Vanessa Wei
+    full: Vanessa Wei Feng
+    id: vanessa-wei-feng
+    last: Feng
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Vanessa Wei Feng, Graeme Hirst
+  bibkey: feng-hirst-2012-extending
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '315'
+  page_last: '324'
+  pages: "315\u2013324"
+  paper_id: '32'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1032.jpg
+  title: Extending the Entity-based Coherence Model with Multiple Ranks
+  title_html: Extending the Entity-based Coherence Model with Multiple Ranks
+  url: https://www.aclweb.org/anthology/E12-1032
+  year: '2012'
+E12-1033:
+  address: Avignon, France
+  author:
+  - first: Michael
+    full: Michael Wiegand
+    id: michael-wiegand
+    last: Wiegand
+  - first: Dietrich
+    full: Dietrich Klakow
+    id: dietrich-klakow
+    last: Klakow
+  author_string: Michael Wiegand, Dietrich Klakow
+  bibkey: wiegand-klakow-2012-generalization
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '325'
+  page_last: '335'
+  pages: "325\u2013335"
+  paper_id: '33'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1033.jpg
+  title: Generalization Methods for In-Domain and Cross-Domain Opinion Holder Extraction
+  title_html: Generalization Methods for In-Domain and Cross-Domain Opinion Holder
+    Extraction
+  url: https://www.aclweb.org/anthology/E12-1033
+  year: '2012'
+E12-1034:
+  address: Avignon, France
+  author:
+  - first: Bram
+    full: Bram Jans
+    id: bram-jans
+    last: Jans
+  - first: Steven
+    full: Steven Bethard
+    id: steven-bethard
+    last: Bethard
+  - first: Ivan
+    full: "Ivan Vuli\u0107"
+    id: ivan-vulic
+    last: "Vuli\u0107"
+  - first: Marie Francine
+    full: Marie Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: "Bram Jans, Steven Bethard, Ivan Vuli\u0107, Marie Francine Moens"
+  bibkey: jans-etal-2012-skip
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '336'
+  page_last: '344'
+  pages: "336\u2013344"
+  paper_id: '34'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1034.jpg
+  title: Skip N-grams and Ranking Functions for Predicting Script Events
+  title_html: Skip N-grams and Ranking Functions for Predicting Script Events
+  url: https://www.aclweb.org/anthology/E12-1034
+  year: '2012'
+E12-1035:
+  address: Avignon, France
+  author:
+  - first: David Martin Ward
+    full: David Martin Ward Powers
+    id: david-martin-ward-powers
+    last: Powers
+  author_string: David Martin Ward Powers
+  bibkey: powers-2012-problem
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '345'
+  page_last: '355'
+  pages: "345\u2013355"
+  paper_id: '35'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1035.jpg
+  title: The Problem with Kappa
+  title_html: The Problem with Kappa
+  url: https://www.aclweb.org/anthology/E12-1035
+  year: '2012'
+E12-1036:
+  address: Avignon, France
+  author:
+  - first: Amit
+    full: Amit Bronner
+    id: amit-bronner
+    last: Bronner
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  author_string: Amit Bronner, Christof Monz
+  bibkey: bronner-monz-2012-user
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '356'
+  page_last: '366'
+  pages: "356\u2013366"
+  paper_id: '36'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1036.jpg
+  title: User Edits Classification Using Document Revision Histories
+  title_html: User Edits Classification Using Document Revision Histories
+  url: https://www.aclweb.org/anthology/E12-1036
+  year: '2012'
+E12-1037:
+  address: Avignon, France
+  author:
+  - first: Zhonghua
+    full: Zhonghua Qu
+    id: zhonghua-qu
+    last: Qu
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Zhonghua Qu, Yang Liu
+  bibkey: qu-liu-2012-user
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '367'
+  page_last: '376'
+  pages: "367\u2013376"
+  paper_id: '37'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1037.jpg
+  title: User Participation Prediction in Online Forums
+  title_html: User Participation Prediction in Online Forums
+  url: https://www.aclweb.org/anthology/E12-1037
+  year: '2012'
+E12-1038:
+  address: Avignon, France
+  author:
+  - first: Hyeju
+    full: Hyeju Jang
+    id: hyeju-jang
+    last: Jang
+  - first: Jack
+    full: Jack Mostow
+    id: jack-mostow
+    last: Mostow
+  author_string: Hyeju Jang, Jack Mostow
+  bibkey: jang-mostow-2012-inferring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '377'
+  page_last: '386'
+  pages: "377\u2013386"
+  paper_id: '38'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1038.jpg
+  title: Inferring Selectional Preferences from Part-Of-Speech N-grams
+  title_html: Inferring Selectional Preferences from Part-Of-Speech N-grams
+  url: https://www.aclweb.org/anthology/E12-1038
+  year: '2012'
+E12-1039:
+  address: Avignon, France
+  author:
+  - first: Verena
+    full: Verena Henrich
+    id: verena-henrich
+    last: Henrich
+  - first: Erhard
+    full: Erhard Hinrichs
+    id: erhard-hinrichs
+    last: Hinrichs
+  - first: Tatiana
+    full: Tatiana Vodolazova
+    id: tatiana-vodolazova
+    last: Vodolazova
+  author_string: Verena Henrich, Erhard Hinrichs, Tatiana Vodolazova
+  bibkey: henrich-etal-2012-webcage
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '387'
+  page_last: '396'
+  pages: "387\u2013396"
+  paper_id: '39'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1039.jpg
+  title: "WebCAGe \u2013 A Web-Harvested Corpus Annotated with GermaNet Senses"
+  title_html: "<span class=\"acl-fixed-case\">W</span>eb<span class=\"acl-fixed-case\"\
+    >CAG</span>e \u2013 A Web-Harvested Corpus Annotated with <span class=\"acl-fixed-case\"\
+    >G</span>erma<span class=\"acl-fixed-case\">N</span>et Senses"
+  url: https://www.aclweb.org/anthology/E12-1039
+  year: '2012'
+E12-1040:
+  address: Avignon, France
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  author_string: Regina Barzilay
+  bibkey: barzilay-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  pages: '397'
+  paper_id: '40'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1040.jpg
+  title: Learning to Behave by Reading
+  title_html: Learning to Behave by Reading
+  url: https://www.aclweb.org/anthology/E12-1040
+  year: '2012'
+E12-1041:
+  address: Avignon, France
+  author:
+  - first: Irene
+    full: Irene Fernandez Monsalve
+    id: irene-fernandez-monsalve
+    last: Fernandez Monsalve
+  - first: Stefan L.
+    full: Stefan L. Frank
+    id: stefan-l-frank
+    last: Frank
+  - first: Gabriella
+    full: Gabriella Vigliocco
+    id: gabriella-vigliocco
+    last: Vigliocco
+  author_string: Irene Fernandez Monsalve, Stefan L. Frank, Gabriella Vigliocco
+  bibkey: fernandez-monsalve-etal-2012-lexical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '398'
+  page_last: '408'
+  pages: "398\u2013408"
+  paper_id: '41'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1041.jpg
+  title: Lexical surprisal as a general predictor of reading time
+  title_html: Lexical surprisal as a general predictor of reading time
+  url: https://www.aclweb.org/anthology/E12-1041
+  year: '2012'
+E12-1042:
+  address: Avignon, France
+  author:
+  - first: Franco M.
+    full: Franco M. Luque
+    id: franco-m-luque
+    last: Luque
+  - first: Ariadna
+    full: Ariadna Quattoni
+    id: ariadna-quattoni
+    last: Quattoni
+  - first: Borja
+    full: Borja Balle
+    id: borja-balle
+    last: Balle
+  - first: Xavier
+    full: Xavier Carreras
+    id: xavier-carreras
+    last: Carreras
+  author_string: Franco M. Luque, Ariadna Quattoni, Borja Balle, Xavier Carreras
+  bibkey: luque-etal-2012-spectral
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '409'
+  page_last: '419'
+  pages: "409\u2013419"
+  paper_id: '42'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1042.jpg
+  title: Spectral Learning for Non-Deterministic Dependency Parsing
+  title_html: Spectral Learning for Non-Deterministic Dependency Parsing
+  url: https://www.aclweb.org/anthology/E12-1042
+  year: '2012'
+E12-1043:
+  address: Avignon, France
+  author:
+  - first: Md. Faisal Mahbub
+    full: Md. Faisal Mahbub Chowdhury
+    id: md-faisal-mahbub-chowdhury
+    last: Chowdhury
+  - first: Alberto
+    full: Alberto Lavelli
+    id: alberto-lavelli
+    last: Lavelli
+  author_string: Md. Faisal Mahbub Chowdhury, Alberto Lavelli
+  bibkey: chowdhury-lavelli-2012-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '420'
+  page_last: '429'
+  pages: "420\u2013429"
+  paper_id: '43'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1043.jpg
+  title: Combining Tree Structures, Flat Features and Patterns for Biomedical Relation
+    Extraction
+  title_html: Combining Tree Structures, Flat Features and Patterns for Biomedical
+    Relation Extraction
+  url: https://www.aclweb.org/anthology/E12-1043
+  year: '2012'
+E12-1044:
+  address: Avignon, France
+  author:
+  - first: Atsushi
+    full: Atsushi Hanamoto
+    id: atsushi-hanamoto
+    last: Hanamoto
+  - first: Takuya
+    full: Takuya Matsuzaki
+    id: takuya-matsuzaki
+    last: Matsuzaki
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Atsushi Hanamoto, Takuya Matsuzaki, Jun\u2019ichi Tsujii"
+  bibkey: hanamoto-etal-2012-coordination
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '430'
+  page_last: '438'
+  pages: "430\u2013438"
+  paper_id: '44'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1044.jpg
+  title: Coordination Structure Analysis using Dual Decomposition
+  title_html: Coordination Structure Analysis using Dual Decomposition
+  url: https://www.aclweb.org/anthology/E12-1044
+  year: '2012'
+E12-1045:
+  address: Avignon, France
+  author:
+  - first: Arianna
+    full: Arianna Bisazza
+    id: arianna-bisazza
+    last: Bisazza
+  - first: Marcello
+    full: Marcello Federico
+    id: marcello-federico
+    last: Federico
+  author_string: Arianna Bisazza, Marcello Federico
+  bibkey: bisazza-federico-2012-cutting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '439'
+  page_last: '448'
+  pages: "439\u2013448"
+  paper_id: '45'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1045.jpg
+  title: 'Cutting the Long Tail: Hybrid Language Models for Translation Style Adaptation'
+  title_html: 'Cutting the Long Tail: Hybrid Language Models for Translation Style
+    Adaptation'
+  url: https://www.aclweb.org/anthology/E12-1045
+  year: '2012'
+E12-1046:
+  address: Avignon, France
+  author:
+  - first: Ivan
+    full: "Ivan Vuli\u0107"
+    id: ivan-vulic
+    last: "Vuli\u0107"
+  - first: Marie-Francine
+    full: Marie-Francine Moens
+    id: marie-francine-moens
+    last: Moens
+  author_string: "Ivan Vuli\u0107, Marie-Francine Moens"
+  bibkey: vulic-moens-2012-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '449'
+  page_last: '459'
+  pages: "449\u2013459"
+  paper_id: '46'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1046.jpg
+  title: Detecting Highly Confident Word Translations from Comparable Corpora without
+    Any Prior Knowledge
+  title_html: Detecting Highly Confident Word Translations from Comparable Corpora
+    without Any Prior Knowledge
+  url: https://www.aclweb.org/anthology/E12-1046
+  year: '2012'
+E12-1047:
+  address: Avignon, France
+  author:
+  - first: Andreas
+    full: Andreas van Cranenburgh
+    id: andreas-van-cranenburgh
+    last: van Cranenburgh
+  author_string: Andreas van Cranenburgh
+  bibkey: van-cranenburgh-2012-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '460'
+  page_last: '470'
+  pages: "460\u2013470"
+  paper_id: '47'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1047.jpg
+  title: Efficient parsing with Linear Context-Free Rewriting Systems
+  title_html: Efficient parsing with Linear Context-Free Rewriting Systems
+  url: https://www.aclweb.org/anthology/E12-1047
+  year: '2012'
+E12-1048:
+  address: Avignon, France
+  author:
+  - first: Myroslava O.
+    full: Myroslava O. Dzikovska
+    id: myroslava-o-dzikovska
+    last: Dzikovska
+  - first: Peter
+    full: Peter Bell
+    id: peter-bell
+    last: Bell
+  - first: Amy
+    full: Amy Isard
+    id: amy-isard
+    last: Isard
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  author_string: Myroslava O. Dzikovska, Peter Bell, Amy Isard, Johanna D. Moore
+  bibkey: dzikovska-etal-2012-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '471'
+  page_last: '481'
+  pages: "471\u2013481"
+  paper_id: '48'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1048.jpg
+  title: Evaluating language understanding accuracy with respect to objective outcomes
+    in a dialogue system
+  title_html: Evaluating language understanding accuracy with respect to objective
+    outcomes in a dialogue system
+  url: https://www.aclweb.org/anthology/E12-1048
+  year: '2012'
+E12-1049:
+  address: Avignon, France
+  author:
+  - first: Matthew
+    full: Matthew Purver
+    id: matthew-purver
+    last: Purver
+  - first: Stuart
+    full: Stuart Battersby
+    id: stuart-battersby
+    last: Battersby
+  author_string: Matthew Purver, Stuart Battersby
+  bibkey: purver-battersby-2012-experimenting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '482'
+  page_last: '491'
+  pages: "482\u2013491"
+  paper_id: '49'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1049.jpg
+  title: Experimenting with Distant Supervision for Emotion Classification
+  title_html: Experimenting with Distant Supervision for Emotion Classification
+  url: https://www.aclweb.org/anthology/E12-1049
+  year: '2012'
+E12-1050:
+  address: Avignon, France
+  author:
+  - first: Georgi
+    full: Georgi Georgiev
+    id: georgi-georgiev
+    last: Georgiev
+  - first: Valentin
+    full: Valentin Zhikov
+    id: valentin-zhikov
+    last: Zhikov
+  - first: Kiril
+    full: Kiril Simov
+    id: kiril-simov
+    last: Simov
+  - first: Petya
+    full: Petya Osenova
+    id: petya-osenova
+    last: Osenova
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  author_string: Georgi Georgiev, Valentin Zhikov, Kiril Simov, Petya Osenova, Preslav
+    Nakov
+  bibkey: georgiev-etal-2012-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '492'
+  page_last: '502'
+  pages: "492\u2013502"
+  paper_id: '50'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1050.jpg
+  title: 'Feature-Rich Part-of-speech Tagging for Morphologically Complex Languages:
+    Application to Bulgarian'
+  title_html: 'Feature-Rich Part-of-speech Tagging for Morphologically Complex Languages:
+    Application to <span class="acl-fixed-case">B</span>ulgarian'
+  url: https://www.aclweb.org/anthology/E12-1050
+  year: '2012'
+E12-1051:
+  address: Avignon, France
+  author:
+  - first: Janara
+    full: Janara Christensen
+    id: janara-christensen
+    last: Christensen
+  - first: Marius
+    full: "Marius Pa\u015Fca"
+    id: marius-pasca
+    last: "Pa\u015Fca"
+  author_string: "Janara Christensen, Marius Pa\u015Fca"
+  bibkey: christensen-pasca-2012-instance
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '503'
+  page_last: '513'
+  pages: "503\u2013513"
+  paper_id: '51'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1051.jpg
+  title: Instance-Driven Attachment of Semantic Annotations over Conceptual Hierarchies
+  title_html: Instance-Driven Attachment of Semantic Annotations over Conceptual Hierarchies
+  url: https://www.aclweb.org/anthology/E12-1051
+  year: '2012'
+E12-1052:
+  address: Avignon, France
+  author:
+  - first: Andreas
+    full: Andreas Peldszus
+    id: andreas-peldszus
+    last: Peldszus
+  - first: Okko
+    full: "Okko Bu\xDF"
+    id: okko-buss
+    last: "Bu\xDF"
+  - first: Timo
+    full: Timo Baumann
+    id: timo-baumann
+    last: Baumann
+  - first: David
+    full: David Schlangen
+    id: david-schlangen
+    last: Schlangen
+  author_string: "Andreas Peldszus, Okko Bu\xDF, Timo Baumann, David Schlangen"
+  bibkey: peldszus-etal-2012-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '514'
+  page_last: '523'
+  pages: "514\u2013523"
+  paper_id: '52'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1052.jpg
+  title: Joint Satisfaction of Syntactic and Pragmatic Constraints Improves Incremental
+    Spoken Language Understanding
+  title_html: Joint Satisfaction of Syntactic and Pragmatic Constraints Improves Incremental
+    Spoken Language Understanding
+  url: https://www.aclweb.org/anthology/E12-1052
+  year: '2012'
+E12-1053:
+  address: Avignon, France
+  author:
+  - first: Liviu P.
+    full: Liviu P. Dinu
+    id: liviu-p-dinu
+    last: Dinu
+  - first: Vlad
+    full: Vlad Niculae
+    id: vlad-niculae
+    last: Niculae
+  - first: Octavia-Maria
+    full: Octavia-Maria Sulea
+    id: octavia-maria-sulea
+    last: Sulea
+  author_string: Liviu P. Dinu, Vlad Niculae, Octavia-Maria Sulea
+  bibkey: dinu-etal-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '524'
+  page_last: '528'
+  pages: "524\u2013528"
+  paper_id: '53'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1053.jpg
+  title: Learning How to Conjugate the Romanian Verb. Rules for Regular and Partially
+    Irregular Verbs
+  title_html: Learning How to Conjugate the <span class="acl-fixed-case">R</span>omanian
+    Verb. Rules for Regular and Partially Irregular Verbs
+  url: https://www.aclweb.org/anthology/E12-1053
+  year: '2012'
+E12-1054:
+  address: Avignon, France
+  author:
+  - first: Torsten
+    full: Torsten Zesch
+    id: torsten-zesch
+    last: Zesch
+  author_string: Torsten Zesch
+  bibkey: zesch-2012-measuring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '529'
+  page_last: '538'
+  pages: "529\u2013538"
+  paper_id: '54'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1054.jpg
+  title: Measuring Contextual Fitness Using Error Contexts Extracted from the Wikipedia
+    Revision History
+  title_html: Measuring Contextual Fitness Using Error Contexts Extracted from the
+    <span class="acl-fixed-case">W</span>ikipedia Revision History
+  url: https://www.aclweb.org/anthology/E12-1054
+  year: '2012'
+E12-1055:
+  address: Avignon, France
+  author:
+  - first: Rico
+    full: Rico Sennrich
+    id: rico-sennrich
+    last: Sennrich
+  author_string: Rico Sennrich
+  bibkey: sennrich-2012-perplexity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '539'
+  page_last: '549'
+  pages: "539\u2013549"
+  paper_id: '55'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1055.jpg
+  title: Perplexity Minimization for Translation Model Domain Adaptation in Statistical
+    Machine Translation
+  title_html: Perplexity Minimization for Translation Model Domain Adaptation in Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/E12-1055
+  year: '2012'
+E12-1056:
+  address: Avignon, France
+  author:
+  - first: Judith
+    full: Judith Eckle-Kohler
+    id: judith-eckle-kohler
+    last: Eckle-Kohler
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: Judith Eckle-Kohler, Iryna Gurevych
+  bibkey: eckle-kohler-gurevych-2012-subcat
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '550'
+  page_last: '560'
+  pages: "550\u2013560"
+  paper_id: '56'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1056.jpg
+  title: 'Subcat-LMF: Fleshing out a standardized format for subcategorization frame
+    interoperability'
+  title_html: 'Subcat-<span class="acl-fixed-case">LMF</span>: Fleshing out a standardized
+    format for subcategorization frame interoperability'
+  url: https://www.aclweb.org/anthology/E12-1056
+  year: '2012'
+E12-1057:
+  address: Avignon, France
+  author:
+  - first: Suzan
+    full: Suzan Verberne
+    id: suzan-verberne
+    last: Verberne
+  - first: Antal
+    full: Antal van den Bosch
+    id: antal-van-den-bosch
+    last: van den Bosch
+  - first: Helmer
+    full: Helmer Strik
+    id: helmer-strik
+    last: Strik
+  - first: Lou
+    full: Lou Boves
+    id: lou-boves
+    last: Boves
+  author_string: Suzan Verberne, Antal van den Bosch, Helmer Strik, Lou Boves
+  bibkey: verberne-etal-2012-effect
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '561'
+  page_last: '569'
+  pages: "561\u2013569"
+  paper_id: '57'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1057.jpg
+  title: The effect of domain and text type on text prediction quality
+  title_html: The effect of domain and text type on text prediction quality
+  url: https://www.aclweb.org/anthology/E12-1057
+  year: '2012'
+E12-1058:
+  address: Avignon, France
+  author:
+  - first: Benno
+    full: Benno Stein
+    id: benno-stein
+    last: Stein
+  - first: Dennis
+    full: Dennis Hoppe
+    id: dennis-hoppe
+    last: Hoppe
+  - first: Tim
+    full: Tim Gollub
+    id: tim-gollub
+    last: Gollub
+  author_string: Benno Stein, Dennis Hoppe, Tim Gollub
+  bibkey: stein-etal-2012-impact
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '570'
+  page_last: '579'
+  pages: "570\u2013579"
+  paper_id: '58'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1058.jpg
+  title: The Impact of Spelling Errors on Patent Search
+  title_html: The Impact of Spelling Errors on Patent Search
+  url: https://www.aclweb.org/anthology/E12-1058
+  year: '2012'
+E12-1059:
+  address: Avignon, France
+  author:
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  - first: Judith
+    full: Judith Eckle-Kohler
+    id: judith-eckle-kohler
+    last: Eckle-Kohler
+  - first: Silvana
+    full: Silvana Hartmann
+    id: silvana-hartmann
+    last: Hartmann
+  - first: Michael
+    full: Michael Matuschek
+    id: michael-matuschek
+    last: Matuschek
+  - first: Christian M.
+    full: Christian M. Meyer
+    id: christian-m-meyer
+    last: Meyer
+  - first: Christian
+    full: Christian Wirth
+    id: christian-wirth
+    last: Wirth
+  author_string: Iryna Gurevych, Judith Eckle-Kohler, Silvana Hartmann, Michael Matuschek,
+    Christian M. Meyer, Christian Wirth
+  bibkey: gurevych-etal-2012-uby
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '580'
+  page_last: '590'
+  pages: "580\u2013590"
+  paper_id: '59'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1059.jpg
+  title: UBY - A Large-Scale Unified Lexical-Semantic Resource Based on LMF
+  title_html: <span class="acl-fixed-case">UBY</span> - A Large-Scale Unified Lexical-Semantic
+    Resource Based on <span class="acl-fixed-case">LMF</span>
+  url: https://www.aclweb.org/anthology/E12-1059
+  year: '2012'
+E12-1060:
+  address: Avignon, France
+  author:
+  - first: Jey Han
+    full: Jey Han Lau
+    id: jey-han-lau
+    last: Lau
+  - first: Paul
+    full: Paul Cook
+    id: paul-cook
+    last: Cook
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: David
+    full: David Newman
+    id: david-newman
+    last: Newman
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Jey Han Lau, Paul Cook, Diana McCarthy, David Newman, Timothy Baldwin
+  bibkey: lau-etal-2012-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '591'
+  page_last: '601'
+  pages: "591\u2013601"
+  paper_id: '60'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1060.jpg
+  title: Word Sense Induction for Novel Sense Detection
+  title_html: Word Sense Induction for Novel Sense Detection
+  url: https://www.aclweb.org/anthology/E12-1060
+  year: '2012'
+E12-1061:
+  address: Avignon, France
+  author:
+  - first: Raymond
+    full: Raymond Mooney
+    id: raymond-mooney
+    last: Mooney
+  author_string: Raymond Mooney
+  bibkey: mooney-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  pages: '602'
+  paper_id: '61'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1061.jpg
+  title: Learning Language from Perceptual Context
+  title_html: Learning Language from Perceptual Context
+  url: https://www.aclweb.org/anthology/E12-1061
+  year: '2012'
+E12-1062:
+  address: Avignon, France
+  author:
+  - first: Micol
+    full: Micol Marchetti-Bowick
+    id: micol-marchetti-bowick
+    last: Marchetti-Bowick
+  - first: Nathanael
+    full: Nathanael Chambers
+    id: nathanael-chambers
+    last: Chambers
+  author_string: Micol Marchetti-Bowick, Nathanael Chambers
+  bibkey: marchetti-bowick-chambers-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '603'
+  page_last: '612'
+  pages: "603\u2013612"
+  paper_id: '62'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1062.jpg
+  title: 'Learning for Microblogs with Distant Supervision: Political Forecasting
+    with Twitter'
+  title_html: 'Learning for Microblogs with Distant Supervision: Political Forecasting
+    with Twitter'
+  url: https://www.aclweb.org/anthology/E12-1062
+  year: '2012'
+E12-1063:
+  address: Avignon, France
+  author:
+  - first: Grzegorz
+    full: Grzegorz Chrupala
+    id: grzegorz-chrupala
+    last: Chrupala
+  author_string: Grzegorz Chrupala
+  bibkey: chrupala-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '613'
+  page_last: '622'
+  pages: "613\u2013622"
+  paper_id: '63'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1063.jpg
+  title: 'Learning from evolving data streams: online triage of bug reports'
+  title_html: 'Learning from evolving data streams: online triage of bug reports'
+  url: https://www.aclweb.org/anthology/E12-1063
+  year: '2012'
+E12-1064:
+  address: Avignon, France
+  author:
+  - first: Manaal
+    full: Manaal Faruqui
+    id: manaal-faruqui
+    last: Faruqui
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  author_string: "Manaal Faruqui, Sebastian Pad\xF3"
+  bibkey: faruqui-pado-2012-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '623'
+  page_last: '633'
+  pages: "623\u2013633"
+  paper_id: '64'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1064.jpg
+  title: Towards a model of formal and informal address in English
+  title_html: Towards a model of formal and informal address in <span class="acl-fixed-case">E</span>nglish
+  url: https://www.aclweb.org/anthology/E12-1064
+  year: '2012'
+E12-1065:
+  address: Avignon, France
+  author:
+  - first: Micha
+    full: Micha Elsner
+    id: micha-elsner
+    last: Elsner
+  author_string: Micha Elsner
+  bibkey: elsner-2012-character
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '634'
+  page_last: '644'
+  pages: "634\u2013644"
+  paper_id: '65'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1065.jpg
+  title: Character-based kernels for novelistic plot structure
+  title_html: Character-based kernels for novelistic plot structure
+  url: https://www.aclweb.org/anthology/E12-1065
+  year: '2012'
+E12-1066:
+  address: Avignon, France
+  author:
+  - first: "Gr\xE9goire"
+    full: "Gr\xE9goire D\xE9trez"
+    id: gregoire-detrez
+    last: "D\xE9trez"
+  - first: Aarne
+    full: Aarne Ranta
+    id: aarne-ranta
+    last: Ranta
+  author_string: "Gr\xE9goire D\xE9trez, Aarne Ranta"
+  bibkey: detrez-ranta-2012-smart
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '645'
+  page_last: '653'
+  pages: "645\u2013653"
+  paper_id: '66'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1066.jpg
+  title: Smart Paradigms and the Predictability and Complexity of Inflectional Morphology
+  title_html: Smart Paradigms and the Predictability and Complexity of Inflectional
+    Morphology
+  url: https://www.aclweb.org/anthology/E12-1066
+  year: '2012'
+E12-1067:
+  address: Avignon, France
+  author:
+  - first: Burcu
+    full: Burcu Can
+    id: burcu-can
+    last: Can
+  - first: Suresh
+    full: Suresh Manandhar
+    id: suresh-manandhar
+    last: Manandhar
+  author_string: Burcu Can, Suresh Manandhar
+  bibkey: can-manandhar-2012-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '654'
+  page_last: '663'
+  pages: "654\u2013663"
+  paper_id: '67'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1067.jpg
+  title: Probabilistic Hierarchical Clustering of Morphological Paradigms
+  title_html: Probabilistic Hierarchical Clustering of Morphological Paradigms
+  url: https://www.aclweb.org/anthology/E12-1067
+  year: '2012'
+E12-1068:
+  address: Avignon, France
+  author:
+  - first: Alexander
+    full: Alexander Fraser
+    id: alexander-fraser
+    last: Fraser
+  - first: Marion
+    full: Marion Weller
+    id: marion-weller
+    last: Weller
+  - first: Aoife
+    full: Aoife Cahill
+    id: aoife-cahill
+    last: Cahill
+  - first: Fabienne
+    full: Fabienne Cap
+    id: fabienne-cap
+    last: Cap
+  author_string: Alexander Fraser, Marion Weller, Aoife Cahill, Fabienne Cap
+  bibkey: fraser-etal-2012-modeling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '664'
+  page_last: '674'
+  pages: "664\u2013674"
+  paper_id: '68'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1068.jpg
+  title: Modeling Inflection and Word-Formation in SMT
+  title_html: Modeling Inflection and Word-Formation in <span class="acl-fixed-case">SMT</span>
+  url: https://www.aclweb.org/anthology/E12-1068
+  year: '2012'
+E12-1069:
+  address: Avignon, France
+  author:
+  - first: Sarah
+    full: Sarah Alkuhlani
+    id: sarah-alkuhlani
+    last: Alkuhlani
+  - first: Nizar
+    full: Nizar Habash
+    id: nizar-habash
+    last: Habash
+  author_string: Sarah Alkuhlani, Nizar Habash
+  bibkey: alkuhlani-habash-2012-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '675'
+  page_last: '685'
+  pages: "675\u2013685"
+  paper_id: '69'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1069.jpg
+  title: Identifying Broken Plurals, Irregular Gender, and Rationality in Arabic Text
+  title_html: Identifying Broken Plurals, Irregular Gender, and Rationality in <span
+    class="acl-fixed-case">A</span>rabic Text
+  url: https://www.aclweb.org/anthology/E12-1069
+  year: '2012'
+E12-1070:
+  address: Avignon, France
+  author:
+  - first: Yuichiroh
+    full: Yuichiroh Matsubayashi
+    id: yuichiroh-matsubayashi
+    last: Matsubayashi
+  - first: Yusuke
+    full: Yusuke Miyao
+    id: yusuke-miyao
+    last: Miyao
+  - first: Akiko
+    full: Akiko Aizawa
+    id: akiko-aizawa
+    last: Aizawa
+  author_string: Yuichiroh Matsubayashi, Yusuke Miyao, Akiko Aizawa
+  bibkey: matsubayashi-etal-2012-framework
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '686'
+  page_last: '695'
+  pages: "686\u2013695"
+  paper_id: '70'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1070.jpg
+  title: 'Framework of Semantic Role Assignment based on Extended Lexical Conceptual
+    Structure: Comparison with VerbNet and FrameNet'
+  title_html: 'Framework of Semantic Role Assignment based on Extended Lexical Conceptual
+    Structure: Comparison with <span class="acl-fixed-case">V</span>erb<span class="acl-fixed-case">N</span>et
+    and <span class="acl-fixed-case">F</span>rame<span class="acl-fixed-case">N</span>et'
+  url: https://www.aclweb.org/anthology/E12-1070
+  year: '2012'
+E12-1071:
+  address: Avignon, France
+  author:
+  - first: Jackie Chi Kit
+    full: Jackie Chi Kit Cheung
+    id: jackie-chi-kit-cheung
+    last: Cheung
+  - first: Gerald
+    full: Gerald Penn
+    id: gerald-penn
+    last: Penn
+  author_string: Jackie Chi Kit Cheung, Gerald Penn
+  bibkey: cheung-penn-2012-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '696'
+  page_last: '705'
+  pages: "696\u2013705"
+  paper_id: '71'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1071.jpg
+  title: Unsupervised Detection of Downward-Entailing Operators By Maximizing Classification
+    Certainty
+  title_html: Unsupervised Detection of Downward-Entailing Operators By Maximizing
+    Classification Certainty
+  url: https://www.aclweb.org/anthology/E12-1071
+  year: '2012'
+E12-1072:
+  address: Avignon, France
+  author:
+  - first: Luz
+    full: Luz Rello
+    id: luz-rello
+    last: Rello
+  - first: Ricardo
+    full: Ricardo Baeza-Yates
+    id: ricardo-baeza-yates
+    last: Baeza-Yates
+  - first: Ruslan
+    full: Ruslan Mitkov
+    id: ruslan-mitkov
+    last: Mitkov
+  author_string: Luz Rello, Ricardo Baeza-Yates, Ruslan Mitkov
+  bibkey: rello-etal-2012-elliphant
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '706'
+  page_last: '715'
+  pages: "706\u2013715"
+  paper_id: '72'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1072.jpg
+  title: 'Elliphant: Improved Automatic Detection of Zero Subjects and Impersonal
+    Constructions in Spanish'
+  title_html: '<span class="acl-fixed-case">E</span>lliphant: Improved Automatic Detection
+    of Zero Subjects and Impersonal Constructions in <span class="acl-fixed-case">S</span>panish'
+  url: https://www.aclweb.org/anthology/E12-1072
+  year: '2012'
+E12-1073:
+  address: Avignon, France
+  author:
+  - first: Houda
+    full: Houda Bouamor
+    id: houda-bouamor
+    last: Bouamor
+  - first: "Aur\xE9lien"
+    full: "Aur\xE9lien Max"
+    id: aurelien-max
+    last: Max
+  - first: Anne
+    full: Anne Vilnat
+    id: anne-vilnat
+    last: Vilnat
+  author_string: "Houda Bouamor, Aur\xE9lien Max, Anne Vilnat"
+  bibkey: bouamor-etal-2012-validation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '716'
+  page_last: '725'
+  pages: "716\u2013725"
+  paper_id: '73'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1073.jpg
+  title: Validation of sub-sentential paraphrases acquired from parallel monolingual
+    corpora
+  title_html: Validation of sub-sentential paraphrases acquired from parallel monolingual
+    corpora
+  url: https://www.aclweb.org/anthology/E12-1073
+  year: '2012'
+E12-1074:
+  address: Avignon, France
+  author:
+  - first: Anita
+    full: Anita Gojun
+    id: anita-gojun
+    last: Gojun
+  - first: Alexander
+    full: Alexander Fraser
+    id: alexander-fraser
+    last: Fraser
+  author_string: Anita Gojun, Alexander Fraser
+  bibkey: gojun-fraser-2012-determining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '726'
+  page_last: '735'
+  pages: "726\u2013735"
+  paper_id: '74'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1074.jpg
+  title: "Determining the placement of German verbs in English\u2013to\u2013German\
+    \ SMT"
+  title_html: "Determining the placement of <span class=\"acl-fixed-case\">G</span>erman\
+    \ verbs in <span class=\"acl-fixed-case\">E</span>nglish\u2013to\u2013<span class=\"\
+    acl-fixed-case\">G</span>erman <span class=\"acl-fixed-case\">SMT</span>"
+  url: https://www.aclweb.org/anthology/E12-1074
+  year: '2012'
+E12-1075:
+  address: Avignon, France
+  author:
+  - first: Yue
+    full: Yue Zhang
+    id: yue-zhang
+    last: Zhang
+  - first: Graeme
+    full: Graeme Blackwood
+    id: graeme-blackwood
+    last: Blackwood
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  author_string: Yue Zhang, Graeme Blackwood, Stephen Clark
+  bibkey: zhang-etal-2012-syntax
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '736'
+  page_last: '746'
+  pages: "736\u2013746"
+  paper_id: '75'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1075.jpg
+  title: Syntax-Based Word Ordering Incorporating a Large-Scale Language Model
+  title_html: Syntax-Based Word Ordering Incorporating a Large-Scale Language Model
+  url: https://www.aclweb.org/anthology/E12-1075
+  year: '2012'
+E12-1076:
+  address: Avignon, France
+  author:
+  - first: Margaret
+    full: Margaret Mitchell
+    id: margaret-mitchell
+    last: Mitchell
+  - first: Jesse
+    full: Jesse Dodge
+    id: jesse-dodge
+    last: Dodge
+  - first: Amit
+    full: Amit Goyal
+    id: amit-goyal
+    last: Goyal
+  - first: Kota
+    full: Kota Yamaguchi
+    id: kota-yamaguchi
+    last: Yamaguchi
+  - first: Karl
+    full: Karl Stratos
+    id: karl-stratos
+    last: Stratos
+  - first: Xufeng
+    full: Xufeng Han
+    id: xufeng-han
+    last: Han
+  - first: Alyssa
+    full: Alyssa Mensch
+    id: alyssa-mensch
+    last: Mensch
+  - first: Alex
+    full: Alex Berg
+    id: alexander-berg
+    last: Berg
+  - first: Tamara
+    full: Tamara Berg
+    id: tamara-berg
+    last: Berg
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  author_string: "Margaret Mitchell, Jesse Dodge, Amit Goyal, Kota Yamaguchi, Karl\
+    \ Stratos, Xufeng Han, Alyssa Mensch, Alex Berg, Tamara Berg, Hal Daum\xE9 III"
+  bibkey: mitchell-etal-2012-midge
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '747'
+  page_last: '756'
+  pages: "747\u2013756"
+  paper_id: '76'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1076.jpg
+  title: 'Midge: Generating Image Descriptions From Computer Vision Detections'
+  title_html: '<span class="acl-fixed-case">M</span>idge: Generating Image Descriptions
+    From Computer Vision Detections'
+  url: https://www.aclweb.org/anthology/E12-1076
+  year: '2012'
+E12-1077:
+  address: Avignon, France
+  author:
+  - first: Markus
+    full: "Markus Dr\xE4ger"
+    id: markus-drager
+    last: "Dr\xE4ger"
+  - first: Alexander
+    full: Alexander Koller
+    id: alexander-koller
+    last: Koller
+  author_string: "Markus Dr\xE4ger, Alexander Koller"
+  bibkey: drager-koller-2012-generation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '757'
+  page_last: '766'
+  pages: "757\u2013766"
+  paper_id: '77'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1077.jpg
+  title: Generation of landmark-based navigation instructions from open-source data
+  title_html: Generation of landmark-based navigation instructions from open-source
+    data
+  url: https://www.aclweb.org/anthology/E12-1077
+  year: '2012'
+E12-1078:
+  address: Avignon, France
+  author:
+  - first: Sina
+    full: "Sina Zarrie\xDF"
+    id: sina-zarriess
+    last: "Zarrie\xDF"
+  - first: Aoife
+    full: Aoife Cahill
+    id: aoife-cahill
+    last: Cahill
+  - first: Jonas
+    full: Jonas Kuhn
+    id: jonas-kuhn
+    last: Kuhn
+  author_string: "Sina Zarrie\xDF, Aoife Cahill, Jonas Kuhn"
+  bibkey: zarriess-etal-2012-extent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '767'
+  page_last: '776'
+  pages: "767\u2013776"
+  paper_id: '78'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1078.jpg
+  title: To what extent does sentence-internal realisation reflect discourse context?
+    A study on word order
+  title_html: To what extent does sentence-internal realisation reflect discourse
+    context? A study on word order
+  url: https://www.aclweb.org/anthology/E12-1078
+  year: '2012'
+E12-1079:
+  address: Avignon, France
+  author:
+  - first: Oliver
+    full: Oliver Ferschke
+    id: oliver-ferschke
+    last: Ferschke
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  - first: Yevgen
+    full: Yevgen Chebotar
+    id: yevgen-chebotar
+    last: Chebotar
+  author_string: Oliver Ferschke, Iryna Gurevych, Yevgen Chebotar
+  bibkey: ferschke-etal-2012-behind
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '777'
+  page_last: '786'
+  pages: "777\u2013786"
+  paper_id: '79'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1079.jpg
+  title: 'Behind the Article: Recognizing Dialog Acts in Wikipedia Talk Pages'
+  title_html: 'Behind the Article: Recognizing Dialog Acts in <span class="acl-fixed-case">W</span>ikipedia
+    Talk Pages'
+  url: https://www.aclweb.org/anthology/E12-1079
+  year: '2012'
+E12-1080:
+  address: Avignon, France
+  author:
+  - first: Mahaveer
+    full: Mahaveer Jain
+    id: mahaveer-jain
+    last: Jain
+  - first: John
+    full: John McDonough
+    id: john-mcdonough
+    last: McDonough
+  - first: Gahgene
+    full: Gahgene Gweon
+    id: gahgene-gweon
+    last: Gweon
+  - first: Bhiksha
+    full: Bhiksha Raj
+    id: bhiksha-raj
+    last: Raj
+  - first: Carolyn
+    full: "Carolyn Penstein Ros\xE9"
+    id: carolyn-rose
+    last: "Penstein Ros\xE9"
+  author_string: "Mahaveer Jain, John McDonough, Gahgene Gweon, Bhiksha Raj, Carolyn\
+    \ Penstein Ros\xE9"
+  bibkey: jain-etal-2012-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '787'
+  page_last: '797'
+  pages: "787\u2013797"
+  paper_id: '80'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1080.jpg
+  title: An Unsupervised Dynamic Bayesian Network Approach to Measuring Speech Style
+    Accommodation
+  title_html: An Unsupervised Dynamic <span class="acl-fixed-case">B</span>ayesian
+    Network Approach to Measuring Speech Style Accommodation
+  url: https://www.aclweb.org/anthology/E12-1080
+  year: '2012'
+E12-1081:
+  address: Avignon, France
+  author:
+  - first: Altaf
+    full: Altaf Rahman
+    id: altaf-rahman
+    last: Rahman
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Altaf Rahman, Vincent Ng
+  bibkey: rahman-ng-2012-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '798'
+  page_last: '807'
+  pages: "798\u2013807"
+  paper_id: '81'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1081.jpg
+  title: Learning the Fine-Grained Information Status of Discourse Entities
+  title_html: Learning the Fine-Grained Information Status of Discourse Entities
+  url: https://www.aclweb.org/anthology/E12-1081
+  year: '2012'
+E12-1082:
+  address: Avignon, France
+  author:
+  - first: "Aur\xE9lie"
+    full: "Aur\xE9lie Lagoutte"
+    id: aurelie-lagoutte
+    last: Lagoutte
+  - first: Fabienne
+    full: Fabienne Braune
+    id: fabienne-braune
+    last: Braune
+  - first: Daniel
+    full: Daniel Quernheim
+    id: daniel-quernheim
+    last: Quernheim
+  - first: Andreas
+    full: Andreas Maletti
+    id: andreas-maletti
+    last: Maletti
+  author_string: "Aur\xE9lie Lagoutte, Fabienne Braune, Daniel Quernheim, Andreas\
+    \ Maletti"
+  bibkey: lagoutte-etal-2012-composing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '808'
+  page_last: '817'
+  pages: "808\u2013817"
+  paper_id: '82'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1082.jpg
+  title: Composing extended top-down tree transducers
+  title_html: Composing extended top-down tree transducers
+  url: https://www.aclweb.org/anthology/E12-1082
+  year: '2012'
+E12-1083:
+  address: Avignon, France
+  author:
+  - first: Katharina
+    full: Katharina Waeschle
+    id: katharina-waschle
+    last: Waeschle
+  - first: Stefan
+    full: Stefan Riezler
+    id: stefan-riezler
+    last: Riezler
+  author_string: Katharina Waeschle, Stefan Riezler
+  bibkey: waeschle-riezler-2012-structural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '818'
+  page_last: '828'
+  pages: "818\u2013828"
+  paper_id: '83'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1083.jpg
+  title: Structural and Topical Dimensions in Multi-Task Patent Translation
+  title_html: Structural and Topical Dimensions in Multi-Task Patent Translation
+  url: https://www.aclweb.org/anthology/E12-1083
+  year: '2012'
+E12-1084:
+  address: Avignon, France
+  author:
+  - first: Remi
+    full: Remi van Trijp
+    id: remi-van-trijp
+    last: van Trijp
+  author_string: Remi van Trijp
+  bibkey: van-trijp-2012-awful
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '829'
+  page_last: '839'
+  pages: "829\u2013839"
+  paper_id: '84'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1084.jpg
+  title: 'Not as Awful as it Seems: Explaining German Case through Computational Experiments
+    in Fluid Construction Grammar'
+  title_html: 'Not as Awful as it Seems: Explaining <span class="acl-fixed-case">G</span>erman
+    Case through Computational Experiments in Fluid Construction Grammar'
+  url: https://www.aclweb.org/anthology/E12-1084
+  year: '2012'
+E12-1085:
+  address: Avignon, France
+  author:
+  - first: Silvie
+    full: "Silvie Cinkov\xE1"
+    id: silvie-cinkova
+    last: "Cinkov\xE1"
+  - first: Martin
+    full: Martin Holub
+    id: martin-holub
+    last: Holub
+  - first: Vincent
+    full: "Vincent Kr\xED\u017E"
+    id: vincent-kriz
+    last: "Kr\xED\u017E"
+  author_string: "Silvie Cinkov\xE1, Martin Holub, Vincent Kr\xED\u017E"
+  bibkey: cinkova-etal-2012-managing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 13th Conference of the European Chapter of the Association
+    for Computational Linguistics
+  booktitle_html: Proceedings of the 13th Conference of the <span class="acl-fixed-case">E</span>uropean
+    Chapter of the Association for Computational Linguistics
+  month: April
+  page_first: '840'
+  page_last: '850'
+  pages: "840\u2013850"
+  paper_id: '85'
+  parent_volume_id: E12-1
+  pdf: https://www.aclweb.org/anthology/E12-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-1085.jpg
+  title: Managing Uncertainty in Semantic Tagging
+  title_html: Managing Uncertainty in Semantic Tagging
+  url: https://www.aclweb.org/anthology/E12-1085
+  year: '2012'
+E12-2000:
+  address: Avignon, France
+  author:
+  - first: "Fr\xE9d\xE9rique"
+    full: "Fr\xE9d\xE9rique Segond"
+    id: frederique-segond
+    last: Segond
+  author_string: "Fr\xE9d\xE9rique Segond"
+  bibkey: eacl-2012-demonstrations
+  bibtype: proceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '0'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2000.jpg
+  title: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  title_html: Proceedings of the Demonstrations at the 13th Conference of the <span
+    class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  url: https://www.aclweb.org/anthology/E12-2000
+  year: '2012'
+E12-2001:
+  address: Avignon, France
+  author:
+  - first: Marc
+    full: Marc Poch
+    id: marc-poch
+    last: Poch
+  - first: Antonio
+    full: Antonio Toral
+    id: antonio-toral
+    last: Toral
+  - first: "N\xFAria"
+    full: "N\xFAria Bel"
+    id: nuria-bel
+    last: Bel
+  author_string: "Marc Poch, Antonio Toral, N\xFAria Bel"
+  bibkey: poch-etal-2012-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '1'
+  page_last: '5'
+  pages: "1\u20135"
+  paper_id: '1'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2001.jpg
+  title: 'Language Resources Factory: case study on the acquisition of Translation
+    Memories'
+  title_html: 'Language Resources Factory: case study on the acquisition of Translation
+    Memories'
+  url: https://www.aclweb.org/anthology/E12-2001
+  year: '2012'
+E12-2002:
+  address: Avignon, France
+  author:
+  - first: Anelia
+    full: Anelia Belogay
+    id: anelia-belogay
+    last: Belogay
+  - first: Diman
+    full: Diman Karagyozov
+    id: diman-karagyozov
+    last: Karagyozov
+  - first: Svetla
+    full: Svetla Koeva
+    id: svetla-koeva
+    last: Koeva
+  - first: Cristina
+    full: Cristina Vertan
+    id: cristina-vertan
+    last: Vertan
+  - first: Adam
+    full: "Adam Przepi\xF3rkowski"
+    id: adam-przepiorkowski
+    last: "Przepi\xF3rkowski"
+  - first: Dan
+    full: Dan Cristea
+    id: dan-cristea
+    last: Cristea
+  - first: Plovios
+    full: Plovios Raxis
+    id: plovios-raxis
+    last: Raxis
+  author_string: "Anelia Belogay, Diman Karagyozov, Svetla Koeva, Cristina Vertan,\
+    \ Adam Przepi\xF3rkowski, Dan Cristea, Plovios Raxis"
+  bibkey: belogay-etal-2012-harnessing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '6'
+  page_last: '10'
+  pages: "6\u201310"
+  paper_id: '2'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2002.jpg
+  title: Harnessing NLP Techniques in the Processes of Multilingual Content Management
+  title_html: Harnessing <span class="acl-fixed-case">NLP</span> Techniques in the
+    Processes of Multilingual Content Management
+  url: https://www.aclweb.org/anthology/E12-2002
+  year: '2012'
+E12-2003:
+  address: Avignon, France
+  author:
+  - first: Patrik
+    full: Patrik Lambert
+    id: patrik-lambert
+    last: Lambert
+  - first: Jean
+    full: Jean Senellart
+    id: jean-senellart
+    last: Senellart
+  - first: Laurent
+    full: Laurent Romary
+    id: laurent-romary
+    last: Romary
+  - first: Holger
+    full: Holger Schwenk
+    id: holger-schwenk
+    last: Schwenk
+  - first: Florian
+    full: Florian Zipser
+    id: florian-zipser
+    last: Zipser
+  - first: Patrice
+    full: Patrice Lopez
+    id: patrice-lopez
+    last: Lopez
+  - first: "Fr\xE9d\xE9ric"
+    full: "Fr\xE9d\xE9ric Blain"
+    id: frederic-blain
+    last: Blain
+  author_string: "Patrik Lambert, Jean Senellart, Laurent Romary, Holger Schwenk,\
+    \ Florian Zipser, Patrice Lopez, Fr\xE9d\xE9ric Blain"
+  bibkey: lambert-etal-2012-collaborative
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '11'
+  page_last: '15'
+  pages: "11\u201315"
+  paper_id: '3'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2003.jpg
+  title: Collaborative Machine Translation Service for Scientific texts
+  title_html: Collaborative Machine Translation Service for Scientific texts
+  url: https://www.aclweb.org/anthology/E12-2003
+  year: '2012'
+E12-2004:
+  address: Avignon, France
+  author:
+  - first: Chung-chi
+    full: Chung-chi Huang
+    id: chung-chi-huang
+    last: Huang
+  - first: Ping-che
+    full: Ping-che Yang
+    id: ping-che-yang
+    last: Yang
+  - first: Mei-hua
+    full: Mei-hua Chen
+    id: mei-hua-chen
+    last: Chen
+  - first: Hung-ting
+    full: Hung-ting Hsieh
+    id: hung-ting-hsieh
+    last: Hsieh
+  - first: Ting-hui
+    full: Ting-hui Kao
+    id: ting-hui-kao
+    last: Kao
+  - first: Jason S.
+    full: Jason S. Chang
+    id: jason-s-chang
+    last: Chang
+  author_string: Chung-chi Huang, Ping-che Yang, Mei-hua Chen, Hung-ting Hsieh, Ting-hui
+    Kao, Jason S. Chang
+  bibkey: huang-etal-2012-transahead
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '16'
+  page_last: '19'
+  pages: "16\u201319"
+  paper_id: '4'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2004.jpg
+  title: 'TransAhead: A Writing Assistant for CAT and CALL'
+  title_html: '<span class="acl-fixed-case">T</span>rans<span class="acl-fixed-case">A</span>head:
+    A Writing Assistant for <span class="acl-fixed-case">CAT</span> and <span class="acl-fixed-case">CALL</span>'
+  url: https://www.aclweb.org/anthology/E12-2004
+  year: '2012'
+E12-2005:
+  address: Avignon, France
+  author:
+  - first: Tomi
+    full: Tomi Kinnunen
+    id: tomi-kinnunen
+    last: Kinnunen
+  - first: Henri
+    full: Henri Leisma
+    id: henri-leisma
+    last: Leisma
+  - first: Monika
+    full: Monika Machunik
+    id: monika-machunik
+    last: Machunik
+  - first: Tuomo
+    full: Tuomo Kakkonen
+    id: tuomo-kakkonen
+    last: Kakkonen
+  - first: Jean-Luc
+    full: Jean-Luc LeBrun
+    id: jean-luc-lebrun
+    last: LeBrun
+  author_string: Tomi Kinnunen, Henri Leisma, Monika Machunik, Tuomo Kakkonen, Jean-Luc
+    LeBrun
+  bibkey: kinnunen-etal-2012-swan
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '20'
+  page_last: '24'
+  pages: "20\u201324"
+  paper_id: '5'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2005.jpg
+  title: SWAN - Scientific Writing AssistaNt. A Tool for Helping Scholars to Write
+    Reader-Friendly Manuscripts
+  title_html: <span class="acl-fixed-case">SWAN</span> - Scientific Writing <span
+    class="acl-fixed-case">A</span>ssista<span class="acl-fixed-case">N</span>t. A
+    Tool for Helping Scholars to Write Reader-Friendly Manuscripts
+  url: https://www.aclweb.org/anthology/E12-2005
+  year: '2012'
+E12-2006:
+  address: Avignon, France
+  author:
+  - first: Marco
+    full: Marco Turchi
+    id: marco-turchi
+    last: Turchi
+  - first: Martin
+    full: Martin Atkinson
+    id: martin-atkinson
+    last: Atkinson
+  - first: Alastair
+    full: Alastair Wilcox
+    id: alastair-wilcox
+    last: Wilcox
+  - first: Brett
+    full: Brett Crawley
+    id: brett-crawley
+    last: Crawley
+  - first: Stefano
+    full: Stefano Bucci
+    id: stefano-bucci
+    last: Bucci
+  - first: Ralf
+    full: Ralf Steinberger
+    id: ralf-steinberger
+    last: Steinberger
+  - first: Erik
+    full: Erik Van der Goot
+    id: erik-van-der-goot
+    last: Van der Goot
+  author_string: Marco Turchi, Martin Atkinson, Alastair Wilcox, Brett Crawley, Stefano
+    Bucci, Ralf Steinberger, Erik Van der Goot
+  bibkey: turchi-etal-2012-onts
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '25'
+  page_last: '30'
+  pages: "25\u201330"
+  paper_id: '6'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2006.jpg
+  title: "ONTS: \u201COptima\u201D News Translation System"
+  title_html: "<span class=\"acl-fixed-case\">ONTS</span>: \u201COptima\u201D News\
+    \ Translation System"
+  url: https://www.aclweb.org/anthology/E12-2006
+  year: '2012'
+E12-2007:
+  address: Avignon, France
+  author:
+  - first: "C\xE9dric"
+    full: "C\xE9dric Lopez"
+    id: cedric-lopez
+    last: Lopez
+  - first: Violaine
+    full: Violaine Prince
+    id: violaine-prince
+    last: Prince
+  - first: Mathieu
+    full: Mathieu Roche
+    id: mathieu-roche
+    last: Roche
+  author_string: "C\xE9dric Lopez, Violaine Prince, Mathieu Roche"
+  bibkey: lopez-etal-2012-just
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '31'
+  page_last: '34'
+  pages: "31\u201334"
+  paper_id: '7'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2007.jpg
+  title: Just Title It! (by an Online Application)
+  title_html: Just Title It! (by an Online Application)
+  url: https://www.aclweb.org/anthology/E12-2007
+  year: '2012'
+E12-2008:
+  address: Avignon, France
+  author:
+  - first: Hugo
+    full: "Hugo Gon\xE7alo Oliveira"
+    id: hugo-goncalo-oliveira
+    last: "Gon\xE7alo Oliveira"
+  - first: Hernani
+    full: Hernani Costa
+    id: hernani-costa
+    last: Costa
+  - first: Diana
+    full: Diana Santos
+    id: diana-santos
+    last: Santos
+  author_string: "Hugo Gon\xE7alo Oliveira, Hernani Costa, Diana Santos"
+  bibkey: goncalo-oliveira-etal-2012-folheador
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '35'
+  page_last: '40'
+  pages: "35\u201340"
+  paper_id: '8'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2008.jpg
+  title: 'Folheador: browsing through Portuguese semantic relations'
+  title_html: '<span class="acl-fixed-case">F</span>olheador: browsing through <span
+    class="acl-fixed-case">P</span>ortuguese semantic relations'
+  url: https://www.aclweb.org/anthology/E12-2008
+  year: '2012'
+E12-2009:
+  address: Avignon, France
+  author:
+  - first: Alejandro
+    full: "Alejandro Revuelta-Mart\xEDnez"
+    id: alejandro-revuelta-martinez
+    last: "Revuelta-Mart\xEDnez"
+  - first: Luis
+    full: "Luis Rodr\xEDguez"
+    id: luis-rodriguez
+    last: "Rodr\xEDguez"
+  - first: Ismael
+    full: "Ismael Garc\xEDa-Varea"
+    id: ismael-garcia-varea
+    last: "Garc\xEDa-Varea"
+  author_string: "Alejandro Revuelta-Mart\xEDnez, Luis Rodr\xEDguez, Ismael Garc\xED\
+    a-Varea"
+  bibkey: revuelta-martinez-etal-2012-computer
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '41'
+  page_last: '45'
+  pages: "41\u201345"
+  paper_id: '9'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2009.jpg
+  title: A Computer Assisted Speech Transcription System
+  title_html: A Computer Assisted Speech Transcription System
+  url: https://www.aclweb.org/anthology/E12-2009
+  year: '2012'
+E12-2010:
+  address: Avignon, France
+  author:
+  - first: Paul A.
+    full: Paul A. Crook
+    id: paul-a-crook
+    last: Crook
+  - first: Zhuoran
+    full: Zhuoran Wang
+    id: zhuoran-wang
+    last: Wang
+  - first: Xingkun
+    full: Xingkun Liu
+    id: xingkun-liu
+    last: Liu
+  - first: Oliver
+    full: Oliver Lemon
+    id: oliver-lemon
+    last: Lemon
+  author_string: Paul A. Crook, Zhuoran Wang, Xingkun Liu, Oliver Lemon
+  bibkey: crook-etal-2012-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '46'
+  page_last: '50'
+  pages: "46\u201350"
+  paper_id: '10'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2010.jpg
+  title: A Statistical Spoken Dialogue System using Complex User Goals and Value Directed
+    Compression
+  title_html: A Statistical Spoken Dialogue System using Complex User Goals and Value
+    Directed Compression
+  url: https://www.aclweb.org/anthology/E12-2010
+  year: '2012'
+E12-2011:
+  address: Avignon, France
+  author:
+  - first: "Enik\u0151"
+    full: "Enik\u0151 H\xE9ja"
+    id: eniko-heja
+    last: "H\xE9ja"
+  - first: "D\xE1vid"
+    full: "D\xE1vid Tak\xE1cs"
+    id: david-takacs
+    last: "Tak\xE1cs"
+  author_string: "Enik\u0151 H\xE9ja, D\xE1vid Tak\xE1cs"
+  bibkey: heja-takacs-2012-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '51'
+  page_last: '57'
+  pages: "51\u201357"
+  paper_id: '11'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2011.jpg
+  title: Automatically Generated Customizable Online Dictionaries
+  title_html: Automatically Generated Customizable Online Dictionaries
+  url: https://www.aclweb.org/anthology/E12-2011
+  year: '2012'
+E12-2012:
+  address: Avignon, France
+  author:
+  - first: Miguel
+    full: Miguel Ballesteros
+    id: miguel-ballesteros
+    last: Ballesteros
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  author_string: Miguel Ballesteros, Joakim Nivre
+  bibkey: ballesteros-nivre-2012-maltoptimizer
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '58'
+  page_last: '62'
+  pages: "58\u201362"
+  paper_id: '12'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2012.jpg
+  title: 'MaltOptimizer: An Optimization Tool for MaltParser'
+  title_html: '<span class="acl-fixed-case">M</span>alt<span class="acl-fixed-case">O</span>ptimizer:
+    An Optimization Tool for <span class="acl-fixed-case">M</span>alt<span class="acl-fixed-case">P</span>arser'
+  url: https://www.aclweb.org/anthology/E12-2012
+  year: '2012'
+E12-2013:
+  address: Avignon, France
+  author:
+  - first: Remi
+    full: Remi van Trijp
+    id: remi-van-trijp
+    last: van Trijp
+  - first: Luc
+    full: Luc Steels
+    id: luc-steels
+    last: Steels
+  - first: Katrien
+    full: Katrien Beuls
+    id: katrien-beuls
+    last: Beuls
+  - first: Pieter
+    full: Pieter Wellens
+    id: pieter-wellens
+    last: Wellens
+  author_string: Remi van Trijp, Luc Steels, Katrien Beuls, Pieter Wellens
+  bibkey: van-trijp-etal-2012-fluid
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '63'
+  page_last: '68'
+  pages: "63\u201368"
+  paper_id: '13'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2013.jpg
+  title: 'Fluid Construction Grammar: The New Kid on the Block'
+  title_html: 'Fluid Construction Grammar: The New Kid on the Block'
+  url: https://www.aclweb.org/anthology/E12-2013
+  year: '2012'
+E12-2014:
+  address: Avignon, France
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Paul
+    full: Paul Cook
+    id: paul-cook
+    last: Cook
+  - first: Bo
+    full: Bo Han
+    id: bo-han
+    last: Han
+  - first: Aaron
+    full: Aaron Harwood
+    id: aaron-harwood
+    last: Harwood
+  - first: Shanika
+    full: Shanika Karunasekera
+    id: shanika-karunasekera
+    last: Karunasekera
+  - first: Masud
+    full: Masud Moshtaghi
+    id: masud-moshtaghi
+    last: Moshtaghi
+  author_string: Timothy Baldwin, Paul Cook, Bo Han, Aaron Harwood, Shanika Karunasekera,
+    Masud Moshtaghi
+  bibkey: baldwin-etal-2012-support
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '69'
+  page_last: '72'
+  pages: "69\u201372"
+  paper_id: '14'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2014.jpg
+  title: A Support Platform for Event Detection using Social Intelligence
+  title_html: A Support Platform for Event Detection using Social Intelligence
+  url: https://www.aclweb.org/anthology/E12-2014
+  year: '2012'
+E12-2015:
+  address: Avignon, France
+  author:
+  - first: Giuseppe
+    full: Giuseppe Rizzo
+    id: giuseppe-rizzo
+    last: Rizzo
+  - first: "Rapha\xEBl"
+    full: "Rapha\xEBl Troncy"
+    id: raphael-troncy
+    last: Troncy
+  author_string: "Giuseppe Rizzo, Rapha\xEBl Troncy"
+  bibkey: rizzo-troncy-2012-nerd
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '73'
+  page_last: '76'
+  pages: "73\u201376"
+  paper_id: '15'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2015.jpg
+  title: 'NERD: A Framework for Unifying Named Entity Recognition and Disambiguation
+    Extraction Tools'
+  title_html: '<span class="acl-fixed-case">NERD</span>: A Framework for Unifying
+    Named Entity Recognition and Disambiguation Extraction Tools'
+  url: https://www.aclweb.org/anthology/E12-2015
+  year: '2012'
+E12-2016:
+  address: Avignon, France
+  author:
+  - first: Svetla
+    full: Svetla Boytcheva
+    id: svetla-boytcheva
+    last: Boytcheva
+  - first: Galia
+    full: Galia Angelova
+    id: galia-angelova
+    last: Angelova
+  - first: Ivelina
+    full: Ivelina Nikolova
+    id: ivelina-nikolova
+    last: Nikolova
+  author_string: Svetla Boytcheva, Galia Angelova, Ivelina Nikolova
+  bibkey: boytcheva-etal-2012-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '77'
+  page_last: '81'
+  pages: "77\u201381"
+  paper_id: '16'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2016.jpg
+  title: Automatic Analysis of Patient History Episodes in Bulgarian Hospital Discharge
+    Letters
+  title_html: Automatic Analysis of Patient History Episodes in <span class="acl-fixed-case">B</span>ulgarian
+    Hospital Discharge Letters
+  url: https://www.aclweb.org/anthology/E12-2016
+  year: '2012'
+E12-2017:
+  address: Avignon, France
+  author:
+  - first: Saatviga
+    full: Saatviga Sudhahar
+    id: saatviga-sudhahar
+    last: Sudhahar
+  - first: Thomas
+    full: Thomas Lansdall-Welfare
+    id: thomas-lansdall-welfare
+    last: Lansdall-Welfare
+  - first: Ilias
+    full: Ilias Flaounas
+    id: ilias-flaounas
+    last: Flaounas
+  - first: Nello
+    full: Nello Cristianini
+    id: nello-cristianini
+    last: Cristianini
+  author_string: Saatviga Sudhahar, Thomas Lansdall-Welfare, Ilias Flaounas, Nello
+    Cristianini
+  bibkey: sudhahar-etal-2012-electionwatch
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '82'
+  page_last: '86'
+  pages: "82\u201386"
+  paper_id: '17'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2017.jpg
+  title: 'ElectionWatch: Detecting Patterns in News Coverage of US Elections'
+  title_html: '<span class="acl-fixed-case">E</span>lection<span class="acl-fixed-case">W</span>atch:
+    Detecting Patterns in News Coverage of <span class="acl-fixed-case">US</span>
+    Elections'
+  url: https://www.aclweb.org/anthology/E12-2017
+  year: '2012'
+E12-2018:
+  address: Avignon, France
+  author:
+  - first: Marco
+    full: Marco Trevisan
+    id: marco-trevisan
+    last: Trevisan
+  - first: Eduard
+    full: Eduard Barbu
+    id: eduard-barbu
+    last: Barbu
+  - first: Igor
+    full: Igor Barsanti
+    id: igor-barsanti
+    last: Barsanti
+  - first: Luca
+    full: Luca Dini
+    id: luca-dini
+    last: Dini
+  - first: Nikolaos
+    full: Nikolaos Lagos
+    id: nikolaos-lagos
+    last: Lagos
+  - first: "Fr\xE9d\xE9rique"
+    full: "Fr\xE9d\xE9rique Segond"
+    id: frederique-segond
+    last: Segond
+  - first: Mathieu
+    full: Mathieu Rhulmann
+    id: mathieu-rhulmann
+    last: Rhulmann
+  - first: Ed
+    full: Ed Vald
+    id: ed-vald
+    last: Vald
+  author_string: "Marco Trevisan, Eduard Barbu, Igor Barsanti, Luca Dini, Nikolaos\
+    \ Lagos, Fr\xE9d\xE9rique Segond, Mathieu Rhulmann, Ed Vald"
+  bibkey: trevisan-etal-2012-query
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '87'
+  page_last: '91'
+  pages: "87\u201391"
+  paper_id: '18'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2018.jpg
+  title: Query log analysis with LangLog
+  title_html: Query log analysis with <span class="acl-fixed-case">L</span>ang<span
+    class="acl-fixed-case">L</span>og
+  url: https://www.aclweb.org/anthology/E12-2018
+  year: '2012'
+E12-2019:
+  address: Avignon, France
+  author:
+  - first: Valerio
+    full: Valerio Basile
+    id: valerio-basile
+    last: Basile
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  - first: Kilian
+    full: Kilian Evang
+    id: kilian-evang
+    last: Evang
+  - first: Noortje
+    full: Noortje Venhuizen
+    id: noortje-venhuizen
+    last: Venhuizen
+  author_string: Valerio Basile, Johan Bos, Kilian Evang, Noortje Venhuizen
+  bibkey: basile-etal-2012-platform
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '92'
+  page_last: '96'
+  pages: "92\u201396"
+  paper_id: '19'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2019.jpg
+  title: A platform for collaborative semantic annotation
+  title_html: A platform for collaborative semantic annotation
+  url: https://www.aclweb.org/anthology/E12-2019
+  year: '2012'
+E12-2020:
+  address: Avignon, France
+  author:
+  - first: Andrea
+    full: Andrea Gesmundo
+    id: andrea-gesmundo
+    last: Gesmundo
+  - first: Nadi
+    full: Nadi Tomeh
+    id: nadi-tomeh
+    last: Tomeh
+  author_string: Andrea Gesmundo, Nadi Tomeh
+  bibkey: gesmundo-tomeh-2012-hadoopperceptron
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '97'
+  page_last: '101'
+  pages: "97\u2013101"
+  paper_id: '20'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2020.jpg
+  title: 'HadoopPerceptron: a Toolkit for Distributed Perceptron Training and Prediction
+    with MapReduce'
+  title_html: '<span class="acl-fixed-case">H</span>adoop<span class="acl-fixed-case">P</span>erceptron:
+    a Toolkit for Distributed Perceptron Training and Prediction with <span class="acl-fixed-case">M</span>ap<span
+    class="acl-fixed-case">R</span>educe'
+  url: https://www.aclweb.org/anthology/E12-2020
+  year: '2012'
+E12-2021:
+  address: Avignon, France
+  author:
+  - first: Pontus
+    full: Pontus Stenetorp
+    id: pontus-stenetorp
+    last: Stenetorp
+  - first: Sampo
+    full: Sampo Pyysalo
+    id: sampo-pyysalo
+    last: Pyysalo
+  - first: Goran
+    full: "Goran Topi\u0107"
+    id: goran-topic
+    last: "Topi\u0107"
+  - first: Tomoko
+    full: Tomoko Ohta
+    id: tomoko-ohta
+    last: Ohta
+  - first: Sophia
+    full: Sophia Ananiadou
+    id: sophia-ananiadou
+    last: Ananiadou
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Pontus Stenetorp, Sampo Pyysalo, Goran Topi\u0107, Tomoko Ohta,\
+    \ Sophia Ananiadou, Jun\u2019ichi Tsujii"
+  bibkey: stenetorp-etal-2012-brat
+  bibtype: inproceedings
+  booktitle: Proceedings of the Demonstrations at the 13th Conference of the European
+    Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Demonstrations at the 13th Conference of the
+    <span class="acl-fixed-case">E</span>uropean Chapter of the Association for Computational
+    Linguistics
+  month: April
+  page_first: '102'
+  page_last: '107'
+  pages: "102\u2013107"
+  paper_id: '21'
+  parent_volume_id: E12-2
+  pdf: https://www.aclweb.org/anthology/E12-2021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-2021.jpg
+  title: 'brat: a Web-based Tool for NLP-Assisted Text Annotation'
+  title_html: 'brat: a Web-based Tool for <span class="acl-fixed-case">NLP</span>-Assisted
+    Text Annotation'
+  url: https://www.aclweb.org/anthology/E12-2021
+  year: '2012'
+E12-3000:
+  address: Avignon, France
+  author:
+  - first: Pierre
+    full: Pierre Lison
+    id: pierre-lison
+    last: Lison
+  - first: Mattias
+    full: Mattias Nilsson
+    id: mattias-nilsson
+    last: Nilsson
+  - first: Marta
+    full: Marta Recasens
+    id: marta-recasens
+    last: Recasens
+  author_string: Pierre Lison, Mattias Nilsson, Marta Recasens
+  bibkey: eacl-2012-student
+  bibtype: proceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  month: April
+  paper_id: '0'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3000.jpg
+  title: Proceedings of the Student Research Workshop at the 13th Conference of the
+    European Chapter of the Association for Computational Linguistics
+  title_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  url: https://www.aclweb.org/anthology/E12-3000
+  year: '2012'
+E12-3001:
+  address: Avignon, France
+  author:
+  - first: Liane
+    full: Liane Guillou
+    id: liane-guillou
+    last: Guillou
+  author_string: Liane Guillou
+  bibkey: guillou-2012-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '1'
+  page_last: '10'
+  pages: "1\u201310"
+  paper_id: '1'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3001.jpg
+  title: Improving Pronoun Translation for Statistical Machine Translation
+  title_html: Improving Pronoun Translation for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/E12-3001
+  year: '2012'
+E12-3002:
+  address: Avignon, France
+  author:
+  - first: Philipp
+    full: Philipp Petrenz
+    id: philipp-petrenz
+    last: Petrenz
+  author_string: Philipp Petrenz
+  bibkey: petrenz-2012-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '11'
+  page_last: '21'
+  pages: "11\u201321"
+  paper_id: '2'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3002.jpg
+  title: Cross-Lingual Genre Classification
+  title_html: Cross-Lingual Genre Classification
+  url: https://www.aclweb.org/anthology/E12-3002
+  year: '2012'
+E12-3003:
+  address: Avignon, France
+  author:
+  - first: Alexandros
+    full: Alexandros Papangelis
+    id: alexandros-papangelis
+    last: Papangelis
+  author_string: Alexandros Papangelis
+  bibkey: papangelis-2012-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '22'
+  page_last: '31'
+  pages: "22\u201331"
+  paper_id: '3'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3003.jpg
+  title: A Comparative Study of Reinforcement Learning Techniques on Dialogue Management
+  title_html: A Comparative Study of Reinforcement Learning Techniques on Dialogue
+    Management
+  url: https://www.aclweb.org/anthology/E12-3003
+  year: '2012'
+E12-3004:
+  address: Avignon, France
+  author:
+  - first: Tin Htay
+    full: Tin Htay Hlaing
+    id: tin-htay-hlaing
+    last: Hlaing
+  author_string: Tin Htay Hlaing
+  bibkey: hlaing-2012-manually
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '32'
+  page_last: '37'
+  pages: "32\u201337"
+  paper_id: '4'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3004.jpg
+  title: Manually constructed context-free grammar for Myanmar syllable structure
+  title_html: Manually constructed context-free grammar for <span class="acl-fixed-case">M</span>yanmar
+    syllable structure
+  url: https://www.aclweb.org/anthology/E12-3004
+  year: '2012'
+E12-3005:
+  address: Avignon, France
+  author:
+  - first: Claudiu
+    full: "Claudiu Mih\u0103il\u0103"
+    id: claudiu-mihaila
+    last: "Mih\u0103il\u0103"
+  - first: Riza Theresa
+    full: Riza Theresa Batista-Navarro
+    id: riza-theresa-batista-navarro
+    last: Batista-Navarro
+  author_string: "Claudiu Mih\u0103il\u0103, Riza Theresa Batista-Navarro"
+  bibkey: mihaila-batista-navarro-2012-whats
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '38'
+  page_last: '45'
+  pages: "38\u201345"
+  paper_id: '5'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3005.jpg
+  title: "What\u2019s in a Name? Entity Type Variation across Two Biomedical Subdomains"
+  title_html: "What\u2019s in a Name? Entity Type Variation across Two Biomedical\
+    \ Subdomains"
+  url: https://www.aclweb.org/anthology/E12-3005
+  year: '2012'
+E12-3006:
+  address: Avignon, France
+  author:
+  - first: Martin
+    full: "Martin Majli\u0161"
+    id: martin-majlis
+    last: "Majli\u0161"
+  author_string: "Martin Majli\u0161"
+  bibkey: majlis-2012-yet
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '46'
+  page_last: '54'
+  pages: "46\u201354"
+  paper_id: '6'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3006.jpg
+  title: Yet Another Language Identifier
+  title_html: Yet Another Language Identifier
+  url: https://www.aclweb.org/anthology/E12-3006
+  year: '2012'
+E12-3007:
+  address: Avignon, France
+  author:
+  - first: Christelle
+    full: Christelle Cocco
+    id: christelle-cocco
+    last: Cocco
+  author_string: Christelle Cocco
+  bibkey: cocco-2012-discourse
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '55'
+  page_last: '63'
+  pages: "55\u201363"
+  paper_id: '7'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3007.jpg
+  title: Discourse Type Clustering using POS n-gram Profiles and High-Dimensional
+    Embeddings
+  title_html: Discourse Type Clustering using <span class="acl-fixed-case">POS</span>
+    n-gram Profiles and High-Dimensional Embeddings
+  url: https://www.aclweb.org/anthology/E12-3007
+  year: '2012'
+E12-3008:
+  address: Avignon, France
+  author:
+  - first: Jan A.
+    full: Jan A. Botha
+    id: jan-a-botha
+    last: Botha
+  author_string: Jan A. Botha
+  bibkey: botha-2012-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '64'
+  page_last: '73'
+  pages: "64\u201373"
+  paper_id: '8'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3008.jpg
+  title: Hierarchical Bayesian Language Modelling for the Linguistically Informed
+  title_html: Hierarchical <span class="acl-fixed-case">B</span>ayesian Language Modelling
+    for the Linguistically Informed
+  url: https://www.aclweb.org/anthology/E12-3008
+  year: '2012'
+E12-3009:
+  address: Avignon, France
+  author:
+  - first: Aleksander
+    full: Aleksander Wawer
+    id: aleksander-wawer
+    last: Wawer
+  author_string: Aleksander Wawer
+  bibkey: wawer-2012-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '74'
+  page_last: '80'
+  pages: "74\u201380"
+  paper_id: '9'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3009.jpg
+  title: Mining Co-Occurrence Matrices for SO-PMI Paradigm Word Candidates
+  title_html: Mining Co-Occurrence Matrices for <span class="acl-fixed-case">SO</span>-<span
+    class="acl-fixed-case">PMI</span> Paradigm Word Candidates
+  url: https://www.aclweb.org/anthology/E12-3009
+  year: '2012'
+E12-3010:
+  address: Avignon, France
+  author:
+  - first: Lorenza
+    full: Lorenza Russo
+    id: lorenza-russo
+    last: Russo
+  - first: Sharid
+    full: "Sharid Lo\xE1iciga"
+    id: sharid-loaiciga
+    last: "Lo\xE1iciga"
+  - first: Asheesh
+    full: Asheesh Gulati
+    id: asheesh-gulati
+    last: Gulati
+  author_string: "Lorenza Russo, Sharid Lo\xE1iciga, Asheesh Gulati"
+  bibkey: russo-etal-2012-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the Student Research Workshop at the 13th Conference of
+    the European Chapter of the Association for Computational Linguistics
+  booktitle_html: Proceedings of the Student Research Workshop at the 13th Conference
+    of the <span class="acl-fixed-case">E</span>uropean Chapter of the Association
+    for Computational Linguistics
+  month: April
+  page_first: '81'
+  page_last: '89'
+  pages: "81\u201389"
+  paper_id: '10'
+  parent_volume_id: E12-3
+  pdf: https://www.aclweb.org/anthology/E12-3010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/E12-3010.jpg
+  title: Improving machine translation of null subjects in Italian and Spanish
+  title_html: Improving machine translation of null subjects in <span class="acl-fixed-case">I</span>talian
+    and <span class="acl-fixed-case">S</span>panish
+  url: https://www.aclweb.org/anthology/E12-3010
+  year: '2012'

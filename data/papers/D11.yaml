@@ -1,0 +1,5557 @@
+D11-1000:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Regina Barzilay, Mark Johnson
+  bibkey: emnlp-2011-2011
+  bibtype: proceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  month: July
+  paper_id: '0'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1000.jpg
+  title: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  title_html: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  url: https://www.aclweb.org/anthology/D11-1000
+  year: '2011'
+D11-1001:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Sebastian Riedel, Andrew McCallum
+  bibkey: riedel-mccallum-2011-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1'
+  page_last: '12'
+  pages: "1\u201312"
+  paper_id: '1'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1001.jpg
+  title: Fast and Robust Joint Models for Biomedical Event Extraction
+  title_html: Fast and Robust Joint Models for Biomedical Event Extraction
+  url: https://www.aclweb.org/anthology/D11-1001
+  year: '2011'
+D11-1002:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Li
+    full: Li Wang
+    id: li-wang
+    last: Wang
+  - first: Marco
+    full: Marco Lui
+    id: marco-lui
+    last: Lui
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  author_string: Li Wang, Marco Lui, Su Nam Kim, Joakim Nivre, Timothy Baldwin
+  bibkey: wang-etal-2011-predicting-thread
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '13'
+  page_last: '25'
+  pages: "13\u201325"
+  paper_id: '2'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1002.jpg
+  title: Predicting Thread Discourse Structure over Technical Web Forums
+  title_html: Predicting Thread Discourse Structure over Technical Web Forums
+  url: https://www.aclweb.org/anthology/D11-1002
+  year: '2011'
+D11-1003:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1003.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1003.Attachment.pdf
+  author:
+  - first: Yin-Wen
+    full: Yin-Wen Chang
+    id: yin-wen-chang
+    last: Chang
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Yin-Wen Chang, Michael Collins
+  bibkey: chang-collins-2011-exact
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '26'
+  page_last: '37'
+  pages: "26\u201337"
+  paper_id: '3'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1003.jpg
+  title: Exact Decoding of Phrase-Based Translation Models through Lagrangian Relaxation
+  title_html: Exact Decoding of Phrase-Based Translation Models through <span class="acl-fixed-case">L</span>agrangian
+    Relaxation
+  url: https://www.aclweb.org/anthology/D11-1003
+  year: '2011'
+D11-1004:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Michel
+    full: Michel Galley
+    id: michel-galley
+    last: Galley
+  - first: Chris
+    full: Chris Quirk
+    id: chris-quirk
+    last: Quirk
+  author_string: Michel Galley, Chris Quirk
+  bibkey: galley-quirk-2011-optimal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '38'
+  page_last: '49'
+  pages: "38\u201349"
+  paper_id: '4'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1004.jpg
+  title: Optimal Search for Minimum Error Rate Training
+  title_html: Optimal Search for Minimum Error Rate Training
+  url: https://www.aclweb.org/anthology/D11-1004
+  year: '2011'
+D11-1005:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  - first: Dipanjan
+    full: Dipanjan Das
+    id: dipanjan-das
+    last: Das
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Shay B. Cohen, Dipanjan Das, Noah A. Smith
+  bibkey: cohen-etal-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '50'
+  page_last: '61'
+  pages: "50\u201361"
+  paper_id: '5'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1005.jpg
+  title: Unsupervised Structure Prediction with Non-Parallel Multilingual Guidance
+  title_html: Unsupervised Structure Prediction with Non-Parallel Multilingual Guidance
+  url: https://www.aclweb.org/anthology/D11-1005
+  year: '2011'
+D11-1006:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Keith
+    full: Keith Hall
+    id: keith-hall
+    last: Hall
+  author_string: Ryan McDonald, Slav Petrov, Keith Hall
+  bibkey: mcdonald-etal-2011-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '62'
+  page_last: '72'
+  pages: "62\u201372"
+  paper_id: '6'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1006.jpg
+  title: Multi-Source Transfer of Delexicalized Dependency Parsers
+  title_html: Multi-Source Transfer of Delexicalized Dependency Parsers
+  url: https://www.aclweb.org/anthology/D11-1006
+  year: '2011'
+D11-1007:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Wenliang
+    full: Wenliang Chen
+    id: wenliang-chen
+    last: Chen
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Yoshimasa
+    full: Yoshimasa Tsuruoka
+    id: yoshimasa-tsuruoka
+    last: Tsuruoka
+  - first: Yujie
+    full: Yujie Zhang
+    id: yujie-zhang
+    last: Zhang
+  - first: Yiou
+    full: Yiou Wang
+    id: yiou-wang
+    last: Wang
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  author_string: "Wenliang Chen, Jun\u2019ichi Kazama, Min Zhang, Yoshimasa Tsuruoka,\
+    \ Yujie Zhang, Yiou Wang, Kentaro Torisawa, Haizhou Li"
+  bibkey: chen-etal-2011-smt
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '73'
+  page_last: '83'
+  pages: "73\u201383"
+  paper_id: '7'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1007.jpg
+  title: SMT Helps Bitext Dependency Parsing
+  title_html: <span class="acl-fixed-case">SMT</span> Helps Bitext Dependency Parsing
+  url: https://www.aclweb.org/anthology/D11-1007
+  year: '2011'
+D11-1008:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1008.Attachment.gz
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1008.Attachment.gz
+  author:
+  - first: Federico
+    full: Federico Sangati
+    id: federico-sangati
+    last: Sangati
+  - first: Willem
+    full: Willem Zuidema
+    id: willem-zuidema
+    last: Zuidema
+  author_string: Federico Sangati, Willem Zuidema
+  bibkey: sangati-zuidema-2011-accurate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '84'
+  page_last: '95'
+  pages: "84\u201395"
+  paper_id: '8'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1008.jpg
+  title: 'Accurate Parsing with Compact Tree-Substitution Grammars: Double-DOP'
+  title_html: 'Accurate Parsing with Compact Tree-Substitution Grammars: Double-<span
+    class="acl-fixed-case">DOP</span>'
+  url: https://www.aclweb.org/anthology/D11-1008
+  year: '2011'
+D11-1009:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1009.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1009.Attachment.zip
+  author:
+  - first: Prodromos
+    full: Prodromos Malakasiotis
+    id: prodromos-malakasiotis
+    last: Malakasiotis
+  - first: Ion
+    full: Ion Androutsopoulos
+    id: ion-androutsopoulos
+    last: Androutsopoulos
+  author_string: Prodromos Malakasiotis, Ion Androutsopoulos
+  bibkey: malakasiotis-androutsopoulos-2011-generate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '96'
+  page_last: '106'
+  pages: "96\u2013106"
+  paper_id: '9'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1009.jpg
+  title: A Generate and Rank Approach to Sentence Paraphrasing
+  title_html: A Generate and Rank Approach to Sentence Paraphrasing
+  url: https://www.aclweb.org/anthology/D11-1009
+  year: '2011'
+D11-1010:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Daniel
+    full: Daniel Dahlmeier
+    id: daniel-dahlmeier
+    last: Dahlmeier
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Daniel Dahlmeier, Hwee Tou Ng
+  bibkey: dahlmeier-ng-2011-correcting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '107'
+  page_last: '117'
+  pages: "107\u2013117"
+  paper_id: '10'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1010.jpg
+  title: Correcting Semantic Collocation Errors with L1-induced Paraphrases
+  title_html: Correcting Semantic Collocation Errors with <span class="acl-fixed-case">L</span>1-induced
+    Paraphrases
+  url: https://www.aclweb.org/anthology/D11-1010
+  year: '2011'
+D11-1011:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  - first: Konstantin
+    full: Konstantin Voevodski
+    id: konstantin-voevodski
+    last: Voevodski
+  - first: Shanghua
+    full: Shanghua Teng
+    id: shanghua-teng
+    last: Teng
+  author_string: Zornitsa Kozareva, Konstantin Voevodski, Shanghua Teng
+  bibkey: kozareva-etal-2011-class
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '118'
+  page_last: '128'
+  pages: "118\u2013128"
+  paper_id: '11'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1011.jpg
+  title: Class Label Enhancement via Related Instances
+  title_html: Class Label Enhancement via Related Instances
+  url: https://www.aclweb.org/anthology/D11-1011
+  year: '2011'
+D11-1012:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Vivek
+    full: Vivek Srikumar
+    id: vivek-srikumar
+    last: Srikumar
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Vivek Srikumar, Dan Roth
+  bibkey: srikumar-roth-2011-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '129'
+  page_last: '139'
+  pages: "129\u2013139"
+  paper_id: '12'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1012.jpg
+  title: A Joint Model for Extended Semantic Role Labeling
+  title_html: A Joint Model for Extended Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/D11-1012
+  year: '2011'
+D11-1013:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1013.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1013.Attachment.zip
+  author:
+  - first: Jianxing
+    full: Jianxing Yu
+    id: jianxing-yu
+    last: Yu
+  - first: Zheng-Jun
+    full: Zheng-Jun Zha
+    id: zheng-jun-zha
+    last: Zha
+  - first: Meng
+    full: Meng Wang
+    id: meng-wang
+    last: Wang
+  - first: Kai
+    full: Kai Wang
+    id: kai-wang
+    last: Wang
+  - first: Tat-Seng
+    full: Tat-Seng Chua
+    id: tat-seng-chua
+    last: Chua
+  author_string: Jianxing Yu, Zheng-Jun Zha, Meng Wang, Kai Wang, Tat-Seng Chua
+  bibkey: yu-etal-2011-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '140'
+  page_last: '150'
+  pages: "140\u2013150"
+  paper_id: '13'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1013.jpg
+  title: 'Domain-Assisted Product Aspect Hierarchy Generation: Towards Hierarchical
+    Organization of Unstructured Consumer Reviews'
+  title_html: 'Domain-Assisted Product Aspect Hierarchy Generation: Towards Hierarchical
+    Organization of Unstructured Consumer Reviews'
+  url: https://www.aclweb.org/anthology/D11-1013
+  year: '2011'
+D11-1014:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1014.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1014.Attachment.pdf
+  author:
+  - first: Richard
+    full: Richard Socher
+    id: richard-socher
+    last: Socher
+  - first: Jeffrey
+    full: Jeffrey Pennington
+    id: jeffrey-pennington
+    last: Pennington
+  - first: Eric H.
+    full: Eric H. Huang
+    id: eric-h-huang
+    last: Huang
+  - first: Andrew Y.
+    full: Andrew Y. Ng
+    id: andrew-y-ng
+    last: Ng
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Richard Socher, Jeffrey Pennington, Eric H. Huang, Andrew Y. Ng,
+    Christopher D. Manning
+  bibkey: socher-etal-2011-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '151'
+  page_last: '161'
+  pages: "151\u2013161"
+  paper_id: '14'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1014.jpg
+  title: Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions
+  title_html: Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions
+  url: https://www.aclweb.org/anthology/D11-1014
+  year: '2011'
+D11-1015:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Lanjun
+    full: Lanjun Zhou
+    id: lanjun-zhou
+    last: Zhou
+  - first: Binyang
+    full: Binyang Li
+    id: binyang-li
+    last: Li
+  - first: Wei
+    full: Wei Gao
+    id: wei-gao
+    last: Gao
+  - first: Zhongyu
+    full: Zhongyu Wei
+    id: zhongyu-wei
+    last: Wei
+  - first: Kam-Fai
+    full: Kam-Fai Wong
+    id: kam-fai-wong
+    last: Wong
+  author_string: Lanjun Zhou, Binyang Li, Wei Gao, Zhongyu Wei, Kam-Fai Wong
+  bibkey: zhou-etal-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '162'
+  page_last: '171'
+  pages: "162\u2013171"
+  paper_id: '15'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1015.jpg
+  title: Unsupervised Discovery of Discourse Relations for Eliminating Intra-sentence
+    Polarity Ambiguities
+  title_html: Unsupervised Discovery of Discourse Relations for Eliminating Intra-sentence
+    Polarity Ambiguities
+  url: https://www.aclweb.org/anthology/D11-1015
+  year: '2011'
+D11-1016:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ainur
+    full: Ainur Yessenalina
+    id: ainur-yessenalina
+    last: Yessenalina
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Ainur Yessenalina, Claire Cardie
+  bibkey: yessenalina-cardie-2011-compositional
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '172'
+  page_last: '182'
+  pages: "172\u2013182"
+  paper_id: '16'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1016.jpg
+  title: Compositional Matrix-Space Models for Sentiment Analysis
+  title_html: Compositional Matrix-Space Models for Sentiment Analysis
+  url: https://www.aclweb.org/anthology/D11-1016
+  year: '2011'
+D11-1017:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Jason
+    full: Jason Katz-Brown
+    id: jason-katz-brown
+    last: Katz-Brown
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Franz
+    full: Franz Och
+    id: franz-josef-och
+    last: Och
+  - first: David
+    full: David Talbot
+    id: david-talbot
+    last: Talbot
+  - first: Hiroshi
+    full: Hiroshi Ichikawa
+    id: hiroshi-ichikawa
+    last: Ichikawa
+  - first: Masakazu
+    full: Masakazu Seno
+    id: masakazu-seno
+    last: Seno
+  - first: Hideto
+    full: Hideto Kazawa
+    id: hideto-kazawa
+    last: Kazawa
+  author_string: Jason Katz-Brown, Slav Petrov, Ryan McDonald, Franz Och, David Talbot,
+    Hiroshi Ichikawa, Masakazu Seno, Hideto Kazawa
+  bibkey: katz-brown-etal-2011-training
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '183'
+  page_last: '192'
+  pages: "183\u2013192"
+  paper_id: '17'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1017.jpg
+  title: Training a Parser for Machine Translation Reordering
+  title_html: Training a Parser for Machine Translation Reordering
+  url: https://www.aclweb.org/anthology/D11-1017
+  year: '2011'
+D11-1018:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: John
+    full: John DeNero
+    id: john-denero
+    last: DeNero
+  - first: Jakob
+    full: Jakob Uszkoreit
+    id: jakob-uszkoreit
+    last: Uszkoreit
+  author_string: John DeNero, Jakob Uszkoreit
+  bibkey: denero-uszkoreit-2011-inducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '193'
+  page_last: '203'
+  pages: "193\u2013203"
+  paper_id: '18'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1018.jpg
+  title: Inducing Sentence Structure from Parallel Corpora for Reordering
+  title_html: Inducing Sentence Structure from Parallel Corpora for Reordering
+  url: https://www.aclweb.org/anthology/D11-1018
+  year: '2011'
+D11-1019:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Jiajun
+    full: Jiajun Zhang
+    id: jiajun-zhang
+    last: Zhang
+  - first: Feifei
+    full: Feifei Zhai
+    id: feifei-zhai
+    last: Zhai
+  - first: Chengqing
+    full: Chengqing Zong
+    id: chengqing-zong
+    last: Zong
+  author_string: Jiajun Zhang, Feifei Zhai, Chengqing Zong
+  bibkey: zhang-etal-2011-augmenting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '204'
+  page_last: '215'
+  pages: "204\u2013215"
+  paper_id: '19'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1019.jpg
+  title: Augmenting String-to-Tree Translation Models with Fuzzy Use of Source-side
+    Syntax
+  title_html: Augmenting String-to-Tree Translation Models with Fuzzy Use of Source-side
+    Syntax
+  url: https://www.aclweb.org/anthology/D11-1019
+  year: '2011'
+D11-1020:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Jun
+    full: Jun Xie
+    id: jun-xie
+    last: Xie
+  - first: Haitao
+    full: Haitao Mi
+    id: haitao-mi
+    last: Mi
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  author_string: Jun Xie, Haitao Mi, Qun Liu
+  bibkey: xie-etal-2011-novel
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '216'
+  page_last: '226'
+  pages: "216\u2013226"
+  paper_id: '20'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1020.jpg
+  title: A novel dependency-to-string model for statistical machine translation
+  title_html: A novel dependency-to-string model for statistical machine translation
+  url: https://www.aclweb.org/anthology/D11-1020
+  year: '2011'
+D11-1021:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1021.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1021.Attachment.zip
+  author:
+  - first: David
+    full: David Mimno
+    id: david-mimno
+    last: Mimno
+  - first: David
+    full: David Blei
+    id: david-blei
+    last: Blei
+  author_string: David Mimno, David Blei
+  bibkey: mimno-blei-2011-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '227'
+  page_last: '237'
+  pages: "227\u2013237"
+  paper_id: '21'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1021.jpg
+  title: Bayesian Checking for Topic Models
+  title_html: <span class="acl-fixed-case">B</span>ayesian Checking for Topic Models
+  url: https://www.aclweb.org/anthology/D11-1021
+  year: '2011'
+D11-1022:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1022.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1022.Attachment.pdf
+  author:
+  - first: "Andr\xE9"
+    full: "Andr\xE9 Martins"
+    id: andre-f-t-martins
+    last: Martins
+  - first: Noah
+    full: Noah Smith
+    id: noah-a-smith
+    last: Smith
+  - first: "M\xE1rio"
+    full: "M\xE1rio Figueiredo"
+    id: mario-figueiredo
+    last: Figueiredo
+  - first: Pedro
+    full: Pedro Aguiar
+    id: pedro-aguiar
+    last: Aguiar
+  author_string: "Andr\xE9 Martins, Noah Smith, M\xE1rio Figueiredo, Pedro Aguiar"
+  bibkey: martins-etal-2011-dual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '238'
+  page_last: '249'
+  pages: "238\u2013249"
+  paper_id: '22'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1022.jpg
+  title: Dual Decomposition with Many Overlapping Components
+  title_html: Dual Decomposition with Many Overlapping Components
+  url: https://www.aclweb.org/anthology/D11-1022
+  year: '2011'
+D11-1023:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Amit
+    full: Amit Goyal
+    id: amit-goyal
+    last: Goyal
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  author_string: "Amit Goyal, Hal Daum\xE9 III"
+  bibkey: goyal-daume-iii-2011-approximate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '250'
+  page_last: '261'
+  pages: "250\u2013261"
+  paper_id: '23'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1023.jpg
+  title: Approximate Scalable Bounded Space Sketch for Large Data NLP
+  title_html: Approximate Scalable Bounded Space Sketch for Large Data <span class="acl-fixed-case">NLP</span>
+  url: https://www.aclweb.org/anthology/D11-1023
+  year: '2011'
+D11-1024:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: David
+    full: David Mimno
+    id: david-mimno
+    last: Mimno
+  - first: Hanna
+    full: Hanna Wallach
+    id: hanna-wallach
+    last: Wallach
+  - first: Edmund
+    full: Edmund Talley
+    id: edmund-talley
+    last: Talley
+  - first: Miriam
+    full: Miriam Leenders
+    id: miriam-leenders
+    last: Leenders
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: David Mimno, Hanna Wallach, Edmund Talley, Miriam Leenders, Andrew
+    McCallum
+  bibkey: mimno-etal-2011-optimizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '262'
+  page_last: '272'
+  pages: "262\u2013272"
+  paper_id: '24'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1024.jpg
+  title: Optimizing Semantic Coherence in Topic Models
+  title_html: Optimizing Semantic Coherence in Topic Models
+  url: https://www.aclweb.org/anthology/D11-1024
+  year: '2011'
+D11-1025:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yufan
+    full: Yufan Guo
+    id: yufan-guo
+    last: Guo
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  - first: Thierry
+    full: Thierry Poibeau
+    id: thierry-poibeau
+    last: Poibeau
+  author_string: Yufan Guo, Anna Korhonen, Thierry Poibeau
+  bibkey: guo-etal-2011-weakly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '273'
+  page_last: '283'
+  pages: "273\u2013283"
+  paper_id: '25'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1025.jpg
+  title: A Weakly-supervised Approach to Argumentative Zoning of Scientific Documents
+  title_html: A Weakly-supervised Approach to Argumentative Zoning of Scientific Documents
+  url: https://www.aclweb.org/anthology/D11-1025
+  year: '2011'
+D11-1026:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1026.Attachment.gz
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1026.Attachment.gz
+  author:
+  - first: Anna
+    full: Anna Kazantseva
+    id: anna-kazantseva
+    last: Kazantseva
+  - first: Stan
+    full: Stan Szpakowicz
+    id: stan-szpakowicz
+    last: Szpakowicz
+  author_string: Anna Kazantseva, Stan Szpakowicz
+  bibkey: kazantseva-szpakowicz-2011-linear
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '284'
+  page_last: '293'
+  pages: "284\u2013293"
+  paper_id: '26'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1026.jpg
+  title: Linear Text Segmentation Using Affinity Propagation
+  title_html: Linear Text Segmentation Using Affinity Propagation
+  url: https://www.aclweb.org/anthology/D11-1026
+  year: '2011'
+D11-1027:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Quang
+    full: Quang Do
+    id: quang-do
+    last: Do
+  - first: Yee Seng
+    full: Yee Seng Chan
+    id: yee-seng-chan
+    last: Chan
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Quang Do, Yee Seng Chan, Dan Roth
+  bibkey: do-etal-2011-minimally
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '294'
+  page_last: '303'
+  pages: "294\u2013303"
+  paper_id: '27'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1027.jpg
+  title: Minimally Supervised Event Causality Identification
+  title_html: Minimally Supervised Event Causality Identification
+  url: https://www.aclweb.org/anthology/D11-1027
+  year: '2011'
+D11-1028:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Amit
+    full: Amit Dubey
+    id: amit-dubey
+    last: Dubey
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  - first: Patrick
+    full: Patrick Sturt
+    id: patrick-sturt
+    last: Sturt
+  author_string: Amit Dubey, Frank Keller, Patrick Sturt
+  bibkey: dubey-etal-2011-model
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '304'
+  page_last: '312'
+  pages: "304\u2013312"
+  paper_id: '28'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1028.jpg
+  title: A Model of Discourse Predictions in Human Sentence Processing
+  title_html: A Model of Discourse Predictions in Human Sentence Processing
+  url: https://www.aclweb.org/anthology/D11-1028
+  year: '2011'
+D11-1029:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1029.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1029.Attachment.pdf
+  author:
+  - first: Taylor
+    full: Taylor Berg-Kirkpatrick
+    id: taylor-berg-kirkpatrick
+    last: Berg-Kirkpatrick
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Taylor Berg-Kirkpatrick, Dan Klein
+  bibkey: berg-kirkpatrick-klein-2011-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '313'
+  page_last: '321'
+  pages: "313\u2013321"
+  paper_id: '29'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1029.jpg
+  title: Simple Effective Decipherment via Combinatorial Optimization
+  title_html: Simple Effective Decipherment via Combinatorial Optimization
+  url: https://www.aclweb.org/anthology/D11-1029
+  year: '2011'
+D11-1030:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Young-Bum
+    full: Young-Bum Kim
+    id: young-bum-kim
+    last: Kim
+  - first: "Jo\xE3o"
+    full: "Jo\xE3o Gra\xE7a"
+    id: joao-graca
+    last: "Gra\xE7a"
+  - first: Benjamin
+    full: Benjamin Snyder
+    id: benjamin-snyder
+    last: Snyder
+  author_string: "Young-Bum Kim, Jo\xE3o Gra\xE7a, Benjamin Snyder"
+  bibkey: kim-etal-2011-universal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '322'
+  page_last: '332'
+  pages: "322\u2013332"
+  paper_id: '30'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1030.jpg
+  title: Universal Morphological Analysis using Structured Nearest Neighbor Prediction
+  title_html: Universal Morphological Analysis using Structured Nearest Neighbor Prediction
+  url: https://www.aclweb.org/anthology/D11-1030
+  year: '2011'
+D11-1031:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Michael
+    full: Michael Auli
+    id: michael-auli
+    last: Auli
+  - first: Adam
+    full: Adam Lopez
+    id: adam-lopez
+    last: Lopez
+  author_string: Michael Auli, Adam Lopez
+  bibkey: auli-lopez-2011-training
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '333'
+  page_last: '343'
+  pages: "333\u2013343"
+  paper_id: '31'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1031.jpg
+  title: Training a Log-Linear Parser with Loss Functions via Softmax-Margin
+  title_html: Training a Log-Linear Parser with Loss Functions via Softmax-Margin
+  url: https://www.aclweb.org/anthology/D11-1031
+  year: '2011'
+D11-1032:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: David
+    full: David Hall
+    id: david-hall
+    last: Hall
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: David Hall, Dan Klein
+  bibkey: hall-klein-2011-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '344'
+  page_last: '354'
+  pages: "344\u2013354"
+  paper_id: '32'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1032.jpg
+  title: Large-Scale Cognate Recovery
+  title_html: Large-Scale Cognate Recovery
+  url: https://www.aclweb.org/anthology/D11-1032
+  year: '2011'
+D11-1033:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Amittai
+    full: Amittai Axelrod
+    id: amittai-axelrod
+    last: Axelrod
+  - first: Xiaodong
+    full: Xiaodong He
+    id: xiaodong-he
+    last: He
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  author_string: Amittai Axelrod, Xiaodong He, Jianfeng Gao
+  bibkey: axelrod-etal-2011-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '355'
+  page_last: '362'
+  pages: "355\u2013362"
+  paper_id: '33'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1033.jpg
+  title: Domain Adaptation via Pseudo In-Domain Data Selection
+  title_html: Domain Adaptation via Pseudo In-Domain Data Selection
+  url: https://www.aclweb.org/anthology/D11-1033
+  year: '2011'
+D11-1034:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Gennadi
+    full: Gennadi Lembersky
+    id: gennadi-lembersky
+    last: Lembersky
+  - first: Noam
+    full: Noam Ordan
+    id: noam-ordan
+    last: Ordan
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Gennadi Lembersky, Noam Ordan, Shuly Wintner
+  bibkey: lembersky-etal-2011-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '363'
+  page_last: '374'
+  pages: "363\u2013374"
+  paper_id: '34'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1034.jpg
+  title: 'Language Models for Machine Translation: Original vs. Translated Texts'
+  title_html: 'Language Models for Machine Translation: Original vs. Translated Texts'
+  url: https://www.aclweb.org/anthology/D11-1034
+  year: '2011'
+D11-1035:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Chang
+    full: Chang Liu
+    id: chang-liu
+    last: Liu
+  - first: Daniel
+    full: Daniel Dahlmeier
+    id: daniel-dahlmeier
+    last: Dahlmeier
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Chang Liu, Daniel Dahlmeier, Hwee Tou Ng
+  bibkey: liu-etal-2011-better
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '375'
+  page_last: '384'
+  pages: "375\u2013384"
+  paper_id: '35'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1035.jpg
+  title: Better Evaluation Metrics Lead to Better Machine Translation
+  title_html: Better Evaluation Metrics Lead to Better Machine Translation
+  url: https://www.aclweb.org/anthology/D11-1035
+  year: '2011'
+D11-1036:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1036.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1036.Attachment.zip
+  author:
+  - first: Reut
+    full: Reut Tsarfaty
+    id: reut-tsarfaty
+    last: Tsarfaty
+  - first: Joakim
+    full: Joakim Nivre
+    id: joakim-nivre
+    last: Nivre
+  - first: Evelina
+    full: Evelina Andersson
+    id: evelina-andersson
+    last: Andersson
+  author_string: Reut Tsarfaty, Joakim Nivre, Evelina Andersson
+  bibkey: tsarfaty-etal-2011-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '385'
+  page_last: '396'
+  pages: "385\u2013396"
+  paper_id: '36'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1036.jpg
+  title: 'Evaluating Dependency Parsing: Robust and Heuristics-Free Cross-Annotation
+    Evaluation'
+  title_html: 'Evaluating Dependency Parsing: Robust and Heuristics-Free Cross-Annotation
+    Evaluation'
+  url: https://www.aclweb.org/anthology/D11-1036
+  year: '2011'
+D11-1037:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1037.Attachment.gz
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1037.Attachment.gz
+  author:
+  - first: Emily M.
+    full: Emily M. Bender
+    id: emily-m-bender
+    last: Bender
+  - first: Dan
+    full: Dan Flickinger
+    id: dan-flickinger
+    last: Flickinger
+  - first: Stephan
+    full: Stephan Oepen
+    id: stephan-oepen
+    last: Oepen
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  author_string: Emily M. Bender, Dan Flickinger, Stephan Oepen, Yi Zhang
+  bibkey: bender-etal-2011-parser
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '397'
+  page_last: '408'
+  pages: "397\u2013408"
+  paper_id: '37'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1037.jpg
+  title: Parser Evaluation over Local and Non-Local Deep Dependencies in a Large Corpus
+  title_html: Parser Evaluation over Local and Non-Local Deep Dependencies in a Large
+    Corpus
+  url: https://www.aclweb.org/anthology/D11-1037
+  year: '2011'
+D11-1038:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Kristian
+    full: Kristian Woodsend
+    id: kristian-woodsend
+    last: Woodsend
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Kristian Woodsend, Mirella Lapata
+  bibkey: woodsend-lapata-2011-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '409'
+  page_last: '420'
+  pages: "409\u2013420"
+  paper_id: '38'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1038.jpg
+  title: Learning to Simplify Sentences with Quasi-Synchronous Grammar and Integer
+    Programming
+  title_html: Learning to Simplify Sentences with Quasi-Synchronous Grammar and Integer
+    Programming
+  url: https://www.aclweb.org/anthology/D11-1038
+  year: '2011'
+D11-1039:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yoav
+    full: Yoav Artzi
+    id: yoav-artzi
+    last: Artzi
+  - first: Luke
+    full: Luke Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  author_string: Yoav Artzi, Luke Zettlemoyer
+  bibkey: artzi-zettlemoyer-2011-bootstrapping
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '421'
+  page_last: '432'
+  pages: "421\u2013432"
+  paper_id: '39'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1039.jpg
+  title: Bootstrapping Semantic Parsers from Conversations
+  title_html: Bootstrapping Semantic Parsers from Conversations
+  url: https://www.aclweb.org/anthology/D11-1039
+  year: '2011'
+D11-1040:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Rui
+    full: Rui Yan
+    id: rui-yan
+    last: Yan
+  - first: Liang
+    full: Liang Kong
+    id: liang-kong
+    last: Kong
+  - first: Congrui
+    full: Congrui Huang
+    id: congrui-huang
+    last: Huang
+  - first: Xiaojun
+    full: Xiaojun Wan
+    id: xiaojun-wan
+    last: Wan
+  - first: Xiaoming
+    full: Xiaoming Li
+    id: xiaoming-li
+    last: Li
+  - first: Yan
+    full: Yan Zhang
+    id: yan-zhang
+    last: Zhang
+  author_string: Rui Yan, Liang Kong, Congrui Huang, Xiaojun Wan, Xiaoming Li, Yan
+    Zhang
+  bibkey: yan-etal-2011-timeline
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '433'
+  page_last: '443'
+  pages: "433\u2013443"
+  paper_id: '40'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1040.jpg
+  title: Timeline Generation through Evolutionary Trans-Temporal Summarization
+  title_html: Timeline Generation through Evolutionary Trans-Temporal Summarization
+  url: https://www.aclweb.org/anthology/D11-1040
+  year: '2011'
+D11-1041:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yezhou
+    full: Yezhou Yang
+    id: yezhou-yang
+    last: Yang
+  - first: Ching
+    full: Ching Teo
+    id: ching-teo
+    last: Teo
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Yiannis
+    full: Yiannis Aloimonos
+    id: yiannis-aloimonos
+    last: Aloimonos
+  author_string: "Yezhou Yang, Ching Teo, Hal Daum\xE9 III, Yiannis Aloimonos"
+  bibkey: yang-etal-2011-corpus
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '444'
+  page_last: '454'
+  pages: "444\u2013454"
+  paper_id: '41'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1041.jpg
+  title: Corpus-Guided Sentence Generation of Natural Images
+  title_html: Corpus-Guided Sentence Generation of Natural Images
+  url: https://www.aclweb.org/anthology/D11-1041
+  year: '2011'
+D11-1042:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Enrique
+    full: "Enrique Amig\xF3"
+    id: enrique-amigo
+    last: "Amig\xF3"
+  - first: Julio
+    full: Julio Gonzalo
+    id: julio-gonzalo
+    last: Gonzalo
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Gim\xE9nez"
+    id: jesus-gimenez
+    last: "Gim\xE9nez"
+  - first: Felisa
+    full: Felisa Verdejo
+    id: felisa-verdejo
+    last: Verdejo
+  author_string: "Enrique Amig\xF3, Julio Gonzalo, Jes\xFAs Gim\xE9nez, Felisa Verdejo"
+  bibkey: amigo-etal-2011-corroborating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '455'
+  page_last: '466'
+  pages: "455\u2013466"
+  paper_id: '42'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1042.jpg
+  title: Corroborating Text Evaluation Results with Heterogeneous Measures
+  title_html: Corroborating Text Evaluation Results with Heterogeneous Measures
+  url: https://www.aclweb.org/anthology/D11-1042
+  year: '2011'
+D11-1043:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Peter
+    full: Peter Rankel
+    id: peter-a-rankel
+    last: Rankel
+  - first: John
+    full: John Conroy
+    id: john-conroy
+    last: Conroy
+  - first: Eric
+    full: Eric Slud
+    id: eric-slud
+    last: Slud
+  - first: Dianne
+    full: "Dianne O\u2019Leary"
+    id: dianne-p-oleary
+    last: "O\u2019Leary"
+  author_string: "Peter Rankel, John Conroy, Eric Slud, Dianne O\u2019Leary"
+  bibkey: rankel-etal-2011-ranking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '467'
+  page_last: '473'
+  pages: "467\u2013473"
+  paper_id: '43'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1043.jpg
+  title: Ranking Human and Machine Summarization Systems
+  title_html: Ranking Human and Machine Summarization Systems
+  url: https://www.aclweb.org/anthology/D11-1043
+  year: '2011'
+D11-1044:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Kevin
+    full: Kevin Gimpel
+    id: kevin-gimpel
+    last: Gimpel
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Kevin Gimpel, Noah A. Smith
+  bibkey: gimpel-smith-2011-quasi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '474'
+  page_last: '485'
+  pages: "474\u2013485"
+  paper_id: '44'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1044.jpg
+  title: Quasi-Synchronous Phrase Dependency Grammars for Machine Translation
+  title_html: Quasi-Synchronous Phrase Dependency Grammars for Machine Translation
+  url: https://www.aclweb.org/anthology/D11-1044
+  year: '2011'
+D11-1045:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Karthik
+    full: Karthik Visweswariah
+    id: karthik-visweswariah
+    last: Visweswariah
+  - first: Rajakrishnan
+    full: Rajakrishnan Rajkumar
+    id: rajakrishnan-rajkumar
+    last: Rajkumar
+  - first: Ankur
+    full: Ankur Gandhe
+    id: ankur-gandhe
+    last: Gandhe
+  - first: Ananthakrishnan
+    full: Ananthakrishnan Ramanathan
+    id: ananthakrishnan-ramanathan
+    last: Ramanathan
+  - first: Jiri
+    full: Jiri Navratil
+    id: jiri-navratil
+    last: Navratil
+  author_string: Karthik Visweswariah, Rajakrishnan Rajkumar, Ankur Gandhe, Ananthakrishnan
+    Ramanathan, Jiri Navratil
+  bibkey: visweswariah-etal-2011-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '486'
+  page_last: '496'
+  pages: "486\u2013496"
+  paper_id: '45'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1045.jpg
+  title: A Word Reordering Model for Improved Machine Translation
+  title_html: A Word Reordering Model for Improved Machine Translation
+  url: https://www.aclweb.org/anthology/D11-1045
+  year: '2011'
+D11-1046:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1046.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1046.Attachment.pdf
+  author:
+  - first: Jason
+    full: Jason Riesa
+    id: jason-riesa
+    last: Riesa
+  - first: Ann
+    full: Ann Irvine
+    id: ann-irvine
+    last: Irvine
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Jason Riesa, Ann Irvine, Daniel Marcu
+  bibkey: riesa-etal-2011-feature
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '497'
+  page_last: '507'
+  pages: "497\u2013507"
+  paper_id: '46'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1046.jpg
+  title: Feature-Rich Language-Independent Syntax-Based Alignment for Statistical
+    Machine Translation
+  title_html: Feature-Rich Language-Independent Syntax-Based Alignment for Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/D11-1046
+  year: '2011'
+D11-1047:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Fabien
+    full: Fabien Cromieres
+    id: fabien-cromieres
+    last: Cromieres
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Fabien Cromieres, Sadao Kurohashi
+  bibkey: cromieres-kurohashi-2011-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '508'
+  page_last: '518'
+  pages: "508\u2013518"
+  paper_id: '47'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1047.jpg
+  title: Efficient retrieval of tree translation examples for Syntax-Based Machine
+    Translation
+  title_html: Efficient retrieval of tree translation examples for Syntax-Based Machine
+    Translation
+  url: https://www.aclweb.org/anthology/D11-1047
+  year: '2011'
+D11-1048:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Bryan
+    full: Bryan Rink
+    id: bryan-rink
+    last: Rink
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Bryan Rink, Sanda Harabagiu
+  bibkey: rink-harabagiu-2011-generative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '519'
+  page_last: '528'
+  pages: "519\u2013528"
+  paper_id: '48'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1048.jpg
+  title: A generative model for unsupervised discovery of relations and argument classes
+    from clinical texts
+  title_html: A generative model for unsupervised discovery of relations and argument
+    classes from clinical texts
+  url: https://www.aclweb.org/anthology/D11-1048
+  year: '2011'
+D11-1049:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ni
+    full: Ni Lao
+    id: ni-lao
+    last: Lao
+  - first: Tom
+    full: Tom Mitchell
+    id: tom-mitchell
+    last: Mitchell
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  author_string: Ni Lao, Tom Mitchell, William W. Cohen
+  bibkey: lao-etal-2011-random
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '529'
+  page_last: '539'
+  pages: "529\u2013539"
+  paper_id: '49'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1049.jpg
+  title: Random Walk Inference and Learning in A Large Scale Knowledge Base
+  title_html: Random Walk Inference and Learning in A Large Scale Knowledge Base
+  url: https://www.aclweb.org/anthology/D11-1049
+  year: '2011'
+D11-1050:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1050.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1050.Attachment.zip
+  author:
+  - first: Matthias
+    full: Matthias Hartung
+    id: matthias-hartung
+    last: Hartung
+  - first: Anette
+    full: Anette Frank
+    id: anette-frank
+    last: Frank
+  author_string: Matthias Hartung, Anette Frank
+  bibkey: hartung-frank-2011-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '540'
+  page_last: '551'
+  pages: "540\u2013551"
+  paper_id: '50'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1050.jpg
+  title: Exploring Supervised LDA Models for Assigning Attributes to Adjective-Noun
+    Phrases
+  title_html: Exploring Supervised <span class="acl-fixed-case">LDA</span> Models
+    for Assigning Attributes to Adjective-Noun Phrases
+  url: https://www.aclweb.org/anthology/D11-1050
+  year: '2011'
+D11-1051:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Weiwei
+    full: Weiwei Guo
+    id: weiwei-guo
+    last: Guo
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  author_string: Weiwei Guo, Mona Diab
+  bibkey: guo-diab-2011-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '552'
+  page_last: '561'
+  pages: "552\u2013561"
+  paper_id: '51'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1051.jpg
+  title: 'Semantic Topic Models: Combining Word Distributional Statistics and Dictionary
+    Definitions'
+  title_html: 'Semantic Topic Models: Combining Word Distributional Statistics and
+    Dictionary Definitions'
+  url: https://www.aclweb.org/anthology/D11-1051
+  year: '2011'
+D11-1052:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Samuel
+    full: Samuel Brody
+    id: samuel-brody
+    last: Brody
+  - first: Nicholas
+    full: Nicholas Diakopoulos
+    id: nicholas-diakopoulos
+    last: Diakopoulos
+  author_string: Samuel Brody, Nicholas Diakopoulos
+  bibkey: brody-diakopoulos-2011-cooooooooooooooollllllllllllll
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '562'
+  page_last: '570'
+  pages: "562\u2013570"
+  paper_id: '52'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1052.jpg
+  title: Cooooooooooooooollllllllllllll!!!!!!!!!!!!!! Using Word Lengthening to Detect
+    Sentiment in Microblogs
+  title_html: Cooooooooooooooollllllllllllll!!!!!!!!!!!!!! Using Word Lengthening
+    to Detect Sentiment in Microblogs
+  url: https://www.aclweb.org/anthology/D11-1052
+  year: '2011'
+D11-1053:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Deepak
+    full: Deepak Agarwal
+    id: deepak-agarwal
+    last: Agarwal
+  - first: Bee-Chung
+    full: Bee-Chung Chen
+    id: bee-chung-chen
+    last: Chen
+  - first: Bo
+    full: Bo Pang
+    id: bo-pang
+    last: Pang
+  author_string: Deepak Agarwal, Bee-Chung Chen, Bo Pang
+  bibkey: agarwal-etal-2011-personalized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '571'
+  page_last: '582'
+  pages: "571\u2013582"
+  paper_id: '53'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1053.jpg
+  title: Personalized Recommendation of User Comments via Factor Models
+  title_html: Personalized Recommendation of User Comments via Factor Models
+  url: https://www.aclweb.org/anthology/D11-1053
+  year: '2011'
+D11-1054:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1054.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1054.Attachment.zip
+  author:
+  - first: Alan
+    full: Alan Ritter
+    id: alan-ritter
+    last: Ritter
+  - first: Colin
+    full: Colin Cherry
+    id: colin-cherry
+    last: Cherry
+  - first: William B.
+    full: William B. Dolan
+    id: william-b-dolan
+    last: Dolan
+  author_string: Alan Ritter, Colin Cherry, William B. Dolan
+  bibkey: ritter-etal-2011-data
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '583'
+  page_last: '593'
+  pages: "583\u2013593"
+  paper_id: '54'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1054.jpg
+  title: Data-Driven Response Generation in Social Media
+  title_html: Data-Driven Response Generation in Social Media
+  url: https://www.aclweb.org/anthology/D11-1054
+  year: '2011'
+D11-1055:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Dani
+    full: Dani Yogatama
+    id: dani-yogatama
+    last: Yogatama
+  - first: Michael
+    full: Michael Heilman
+    id: michael-heilman
+    last: Heilman
+  - first: Brendan
+    full: "Brendan O\u2019Connor"
+    id: brendan-oconnor
+    last: "O\u2019Connor"
+  - first: Chris
+    full: Chris Dyer
+    id: chris-dyer
+    last: Dyer
+  - first: Bryan R.
+    full: Bryan R. Routledge
+    id: bryan-r-routledge
+    last: Routledge
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: "Dani Yogatama, Michael Heilman, Brendan O\u2019Connor, Chris Dyer,\
+    \ Bryan R. Routledge, Noah A. Smith"
+  bibkey: yogatama-etal-2011-predicting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '594'
+  page_last: '604'
+  pages: "594\u2013604"
+  paper_id: '55'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1055.jpg
+  title: "Predicting a Scientific Community\u2019s Response to an Article"
+  title_html: "Predicting a Scientific Community\u2019s Response to an Article"
+  url: https://www.aclweb.org/anthology/D11-1055
+  year: '2011'
+D11-1056:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yugo
+    full: Yugo Murawaki
+    id: yugo-murawaki
+    last: Murawaki
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Yugo Murawaki, Sadao Kurohashi
+  bibkey: murawaki-kurohashi-2011-non
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '605'
+  page_last: '615'
+  pages: "605\u2013615"
+  paper_id: '56'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1056.jpg
+  title: Non-parametric Bayesian Segmentation of Japanese Noun Phrases
+  title_html: Non-parametric <span class="acl-fixed-case">B</span>ayesian Segmentation
+    of <span class="acl-fixed-case">J</span>apanese Noun Phrases
+  url: https://www.aclweb.org/anthology/D11-1056
+  year: '2011'
+D11-1057:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1057.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1057.Attachment.zip
+  author:
+  - first: Markus
+    full: Markus Dreyer
+    id: markus-dreyer
+    last: Dreyer
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Markus Dreyer, Jason Eisner
+  bibkey: dreyer-eisner-2011-discovering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '616'
+  page_last: '627'
+  pages: "616\u2013627"
+  paper_id: '57'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1057.jpg
+  title: Discovering Morphological Paradigms from Plain Text Using a Dirichlet Process
+    Mixture Model
+  title_html: Discovering Morphological Paradigms from Plain Text Using a <span class="acl-fixed-case">D</span>irichlet
+    Process Mixture Model
+  url: https://www.aclweb.org/anthology/D11-1057
+  year: '2011'
+D11-1058:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ai
+    full: Ai Azuma
+    id: ai-azuma
+    last: Azuma
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Ai Azuma, Yuji Matsumoto
+  bibkey: azuma-matsumoto-2011-multilayer
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '628'
+  page_last: '637'
+  pages: "628\u2013637"
+  paper_id: '58'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1058.jpg
+  title: Multilayer Sequence Labeling
+  title_html: Multilayer Sequence Labeling
+  url: https://www.aclweb.org/anthology/D11-1058
+  year: '2011'
+D11-1059:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Christos
+    full: Christos Christodoulopoulos
+    id: christos-christodoulopoulos
+    last: Christodoulopoulos
+  - first: Sharon
+    full: Sharon Goldwater
+    id: sharon-goldwater
+    last: Goldwater
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Christos Christodoulopoulos, Sharon Goldwater, Mark Steedman
+  bibkey: christodoulopoulos-etal-2011-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '638'
+  page_last: '647'
+  pages: "638\u2013647"
+  paper_id: '59'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1059.jpg
+  title: A Bayesian Mixture Model for PoS Induction Using Multiple Features
+  title_html: A <span class="acl-fixed-case">B</span>ayesian Mixture Model for <span
+    class="acl-fixed-case">P</span>o<span class="acl-fixed-case">S</span> Induction
+    Using Multiple Features
+  url: https://www.aclweb.org/anthology/D11-1059
+  year: '2011'
+D11-1060:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Su Nam
+    full: Su Nam Kim
+    id: su-nam-kim
+    last: Kim
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  author_string: Su Nam Kim, Preslav Nakov
+  bibkey: kim-nakov-2011-large
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '648'
+  page_last: '658'
+  pages: "648\u2013658"
+  paper_id: '60'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1060.jpg
+  title: Large-Scale Noun Compound Interpretation Using Bootstrapping and the Web
+    as a Corpus
+  title_html: Large-Scale Noun Compound Interpretation Using Bootstrapping and the
+    Web as a Corpus
+  url: https://www.aclweb.org/anthology/D11-1060
+  year: '2011'
+D11-1061:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Fabio Massimo
+    full: Fabio Massimo Zanzotto
+    id: fabio-massimo-zanzotto
+    last: Zanzotto
+  - first: Marco
+    full: Marco Pennacchiotti
+    id: marco-pennacchiotti
+    last: Pennacchiotti
+  - first: Kostas
+    full: Kostas Tsioutsiouliklis
+    id: kostas-tsioutsiouliklis
+    last: Tsioutsiouliklis
+  author_string: Fabio Massimo Zanzotto, Marco Pennacchiotti, Kostas Tsioutsiouliklis
+  bibkey: zanzotto-etal-2011-linguistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '659'
+  page_last: '669'
+  pages: "659\u2013669"
+  paper_id: '61'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1061.jpg
+  title: Linguistic Redundancy in Twitter
+  title_html: Linguistic Redundancy in Twitter
+  url: https://www.aclweb.org/anthology/D11-1061
+  year: '2011'
+D11-1062:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Matteo
+    full: Matteo Negri
+    id: matteo-negri
+    last: Negri
+  - first: Luisa
+    full: Luisa Bentivogli
+    id: luisa-bentivogli
+    last: Bentivogli
+  - first: Yashar
+    full: Yashar Mehdad
+    id: yashar-mehdad
+    last: Mehdad
+  - first: Danilo
+    full: Danilo Giampiccolo
+    id: danilo-giampiccolo
+    last: Giampiccolo
+  - first: Alessandro
+    full: Alessandro Marchetti
+    id: alessandro-marchetti
+    last: Marchetti
+  author_string: Matteo Negri, Luisa Bentivogli, Yashar Mehdad, Danilo Giampiccolo,
+    Alessandro Marchetti
+  bibkey: negri-etal-2011-divide
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '670'
+  page_last: '679'
+  pages: "670\u2013679"
+  paper_id: '62'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1062.jpg
+  title: 'Divide and Conquer: Crowdsourcing the Creation of Cross-Lingual Textual
+    Entailment Corpora'
+  title_html: 'Divide and Conquer: Crowdsourcing the Creation of Cross-Lingual Textual
+    Entailment Corpora'
+  url: https://www.aclweb.org/anthology/D11-1062
+  year: '2011'
+D11-1063:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Peter
+    full: Peter Turney
+    id: peter-turney
+    last: Turney
+  - first: Yair
+    full: Yair Neuman
+    id: yair-neuman
+    last: Neuman
+  - first: Dan
+    full: Dan Assaf
+    id: dan-assaf
+    last: Assaf
+  - first: Yohai
+    full: Yohai Cohen
+    id: yohai-cohen
+    last: Cohen
+  author_string: Peter Turney, Yair Neuman, Dan Assaf, Yohai Cohen
+  bibkey: turney-etal-2011-literal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '680'
+  page_last: '690'
+  pages: "680\u2013690"
+  paper_id: '63'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1063.jpg
+  title: Literal and Metaphorical Sense Identification through Concrete and Abstract
+    Context
+  title_html: Literal and Metaphorical Sense Identification through Concrete and Abstract
+    Context
+  url: https://www.aclweb.org/anthology/D11-1063
+  year: '2011'
+D11-1064:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Denis
+    full: Denis Filimonov
+    id: denis-filimonov
+    last: Filimonov
+  - first: Mary
+    full: Mary Harper
+    id: mary-harper
+    last: Harper
+  author_string: Denis Filimonov, Mary Harper
+  bibkey: filimonov-harper-2011-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '691'
+  page_last: '699'
+  pages: "691\u2013699"
+  paper_id: '64'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1064.jpg
+  title: 'Syntactic Decision Tree LMs: Random Selection or Intelligent Design?'
+  title_html: 'Syntactic Decision Tree <span class="acl-fixed-case">LM</span>s: Random
+    Selection or Intelligent Design?'
+  url: https://www.aclweb.org/anthology/D11-1064
+  year: '2011'
+D11-1065:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Keith
+    full: Keith Vertanen
+    id: keith-vertanen
+    last: Vertanen
+  - first: Per Ola
+    full: Per Ola Kristensson
+    id: per-ola-kristensson
+    last: Kristensson
+  author_string: Keith Vertanen, Per Ola Kristensson
+  bibkey: vertanen-kristensson-2011-imagination
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '700'
+  page_last: '711'
+  pages: "700\u2013711"
+  paper_id: '65'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1065.jpg
+  title: 'The Imagination of Crowds: Conversational AAC Language Modeling using Crowdsourcing
+    and Large Data Sources'
+  title_html: 'The Imagination of Crowds: Conversational <span class="acl-fixed-case">AAC</span>
+    Language Modeling using Crowdsourcing and Large Data Sources'
+  url: https://www.aclweb.org/anthology/D11-1065
+  year: '2011'
+D11-1066:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Jennifer
+    full: Jennifer Chu-Carroll
+    id: jennifer-chu-carroll
+    last: Chu-Carroll
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  - first: James
+    full: James Fan
+    id: james-fan
+    last: Fan
+  - first: Giuseppe
+    full: Giuseppe Riccardi
+    id: giuseppe-riccardi
+    last: Riccardi
+  author_string: Alessandro Moschitti, Jennifer Chu-Carroll, Siddharth Patwardhan,
+    James Fan, Giuseppe Riccardi
+  bibkey: moschitti-etal-2011-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '712'
+  page_last: '724'
+  pages: "712\u2013724"
+  paper_id: '66'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1066.jpg
+  title: Using Syntactic and Semantic Structural Kernels for Classifying Definition
+    Questions in Jeopardy!
+  title_html: Using Syntactic and Semantic Structural Kernels for Classifying Definition
+    Questions in Jeopardy!
+  url: https://www.aclweb.org/anthology/D11-1066
+  year: '2011'
+D11-1067:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Spence
+    full: Spence Green
+    id: spence-green
+    last: Green
+  - first: Marie-Catherine
+    full: Marie-Catherine de Marneffe
+    id: marie-catherine-de-marneffe
+    last: de Marneffe
+  - first: John
+    full: John Bauer
+    id: john-bauer
+    last: Bauer
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Spence Green, Marie-Catherine de Marneffe, John Bauer, Christopher
+    D. Manning
+  bibkey: green-etal-2011-multiword
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '725'
+  page_last: '735'
+  pages: "725\u2013735"
+  paper_id: '67'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1067.jpg
+  title: 'Multiword Expression Identification with Tree Substitution Grammars: A Parsing
+    tour de force with French'
+  title_html: 'Multiword Expression Identification with Tree Substitution Grammars:
+    A Parsing tour de force with <span class="acl-fixed-case">F</span>rench'
+  url: https://www.aclweb.org/anthology/D11-1067
+  year: '2011'
+D11-1068:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Amal
+    full: Amal Al-Saif
+    id: amal-al-saif
+    last: Al-Saif
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  author_string: Amal Al-Saif, Katja Markert
+  bibkey: al-saif-markert-2011-modelling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '736'
+  page_last: '747'
+  pages: "736\u2013747"
+  paper_id: '68'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1068.jpg
+  title: Modelling Discourse Relations for Arabic
+  title_html: Modelling Discourse Relations for <span class="acl-fixed-case">A</span>rabic
+  url: https://www.aclweb.org/anthology/D11-1068
+  year: '2011'
+D11-1069:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ashequl
+    full: Ashequl Qadir
+    id: ashequl-qadir
+    last: Qadir
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  author_string: Ashequl Qadir, Ellen Riloff
+  bibkey: qadir-riloff-2011-classifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '748'
+  page_last: '758'
+  pages: "748\u2013758"
+  paper_id: '69'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1069.jpg
+  title: Classifying Sentences as Speech Acts in Message Board Posts
+  title_html: Classifying Sentences as Speech Acts in Message Board Posts
+  url: https://www.aclweb.org/anthology/D11-1069
+  year: '2011'
+D11-1070:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1070.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1070.Attachment.zip
+  author:
+  - first: "Rich\xE1rd"
+    full: "Rich\xE1rd Farkas"
+    id: richard-farkas
+    last: Farkas
+  author_string: "Rich\xE1rd Farkas"
+  bibkey: farkas-2011-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '759'
+  page_last: '770'
+  pages: "759\u2013770"
+  paper_id: '70'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1070.jpg
+  title: Learning Local Content Shift Detectors from Document-level Information
+  title_html: Learning Local Content Shift Detectors from Document-level Information
+  url: https://www.aclweb.org/anthology/D11-1070
+  year: '2011'
+D11-1071:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Zheng
+    full: Zheng Chen
+    id: zheng-chen
+    last: Chen
+  - first: Heng
+    full: Heng Ji
+    id: heng-ji
+    last: Ji
+  author_string: Zheng Chen, Heng Ji
+  bibkey: chen-ji-2011-collaborative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '771'
+  page_last: '781'
+  pages: "771\u2013781"
+  paper_id: '71'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1071.jpg
+  title: 'Collaborative Ranking: A Case Study on Entity Linking'
+  title_html: 'Collaborative Ranking: A Case Study on Entity Linking'
+  url: https://www.aclweb.org/anthology/D11-1071
+  year: '2011'
+D11-1072:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Johannes
+    full: Johannes Hoffart
+    id: johannes-hoffart
+    last: Hoffart
+  - first: Mohamed Amir
+    full: Mohamed Amir Yosef
+    id: mohamed-amir-yosef
+    last: Yosef
+  - first: Ilaria
+    full: Ilaria Bordino
+    id: ilaria-bordino
+    last: Bordino
+  - first: Hagen
+    full: "Hagen F\xFCrstenau"
+    id: hagen-furstenau
+    last: "F\xFCrstenau"
+  - first: Manfred
+    full: Manfred Pinkal
+    id: manfred-pinkal
+    last: Pinkal
+  - first: Marc
+    full: Marc Spaniol
+    id: marc-spaniol
+    last: Spaniol
+  - first: Bilyana
+    full: Bilyana Taneva
+    id: bilyana-taneva
+    last: Taneva
+  - first: Stefan
+    full: Stefan Thater
+    id: stefan-thater
+    last: Thater
+  - first: Gerhard
+    full: Gerhard Weikum
+    id: gerhard-weikum
+    last: Weikum
+  author_string: "Johannes Hoffart, Mohamed Amir Yosef, Ilaria Bordino, Hagen F\xFC\
+    rstenau, Manfred Pinkal, Marc Spaniol, Bilyana Taneva, Stefan Thater, Gerhard\
+    \ Weikum"
+  bibkey: hoffart-etal-2011-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '782'
+  page_last: '792'
+  pages: "782\u2013792"
+  paper_id: '72'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1072.jpg
+  title: Robust Disambiguation of Named Entities in Text
+  title_html: Robust Disambiguation of Named Entities in Text
+  url: https://www.aclweb.org/anthology/D11-1072
+  year: '2011'
+D11-1073:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Lukas
+    full: Lukas Michelbacher
+    id: lukas-michelbacher
+    last: Michelbacher
+  - first: Alok
+    full: Alok Kothari
+    id: alok-kothari
+    last: Kothari
+  - first: Martin
+    full: Martin Forst
+    id: martin-forst
+    last: Forst
+  - first: Christina
+    full: Christina Lioma
+    id: christina-lioma
+    last: Lioma
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Lukas Michelbacher, Alok Kothari, Martin Forst, Christina Lioma,\
+    \ Hinrich Sch\xFCtze"
+  bibkey: michelbacher-etal-2011-cascaded
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '793'
+  page_last: '803'
+  pages: "793\u2013803"
+  paper_id: '73'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1073.jpg
+  title: A Cascaded Classification Approach to Semantic Head Recognition
+  title_html: A Cascaded Classification Approach to Semantic Head Recognition
+  url: https://www.aclweb.org/anthology/D11-1073
+  year: '2011'
+D11-1074:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Swapna
+    full: Swapna Gottipati
+    id: swapna-gottipati
+    last: Gottipati
+  - first: Jing
+    full: Jing Jiang
+    id: jing-jiang
+    last: Jiang
+  author_string: Swapna Gottipati, Jing Jiang
+  bibkey: gottipati-jiang-2011-linking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '804'
+  page_last: '813'
+  pages: "804\u2013813"
+  paper_id: '74'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1074.jpg
+  title: Linking Entities to a Knowledge Base with Query Expansion
+  title_html: Linking Entities to a Knowledge Base with Query Expansion
+  url: https://www.aclweb.org/anthology/D11-1074
+  year: '2011'
+D11-1075:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Cane Wing-ki
+    full: Cane Wing-ki Leung
+    id: cane-wing-ki-leung
+    last: Leung
+  - first: Jing
+    full: Jing Jiang
+    id: jing-jiang
+    last: Jiang
+  - first: Kian Ming A.
+    full: Kian Ming A. Chai
+    id: kian-ming-a-chai
+    last: Chai
+  - first: Hai Leong
+    full: Hai Leong Chieu
+    id: hai-leong-chieu
+    last: Chieu
+  - first: Loo-Nin
+    full: Loo-Nin Teow
+    id: loo-nin-teow
+    last: Teow
+  author_string: Cane Wing-ki Leung, Jing Jiang, Kian Ming A. Chai, Hai Leong Chieu,
+    Loo-Nin Teow
+  bibkey: leung-etal-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '814'
+  page_last: '824'
+  pages: "814\u2013824"
+  paper_id: '75'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1075.jpg
+  title: Unsupervised Information Extraction with Distributional Prior Knowledge
+  title_html: Unsupervised Information Extraction with Distributional Prior Knowledge
+  url: https://www.aclweb.org/anthology/D11-1075
+  year: '2011'
+D11-1076:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Stijn
+    full: Stijn De Saeger
+    id: stijn-de-saeger
+    last: De Saeger
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  - first: Masaaki
+    full: Masaaki Tsuchida
+    id: masaaki-tsuchida
+    last: Tsuchida
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  - first: Ichiro
+    full: Ichiro Yamada
+    id: ichiro-yamada
+    last: Yamada
+  - first: Jong Hoon
+    full: Jong Hoon Oh
+    id: jong-hoon-oh
+    last: Oh
+  - first: Istvan
+    full: Istvan Varga
+    id: istvan-varga
+    last: Varga
+  - first: Yulan
+    full: Yulan Yan
+    id: yulan-yan
+    last: Yan
+  author_string: "Stijn De Saeger, Kentaro Torisawa, Masaaki Tsuchida, Jun\u2019ichi\
+    \ Kazama, Chikara Hashimoto, Ichiro Yamada, Jong Hoon Oh, Istvan Varga, Yulan\
+    \ Yan"
+  bibkey: de-saeger-etal-2011-relation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '825'
+  page_last: '835'
+  pages: "825\u2013835"
+  paper_id: '76'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1076.jpg
+  title: Relation Acquisition using Word Classes and Partial Patterns
+  title_html: Relation Acquisition using Word Classes and Partial Patterns
+  url: https://www.aclweb.org/anthology/D11-1076
+  year: '2011'
+D11-1077:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yulia
+    full: Yulia Tsvetkov
+    id: yulia-tsvetkov
+    last: Tsvetkov
+  - first: Shuly
+    full: Shuly Wintner
+    id: shuly-wintner
+    last: Wintner
+  author_string: Yulia Tsvetkov, Shuly Wintner
+  bibkey: tsvetkov-wintner-2011-identification
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '836'
+  page_last: '845'
+  pages: "836\u2013845"
+  paper_id: '77'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1077.jpg
+  title: Identification of Multi-word Expressions by Combining Multiple Linguistic
+    Information Sources
+  title_html: Identification of Multi-word Expressions by Combining Multiple Linguistic
+    Information Sources
+  url: https://www.aclweb.org/anthology/D11-1077
+  year: '2011'
+D11-1078:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Xabier
+    full: Xabier Saralegi
+    id: xabier-saralegi
+    last: Saralegi
+  - first: Iker
+    full: Iker Manterola
+    id: iker-manterola
+    last: Manterola
+  - first: "I\xF1aki"
+    full: "I\xF1aki San Vicente"
+    id: inaki-san-vicente
+    last: San Vicente
+  author_string: "Xabier Saralegi, Iker Manterola, I\xF1aki San Vicente"
+  bibkey: saralegi-etal-2011-analyzing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '846'
+  page_last: '856'
+  pages: "846\u2013856"
+  paper_id: '78'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1078.jpg
+  title: Analyzing Methods for Improving Precision of Pivot Based Bilingual Dictionaries
+  title_html: Analyzing Methods for Improving Precision of Pivot Based Bilingual Dictionaries
+  url: https://www.aclweb.org/anthology/D11-1078
+  year: '2011'
+D11-1079:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yang
+    full: Yang Gao
+    id: yang-gao
+    last: Gao
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  - first: Alexandra
+    full: Alexandra Birch
+    id: alexandra-birch
+    last: Birch
+  author_string: Yang Gao, Philipp Koehn, Alexandra Birch
+  bibkey: gao-etal-2011-soft
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '857'
+  page_last: '868'
+  pages: "857\u2013868"
+  paper_id: '79'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1079.jpg
+  title: Soft Dependency Constraints for Reordering in Hierarchical Phrase-Based Translation
+  title_html: Soft Dependency Constraints for Reordering in Hierarchical Phrase-Based
+    Translation
+  url: https://www.aclweb.org/anthology/D11-1079
+  year: '2011'
+D11-1080:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  author_string: Christof Monz
+  bibkey: monz-2011-statistical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '869'
+  page_last: '879'
+  pages: "869\u2013879"
+  paper_id: '80'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1080.jpg
+  title: Statistical Machine Translation with Local Language Models
+  title_html: Statistical Machine Translation with Local Language Models
+  url: https://www.aclweb.org/anthology/D11-1080
+  year: '2011'
+D11-1081:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Xinyan
+    full: Xinyan Xiao
+    id: xinyan-xiao
+    last: Xiao
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Shouxun
+    full: Shouxun Lin
+    id: shouxun-lin
+    last: Lin
+  author_string: Xinyan Xiao, Yang Liu, Qun Liu, Shouxun Lin
+  bibkey: xiao-etal-2011-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '880'
+  page_last: '888'
+  pages: "880\u2013888"
+  paper_id: '81'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1081.jpg
+  title: Fast Generation of Translation Forest for Large-Scale SMT Discriminative
+    Training
+  title_html: Fast Generation of Translation Forest for Large-Scale <span class="acl-fixed-case">SMT</span>
+    Discriminative Training
+  url: https://www.aclweb.org/anthology/D11-1081
+  year: '2011'
+D11-1082:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: J. Scott
+    full: J. Scott McCarley
+    id: j-scott-mccarley
+    last: McCarley
+  - first: Abraham
+    full: Abraham Ittycheriah
+    id: abraham-ittycheriah
+    last: Ittycheriah
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  - first: Bing
+    full: Bing Xiang
+    id: bing-xiang
+    last: Xiang
+  - first: Jian-ming
+    full: Jian-ming Xu
+    id: jian-ming-xu
+    last: Xu
+  author_string: J. Scott McCarley, Abraham Ittycheriah, Salim Roukos, Bing Xiang,
+    Jian-ming Xu
+  bibkey: mccarley-etal-2011-correction
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '889'
+  page_last: '898'
+  pages: "889\u2013898"
+  paper_id: '82'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1082.jpg
+  title: A Correction Model for Word Alignments
+  title_html: A Correction Model for Word Alignments
+  url: https://www.aclweb.org/anthology/D11-1082
+  year: '2011'
+D11-1083:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Andrea
+    full: Andrea Gesmundo
+    id: andrea-gesmundo
+    last: Gesmundo
+  - first: James
+    full: James Henderson
+    id: james-henderson
+    last: Henderson
+  author_string: Andrea Gesmundo, James Henderson
+  bibkey: gesmundo-henderson-2011-heuristic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '899'
+  page_last: '908'
+  pages: "899\u2013908"
+  paper_id: '83'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1083.jpg
+  title: Heuristic Search for Non-Bottom-Up Tree Structure Prediction
+  title_html: Heuristic Search for Non-Bottom-Up Tree Structure Prediction
+  url: https://www.aclweb.org/anthology/D11-1083
+  year: '2011'
+D11-1084:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Zhengxian
+    full: Zhengxian Gong
+    id: zhengxian-gong
+    last: Gong
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Guodong
+    full: Guodong Zhou
+    id: guodong-zhou
+    last: Zhou
+  author_string: Zhengxian Gong, Min Zhang, Guodong Zhou
+  bibkey: gong-etal-2011-cache
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '909'
+  page_last: '919'
+  pages: "909\u2013919"
+  paper_id: '84'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1084.jpg
+  title: Cache-based Document-level Statistical Machine Translation
+  title_html: Cache-based Document-level Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D11-1084
+  year: '2011'
+D11-1085:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Zhifei
+    full: Zhifei Li
+    id: zhifei-li
+    last: Li
+  - first: Ziyuan
+    full: Ziyuan Wang
+    id: ziyuan-wang
+    last: Wang
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  - first: Sanjeev
+    full: Sanjeev Khudanpur
+    id: sanjeev-khudanpur
+    last: Khudanpur
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  author_string: Zhifei Li, Ziyuan Wang, Jason Eisner, Sanjeev Khudanpur, Brian Roark
+  bibkey: li-etal-2011-minimum
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '920'
+  page_last: '929'
+  pages: "920\u2013929"
+  paper_id: '85'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1085.jpg
+  title: 'Minimum Imputed-Risk: Unsupervised Discriminative Training for Machine Translation'
+  title_html: 'Minimum Imputed-Risk: Unsupervised Discriminative Training for Machine
+    Translation'
+  url: https://www.aclweb.org/anthology/D11-1085
+  year: '2011'
+D11-1086:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Jagadeesh
+    full: Jagadeesh Jagarlamudi
+    id: jagadeesh-jagarlamudi
+    last: Jagarlamudi
+  - first: Raghavendra
+    full: Raghavendra Udupa
+    id: raghavendra-udupa
+    last: Udupa
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Abhijit
+    full: Abhijit Bhole
+    id: abhijit-bhole
+    last: Bhole
+  author_string: "Jagadeesh Jagarlamudi, Raghavendra Udupa, Hal Daum\xE9 III, Abhijit\
+    \ Bhole"
+  bibkey: jagarlamudi-etal-2011-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '930'
+  page_last: '940'
+  pages: "930\u2013940"
+  paper_id: '86'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1086.jpg
+  title: Improving Bilingual Projections via Sparse Covariance Matrices
+  title_html: Improving Bilingual Projections via Sparse Covariance Matrices
+  url: https://www.aclweb.org/anthology/D11-1086
+  year: '2011'
+D11-1087:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Moshe
+    full: Moshe Dubiner
+    id: moshe-dubiner
+    last: Dubiner
+  - first: Yoram
+    full: Yoram Singer
+    id: yoram-singer
+    last: Singer
+  author_string: Moshe Dubiner, Yoram Singer
+  bibkey: dubiner-singer-2011-entire
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '941'
+  page_last: '948'
+  pages: "941\u2013948"
+  paper_id: '87'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1087.jpg
+  title: Entire Relaxation Path for Maximum Entropy Problems
+  title_html: Entire Relaxation Path for Maximum Entropy Problems
+  url: https://www.aclweb.org/anthology/D11-1087
+  year: '2011'
+D11-1088:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Chao
+    full: Chao Shen
+    id: chao-shen
+    last: Shen
+  - first: Tao
+    full: Tao Li
+    id: tao-li
+    last: Li
+  author_string: Chao Shen, Tao Li
+  bibkey: shen-li-2011-non
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '949'
+  page_last: '958'
+  pages: "949\u2013958"
+  paper_id: '88'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1088.jpg
+  title: A Non-negative Matrix Factorization Based Approach for Active Dual Supervision
+    from Document and Word Labels
+  title_html: A Non-negative Matrix Factorization Based Approach for Active Dual Supervision
+    from Document and Word Labels
+  url: https://www.aclweb.org/anthology/D11-1088
+  year: '2011'
+D11-1089:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Nobuhiro
+    full: Nobuhiro Kaji
+    id: nobuhiro-kaji
+    last: Kaji
+  - first: Masaru
+    full: Masaru Kitsuregawa
+    id: masaru-kitsuregawa
+    last: Kitsuregawa
+  author_string: Nobuhiro Kaji, Masaru Kitsuregawa
+  bibkey: kaji-kitsuregawa-2011-splitting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '959'
+  page_last: '969'
+  pages: "959\u2013969"
+  paper_id: '89'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1089.jpg
+  title: 'Splitting Noun Compounds via Monolingual and Bilingual Paraphrasing: A Study
+    on Japanese Katakana Words'
+  title_html: 'Splitting Noun Compounds via Monolingual and Bilingual Paraphrasing:
+    A Study on <span class="acl-fixed-case">J</span>apanese Katakana Words'
+  url: https://www.aclweb.org/anthology/D11-1089
+  year: '2011'
+D11-1090:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Weiwei
+    full: Weiwei Sun
+    id: weiwei-sun
+    last: Sun
+  - first: Jia
+    full: Jia Xu
+    id: jia-xu
+    last: Xu
+  author_string: Weiwei Sun, Jia Xu
+  bibkey: sun-xu-2011-enhancing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '970'
+  page_last: '979'
+  pages: "970\u2013979"
+  paper_id: '90'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1090.jpg
+  title: Enhancing Chinese Word Segmentation Using Unlabeled Data
+  title_html: Enhancing <span class="acl-fixed-case">C</span>hinese Word Segmentation
+    Using Unlabeled Data
+  url: https://www.aclweb.org/anthology/D11-1090
+  year: '2011'
+D11-1091:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Kirk
+    full: Kirk Roberts
+    id: kirk-roberts
+    last: Roberts
+  - first: Sanda
+    full: Sanda Harabagiu
+    id: sanda-harabagiu
+    last: Harabagiu
+  author_string: Kirk Roberts, Sanda Harabagiu
+  bibkey: roberts-harabagiu-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '980'
+  page_last: '990'
+  pages: "980\u2013990"
+  paper_id: '91'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1091.jpg
+  title: Unsupervised Learning of Selectional Restrictions and Detection of Argument
+    Coercions
+  title_html: Unsupervised Learning of Selectional Restrictions and Detection of Argument
+    Coercions
+  url: https://www.aclweb.org/anthology/D11-1091
+  year: '2011'
+D11-1092:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ziqi
+    full: Ziqi Zhang
+    id: ziqi-zhang
+    last: Zhang
+  - first: Anna Lisa
+    full: Anna Lisa Gentile
+    id: anna-lisa-gentile
+    last: Gentile
+  - first: Fabio
+    full: Fabio Ciravegna
+    id: fabio-ciravegna
+    last: Ciravegna
+  author_string: Ziqi Zhang, Anna Lisa Gentile, Fabio Ciravegna
+  bibkey: zhang-etal-2011-harnessing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '991'
+  page_last: '1002'
+  pages: "991\u20131002"
+  paper_id: '92'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1092.jpg
+  title: Harnessing different knowledge sources to measure semantic relatedness under
+    a uniform model
+  title_html: Harnessing different knowledge sources to measure semantic relatedness
+    under a uniform model
+  url: https://www.aclweb.org/anthology/D11-1092
+  year: '2011'
+D11-1093:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Tong
+    full: Tong Wang
+    id: tong-wang
+    last: Wang
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Tong Wang, Graeme Hirst
+  bibkey: wang-hirst-2011-refining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1003'
+  page_last: '1011'
+  pages: "1003\u20131011"
+  paper_id: '93'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1093.jpg
+  title: Refining the Notions of Depth and Density in WordNet-based Semantic Similarity
+    Measures
+  title_html: Refining the Notions of Depth and Density in <span class="acl-fixed-case">W</span>ord<span
+    class="acl-fixed-case">N</span>et-based Semantic Similarity Measures
+  url: https://www.aclweb.org/anthology/D11-1093
+  year: '2011'
+D11-1094:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1094.Attachment.gz
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1094.Attachment.gz
+  author:
+  - first: Tim
+    full: Tim Van de Cruys
+    id: tim-van-de-cruys
+    last: Van de Cruys
+  - first: Thierry
+    full: Thierry Poibeau
+    id: thierry-poibeau
+    last: Poibeau
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: Tim Van de Cruys, Thierry Poibeau, Anna Korhonen
+  bibkey: van-de-cruys-etal-2011-latent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1012'
+  page_last: '1022'
+  pages: "1012\u20131022"
+  paper_id: '94'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1094.jpg
+  title: Latent Vector Weighting for Word Meaning in Context
+  title_html: Latent Vector Weighting for Word Meaning in Context
+  url: https://www.aclweb.org/anthology/D11-1094
+  year: '2011'
+D11-1095:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Lin
+    full: Lin Sun
+    id: lin-sun
+    last: Sun
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: Lin Sun, Anna Korhonen
+  bibkey: sun-korhonen-2011-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1023'
+  page_last: '1033'
+  pages: "1023\u20131033"
+  paper_id: '95'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1095.jpg
+  title: Hierarchical Verb Clustering Using Graph Factorization
+  title_html: Hierarchical Verb Clustering Using Graph Factorization
+  url: https://www.aclweb.org/anthology/D11-1095
+  year: '2011'
+D11-1096:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Danilo
+    full: Danilo Croce
+    id: danilo-croce
+    last: Croce
+  - first: Alessandro
+    full: Alessandro Moschitti
+    id: alessandro-moschitti
+    last: Moschitti
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  author_string: Danilo Croce, Alessandro Moschitti, Roberto Basili
+  bibkey: croce-etal-2011-structured
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1034'
+  page_last: '1046'
+  pages: "1034\u20131046"
+  paper_id: '96'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1096.jpg
+  title: Structured Lexical Similarity via Convolution Kernels on Dependency Trees
+  title_html: Structured Lexical Similarity via Convolution Kernels on Dependency
+    Trees
+  url: https://www.aclweb.org/anthology/D11-1096
+  year: '2011'
+D11-1097:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Diarmuid
+    full: "Diarmuid \xD3 S\xE9aghdha"
+    id: diarmuid-o-seaghdha
+    last: "\xD3 S\xE9aghdha"
+  - first: Anna
+    full: Anna Korhonen
+    id: anna-korhonen
+    last: Korhonen
+  author_string: "Diarmuid \xD3 S\xE9aghdha, Anna Korhonen"
+  bibkey: o-seaghdha-korhonen-2011-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1047'
+  page_last: '1057'
+  pages: "1047\u20131057"
+  paper_id: '97'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1097.jpg
+  title: Probabilistic models of similarity in syntactic context
+  title_html: Probabilistic models of similarity in syntactic context
+  url: https://www.aclweb.org/anthology/D11-1097
+  year: '2011'
+D11-1098:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Dipak L.
+    full: Dipak L. Chaudhari
+    id: dipak-l-chaudhari
+    last: Chaudhari
+  - first: Om P.
+    full: Om P. Damani
+    id: om-p-damani
+    last: Damani
+  - first: Srivatsan
+    full: Srivatsan Laxman
+    id: srivatsan-laxman
+    last: Laxman
+  author_string: Dipak L. Chaudhari, Om P. Damani, Srivatsan Laxman
+  bibkey: chaudhari-etal-2011-lexical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1058'
+  page_last: '1068'
+  pages: "1058\u20131068"
+  paper_id: '98'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1098.jpg
+  title: Lexical Co-occurrence, Statistical Significance, and Word Association
+  title_html: Lexical Co-occurrence, Statistical Significance, and Word Association
+  url: https://www.aclweb.org/anthology/D11-1098
+  year: '2011'
+D11-1099:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Altaf
+    full: Altaf Rahman
+    id: altaf-rahman
+    last: Rahman
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Altaf Rahman, Vincent Ng
+  bibkey: rahman-ng-2011-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1069'
+  page_last: '1080'
+  pages: "1069\u20131080"
+  paper_id: '99'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1099.jpg
+  title: Learning the Information Status of Noun Phrases in Spoken Dialogues
+  title_html: Learning the Information Status of Noun Phrases in Spoken Dialogues
+  url: https://www.aclweb.org/anthology/D11-1099
+  year: '2011'
+D11-1100:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Balamurali
+    full: Balamurali AR
+    id: balamurali-ar
+    last: AR
+  - first: Aditya
+    full: Aditya Joshi
+    id: aditya-joshi
+    last: Joshi
+  - first: Pushpak
+    full: Pushpak Bhattacharyya
+    id: pushpak-bhattacharyya
+    last: Bhattacharyya
+  author_string: Balamurali AR, Aditya Joshi, Pushpak Bhattacharyya
+  bibkey: ar-etal-2011-harnessing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1081'
+  page_last: '1091'
+  pages: "1081\u20131091"
+  paper_id: '100'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1100.jpg
+  title: Harnessing WordNet Senses for Supervised Sentiment Classification
+  title_html: Harnessing <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et
+    Senses for Supervised Sentiment Classification
+  url: https://www.aclweb.org/anthology/D11-1100
+  year: '2011'
+D11-1101:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Song
+    full: Song Feng
+    id: song-feng
+    last: Feng
+  - first: Ritwik
+    full: Ritwik Bose
+    id: ritwik-bose
+    last: Bose
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  author_string: Song Feng, Ritwik Bose, Yejin Choi
+  bibkey: feng-etal-2011-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1092'
+  page_last: '1103'
+  pages: "1092\u20131103"
+  paper_id: '101'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1101.jpg
+  title: Learning General Connotation of Words using Graph-based Algorithms
+  title_html: Learning General Connotation of Words using Graph-based Algorithms
+  url: https://www.aclweb.org/anthology/D11-1101
+  year: '2011'
+D11-1102:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Marco
+    full: Marco Dinarelli
+    id: marco-dinarelli
+    last: Dinarelli
+  - first: Sophie
+    full: Sophie Rosset
+    id: sophie-rosset
+    last: Rosset
+  author_string: Marco Dinarelli, Sophie Rosset
+  bibkey: dinarelli-rosset-2011-hypotheses
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1104'
+  page_last: '1115'
+  pages: "1104\u20131115"
+  paper_id: '102'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1102.jpg
+  title: Hypotheses Selection Criteria in a Reranking Framework for Spoken Language
+    Understanding
+  title_html: Hypotheses Selection Criteria in a Reranking Framework for Spoken Language
+    Understanding
+  url: https://www.aclweb.org/anthology/D11-1102
+  year: '2011'
+D11-1103:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Anoop
+    full: Anoop Deoras
+    id: anoop-deoras
+    last: Deoras
+  - first: "Tom\xE1\u0161"
+    full: "Tom\xE1\u0161 Mikolov"
+    id: tomas-mikolov
+    last: Mikolov
+  - first: Kenneth
+    full: Kenneth Church
+    id: kenneth-church
+    last: Church
+  author_string: "Anoop Deoras, Tom\xE1\u0161 Mikolov, Kenneth Church"
+  bibkey: deoras-etal-2011-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1116'
+  page_last: '1127'
+  pages: "1116\u20131127"
+  paper_id: '103'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1103.jpg
+  title: A Fast Re-scoring Strategy to Capture Long-Distance Dependencies
+  title_html: A Fast Re-scoring Strategy to Capture Long-Distance Dependencies
+  url: https://www.aclweb.org/anthology/D11-1103
+  year: '2011'
+D11-1104:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Puyang
+    full: Puyang Xu
+    id: puyang-xu
+    last: Xu
+  - first: Asela
+    full: Asela Gunawardana
+    id: asela-gunawardana
+    last: Gunawardana
+  - first: Sanjeev
+    full: Sanjeev Khudanpur
+    id: sanjeev-khudanpur
+    last: Khudanpur
+  author_string: Puyang Xu, Asela Gunawardana, Sanjeev Khudanpur
+  bibkey: xu-etal-2011-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1128'
+  page_last: '1136'
+  pages: "1128\u20131136"
+  paper_id: '104'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1104.jpg
+  title: Efficient Subsampling for Training Complex Language Models
+  title_html: Efficient Subsampling for Training Complex Language Models
+  url: https://www.aclweb.org/anthology/D11-1104
+  year: '2011'
+D11-1105:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Peng
+    full: Peng Li
+    id: peng-li
+    last: Li
+  - first: Yinglin
+    full: Yinglin Wang
+    id: yinglin-wang
+    last: Wang
+  - first: Wei
+    full: Wei Gao
+    id: wei-gao
+    last: Gao
+  - first: Jing
+    full: Jing Jiang
+    id: jing-jiang
+    last: Jiang
+  author_string: Peng Li, Yinglin Wang, Wei Gao, Jing Jiang
+  bibkey: li-etal-2011-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1137'
+  page_last: '1146'
+  pages: "1137\u20131146"
+  paper_id: '105'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1105.jpg
+  title: Generating Aspect-oriented Multi-Document Summarization with Event-aspect
+    model
+  title_html: Generating Aspect-oriented Multi-Document Summarization with Event-aspect
+    model
+  url: https://www.aclweb.org/anthology/D11-1105
+  year: '2011'
+D11-1106:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yue
+    full: Yue Zhang
+    id: yue-zhang
+    last: Zhang
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  author_string: Yue Zhang, Stephen Clark
+  bibkey: zhang-clark-2011-syntax
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1147'
+  page_last: '1157'
+  pages: "1147\u20131157"
+  paper_id: '106'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1106.jpg
+  title: Syntax-Based Grammaticality Improvement using CCG and Guided Search
+  title_html: Syntax-Based Grammaticality Improvement using <span class="acl-fixed-case">CCG</span>
+    and Guided Search
+  url: https://www.aclweb.org/anthology/D11-1106
+  year: '2011'
+D11-1107:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Jette
+    full: Jette Viethen
+    id: jette-viethen
+    last: Viethen
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  - first: Markus
+    full: Markus Guhe
+    id: markus-guhe
+    last: Guhe
+  author_string: Jette Viethen, Robert Dale, Markus Guhe
+  bibkey: viethen-etal-2011-generating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1158'
+  page_last: '1167'
+  pages: "1158\u20131167"
+  paper_id: '107'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1107.jpg
+  title: 'Generating Subsequent Reference in Shared Visual Scenes: Computation vs
+    Re-Use'
+  title_html: 'Generating Subsequent Reference in Shared Visual Scenes: Computation
+    vs Re-Use'
+  url: https://www.aclweb.org/anthology/D11-1107
+  year: '2011'
+D11-1108:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Juri
+    full: Juri Ganitkevitch
+    id: juri-ganitkevitch
+    last: Ganitkevitch
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  - first: Courtney
+    full: Courtney Napoles
+    id: courtney-napoles
+    last: Napoles
+  - first: Benjamin
+    full: Benjamin Van Durme
+    id: benjamin-van-durme
+    last: Van Durme
+  author_string: Juri Ganitkevitch, Chris Callison-Burch, Courtney Napoles, Benjamin
+    Van Durme
+  bibkey: ganitkevitch-etal-2011-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1168'
+  page_last: '1179'
+  pages: "1168\u20131179"
+  paper_id: '108'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1108.jpg
+  title: Learning Sentential Paraphrases from Bilingual Parallel Corpora for Text-to-Text
+    Generation
+  title_html: Learning Sentential Paraphrases from Bilingual Parallel Corpora for
+    Text-to-Text Generation
+  url: https://www.aclweb.org/anthology/D11-1108
+  year: '2011'
+D11-1109:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Zhenghua
+    full: Zhenghua Li
+    id: zhenghua-li
+    last: Li
+  - first: Min
+    full: Min Zhang
+    id: min-zhang
+    last: Zhang
+  - first: Wanxiang
+    full: Wanxiang Che
+    id: wanxiang-che
+    last: Che
+  - first: Ting
+    full: Ting Liu
+    id: ting-liu
+    last: Liu
+  - first: Wenliang
+    full: Wenliang Chen
+    id: wenliang-chen
+    last: Chen
+  - first: Haizhou
+    full: Haizhou Li
+    id: haizhou-li
+    last: Li
+  author_string: Zhenghua Li, Min Zhang, Wanxiang Che, Ting Liu, Wenliang Chen, Haizhou
+    Li
+  bibkey: li-etal-2011-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1180'
+  page_last: '1191'
+  pages: "1180\u20131191"
+  paper_id: '109'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1109.jpg
+  title: Joint Models for Chinese POS Tagging and Dependency Parsing
+  title_html: Joint Models for <span class="acl-fixed-case">C</span>hinese <span class="acl-fixed-case">POS</span>
+    Tagging and Dependency Parsing
+  url: https://www.aclweb.org/anthology/D11-1109
+  year: '2011'
+D11-1110:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Wenbin
+    full: Wenbin Jiang
+    id: wenbin-jiang
+    last: Jiang
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Yajuan
+    full: Yajuan Lv
+    id: yajuan-lu
+    last: Lv
+  author_string: Wenbin Jiang, Qun Liu, Yajuan Lv
+  bibkey: jiang-etal-2011-relaxed
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1192'
+  page_last: '1201'
+  pages: "1192\u20131201"
+  paper_id: '110'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1110.jpg
+  title: Relaxed Cross-lingual Projection of Constituent Syntax
+  title_html: Relaxed Cross-lingual Projection of Constituent Syntax
+  url: https://www.aclweb.org/anthology/D11-1110
+  year: '2011'
+D11-1111:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Nikhil
+    full: Nikhil Dinesh
+    id: nikhil-dinesh
+    last: Dinesh
+  - first: Aravind
+    full: Aravind Joshi
+    id: aravind-joshi
+    last: Joshi
+  - first: Insup
+    full: Insup Lee
+    id: insup-lee
+    last: Lee
+  author_string: Nikhil Dinesh, Aravind Joshi, Insup Lee
+  bibkey: dinesh-etal-2011-computing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1202'
+  page_last: '1212'
+  pages: "1202\u20131212"
+  paper_id: '111'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1111.jpg
+  title: Computing Logical Form on Regulatory Texts
+  title_html: Computing Logical Form on Regulatory Texts
+  url: https://www.aclweb.org/anthology/D11-1111
+  year: '2011'
+D11-1112:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Mark-Jan
+    full: Mark-Jan Nederhof
+    id: mark-jan-nederhof
+    last: Nederhof
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: Mark-Jan Nederhof, Giorgio Satta
+  bibkey: nederhof-satta-2011-computation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1213'
+  page_last: '1221'
+  pages: "1213\u20131221"
+  paper_id: '112'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1112.jpg
+  title: Computation of Infix Probabilities for Probabilistic Context-Free Grammars
+  title_html: Computation of Infix Probabilities for Probabilistic Context-Free Grammars
+  url: https://www.aclweb.org/anthology/D11-1112
+  year: '2011'
+D11-1113:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Enrique
+    full: Enrique Henestroza Anguiano
+    id: enrique-henestroza-anguiano
+    last: Henestroza Anguiano
+  - first: Marie
+    full: Marie Candito
+    id: marie-candito
+    last: Candito
+  author_string: Enrique Henestroza Anguiano, Marie Candito
+  bibkey: henestroza-anguiano-candito-2011-parse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1222'
+  page_last: '1233'
+  pages: "1222\u20131233"
+  paper_id: '113'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1113.jpg
+  title: Parse Correction with Specialized Models for Difficult Attachment Types
+  title_html: Parse Correction with Specialized Models for Difficult Attachment Types
+  url: https://www.aclweb.org/anthology/D11-1113
+  year: '2011'
+D11-1114:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Shay B.
+    full: Shay B. Cohen
+    id: shay-b-cohen
+    last: Cohen
+  - first: Carlos
+    full: "Carlos G\xF3mez-Rodr\xEDguez"
+    id: carlos-gomez-rodriguez
+    last: "G\xF3mez-Rodr\xEDguez"
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  author_string: "Shay B. Cohen, Carlos G\xF3mez-Rodr\xEDguez, Giorgio Satta"
+  bibkey: cohen-etal-2011-exact
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1234'
+  page_last: '1245'
+  pages: "1234\u20131245"
+  paper_id: '114'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1114.jpg
+  title: Exact Inference for Generative Probabilistic Non-Projective Dependency Parsing
+  title_html: Exact Inference for Generative Probabilistic Non-Projective Dependency
+    Parsing
+  url: https://www.aclweb.org/anthology/D11-1114
+  year: '2011'
+D11-1115:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Emily
+    full: Emily Thomforde
+    id: emily-thomforde
+    last: Thomforde
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Emily Thomforde, Mark Steedman
+  bibkey: thomforde-steedman-2011-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1246'
+  page_last: '1256'
+  pages: "1246\u20131256"
+  paper_id: '115'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1115.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1115.jpg
+  title: Semi-supervised CCG Lexicon Extension
+  title_html: Semi-supervised <span class="acl-fixed-case">CCG</span> Lexicon Extension
+  url: https://www.aclweb.org/anthology/D11-1115
+  year: '2011'
+D11-1116:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1116.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1116.Attachment.zip
+  author:
+  - first: Stephen
+    full: Stephen Tratz
+    id: stephen-tratz
+    last: Tratz
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Stephen Tratz, Eduard Hovy
+  bibkey: tratz-hovy-2011-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1257'
+  page_last: '1268'
+  pages: "1257\u20131268"
+  paper_id: '116'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1116.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1116.jpg
+  title: A Fast, Accurate, Non-Projective, Semantically-Enriched Parser
+  title_html: A Fast, Accurate, Non-Projective, Semantically-Enriched Parser
+  url: https://www.aclweb.org/anthology/D11-1116
+  year: '2011'
+D11-1117:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Valentin I.
+    full: Valentin I. Spitkovsky
+    id: valentin-i-spitkovsky
+    last: Spitkovsky
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Valentin I. Spitkovsky, Hiyan Alshawi, Daniel Jurafsky
+  bibkey: spitkovsky-etal-2011-lateen
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1269'
+  page_last: '1280'
+  pages: "1269\u20131280"
+  paper_id: '117'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1117.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1117.jpg
+  title: 'Lateen EM: Unsupervised Training with Multiple Objectives, Applied to Dependency
+    Grammar Induction'
+  title_html: 'Lateen <span class="acl-fixed-case">EM</span>: Unsupervised Training
+    with Multiple Objectives, Applied to Dependency Grammar Induction'
+  url: https://www.aclweb.org/anthology/D11-1117
+  year: '2011'
+D11-1118:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Valentin I.
+    full: Valentin I. Spitkovsky
+    id: valentin-i-spitkovsky
+    last: Spitkovsky
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  - first: Angel X.
+    full: Angel X. Chang
+    id: angel-chang
+    last: Chang
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Valentin I. Spitkovsky, Hiyan Alshawi, Angel X. Chang, Daniel Jurafsky
+  bibkey: spitkovsky-etal-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1281'
+  page_last: '1290'
+  pages: "1281\u20131290"
+  paper_id: '118'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1118.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1118.jpg
+  title: Unsupervised Dependency Parsing without Gold Part-of-Speech Tags
+  title_html: Unsupervised Dependency Parsing without Gold Part-of-Speech Tags
+  url: https://www.aclweb.org/anthology/D11-1118
+  year: '2011'
+D11-1119:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Wei
+    full: Wei Xu
+    id: wei-xu
+    last: Xu
+  - first: Joel
+    full: Joel Tetreault
+    id: joel-tetreault
+    last: Tetreault
+  - first: Martin
+    full: Martin Chodorow
+    id: martin-chodorow
+    last: Chodorow
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  - first: Le
+    full: Le Zhao
+    id: le-zhao
+    last: Zhao
+  author_string: Wei Xu, Joel Tetreault, Martin Chodorow, Ralph Grishman, Le Zhao
+  bibkey: xu-etal-2011-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1291'
+  page_last: '1300'
+  pages: "1291\u20131300"
+  paper_id: '119'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1119.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1119.jpg
+  title: Exploiting Syntactic and Distributional Information for Spelling Correction
+    with Web-Scale N-gram Models
+  title_html: Exploiting Syntactic and Distributional Information for Spelling Correction
+    with Web-Scale N-gram Models
+  url: https://www.aclweb.org/anthology/D11-1119
+  year: '2011'
+D11-1120:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1120.Attachment.pdf
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1120.Attachment.pdf
+  author:
+  - first: John D.
+    full: John D. Burger
+    id: john-d-burger
+    last: Burger
+  - first: John
+    full: John Henderson
+    id: john-henderson
+    last: Henderson
+  - first: George
+    full: George Kim
+    id: george-kim
+    last: Kim
+  - first: Guido
+    full: Guido Zarrella
+    id: guido-zarrella
+    last: Zarrella
+  author_string: John D. Burger, John Henderson, George Kim, Guido Zarrella
+  bibkey: burger-etal-2011-discriminating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1301'
+  page_last: '1309'
+  pages: "1301\u20131309"
+  paper_id: '120'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1120.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1120.jpg
+  title: Discriminating Gender on Twitter
+  title_html: Discriminating Gender on Twitter
+  url: https://www.aclweb.org/anthology/D11-1120
+  year: '2011'
+D11-1121:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Roy
+    full: Roy Bar-Haim
+    id: roy-bar-haim
+    last: Bar-Haim
+  - first: Elad
+    full: Elad Dinur
+    id: elad-dinur
+    last: Dinur
+  - first: Ronen
+    full: Ronen Feldman
+    id: ronen-feldman
+    last: Feldman
+  - first: Moshe
+    full: Moshe Fresko
+    id: moshe-fresko
+    last: Fresko
+  - first: Guy
+    full: Guy Goldstein
+    id: guy-goldstein
+    last: Goldstein
+  author_string: Roy Bar-Haim, Elad Dinur, Ronen Feldman, Moshe Fresko, Guy Goldstein
+  bibkey: bar-haim-etal-2011-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1310'
+  page_last: '1319'
+  pages: "1310\u20131319"
+  paper_id: '121'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1121.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1121.jpg
+  title: Identifying and Following Expert Investors in Stock Microblogs
+  title_html: Identifying and Following Expert Investors in Stock Microblogs
+  url: https://www.aclweb.org/anthology/D11-1121
+  year: '2011'
+D11-1122:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Joel
+    full: Joel Lang
+    id: joel-lang
+    last: Lang
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Joel Lang, Mirella Lapata
+  bibkey: lang-lapata-2011-unsupervised-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1320'
+  page_last: '1331'
+  pages: "1320\u20131331"
+  paper_id: '122'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1122.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1122.jpg
+  title: Unsupervised Semantic Role Induction with Graph Partitioning
+  title_html: Unsupervised Semantic Role Induction with Graph Partitioning
+  url: https://www.aclweb.org/anthology/D11-1122
+  year: '2011'
+D11-1123:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Yuanbin
+    full: Yuanbin Wu
+    id: yuanbin-wu
+    last: Wu
+  - first: Qi
+    full: Qi Zhang
+    id: qi-zhang
+    last: Zhang
+  - first: Xuanjing
+    full: Xuanjing Huang
+    id: xuan-jing-huang
+    last: Huang
+  - first: Lide
+    full: Lide Wu
+    id: lide-wu
+    last: Wu
+  author_string: Yuanbin Wu, Qi Zhang, Xuanjing Huang, Lide Wu
+  bibkey: wu-etal-2011-structural
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1332'
+  page_last: '1341'
+  pages: "1332\u20131341"
+  paper_id: '123'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1123.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1123.jpg
+  title: Structural Opinion Mining for Graph-based Sentiment Representation
+  title_html: Structural Opinion Mining for Graph-based Sentiment Representation
+  url: https://www.aclweb.org/anthology/D11-1123
+  year: '2011'
+D11-1124:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Rui
+    full: Rui Yan
+    id: rui-yan
+    last: Yan
+  - first: Jian-Yun
+    full: Jian-Yun Nie
+    id: jian-yun-nie
+    last: Nie
+  - first: Xiaoming
+    full: Xiaoming Li
+    id: xiaoming-li
+    last: Li
+  author_string: Rui Yan, Jian-Yun Nie, Xiaoming Li
+  bibkey: yan-etal-2011-summarize
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1342'
+  page_last: '1351'
+  pages: "1342\u20131351"
+  paper_id: '124'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1124.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1124.jpg
+  title: 'Summarize What You Are Interested In: An Optimization Framework for Interactive
+    Personalized Summarization'
+  title_html: 'Summarize What You Are Interested In: An Optimization Framework for
+    Interactive Personalized Summarization'
+  url: https://www.aclweb.org/anthology/D11-1124
+  year: '2011'
+D11-1125:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Mark
+    full: Mark Hopkins
+    id: mark-hopkins
+    last: Hopkins
+  - first: Jonathan
+    full: Jonathan May
+    id: jonathan-may
+    last: May
+  author_string: Mark Hopkins, Jonathan May
+  bibkey: hopkins-may-2011-tuning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1352'
+  page_last: '1362'
+  pages: "1352\u20131362"
+  paper_id: '125'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1125.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1125.jpg
+  title: Tuning as Ranking
+  title_html: Tuning as Ranking
+  url: https://www.aclweb.org/anthology/D11-1125
+  year: '2011'
+D11-1126:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ashish
+    full: Ashish Venugopal
+    id: ashish-venugopal
+    last: Venugopal
+  - first: Jakob
+    full: Jakob Uszkoreit
+    id: jakob-uszkoreit
+    last: Uszkoreit
+  - first: David
+    full: David Talbot
+    id: david-talbot
+    last: Talbot
+  - first: Franz
+    full: Franz Och
+    id: franz-josef-och
+    last: Och
+  - first: Juri
+    full: Juri Ganitkevitch
+    id: juri-ganitkevitch
+    last: Ganitkevitch
+  author_string: Ashish Venugopal, Jakob Uszkoreit, David Talbot, Franz Och, Juri
+    Ganitkevitch
+  bibkey: venugopal-etal-2011-watermarking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1363'
+  page_last: '1372'
+  pages: "1363\u20131372"
+  paper_id: '126'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1126.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1126.jpg
+  title: Watermarking the Outputs of Structured Prediction with an application in
+    Statistical Machine Translation.
+  title_html: Watermarking the Outputs of Structured Prediction with an application
+    in Statistical Machine Translation.
+  url: https://www.aclweb.org/anthology/D11-1126
+  year: '2011'
+D11-1127:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Gonzalo
+    full: Gonzalo Iglesias
+    id: gonzalo-iglesias
+    last: Iglesias
+  - first: Cyril
+    full: Cyril Allauzen
+    id: cyril-allauzen
+    last: Allauzen
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  - first: "Adri\xE0"
+    full: "Adri\xE0 de Gispert"
+    id: adria-de-gispert
+    last: de Gispert
+  - first: Michael
+    full: Michael Riley
+    id: michael-riley
+    last: Riley
+  author_string: "Gonzalo Iglesias, Cyril Allauzen, William Byrne, Adri\xE0 de Gispert,\
+    \ Michael Riley"
+  bibkey: iglesias-etal-2011-hierarchical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1373'
+  page_last: '1383'
+  pages: "1373\u20131383"
+  paper_id: '127'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1127.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1127.jpg
+  title: Hierarchical Phrase-based Translation Representations
+  title_html: Hierarchical Phrase-based Translation Representations
+  url: https://www.aclweb.org/anthology/D11-1127
+  year: '2011'
+D11-1128:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Ali
+    full: Ali El Kahki
+    id: ali-el-kahki
+    last: El Kahki
+  - first: Kareem
+    full: Kareem Darwish
+    id: kareem-darwish
+    last: Darwish
+  - first: Ahmed
+    full: Ahmed Saad El Din
+    id: ahmed-saad-el-din
+    last: Saad El Din
+  - first: Mohamed
+    full: Mohamed Abd El-Wahab
+    id: mohamed-abd-el-wahab
+    last: Abd El-Wahab
+  - first: Ahmed
+    full: Ahmed Hefny
+    id: ahmed-hefny
+    last: Hefny
+  - first: Waleed
+    full: Waleed Ammar
+    id: waleed-ammar
+    last: Ammar
+  author_string: Ali El Kahki, Kareem Darwish, Ahmed Saad El Din, Mohamed Abd El-Wahab,
+    Ahmed Hefny, Waleed Ammar
+  bibkey: el-kahki-etal-2011-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1384'
+  page_last: '1393'
+  pages: "1384\u20131393"
+  paper_id: '128'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1128.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1128.jpg
+  title: Improved Transliteration Mining Using Graph Reinforcement
+  title_html: Improved Transliteration Mining Using Graph Reinforcement
+  url: https://www.aclweb.org/anthology/D11-1128
+  year: '2011'
+D11-1129:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1129.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1129.Attachment.zip
+  author:
+  - first: Edward
+    full: Edward Grefenstette
+    id: edward-grefenstette
+    last: Grefenstette
+  - first: Mehrnoosh
+    full: Mehrnoosh Sadrzadeh
+    id: mehrnoosh-sadrzadeh
+    last: Sadrzadeh
+  author_string: Edward Grefenstette, Mehrnoosh Sadrzadeh
+  bibkey: grefenstette-sadrzadeh-2011-experimental
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1394'
+  page_last: '1404'
+  pages: "1394\u20131404"
+  paper_id: '129'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1129.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1129.jpg
+  title: Experimental Support for a Categorical Compositional Distributional Model
+    of Meaning
+  title_html: Experimental Support for a Categorical Compositional Distributional
+    Model of Meaning
+  url: https://www.aclweb.org/anthology/D11-1129
+  year: '2011'
+D11-1130:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Joseph
+    full: Joseph Reisinger
+    id: joseph-reisinger
+    last: Reisinger
+  - first: Raymond
+    full: Raymond Mooney
+    id: raymond-mooney
+    last: Mooney
+  author_string: Joseph Reisinger, Raymond Mooney
+  bibkey: reisinger-mooney-2011-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1405'
+  page_last: '1415'
+  pages: "1405\u20131415"
+  paper_id: '130'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1130.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1130.jpg
+  title: Cross-Cutting Models of Lexical Semantics
+  title_html: Cross-Cutting Models of Lexical Semantics
+  url: https://www.aclweb.org/anthology/D11-1130
+  year: '2011'
+D11-1131:
+  address: Edinburgh, Scotland, UK.
+  attachment:
+  - filename: D11-1131.Attachment.zip
+    type: attachment
+    url: https://www.aclweb.org/anthology/attachments/D11-1131.Attachment.zip
+  author:
+  - first: Benjamin
+    full: "Benjamin B\xF6rschinger"
+    id: benjamin-borschinger
+    last: "B\xF6rschinger"
+  - first: Bevan K.
+    full: Bevan K. Jones
+    id: bevan-jones
+    last: Jones
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: "Benjamin B\xF6rschinger, Bevan K. Jones, Mark Johnson"
+  bibkey: borschinger-etal-2011-reducing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1416'
+  page_last: '1425'
+  pages: "1416\u20131425"
+  paper_id: '131'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1131.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1131.jpg
+  title: Reducing Grounded Learning Tasks To Grammatical Inference
+  title_html: Reducing Grounded Learning Tasks To Grammatical Inference
+  url: https://www.aclweb.org/anthology/D11-1131
+  year: '2011'
+D11-1132:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Chang
+    full: Chang Wang
+    id: chang-wang
+    last: Wang
+  - first: James
+    full: James Fan
+    id: james-fan
+    last: Fan
+  - first: Aditya
+    full: Aditya Kalyanpur
+    id: aditya-kalyanpur
+    last: Kalyanpur
+  - first: David
+    full: David Gondek
+    id: david-gondek
+    last: Gondek
+  author_string: Chang Wang, James Fan, Aditya Kalyanpur, David Gondek
+  bibkey: wang-etal-2011-relation
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1426'
+  page_last: '1436'
+  pages: "1426\u20131436"
+  paper_id: '132'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1132.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1132.jpg
+  title: Relation Extraction with Relation Topics
+  title_html: Relation Extraction with Relation Topics
+  url: https://www.aclweb.org/anthology/D11-1132
+  year: '2011'
+D11-1133:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Marjorie
+    full: Marjorie Freedman
+    id: marjorie-freedman
+    last: Freedman
+  - first: Lance
+    full: Lance Ramshaw
+    id: lance-ramshaw
+    last: Ramshaw
+  - first: Elizabeth
+    full: Elizabeth Boschee
+    id: elizabeth-boschee
+    last: Boschee
+  - first: Ryan
+    full: Ryan Gabbard
+    id: ryan-gabbard
+    last: Gabbard
+  - first: Gary
+    full: Gary Kratkiewicz
+    id: gary-kratkiewicz
+    last: Kratkiewicz
+  - first: Nicolas
+    full: Nicolas Ward
+    id: nicolas-ward
+    last: Ward
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Marjorie Freedman, Lance Ramshaw, Elizabeth Boschee, Ryan Gabbard,
+    Gary Kratkiewicz, Nicolas Ward, Ralph Weischedel
+  bibkey: freedman-etal-2011-extreme
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1437'
+  page_last: '1446'
+  pages: "1437\u20131446"
+  paper_id: '133'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1133.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1133.jpg
+  title: "Extreme Extraction \u2013 Machine Reading in a Week"
+  title_html: "Extreme Extraction \u2013 Machine Reading in a Week"
+  url: https://www.aclweb.org/anthology/D11-1133
+  year: '2011'
+D11-1134:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Thahir
+    full: Thahir Mohamed
+    id: thahir-mohamed
+    last: Mohamed
+  - first: Estevam
+    full: Estevam Hruschka
+    id: estevam-hruschka
+    last: Hruschka
+  - first: Tom
+    full: Tom Mitchell
+    id: tom-mitchell
+    last: Mitchell
+  author_string: Thahir Mohamed, Estevam Hruschka, Tom Mitchell
+  bibkey: mohamed-etal-2011-discovering
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1447'
+  page_last: '1455'
+  pages: "1447\u20131455"
+  paper_id: '134'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1134.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1134.jpg
+  title: Discovering Relations between Noun Categories
+  title_html: Discovering Relations between Noun Categories
+  url: https://www.aclweb.org/anthology/D11-1134
+  year: '2011'
+D11-1135:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Limin
+    full: Limin Yao
+    id: limin-yao
+    last: Yao
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Sebastian
+    full: Sebastian Riedel
+    id: sebastian-riedel
+    last: Riedel
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Limin Yao, Aria Haghighi, Sebastian Riedel, Andrew McCallum
+  bibkey: yao-etal-2011-structured
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1456'
+  page_last: '1466'
+  pages: "1456\u20131466"
+  paper_id: '135'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1135.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1135.jpg
+  title: Structured Relation Discovery using Generative Models
+  title_html: Structured Relation Discovery using Generative Models
+  url: https://www.aclweb.org/anthology/D11-1135
+  year: '2011'
+D11-1136:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Burr
+    full: Burr Settles
+    id: burr-settles
+    last: Settles
+  author_string: Burr Settles
+  bibkey: settles-2011-closing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1467'
+  page_last: '1478'
+  pages: "1467\u20131478"
+  paper_id: '136'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1136.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1136.jpg
+  title: 'Closing the Loop: Fast, Interactive Semi-Supervised Annotation With Queries
+    on Features and Instances'
+  title_html: 'Closing the Loop: Fast, Interactive Semi-Supervised Annotation With
+    Queries on Features and Instances'
+  url: https://www.aclweb.org/anthology/D11-1136
+  year: '2011'
+D11-1137:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Katsuhiko
+    full: Katsuhiko Hayashi
+    id: katsuhiko-hayashi
+    last: Hayashi
+  - first: Taro
+    full: Taro Watanabe
+    id: taro-watanabe
+    last: Watanabe
+  - first: Masayuki
+    full: Masayuki Asahara
+    id: masayuki-asahara
+    last: Asahara
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Katsuhiko Hayashi, Taro Watanabe, Masayuki Asahara, Yuji Matsumoto
+  bibkey: hayashi-etal-2011-third
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1479'
+  page_last: '1488'
+  pages: "1479\u20131488"
+  paper_id: '137'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1137.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1137.jpg
+  title: Third-order Variational Reranking on Packed-Shared Dependency Forests
+  title_html: Third-order Variational Reranking on Packed-Shared Dependency Forests
+  url: https://www.aclweb.org/anthology/D11-1137
+  year: '2011'
+D11-1138:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Keith
+    full: Keith Hall
+    id: keith-hall
+    last: Hall
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Jason
+    full: Jason Katz-Brown
+    id: jason-katz-brown
+    last: Katz-Brown
+  - first: Michael
+    full: Michael Ringgaard
+    id: michael-ringgaard
+    last: Ringgaard
+  author_string: Keith Hall, Ryan McDonald, Jason Katz-Brown, Michael Ringgaard
+  bibkey: hall-etal-2011-training
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1489'
+  page_last: '1499'
+  pages: "1489\u20131499"
+  paper_id: '138'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1138.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1138.jpg
+  title: Training dependency parsers by jointly optimizing multiple objectives
+  title_html: Training dependency parsers by jointly optimizing multiple objectives
+  url: https://www.aclweb.org/anthology/D11-1138
+  year: '2011'
+D11-1139:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: "Andr\xE9"
+    full: "Andr\xE9 Martins"
+    id: andre-f-t-martins
+    last: Martins
+  - first: Noah
+    full: Noah Smith
+    id: noah-a-smith
+    last: Smith
+  - first: "M\xE1rio"
+    full: "M\xE1rio Figueiredo"
+    id: mario-figueiredo
+    last: Figueiredo
+  - first: Pedro
+    full: Pedro Aguiar
+    id: pedro-aguiar
+    last: Aguiar
+  author_string: "Andr\xE9 Martins, Noah Smith, M\xE1rio Figueiredo, Pedro Aguiar"
+  bibkey: martins-etal-2011-structured
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1500'
+  page_last: '1511'
+  pages: "1500\u20131511"
+  paper_id: '139'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1139.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1139.jpg
+  title: Structured Sparsity in Structured Prediction
+  title_html: Structured Sparsity in Structured Prediction
+  url: https://www.aclweb.org/anthology/D11-1139
+  year: '2011'
+D11-1140:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Tom
+    full: Tom Kwiatkowski
+    id: tom-kwiatkowski
+    last: Kwiatkowski
+  - first: Luke
+    full: Luke Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  - first: Sharon
+    full: Sharon Goldwater
+    id: sharon-goldwater
+    last: Goldwater
+  - first: Mark
+    full: Mark Steedman
+    id: mark-steedman
+    last: Steedman
+  author_string: Tom Kwiatkowski, Luke Zettlemoyer, Sharon Goldwater, Mark Steedman
+  bibkey: kwiatkowski-etal-2011-lexical
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1512'
+  page_last: '1523'
+  pages: "1512\u20131523"
+  paper_id: '140'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1140.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1140.jpg
+  title: Lexical Generalization in CCG Grammar Induction for Semantic Parsing
+  title_html: Lexical Generalization in <span class="acl-fixed-case">CCG</span> Grammar
+    Induction for Semantic Parsing
+  url: https://www.aclweb.org/anthology/D11-1140
+  year: '2011'
+D11-1141:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Alan
+    full: Alan Ritter
+    id: alan-ritter
+    last: Ritter
+  - first: Sam
+    full: Sam Clark
+    id: sam-clark
+    last: Clark
+  - first: ''
+    full: Mausam
+    id: mausam
+    last: Mausam
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Alan Ritter, Sam Clark, Mausam, Oren Etzioni
+  bibkey: ritter-etal-2011-named
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1524'
+  page_last: '1534'
+  pages: "1524\u20131534"
+  paper_id: '141'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1141.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1141.jpg
+  title: 'Named Entity Recognition in Tweets: An Experimental Study'
+  title_html: 'Named Entity Recognition in Tweets: An Experimental Study'
+  url: https://www.aclweb.org/anthology/D11-1141
+  year: '2011'
+D11-1142:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Anthony
+    full: Anthony Fader
+    id: anthony-fader
+    last: Fader
+  - first: Stephen
+    full: Stephen Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Anthony Fader, Stephen Soderland, Oren Etzioni
+  bibkey: fader-etal-2011-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1535'
+  page_last: '1545'
+  pages: "1535\u20131545"
+  paper_id: '142'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1142.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1142.jpg
+  title: Identifying Relations for Open Information Extraction
+  title_html: Identifying Relations for Open Information Extraction
+  url: https://www.aclweb.org/anthology/D11-1142
+  year: '2011'
+D11-1143:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Florian
+    full: Florian Laws
+    id: florian-laws
+    last: Laws
+  - first: Christian
+    full: Christian Scheible
+    id: christian-scheible
+    last: Scheible
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  author_string: "Florian Laws, Christian Scheible, Hinrich Sch\xFCtze"
+  bibkey: laws-etal-2011-active
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1546'
+  page_last: '1556'
+  pages: "1546\u20131556"
+  paper_id: '143'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1143.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1143.jpg
+  title: Active Learning with Amazon Mechanical Turk
+  title_html: Active Learning with <span class="acl-fixed-case">A</span>mazon Mechanical
+    Turk
+  url: https://www.aclweb.org/anthology/D11-1143
+  year: '2011'
+D11-1144:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Duangmanee
+    full: Duangmanee Putthividhya
+    id: duangmanee-putthividhya
+    last: Putthividhya
+  - first: Junling
+    full: Junling Hu
+    id: junling-hu
+    last: Hu
+  author_string: Duangmanee Putthividhya, Junling Hu
+  bibkey: putthividhya-hu-2011-bootstrapped
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1557'
+  page_last: '1567'
+  pages: "1557\u20131567"
+  paper_id: '144'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1144.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1144.jpg
+  title: Bootstrapped Named Entity Recognition for Product Attribute Extraction
+  title_html: Bootstrapped Named Entity Recognition for Product Attribute Extraction
+  url: https://www.aclweb.org/anthology/D11-1144
+  year: '2011'
+D11-1145:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Eiji
+    full: Eiji Aramaki
+    id: eiji-aramaki
+    last: Aramaki
+  - first: Sachiko
+    full: Sachiko Maskawa
+    id: sachiko-maskawa
+    last: Maskawa
+  - first: Mizuki
+    full: Mizuki Morita
+    id: mizuki-morita
+    last: Morita
+  author_string: Eiji Aramaki, Sachiko Maskawa, Mizuki Morita
+  bibkey: aramaki-etal-2011-twitter
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1568'
+  page_last: '1576'
+  pages: "1568\u20131576"
+  paper_id: '145'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1145.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1145.jpg
+  title: 'Twitter Catches The Flu: Detecting Influenza Epidemics using Twitter'
+  title_html: 'Twitter Catches The Flu: Detecting Influenza Epidemics using Twitter'
+  url: https://www.aclweb.org/anthology/D11-1145
+  year: '2011'
+D11-1146:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Zhiyuan
+    full: Zhiyuan Liu
+    id: zhiyuan-liu
+    last: Liu
+  - first: Xinxiong
+    full: Xinxiong Chen
+    id: xinxiong-chen
+    last: Chen
+  - first: Maosong
+    full: Maosong Sun
+    id: maosong-sun
+    last: Sun
+  author_string: Zhiyuan Liu, Xinxiong Chen, Maosong Sun
+  bibkey: liu-etal-2011-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1577'
+  page_last: '1588'
+  pages: "1577\u20131588"
+  paper_id: '146'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1146.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1146.jpg
+  title: A Simple Word Trigger Method for Social Tag Suggestion
+  title_html: A Simple Word Trigger Method for Social Tag Suggestion
+  url: https://www.aclweb.org/anthology/D11-1146
+  year: '2011'
+D11-1147:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Vahed
+    full: Vahed Qazvinian
+    id: vahed-qazvinian
+    last: Qazvinian
+  - first: Emily
+    full: Emily Rosengren
+    id: emily-rosengren
+    last: Rosengren
+  - first: Dragomir R.
+    full: Dragomir R. Radev
+    id: dragomir-radev
+    last: Radev
+  - first: Qiaozhu
+    full: Qiaozhu Mei
+    id: qiaozhu-mei
+    last: Mei
+  author_string: Vahed Qazvinian, Emily Rosengren, Dragomir R. Radev, Qiaozhu Mei
+  bibkey: qazvinian-etal-2011-rumor
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1589'
+  page_last: '1599'
+  pages: "1589\u20131599"
+  paper_id: '147'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1147.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1147.jpg
+  title: 'Rumor has it: Identifying Misinformation in Microblogs'
+  title_html: 'Rumor has it: Identifying Misinformation in Microblogs'
+  url: https://www.aclweb.org/anthology/D11-1147
+  year: '2011'
+D11-1148:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Sze-Meng Jojo
+    full: Sze-Meng Jojo Wong
+    id: sze-meng-jojo-wong
+    last: Wong
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  author_string: Sze-Meng Jojo Wong, Mark Dras
+  bibkey: wong-dras-2011-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1600'
+  page_last: '1610'
+  pages: "1600\u20131610"
+  paper_id: '148'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1148.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1148.jpg
+  title: Exploiting Parse Structures for Native Language Identification
+  title_html: Exploiting Parse Structures for Native Language Identification
+  url: https://www.aclweb.org/anthology/D11-1148
+  year: '2011'
+D11-1149:
+  address: Edinburgh, Scotland, UK.
+  author:
+  - first: Wei
+    full: Wei Lu
+    id: wei-lu
+    last: Lu
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Wei Lu, Hwee Tou Ng
+  bibkey: lu-ng-2011-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2011 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2011 Conference on Empirical Methods in Natural
+    Language Processing
+  month: July
+  page_first: '1611'
+  page_last: '1622'
+  pages: "1611\u20131622"
+  paper_id: '149'
+  parent_volume_id: D11-1
+  pdf: https://www.aclweb.org/anthology/D11-1149.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D11-1149.jpg
+  title: A Probabilistic Forest-to-String Model for Language Generation from Typed
+    Lambda Calculus Expressions
+  title_html: A Probabilistic Forest-to-String Model for Language Generation from
+    Typed Lambda Calculus Expressions
+  url: https://www.aclweb.org/anthology/D11-1149
+  year: '2011'

@@ -1,0 +1,998 @@
+P89-1000:
+  address: Vancouver, British Columbia, Canada
+  bibkey: acl-1989-association
+  bibtype: proceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1000.jpg
+  title: 27th Annual Meeting of the Association for Computational Linguistics
+  title_html: 27th Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P89-1000
+  year: '1989'
+P89-1001:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Mini
+    full: Mini Zajac
+    id: mini-zajac
+    last: Zajac
+  author_string: Mini Zajac
+  bibkey: zajac-1989-transfer
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981624
+  month: June
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1001.jpg
+  title: A Transfer Model Using a Typed Feature Structure Rewriting System With Inheritance
+  title_html: A Transfer Model Using a Typed Feature Structure Rewriting System With
+    Inheritance
+  url: https://www.aclweb.org/anthology/P89-1001
+  year: '1989'
+P89-1002:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Stuart M.
+    full: Stuart M. Shieber
+    id: stuart-m-shieber
+    last: Shieber
+  - first: Gertjan
+    full: Gertjan van Noord
+    id: gertjan-van-noord
+    last: van Noord
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  - first: Fernando C. N.
+    full: Fernando C. N. Pereira
+    id: fernando-c-n-pereira
+    last: Pereira
+  author_string: Stuart M. Shieber, Gertjan van Noord, Robert C. Moore, Fernando C.
+    N. Pereira
+  bibkey: shieber-etal-1989-semantic
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981625
+  month: June
+  page_first: '7'
+  page_last: '17'
+  pages: "7\u201317"
+  paper_id: '2'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1002.jpg
+  title: A Semantic-Head-Driven Generation Algorithm for Unification-Based Formalisms
+  title_html: A Semantic-Head-Driven Generation Algorithm for Unification-Based Formalisms
+  url: https://www.aclweb.org/anthology/P89-1002
+  year: '1989'
+P89-1003:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Anuj
+    full: Anuj Dawar
+    id: anuj-dawar
+    last: Dawar
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  author_string: Anuj Dawar, K. Vijay-Shanker
+  bibkey: dawar-vijay-shanker-1989-three
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981626
+  month: June
+  page_first: '18'
+  page_last: '24'
+  pages: "18\u201324"
+  paper_id: '3'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1003.jpg
+  title: A Three-Valued Interpretation of Negation in Feature Structure Descriptions
+  title_html: A Three-Valued Interpretation of Negation in Feature Structure Descriptions
+  url: https://www.aclweb.org/anthology/P89-1003
+  year: '1989'
+P89-1004:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Hiyan
+    full: Hiyan Alshawi
+    id: hiyan-alshawi
+    last: Alshawi
+  - first: Jan
+    full: Jan van Eijck
+    id: jan-van-eijck
+    last: van Eijck
+  author_string: Hiyan Alshawi, Jan van Eijck
+  bibkey: alshawi-van-eijck-1989-logical
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981627
+  month: June
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1004.jpg
+  title: Logical Forms in the Core Language Engine
+  title_html: Logical Forms in the Core Language Engine
+  url: https://www.aclweb.org/anthology/P89-1004
+  year: '1989'
+P89-1005:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Robert C. Moore
+  bibkey: moore-1989-unification
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981628
+  month: June
+  page_first: '33'
+  page_last: '41'
+  pages: "33\u201341"
+  paper_id: '5'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1005.jpg
+  title: Unification-Based Semantic Interpretation
+  title_html: Unification-Based Semantic Interpretation
+  url: https://www.aclweb.org/anthology/P89-1005
+  year: '1989'
+P89-1006:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Lewis G.
+    full: Lewis G. Creary
+    id: lewis-g-creary
+    last: Creary
+  - first: J. Mark
+    full: J. Mark Gawron
+    id: jean-mark-gawron
+    last: Gawron
+  - first: John
+    full: John Nerbonne
+    id: john-nerbonne
+    last: Nerbonne
+  author_string: Lewis G. Creary, J. Mark Gawron, John Nerbonne
+  bibkey: creary-etal-1989-reference
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981629
+  month: June
+  page_first: '42'
+  page_last: '50'
+  pages: "42\u201350"
+  paper_id: '6'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1006.jpg
+  title: Reference to Locations
+  title_html: Reference to Locations
+  url: https://www.aclweb.org/anthology/P89-1006
+  year: '1989'
+P89-1007:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Rebecca J.
+    full: Rebecca J. Passonneau
+    id: rebecca-j-passonneau
+    last: Passonneau
+  author_string: Rebecca J. Passonneau
+  bibkey: passonneau-1989-getting
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981630
+  month: June
+  page_first: '51'
+  page_last: '59'
+  pages: "51\u201359"
+  paper_id: '7'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1007.jpg
+  title: Getting at Discourse Referents
+  title_html: Getting at Discourse Referents
+  url: https://www.aclweb.org/anthology/P89-1007
+  year: '1989'
+P89-1008:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Amichai
+    full: Amichai Kronfeld
+    id: amichai-kronfeld
+    last: Kronfeld
+  author_string: Amichai Kronfeld
+  bibkey: kronfeld-1989-conversationally
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981631
+  month: June
+  page_first: '60'
+  page_last: '67'
+  pages: "60\u201367"
+  paper_id: '8'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1008.jpg
+  title: Conversationally Relevant Descriptions
+  title_html: Conversationally Relevant Descriptions
+  url: https://www.aclweb.org/anthology/P89-1008
+  year: '1989'
+P89-1009:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Robert Dale
+  bibkey: dale-1989-cooking
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981632
+  month: June
+  page_first: '68'
+  page_last: '75'
+  pages: "68\u201375"
+  paper_id: '9'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1009.jpg
+  title: Cooking Up Referring Expressions
+  title_html: Cooking Up Referring Expressions
+  url: https://www.aclweb.org/anthology/P89-1009
+  year: '1989'
+P89-1010:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Kenneth Ward
+    full: Kenneth Ward Church
+    id: kenneth-church
+    last: Church
+  - first: Patrick
+    full: Patrick Hanks
+    id: patrick-hanks
+    last: Hanks
+  author_string: Kenneth Ward Church, Patrick Hanks
+  bibkey: church-hanks-1989-word
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981633
+  month: June
+  page_first: '76'
+  page_last: '83'
+  pages: "76\u201383"
+  paper_id: '10'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1010.jpg
+  title: Word Association Norms, Mutual Information, and Lexicography
+  title_html: Word Association Norms, Mutual Information, and Lexicography
+  url: https://www.aclweb.org/anthology/P89-1010
+  year: '1989'
+P89-1011:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ted
+    full: Ted Briscoe
+    id: ted-briscoe
+    last: Briscoe
+  author_string: Ted Briscoe
+  bibkey: briscoe-1989-lexical
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981634
+  month: June
+  page_first: '84'
+  page_last: '90'
+  pages: "84\u201390"
+  paper_id: '11'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1011.jpg
+  title: Lexical Access in Connected Speech Recognition
+  title_html: Lexical Access in Connected Speech Recognition
+  url: https://www.aclweb.org/anthology/P89-1011
+  year: '1989'
+P89-1012:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Mary S.
+    full: Mary S. Neff
+    id: mary-s-neff
+    last: Neff
+  - first: Branimir K.
+    full: Branimir K. Boguraev
+    id: branimir-boguraev
+    last: Boguraev
+  author_string: Mary S. Neff, Branimir K. Boguraev
+  bibkey: neff-boguraev-1989-dictionaries
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981635
+  month: June
+  page_first: '91'
+  page_last: '101'
+  pages: "91\u2013101"
+  paper_id: '12'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1012.jpg
+  title: Dictionaries, Dictionary Grammars and Dictionary Entry Parsing
+  title_html: Dictionaries, Dictionary Grammars and Dictionary Entry Parsing
+  url: https://www.aclweb.org/anthology/P89-1012
+  year: '1989'
+P89-1013:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Chris S.
+    full: Chris S. Mellish
+    id: chris-mellish
+    last: Mellish
+  author_string: Chris S. Mellish
+  bibkey: mellish-1989-chart
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981636
+  month: June
+  page_first: '102'
+  page_last: '109'
+  pages: "102\u2013109"
+  paper_id: '13'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1013.jpg
+  title: Some Chart-Based Techniques for Parsing Ill-Formed Input
+  title_html: Some Chart-Based Techniques for Parsing Ill-Formed Input
+  url: https://www.aclweb.org/anthology/P89-1013
+  year: '1989'
+P89-1014:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Hatte R.
+    full: Hatte R. Blejer
+    id: hatte-blejer
+    last: Blejer
+  - first: Sharon
+    full: Sharon Flank
+    id: sharon-flank
+    last: Flank
+  - first: Andrew
+    full: Andrew Kehler
+    id: andrew-kehler
+    last: Kehler
+  author_string: Hatte R. Blejer, Sharon Flank, Andrew Kehler
+  bibkey: blejer-etal-1989-representing
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981637
+  month: June
+  page_first: '110'
+  page_last: '117'
+  pages: "110\u2013117"
+  paper_id: '14'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1014.jpg
+  title: "On Representing Governed Prepositions and Handling \u201CIncorrect\u201D\
+    \ and Novel Prepositions"
+  title_html: "On Representing Governed Prepositions and Handling \u201CIncorrect\u201D\
+    \ and Novel Prepositions"
+  url: https://www.aclweb.org/anthology/P89-1014
+  year: '1989'
+P89-1015:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Donald
+    full: Donald Hindle
+    id: donald-hindle
+    last: Hindle
+  author_string: Donald Hindle
+  bibkey: hindle-1989-acquiring
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981638
+  month: June
+  page_first: '118'
+  page_last: '125'
+  pages: "118\u2013125"
+  paper_id: '15'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1015.jpg
+  title: Acquiring Disambiguation Rules From Text
+  title_html: Acquiring Disambiguation Rules From Text
+  url: https://www.aclweb.org/anthology/P89-1015
+  year: '1989'
+P89-1016:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sharon L.
+    full: Sharon L. Oviatt
+    id: sharon-oviatt
+    last: Oviatt
+  - first: Philip R.
+    full: Philip R. Cohen
+    id: philip-r-cohen
+    last: Cohen
+  author_string: Sharon L. Oviatt, Philip R. Cohen
+  bibkey: oviatt-cohen-1989-effects
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981639
+  month: June
+  page_first: '126'
+  page_last: '134'
+  pages: "126\u2013134"
+  paper_id: '16'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1016.jpg
+  title: The Effects of Interaction on Spoken Discourse
+  title_html: The Effects of Interaction on Spoken Discourse
+  url: https://www.aclweb.org/anthology/P89-1016
+  year: '1989'
+P89-1017:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: "Ren\xE9"
+    full: "Ren\xE9 Leermakers"
+    id: rene-leermakers1
+    last: Leermakers
+  author_string: "Ren\xE9 Leermakers"
+  bibkey: leermakers-1989-cover
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981640
+  month: June
+  page_first: '135'
+  page_last: '142'
+  pages: "135\u2013142"
+  paper_id: '17'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1017.jpg
+  title: How to cover a grammar
+  title_html: How to cover a grammar
+  url: https://www.aclweb.org/anthology/P89-1017
+  year: '1989'
+P89-1018:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sylvie
+    full: Sylvie Billot
+    id: sylvie-billot
+    last: Billot
+  - first: Bernard
+    full: Bernard Lang
+    id: bernard-lang
+    last: Lang
+  author_string: Sylvie Billot, Bernard Lang
+  bibkey: billot-lang-1989-structure
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981641
+  month: June
+  page_first: '143'
+  page_last: '151'
+  pages: "143\u2013151"
+  paper_id: '18'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1018.jpg
+  title: The Structure of Shared Forests in Ambiguous Parsing
+  title_html: The Structure of Shared Forests in Ambiguous Parsing
+  url: https://www.aclweb.org/anthology/P89-1018
+  year: '1989'
+P89-1019:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fernando C.N.
+    full: Fernando C.N. Pereira
+    id: fernando-c-n-pereira
+    last: Pereira
+  author_string: Fernando C.N. Pereira
+  bibkey: pereira-1989-calculus
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981642
+  month: June
+  page_first: '152'
+  page_last: '160'
+  pages: "152\u2013160"
+  paper_id: '19'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1019.jpg
+  title: A Calculus for Semantic Composition and Scoping
+  title_html: A Calculus for Semantic Composition and Scoping
+  url: https://www.aclweb.org/anthology/P89-1019
+  year: '1989'
+P89-1020:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Carol
+    full: Carol Friedman
+    id: carol-friedman
+    last: Friedman
+  author_string: Carol Friedman
+  bibkey: friedman-1989-general
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981643
+  month: June
+  page_first: '161'
+  page_last: '168'
+  pages: "161\u2013168"
+  paper_id: '20'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1020.jpg
+  title: A General Computational Treatment Of The Comparative
+  title_html: A General Computational Treatment Of The Comparative
+  url: https://www.aclweb.org/anthology/P89-1020
+  year: '1989'
+P89-1021:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Duane E.
+    full: Duane E. Olawsky
+    id: duane-e-olawsky
+    last: Olawsky
+  author_string: Duane E. Olawsky
+  bibkey: olawsky-1989-lexical
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981644
+  month: June
+  page_first: '169'
+  page_last: '176'
+  pages: "169\u2013176"
+  paper_id: '21'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1021.jpg
+  title: The Lexical Semantics of Comparative Expressions in a Multi-Level Semantic
+    Processor
+  title_html: The Lexical Semantics of Comparative Expressions in a Multi-Level Semantic
+    Processor
+  url: https://www.aclweb.org/anthology/P89-1021
+  year: '1989'
+P89-1022:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Mort
+    full: Mort Webster
+    id: mort-webster
+    last: Webster
+  - first: Mitch
+    full: Mitch Marcus
+    id: mitch-marcus
+    last: Marcus
+  author_string: Mort Webster, Mitch Marcus
+  bibkey: webster-marcus-1989-automatic
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981645
+  month: June
+  page_first: '177'
+  page_last: '184'
+  pages: "177\u2013184"
+  paper_id: '22'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1022.jpg
+  title: Automatic Acquisition of the Lexical Semantics of Verbs From Sentence Frames
+  title_html: Automatic Acquisition of the Lexical Semantics of Verbs From Sentence
+    Frames
+  url: https://www.aclweb.org/anthology/P89-1022
+  year: '1989'
+P89-1023:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Paola
+    full: Paola Velardi
+    id: paola-velardi
+    last: Velardi
+  - first: Maria Teresa
+    full: Maria Teresa Pazienza
+    id: maria-teresa-pazienza
+    last: Pazienza
+  author_string: Paola Velardi, Maria Teresa Pazienza
+  bibkey: velardi-pazienza-1989-computer
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981646
+  month: June
+  page_first: '185'
+  page_last: '192'
+  pages: "185\u2013192"
+  paper_id: '23'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1023.jpg
+  title: Computer Aided Interpretation of Lexical Cooccurrences
+  title_html: Computer Aided Interpretation of Lexical Cooccurrences
+  url: https://www.aclweb.org/anthology/P89-1023
+  year: '1989'
+P89-1024:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ralph M.
+    full: Ralph M. Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Ralph M. Weischedel
+  bibkey: weischedel-1989-hybrid
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981647
+  month: June
+  page_first: '193'
+  page_last: '202'
+  pages: "193\u2013202"
+  paper_id: '24'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1024.jpg
+  title: A Hybrid Approach to Representation in the Janus Natural Language Processor
+  title_html: A Hybrid Approach to Representation in the <span class="acl-fixed-case">J</span>anus
+    Natural Language Processor
+  url: https://www.aclweb.org/anthology/P89-1024
+  year: '1989'
+P89-1025:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Johanna D.
+    full: Johanna D. Moore
+    id: johanna-d-moore
+    last: Moore
+  - first: Cecile L.
+    full: Cecile L. Paris
+    id: cecile-paris
+    last: Paris
+  author_string: Johanna D. Moore, Cecile L. Paris
+  bibkey: moore-paris-1989-planning
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981648
+  month: June
+  page_first: '203'
+  page_last: '211'
+  pages: "203\u2013211"
+  paper_id: '25'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1025.jpg
+  title: Planning Text for Advisory Dialogues
+  title_html: Planning Text for Advisory Dialogues
+  url: https://www.aclweb.org/anthology/P89-1025
+  year: '1989'
+P89-1026:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Elizabeth A.
+    full: Elizabeth A. Hinkelman
+    id: elizabeth-a-hinkelman
+    last: Hinkelman
+  - first: James F.
+    full: James F. Allen
+    id: james-allen
+    last: Allen
+  author_string: Elizabeth A. Hinkelman, James F. Allen
+  bibkey: hinkelman-allen-1989-two
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981649
+  month: June
+  page_first: '212'
+  page_last: '219'
+  pages: "212\u2013219"
+  paper_id: '26'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1026.jpg
+  title: Two Constraints on Speech Act Ambiguity
+  title_html: Two Constraints on Speech Act Ambiguity
+  url: https://www.aclweb.org/anthology/P89-1026
+  year: '1989'
+P89-1027:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  - first: K.
+    full: K. Vijay-Shanker
+    id: k-vijay-shanker
+    last: Vijay-Shanker
+  author_string: Aravind K. Joshi, K. Vijay-Shanker
+  bibkey: joshi-vijay-shanker-1989-treatment
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981650
+  month: June
+  page_first: '220'
+  page_last: '227'
+  pages: "220\u2013227"
+  paper_id: '27'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1027.jpg
+  title: 'Treatment of Long Distance Dependencies in LFG and TAG: Functional Uncertainty
+    in LFG Is a Corollary in TAG'
+  title_html: 'Treatment of Long Distance Dependencies in <span class="acl-fixed-case">LFG</span>
+    and <span class="acl-fixed-case">TAG</span>: Functional Uncertainty in <span class="acl-fixed-case">LFG</span>
+    Is a Corollary in <span class="acl-fixed-case">TAG</span>'
+  url: https://www.aclweb.org/anthology/P89-1027
+  year: '1989'
+P89-1028:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fred
+    full: Fred Popowich
+    id: fred-popowich
+    last: Popowich
+  author_string: Fred Popowich
+  bibkey: popowich-1989-tree
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981651
+  month: June
+  page_first: '228'
+  page_last: '236'
+  pages: "228\u2013236"
+  paper_id: '28'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1028.jpg
+  title: Tree Unification Grammar
+  title_html: Tree Unification Grammar
+  url: https://www.aclweb.org/anthology/P89-1028
+  year: '1989'
+P89-1029:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Andrew
+    full: Andrew Haas
+    id: andrew-haas
+    last: Haas
+  author_string: Andrew Haas
+  bibkey: haas-1989-generalization
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981652
+  month: June
+  page_first: '237'
+  page_last: '242'
+  pages: "237\u2013242"
+  paper_id: '29'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1029.jpg
+  title: A Generalization of the Offline Parsable Grammars
+  title_html: A Generalization of the Offline Parsable Grammars
+  url: https://www.aclweb.org/anthology/P89-1029
+  year: '1989'
+P89-1030:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Damaris M.
+    full: Damaris M. Ayuso
+    id: damaris-ayuso
+    last: Ayuso
+  author_string: Damaris M. Ayuso
+  bibkey: ayuso-1989-discourse
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981653
+  month: June
+  page_first: '243'
+  page_last: '250'
+  pages: "243\u2013250"
+  paper_id: '30'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1030.jpg
+  title: Discourse Entities in Janus
+  title_html: Discourse Entities in <span class="acl-fixed-case">J</span>anus
+  url: https://www.aclweb.org/anthology/P89-1030
+  year: '1989'
+P89-1031:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Marilyn A.
+    full: Marilyn A. Walker
+    id: marilyn-walker
+    last: Walker
+  author_string: Marilyn A. Walker
+  bibkey: walker-1989-evaluating
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981654
+  month: June
+  page_first: '251'
+  page_last: '261'
+  pages: "251\u2013261"
+  paper_id: '31'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1031.jpg
+  title: Evaluating Discourse Processing Algorithms
+  title_html: Evaluating Discourse Processing Algorithms
+  url: https://www.aclweb.org/anthology/P89-1031
+  year: '1989'
+P89-1032:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Robert J. P.
+    full: Robert J. P. Ingria
+    id: robert-j-p-ingria
+    last: Ingria
+  - first: David
+    full: David Stallard
+    id: david-stallard
+    last: Stallard
+  author_string: Robert J. P. Ingria, David Stallard
+  bibkey: ingria-stallard-1989-computational
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981655
+  month: June
+  page_first: '262'
+  page_last: '271'
+  pages: "262\u2013271"
+  paper_id: '32'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1032.jpg
+  title: A Computational Mechanism for Pronominal Reference
+  title_html: A Computational Mechanism for Pronominal Reference
+  url: https://www.aclweb.org/anthology/P89-1032
+  year: '1989'
+P89-1033:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Esther
+    full: Esther Konig
+    id: esther-konig
+    last: Konig
+  author_string: Esther Konig
+  bibkey: konig-1989-parsing
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981656
+  month: June
+  page_first: '272'
+  page_last: '279'
+  pages: "272\u2013279"
+  paper_id: '33'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1033.jpg
+  title: Parsing as Natural Deduction
+  title_html: Parsing as Natural Deduction
+  url: https://www.aclweb.org/anthology/P89-1033
+  year: '1989'
+P89-1034:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Claire
+    full: Claire Gardent
+    id: claire-gardent
+    last: Gardent
+  - first: Gabriel G.
+    full: Gabriel G. Bias
+    id: gabriel-g-bias
+    last: Bias
+  - first: Pierre-Frangois
+    full: Pierre-Frangois Jurie
+    id: pierre-frangois-jurie
+    last: Jurie
+  - first: Karine
+    full: Karine Baschung
+    id: karine-baschung
+    last: Baschung
+  author_string: Claire Gardent, Gabriel G. Bias, Pierre-Frangois Jurie, Karine Baschung
+  bibkey: gardent-etal-1989-efficient
+  bibtype: inproceedings
+  booktitle: 27th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 27th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981623.981657
+  month: June
+  page_first: '280'
+  page_last: '287'
+  pages: "280\u2013287"
+  paper_id: '34'
+  parent_volume_id: P89-1
+  pdf: https://www.aclweb.org/anthology/P89-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P89-1034.jpg
+  title: Efficient Parsing for French
+  title_html: Efficient Parsing for <span class="acl-fixed-case">F</span>rench
+  url: https://www.aclweb.org/anthology/P89-1034
+  year: '1989'

@@ -1,0 +1,4809 @@
+R11-1000:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ruslan
+    full: Ruslan Mitkov
+    id: ruslan-mitkov
+    last: Mitkov
+  - first: Galia
+    full: Galia Angelova
+    id: galia-angelova
+    last: Angelova
+  author_string: Ruslan Mitkov, Galia Angelova
+  bibkey: ranlp-2011-international
+  bibtype: proceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  paper_id: '0'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1000.jpg
+  title: Proceedings of the International Conference Recent Advances in Natural Language
+    Processing 2011
+  title_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  url: https://www.aclweb.org/anthology/R11-1000
+  year: '2011'
+R11-1001:
+  address: Hissar, Bulgaria
+  author:
+  - first: Avirup
+    full: Avirup Sil
+    id: avirup-sil
+    last: Sil
+  - first: Alexander
+    full: Alexander Yates
+    id: alexander-yates
+    last: Yates
+  author_string: Avirup Sil, Alexander Yates
+  bibkey: sil-yates-2011-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1001.jpg
+  title: Extracting STRIPS Representations of Actions and Events
+  title_html: Extracting <span class="acl-fixed-case">STRIPS</span> Representations
+    of Actions and Events
+  url: https://www.aclweb.org/anthology/R11-1001
+  year: '2011'
+R11-1002:
+  address: Hissar, Bulgaria
+  author:
+  - first: Shasha
+    full: Shasha Liao
+    id: shasha-liao
+    last: Liao
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Shasha Liao, Ralph Grishman
+  bibkey: liao-grishman-2011-acquiring
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1002.jpg
+  title: 'Acquiring Topic Features to improve Event Extraction: in Pre-selected and
+    Balanced Collections'
+  title_html: 'Acquiring Topic Features to improve Event Extraction: in Pre-selected
+    and Balanced Collections'
+  url: https://www.aclweb.org/anthology/R11-1002
+  year: '2011'
+R11-1003:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hong
+    full: Hong Li
+    id: hong-li
+    last: Li
+  - first: Feiyu
+    full: Feiyu Xu
+    id: feiyu-xu
+    last: Xu
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  author_string: Hong Li, Feiyu Xu, Hans Uszkoreit
+  bibkey: li-etal-2011-minimally
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1003.jpg
+  title: Minimally Supervised Rule Learning for the Extraction of Biographic Information
+    from Various Social Domains
+  title_html: Minimally Supervised Rule Learning for the Extraction of Biographic
+    Information from Various Social Domains
+  url: https://www.aclweb.org/anthology/R11-1003
+  year: '2011'
+R11-1004:
+  address: Hissar, Bulgaria
+  author:
+  - first: Kumutha
+    full: Kumutha Swampillai
+    id: kumutha-swampillai
+    last: Swampillai
+  - first: Mark
+    full: Mark Stevenson
+    id: mark-stevenson
+    last: Stevenson
+  author_string: Kumutha Swampillai, Mark Stevenson
+  bibkey: swampillai-stevenson-2011-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1004.jpg
+  title: Extracting Relations Within and Across Sentences
+  title_html: Extracting Relations Within and Across Sentences
+  url: https://www.aclweb.org/anthology/R11-1004
+  year: '2011'
+R11-1005:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marie
+    full: "Marie Gu\xE9gan"
+    id: marie-guegan
+    last: "Gu\xE9gan"
+  - first: Claude
+    full: Claude de Loupy
+    id: claude-de-loupy
+    last: de Loupy
+  author_string: "Marie Gu\xE9gan, Claude de Loupy"
+  bibkey: guegan-de-loupy-2011-knowledge
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '33'
+  page_last: '40'
+  pages: "33\u201340"
+  paper_id: '5'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1005.jpg
+  title: 'Knowledge-Poor Approach to Shallow Parsing: Contribution of Unsupervised
+    Part-of-Speech Induction'
+  title_html: 'Knowledge-Poor Approach to Shallow Parsing: Contribution of Unsupervised
+    Part-of-Speech Induction'
+  url: https://www.aclweb.org/anthology/R11-1005
+  year: '2011'
+R11-1006:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  - first: Eric
+    full: Eric Baucom
+    id: eric-baucom
+    last: Baucom
+  author_string: "Sandra K\xFCbler, Eric Baucom"
+  bibkey: kubler-baucom-2011-fast
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '41'
+  page_last: '48'
+  pages: "41\u201348"
+  paper_id: '6'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1006.jpg
+  title: Fast Domain Adaptation for Part of Speech Tagging for Dialogues
+  title_html: Fast Domain Adaptation for Part of Speech Tagging for Dialogues
+  url: https://www.aclweb.org/anthology/R11-1006
+  year: '2011'
+R11-1007:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hrafn
+    full: Hrafn Loftsson
+    id: hrafn-loftsson
+    last: Loftsson
+  - first: "Sigr\xFAn"
+    full: "Sigr\xFAn Helgad\xF3ttir"
+    id: sigrun-helgadottir
+    last: "Helgad\xF3ttir"
+  - first: "Eir\xEDkur"
+    full: "Eir\xEDkur R\xF6gnvaldsson"
+    id: eirikur-rognvaldsson
+    last: "R\xF6gnvaldsson"
+  author_string: "Hrafn Loftsson, Sigr\xFAn Helgad\xF3ttir, Eir\xEDkur R\xF6gnvaldsson"
+  bibkey: loftsson-etal-2011-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '49'
+  page_last: '55'
+  pages: "49\u201355"
+  paper_id: '7'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1007.jpg
+  title: Using a Morphological Database to Increase the Accuracy in POS Tagging
+  title_html: Using a Morphological Database to Increase the Accuracy in <span class="acl-fixed-case">POS</span>
+    Tagging
+  url: https://www.aclweb.org/anthology/R11-1007
+  year: '2011'
+R11-1008:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  - first: Rachael
+    full: Rachael Cantrell
+    id: rachael-cantrell
+    last: Cantrell
+  - first: Matthias
+    full: Matthias Scheutz
+    id: matthias-scheutz
+    last: Scheutz
+  author_string: "Sandra K\xFCbler, Rachael Cantrell, Matthias Scheutz"
+  bibkey: kubler-etal-2011-actions
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '56'
+  page_last: '62'
+  pages: "56\u201362"
+  paper_id: '8'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1008.jpg
+  title: 'Actions Speak Louder than Words: Evaluating Parsers in the Context of Natural
+    Language Understanding Systems for Human-Robot Interaction'
+  title_html: 'Actions Speak Louder than Words: Evaluating Parsers in the Context
+    of Natural Language Understanding Systems for Human-Robot Interaction'
+  url: https://www.aclweb.org/anthology/R11-1008
+  year: '2011'
+R11-1009:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ali
+    full: Ali Basirat
+    id: ali-basirat
+    last: Basirat
+  - first: Heshaam
+    full: Heshaam Faili
+    id: heshaam-faili
+    last: Faili
+  author_string: Ali Basirat, Heshaam Faili
+  bibkey: basirat-faili-2011-constructing
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '63'
+  page_last: '69'
+  pages: "63\u201369"
+  paper_id: '9'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1009.jpg
+  title: Constructing Linguistically Motivated Structures from Statistical Grammars
+  title_html: Constructing Linguistically Motivated Structures from Statistical Grammars
+  url: https://www.aclweb.org/anthology/R11-1009
+  year: '2011'
+R11-1010:
+  address: Hissar, Bulgaria
+  author:
+  - first: Shafqat Mumtaz
+    full: Shafqat Mumtaz Virk
+    id: shafqat-mumtaz-virk
+    last: Virk
+  - first: Muhammad
+    full: Muhammad Humayoun
+    id: muhammad-humayoun
+    last: Humayoun
+  - first: Aarne
+    full: Aarne Ranta
+    id: aarne-ranta
+    last: Ranta
+  author_string: Shafqat Mumtaz Virk, Muhammad Humayoun, Aarne Ranta
+  bibkey: virk-etal-2011-open
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '70'
+  page_last: '76'
+  pages: "70\u201376"
+  paper_id: '10'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1010.jpg
+  title: An Open Source Punjabi Resource Grammar
+  title_html: An Open Source <span class="acl-fixed-case">P</span>unjabi Resource
+    Grammar
+  url: https://www.aclweb.org/anthology/R11-1010
+  year: '2011'
+R11-1011:
+  address: Hissar, Bulgaria
+  author:
+  - first: Elena
+    full: Elena Lloret
+    id: elena-lloret
+    last: Lloret
+  - first: Laura
+    full: Laura Plaza
+    id: laura-plaza
+    last: Plaza
+  - first: Ahmet
+    full: Ahmet Aker
+    id: ahmet-aker
+    last: Aker
+  author_string: Elena Lloret, Laura Plaza, Ahmet Aker
+  bibkey: lloret-etal-2011-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '77'
+  page_last: '83'
+  pages: "77\u201383"
+  paper_id: '11'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1011.jpg
+  title: Multi-Document Summarization by Capturing the Information Users are Interested
+    in
+  title_html: Multi-Document Summarization by Capturing the Information Users are
+    Interested in
+  url: https://www.aclweb.org/anthology/R11-1011
+  year: '2011'
+R11-1012:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hemanth Sagar
+    full: Hemanth Sagar Bayyarapu
+    id: hemanth-sagar-bayyarapu
+    last: Bayyarapu
+  author_string: Hemanth Sagar Bayyarapu
+  bibkey: bayyarapu-2011-efficient
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '84'
+  page_last: '89'
+  pages: "84\u201389"
+  paper_id: '12'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1012.jpg
+  title: Efficient algorithm for Context Sensitive Aggregation in Natural Language
+    generation
+  title_html: Efficient algorithm for Context Sensitive Aggregation in Natural Language
+    generation
+  url: https://www.aclweb.org/anthology/R11-1012
+  year: '2011'
+R11-1013:
+  address: Hissar, Bulgaria
+  author:
+  - first: "V\xEDctor M."
+    full: "V\xEDctor M. S\xE1nchez-Cartagena"
+    id: victor-m-sanchez-cartagena
+    last: "S\xE1nchez-Cartagena"
+  - first: Felipe
+    full: "Felipe S\xE1nchez-Mart\xEDnez"
+    id: felipe-sanchez-martinez
+    last: "S\xE1nchez-Mart\xEDnez"
+  - first: Juan Antonio
+    full: "Juan Antonio P\xE9rez-Ortiz"
+    id: juan-antonio-perez-ortiz
+    last: "P\xE9rez-Ortiz"
+  author_string: "V\xEDctor M. S\xE1nchez-Cartagena, Felipe S\xE1nchez-Mart\xEDnez,\
+    \ Juan Antonio P\xE9rez-Ortiz"
+  bibkey: sanchez-cartagena-etal-2011-enriching
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '90'
+  page_last: '96'
+  pages: "90\u201396"
+  paper_id: '13'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1013.jpg
+  title: Enriching a statistical machine translation system trained on small parallel
+    corpora with rule-based bilingual phrases
+  title_html: Enriching a statistical machine translation system trained on small
+    parallel corpora with rule-based bilingual phrases
+  url: https://www.aclweb.org/anthology/R11-1013
+  year: '2011'
+R11-1014:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sheila
+    full: Sheila C. M. de Sousa
+    id: sheila-c-m-de-sousa
+    last: C. M. de Sousa
+  - first: Wilker
+    full: Wilker Aziz
+    id: wilker-aziz
+    last: Aziz
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Sheila C. M. de Sousa, Wilker Aziz, Lucia Specia
+  bibkey: c-m-de-sousa-etal-2011-assessing
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '97'
+  page_last: '103'
+  pages: "97\u2013103"
+  paper_id: '14'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1014.jpg
+  title: Assessing the Post-Editing Effort for Automatic and Semi-Automatic Translations
+    of DVD Subtitles
+  title_html: Assessing the Post-Editing Effort for Automatic and Semi-Automatic Translations
+    of <span class="acl-fixed-case">DVD</span> Subtitles
+  url: https://www.aclweb.org/anthology/R11-1014
+  year: '2011'
+R11-1015:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ralf
+    full: Ralf Steinberger
+    id: ralf-steinberger
+    last: Steinberger
+  - first: Bruno
+    full: Bruno Pouliquen
+    id: bruno-pouliquen
+    last: Pouliquen
+  - first: Mijail
+    full: Mijail Kabadjov
+    id: mijail-kabadjov
+    last: Kabadjov
+  - first: Jenya
+    full: Jenya Belyaeva
+    id: jenya-belyaeva
+    last: Belyaeva
+  - first: Erik
+    full: Erik van der Goot
+    id: erik-van-der-goot
+    last: van der Goot
+  author_string: Ralf Steinberger, Bruno Pouliquen, Mijail Kabadjov, Jenya Belyaeva,
+    Erik van der Goot
+  bibkey: steinberger-etal-2011-jrc
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '104'
+  page_last: '110'
+  pages: "104\u2013110"
+  paper_id: '15'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1015.jpg
+  title: 'JRC-NAMES: A Freely Available, Highly Multilingual Named Entity Resource'
+  title_html: '<span class="acl-fixed-case">JRC</span>-<span class="acl-fixed-case">NAMES</span>:
+    A Freely Available, Highly Multilingual Named Entity Resource'
+  url: https://www.aclweb.org/anthology/R11-1015
+  year: '2011'
+R11-1016:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hannes
+    full: Hannes Wettig
+    id: hannes-wettig
+    last: Wettig
+  - first: Suvi
+    full: Suvi Hiltunen
+    id: suvi-hiltunen
+    last: Hiltunen
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  author_string: Hannes Wettig, Suvi Hiltunen, Roman Yangarber
+  bibkey: wettig-etal-2011-mdl
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '111'
+  page_last: '117'
+  pages: "111\u2013117"
+  paper_id: '16'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1016.jpg
+  title: MDL-based Models for Alignment of Etymological Data
+  title_html: <span class="acl-fixed-case">MDL</span>-based Models for Alignment of
+    Etymological Data
+  url: https://www.aclweb.org/anthology/R11-1016
+  year: '2011'
+R11-1017:
+  address: Hissar, Bulgaria
+  author:
+  - first: Maud
+    full: Maud Ehrmann
+    id: maud-ehrmann
+    last: Ehrmann
+  - first: Marco
+    full: Marco Turchi
+    id: marco-turchi
+    last: Turchi
+  - first: Ralf
+    full: Ralf Steinberger
+    id: ralf-steinberger
+    last: Steinberger
+  author_string: Maud Ehrmann, Marco Turchi, Ralf Steinberger
+  bibkey: ehrmann-etal-2011-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '118'
+  page_last: '124'
+  pages: "118\u2013124"
+  paper_id: '17'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1017.jpg
+  title: Building a Multilingual Named Entity-Annotated Corpus Using Annotation Projection
+  title_html: Building a Multilingual Named Entity-Annotated Corpus Using Annotation
+    Projection
+  url: https://www.aclweb.org/anthology/R11-1017
+  year: '2011'
+R11-1018:
+  address: Hissar, Bulgaria
+  author:
+  - first: Darja
+    full: "Darja Fi\u0161er"
+    id: darja-fiser
+    last: "Fi\u0161er"
+  - first: Nikola
+    full: "Nikola Ljube\u0161i\u0107"
+    id: nikola-ljubesic
+    last: "Ljube\u0161i\u0107"
+  author_string: "Darja Fi\u0161er, Nikola Ljube\u0161i\u0107"
+  bibkey: fiser-ljubesic-2011-bilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '125'
+  page_last: '131'
+  pages: "125\u2013131"
+  paper_id: '18'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1018.jpg
+  title: Bilingual lexicon extraction from comparable corpora for closely related
+    languages
+  title_html: Bilingual lexicon extraction from comparable corpora for closely related
+    languages
+  url: https://www.aclweb.org/anthology/R11-1018
+  year: '2011'
+R11-1019:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marina
+    full: Marina Sokolova
+    id: marina-sokolova
+    last: Sokolova
+  - first: Victoria
+    full: Victoria Bobicev
+    id: victoria-bobicev
+    last: Bobicev
+  author_string: Marina Sokolova, Victoria Bobicev
+  bibkey: sokolova-bobicev-2011-sentiments
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '132'
+  page_last: '139'
+  pages: "132\u2013139"
+  paper_id: '19'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1019.jpg
+  title: Sentiments and Opinions in Health-related Web messages
+  title_html: Sentiments and Opinions in Health-related Web messages
+  url: https://www.aclweb.org/anthology/R11-1019
+  year: '2011'
+R11-1020:
+  address: Hissar, Bulgaria
+  author:
+  - first: Niall
+    full: Niall Rooney
+    id: niall-rooney
+    last: Rooney
+  - first: Hui
+    full: Hui Wang
+    id: hui-wang
+    last: Wang
+  - first: Fiona
+    full: Fiona Browne
+    id: fiona-browne
+    last: Browne
+  - first: Fergal
+    full: Fergal Monaghan
+    id: fergal-monaghan
+    last: Monaghan
+  - first: Jann
+    full: "Jann M\xFCller"
+    id: jann-muller
+    last: "M\xFCller"
+  - first: Alan
+    full: Alan Sergeant
+    id: alan-sergeant
+    last: Sergeant
+  - first: Zhiwei
+    full: Zhiwei Lin
+    id: zhiwei-lin
+    last: Lin
+  - first: Philip
+    full: Philip Taylor
+    id: philip-taylor
+    last: Taylor
+  - first: Vladimir
+    full: Vladimir Dobrynin
+    id: vladimir-dobrynin
+    last: Dobrynin
+  author_string: "Niall Rooney, Hui Wang, Fiona Browne, Fergal Monaghan, Jann M\xFC\
+    ller, Alan Sergeant, Zhiwei Lin, Philip Taylor, Vladimir Dobrynin"
+  bibkey: rooney-etal-2011-exploration
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '140'
+  page_last: '145'
+  pages: "140\u2013145"
+  paper_id: '20'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1020.jpg
+  title: An Exploration into the Use of Contextual Document Clustering for Cluster
+    Sentiment Analysis
+  title_html: An Exploration into the Use of Contextual Document Clustering for Cluster
+    Sentiment Analysis
+  url: https://www.aclweb.org/anthology/R11-1020
+  year: '2011'
+R11-1021:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hen-Hsen
+    full: Hen-Hsen Huang
+    id: hen-hsen-huang
+    last: Huang
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Hen-Hsen Huang, Hsin-Hsi Chen
+  bibkey: huang-chen-2011-pause
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '146'
+  page_last: '153'
+  pages: "146\u2013153"
+  paper_id: '21'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1021.jpg
+  title: Pause and Stop Labeling for Chinese Sentence Boundary Detection
+  title_html: Pause and Stop Labeling for <span class="acl-fixed-case">C</span>hinese
+    Sentence Boundary Detection
+  url: https://www.aclweb.org/anthology/R11-1021
+  year: '2011'
+R11-1022:
+  address: Hissar, Bulgaria
+  author:
+  - first: Yannick
+    full: Yannick Versley
+    id: yannick-versley
+    last: Versley
+  author_string: Yannick Versley
+  bibkey: versley-2011-multilabel
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '154'
+  page_last: '161'
+  pages: "154\u2013161"
+  paper_id: '22'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1022.jpg
+  title: Multilabel Tagging of Discourse Relations in Ambiguous Temporal Connectives
+  title_html: Multilabel Tagging of Discourse Relations in Ambiguous Temporal Connectives
+  url: https://www.aclweb.org/anthology/R11-1022
+  year: '2011'
+R11-1023:
+  address: Hissar, Bulgaria
+  author:
+  - first: "Istv\xE1n"
+    full: "Istv\xE1n Nagy T."
+    id: istvan-nagy-t
+    last: Nagy T.
+  - first: "G\xE1bor"
+    full: "G\xE1bor Berend"
+    id: gabor-berend
+    last: Berend
+  - first: Veronika
+    full: Veronika Vincze
+    id: veronika-vincze
+    last: Vincze
+  author_string: "Istv\xE1n Nagy T., G\xE1bor Berend, Veronika Vincze"
+  bibkey: nagy-t-etal-2011-noun
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '162'
+  page_last: '169'
+  pages: "162\u2013169"
+  paper_id: '23'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1023.jpg
+  title: Noun Compound and Named Entity Recognition and their Usability in Keyphrase
+    Extraction
+  title_html: Noun Compound and Named Entity Recognition and their Usability in Keyphrase
+    Extraction
+  url: https://www.aclweb.org/anthology/R11-1023
+  year: '2011'
+R11-1024:
+  address: Hissar, Bulgaria
+  author:
+  - first: Tomoya
+    full: Tomoya Iwakura
+    id: tomoya-iwakura
+    last: Iwakura
+  author_string: Tomoya Iwakura
+  bibkey: iwakura-2011-named
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '170'
+  page_last: '177'
+  pages: "170\u2013177"
+  paper_id: '24'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1024.jpg
+  title: A Named Entity Recognition Method using Rules Acquired from Unlabeled Data
+  title_html: A Named Entity Recognition Method using Rules Acquired from Unlabeled
+    Data
+  url: https://www.aclweb.org/anthology/R11-1024
+  year: '2011'
+R11-1025:
+  address: Hissar, Bulgaria
+  author:
+  - first: Manfred
+    full: Manfred Klenner
+    id: manfred-klenner
+    last: Klenner
+  - first: Don
+    full: Don Tuggener
+    id: don-tuggener
+    last: Tuggener
+  author_string: Manfred Klenner, Don Tuggener
+  bibkey: klenner-tuggener-2011-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '178'
+  page_last: '185'
+  pages: "178\u2013185"
+  paper_id: '25'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1025.jpg
+  title: An Incremental Entity-Mention Model for Coreference Resolution with Restrictive
+    Antecedent Accessibility
+  title_html: An Incremental Entity-Mention Model for Coreference Resolution with
+    Restrictive Antecedent Accessibility
+  url: https://www.aclweb.org/anthology/R11-1025
+  year: '2011'
+R11-1026:
+  address: Hissar, Bulgaria
+  author:
+  - first: "Orph\xE9e"
+    full: "Orph\xE9e De Clercq"
+    id: orphee-de-clercq
+    last: De Clercq
+  - first: "V\xE9ronique"
+    full: "V\xE9ronique Hoste"
+    id: veronique-hoste
+    last: Hoste
+  - first: Iris
+    full: Iris Hendrickx
+    id: iris-hendrickx
+    last: Hendrickx
+  author_string: "Orph\xE9e De Clercq, V\xE9ronique Hoste, Iris Hendrickx"
+  bibkey: de-clercq-etal-2011-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '186'
+  page_last: '193'
+  pages: "186\u2013193"
+  paper_id: '26'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1026.jpg
+  title: Cross-Domain Dutch Coreference Resolution
+  title_html: Cross-Domain <span class="acl-fixed-case">D</span>utch Coreference Resolution
+  url: https://www.aclweb.org/anthology/R11-1026
+  year: '2011'
+R11-1027:
+  address: Hissar, Bulgaria
+  author:
+  - first: Elena
+    full: Elena Lloret
+    id: elena-lloret
+    last: Lloret
+  - first: Manuel
+    full: Manuel Palomar
+    id: manuel-palomar
+    last: Palomar
+  author_string: Elena Lloret, Manuel Palomar
+  bibkey: lloret-palomar-2011-finding
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '194'
+  page_last: '201'
+  pages: "194\u2013201"
+  paper_id: '27'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1027.jpg
+  title: 'Finding the Best Approach for Multi-lingual Text Summarisation: A Comparative
+    Analysis'
+  title_html: 'Finding the Best Approach for Multi-lingual Text Summarisation: A Comparative
+    Analysis'
+  url: https://www.aclweb.org/anthology/R11-1027
+  year: '2011'
+R11-1028:
+  address: Hissar, Bulgaria
+  author:
+  - first: Veselin
+    full: Veselin Stoyanov
+    id: veselin-stoyanov
+    last: Stoyanov
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Veselin Stoyanov, Claire Cardie
+  bibkey: stoyanov-cardie-2011-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '202'
+  page_last: '209'
+  pages: "202\u2013209"
+  paper_id: '28'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1028.jpg
+  title: Automatically Creating General-Purpose Opinion Summaries from Text
+  title_html: Automatically Creating General-Purpose Opinion Summaries from Text
+  url: https://www.aclweb.org/anthology/R11-1028
+  year: '2011'
+R11-1029:
+  address: Hissar, Bulgaria
+  author:
+  - first: Jakub
+    full: Jakub Piskorski
+    id: jakub-piskorski
+    last: Piskorski
+  - first: Jenya
+    full: Jenya Belayeva
+    id: jenya-belayeva
+    last: Belayeva
+  - first: Martin
+    full: Martin Atkinson
+    id: martin-atkinson
+    last: Atkinson
+  author_string: Jakub Piskorski, Jenya Belayeva, Martin Atkinson
+  bibkey: piskorski-etal-2011-exploring
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '210'
+  page_last: '217'
+  pages: "210\u2013217"
+  paper_id: '29'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1029.jpg
+  title: 'Exploring the Usefulness of Cross-lingual Information Fusion for Refining
+    Real-time News Event Extraction: A Preliminary Study'
+  title_html: 'Exploring the Usefulness of Cross-lingual Information Fusion for Refining
+    Real-time News Event Extraction: A Preliminary Study'
+  url: https://www.aclweb.org/anthology/R11-1029
+  year: '2011'
+R11-1030:
+  address: Hissar, Bulgaria
+  author:
+  - first: Seyed Abolghasem
+    full: Seyed Abolghasem Mirroshandel
+    id: seyed-abolghasem-mirroshandel
+    last: Mirroshandel
+  - first: Gholamreza
+    full: Gholamreza Ghassem-Sani
+    id: gholamreza-ghassem-sani
+    last: Ghassem-Sani
+  author_string: Seyed Abolghasem Mirroshandel, Gholamreza Ghassem-Sani
+  bibkey: mirroshandel-ghassem-sani-2011-temporal
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '218'
+  page_last: '225'
+  pages: "218\u2013225"
+  paper_id: '30'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1030.jpg
+  title: Temporal Relation Extraction Using Expectation Maximization
+  title_html: Temporal Relation Extraction Using Expectation Maximization
+  url: https://www.aclweb.org/anthology/R11-1030
+  year: '2011'
+R11-1031:
+  address: Hissar, Bulgaria
+  author:
+  - first: Wilker
+    full: Wilker Aziz
+    id: wilker-aziz
+    last: Aziz
+  - first: Miguel
+    full: Miguel Rios
+    id: miguel-rios
+    last: Rios
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Wilker Aziz, Miguel Rios, Lucia Specia
+  bibkey: aziz-etal-2011-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '226'
+  page_last: '232'
+  pages: "226\u2013232"
+  paper_id: '31'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1031.jpg
+  title: Improving Chunk-based Semantic Role Labeling with Lexical Features
+  title_html: Improving Chunk-based Semantic Role Labeling with Lexical Features
+  url: https://www.aclweb.org/anthology/R11-1031
+  year: '2011'
+R11-1032:
+  address: Hissar, Bulgaria
+  author:
+  - first: Yoan
+    full: "Yoan Guti\xE9rrez"
+    id: yoan-gutierrez
+    last: "Guti\xE9rrez"
+  - first: Sonia
+    full: "Sonia V\xE1zquez"
+    id: sonia-vazquez
+    last: "V\xE1zquez"
+  - first: "Andr\xE9s"
+    full: "Andr\xE9s Montoyo"
+    id: andres-montoyo
+    last: Montoyo
+  author_string: "Yoan Guti\xE9rrez, Sonia V\xE1zquez, Andr\xE9s Montoyo"
+  bibkey: gutierrez-etal-2011-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '233'
+  page_last: '239'
+  pages: "233\u2013239"
+  paper_id: '32'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1032.jpg
+  title: Improving WSD using ISR-WN with Relevant Semantic Trees and SemCor Senses
+    Frequency
+  title_html: Improving <span class="acl-fixed-case">WSD</span> using <span class="acl-fixed-case">ISR</span>-<span
+    class="acl-fixed-case">WN</span> with Relevant Semantic Trees and <span class="acl-fixed-case">S</span>em<span
+    class="acl-fixed-case">C</span>or Senses Frequency
+  url: https://www.aclweb.org/anthology/R11-1032
+  year: '2011'
+R11-1033:
+  address: Hissar, Bulgaria
+  author:
+  - first: Daniel
+    full: Daniel Micol
+    id: daniel-micol
+    last: Micol
+  - first: Rafael
+    full: "Rafael Mu\xF1oz"
+    id: rafael-munoz
+    last: "Mu\xF1oz"
+  - first: "\xD3scar"
+    full: "\xD3scar Ferr\xE1ndez"
+    id: oscar-ferrandez
+    last: "Ferr\xE1ndez"
+  author_string: "Daniel Micol, Rafael Mu\xF1oz, \xD3scar Ferr\xE1ndez"
+  bibkey: micol-etal-2011-investigating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '240'
+  page_last: '246'
+  pages: "240\u2013246"
+  paper_id: '33'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1033.jpg
+  title: Investigating Advanced Techniques for Document Content Similarity Applied
+    to External Plagiarism Analysis
+  title_html: Investigating Advanced Techniques for Document Content Similarity Applied
+    to External Plagiarism Analysis
+  url: https://www.aclweb.org/anthology/R11-1033
+  year: '2011'
+R11-1034:
+  address: Hissar, Bulgaria
+  author:
+  - first: Mirabela
+    full: Mirabela Navlea
+    id: mirabela-navlea
+    last: Navlea
+  - first: Amalia
+    full: "Amalia Todira\u015Fcu"
+    id: amalia-todirascu
+    last: "Todira\u015Fcu"
+  author_string: "Mirabela Navlea, Amalia Todira\u015Fcu"
+  bibkey: navlea-todirascu-2011-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '247'
+  page_last: '253'
+  pages: "247\u2013253"
+  paper_id: '34'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1034.jpg
+  title: 'Using Cognates in a French-Romanian Lexical Alignment System: A Comparative
+    Study'
+  title_html: 'Using Cognates in a <span class="acl-fixed-case">F</span>rench-<span
+    class="acl-fixed-case">R</span>omanian Lexical Alignment System: A Comparative
+    Study'
+  url: https://www.aclweb.org/anthology/R11-1034
+  year: '2011'
+R11-1035:
+  address: Hissar, Bulgaria
+  author:
+  - first: Josef
+    full: Josef Steinberger
+    id: josef-steinberger
+    last: Steinberger
+  - first: Jenya
+    full: Jenya Belyaeva
+    id: jenya-belyaeva
+    last: Belyaeva
+  - first: Jonathan
+    full: Jonathan Crawley
+    id: jonathan-crawley
+    last: Crawley
+  - first: Leonida
+    full: Leonida Della-Rocca
+    id: leonida-della-rocca
+    last: Della-Rocca
+  - first: Mohamed
+    full: Mohamed Ebrahim
+    id: mohamed-ebrahim
+    last: Ebrahim
+  - first: Maud
+    full: Maud Ehrmann
+    id: maud-ehrmann
+    last: Ehrmann
+  - first: Mijail
+    full: Mijail Kabadjov
+    id: mijail-kabadjov
+    last: Kabadjov
+  - first: Ralf
+    full: Ralf Steinberger
+    id: ralf-steinberger
+    last: Steinberger
+  - first: Erik
+    full: Erik van der Goot
+    id: erik-van-der-goot
+    last: van der Goot
+  author_string: Josef Steinberger, Jenya Belyaeva, Jonathan Crawley, Leonida Della-Rocca,
+    Mohamed Ebrahim, Maud Ehrmann, Mijail Kabadjov, Ralf Steinberger, Erik van der
+    Goot
+  bibkey: steinberger-etal-2011-highly
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '254'
+  page_last: '260'
+  pages: "254\u2013260"
+  paper_id: '35'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1035.jpg
+  title: Highly Multilingual Coreference Resolution Exploiting a Mature Entity Repository
+  title_html: Highly Multilingual Coreference Resolution Exploiting a Mature Entity
+    Repository
+  url: https://www.aclweb.org/anthology/R11-1035
+  year: '2011'
+R11-1036:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sandra
+    full: "Sandra K\xFCbler"
+    id: sandra-kubler
+    last: "K\xFCbler"
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  author_string: "Sandra K\xFCbler, Desislava Zhekova"
+  bibkey: kubler-zhekova-2011-singletons
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '261'
+  page_last: '267'
+  pages: "261\u2013267"
+  paper_id: '36'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1036.jpg
+  title: Singletons and Coreference Resolution Evaluation
+  title_html: Singletons and Coreference Resolution Evaluation
+  url: https://www.aclweb.org/anthology/R11-1036
+  year: '2011'
+R11-1037:
+  address: Hissar, Bulgaria
+  author:
+  - first: Andrew
+    full: Andrew McKinlay
+    id: andrew-mackinlay
+    last: McKinlay
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  author_string: Andrew McKinlay, Katja Markert
+  bibkey: mckinlay-markert-2011-modelling
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '268'
+  page_last: '274'
+  pages: "268\u2013274"
+  paper_id: '37'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1037.jpg
+  title: Modelling Entity Instantiations
+  title_html: Modelling Entity Instantiations
+  url: https://www.aclweb.org/anthology/R11-1037
+  year: '2011'
+R11-1038:
+  address: Hissar, Bulgaria
+  author:
+  - first: Mani
+    full: Mani Ezzat
+    id: mani-ezzat
+    last: Ezzat
+  - first: Thierry
+    full: Thierry Poibeau
+    id: thierry-poibeau
+    last: Poibeau
+  author_string: Mani Ezzat, Thierry Poibeau
+  bibkey: ezzat-poibeau-2011-new
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '275'
+  page_last: '281'
+  pages: "275\u2013281"
+  paper_id: '38'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1038.jpg
+  title: A New Scheme for Annotating Semantic Relations between Named Entities in
+    Corpora
+  title_html: A New Scheme for Annotating Semantic Relations between Named Entities
+    in Corpora
+  url: https://www.aclweb.org/anthology/R11-1038
+  year: '2011'
+R11-1039:
+  address: Hissar, Bulgaria
+  author:
+  - first: Michael
+    full: Michael Wiegand
+    id: michael-wiegand
+    last: Wiegand
+  - first: Dietrich
+    full: Dietrich Klakow
+    id: dietrich-klakow
+    last: Klakow
+  author_string: Michael Wiegand, Dietrich Klakow
+  bibkey: wiegand-klakow-2011-prototypical
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '282'
+  page_last: '288'
+  pages: "282\u2013288"
+  paper_id: '39'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1039.jpg
+  title: 'Prototypical Opinion Holders: What We can Learn from Experts and Analysts'
+  title_html: 'Prototypical Opinion Holders: What We can Learn from Experts and Analysts'
+  url: https://www.aclweb.org/anthology/R11-1039
+  year: '2011'
+R11-1040:
+  address: Hissar, Bulgaria
+  author:
+  - first: Veronika
+    full: Veronika Vincze
+    id: veronika-vincze
+    last: Vincze
+  - first: "Istv\xE1n"
+    full: "Istv\xE1n Nagy T."
+    id: istvan-nagy-t
+    last: Nagy T.
+  - first: "G\xE1bor"
+    full: "G\xE1bor Berend"
+    id: gabor-berend
+    last: Berend
+  author_string: "Veronika Vincze, Istv\xE1n Nagy T., G\xE1bor Berend"
+  bibkey: vincze-etal-2011-multiword
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '289'
+  page_last: '295'
+  pages: "289\u2013295"
+  paper_id: '40'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1040.jpg
+  title: Multiword Expressions and Named Entities in the Wiki50 Corpus
+  title_html: Multiword Expressions and Named Entities in the Wiki50 Corpus
+  url: https://www.aclweb.org/anthology/R11-1040
+  year: '2011'
+R11-1041:
+  address: Hissar, Bulgaria
+  author:
+  - first: Muntsa
+    full: "Muntsa Padr\xF3"
+    id: muntsa-padro
+    last: "Padr\xF3"
+  - first: "N\xFAria"
+    full: "N\xFAria Bel"
+    id: nuria-bel
+    last: Bel
+  - first: Silvia
+    full: Silvia Necsulescu
+    id: silvia-necsulescu
+    last: Necsulescu
+  author_string: "Muntsa Padr\xF3, N\xFAria Bel, Silvia Necsulescu"
+  bibkey: padro-etal-2011-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '296'
+  page_last: '301'
+  pages: "296\u2013301"
+  paper_id: '41'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1041.jpg
+  title: 'Towards the Automatic Merging of Lexical Resources: Automatic Mapping'
+  title_html: 'Towards the Automatic Merging of Lexical Resources: Automatic Mapping'
+  url: https://www.aclweb.org/anthology/R11-1041
+  year: '2011'
+R11-1042:
+  address: Hissar, Bulgaria
+  author:
+  - first: Mortaza
+    full: Mortaza Montazery
+    id: mortaza-montazery
+    last: Montazery
+  - first: Heshaam
+    full: Heshaam Faili
+    id: heshaam-faili
+    last: Faili
+  author_string: Mortaza Montazery, Heshaam Faili
+  bibkey: montazery-faili-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '302'
+  page_last: '308'
+  pages: "302\u2013308"
+  paper_id: '42'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1042.jpg
+  title: Unsupervised Learning for Persian WordNet Construction
+  title_html: Unsupervised Learning for <span class="acl-fixed-case">P</span>ersian
+    <span class="acl-fixed-case">W</span>ord<span class="acl-fixed-case">N</span>et
+    Construction
+  url: https://www.aclweb.org/anthology/R11-1042
+  year: '2011'
+R11-1043:
+  address: Hissar, Bulgaria
+  author:
+  - first: Rohith
+    full: Rohith Menon
+    id: rohith-menon
+    last: Menon
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  author_string: Rohith Menon, Yejin Choi
+  bibkey: menon-choi-2011-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '309'
+  page_last: '315'
+  pages: "309\u2013315"
+  paper_id: '43'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1043.jpg
+  title: Domain Independent Authorship Attribution without Domain Adaptation
+  title_html: Domain Independent Authorship Attribution without Domain Adaptation
+  url: https://www.aclweb.org/anthology/R11-1043
+  year: '2011'
+R11-1044:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marc
+    full: "Marc Miquel Rib\xE9"
+    id: marc-miquel-ribe
+    last: "Miquel Rib\xE9"
+  - first: Horacio
+    full: "Horacio Rodr\xEDguez"
+    id: horacio-rodriguez
+    last: "Rodr\xEDguez"
+  author_string: "Marc Miquel Rib\xE9, Horacio Rodr\xEDguez"
+  bibkey: miquel-ribe-rodriguez-2011-cultural
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '316'
+  page_last: '322'
+  pages: "316\u2013322"
+  paper_id: '44'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1044.jpg
+  title: 'Cultural Configuration of Wikipedia: measuring Autoreferentiality in Different
+    Languages'
+  title_html: 'Cultural Configuration of <span class="acl-fixed-case">W</span>ikipedia:
+    measuring Autoreferentiality in Different Languages'
+  url: https://www.aclweb.org/anthology/R11-1044
+  year: '2011'
+R11-1045:
+  address: Hissar, Bulgaria
+  author:
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Zornitsa
+    full: Zornitsa Kozareva
+    id: zornitsa-kozareva
+    last: Kozareva
+  author_string: Preslav Nakov, Zornitsa Kozareva
+  bibkey: nakov-kozareva-2011-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '323'
+  page_last: '330'
+  pages: "323\u2013330"
+  paper_id: '45'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1045.jpg
+  title: Combining Relational and Attributional Similarity for Semantic Relation Classification
+  title_html: Combining Relational and Attributional Similarity for Semantic Relation
+    Classification
+  url: https://www.aclweb.org/anthology/R11-1045
+  year: '2011'
+R11-1046:
+  address: Hissar, Bulgaria
+  author:
+  - first: Josef
+    full: Josef Ruppenhofer
+    id: josef-ruppenhofer
+    last: Ruppenhofer
+  - first: Philip
+    full: Philip Gorinski
+    id: philip-gorinski
+    last: Gorinski
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  author_string: Josef Ruppenhofer, Philip Gorinski, Caroline Sporleder
+  bibkey: ruppenhofer-etal-2011-search
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '331'
+  page_last: '338'
+  pages: "331\u2013338"
+  paper_id: '46'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1046.jpg
+  title: 'In Search of Missing Arguments: A Linguistic Approach'
+  title_html: 'In Search of Missing Arguments: A Linguistic Approach'
+  url: https://www.aclweb.org/anthology/R11-1046
+  year: '2011'
+R11-1047:
+  address: Hissar, Bulgaria
+  author:
+  - first: Miquel
+    full: "Miquel Espl\xE0-Gomis"
+    id: miquel-espla-gomis
+    last: "Espl\xE0-Gomis"
+  - first: "V\xEDctor M."
+    full: "V\xEDctor M. S\xE1nchez-Cartagena"
+    id: victor-m-sanchez-cartagena
+    last: "S\xE1nchez-Cartagena"
+  - first: Juan Antonio
+    full: "Juan Antonio P\xE9rez-Ortiz"
+    id: juan-antonio-perez-ortiz
+    last: "P\xE9rez-Ortiz"
+  author_string: "Miquel Espl\xE0-Gomis, V\xEDctor M. S\xE1nchez-Cartagena, Juan Antonio\
+    \ P\xE9rez-Ortiz"
+  bibkey: espla-gomis-etal-2011-enlarging
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '339'
+  page_last: '346'
+  pages: "339\u2013346"
+  paper_id: '47'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1047.jpg
+  title: Enlarging Monolingual Dictionaries for Machine Translation with Active Learning
+    and Non-Expert Users
+  title_html: Enlarging Monolingual Dictionaries for Machine Translation with Active
+    Learning and Non-Expert Users
+  url: https://www.aclweb.org/anthology/R11-1047
+  year: '2011'
+R11-1048:
+  address: Hissar, Bulgaria
+  author:
+  - first: Vincent
+    full: Vincent Claveau
+    id: vincent-claveau
+    last: Claveau
+  - first: Ewa
+    full: Ewa Kijak
+    id: ewa-kijak
+    last: Kijak
+  author_string: Vincent Claveau, Ewa Kijak
+  bibkey: claveau-kijak-2011-morphological
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '347'
+  page_last: '354'
+  pages: "347\u2013354"
+  paper_id: '48'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1048.jpg
+  title: Morphological Analysis of Biomedical Terminology with Analogy-Based Alignment
+  title_html: Morphological Analysis of Biomedical Terminology with Analogy-Based
+    Alignment
+  url: https://www.aclweb.org/anthology/R11-1048
+  year: '2011'
+R11-1049:
+  address: Hissar, Bulgaria
+  author:
+  - first: Kostadin
+    full: Kostadin Cholakov
+    id: kostadin-cholakov
+    last: Cholakov
+  - first: Gertjan
+    full: Gertjan van Noord
+    id: gertjan-van-noord
+    last: van Noord
+  - first: Valia
+    full: Valia Kordoni
+    id: valia-kordoni
+    last: Kordoni
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  author_string: Kostadin Cholakov, Gertjan van Noord, Valia Kordoni, Yi Zhang
+  bibkey: cholakov-etal-2011-adaptability
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '355'
+  page_last: '362'
+  pages: "355\u2013362"
+  paper_id: '49'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1049.jpg
+  title: Adaptability of Lexical Acquisition for Large-scale Grammars
+  title_html: Adaptability of Lexical Acquisition for Large-scale Grammars
+  url: https://www.aclweb.org/anthology/R11-1049
+  year: '2011'
+R11-1050:
+  address: Hissar, Bulgaria
+  author:
+  - first: Anthony
+    full: Anthony Sigogne
+    id: anthony-sigogne
+    last: Sigogne
+  - first: Matthieu
+    full: Matthieu Constant
+    id: matthieu-constant
+    last: Constant
+  - first: "\xC9ric"
+    full: "\xC9ric Laporte"
+    id: eric-laporte
+    last: Laporte
+  author_string: "Anthony Sigogne, Matthieu Constant, \xC9ric Laporte"
+  bibkey: sigogne-etal-2011-integration
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '363'
+  page_last: '370'
+  pages: "363\u2013370"
+  paper_id: '50'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1050.jpg
+  title: Integration of Data from a Syntactic Lexicon into Generative and Discriminative
+    Probabilistic Parsers
+  title_html: Integration of Data from a Syntactic Lexicon into Generative and Discriminative
+    Probabilistic Parsers
+  url: https://www.aclweb.org/anthology/R11-1050
+  year: '2011'
+R11-1051:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marco
+    full: Marco Turchi
+    id: marco-turchi
+    last: Turchi
+  - first: Vanni
+    full: Vanni Zavarella
+    id: vanni-zavarella
+    last: Zavarella
+  - first: Hristo
+    full: Hristo Tanev
+    id: hristo-tanev
+    last: Tanev
+  author_string: Marco Turchi, Vanni Zavarella, Hristo Tanev
+  bibkey: turchi-etal-2011-pattern
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '371'
+  page_last: '377'
+  pages: "371\u2013377"
+  paper_id: '51'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1051.jpg
+  title: Pattern Learning for Event Extraction using Monolingual Statistical Machine
+    Translation
+  title_html: Pattern Learning for Event Extraction using Monolingual Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/R11-1051
+  year: '2011'
+R11-1052:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hong
+    full: Hong Li
+    id: hong-li
+    last: Li
+  - first: Feiyu
+    full: Feiyu Xu
+    id: feiyu-xu
+    last: Xu
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  author_string: Hong Li, Feiyu Xu, Hans Uszkoreit
+  bibkey: li-etal-2011-meta
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '378'
+  page_last: '384'
+  pages: "378\u2013384"
+  paper_id: '52'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1052.jpg
+  title: 'META-DARE: Monitoring the Minimally Supervised ML of Relation Extraction
+    Rules'
+  title_html: '<span class="acl-fixed-case">META</span>-<span class="acl-fixed-case">DARE</span>:
+    Monitoring the Minimally Supervised <span class="acl-fixed-case">ML</span> of
+    Relation Extraction Rules'
+  url: https://www.aclweb.org/anthology/R11-1052
+  year: '2011'
+R11-1053:
+  address: Hissar, Bulgaria
+  author:
+  - first: Peter
+    full: Peter Nabende
+    id: peter-nabende
+    last: Nabende
+  author_string: Peter Nabende
+  bibkey: nabende-2011-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '385'
+  page_last: '391'
+  pages: "385\u2013391"
+  paper_id: '53'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1053.jpg
+  title: Mining Transliterations from Wikipedia using Dynamic Bayesian Networks
+  title_html: Mining Transliterations from <span class="acl-fixed-case">W</span>ikipedia
+    using Dynamic <span class="acl-fixed-case">B</span>ayesian Networks
+  url: https://www.aclweb.org/anthology/R11-1053
+  year: '2011'
+R11-1054:
+  address: Hissar, Bulgaria
+  author:
+  - first: Caroline
+    full: Caroline Brun
+    id: caroline-brun
+    last: Brun
+  author_string: Caroline Brun
+  bibkey: brun-2011-detecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '392'
+  page_last: '398'
+  pages: "392\u2013398"
+  paper_id: '54'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1054.jpg
+  title: Detecting Opinions Using Deep Syntactic Analysis
+  title_html: Detecting Opinions Using Deep Syntactic Analysis
+  url: https://www.aclweb.org/anthology/R11-1054
+  year: '2011'
+R11-1055:
+  address: Hissar, Bulgaria
+  author:
+  - first: Shane
+    full: Shane Bergsma
+    id: shane-bergsma
+    last: Bergsma
+  - first: Randy
+    full: Randy Goebel
+    id: randy-goebel
+    last: Goebel
+  author_string: Shane Bergsma, Randy Goebel
+  bibkey: bergsma-goebel-2011-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '399'
+  page_last: '405'
+  pages: "399\u2013405"
+  paper_id: '55'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1055.jpg
+  title: Using Visual Information to Predict Lexical Preference
+  title_html: Using Visual Information to Predict Lexical Preference
+  url: https://www.aclweb.org/anthology/R11-1055
+  year: '2011'
+R11-1056:
+  address: Hissar, Bulgaria
+  author:
+  - first: Dat Quoc
+    full: Dat Quoc Nguyen
+    id: dat-quoc-nguyen
+    last: Nguyen
+  - first: Dai Quoc
+    full: Dai Quoc Nguyen
+    id: dai-quoc-nguyen
+    last: Nguyen
+  - first: Son Bao
+    full: Son Bao Pham
+    id: son-bao-pham
+    last: Pham
+  author_string: Dat Quoc Nguyen, Dai Quoc Nguyen, Son Bao Pham
+  bibkey: nguyen-etal-2011-systematic
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '406'
+  page_last: '412'
+  pages: "406\u2013412"
+  paper_id: '56'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1056.jpg
+  title: Systematic Knowledge Acquisition for Question Analysis
+  title_html: Systematic Knowledge Acquisition for Question Analysis
+  url: https://www.aclweb.org/anthology/R11-1056
+  year: '2011'
+R11-1057:
+  address: Hissar, Bulgaria
+  author:
+  - first: Corina
+    full: Corina Dima
+    id: corina-dima
+    last: Dima
+  - first: Erhard
+    full: Erhard Hinrichs
+    id: erhard-hinrichs
+    last: Hinrichs
+  author_string: Corina Dima, Erhard Hinrichs
+  bibkey: dima-hinrichs-2011-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '413'
+  page_last: '419'
+  pages: "413\u2013419"
+  paper_id: '57'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1057.jpg
+  title: A Semi-Automatic, Iterative Method for Creating a Domain-Specific Treebank
+  title_html: A Semi-Automatic, Iterative Method for Creating a Domain-Specific Treebank
+  url: https://www.aclweb.org/anthology/R11-1057
+  year: '2011'
+R11-1058:
+  address: Hissar, Bulgaria
+  author:
+  - first: Verena
+    full: Verena Henrich
+    id: verena-henrich
+    last: Henrich
+  - first: Erhard
+    full: Erhard Hinrichs
+    id: erhard-hinrichs
+    last: Hinrichs
+  author_string: Verena Henrich, Erhard Hinrichs
+  bibkey: henrich-hinrichs-2011-determining
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '420'
+  page_last: '426'
+  pages: "420\u2013426"
+  paper_id: '58'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1058.jpg
+  title: Determining Immediate Constituents of Compounds in GermaNet
+  title_html: Determining Immediate Constituents of Compounds in <span class="acl-fixed-case">G</span>erma<span
+    class="acl-fixed-case">N</span>et
+  url: https://www.aclweb.org/anthology/R11-1058
+  year: '2011'
+R11-1059:
+  address: Hissar, Bulgaria
+  author:
+  - first: Christelle
+    full: Christelle Cocco
+    id: christelle-cocco
+    last: Cocco
+  - first: "Rapha\xEBl"
+    full: "Rapha\xEBl Pittier"
+    id: raphael-pittier
+    last: Pittier
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Bavaud"
+    id: francois-bavaud
+    last: Bavaud
+  - first: Aris
+    full: Aris Xanthos
+    id: aris-xanthos
+    last: Xanthos
+  author_string: "Christelle Cocco, Rapha\xEBl Pittier, Fran\xE7ois Bavaud, Aris Xanthos"
+  bibkey: cocco-etal-2011-segmentation
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '427'
+  page_last: '433'
+  pages: "427\u2013433"
+  paper_id: '59'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1059.jpg
+  title: 'Segmentation and Clustering of Textual Sequences: a Typological Approach'
+  title_html: 'Segmentation and Clustering of Textual Sequences: a Typological Approach'
+  url: https://www.aclweb.org/anthology/R11-1059
+  year: '2011'
+R11-1060:
+  address: Hissar, Bulgaria
+  author:
+  - first: Brett
+    full: Brett Drury
+    id: brett-drury
+    last: Drury
+  - first: "Ga\xEBl"
+    full: "Ga\xEBl Dias"
+    id: gael-dias
+    last: Dias
+  - first: "Lu\xEDs"
+    full: "Lu\xEDs Torgo"
+    id: luis-torgo
+    last: Torgo
+  author_string: "Brett Drury, Ga\xEBl Dias, Lu\xEDs Torgo"
+  bibkey: drury-etal-2011-contextual
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '434'
+  page_last: '440'
+  pages: "434\u2013440"
+  paper_id: '60'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1060.jpg
+  title: A Contextual Classification Strategy for Polarity Analysis of Direct Quotations
+    from Financial News
+  title_html: A Contextual Classification Strategy for Polarity Analysis of Direct
+    Quotations from Financial News
+  url: https://www.aclweb.org/anthology/R11-1060
+  year: '2011'
+R11-1061:
+  address: Hissar, Bulgaria
+  author:
+  - first: Thomas
+    full: "Thomas Fran\xE7ois"
+    id: thomas-francois
+    last: "Fran\xE7ois"
+  - first: Patrick
+    full: Patrick Watrin
+    id: patrick-watrin
+    last: Watrin
+  author_string: "Thomas Fran\xE7ois, Patrick Watrin"
+  bibkey: francois-watrin-2011-contribution
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '441'
+  page_last: '447'
+  pages: "441\u2013447"
+  paper_id: '61'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1061.jpg
+  title: On the Contribution of MWE-based Features to a Readability Formula for French
+    as a Foreign Language
+  title_html: On the Contribution of <span class="acl-fixed-case">MWE</span>-based
+    Features to a Readability Formula for <span class="acl-fixed-case">F</span>rench
+    as a Foreign Language
+  url: https://www.aclweb.org/anthology/R11-1061
+  year: '2011'
+R11-1062:
+  address: Hissar, Bulgaria
+  author:
+  - first: Allan
+    full: Allan Ramsay
+    id: allan-ramsay
+    last: Ramsay
+  - first: Hanady
+    full: Hanady Mansour
+    id: hanady-mansour
+    last: Mansour
+  author_string: Allan Ramsay, Hanady Mansour
+  bibkey: ramsay-mansour-2011-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '448'
+  page_last: '454'
+  pages: "448\u2013454"
+  paper_id: '62'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1062.jpg
+  title: "Exploiting Hidden Morphophonemic Constraints for Finding the Underlying\
+    \ Forms of \u2018weak\u2019 Arabic Verbs"
+  title_html: "Exploiting Hidden Morphophonemic Constraints for Finding the Underlying\
+    \ Forms of \u2018weak\u2019 <span class=\"acl-fixed-case\">A</span>rabic Verbs"
+  url: https://www.aclweb.org/anthology/R11-1062
+  year: '2011'
+R11-1063:
+  address: Hissar, Bulgaria
+  author:
+  - first: Asher
+    full: Asher Stern
+    id: asher-stern
+    last: Stern
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Asher Stern, Ido Dagan
+  bibkey: stern-dagan-2011-confidence
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '455'
+  page_last: '462'
+  pages: "455\u2013462"
+  paper_id: '63'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1063.jpg
+  title: A Confidence Model for Syntactically-Motivated Entailment Proofs
+  title_html: A Confidence Model for Syntactically-Motivated Entailment Proofs
+  url: https://www.aclweb.org/anthology/R11-1063
+  year: '2011'
+R11-1064:
+  address: Hissar, Bulgaria
+  author:
+  - first: Michaela
+    full: Michaela Regneri
+    id: michaela-regneri
+    last: Regneri
+  - first: Alexander
+    full: Alexander Koller
+    id: alexander-koller
+    last: Koller
+  - first: Josef
+    full: Josef Ruppenhofer
+    id: josef-ruppenhofer
+    last: Ruppenhofer
+  - first: Manfred
+    full: Manfred Pinkal
+    id: manfred-pinkal
+    last: Pinkal
+  author_string: Michaela Regneri, Alexander Koller, Josef Ruppenhofer, Manfred Pinkal
+  bibkey: regneri-etal-2011-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '463'
+  page_last: '470'
+  pages: "463\u2013470"
+  paper_id: '64'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1064.jpg
+  title: Learning Script Participants from Unlabeled Data
+  title_html: Learning Script Participants from Unlabeled Data
+  url: https://www.aclweb.org/anthology/R11-1064
+  year: '2011'
+R11-1065:
+  address: Hissar, Bulgaria
+  author:
+  - first: Kiril
+    full: Kiril Simov
+    id: kiril-simov
+    last: Simov
+  - first: Petya
+    full: Petya Osenova
+    id: petya-osenova
+    last: Osenova
+  author_string: Kiril Simov, Petya Osenova
+  bibkey: simov-osenova-2011-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '471'
+  page_last: '478'
+  pages: "471\u2013478"
+  paper_id: '65'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1065.jpg
+  title: Towards Minimal Recursion Semantics over Bulgarian Dependency Parsing
+  title_html: Towards Minimal Recursion Semantics over <span class="acl-fixed-case">B</span>ulgarian
+    Dependency Parsing
+  url: https://www.aclweb.org/anthology/R11-1065
+  year: '2011'
+R11-1066:
+  address: Hissar, Bulgaria
+  author:
+  - first: Shamima
+    full: Shamima Mithun
+    id: shamima-mithun
+    last: Mithun
+  - first: Leila
+    full: Leila Kosseim
+    id: leila-kosseim
+    last: Kosseim
+  author_string: Shamima Mithun, Leila Kosseim
+  bibkey: mithun-kosseim-2011-discourse
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '479'
+  page_last: '486'
+  pages: "479\u2013486"
+  paper_id: '66'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1066.jpg
+  title: Discourse Structures to Reduce Discourse Incoherence in Blog Summarization
+  title_html: Discourse Structures to Reduce Discourse Incoherence in Blog Summarization
+  url: https://www.aclweb.org/anthology/R11-1066
+  year: '2011'
+R11-1067:
+  address: Hissar, Bulgaria
+  author:
+  - first: Johannes
+    full: Johannes Goller
+    id: johannes-goller
+    last: Goller
+  author_string: Johannes Goller
+  bibkey: goller-2011-parallel
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '487'
+  page_last: '494'
+  pages: "487\u2013494"
+  paper_id: '67'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1067.jpg
+  title: Parallel Suffix Arrays for Linguistic Pattern Search
+  title_html: Parallel Suffix Arrays for Linguistic Pattern Search
+  url: https://www.aclweb.org/anthology/R11-1067
+  year: '2011'
+R11-1068:
+  address: Hissar, Bulgaria
+  author:
+  - first: Anca
+    full: Anca Dinu
+    id: anca-dinu
+    last: Dinu
+  author_string: Anca Dinu
+  bibkey: dinu-2011-mechanism
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '495'
+  page_last: '502'
+  pages: "495\u2013502"
+  paper_id: '68'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1068.jpg
+  title: "A Mechanism to Restrict the Scope of Clause-Bounded Quantifiers in \u2018\
+    Continuation\u2019 Semantics"
+  title_html: "A Mechanism to Restrict the Scope of Clause-Bounded Quantifiers in\
+    \ \u2018Continuation\u2019 Semantics"
+  url: https://www.aclweb.org/anthology/R11-1068
+  year: '2011'
+R11-1069:
+  address: Hissar, Bulgaria
+  author:
+  - first: Lili
+    full: Lili Kotlerman
+    id: lili-kotlerman
+    last: Kotlerman
+  - first: Zemer
+    full: Zemer Avital
+    id: zemer-avital
+    last: Avital
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Amnon
+    full: Amnon Lotan
+    id: amnon-lotan
+    last: Lotan
+  - first: Ofer
+    full: Ofer Weintraub
+    id: ofer-weintraub
+    last: Weintraub
+  author_string: Lili Kotlerman, Zemer Avital, Ido Dagan, Amnon Lotan, Ofer Weintraub
+  bibkey: kotlerman-etal-2011-support
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '503'
+  page_last: '508'
+  pages: "503\u2013508"
+  paper_id: '69'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1069.jpg
+  title: A Support Tool for Deriving Domain Taxonomies from Wikipedia
+  title_html: A Support Tool for Deriving Domain Taxonomies from <span class="acl-fixed-case">W</span>ikipedia
+  url: https://www.aclweb.org/anthology/R11-1069
+  year: '2011'
+R11-1070:
+  address: Hissar, Bulgaria
+  author:
+  - first: Anita
+    full: Anita Alicante
+    id: anita-alicante
+    last: Alicante
+  - first: Anna
+    full: Anna Corazza
+    id: anna-corazza
+    last: Corazza
+  author_string: Anita Alicante, Anna Corazza
+  bibkey: alicante-corazza-2011-barrier
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '509'
+  page_last: '514'
+  pages: "509\u2013514"
+  paper_id: '70'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1070.jpg
+  title: Barrier Features for Classification of Semantic Relations
+  title_html: Barrier Features for Classification of Semantic Relations
+  url: https://www.aclweb.org/anthology/R11-1070
+  year: '2011'
+R11-1071:
+  address: Hissar, Bulgaria
+  author:
+  - first: Daniel
+    full: "Daniel B\xE4r"
+    id: daniel-bar
+    last: "B\xE4r"
+  - first: Torsten
+    full: Torsten Zesch
+    id: torsten-zesch
+    last: Zesch
+  - first: Iryna
+    full: Iryna Gurevych
+    id: iryna-gurevych
+    last: Gurevych
+  author_string: "Daniel B\xE4r, Torsten Zesch, Iryna Gurevych"
+  bibkey: bar-etal-2011-reflective
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '515'
+  page_last: '520'
+  pages: "515\u2013520"
+  paper_id: '71'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1071.jpg
+  title: A Reflective View on Text Similarity
+  title_html: A Reflective View on Text Similarity
+  url: https://www.aclweb.org/anthology/R11-1071
+  year: '2011'
+R11-1072:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ester
+    full: Ester Boldrini
+    id: ester-boldrini
+    last: Boldrini
+  - first: Javi
+    full: "Javi Fern\xE1ndez"
+    id: javi-fernandez
+    last: "Fern\xE1ndez"
+  - first: "Jos\xE9 Manuel"
+    full: "Jos\xE9 Manuel G\xF3mez"
+    id: jose-m-gomez
+    last: "G\xF3mez"
+  - first: Patricio
+    full: "Patricio Mart\xEDnez-Barco"
+    id: patricio-martinez-barco
+    last: "Mart\xEDnez-Barco"
+  author_string: "Ester Boldrini, Javi Fern\xE1ndez, Jos\xE9 Manuel G\xF3mez, Patricio\
+    \ Mart\xEDnez-Barco"
+  bibkey: boldrini-etal-2011-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '521'
+  page_last: '526'
+  pages: "521\u2013526"
+  paper_id: '72'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1072.jpg
+  title: Evaluating the Robustness of EmotiBlog for Sentiment Analysis and Opinion
+    Mining
+  title_html: Evaluating the Robustness of <span class="acl-fixed-case">E</span>moti<span
+    class="acl-fixed-case">B</span>log for Sentiment Analysis and Opinion Mining
+  url: https://www.aclweb.org/anthology/R11-1072
+  year: '2011'
+R11-1073:
+  address: Hissar, Bulgaria
+  author:
+  - first: Javier R.
+    full: Javier R. Bru
+    id: javier-r-bru
+    last: Bru
+  - first: Patricio
+    full: "Patricio Mart\xEDnez-Barco"
+    id: patricio-martinez-barco
+    last: "Mart\xEDnez-Barco"
+  - first: Rafael
+    full: "Rafael Mu\xF1oz"
+    id: rafael-munoz
+    last: "Mu\xF1oz"
+  author_string: "Javier R. Bru, Patricio Mart\xEDnez-Barco, Rafael Mu\xF1oz"
+  bibkey: bru-etal-2011-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '527'
+  page_last: '532'
+  pages: "527\u2013532"
+  paper_id: '73'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1073.jpg
+  title: Hybrid System For Plagiarism Detection
+  title_html: Hybrid System For Plagiarism Detection
+  url: https://www.aclweb.org/anthology/R11-1073
+  year: '2011'
+R11-1074:
+  address: Hissar, Bulgaria
+  author:
+  - first: Tommaso
+    full: Tommaso Caselli
+    id: tommaso-caselli
+    last: Caselli
+  - first: Hector
+    full: Hector Llorens
+    id: hector-llorens
+    last: Llorens
+  - first: Borja
+    full: Borja Navarro-Colorado
+    id: borja-navarro
+    last: Navarro-Colorado
+  - first: Estela
+    full: Estela Saquete
+    id: estela-saquete
+    last: Saquete
+  author_string: Tommaso Caselli, Hector Llorens, Borja Navarro-Colorado, Estela Saquete
+  bibkey: caselli-etal-2011-data
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '533'
+  page_last: '538'
+  pages: "533\u2013538"
+  paper_id: '74'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1074.jpg
+  title: Data-Driven Approach Using Semantics for Recognizing and Classifying TimeML
+    Events in Italian
+  title_html: Data-Driven Approach Using Semantics for Recognizing and Classifying
+    <span class="acl-fixed-case">T</span>ime<span class="acl-fixed-case">ML</span>
+    Events in <span class="acl-fixed-case">I</span>talian
+  url: https://www.aclweb.org/anthology/R11-1074
+  year: '2011'
+R11-1075:
+  address: Hissar, Bulgaria
+  author:
+  - first: Liviu P.
+    full: Liviu P. Dinu
+    id: liviu-p-dinu
+    last: Dinu
+  - first: Emil
+    full: Emil Ionescu
+    id: emil-ionescu
+    last: Ionescu
+  - first: Vlad
+    full: Vlad Niculae
+    id: vlad-niculae
+    last: Niculae
+  - first: Octavia-Maria
+    full: "Octavia-Maria \u015Eulea"
+    id: octavia-maria-sulea
+    last: "\u015Eulea"
+  author_string: "Liviu P. Dinu, Emil Ionescu, Vlad Niculae, Octavia-Maria \u015E\
+    ulea"
+  bibkey: dinu-etal-2011-alternations
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '539'
+  page_last: '544'
+  pages: "539\u2013544"
+  paper_id: '75'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1075.jpg
+  title: Can Alternations Be Learned? A Machine Learning Approach To Romanian Verb
+    Conjugation
+  title_html: Can Alternations Be Learned? A Machine Learning Approach To <span class="acl-fixed-case">R</span>omanian
+    Verb Conjugation
+  url: https://www.aclweb.org/anthology/R11-1075
+  year: '2011'
+R11-1076:
+  address: Hissar, Bulgaria
+  author:
+  - first: "H\xE9la"
+    full: "H\xE9la Fehri"
+    id: hela-fehri
+    last: Fehri
+  - first: Kais
+    full: Kais Haddar
+    id: kais-haddar
+    last: Haddar
+  - first: Abdelmajid
+    full: Abdelmajid Ben hamadou
+    id: abdelmajid-ben-hamadou
+    last: Ben hamadou
+  author_string: "H\xE9la Fehri, Kais Haddar, Abdelmajid Ben hamadou"
+  bibkey: fehri-etal-2011-new
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '545'
+  page_last: '550'
+  pages: "545\u2013550"
+  paper_id: '76'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1076.jpg
+  title: A New Representation Model for the Automatic Recognition and Translation
+    of Arabic Named Entities with NooJ
+  title_html: A New Representation Model for the Automatic Recognition and Translation
+    of <span class="acl-fixed-case">A</span>rabic Named Entities with <span class="acl-fixed-case">N</span>oo<span
+    class="acl-fixed-case">J</span>
+  url: https://www.aclweb.org/anthology/R11-1076
+  year: '2011'
+R11-1077:
+  address: Hissar, Bulgaria
+  author:
+  - first: Monica
+    full: Monica Gavrila
+    id: monica-gavrila
+    last: Gavrila
+  - first: Cristina
+    full: Cristina Vertan
+    id: cristina-vertan
+    last: Vertan
+  author_string: Monica Gavrila, Cristina Vertan
+  bibkey: gavrila-vertan-2011-training
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '551'
+  page_last: '556'
+  pages: "551\u2013556"
+  paper_id: '77'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1077.jpg
+  title: Training Data in Statistical Machine Translation - the More, the Better?
+  title_html: Training Data in Statistical Machine Translation - the More, the Better?
+  url: https://www.aclweb.org/anthology/R11-1077
+  year: '2011'
+R11-1078:
+  address: Hissar, Bulgaria
+  author:
+  - first: Voula
+    full: Voula Gotsoulia
+    id: voula-gotsoulia
+    last: Gotsoulia
+  - first: Bessie
+    full: Bessie Dendrinos
+    id: bessie-dendrinos
+    last: Dendrinos
+  author_string: Voula Gotsoulia, Bessie Dendrinos
+  bibkey: gotsoulia-dendrinos-2011-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '557'
+  page_last: '561'
+  pages: "557\u2013561"
+  paper_id: '78'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1078.jpg
+  title: Towards a Corpus-based Approach to Modelling Language Production of Foreign
+    Language Learners in Communicative Contexts
+  title_html: Towards a Corpus-based Approach to Modelling Language Production of
+    Foreign Language Learners in Communicative Contexts
+  url: https://www.aclweb.org/anthology/R11-1078
+  year: '2011'
+R11-1079:
+  address: Hissar, Bulgaria
+  author:
+  - first: Petr
+    full: Petr Homola
+    id: petr-homola
+    last: Homola
+  author_string: Petr Homola
+  bibkey: homola-2011-parsing
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '562'
+  page_last: '567'
+  pages: "562\u2013567"
+  paper_id: '79'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1079.jpg
+  title: Parsing a Polysynthetic Language
+  title_html: Parsing a Polysynthetic Language
+  url: https://www.aclweb.org/anthology/R11-1079
+  year: '2011'
+R11-1080:
+  address: Hissar, Bulgaria
+  author:
+  - first: Minhua
+    full: Minhua Huang
+    id: minhua-huang
+    last: Huang
+  - first: Robert M.
+    full: Robert M. Haralick
+    id: robert-m-haralick
+    last: Haralick
+  author_string: Minhua Huang, Robert M. Haralick
+  bibkey: huang-haralick-2011-algorithm
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '568'
+  page_last: '573'
+  pages: "568\u2013573"
+  paper_id: '80'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1080.jpg
+  title: An algorithm of Identifying Semantic Arguments of a Verb From Structured
+    Data
+  title_html: An algorithm of Identifying Semantic Arguments of a Verb From Structured
+    Data
+  url: https://www.aclweb.org/anthology/R11-1080
+  year: '2011'
+R11-1081:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ines
+    full: Ines Zalila
+    id: ines-zalila
+    last: Zalila
+  - first: Kais
+    full: Kais Haddar
+    id: kais-haddar
+    last: Haddar
+  author_string: Ines Zalila, Kais Haddar
+  bibkey: zalila-haddar-2011-construction
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '574'
+  page_last: '579'
+  pages: "574\u2013579"
+  paper_id: '81'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1081.jpg
+  title: Construction of an HPSG Grammar for the Arabic Relative Sentences
+  title_html: Construction of an <span class="acl-fixed-case">HPSG</span> Grammar
+    for the <span class="acl-fixed-case">A</span>rabic Relative Sentences
+  url: https://www.aclweb.org/anthology/R11-1081
+  year: '2011'
+R11-1082:
+  address: Hissar, Bulgaria
+  author:
+  - first: Roman
+    full: Roman Klinger
+    id: roman-klinger
+    last: Klinger
+  author_string: Roman Klinger
+  bibkey: klinger-2011-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '580'
+  page_last: '585'
+  pages: "580\u2013585"
+  paper_id: '82'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1082.jpg
+  title: Automatically Selected Skip Edges in Conditional Random Fields for Named
+    Entity Recognition
+  title_html: Automatically Selected Skip Edges in Conditional Random Fields for Named
+    Entity Recognition
+  url: https://www.aclweb.org/anthology/R11-1082
+  year: '2011'
+R11-1083:
+  address: Hissar, Bulgaria
+  author:
+  - first: Kanako
+    full: Kanako Komiya
+    id: kanako-komiya
+    last: Komiya
+  - first: Naoto
+    full: Naoto Sato
+    id: naoto-sato
+    last: Sato
+  - first: Koji
+    full: Koji Fujimoto
+    id: koji-fujimoto
+    last: Fujimoto
+  - first: Yoshiyuki
+    full: Yoshiyuki Kotani
+    id: yoshiyuki-kotani
+    last: Kotani
+  author_string: Kanako Komiya, Naoto Sato, Koji Fujimoto, Yoshiyuki Kotani
+  bibkey: komiya-etal-2011-negation
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '586'
+  page_last: '591'
+  pages: "586\u2013591"
+  paper_id: '83'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1083.jpg
+  title: Negation Naive Bayes for Categorization of Product Pages on the Web
+  title_html: Negation Naive <span class="acl-fixed-case">B</span>ayes for Categorization
+    of Product Pages on the Web
+  url: https://www.aclweb.org/anthology/R11-1083
+  year: '2011'
+R11-1084:
+  address: Hissar, Bulgaria
+  author:
+  - first: Anup Kumar
+    full: Anup Kumar Kolya
+    id: anup-kumar-kolya
+    last: Kolya
+  - first: Asif
+    full: Asif Ekbal
+    id: asif-ekbal
+    last: Ekbal
+  - first: Sivaji
+    full: Sivaji Bandyopadhyay
+    id: sivaji-bandyopadhyay
+    last: Bandyopadhyay
+  author_string: Anup Kumar Kolya, Asif Ekbal, Sivaji Bandyopadhyay
+  bibkey: kolya-etal-2011-hybrid
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '592'
+  page_last: '597'
+  pages: "592\u2013597"
+  paper_id: '84'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1084.jpg
+  title: A Hybrid Approach for Event Extraction and Event Actor Identification
+  title_html: A Hybrid Approach for Event Extraction and Event Actor Identification
+  url: https://www.aclweb.org/anthology/R11-1084
+  year: '2011'
+R11-1085:
+  address: Hissar, Bulgaria
+  author:
+  - first: Shasha
+    full: Shasha Liao
+    id: shasha-liao
+    last: Liao
+  - first: Cheng
+    full: Cheng Wu
+    id: cheng-wu
+    last: Wu
+  - first: Juan
+    full: Juan Huerta
+    id: juan-huerta
+    last: Huerta
+  author_string: Shasha Liao, Cheng Wu, Juan Huerta
+  bibkey: liao-etal-2011-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '598'
+  page_last: '603'
+  pages: "598\u2013603"
+  paper_id: '85'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1085.jpg
+  title: Evaluating Human Correction Quality for Machine Translation from Crowdsourcing
+  title_html: Evaluating Human Correction Quality for Machine Translation from Crowdsourcing
+  url: https://www.aclweb.org/anthology/R11-1085
+  year: '2011'
+R11-1086:
+  address: Hissar, Bulgaria
+  author:
+  - first: Anne-Lyse
+    full: Anne-Lyse Minard
+    id: anne-lyse-minard
+    last: Minard
+  - first: Anne-Laure
+    full: Anne-Laure Ligozat
+    id: anne-laure-ligozat
+    last: Ligozat
+  - first: Brigitte
+    full: Brigitte Grau
+    id: brigitte-grau
+    last: Grau
+  author_string: Anne-Lyse Minard, Anne-Laure Ligozat, Brigitte Grau
+  bibkey: minard-etal-2011-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '604'
+  page_last: '609'
+  pages: "604\u2013609"
+  paper_id: '86'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1086.jpg
+  title: Multi-class SVM for Relation Extraction from Clinical Reports
+  title_html: Multi-class <span class="acl-fixed-case">SVM</span> for Relation Extraction
+    from Clinical Reports
+  url: https://www.aclweb.org/anthology/R11-1086
+  year: '2011'
+R11-1087:
+  address: Hissar, Bulgaria
+  author:
+  - first: Amitabha
+    full: Amitabha Mukerjee
+    id: amitabha-mukerjee
+    last: Mukerjee
+  - first: Kruti
+    full: Kruti Neema
+    id: kruti-neema
+    last: Neema
+  - first: Sushobhan
+    full: Sushobhan Nayak
+    id: sushobhan-nayak
+    last: Nayak
+  author_string: Amitabha Mukerjee, Kruti Neema, Sushobhan Nayak
+  bibkey: mukerjee-etal-2011-discovering
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '610'
+  page_last: '615'
+  pages: "610\u2013615"
+  paper_id: '87'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1087.jpg
+  title: Discovering coreference using image-grounded verb models
+  title_html: Discovering coreference using image-grounded verb models
+  url: https://www.aclweb.org/anthology/R11-1087
+  year: '2011'
+R11-1088:
+  address: Hissar, Bulgaria
+  author:
+  - first: Amitabha
+    full: Amitabha Mukerjee
+    id: amitabha-mukerjee
+    last: Mukerjee
+  - first: Nikhil
+    full: Nikhil Joshi
+    id: nikhil-joshi
+    last: Joshi
+  author_string: Amitabha Mukerjee, Nikhil Joshi
+  bibkey: mukerjee-joshi-2011-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '616'
+  page_last: '621'
+  pages: "616\u2013621"
+  paper_id: '88'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1088.jpg
+  title: Word and Phrase Learning based on Prior Semantics
+  title_html: Word and Phrase Learning based on Prior Semantics
+  url: https://www.aclweb.org/anthology/R11-1088
+  year: '2011'
+R11-1089:
+  address: Hissar, Bulgaria
+  author:
+  - first: "Istv\xE1n"
+    full: "Istv\xE1n Nagy T."
+    id: istvan-nagy-t
+    last: Nagy T.
+  - first: Veronika
+    full: Veronika Vincze
+    id: veronika-vincze
+    last: Vincze
+  - first: "G\xE1bor"
+    full: "G\xE1bor Berend"
+    id: gabor-berend
+    last: Berend
+  author_string: "Istv\xE1n Nagy T., Veronika Vincze, G\xE1bor Berend"
+  bibkey: nagy-t-etal-2011-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '622'
+  page_last: '627'
+  pages: "622\u2013627"
+  paper_id: '89'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1089.jpg
+  title: Domain-Dependent Identification of Multiword Expressions
+  title_html: Domain-Dependent Identification of Multiword Expressions
+  url: https://www.aclweb.org/anthology/R11-1089
+  year: '2011'
+R11-1090:
+  address: Hissar, Bulgaria
+  author:
+  - first: Alexis
+    full: Alexis Palmer
+    id: alexis-palmer
+    last: Palmer
+  - first: Afra
+    full: Afra Alishahi
+    id: afra-alishahi
+    last: Alishahi
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  author_string: Alexis Palmer, Afra Alishahi, Caroline Sporleder
+  bibkey: palmer-etal-2011-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '628'
+  page_last: '633'
+  pages: "628\u2013633"
+  paper_id: '90'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1090.jpg
+  title: Robust Semantic Analysis for Unseen Data in FrameNet
+  title_html: Robust Semantic Analysis for Unseen Data in <span class="acl-fixed-case">F</span>rame<span
+    class="acl-fixed-case">N</span>et
+  url: https://www.aclweb.org/anthology/R11-1090
+  year: '2011'
+R11-1091:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marius
+    full: Marius Popescu
+    id: marius-popescu
+    last: Popescu
+  author_string: Marius Popescu
+  bibkey: popescu-2011-studying
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '634'
+  page_last: '639'
+  pages: "634\u2013639"
+  paper_id: '91'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1091.jpg
+  title: Studying Translationese at the Character Level
+  title_html: Studying Translationese at the Character Level
+  url: https://www.aclweb.org/anthology/R11-1091
+  year: '2011'
+R11-1092:
+  address: Hissar, Bulgaria
+  author:
+  - first: Markus
+    full: Markus Saers
+    id: markus-saers
+    last: Saers
+  - first: Dekai
+    full: Dekai Wu
+    id: dekai-wu
+    last: Wu
+  author_string: Markus Saers, Dekai Wu
+  bibkey: saers-wu-2011-linear
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '640'
+  page_last: '647'
+  pages: "640\u2013647"
+  paper_id: '92'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1092.jpg
+  title: Linear Transduction Grammars and Zipper Finite-State Transducers
+  title_html: Linear Transduction Grammars and Zipper Finite-State Transducers
+  url: https://www.aclweb.org/anthology/R11-1092
+  year: '2011'
+R11-1093:
+  address: Hissar, Bulgaria
+  author:
+  - first: Martin
+    full: Martin Scaiano
+    id: martin-scaiano
+    last: Scaiano
+  - first: Diana
+    full: Diana Inkpen
+    id: diana-inkpen
+    last: Inkpen
+  author_string: Martin Scaiano, Diana Inkpen
+  bibkey: scaiano-inkpen-2011-finding
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '648'
+  page_last: '653'
+  pages: "648\u2013653"
+  paper_id: '93'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1093.jpg
+  title: Finding Negative Key Phrases for Internet Advertising Campaigns using Wikipedia
+  title_html: Finding Negative Key Phrases for <span class="acl-fixed-case">I</span>nternet
+    Advertising Campaigns using <span class="acl-fixed-case">W</span>ikipedia
+  url: https://www.aclweb.org/anthology/R11-1093
+  year: '2011'
+R11-1094:
+  address: Hissar, Bulgaria
+  author:
+  - first: Irina
+    full: Irina Temnikova
+    id: irina-temnikova
+    last: Temnikova
+  author_string: Irina Temnikova
+  bibkey: temnikova-2011-establishing
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '654'
+  page_last: '659'
+  pages: "654\u2013659"
+  paper_id: '94'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1094.jpg
+  title: Establishing Implementation Priorities in Aiding Writers of Controlled Crisis
+    Management Texts
+  title_html: Establishing Implementation Priorities in Aiding Writers of Controlled
+    Crisis Management Texts
+  url: https://www.aclweb.org/anthology/R11-1094
+  year: '2011'
+R11-1095:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hong
+    full: Hong Li
+    id: hong-li
+    last: Li
+  - first: Feiyu
+    full: Feiyu Xu
+    id: feiyu-xu
+    last: Xu
+  - first: Hans
+    full: Hans Uszkoreit
+    id: hans-uszkoreit
+    last: Uszkoreit
+  author_string: Hong Li, Feiyu Xu, Hans Uszkoreit
+  bibkey: li-etal-2011-techwatchtool
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '660'
+  page_last: '665'
+  pages: "660\u2013665"
+  paper_id: '95'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1095.jpg
+  title: 'TechWatchTool: Innovation and Trend Monitoring'
+  title_html: '<span class="acl-fixed-case">T</span>ech<span class="acl-fixed-case">W</span>atch<span
+    class="acl-fixed-case">T</span>ool: Innovation and Trend Monitoring'
+  url: https://www.aclweb.org/anthology/R11-1095
+  year: '2011'
+R11-1096:
+  address: Hissar, Bulgaria
+  author:
+  - first: Muhammad
+    full: Muhammad Abdul-Mageed
+    id: muhammad-abdul-mageed
+    last: Abdul-Mageed
+  - first: Mohammed
+    full: Mohammed Korayem
+    id: mohammed-korayem
+    last: Korayem
+  - first: Ahmed
+    full: Ahmed YoussefAgha
+    id: ahmed-youssefagha
+    last: YoussefAgha
+  author_string: Muhammad Abdul-Mageed, Mohammed Korayem, Ahmed YoussefAgha
+  bibkey: abdul-mageed-etal-2011-yes
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '666'
+  page_last: '671'
+  pages: "666\u2013671"
+  paper_id: '96'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1096.jpg
+  title: "\u201CYes we can?\u201D: Subjectivity Annotation and Tagging for the Health\
+    \ Domain"
+  title_html: "\u201CYes we can?\u201D: Subjectivity Annotation and Tagging for the\
+    \ Health Domain"
+  url: https://www.aclweb.org/anthology/R11-1096
+  year: '2011'
+R11-1097:
+  address: Hissar, Bulgaria
+  author:
+  - first: Verginica
+    full: Verginica Barbu Mititelu
+    id: verginica-barbu-mititelu
+    last: Barbu Mititelu
+  author_string: Verginica Barbu Mititelu
+  bibkey: barbu-mititelu-2011-wordnets
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '672'
+  page_last: '677'
+  pages: "672\u2013677"
+  paper_id: '97'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1097.jpg
+  title: 'Wordnets: State of the Art and Perspectives. Case Study: the Romanian Wordnet'
+  title_html: '<span class="acl-fixed-case">W</span>ordnets: State of the Art and
+    Perspectives. Case Study: the <span class="acl-fixed-case">R</span>omanian <span
+    class="acl-fixed-case">W</span>ordnet'
+  url: https://www.aclweb.org/anthology/R11-1097
+  year: '2011'
+R11-1098:
+  address: Hissar, Bulgaria
+  author:
+  - first: Elena
+    full: Elena Boian
+    id: elena-boian
+    last: Boian
+  - first: Constantin
+    full: Constantin Ciubotaru
+    id: constantin-ciubotaru
+    last: Ciubotaru
+  - first: Svetlana
+    full: Svetlana Cojocaru
+    id: svetlana-cojocaru
+    last: Cojocaru
+  - first: Alexandru
+    full: Alexandru Colesnicov
+    id: alexandru-colesnicov
+    last: Colesnicov
+  - first: Ludmila
+    full: Ludmila Malahov
+    id: ludmila-malahov
+    last: Malahov
+  - first: Mircea
+    full: Mircea Petic
+    id: mircea-petic
+    last: Petic
+  author_string: Elena Boian, Constantin Ciubotaru, Svetlana Cojocaru, Alexandru Colesnicov,
+    Ludmila Malahov, Mircea Petic
+  bibkey: boian-etal-2011-creation
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '678'
+  page_last: '685'
+  pages: "678\u2013685"
+  paper_id: '98'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1098.jpg
+  title: Creation and Development of the Romanian Lexical Resources
+  title_html: Creation and Development of the <span class="acl-fixed-case">R</span>omanian
+    Lexical Resources
+  url: https://www.aclweb.org/anthology/R11-1098
+  year: '2011'
+R11-1099:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sirine
+    full: "Sirine Bouk\xE9di"
+    id: sirine-boukedi
+    last: "Bouk\xE9di"
+  - first: Kais
+    full: Kais Haddar
+    id: kais-haddar
+    last: Haddar
+  author_string: "Sirine Bouk\xE9di, Kais Haddar"
+  bibkey: boukedi-haddar-2011-analyses
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '686'
+  page_last: '691'
+  pages: "686\u2013691"
+  paper_id: '99'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1099.jpg
+  title: Analyses Tools for Non-head Structures
+  title_html: Analyses Tools for Non-head Structures
+  url: https://www.aclweb.org/anthology/R11-1099
+  year: '2011'
+R11-1100:
+  address: Hissar, Bulgaria
+  author:
+  - first: Andre
+    full: Andre Burkovski
+    id: andre-burkovski
+    last: Burkovski
+  - first: Gunther
+    full: Gunther Heidemann
+    id: gunther-heidemann
+    last: Heidemann
+  author_string: Andre Burkovski, Gunther Heidemann
+  bibkey: burkovski-heidemann-2011-visualization
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '692'
+  page_last: '697'
+  pages: "692\u2013697"
+  paper_id: '100'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1100.jpg
+  title: Visualization for Coreference Annotation
+  title_html: Visualization for Coreference Annotation
+  url: https://www.aclweb.org/anthology/R11-1100
+  year: '2011'
+R11-1101:
+  address: Hissar, Bulgaria
+  author:
+  - first: Iria
+    full: Iria da Cunha
+    id: iria-da-cunha
+    last: da Cunha
+  - first: Juan-Manuel
+    full: Juan-Manuel Torres-Moreno
+    id: juan-manuel-torres-moreno
+    last: Torres-Moreno
+  - first: Gerardo
+    full: Gerardo Sierra
+    id: gerardo-sierra
+    last: Sierra
+  - first: "Luis-Adri\xE1n"
+    full: "Luis-Adri\xE1n Cabrera-Diego"
+    id: luis-adrian-cabrera-diego
+    last: Cabrera-Diego
+  - first: Brenda-Gabriela
+    full: "Brenda-Gabriela Castro-Rol\xF3n"
+    id: brenda-gabriela-castro-rolon
+    last: "Castro-Rol\xF3n"
+  - first: Juan-Miguel
+    full: Juan-Miguel Rolland Bartilotti
+    id: juan-miguel-rolland-bartilotti
+    last: Rolland Bartilotti
+  author_string: "Iria da Cunha, Juan-Manuel Torres-Moreno, Gerardo Sierra, Luis-Adri\xE1\
+    n Cabrera-Diego, Brenda-Gabriela Castro-Rol\xF3n, Juan-Miguel Rolland Bartilotti"
+  bibkey: da-cunha-etal-2011-rst
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '698'
+  page_last: '703'
+  pages: "698\u2013703"
+  paper_id: '101'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1101.jpg
+  title: The RST Spanish Treebank On-line Interface
+  title_html: The <span class="acl-fixed-case">RST</span> <span class="acl-fixed-case">S</span>panish
+    Treebank On-line Interface
+  url: https://www.aclweb.org/anthology/R11-1101
+  year: '2011'
+R11-1102:
+  address: Hissar, Bulgaria
+  author:
+  - first: Miranda
+    full: Miranda Chong
+    id: miranda-chong
+    last: Chong
+  - first: Lucia
+    full: Lucia Specia
+    id: lucia-specia
+    last: Specia
+  author_string: Miranda Chong, Lucia Specia
+  bibkey: chong-specia-2011-lexical
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '704'
+  page_last: '709'
+  pages: "704\u2013709"
+  paper_id: '102'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1102.jpg
+  title: Lexical Generalisation for Word-level Matching in Plagiarism Detection
+  title_html: Lexical Generalisation for Word-level Matching in Plagiarism Detection
+  url: https://www.aclweb.org/anthology/R11-1102
+  year: '2011'
+R11-1103:
+  address: Hissar, Bulgaria
+  author:
+  - first: Boris
+    full: Boris Dobrov
+    id: boris-v-dobrov
+    last: Dobrov
+  - first: Natalia
+    full: Natalia Loukachevitch
+    id: natalia-loukachevitch
+    last: Loukachevitch
+  author_string: Boris Dobrov, Natalia Loukachevitch
+  bibkey: dobrov-loukachevitch-2011-multiple
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '710'
+  page_last: '715'
+  pages: "710\u2013715"
+  paper_id: '103'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1103.jpg
+  title: Multiple Evidence for Term Extraction in Broad Domains
+  title_html: Multiple Evidence for Term Extraction in Broad Domains
+  url: https://www.aclweb.org/anthology/R11-1103
+  year: '2011'
+R11-1104:
+  address: Hissar, Bulgaria
+  author:
+  - first: Nicolas
+    full: Nicolas Foucault
+    id: nicolas-foucault
+    last: Foucault
+  - first: Gilles
+    full: Gilles Adda
+    id: gilles-adda
+    last: Adda
+  - first: Sophie
+    full: Sophie Rosset
+    id: sophie-rosset
+    last: Rosset
+  author_string: Nicolas Foucault, Gilles Adda, Sophie Rosset
+  bibkey: foucault-etal-2011-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '716'
+  page_last: '720'
+  pages: "716\u2013720"
+  paper_id: '104'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1104.jpg
+  title: Language Modeling for Document Selection in Question Answering
+  title_html: Language Modeling for Document Selection in Question Answering
+  url: https://www.aclweb.org/anthology/R11-1104
+  year: '2011'
+R11-1105:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marcos
+    full: Marcos Garcia
+    id: marcos-garcia
+    last: Garcia
+  - first: Pablo
+    full: Pablo Gamallo
+    id: pablo-gamallo
+    last: Gamallo
+  author_string: Marcos Garcia, Pablo Gamallo
+  bibkey: garcia-gamallo-2011-evaluating
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '721'
+  page_last: '726'
+  pages: "721\u2013726"
+  paper_id: '105'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1105.jpg
+  title: Evaluating Various Linguistic Features on Semantic Relation Extraction
+  title_html: Evaluating Various Linguistic Features on Semantic Relation Extraction
+  url: https://www.aclweb.org/anthology/R11-1105
+  year: '2011'
+R11-1106:
+  address: Hissar, Bulgaria
+  author:
+  - first: "C\xE9dric"
+    full: "C\xE9dric Lopez"
+    id: cedric-lopez
+    last: Lopez
+  - first: Violaine
+    full: Violaine Prince
+    id: violaine-prince
+    last: Prince
+  - first: Mathieu
+    full: Mathieu Roche
+    id: mathieu-roche
+    last: Roche
+  author_string: "C\xE9dric Lopez, Violaine Prince, Mathieu Roche"
+  bibkey: lopez-etal-2011-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '727'
+  page_last: '732'
+  pages: "727\u2013732"
+  paper_id: '106'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1106.jpg
+  title: Automatic titling of Articles Using Position and Statistical Information
+  title_html: Automatic titling of Articles Using Position and Statistical Information
+  url: https://www.aclweb.org/anthology/R11-1106
+  year: '2011'
+R11-1107:
+  address: Hissar, Bulgaria
+  author:
+  - first: Georgios
+    full: Georgios Petasis
+    id: georgios-petasis
+    last: Petasis
+  author_string: Georgios Petasis
+  bibkey: petasis-2011-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '733'
+  page_last: '739'
+  pages: "733\u2013739"
+  paper_id: '107'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1107.jpg
+  title: Unsupervised Domain Adaptation based on Text Relatedness
+  title_html: Unsupervised Domain Adaptation based on Text Relatedness
+  url: https://www.aclweb.org/anthology/R11-1107
+  year: '2011'
+R11-1108:
+  address: Hissar, Bulgaria
+  author:
+  - first: Mohammed
+    full: Mohammed Rushdi-Saleh
+    id: mohammed-rushdi-saleh
+    last: Rushdi-Saleh
+  - first: M. Teresa
+    full: "M. Teresa Mart\xEDn-Valdivia"
+    id: m-teresa-martin-valdivia
+    last: "Mart\xEDn-Valdivia"
+  - first: L. Alfonso
+    full: "L. Alfonso Ure\xF1a-L\xF3pez"
+    id: l-alfonso-urena-lopez
+    last: "Ure\xF1a-L\xF3pez"
+  - first: "Jos\xE9 M."
+    full: "Jos\xE9 M. Perea-Ortega"
+    id: jose-manuel-perea-ortega
+    last: Perea-Ortega
+  author_string: "Mohammed Rushdi-Saleh, M. Teresa Mart\xEDn-Valdivia, L. Alfonso\
+    \ Ure\xF1a-L\xF3pez, Jos\xE9 M. Perea-Ortega"
+  bibkey: rushdi-saleh-etal-2011-bilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '740'
+  page_last: '745'
+  pages: "740\u2013745"
+  paper_id: '108'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1108.jpg
+  title: Bilingual Experiments with an Arabic-English Corpus for Opinion Mining
+  title_html: Bilingual Experiments with an <span class="acl-fixed-case">A</span>rabic-<span
+    class="acl-fixed-case">E</span>nglish Corpus for Opinion Mining
+  url: https://www.aclweb.org/anthology/R11-1108
+  year: '2011'
+R11-1109:
+  address: Hissar, Bulgaria
+  author:
+  - first: Merley
+    full: Merley da Silva Conrado
+    id: merley-da-silva-conrado
+    last: da Silva Conrado
+  - first: Walter
+    full: Walter Koza
+    id: walter-koza
+    last: Koza
+  - first: Josuka
+    full: "Josuka D\xEDaz-Labrador"
+    id: josuka-diaz-labrador
+    last: "D\xEDaz-Labrador"
+  - first: Joseba
+    full: Joseba Abaitua
+    id: joseba-abaitua
+    last: Abaitua
+  - first: Solange
+    full: Solange Oliveira Rezende
+    id: solange-oliveira-rezende
+    last: Oliveira Rezende
+  - first: Thiago
+    full: Thiago Pardo
+    id: thiago-pardo
+    last: Pardo
+  - first: Zulema
+    full: Zulema Solana
+    id: zulema-solana
+    last: Solana
+  author_string: "Merley da Silva Conrado, Walter Koza, Josuka D\xEDaz-Labrador, Joseba\
+    \ Abaitua, Solange Oliveira Rezende, Thiago Pardo, Zulema Solana"
+  bibkey: da-silva-conrado-etal-2011-experiments
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '746'
+  page_last: '751'
+  pages: "746\u2013751"
+  paper_id: '109'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1109.jpg
+  title: Experiments on Term Extraction using Noun Phrase Subclassifications
+  title_html: Experiments on Term Extraction using Noun Phrase Subclassifications
+  url: https://www.aclweb.org/anthology/R11-1109
+  year: '2011'
+R11-1110:
+  address: Hissar, Bulgaria
+  author:
+  - first: Khaled
+    full: Khaled Shaalan
+    id: khaled-shaalan
+    last: Shaalan
+  - first: Marwa
+    full: Marwa Magdy
+    id: marwa-magdy
+    last: Magdy
+  author_string: Khaled Shaalan, Marwa Magdy
+  bibkey: shaalan-magdy-2011-adaptive
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '752'
+  page_last: '757'
+  pages: "752\u2013757"
+  paper_id: '110'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1110.jpg
+  title: Adaptive Feedback Message Generation for Second Language Learners of Arabic
+  title_html: Adaptive Feedback Message Generation for Second Language Learners of
+    <span class="acl-fixed-case">A</span>rabic
+  url: https://www.aclweb.org/anthology/R11-1110
+  year: '2011'
+R11-1111:
+  address: Hissar, Bulgaria
+  author:
+  - first: Marina
+    full: Marina Sokolova
+    id: marina-sokolova
+    last: Sokolova
+  - first: David
+    full: David Schramm
+    id: david-schramm
+    last: Schramm
+  author_string: Marina Sokolova, David Schramm
+  bibkey: sokolova-schramm-2011-building
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '758'
+  page_last: '763'
+  pages: "758\u2013763"
+  paper_id: '111'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1111.jpg
+  title: Building a Patient-based Ontology for User-written Web Messages
+  title_html: Building a Patient-based Ontology for User-written Web Messages
+  url: https://www.aclweb.org/anthology/R11-1111
+  year: '2011'
+R11-1112:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ander
+    full: Ander Soraluze
+    id: ander-soraluze
+    last: Soraluze
+  - first: "I\xF1aki"
+    full: "I\xF1aki Alegria"
+    id: inaki-alegria
+    last: Alegria
+  - first: Olatz
+    full: Olatz Ansa
+    id: olatz-ansa
+    last: Ansa
+  - first: Olatz
+    full: Olatz Arregi
+    id: olatz-arregi
+    last: Arregi
+  - first: Xabier
+    full: Xabier Arregi
+    id: xabier-arregi
+    last: Arregi
+  author_string: "Ander Soraluze, I\xF1aki Alegria, Olatz Ansa, Olatz Arregi, Xabier\
+    \ Arregi"
+  bibkey: soraluze-etal-2011-recognition
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '764'
+  page_last: '769'
+  pages: "764\u2013769"
+  paper_id: '112'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1112.jpg
+  title: Recognition and Classification of Numerical Entities in Basque
+  title_html: Recognition and Classification of Numerical Entities in Basque
+  url: https://www.aclweb.org/anthology/R11-1112
+  year: '2011'
+R11-1113:
+  address: Hissar, Bulgaria
+  author:
+  - first: Josef
+    full: Josef Steinberger
+    id: josef-steinberger
+    last: Steinberger
+  - first: Polina
+    full: Polina Lenkova
+    id: polina-lenkova
+    last: Lenkova
+  - first: Mijail
+    full: Mijail Kabadjov
+    id: mijail-kabadjov
+    last: Kabadjov
+  - first: Ralf
+    full: Ralf Steinberger
+    id: ralf-steinberger
+    last: Steinberger
+  - first: Erik
+    full: Erik van der Goot
+    id: erik-van-der-goot
+    last: van der Goot
+  author_string: Josef Steinberger, Polina Lenkova, Mijail Kabadjov, Ralf Steinberger,
+    Erik van der Goot
+  bibkey: steinberger-etal-2011-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '770'
+  page_last: '775'
+  pages: "770\u2013775"
+  paper_id: '113'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1113.jpg
+  title: Multilingual Entity-Centered Sentiment Analysis Evaluated by Parallel Corpora
+  title_html: Multilingual Entity-Centered Sentiment Analysis Evaluated by Parallel
+    Corpora
+  url: https://www.aclweb.org/anthology/R11-1113
+  year: '2011'
+R11-1114:
+  address: Hissar, Bulgaria
+  author:
+  - first: Alexander
+    full: Alexander Ulanov
+    id: alexander-ulanov
+    last: Ulanov
+  - first: Andrey
+    full: Andrey Simanovsky
+    id: andrey-simanovsky
+    last: Simanovsky
+  author_string: Alexander Ulanov, Andrey Simanovsky
+  bibkey: ulanov-simanovsky-2011-term
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '776'
+  page_last: '780'
+  pages: "776\u2013780"
+  paper_id: '114'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1114.jpg
+  title: Term Validation for Vocabulary Construction and Key Term Extraction
+  title_html: Term Validation for Vocabulary Construction and Key Term Extraction
+  url: https://www.aclweb.org/anthology/R11-1114
+  year: '2011'
+R11-1115:
+  address: Hissar, Bulgaria
+  author:
+  - first: Tatiana
+    full: "Tatiana Zidra\u015Fco"
+    id: tatiana-zidrasco
+    last: "Zidra\u015Fco"
+  - first: Victoria
+    full: Victoria Bobicev
+    id: victoria-bobicev
+    last: Bobicev
+  - first: Shun
+    full: Shun Shiramatsu
+    id: shun-shiramatsu
+    last: Shiramatsu
+  - first: Tadachika
+    full: Tadachika Ozono
+    id: tadachika-ozono
+    last: Ozono
+  - first: Toramatsu
+    full: Toramatsu Shintani
+    id: toramatsu-shintani
+    last: Shintani
+  author_string: "Tatiana Zidra\u015Fco, Victoria Bobicev, Shun Shiramatsu, Tadachika\
+    \ Ozono, Toramatsu Shintani"
+  bibkey: zidrasco-etal-2011-agreement
+  bibtype: inproceedings
+  booktitle: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  booktitle_html: Proceedings of the International Conference Recent Advances in Natural
+    Language Processing 2011
+  month: September
+  page_first: '781'
+  page_last: '786'
+  pages: "781\u2013786"
+  paper_id: '115'
+  parent_volume_id: R11-1
+  pdf: https://www.aclweb.org/anthology/R11-1115.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-1115.jpg
+  title: 'Agreement: How to Reach it? Defining Language Features Leading to Agreement
+    in Discourse'
+  title_html: '<span class="acl-fixed-case">A</span>greement: How to Reach it? Defining
+    Language Features Leading to <span class="acl-fixed-case">A</span>greement in
+    Discourse'
+  url: https://www.aclweb.org/anthology/R11-1115
+  year: '2011'
+R11-2000:
+  address: Hissar, Bulgaria
+  author:
+  - first: Irina
+    full: Irina Temnikova
+    id: irina-temnikova
+    last: Temnikova
+  - first: Ivelina
+    full: Ivelina Nikolova
+    id: ivelina-nikolova
+    last: Nikolova
+  - first: Natalia
+    full: Natalia Konstantinova
+    id: natalia-konstantinova
+    last: Konstantinova
+  author_string: Irina Temnikova, Ivelina Nikolova, Natalia Konstantinova
+  bibkey: ranlp-2011-student
+  bibtype: proceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  month: September
+  paper_id: '0'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2000.jpg
+  title: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  title_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  url: https://www.aclweb.org/anthology/R11-2000
+  year: '2011'
+R11-2001:
+  address: Hissar, Bulgaria
+  author:
+  - first: "Istv\xE1n T."
+    full: "Istv\xE1n T. Nagy"
+    id: istvan-nagy-t
+    last: Nagy
+  - first: "G\xE1bor"
+    full: "G\xE1bor Berend"
+    id: gabor-berend
+    last: Berend
+  - first: "Gy\xF6rgy"
+    full: "Gy\xF6rgy M\xF3ra"
+    id: gyorgy-mora
+    last: "M\xF3ra"
+  - first: Veronika
+    full: Veronika Vincze
+    id: veronika-vincze
+    last: Vincze
+  author_string: "Istv\xE1n T. Nagy, G\xE1bor Berend, Gy\xF6rgy M\xF3ra, Veronika\
+    \ Vincze"
+  bibkey: nagy-etal-2011-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2001.jpg
+  title: Domain-Dependent Detection of Light Verb Constructions
+  title_html: Domain-Dependent Detection of Light Verb Constructions
+  url: https://www.aclweb.org/anthology/R11-2001
+  year: '2011'
+R11-2002:
+  address: Hissar, Bulgaria
+  author:
+  - first: "B\xE9atrice"
+    full: "B\xE9atrice Arnulphy"
+    id: beatrice-arnulphy
+    last: Arnulphy
+  author_string: "B\xE9atrice Arnulphy"
+  bibkey: arnulphy-2011-weighted
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2002.jpg
+  title: A Weighted Lexicon of French Event Names
+  title_html: A Weighted Lexicon of <span class="acl-fixed-case">F</span>rench Event
+    Names
+  url: https://www.aclweb.org/anthology/R11-2002
+  year: '2011'
+R11-2003:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sanja
+    full: "Sanja \u0160tajner"
+    id: sanja-stajner
+    last: "\u0160tajner"
+  author_string: "Sanja \u0160tajner"
+  bibkey: stajner-2011-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2003.jpg
+  title: "Towards a Better Exploitation of the Brown \u2018Family\u2019 Corpora in\
+    \ Diachronic Studies of British and American English Language Varieties"
+  title_html: "Towards a Better Exploitation of the Brown \u2018Family\u2019 Corpora\
+    \ in Diachronic Studies of <span class=\"acl-fixed-case\">B</span>ritish and <span\
+    \ class=\"acl-fixed-case\">A</span>merican <span class=\"acl-fixed-case\">E</span>nglish\
+    \ Language Varieties"
+  url: https://www.aclweb.org/anthology/R11-2003
+  year: '2011'
+R11-2004:
+  address: Hissar, Bulgaria
+  author:
+  - first: Mohammad
+    full: Mohammad Khan
+    id: mohammad-khan
+    last: Khan
+  - first: Eric
+    full: Eric Baucom
+    id: eric-baucom
+    last: Baucom
+  - first: Anthony
+    full: Anthony Meyer
+    id: anthony-meyer
+    last: Meyer
+  - first: Lwin
+    full: Lwin Moe
+    id: lwin-moe
+    last: Moe
+  author_string: Mohammad Khan, Eric Baucom, Anthony Meyer, Lwin Moe
+  bibkey: khan-etal-2011-projecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2004.jpg
+  title: Projecting Farsi POS Data To Tag Pashto
+  title_html: Projecting <span class="acl-fixed-case">F</span>arsi <span class="acl-fixed-case">POS</span>
+    Data To Tag <span class="acl-fixed-case">P</span>ashto
+  url: https://www.aclweb.org/anthology/R11-2004
+  year: '2011'
+R11-2005:
+  address: Hissar, Bulgaria
+  author:
+  - first: Miriam
+    full: Miriam Kaeshammer
+    id: miriam-kaeshammer
+    last: Kaeshammer
+  - first: Dominikus
+    full: Dominikus Wetzel
+    id: dominikus-wetzel
+    last: Wetzel
+  author_string: Miriam Kaeshammer, Dominikus Wetzel
+  bibkey: kaeshammer-wetzel-2011-enriching
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '33'
+  page_last: '40'
+  pages: "33\u201340"
+  paper_id: '5'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2005.jpg
+  title: Enriching Phrase-Based Statistical Machine Translation with POS Information
+  title_html: Enriching Phrase-Based Statistical Machine Translation with <span class="acl-fixed-case">POS</span>
+    Information
+  url: https://www.aclweb.org/anthology/R11-2005
+  year: '2011'
+R11-2006:
+  address: Hissar, Bulgaria
+  author:
+  - first: "G\xE1bor"
+    full: "G\xE1bor Berend"
+    id: gabor-berend
+    last: Berend
+  - first: "Istv\xE1n T."
+    full: "Istv\xE1n T. Nagy"
+    id: istvan-nagy-t
+    last: Nagy
+  - first: "Gy\xF6rgy"
+    full: "Gy\xF6rgy M\xF3ra"
+    id: gyorgy-mora
+    last: "M\xF3ra"
+  - first: Veronika
+    full: Veronika Vincze
+    id: veronika-vincze
+    last: Vincze
+  author_string: "G\xE1bor Berend, Istv\xE1n T. Nagy, Gy\xF6rgy M\xF3ra, Veronika\
+    \ Vincze"
+  bibkey: berend-etal-2011-inter
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '41'
+  page_last: '47'
+  pages: "41\u201347"
+  paper_id: '6'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2006.jpg
+  title: Inter-domain Opinion Phrase Extraction Based on Feature Augmentation
+  title_html: Inter-domain Opinion Phrase Extraction Based on Feature Augmentation
+  url: https://www.aclweb.org/anthology/R11-2006
+  year: '2011'
+R11-2007:
+  address: Hissar, Bulgaria
+  author:
+  - first: Maytham
+    full: Maytham Alabbas
+    id: maytham-alabbas
+    last: Alabbas
+  author_string: Maytham Alabbas
+  bibkey: alabbas-2011-arbte
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '48'
+  page_last: '53'
+  pages: "48\u201353"
+  paper_id: '7'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2007.jpg
+  title: 'ArbTE: Arabic Textual Entailment'
+  title_html: '<span class="acl-fixed-case">A</span>rb<span class="acl-fixed-case">TE</span>:
+    <span class="acl-fixed-case">A</span>rabic Textual Entailment'
+  url: https://www.aclweb.org/anthology/R11-2007
+  year: '2011'
+R11-2008:
+  address: Hissar, Bulgaria
+  author:
+  - first: Melania
+    full: Melania Duma
+    id: melania-duma
+    last: Duma
+  author_string: Melania Duma
+  bibkey: duma-2011-rdfa
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '54'
+  page_last: '59'
+  pages: "54\u201359"
+  paper_id: '8'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2008.jpg
+  title: RDFa Editor for Ontological Annotation
+  title_html: <span class="acl-fixed-case">RDF</span>a Editor for Ontological Annotation
+  url: https://www.aclweb.org/anthology/R11-2008
+  year: '2011'
+R11-2009:
+  address: Hissar, Bulgaria
+  author:
+  - first: Ali Reza
+    full: Ali Reza Ebadat
+    id: ali-reza-ebadat
+    last: Ebadat
+  author_string: Ali Reza Ebadat
+  bibkey: ebadat-2011-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '60'
+  page_last: '66'
+  pages: "60\u201366"
+  paper_id: '9'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2009.jpg
+  title: Extracting Protein-Protein Interactions with Language Modelling
+  title_html: Extracting Protein-Protein Interactions with Language Modelling
+  url: https://www.aclweb.org/anthology/R11-2009
+  year: '2011'
+R11-2010:
+  address: Hissar, Bulgaria
+  author:
+  - first: Monica
+    full: Monica Gavrila
+    id: monica-gavrila
+    last: Gavrila
+  - first: Natalia
+    full: Natalia Elita
+    id: natalia-elita
+    last: Elita
+  author_string: Monica Gavrila, Natalia Elita
+  bibkey: gavrila-elita-2011-experiments
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '67'
+  page_last: '72'
+  pages: "67\u201372"
+  paper_id: '10'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2010.jpg
+  title: Experiments with Small-size Corpora in CBMT
+  title_html: Experiments with Small-size Corpora in <span class="acl-fixed-case">CBMT</span>
+  url: https://www.aclweb.org/anthology/R11-2010
+  year: '2011'
+R11-2011:
+  address: Hissar, Bulgaria
+  author:
+  - first: Iria
+    full: Iria Gayo
+    id: iria-gayo
+    last: Gayo
+  author_string: Iria Gayo
+  bibkey: gayo-2011-question
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '73'
+  page_last: '78'
+  pages: "73\u201378"
+  paper_id: '11'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2011.jpg
+  title: Question Parsing for QA in Spanish
+  title_html: Question Parsing for <span class="acl-fixed-case">QA</span> in <span
+    class="acl-fixed-case">S</span>panish
+  url: https://www.aclweb.org/anthology/R11-2011
+  year: '2011'
+R11-2012:
+  address: Hissar, Bulgaria
+  author:
+  - first: Julian
+    full: Julian Hough
+    id: julian-hough
+    last: Hough
+  author_string: Julian Hough
+  bibkey: hough-2011-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '79'
+  page_last: '84'
+  pages: "79\u201384"
+  paper_id: '12'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2012.jpg
+  title: Incremental Semantics Driven Natural Language Generation with Self-Repairing
+    Capability
+  title_html: Incremental Semantics Driven Natural Language Generation with Self-Repairing
+    Capability
+  url: https://www.aclweb.org/anthology/R11-2012
+  year: '2011'
+R11-2013:
+  address: Hissar, Bulgaria
+  author:
+  - first: Daniel Devatman
+    full: Daniel Devatman Hromada
+    id: daniel-hromada
+    last: Hromada
+  author_string: Daniel Devatman Hromada
+  bibkey: hromada-2011-initial
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '85'
+  page_last: '90'
+  pages: "85\u201390"
+  paper_id: '13'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2013.jpg
+  title: Initial Experiments with Multilingual Extraction of Rhetoric Figures by means
+    of PERL-compatible Regular Expressions
+  title_html: Initial Experiments with Multilingual Extraction of Rhetoric Figures
+    by means of <span class="acl-fixed-case">PERL</span>-compatible Regular Expressions
+  url: https://www.aclweb.org/anthology/R11-2013
+  year: '2011'
+R11-2014:
+  address: Hissar, Bulgaria
+  author:
+  - first: Rodrigo
+    full: Rodrigo de Oliveira
+    id: rodrigo-de-oliveira
+    last: de Oliveira
+  - first: Lucas
+    full: Lucas Hausmann
+    id: lucas-hausmann
+    last: Hausmann
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  author_string: Rodrigo de Oliveira, Lucas Hausmann, Desislava Zhekova
+  bibkey: de-oliveira-etal-2011-three
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '91'
+  page_last: '96'
+  pages: "91\u201396"
+  paper_id: '14'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2014.jpg
+  title: Is Three the Optimal Context Window for Memory-Based Word Sense Disambiguation?
+  title_html: Is Three the Optimal Context Window for Memory-Based Word Sense Disambiguation?
+  url: https://www.aclweb.org/anthology/R11-2014
+  year: '2011'
+R11-2015:
+  address: Hissar, Bulgaria
+  author:
+  - first: Diman
+    full: Diman Karagiozov
+    id: diman-karagyozov
+    last: Karagiozov
+  author_string: Diman Karagiozov
+  bibkey: karagiozov-2011-heterogeneous
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '97'
+  page_last: '102'
+  pages: "97\u2013102"
+  paper_id: '15'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2015.jpg
+  title: Heterogeneous Natural Language Processing Tools via Language Processing Chains
+  title_html: Heterogeneous Natural Language Processing Tools via Language Processing
+    Chains
+  url: https://www.aclweb.org/anthology/R11-2015
+  year: '2011'
+R11-2016:
+  address: Hissar, Bulgaria
+  author:
+  - first: Carmen
+    full: Carmen Klaussner
+    id: carmen-klaussner
+    last: Klaussner
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  author_string: Carmen Klaussner, Desislava Zhekova
+  bibkey: klaussner-zhekova-2011-pattern
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '103'
+  page_last: '108'
+  pages: "103\u2013108"
+  paper_id: '16'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2016.jpg
+  title: Pattern-Based Ontology Construction from Selected Wikipedia Pages
+  title_html: Pattern-Based Ontology Construction from Selected <span class="acl-fixed-case">W</span>ikipedia
+    Pages
+  url: https://www.aclweb.org/anthology/R11-2016
+  year: '2011'
+R11-2017:
+  address: Hissar, Bulgaria
+  author:
+  - first: Carmen
+    full: Carmen Klaussner
+    id: carmen-klaussner
+    last: Klaussner
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  author_string: Carmen Klaussner, Desislava Zhekova
+  bibkey: klaussner-zhekova-2011-lexico
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '109'
+  page_last: '114'
+  pages: "109\u2013114"
+  paper_id: '17'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2017.jpg
+  title: Lexico-Syntactic Patterns for Automatic Ontology Building
+  title_html: Lexico-Syntactic Patterns for Automatic Ontology Building
+  url: https://www.aclweb.org/anthology/R11-2017
+  year: '2011'
+R11-2018:
+  address: Hissar, Bulgaria
+  author:
+  - first: Sushobhan
+    full: Sushobhan Nayak
+    id: sushobhan-nayak
+    last: Nayak
+  author_string: Sushobhan Nayak
+  bibkey: nayak-2011-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '115'
+  page_last: '120'
+  pages: "115\u2013120"
+  paper_id: '18'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2018.jpg
+  title: Towards a Grounded Model for Ontological Metaphors
+  title_html: Towards a Grounded Model for Ontological Metaphors
+  url: https://www.aclweb.org/anthology/R11-2018
+  year: '2011'
+R11-2019:
+  address: Hissar, Bulgaria
+  author:
+  - first: Silvia
+    full: Silvia Necsulescu
+    id: silvia-necsulescu
+    last: Necsulescu
+  author_string: Silvia Necsulescu
+  bibkey: necsulescu-2011-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '121'
+  page_last: '126'
+  pages: "121\u2013126"
+  paper_id: '19'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2019.jpg
+  title: Automatic Acquisition of Possible Contexts for Low-Frequent Words
+  title_html: Automatic Acquisition of Possible Contexts for Low-Frequent Words
+  url: https://www.aclweb.org/anthology/R11-2019
+  year: '2011'
+R11-2020:
+  address: Hissar, Bulgaria
+  author:
+  - first: Hajder
+    full: Hajder S. Rabiee
+    id: hajder-s-rabiee
+    last: S. Rabiee
+  author_string: Hajder S. Rabiee
+  bibkey: s-rabiee-2011-adapting
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '127'
+  page_last: '132'
+  pages: "127\u2013132"
+  paper_id: '20'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2020.jpg
+  title: 'Adapting Standard Open-Source Resources To Tagging A Morphologically Rich
+    Language: A Case Study With Arabic'
+  title_html: 'Adapting Standard Open-Source Resources To Tagging A Morphologically
+    Rich Language: A Case Study With <span class="acl-fixed-case">A</span>rabic'
+  url: https://www.aclweb.org/anthology/R11-2020
+  year: '2011'
+R11-2021:
+  address: Hissar, Bulgaria
+  author:
+  - first: Alex
+    full: Alex Rudnick
+    id: alex-rudnick
+    last: Rudnick
+  author_string: Alex Rudnick
+  bibkey: rudnick-2011-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '133'
+  page_last: '138'
+  pages: "133\u2013138"
+  paper_id: '21'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2021.jpg
+  title: Towards Cross-Language Word Sense Disambiguation for Quechua
+  title_html: Towards Cross-Language Word Sense Disambiguation for <span class="acl-fixed-case">Q</span>uechua
+  url: https://www.aclweb.org/anthology/R11-2021
+  year: '2011'
+R11-2022:
+  address: Hissar, Bulgaria
+  author:
+  - first: Natalia
+    full: Natalia Konstantinova
+    id: natalia-konstantinova
+    last: Konstantinova
+  - first: Sheila
+    full: Sheila C. M. de Sousa
+    id: sheila-c-m-de-sousa
+    last: C. M. de Sousa
+  author_string: Natalia Konstantinova, Sheila C. M. de Sousa
+  bibkey: konstantinova-c-m-de-sousa-2011-annotating
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '139'
+  page_last: '144'
+  pages: "139\u2013144"
+  paper_id: '22'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2022.jpg
+  title: 'Annotating Negation and Speculation: the Case of the Review Domain'
+  title_html: 'Annotating Negation and Speculation: the Case of the Review Domain'
+  url: https://www.aclweb.org/anthology/R11-2022
+  year: '2011'
+R11-2023:
+  address: Hissar, Bulgaria
+  author:
+  - first: "An\u0111elka"
+    full: "An\u0111elka Ze\u010Devi\u0107"
+    id: andelka-zecevic
+    last: "Ze\u010Devi\u0107"
+  author_string: "An\u0111elka Ze\u010Devi\u0107"
+  bibkey: zecevic-2011-n
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '145'
+  page_last: '149'
+  pages: "145\u2013149"
+  paper_id: '23'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2023.jpg
+  title: N-gram Based Text Classification According To Authorship
+  title_html: N-gram Based Text Classification According To Authorship
+  url: https://www.aclweb.org/anthology/R11-2023
+  year: '2011'
+R11-2024:
+  address: Hissar, Bulgaria
+  author:
+  - first: Desislava
+    full: Desislava Zhekova
+    id: desislava-zhekova
+    last: Zhekova
+  author_string: Desislava Zhekova
+  bibkey: zhekova-2011-instance
+  bibtype: inproceedings
+  booktitle: Proceedings of the Second Student Research Workshop associated with RANLP
+    2011
+  booktitle_html: Proceedings of the Second Student Research Workshop associated with
+    <span class="acl-fixed-case">RANLP</span> 2011
+  month: September
+  page_first: '150'
+  page_last: '155'
+  pages: "150\u2013155"
+  paper_id: '24'
+  parent_volume_id: R11-2
+  pdf: https://www.aclweb.org/anthology/R11-2024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/R11-2024.jpg
+  title: Instance Sampling for Multilingual Coreference Resolution
+  title_html: Instance Sampling for Multilingual Coreference Resolution
+  url: https://www.aclweb.org/anthology/R11-2024
+  year: '2011'

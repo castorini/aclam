@@ -1,0 +1,560 @@
+U03-1000:
+  address: Melbourne, Australia
+  author:
+  - first: Catherine
+    full: Catherine Bow
+    id: catherine-bow
+    last: Bow
+  - first: Baden
+    full: Baden Hughes
+    id: baden-hughes
+    last: Hughes
+  author_string: Catherine Bow, Baden Hughes
+  bibkey: alta-2003-australasian
+  bibtype: proceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  pages: '150'
+  paper_id: '0'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1000.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1000.jpg
+  title: Proceedings of the Australasian Language Technology Workshop 2003
+  title_html: Proceedings of the Australasian Language Technology Workshop 2003
+  url: https://www.aclweb.org/anthology/U03-1000
+  volume: '1'
+  year: '2003'
+U03-1001:
+  address: Melbourne, Australia
+  author:
+  - first: Rolf
+    full: Rolf Schwitter
+    id: rolf-schwitter
+    last: Schwitter
+  author_string: Rolf Schwitter
+  bibkey: schwitter-2003-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '6'
+  page_last: '13'
+  pages: "6\u201313"
+  paper_id: '1'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1001.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1001.jpg
+  title: Incremental chart parsing with predictive hints
+  title_html: Incremental chart parsing with predictive hints
+  url: https://www.aclweb.org/anthology/U03-1001
+  volume: '1'
+  year: '2003'
+U03-1002:
+  address: Melbourne, Australia
+  author:
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Robert Dale
+  bibkey: dale-2003-one
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '16'
+  page_last: '21'
+  pages: "16\u201321"
+  paper_id: '2'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1002.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1002.jpg
+  title: "\u2018One\u2019-anaphora and the case for discourse-driven referring expression\
+    \ generation"
+  title_html: "\u2018One\u2019-anaphora and the case for discourse-driven referring\
+    \ expression generation"
+  url: https://www.aclweb.org/anthology/U03-1002
+  volume: '1'
+  year: '2003'
+U03-1003:
+  address: Melbourne, Australia
+  author:
+  - first: Takeshi
+    full: Takeshi Matsumoto
+    id: takeshi-matsumoto
+    last: Matsumoto
+  - first: David M. W.
+    full: David M. W. Powers
+    id: david-m-w-powers
+    last: Powers
+  - first: Geoff
+    full: Geoff Jarrad
+    id: geoff-jarrad
+    last: Jarrad
+  author_string: Takeshi Matsumoto, David M. W. Powers, Geoff Jarrad
+  bibkey: matsumoto-etal-2003-application
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '22'
+  page_last: '29'
+  pages: "22\u201329"
+  paper_id: '3'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1003.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1003.jpg
+  title: Application of search algorithms to natural language processing
+  title_html: Application of search algorithms to natural language processing
+  url: https://www.aclweb.org/anthology/U03-1003
+  volume: '1'
+  year: '2003'
+U03-1004:
+  address: Melbourne, Australia
+  author:
+  - first: Ji-Eun
+    full: Ji-Eun Roh
+    id: ji-eun-roh
+    last: Roh
+  - first: Jong-Hyeok
+    full: Jong-Hyeok Lee
+    id: jong-hyeok-lee
+    last: Lee
+  author_string: Ji-Eun Roh, Jong-Hyeok Lee
+  bibkey: roh-lee-2003-empirical
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '30'
+  page_last: '37'
+  pages: "30\u201337"
+  paper_id: '4'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1004.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1004.jpg
+  title: An empirical study for generating zero pronoun in Korean based on Cost-based
+    centering model
+  title_html: An empirical study for generating zero pronoun in <span class="acl-fixed-case">K</span>orean
+    based on Cost-based centering model
+  url: https://www.aclweb.org/anthology/U03-1004
+  volume: '1'
+  year: '2003'
+U03-1005:
+  address: Melbourne, Australia
+  author:
+  - first: Mi-Young
+    full: Mi-Young Kim
+    id: mi-young-kim
+    last: Kim
+  - first: Jong-Hyeok
+    full: Jong-Hyeok Lee
+    id: jong-hyeok-lee
+    last: Lee
+  author_string: Mi-Young Kim, Jong-Hyeok Lee
+  bibkey: kim-lee-2003-clause
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '38'
+  page_last: '45'
+  pages: "38\u201345"
+  paper_id: '5'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1005.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1005.jpg
+  title: S-clause segmentation for efficient syntactic analysis using decision trees
+  title_html: S-clause segmentation for efficient syntactic analysis using decision
+    trees
+  url: https://www.aclweb.org/anthology/U03-1005
+  volume: '1'
+  year: '2003'
+U03-1006:
+  address: Melbourne, Australia
+  author:
+  - first: Alistair
+    full: Alistair Knott
+    id: alistair-knott
+    last: Knott
+  - first: Peter
+    full: Peter Vlugter
+    id: peter-vlugter
+    last: Vlugter
+  author_string: Alistair Knott, Peter Vlugter
+  bibkey: knott-vlugter-2003-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '46'
+  page_last: '52'
+  pages: "46\u201352"
+  paper_id: '6'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1006.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1006.jpg
+  title: Syntactic disambiguation using presupposition resolution
+  title_html: Syntactic disambiguation using presupposition resolution
+  url: https://www.aclweb.org/anthology/U03-1006
+  volume: '1'
+  year: '2003'
+U03-1007:
+  address: Melbourne, Australia
+  author:
+  - first: Timothy
+    full: Timothy Baldwin
+    id: timothy-baldwin
+    last: Baldwin
+  - first: Leonoor
+    full: Leonoor van der Beek
+    id: leonoor-van-der-beek
+    last: van der Beek
+  author_string: Timothy Baldwin, Leonoor van der Beek
+  bibkey: baldwin-van-der-beek-2003-ins
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '53'
+  page_last: '60'
+  pages: "53\u201360"
+  paper_id: '7'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1007.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1007.jpg
+  title: The Ins and Outs of Dutch noun countability classification
+  title_html: The Ins and Outs of <span class="acl-fixed-case">D</span>utch noun countability
+    classification
+  url: https://www.aclweb.org/anthology/U03-1007
+  volume: '1'
+  year: '2003'
+U03-1008:
+  address: Melbourne, Australia
+  author:
+  - first: Baden
+    full: Baden Hughes
+    id: baden-hughes
+    last: Hughes
+  - first: Steven
+    full: Steven Bird
+    id: steven-bird
+    last: Bird
+  - first: Catherine
+    full: Catherine Bow
+    id: catherine-bow
+    last: Bow
+  author_string: Baden Hughes, Steven Bird, Catherine Bow
+  bibkey: hughes-etal-2003-encoding
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '61'
+  page_last: '69'
+  pages: "61\u201369"
+  paper_id: '8'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1008.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1008.jpg
+  title: Encoding and presenting interlinear text using XML technologies
+  title_html: Encoding and presenting interlinear text using <span class="acl-fixed-case">XML</span>
+    technologies
+  url: https://www.aclweb.org/anthology/U03-1008
+  volume: '1'
+  year: '2003'
+U03-1009:
+  address: Melbourne, Australia
+  author:
+  - first: Robert
+    full: Robert Munro
+    id: robert-munro
+    last: Munro
+  author_string: Robert Munro
+  bibkey: munro-2003-queueing
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '70'
+  page_last: '77'
+  pages: "70\u201377"
+  paper_id: '9'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1009.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1009.jpg
+  title: A queueing-theory model of word frequency distributions
+  title_html: A queueing-theory model of word frequency distributions
+  url: https://www.aclweb.org/anthology/U03-1009
+  volume: '1'
+  year: '2003'
+U03-1010:
+  address: Melbourne, Australia
+  author:
+  - first: Jim
+    full: Jim Yaghi
+    id: jim-yaghi
+    last: Yaghi
+  - first: Mark R.
+    full: Mark R. Titchener
+    id: mark-r-titchener
+    last: Titchener
+  - first: Sane
+    full: Sane Yagi
+    id: sane-yagi
+    last: Yagi
+  author_string: Jim Yaghi, Mark R. Titchener, Sane Yagi
+  bibkey: yaghi-etal-2003-code
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '78'
+  page_last: '85'
+  pages: "78\u201385"
+  paper_id: '10'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1010.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1010.jpg
+  title: T-code compression for Arabic computational morphology
+  title_html: T-code compression for <span class="acl-fixed-case">A</span>rabic computational
+    morphology
+  url: https://www.aclweb.org/anthology/U03-1010
+  volume: '1'
+  year: '2003'
+U03-1011:
+  address: Melbourne, Australia
+  author:
+  - first: Trevor
+    full: Trevor Cohn
+    id: trevor-cohn
+    last: Cohn
+  author_string: Trevor Cohn
+  bibkey: cohn-2003-performance
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '86'
+  page_last: '93'
+  pages: "86\u201393"
+  paper_id: '11'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1011.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1011.jpg
+  title: Performance metrics for word sense disambiguation
+  title_html: Performance metrics for word sense disambiguation
+  url: https://www.aclweb.org/anthology/U03-1011
+  volume: '1'
+  year: '2003'
+U03-1012:
+  address: Melbourne, Australia
+  author:
+  - first: Stephen
+    full: Stephen Wan
+    id: stephen-wan
+    last: Wan
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  - first: Cecile
+    full: Cecile Paris
+    id: cecile-paris
+    last: Paris
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  author_string: Stephen Wan, Mark Dras, Cecile Paris, Robert Dale
+  bibkey: wan-etal-2003-straight
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '94'
+  page_last: '101'
+  pages: "94\u2013101"
+  paper_id: '12'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1012.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1012.jpg
+  title: 'Straight to the point: Discovering themes for summary generation'
+  title_html: 'Straight to the point: Discovering themes for summary generation'
+  url: https://www.aclweb.org/anthology/U03-1012
+  volume: '1'
+  year: '2003'
+U03-1013:
+  address: Melbourne, Australia
+  author:
+  - first: You-Jin
+    full: You-Jin Chung
+    id: you-jin-chung
+    last: Chung
+  - first: Jong-Hyeok
+    full: Jong-Hyeok Lee
+    id: jong-hyeok-lee
+    last: Lee
+  author_string: You-Jin Chung, Jong-Hyeok Lee
+  bibkey: chung-lee-2003-resolving
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '102'
+  page_last: '109'
+  pages: "102\u2013109"
+  paper_id: '13'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1013.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1013.jpg
+  title: Resolving Sense Ambiguity of Korean Nouns Based on Concept Co-occurrence
+    Information
+  title_html: Resolving Sense Ambiguity of <span class="acl-fixed-case">K</span>orean
+    Nouns Based on Concept Co-occurrence Information
+  url: https://www.aclweb.org/anthology/U03-1013
+  volume: '1'
+  year: '2003'
+U03-1014:
+  address: Melbourne, Australia
+  author:
+  - first: Diego
+    full: "Diego Moll\xE1"
+    id: diego-molla
+    last: "Moll\xE1"
+  author_string: "Diego Moll\xE1"
+  bibkey: molla-2003-towards
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '110'
+  page_last: '117'
+  pages: "110\u2013117"
+  paper_id: '14'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1014.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1014.jpg
+  title: Towards semantic-based overlap measures for question-answering
+  title_html: Towards semantic-based overlap measures for question-answering
+  url: https://www.aclweb.org/anthology/U03-1014
+  volume: '1'
+  year: '2003'
+U03-1015:
+  address: Melbourne, Australia
+  author:
+  - first: Tanja
+    full: Tanja Gaustad
+    id: tanja-gaustad
+    last: Gaustad
+  author_string: Tanja Gaustad
+  bibkey: gaustad-2003-importance
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '118'
+  page_last: '125'
+  pages: "118\u2013125"
+  paper_id: '15'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1015.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1015.jpg
+  title: 'The importance of high-quality input for WSD: an application-oriented comparison
+    of part-of-speech taggers'
+  title_html: 'The importance of high-quality input for <span class="acl-fixed-case">WSD</span>:
+    an application-oriented comparison of part-of-speech taggers'
+  url: https://www.aclweb.org/anthology/U03-1015
+  volume: '1'
+  year: '2003'
+U03-1016:
+  address: Melbourne, Australia
+  author:
+  - first: In-Su
+    full: In-Su Kang
+    id: in-su-kang
+    last: Kang
+  - first: Seung-Hoon
+    full: Seung-Hoon Na
+    id: seung-hoon-na
+    last: Na
+  - first: Jong-Hyeok
+    full: Jong-Hyeok Lee
+    id: jong-hyeok-lee
+    last: Lee
+  author_string: In-Su Kang, Seung-Hoon Na, Jong-Hyeok Lee
+  bibkey: kang-etal-2003-conceptual
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '126'
+  page_last: '133'
+  pages: "126\u2013133"
+  paper_id: '16'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1016.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1016.jpg
+  title: Conceptual Schema Approach to Natural Language Database Access
+  title_html: Conceptual Schema Approach to Natural Language Database Access
+  url: https://www.aclweb.org/anthology/U03-1016
+  volume: '1'
+  year: '2003'
+U03-1017:
+  address: Melbourne, Australia
+  author:
+  - first: Oliver
+    full: Oliver Carr
+    id: oliver-carr
+    last: Carr
+  - first: Dominique
+    full: Dominique Estival
+    id: dominique-estival
+    last: Estival
+  author_string: Oliver Carr, Dominique Estival
+  bibkey: carr-estival-2003-document
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '134'
+  page_last: '142'
+  pages: "134\u2013142"
+  paper_id: '17'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1017.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1017.jpg
+  title: Document classification in structured military messages
+  title_html: Document classification in structured military messages
+  url: https://www.aclweb.org/anthology/U03-1017
+  volume: '1'
+  year: '2003'
+U03-1018:
+  address: Melbourne, Australia
+  author:
+  - first: Maria
+    full: Maria Herke-Couchman
+    id: maria-herke-couchman
+    last: Herke-Couchman
+  - first: Casey
+    full: Casey Whitelaw
+    id: casey-whitelaw
+    last: Whitelaw
+  author_string: Maria Herke-Couchman, Casey Whitelaw
+  bibkey: herke-couchman-whitelaw-2003-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of the Australasian Language Technology Workshop 2003
+  booktitle_html: Proceedings of the Australasian Language Technology Workshop 2003
+  month: December
+  page_first: '143'
+  page_last: '150'
+  pages: "143\u2013150"
+  paper_id: '18'
+  parent_volume_id: U03-1
+  pdf: https://www.aclweb.org/anthology/U03-1018.pdf
+  thumbnail: https://www.aclweb.org/anthology/thumb/U03-1018.jpg
+  title: Identifying interpersonal distance using systemic features
+  title_html: Identifying interpersonal distance using systemic features
+  url: https://www.aclweb.org/anthology/U03-1018
+  volume: '1'
+  year: '2003'

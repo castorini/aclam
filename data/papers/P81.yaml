@@ -1,0 +1,987 @@
+P81-1000:
+  address: Stanford, California, USA
+  bibkey: acl-1981-association
+  bibtype: proceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1000.jpg
+  title: 19th Annual Meeting of the Association for Computational Linguistics
+  title_html: 19th Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P81-1000
+  year: '1981'
+P81-1001:
+  address: Stanford, California, USA
+  author:
+  - first: Jonathan
+    full: Jonathan Slocum
+    id: jonathan-slocum
+    last: Slocum
+  author_string: Jonathan Slocum
+  bibkey: slocum-1981-practical
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981925
+  month: June
+  page_first: '1'
+  page_last: '6'
+  pages: "1\u20136"
+  paper_id: '1'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1001.jpg
+  title: A Practical Comparison of Parsing Strategies
+  title_html: A Practical Comparison of Parsing Strategies
+  url: https://www.aclweb.org/anthology/P81-1001
+  year: '1981'
+P81-1002:
+  address: Stanford, California, USA
+  author:
+  - first: Robert C.
+    full: Robert C. Berwick
+    id: robert-c-berwick
+    last: Berwick
+  author_string: Robert C. Berwick
+  bibkey: berwick-1981-computational
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981926
+  month: June
+  page_first: '7'
+  page_last: '12'
+  pages: "7\u201312"
+  paper_id: '2'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1002.jpg
+  title: Computational Complexity and Lexical Functional Grammar
+  title_html: Computational Complexity and <span class="acl-fixed-case">L</span>exical
+    <span class="acl-fixed-case">F</span>unctional <span class="acl-fixed-case">G</span>rammar
+  url: https://www.aclweb.org/anthology/P81-1002
+  year: '1981'
+P81-1003:
+  address: Stanford, California, USA
+  author:
+  - first: Karen
+    full: Karen Ryan
+    id: karen-l-ryan
+    last: Ryan
+  author_string: Karen Ryan
+  bibkey: ryan-1981-corepresentational
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981927
+  month: June
+  page_first: '13'
+  page_last: '18'
+  pages: "13\u201318"
+  paper_id: '3'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1003.jpg
+  title: Corepresentational Grammar and Parsing English Comparatives
+  title_html: Corepresentational Grammar and Parsing <span class="acl-fixed-case">E</span>nglish
+    Comparatives
+  url: https://www.aclweb.org/anthology/P81-1003
+  year: '1981'
+P81-1004:
+  address: Stanford, California, USA
+  author:
+  - first: Jared
+    full: Jared Bernstein
+    id: jared-bernstein
+    last: Bernstein
+  - first: Larry
+    full: Larry Nessly
+    id: larry-nessly
+    last: Nessly
+  author_string: Jared Bernstein, Larry Nessly
+  bibkey: bernstein-nessly-1981-performance
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981928
+  month: June
+  page_first: '19'
+  page_last: '22'
+  pages: "19\u201322"
+  paper_id: '4'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1004.jpg
+  title: Performance Comparison of Component Algorithms for the Phonemicization of
+    Orthography
+  title_html: Performance Comparison of Component Algorithms for the Phonemicization
+    of Orthography
+  url: https://www.aclweb.org/anthology/P81-1004
+  year: '1981'
+P81-1005:
+  address: Stanford, California, USA
+  author:
+  - first: Lee A.
+    full: Lee A. Becker
+    id: lee-becker
+    last: Becker
+  author_string: Lee A. Becker
+  bibkey: becker-1981-phony
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981929
+  month: June
+  page_first: '23'
+  page_last: '27'
+  pages: "23\u201327"
+  paper_id: '5'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1005.jpg
+  title: 'PHONY: A Heuristic Phonological Analyzer'
+  title_html: '<span class="acl-fixed-case">PHONY</span>: A Heuristic Phonological
+    Analyzer'
+  url: https://www.aclweb.org/anthology/P81-1005
+  year: '1981'
+P81-1006:
+  address: Stanford, California, USA
+  author:
+  - first: Norman K.
+    full: Norman K. Sondheimer
+    id: norman-k-sondheimer
+    last: Sondheimer
+  author_string: Norman K. Sondheimer
+  bibkey: sondheimer-1981-evaluation
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981931
+  month: June
+  page_first: '29'
+  page_last: '29'
+  pages: "29\u201329"
+  paper_id: '6'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1006.jpg
+  title: 'Evaluation of Natural Language Interfaces to Database Systems: A Panel Discussion'
+  title_html: 'Evaluation of Natural Language Interfaces to Database Systems: A Panel
+    Discussion'
+  url: https://www.aclweb.org/anthology/P81-1006
+  year: '1981'
+P81-1007:
+  address: Stanford, California, USA
+  author:
+  - first: J. Norwood
+    full: J. Norwood Crout
+    id: j-norwood-crout
+    last: Crout
+  author_string: J. Norwood Crout
+  bibkey: crout-1981-artificial
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981932
+  month: June
+  page_first: '31'
+  page_last: '31'
+  pages: "31\u201331"
+  paper_id: '7'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1007.jpg
+  title: Artificial Intelligence Corporation
+  title_html: Artificial Intelligence Corporation
+  url: https://www.aclweb.org/anthology/P81-1007
+  year: '1981'
+P81-1008:
+  address: Stanford, California, USA
+  author:
+  - first: William C.
+    full: William C. Mann
+    id: william-c-mann
+    last: Mann
+  author_string: William C. Mann
+  bibkey: mann-1981-selective
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981933
+  month: June
+  page_first: '33'
+  page_last: '34'
+  pages: "33\u201334"
+  paper_id: '8'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1008.jpg
+  title: Selective Planning of Interface Evaluations
+  title_html: Selective Planning of Interface Evaluations
+  url: https://www.aclweb.org/anthology/P81-1008
+  year: '1981'
+P81-1009:
+  address: Stanford, California, USA
+  author:
+  - first: S. R.
+    full: S. R. Petrick
+    id: s-r-petrick
+    last: Petrick
+  author_string: S. R. Petrick
+  bibkey: petrick-1981-field
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981934
+  month: June
+  page_first: '35'
+  page_last: '36'
+  pages: "35\u201336"
+  paper_id: '9'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1009.jpg
+  title: Field Testing the Transformational Question Answering (TQA) System
+  title_html: Field Testing the <span class="acl-fixed-case">T</span>ransformational
+    <span class="acl-fixed-case">Q</span>uestion <span class="acl-fixed-case">A</span>nswering
+    (<span class="acl-fixed-case">TQA</span>) System
+  url: https://www.aclweb.org/anthology/P81-1009
+  year: '1981'
+P81-1010:
+  address: Stanford, California, USA
+  author:
+  - first: Harry
+    full: Harry Tennant
+    id: harry-tennant
+    last: Tennant
+  author_string: Harry Tennant
+  bibkey: tennant-1981-makes
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981935
+  month: June
+  page_first: '37'
+  page_last: '38'
+  pages: "37\u201338"
+  paper_id: '10'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1010.jpg
+  title: What Makes Evaluation Hard?
+  title_html: What Makes Evaluation Hard?
+  url: https://www.aclweb.org/anthology/P81-1010
+  year: '1981'
+P81-1011:
+  address: Stanford, California, USA
+  author:
+  - first: Bozena Henisz
+    full: Bozena Henisz Thompson
+    id: bozena-henisz-thompson
+    last: Thompson
+  author_string: Bozena Henisz Thompson
+  bibkey: thompson-1981-evaluation
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981936
+  month: June
+  page_first: '39'
+  page_last: '42'
+  pages: "39\u201342"
+  paper_id: '11'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1011.jpg
+  title: Evaluation of Natural Language Interfaces to Data Base Systems
+  title_html: Evaluation of Natural Language Interfaces to Data Base Systems
+  url: https://www.aclweb.org/anthology/P81-1011
+  year: '1981'
+P81-1012:
+  address: Stanford, California, USA
+  author:
+  - first: William C.
+    full: William C. Mann
+    id: william-c-mann
+    last: Mann
+  author_string: William C. Mann
+  bibkey: mann-1981-two
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981938
+  month: June
+  page_first: '43'
+  page_last: '47'
+  pages: "43\u201347"
+  paper_id: '12'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1012.jpg
+  title: Two Discourse Generators
+  title_html: Two Discourse Generators
+  url: https://www.aclweb.org/anthology/P81-1012
+  year: '1981'
+P81-1013:
+  address: Stanford, California, USA
+  author:
+  - first: Christian M.I.M.
+    full: Christian M.I.M. Matthiessen
+    id: christian-m-i-m-matthiessen
+    last: Matthiessen
+  author_string: Christian M.I.M. Matthiessen
+  bibkey: matthiessen-1981-grammar
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981939
+  month: June
+  page_first: '49'
+  page_last: '55'
+  pages: "49\u201355"
+  paper_id: '13'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1013.jpg
+  title: A Grammar and a Lexicon for a Text-Production System
+  title_html: A Grammar and a Lexicon for a Text-Production System
+  url: https://www.aclweb.org/anthology/P81-1013
+  year: '1981'
+P81-1014:
+  address: Stanford, California, USA
+  author:
+  - first: David D.
+    full: David D. McDonald
+    id: david-d-mcdonald
+    last: McDonald
+  author_string: David D. McDonald
+  bibkey: mcdonald-1981-language
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981940
+  month: June
+  page_first: '57'
+  page_last: '62'
+  pages: "57\u201362"
+  paper_id: '14'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1014.jpg
+  title: 'Language Production: the Source of the Dictionary'
+  title_html: 'Language Production: the Source of the Dictionary'
+  url: https://www.aclweb.org/anthology/P81-1014
+  year: '1981'
+P81-1015:
+  address: Stanford, California, USA
+  author:
+  - first: Rachel
+    full: Rachel Reichman
+    id: rachel-reichman
+    last: Reichman
+  author_string: Rachel Reichman
+  bibkey: reichman-1981-analogies
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981942
+  month: June
+  page_first: '63'
+  page_last: '69'
+  pages: "63\u201369"
+  paper_id: '15'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1015.jpg
+  title: Analogies in Spontaneous Discourse
+  title_html: Analogies in Spontaneous Discourse
+  url: https://www.aclweb.org/anthology/P81-1015
+  year: '1981'
+P81-1016:
+  address: Stanford, California, USA
+  author:
+  - first: Robin
+    full: Robin Cohen
+    id: robin-cohen
+    last: Cohen
+  author_string: Robin Cohen
+  bibkey: cohen-1981-investigation
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981943
+  month: June
+  page_first: '71'
+  page_last: '75'
+  pages: "71\u201375"
+  paper_id: '16'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1016.jpg
+  title: Investigation of Processing Strategies for the Structural Analysis of Arguments
+  title_html: Investigation of Processing Strategies for the Structural Analysis of
+    Arguments
+  url: https://www.aclweb.org/anthology/P81-1016
+  year: '1981'
+P81-1017:
+  address: Stanford, California, USA
+  author:
+  - first: James F.
+    full: James F. Allen
+    id: james-allen
+    last: Allen
+  author_string: James F. Allen
+  bibkey: allen-1981-whats
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981944
+  month: June
+  page_first: '77'
+  page_last: '81'
+  pages: "77\u201381"
+  paper_id: '17'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1017.jpg
+  title: "What\u2019s Necessary to Hide?: Modeling Action Verbs"
+  title_html: "What\u2019s Necessary to Hide?: Modeling Action Verbs"
+  url: https://www.aclweb.org/anthology/P81-1017
+  year: '1981'
+P81-1018:
+  address: Stanford, California, USA
+  author:
+  - first: Robert E.
+    full: Robert E. Frederking
+    id: robert-frederking
+    last: Frederking
+  author_string: Robert E. Frederking
+  bibkey: frederking-1981-rule
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981945
+  month: June
+  page_first: '83'
+  page_last: '87'
+  pages: "83\u201387"
+  paper_id: '18'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1018.jpg
+  title: A Rule-based Conversation Participant
+  title_html: A Rule-based Conversation Participant
+  url: https://www.aclweb.org/anthology/P81-1018
+  year: '1981'
+P81-1019:
+  address: Stanford, California, USA
+  author:
+  - first: Kate
+    full: Kate Ehrlich
+    id: kate-ehrlich
+    last: Ehrlich
+  author_string: Kate Ehrlich
+  bibkey: ehrlich-1981-search
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981946
+  month: June
+  page_first: '89'
+  page_last: '93'
+  pages: "89\u201393"
+  paper_id: '19'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1019.jpg
+  title: 'Search and Inference Strategies in Pronoun Resolution: An Experimental Study'
+  title_html: 'Search and Inference Strategies in Pronoun Resolution: An Experimental
+    Study'
+  url: https://www.aclweb.org/anthology/P81-1019
+  year: '1981'
+P81-1020:
+  address: Stanford, California, USA
+  author:
+  - first: Jane J.
+    full: Jane J. Robinson
+    id: jane-j-robinson
+    last: Robinson
+  author_string: Jane J. Robinson
+  bibkey: robinson-1981-perspectives
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981948
+  month: June
+  page_first: '95'
+  page_last: '95'
+  pages: "95\u201395"
+  paper_id: '20'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1020.jpg
+  title: Perspectives on Parsing Issues
+  title_html: Perspectives on Parsing Issues
+  url: https://www.aclweb.org/anthology/P81-1020
+  year: '1981'
+P81-1021:
+  address: Stanford, California, USA
+  author:
+  - first: Robert J.
+    full: Robert J. Bobrow
+    id: robert-bobrow
+    last: Bobrow
+  - first: Bonnie L.
+    full: Bonnie L. Webber
+    id: bonnie-webber
+    last: Webber
+  author_string: Robert J. Bobrow, Bonnie L. Webber
+  bibkey: bobrow-webber-1981-issues
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981949
+  month: June
+  page_first: '97'
+  page_last: '99'
+  pages: "97\u201399"
+  paper_id: '21'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1021.jpg
+  title: Some Issues in Parsing and Natural Language Understanding
+  title_html: Some Issues in Parsing and Natural Language Understanding
+  url: https://www.aclweb.org/anthology/P81-1021
+  year: '1981'
+P81-1022:
+  address: Stanford, California, USA
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Ralph Grishman
+  bibkey: grishman-1981-parsing
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981950
+  month: June
+  page_first: '101'
+  page_last: '101'
+  pages: "101\u2013101"
+  paper_id: '22'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1022.jpg
+  title: Parsing
+  title_html: Parsing
+  url: https://www.aclweb.org/anthology/P81-1022
+  year: '1981'
+P81-1023:
+  address: Stanford, California, USA
+  author:
+  - first: Ronald M.
+    full: Ronald M. Kaplan
+    id: ronald-m-kaplan
+    last: Kaplan
+  author_string: Ronald M. Kaplan
+  bibkey: kaplan-1981-view
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981951
+  month: June
+  page_first: '103'
+  page_last: '104'
+  pages: "103\u2013104"
+  paper_id: '23'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1023.jpg
+  title: A View of Parsing
+  title_html: A View of Parsing
+  url: https://www.aclweb.org/anthology/P81-1023
+  year: '1981'
+P81-1024:
+  address: Stanford, California, USA
+  author:
+  - first: Christopher K.
+    full: Christopher K. Riesbeck
+    id: christopher-k-riesbeck
+    last: Riesbeck
+  author_string: Christopher K. Riesbeck
+  bibkey: riesbeck-1981-perspectives
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981952
+  month: June
+  page_first: '105'
+  page_last: '106'
+  pages: "105\u2013106"
+  paper_id: '24'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1024.jpg
+  title: Perspectives on Parsing Issues
+  title_html: Perspectives on Parsing Issues
+  url: https://www.aclweb.org/anthology/P81-1024
+  year: '1981'
+P81-1025:
+  address: Stanford, California, USA
+  author:
+  - first: Douglas B.
+    full: Douglas B. Moran
+    id: douglas-b-moran
+    last: Moran
+  author_string: Douglas B. Moran
+  bibkey: moran-1981-presupposition
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981954
+  month: June
+  page_first: '107'
+  page_last: '108'
+  pages: "107\u2013108"
+  paper_id: '25'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1025.jpg
+  title: Presupposition and Implicature in Model-Theoretic Pragmatics
+  title_html: Presupposition and Implicature in Model-Theoretic Pragmatics
+  url: https://www.aclweb.org/anthology/P81-1025
+  year: '1981'
+P81-1026:
+  address: Stanford, California, USA
+  author:
+  - first: Jon
+    full: Jon Barwise
+    id: jon-barwise
+    last: Barwise
+  author_string: Jon Barwise
+  bibkey: barwise-1981-computational
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981955
+  month: June
+  page_first: '109'
+  page_last: '111'
+  pages: "109\u2013111"
+  paper_id: '26'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1026.jpg
+  title: Some Computational Aspects of Situation Semantics
+  title_html: Some Computational Aspects of Situation Semantics
+  url: https://www.aclweb.org/anthology/P81-1026
+  year: '1981'
+P81-1027:
+  address: Stanford, California, USA
+  author:
+  - first: David Andreoff
+    full: David Andreoff Evans
+    id: david-a-evans
+    last: Evans
+  author_string: David Andreoff Evans
+  bibkey: evans-1981-situation
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981956
+  month: June
+  page_first: '113'
+  page_last: '116'
+  pages: "113\u2013116"
+  paper_id: '27'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1027.jpg
+  title: A Situation Semantics Approach to the Analysis of Speech Acts
+  title_html: A Situation Semantics Approach to the Analysis of Speech Acts
+  url: https://www.aclweb.org/anthology/P81-1027
+  year: '1981'
+P81-1028:
+  address: Stanford, California, USA
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Robert C. Moore
+  bibkey: moore-1981-problems
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981957
+  month: June
+  page_first: '117'
+  page_last: '124'
+  pages: "117\u2013124"
+  paper_id: '28'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1028.jpg
+  title: Problems in Logical Form
+  title_html: Problems in Logical Form
+  url: https://www.aclweb.org/anthology/P81-1028
+  year: '1981'
+P81-1029:
+  address: Stanford, California, USA
+  author:
+  - first: Martha
+    full: Martha Palmer
+    id: martha-palmer
+    last: Palmer
+  author_string: Martha Palmer
+  bibkey: palmer-1981-case
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981958
+  month: June
+  page_first: '125'
+  page_last: '131'
+  pages: "125\u2013131"
+  paper_id: '29'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1029.jpg
+  title: A Case for Rule-Driven Semantic Processing
+  title_html: A Case for Rule-Driven Semantic Processing
+  url: https://www.aclweb.org/anthology/P81-1029
+  year: '1981'
+P81-1030:
+  address: Stanford, California, USA
+  author:
+  - first: Robert A.
+    full: Robert A. Amsler
+    id: robert-a-amsler
+    last: Amsler
+  author_string: Robert A. Amsler
+  bibkey: amsler-1981-taxonomy
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981959
+  month: June
+  page_first: '133'
+  page_last: '138'
+  pages: "133\u2013138"
+  paper_id: '30'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1030.jpg
+  title: A Taxonomy for English Nouns and Verbs
+  title_html: A Taxonomy for <span class="acl-fixed-case">E</span>nglish Nouns and
+    Verbs
+  url: https://www.aclweb.org/anthology/P81-1030
+  year: '1981'
+P81-1031:
+  address: Stanford, California, USA
+  author:
+  - first: S. Jerrold
+    full: S. Jerrold Kaplan
+    id: s-jerrold-kaplan
+    last: Kaplan
+  - first: Jim
+    full: Jim Davidson
+    id: jim-davidson
+    last: Davidson
+  author_string: S. Jerrold Kaplan, Jim Davidson
+  bibkey: kaplan-davidson-1981-interpreting
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981961
+  month: June
+  page_first: '139'
+  page_last: '141'
+  pages: "139\u2013141"
+  paper_id: '31'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1031.jpg
+  title: Interpreting Natural Language Database Updates
+  title_html: Interpreting Natural Language Database Updates
+  url: https://www.aclweb.org/anthology/P81-1031
+  year: '1981'
+P81-1032:
+  address: Stanford, California, USA
+  author:
+  - first: Jaime G.
+    full: Jaime G. Carbonell
+    id: jaime-g-carbonell
+    last: Carbonell
+  - first: Philip J.
+    full: Philip J. Hayes
+    id: philip-j-hayes
+    last: Hayes
+  author_string: Jaime G. Carbonell, Philip J. Hayes
+  bibkey: carbonell-hayes-1981-dynamic
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981962
+  month: June
+  page_first: '143'
+  page_last: '147'
+  pages: "143\u2013147"
+  paper_id: '32'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1032.jpg
+  title: Dynamic Strategy Selection in Flexible Parsing
+  title_html: Dynamic Strategy Selection in Flexible Parsing
+  url: https://www.aclweb.org/anthology/P81-1032
+  year: '1981'
+P81-1033:
+  address: Stanford, California, USA
+  author:
+  - first: Philip J.
+    full: Philip J. Hayes
+    id: philip-j-hayes
+    last: Hayes
+  author_string: Philip J. Hayes
+  bibkey: hayes-1981-construction
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981963
+  month: June
+  page_first: '149'
+  page_last: '152'
+  pages: "149\u2013152"
+  paper_id: '33'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1033.jpg
+  title: A Construction-Specific approach to Focused Interaction in Flexible Parsing
+  title_html: A Construction-Specific approach to Focused Interaction in Flexible
+    Parsing
+  url: https://www.aclweb.org/anthology/P81-1033
+  year: '1981'
+P81-1034:
+  address: Stanford, California, USA
+  author:
+  - first: Madeleine
+    full: Madeleine Bates
+    id: madeleine-bates
+    last: Bates
+  - first: Robert
+    full: Robert Ingria
+    id: robert-ingria
+    last: Ingria
+  author_string: Madeleine Bates, Robert Ingria
+  bibkey: bates-ingria-1981-controlled
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981964
+  month: June
+  page_first: '153'
+  page_last: '158'
+  pages: "153\u2013158"
+  paper_id: '34'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1034.jpg
+  title: Controlled Transformational Sentence Generation
+  title_html: Controlled Transformational Sentence Generation
+  url: https://www.aclweb.org/anthology/P81-1034
+  year: '1981'
+P81-1035:
+  address: Stanford, California, USA
+  author:
+  - first: Gary G.
+    full: Gary G. Hendrix
+    id: gary-g-hendrix
+    last: Hendrix
+  - first: William H.
+    full: William H. Lewis
+    id: william-h-lewis
+    last: Lewis
+  author_string: Gary G. Hendrix, William H. Lewis
+  bibkey: hendrix-lewis-1981-transportable
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981965
+  month: June
+  page_first: '159'
+  page_last: '165'
+  pages: "159\u2013165"
+  paper_id: '35'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1035.jpg
+  title: Transportable Natural-Language Interfaces to Databases
+  title_html: Transportable Natural-Language Interfaces to Databases
+  url: https://www.aclweb.org/anthology/P81-1035
+  year: '1981'
+P81-1036:
+  address: Stanford, California, USA
+  author:
+  - first: Henry
+    full: Henry Thompson
+    id: henry-s-thompson
+    last: Thompson
+  author_string: Henry Thompson
+  bibkey: thompson-1981-chart
+  bibtype: inproceedings
+  booktitle: 19th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 19th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/981923.981966
+  month: June
+  page_first: '167'
+  page_last: '172'
+  pages: "167\u2013172"
+  paper_id: '36'
+  parent_volume_id: P81-1
+  pdf: https://www.aclweb.org/anthology/P81-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P81-1036.jpg
+  title: Chart Parsing and Rule Schemata in PSG
+  title_html: Chart Parsing and Rule Schemata in <span class="acl-fixed-case">PSG</span>
+  url: https://www.aclweb.org/anthology/P81-1036
+  year: '1981'

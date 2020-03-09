@@ -1,0 +1,5152 @@
+H05-1000:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Raymond
+    full: Raymond Mooney
+    id: raymond-mooney
+    last: Mooney
+  - first: Chris
+    full: Chris Brew
+    id: chris-brew
+    last: Brew
+  - first: Lee-Feng
+    full: Lee-Feng Chien
+    id: lee-feng-chien
+    last: Chien
+  - first: Katrin
+    full: Katrin Kirchhoff
+    id: katrin-kirchhoff
+    last: Kirchhoff
+  author_string: Raymond Mooney, Chris Brew, Lee-Feng Chien, Katrin Kirchhoff
+  bibkey: hlt-2005-human
+  bibtype: proceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  month: October
+  paper_id: '0'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1000.jpg
+  title: Proceedings of Human Language Technology Conference and Conference on Empirical
+    Methods in Natural Language Processing
+  title_html: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  url: https://www.aclweb.org/anthology/H05-1000
+  year: '2005'
+H05-1001:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Josef
+    full: Josef Steinberger
+    id: josef-steinberger
+    last: Steinberger
+  - first: Mijail
+    full: Mijail Kabadjov
+    id: mijail-kabadjov
+    last: Kabadjov
+  - first: Massimo
+    full: Massimo Poesio
+    id: massimo-poesio
+    last: Poesio
+  - first: Olivia
+    full: Olivia Sanchez-Graillet
+    id: olivia-sanchez-graillet
+    last: Sanchez-Graillet
+  author_string: Josef Steinberger, Mijail Kabadjov, Massimo Poesio, Olivia Sanchez-Graillet
+  bibkey: steinberger-etal-2005-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '1'
+  page_last: '8'
+  pages: "1\u20138"
+  paper_id: '1'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1001.jpg
+  title: Improving LSA-based Summarization with Anaphora Resolution
+  title_html: Improving <span class="acl-fixed-case">LSA</span>-based Summarization
+    with Anaphora Resolution
+  url: https://www.aclweb.org/anthology/H05-1001
+  year: '2005'
+H05-1002:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Oana
+    full: Oana Postolache
+    id: oana-postolache
+    last: Postolache
+  - first: Ivana
+    full: "Ivana Kruijff-Korbayov\xE1"
+    id: ivana-kruijff-korbayova
+    last: "Kruijff-Korbayov\xE1"
+  - first: Geert-Jan
+    full: Geert-Jan Kruijff
+    id: geert-jan-m-kruijff
+    last: Kruijff
+  author_string: "Oana Postolache, Ivana Kruijff-Korbayov\xE1, Geert-Jan Kruijff"
+  bibkey: postolache-etal-2005-data
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '9'
+  page_last: '16'
+  pages: "9\u201316"
+  paper_id: '2'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1002.jpg
+  title: Data-driven Approaches for Information Structure Identification
+  title_html: Data-driven Approaches for Information Structure Identification
+  url: https://www.aclweb.org/anthology/H05-1002
+  year: '2005'
+H05-1003:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Heng
+    full: Heng Ji
+    id: heng-ji
+    last: Ji
+  - first: David
+    full: David Westbrook
+    id: david-westbrook
+    last: Westbrook
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Heng Ji, David Westbrook, Ralph Grishman
+  bibkey: ji-etal-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '17'
+  page_last: '24'
+  pages: "17\u201324"
+  paper_id: '3'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1003.jpg
+  title: Using Semantic Relations to Refine Coreference Decisions
+  title_html: Using Semantic Relations to Refine Coreference Decisions
+  url: https://www.aclweb.org/anthology/H05-1003
+  year: '2005'
+H05-1004:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Xiaoqiang
+    full: Xiaoqiang Luo
+    id: xiaoqiang-luo
+    last: Luo
+  author_string: Xiaoqiang Luo
+  bibkey: luo-2005-coreference
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '25'
+  page_last: '32'
+  pages: "25\u201332"
+  paper_id: '4'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1004.jpg
+  title: On Coreference Resolution Performance Metrics
+  title_html: On Coreference Resolution Performance Metrics
+  url: https://www.aclweb.org/anthology/H05-1004
+  year: '2005'
+H05-1005:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Advaith
+    full: Advaith Siddharthan
+    id: advaith-siddharthan
+    last: Siddharthan
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Advaith Siddharthan, Kathleen McKeown
+  bibkey: siddharthan-mckeown-2005-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '33'
+  page_last: '40'
+  pages: "33\u201340"
+  paper_id: '5'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1005.jpg
+  title: 'Improving Multilingual Summarization: Using Redundancy in the Input to Correct
+    MT errors'
+  title_html: 'Improving Multilingual Summarization: Using Redundancy in the Input
+    to Correct <span class="acl-fixed-case">MT</span> errors'
+  url: https://www.aclweb.org/anthology/H05-1005
+  year: '2005'
+H05-1006:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Yongmei
+    full: Yongmei Shi
+    id: yongmei-shi
+    last: Shi
+  - first: Lina
+    full: Lina Zhou
+    id: lina-zhou
+    last: Zhou
+  author_string: Yongmei Shi, Lina Zhou
+  bibkey: shi-zhou-2005-error
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '41'
+  page_last: '48'
+  pages: "41\u201348"
+  paper_id: '6'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1006.jpg
+  title: Error Detection Using Linguistic Features
+  title_html: Error Detection Using Linguistic Features
+  url: https://www.aclweb.org/anthology/H05-1006
+  year: '2005'
+H05-1007:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Diana
+    full: Diana Inkpen
+    id: diana-inkpen
+    last: Inkpen
+  - first: Alain
+    full: "Alain D\xE9silets"
+    id: alain-desilets
+    last: "D\xE9silets"
+  author_string: "Diana Inkpen, Alain D\xE9silets"
+  bibkey: inkpen-desilets-2005-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '49'
+  page_last: '56'
+  pages: "49\u201356"
+  paper_id: '7'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1007.jpg
+  title: Semantic Similarity for Detecting Recognition Errors in Automatic Speech
+    Transcripts
+  title_html: Semantic Similarity for Detecting Recognition Errors in Automatic Speech
+    Transcripts
+  url: https://www.aclweb.org/anthology/H05-1007
+  year: '2005'
+H05-1008:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  - first: Lauri
+    full: Lauri Jokipii
+    id: lauri-jokipii
+    last: Jokipii
+  author_string: Roman Yangarber, Lauri Jokipii
+  bibkey: yangarber-jokipii-2005-redundancy
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '57'
+  page_last: '64'
+  pages: "57\u201364"
+  paper_id: '8'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1008.jpg
+  title: Redundancy-based Correction of Automatically Extracted Facts
+  title_html: Redundancy-based Correction of Automatically Extracted Facts
+  url: https://www.aclweb.org/anthology/H05-1008
+  year: '2005'
+H05-1009:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Necip Fazil
+    full: Necip Fazil Ayan
+    id: necip-fazil-ayan
+    last: Ayan
+  - first: Bonnie J.
+    full: Bonnie J. Dorr
+    id: bonnie-dorr
+    last: Dorr
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  author_string: Necip Fazil Ayan, Bonnie J. Dorr, Christof Monz
+  bibkey: ayan-etal-2005-neuralign
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '65'
+  page_last: '72'
+  pages: "65\u201372"
+  paper_id: '9'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1009.jpg
+  title: 'NeurAlign: Combining Word Alignments Using Neural Networks'
+  title_html: '<span class="acl-fixed-case">N</span>eur<span class="acl-fixed-case">A</span>lign:
+    Combining Word Alignments Using Neural Networks'
+  url: https://www.aclweb.org/anthology/H05-1009
+  year: '2005'
+H05-1010:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ben
+    full: Ben Taskar
+    id: ben-taskar
+    last: Taskar
+  - first: Simon
+    full: Simon Lacoste-Julien
+    id: simon-lacoste-julien
+    last: Lacoste-Julien
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Ben Taskar, Simon Lacoste-Julien, Dan Klein
+  bibkey: taskar-etal-2005-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '73'
+  page_last: '80'
+  pages: "73\u201380"
+  paper_id: '10'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1010.jpg
+  title: A Discriminative Matching Approach to Word Alignment
+  title_html: A Discriminative Matching Approach to Word Alignment
+  url: https://www.aclweb.org/anthology/H05-1010
+  year: '2005'
+H05-1011:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Robert C.
+    full: Robert C. Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Robert C. Moore
+  bibkey: moore-2005-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '81'
+  page_last: '88'
+  pages: "81\u201388"
+  paper_id: '11'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1011.jpg
+  title: A Discriminative Framework for Bilingual Word Alignment
+  title_html: A Discriminative Framework for Bilingual Word Alignment
+  url: https://www.aclweb.org/anthology/H05-1011
+  year: '2005'
+H05-1012:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Abraham
+    full: Abraham Ittycheriah
+    id: abraham-ittycheriah
+    last: Ittycheriah
+  - first: Salim
+    full: Salim Roukos
+    id: salim-roukos
+    last: Roukos
+  author_string: Abraham Ittycheriah, Salim Roukos
+  bibkey: ittycheriah-roukos-2005-maximum
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '89'
+  page_last: '96'
+  pages: "89\u201396"
+  paper_id: '12'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1012.jpg
+  title: A Maximum Entropy Word Aligner for Arabic-English Machine Translation
+  title_html: A Maximum Entropy Word Aligner for <span class="acl-fixed-case">A</span>rabic-<span
+    class="acl-fixed-case">E</span>nglish Machine Translation
+  url: https://www.aclweb.org/anthology/H05-1012
+  year: '2005'
+H05-1013:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: "Hal Daum\xE9 III, Daniel Marcu"
+  bibkey: daume-iii-marcu-2005-large
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '97'
+  page_last: '104'
+  pages: "97\u2013104"
+  paper_id: '13'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1013.jpg
+  title: A Large-Scale Exploration of Effective Global Features for a Joint Entity
+    Detection and Tracking Model
+  title_html: A Large-Scale Exploration of Effective Global Features for a Joint Entity
+    Detection and Tracking Model
+  url: https://www.aclweb.org/anthology/H05-1013
+  year: '2005'
+H05-1014:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ian
+    full: Ian Soboroff
+    id: ian-soboroff
+    last: Soboroff
+  - first: Donna
+    full: Donna Harman
+    id: donna-harman
+    last: Harman
+  author_string: Ian Soboroff, Donna Harman
+  bibkey: soboroff-harman-2005-novelty
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '105'
+  page_last: '112'
+  pages: "105\u2013112"
+  paper_id: '14'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1014.jpg
+  title: 'Novelty Detection: The TREC Experience'
+  title_html: 'Novelty Detection: The <span class="acl-fixed-case">TREC</span> Experience'
+  url: https://www.aclweb.org/anthology/H05-1014
+  year: '2005'
+H05-1015:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Elena
+    full: Elena Filatova
+    id: elena-filatova
+    last: Filatova
+  - first: John
+    full: John Prager
+    id: john-prager
+    last: Prager
+  author_string: Elena Filatova, John Prager
+  bibkey: filatova-prager-2005-tell
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '113'
+  page_last: '120'
+  pages: "113\u2013120"
+  paper_id: '15'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1015.jpg
+  title: "Tell Me What You Do and I\u2019ll Tell You What You Are: Learning Occupation-Related\
+    \ Activities for Biographies"
+  title_html: "Tell Me What You Do and <span class=\"acl-fixed-case\">I</span>\u2019\
+    ll Tell You What You Are: Learning Occupation-Related Activities for Biographies"
+  url: https://www.aclweb.org/anthology/H05-1015
+  year: '2005'
+H05-1016:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Giridhar
+    full: Giridhar Kumaran
+    id: giridhar-kumaran
+    last: Kumaran
+  - first: James
+    full: James Allan
+    id: james-allan
+    last: Allan
+  author_string: Giridhar Kumaran, James Allan
+  bibkey: kumaran-allan-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '121'
+  page_last: '128'
+  pages: "121\u2013128"
+  paper_id: '16'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1016.jpg
+  title: Using Names and Topics for New Event Detection
+  title_html: Using Names and Topics for New Event Detection
+  url: https://www.aclweb.org/anthology/H05-1016
+  year: '2005'
+H05-1017:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Alfio
+    full: Alfio Gliozzo
+    id: alfio-gliozzo
+    last: Gliozzo
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  author_string: Alfio Gliozzo, Carlo Strapparava, Ido Dagan
+  bibkey: gliozzo-etal-2005-investigating
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '129'
+  page_last: '136'
+  pages: "129\u2013136"
+  paper_id: '17'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1017.jpg
+  title: Investigating Unsupervised Learning for Text Categorization Bootstrapping
+  title_html: Investigating Unsupervised Learning for Text Categorization Bootstrapping
+  url: https://www.aclweb.org/anthology/H05-1017
+  year: '2005'
+H05-1018:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Kazama"
+    id: junichi-kazama
+    last: Kazama
+  - first: Kentaro
+    full: Kentaro Torisawa
+    id: kentaro-torisawa
+    last: Torisawa
+  author_string: "Jun\u2019ichi Kazama, Kentaro Torisawa"
+  bibkey: kazama-torisawa-2005-speeding
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '137'
+  page_last: '144'
+  pages: "137\u2013144"
+  paper_id: '18'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1018.jpg
+  title: Speeding up Training with Tree Kernels for Node Relation Labeling
+  title_html: Speeding up Training with Tree Kernels for Node Relation Labeling
+  url: https://www.aclweb.org/anthology/H05-1018
+  year: '2005'
+H05-1019:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Tsutomu
+    full: Tsutomu Hirao
+    id: tsutomu-hirao
+    last: Hirao
+  - first: Manabu
+    full: Manabu Okumura
+    id: manabu-okumura
+    last: Okumura
+  - first: Hideki
+    full: Hideki Isozaki
+    id: hideki-isozaki
+    last: Isozaki
+  author_string: Tsutomu Hirao, Manabu Okumura, Hideki Isozaki
+  bibkey: hirao-etal-2005-kernel
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '145'
+  page_last: '152'
+  pages: "145\u2013152"
+  paper_id: '19'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1019.jpg
+  title: 'Kernel-based Approach for Automatic Evaluation of Natural Language Generation
+    Technologies: Application to Automatic Summarization'
+  title_html: 'Kernel-based Approach for Automatic Evaluation of Natural Language
+    Generation Technologies: Application to Automatic Summarization'
+  url: https://www.aclweb.org/anthology/H05-1019
+  year: '2005'
+H05-1020:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Dmitri
+    full: Dmitri Roussinov
+    id: dmitri-roussinov
+    last: Roussinov
+  - first: Weiguo
+    full: Weiguo Fan
+    id: weiguo-fan
+    last: Fan
+  author_string: Dmitri Roussinov, Weiguo Fan
+  bibkey: roussinov-fan-2005-discretization
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '153'
+  page_last: '160'
+  pages: "153\u2013160"
+  paper_id: '20'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1020.jpg
+  title: Discretization Based Learning for Information Retrieval
+  title_html: Discretization Based Learning for Information Retrieval
+  url: https://www.aclweb.org/anthology/H05-1020
+  year: '2005'
+H05-1021:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Shankar
+    full: Shankar Kumar
+    id: shankar-kumar
+    last: Kumar
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  author_string: Shankar Kumar, William Byrne
+  bibkey: kumar-byrne-2005-local
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '161'
+  page_last: '168'
+  pages: "161\u2013168"
+  paper_id: '21'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1021.jpg
+  title: Local Phrase Reordering Models for Statistical Machine Translation
+  title_html: Local Phrase Reordering Models for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/H05-1021
+  year: '2005'
+H05-1022:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Yonggang
+    full: Yonggang Deng
+    id: yonggang-deng
+    last: Deng
+  - first: William
+    full: William Byrne
+    id: william-byrne
+    last: Byrne
+  author_string: Yonggang Deng, William Byrne
+  bibkey: deng-byrne-2005-hmm
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '169'
+  page_last: '176'
+  pages: "169\u2013176"
+  paper_id: '22'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1022.jpg
+  title: HMM Word and Phrase Alignment for Statistical Machine Translation
+  title_html: <span class="acl-fixed-case">HMM</span> Word and Phrase Alignment for
+    Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/H05-1022
+  year: '2005'
+H05-1023:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Bing
+    full: Bing Zhao
+    id: bing-zhao
+    last: Zhao
+  - first: Niyu
+    full: Niyu Ge
+    id: niyu-ge
+    last: Ge
+  - first: Kishore
+    full: Kishore Papineni
+    id: kishore-papineni
+    last: Papineni
+  author_string: Bing Zhao, Niyu Ge, Kishore Papineni
+  bibkey: zhao-etal-2005-inner
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '177'
+  page_last: '184'
+  pages: "177\u2013184"
+  paper_id: '23'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1023.jpg
+  title: Inner-Outer Bracket Models for Word Alignment using Hidden Blocks
+  title_html: Inner-Outer Bracket Models for Word Alignment using Hidden Blocks
+  url: https://www.aclweb.org/anthology/H05-1023
+  year: '2005'
+H05-1024:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Necip Fazil
+    full: Necip Fazil Ayan
+    id: necip-fazil-ayan
+    last: Ayan
+  - first: Bonnie J.
+    full: Bonnie J. Dorr
+    id: bonnie-dorr
+    last: Dorr
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  author_string: Necip Fazil Ayan, Bonnie J. Dorr, Christof Monz
+  bibkey: ayan-etal-2005-alignment
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '185'
+  page_last: '192'
+  pages: "185\u2013192"
+  paper_id: '24'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1024.jpg
+  title: Alignment Link Projection Using Transformation-Based Learning
+  title_html: Alignment Link Projection Using Transformation-Based Learning
+  url: https://www.aclweb.org/anthology/H05-1024
+  year: '2005'
+H05-1025:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Steffen
+    full: Steffen Bickel
+    id: steffen-bickel
+    last: Bickel
+  - first: Peter
+    full: Peter Haider
+    id: peter-haider
+    last: Haider
+  - first: Tobias
+    full: Tobias Scheffer
+    id: tobias-scheffer
+    last: Scheffer
+  author_string: Steffen Bickel, Peter Haider, Tobias Scheffer
+  bibkey: bickel-etal-2005-predicting
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '193'
+  page_last: '200'
+  pages: "193\u2013200"
+  paper_id: '25'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1025.jpg
+  title: Predicting Sentences using N-Gram Language Models
+  title_html: Predicting Sentences using N-Gram Language Models
+  url: https://www.aclweb.org/anthology/H05-1025
+  year: '2005'
+H05-1026:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Holger
+    full: Holger Schwenk
+    id: holger-schwenk
+    last: Schwenk
+  - first: Jean-Luc
+    full: Jean-Luc Gauvain
+    id: jean-luc-gauvain
+    last: Gauvain
+  author_string: Holger Schwenk, Jean-Luc Gauvain
+  bibkey: schwenk-gauvain-2005-training
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '201'
+  page_last: '208'
+  pages: "201\u2013208"
+  paper_id: '26'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1026.jpg
+  title: Training Neural Network Language Models on Very Large Corpora
+  title_html: Training Neural Network Language Models on Very Large Corpora
+  url: https://www.aclweb.org/anthology/H05-1026
+  year: '2005'
+H05-1027:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Hao
+    full: Hao Yu
+    id: hao-yu
+    last: Yu
+  - first: Wei
+    full: Wei Yuan
+    id: wei-yuan
+    last: Yuan
+  - first: Peng
+    full: Peng Xu
+    id: peng-xu
+    last: Xu
+  author_string: Jianfeng Gao, Hao Yu, Wei Yuan, Peng Xu
+  bibkey: gao-etal-2005-minimum
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '209'
+  page_last: '216'
+  pages: "209\u2013216"
+  paper_id: '27'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1027.jpg
+  title: Minimum Sample Risk Methods for Language Modeling
+  title_html: Minimum Sample Risk Methods for Language Modeling
+  url: https://www.aclweb.org/anthology/H05-1027
+  year: '2005'
+H05-1028:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Joyce Y.
+    full: Joyce Y. Chai
+    id: joyce-chai
+    last: Chai
+  - first: Shaolin
+    full: Shaolin Qu
+    id: shaolin-qu
+    last: Qu
+  author_string: Joyce Y. Chai, Shaolin Qu
+  bibkey: chai-qu-2005-salience
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '217'
+  page_last: '224'
+  pages: "217\u2013224"
+  paper_id: '28'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1028.jpg
+  title: A Salience Driven Approach to Robust Input Interpretation in Multimodal Conversational
+    Systems
+  title_html: A Salience Driven Approach to Robust Input Interpretation in Multimodal
+    Conversational Systems
+  url: https://www.aclweb.org/anthology/H05-1028
+  year: '2005'
+H05-1029:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Dan
+    full: Dan Bohus
+    id: dan-bohus
+    last: Bohus
+  - first: Alexander
+    full: Alexander Rudnicky
+    id: alexander-rudnicky
+    last: Rudnicky
+  author_string: Dan Bohus, Alexander Rudnicky
+  bibkey: bohus-rudnicky-2005-error
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '225'
+  page_last: '232'
+  pages: "225\u2013232"
+  paper_id: '29'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1029.jpg
+  title: Error Handling in the RavenClaw Dialog Management Architecture
+  title_html: Error Handling in the <span class="acl-fixed-case">R</span>aven<span
+    class="acl-fixed-case">C</span>law Dialog Management Architecture
+  url: https://www.aclweb.org/anthology/H05-1029
+  year: '2005'
+H05-1030:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jeremy G.
+    full: Jeremy G. Kahn
+    id: jeremy-g-kahn
+    last: Kahn
+  - first: Matthew
+    full: Matthew Lease
+    id: matthew-lease
+    last: Lease
+  - first: Eugene
+    full: Eugene Charniak
+    id: eugene-charniak
+    last: Charniak
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  - first: Mari
+    full: Mari Ostendorf
+    id: mari-ostendorf
+    last: Ostendorf
+  author_string: Jeremy G. Kahn, Matthew Lease, Eugene Charniak, Mark Johnson, Mari
+    Ostendorf
+  bibkey: kahn-etal-2005-effective
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '233'
+  page_last: '240'
+  pages: "233\u2013240"
+  paper_id: '30'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1030.jpg
+  title: Effective Use of Prosody in Parsing Conversational Speech
+  title_html: Effective Use of Prosody in Parsing Conversational Speech
+  url: https://www.aclweb.org/anthology/H05-1030
+  year: '2005'
+H05-1031:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  - first: Advaith
+    full: Advaith Siddharthan
+    id: advaith-siddharthan
+    last: Siddharthan
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Ani Nenkova, Advaith Siddharthan, Kathleen McKeown
+  bibkey: nenkova-etal-2005-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '241'
+  page_last: '248'
+  pages: "241\u2013248"
+  paper_id: '31'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1031.jpg
+  title: Automatically Learning Cognitive Status for Multi-Document Summarization
+    of Newswire
+  title_html: Automatically Learning Cognitive Status for Multi-Document Summarization
+    of Newswire
+  url: https://www.aclweb.org/anthology/H05-1031
+  year: '2005'
+H05-1032:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Tadashi
+    full: Tadashi Nomoto
+    id: tadashi-nomoto
+    last: Nomoto
+  author_string: Tadashi Nomoto
+  bibkey: nomoto-2005-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '249'
+  page_last: '256'
+  pages: "249\u2013256"
+  paper_id: '32'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1032.jpg
+  title: Bayesian Learning in Text Summarization
+  title_html: <span class="acl-fixed-case">B</span>ayesian Learning in Text Summarization
+  url: https://www.aclweb.org/anthology/H05-1032
+  year: '2005'
+H05-1033:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Caroline
+    full: Caroline Sporleder
+    id: caroline-sporleder
+    last: Sporleder
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Caroline Sporleder, Mirella Lapata
+  bibkey: sporleder-lapata-2005-discourse
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '257'
+  page_last: '264'
+  pages: "257\u2013264"
+  paper_id: '33'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1033.jpg
+  title: Discourse Chunking and its Application to Sentence Compression
+  title_html: Discourse Chunking and its Application to Sentence Compression
+  url: https://www.aclweb.org/anthology/H05-1033
+  year: '2005'
+H05-1034:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Hisami
+    full: Hisami Suzuki
+    id: hisami-suzuki
+    last: Suzuki
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  author_string: Hisami Suzuki, Jianfeng Gao
+  bibkey: suzuki-gao-2005-comparative
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '265'
+  page_last: '272'
+  pages: "265\u2013272"
+  paper_id: '34'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1034.jpg
+  title: A Comparative Study on Language Model Adaptation Techniques Using New Evaluation
+    Metrics
+  title_html: A Comparative Study on Language Model Adaptation Techniques Using New
+    Evaluation Metrics
+  url: https://www.aclweb.org/anthology/H05-1034
+  year: '2005'
+H05-1035:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Marian
+    full: Marian Olteanu
+    id: marian-olteanu
+    last: Olteanu
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  author_string: Marian Olteanu, Dan Moldovan
+  bibkey: olteanu-moldovan-2005-pp
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '273'
+  page_last: '280'
+  pages: "273\u2013280"
+  paper_id: '35'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1035.jpg
+  title: PP-attachment Disambiguation using Large Context
+  title_html: <span class="acl-fixed-case">PP</span>-attachment Disambiguation using
+    Large Context
+  url: https://www.aclweb.org/anthology/H05-1035
+  year: '2005'
+H05-1036:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  - first: Eric
+    full: Eric Goldlust
+    id: eric-goldlust
+    last: Goldlust
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  author_string: Jason Eisner, Eric Goldlust, Noah A. Smith
+  bibkey: eisner-etal-2005-compiling
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '281'
+  page_last: '290'
+  pages: "281\u2013290"
+  paper_id: '36'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1036.jpg
+  title: 'Compiling Comp Ling: Weighted Dynamic Programming and the Dyna Language'
+  title_html: 'Compiling Comp Ling: Weighted Dynamic Programming and the <span class="acl-fixed-case">D</span>yna
+    Language'
+  url: https://www.aclweb.org/anthology/H05-1036
+  year: '2005'
+H05-1037:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Hugo
+    full: Hugo Zaragoza
+    id: hugo-zaragoza
+    last: Zaragoza
+  - first: Chi-Ho
+    full: Chi-Ho Li
+    id: chi-ho-li
+    last: Li
+  author_string: Hugo Zaragoza, Chi-Ho Li
+  bibkey: zaragoza-li-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '291'
+  page_last: '298'
+  pages: "291\u2013298"
+  paper_id: '37'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1037.jpg
+  title: Learning What to Talk about in Descriptive Games
+  title_html: Learning What to Talk about in Descriptive Games
+  url: https://www.aclweb.org/anthology/H05-1037
+  year: '2005'
+H05-1038:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ellen
+    full: Ellen Voorhees
+    id: ellen-m-voorhees
+    last: Voorhees
+  author_string: Ellen Voorhees
+  bibkey: voorhees-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '299'
+  page_last: '306'
+  pages: "299\u2013306"
+  paper_id: '38'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1038.jpg
+  title: Using Question Series to Evaluate Question Answering System Effectiveness
+  title_html: Using Question Series to Evaluate Question Answering System Effectiveness
+  url: https://www.aclweb.org/anthology/H05-1038
+  year: '2005'
+H05-1039:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fuchun
+    full: Fuchun Peng
+    id: fuchun-peng
+    last: Peng
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  - first: Ana
+    full: Ana Licuanan
+    id: ana-licuanan
+    last: Licuanan
+  - first: Jinxi
+    full: Jinxi Xu
+    id: jinxi-xu
+    last: Xu
+  author_string: Fuchun Peng, Ralph Weischedel, Ana Licuanan, Jinxi Xu
+  bibkey: peng-etal-2005-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '307'
+  page_last: '314'
+  pages: "307\u2013314"
+  paper_id: '39'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1039.jpg
+  title: 'Combining Deep Linguistics Analysis and Surface Pattern Learning: A Hybrid
+    Approach to Chinese Definitional Question Answering'
+  title_html: 'Combining Deep Linguistics Analysis and Surface Pattern Learning: A
+    Hybrid Approach to <span class="acl-fixed-case">C</span>hinese Definitional Question
+    Answering'
+  url: https://www.aclweb.org/anthology/H05-1039
+  year: '2005'
+H05-1040:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Vijay
+    full: Vijay Krishnan
+    id: vijay-krishnan
+    last: Krishnan
+  - first: Sujatha
+    full: Sujatha Das
+    id: sujatha-das-gollapalli
+    last: Das
+  - first: Soumen
+    full: Soumen Chakrabarti
+    id: soumen-chakrabarti
+    last: Chakrabarti
+  author_string: Vijay Krishnan, Sujatha Das, Soumen Chakrabarti
+  bibkey: krishnan-etal-2005-enhanced
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '315'
+  page_last: '322'
+  pages: "315\u2013322"
+  paper_id: '40'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1040.jpg
+  title: Enhanced Answer Type Inference from Questions using Sequential Models
+  title_html: Enhanced Answer Type Inference from Questions using Sequential Models
+  url: https://www.aclweb.org/anthology/H05-1040
+  year: '2005'
+H05-1041:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ion
+    full: Ion Androutsopoulos
+    id: ion-androutsopoulos
+    last: Androutsopoulos
+  - first: Dimitrios
+    full: Dimitrios Galanis
+    id: dimitrios-galanis
+    last: Galanis
+  author_string: Ion Androutsopoulos, Dimitrios Galanis
+  bibkey: androutsopoulos-galanis-2005-practically
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '323'
+  page_last: '330'
+  pages: "323\u2013330"
+  paper_id: '41'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1041.jpg
+  title: A Practically Unsupervised Learning Method to Identify Single-Snippet Answers
+    to Definition Questions on the Web
+  title_html: A Practically Unsupervised Learning Method to Identify Single-Snippet
+    Answers to Definition Questions on the Web
+  url: https://www.aclweb.org/anthology/H05-1041
+  year: '2005'
+H05-1042:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: Regina Barzilay, Mirella Lapata
+  bibkey: barzilay-lapata-2005-collective
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '331'
+  page_last: '338'
+  pages: "331\u2013338"
+  paper_id: '42'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1042.jpg
+  title: Collective Content Selection for Concept-to-Text Generation
+  title_html: Collective Content Selection for Concept-to-Text Generation
+  url: https://www.aclweb.org/anthology/H05-1042
+  year: '2005'
+H05-1043:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ana-Maria
+    full: Ana-Maria Popescu
+    id: ana-maria-popescu
+    last: Popescu
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Ana-Maria Popescu, Oren Etzioni
+  bibkey: popescu-etzioni-2005-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '339'
+  page_last: '346'
+  pages: "339\u2013346"
+  paper_id: '43'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1043.jpg
+  title: Extracting Product Features and Opinions from Reviews
+  title_html: Extracting Product Features and Opinions from Reviews
+  url: https://www.aclweb.org/anthology/H05-1043
+  year: '2005'
+H05-1044:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Theresa
+    full: Theresa Wilson
+    id: theresa-wilson
+    last: Wilson
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Paul
+    full: Paul Hoffmann
+    id: paul-hoffmann
+    last: Hoffmann
+  author_string: Theresa Wilson, Janyce Wiebe, Paul Hoffmann
+  bibkey: wilson-etal-2005-recognizing
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '347'
+  page_last: '354'
+  pages: "347\u2013354"
+  paper_id: '44'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1044.jpg
+  title: Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis
+  title_html: Recognizing Contextual Polarity in Phrase-Level Sentiment Analysis
+  url: https://www.aclweb.org/anthology/H05-1044
+  year: '2005'
+H05-1045:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  author_string: Yejin Choi, Claire Cardie, Ellen Riloff, Siddharth Patwardhan
+  bibkey: choi-etal-2005-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '355'
+  page_last: '362'
+  pages: "355\u2013362"
+  paper_id: '45'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1045.jpg
+  title: Identifying Sources of Opinions with Conditional Random Fields and Extraction
+    Patterns
+  title_html: Identifying Sources of Opinions with Conditional Random Fields and Extraction
+    Patterns
+  url: https://www.aclweb.org/anthology/H05-1045
+  year: '2005'
+H05-1046:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Eric
+    full: Eric Garbin
+    id: eric-garbin
+    last: Garbin
+  - first: Inderjeet
+    full: Inderjeet Mani
+    id: inderjeet-mani
+    last: Mani
+  author_string: Eric Garbin, Inderjeet Mani
+  bibkey: garbin-mani-2005-disambiguating
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '363'
+  page_last: '370'
+  pages: "363\u2013370"
+  paper_id: '46'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1046.jpg
+  title: Disambiguating Toponyms in News
+  title_html: Disambiguating Toponyms in News
+  url: https://www.aclweb.org/anthology/H05-1046
+  year: '2005'
+H05-1047:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Marta
+    full: Marta Tatu
+    id: marta-tatu
+    last: Tatu
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  author_string: Marta Tatu, Dan Moldovan
+  bibkey: tatu-moldovan-2005-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '371'
+  page_last: '378'
+  pages: "371\u2013378"
+  paper_id: '47'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1047.jpg
+  title: A Semantic Approach to Recognizing Textual Entailment
+  title_html: A Semantic Approach to Recognizing Textual Entailment
+  url: https://www.aclweb.org/anthology/H05-1047
+  year: '2005'
+H05-1048:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Kadri
+    full: Kadri Hacioglu
+    id: kadri-hacioglu
+    last: Hacioglu
+  - first: Benjamin
+    full: Benjamin Douglas
+    id: benjamin-douglas
+    last: Douglas
+  - first: Ying
+    full: Ying Chen
+    id: ying-chen
+    last: Chen
+  author_string: Kadri Hacioglu, Benjamin Douglas, Ying Chen
+  bibkey: hacioglu-etal-2005-detection
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '379'
+  page_last: '386'
+  pages: "379\u2013386"
+  paper_id: '48'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1048.jpg
+  title: Detection of Entity Mentions Occuring in English and Chinese Text
+  title_html: Detection of Entity Mentions Occuring in <span class="acl-fixed-case">E</span>nglish
+    and <span class="acl-fixed-case">C</span>hinese Text
+  url: https://www.aclweb.org/anthology/H05-1048
+  year: '2005'
+H05-1049:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Andrew
+    full: Andrew Ng
+    id: andrew-y-ng
+    last: Ng
+  - first: Christopher
+    full: Christopher Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Aria Haghighi, Andrew Ng, Christopher Manning
+  bibkey: haghighi-etal-2005-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '387'
+  page_last: '394'
+  pages: "387\u2013394"
+  paper_id: '49'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1049.jpg
+  title: Robust Textual Inference via Graph Matching
+  title_html: Robust Textual Inference via Graph Matching
+  url: https://www.aclweb.org/anthology/H05-1049
+  year: '2005'
+H05-1050:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  - first: Damianos
+    full: Damianos Karakos
+    id: damianos-karakos
+    last: Karakos
+  author_string: Jason Eisner, Damianos Karakos
+  bibkey: eisner-karakos-2005-bootstrapping
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '395'
+  page_last: '402'
+  pages: "395\u2013402"
+  paper_id: '50'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1050.jpg
+  title: Bootstrapping Without the Boot
+  title_html: Bootstrapping Without the Boot
+  url: https://www.aclweb.org/anthology/H05-1050
+  year: '2005'
+H05-1051:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Christopher
+    full: Christopher Stokoe
+    id: christopher-stokoe
+    last: Stokoe
+  author_string: Christopher Stokoe
+  bibkey: stokoe-2005-differentiating
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '403'
+  page_last: '410'
+  pages: "403\u2013410"
+  paper_id: '51'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1051.jpg
+  title: Differentiating Homonymy and Polysemy in Information Retrieval
+  title_html: Differentiating Homonymy and Polysemy in Information Retrieval
+  url: https://www.aclweb.org/anthology/H05-1051
+  year: '2005'
+H05-1052:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  author_string: Rada Mihalcea
+  bibkey: mihalcea-2005-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '411'
+  page_last: '418'
+  pages: "411\u2013418"
+  paper_id: '52'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1052.jpg
+  title: Unsupervised Large-Vocabulary Word Sense Disambiguation with Graph-based
+    Algorithms for Sequence Data Labeling
+  title_html: Unsupervised Large-Vocabulary Word Sense Disambiguation with Graph-based
+    Algorithms for Sequence Data Labeling
+  url: https://www.aclweb.org/anthology/H05-1052
+  year: '2005'
+H05-1053:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Rob
+    full: Rob Koeling
+    id: rob-koeling
+    last: Koeling
+  - first: Diana
+    full: Diana McCarthy
+    id: diana-mccarthy
+    last: McCarthy
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  author_string: Rob Koeling, Diana McCarthy, John Carroll
+  bibkey: koeling-etal-2005-domain
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '419'
+  page_last: '426'
+  pages: "419\u2013426"
+  paper_id: '53'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1053.jpg
+  title: Domain-Specific Sense Distributions and Predominant Sense Acquisition
+  title_html: Domain-Specific Sense Distributions and Predominant Sense Acquisition
+  url: https://www.aclweb.org/anthology/H05-1053
+  year: '2005'
+H05-1054:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Youzheng
+    full: Youzheng Wu
+    id: youzheng-wu
+    last: Wu
+  - first: Jun
+    full: Jun Zhao
+    id: jun-zhao
+    last: Zhao
+  - first: Bo
+    full: Bo Xu
+    id: bo-xu
+    last: Xu
+  - first: Hao
+    full: Hao Yu
+    id: hao-yu
+    last: Yu
+  author_string: Youzheng Wu, Jun Zhao, Bo Xu, Hao Yu
+  bibkey: wu-etal-2005-chinese
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '427'
+  page_last: '434'
+  pages: "427\u2013434"
+  paper_id: '54'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1054.jpg
+  title: Chinese Named Entity Recognition with Multiple Features
+  title_html: <span class="acl-fixed-case">C</span>hinese Named Entity Recognition
+    with Multiple Features
+  url: https://www.aclweb.org/anthology/H05-1054
+  year: '2005'
+H05-1055:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fei
+    full: Fei Huang
+    id: fei-huang
+    last: Huang
+  author_string: Fei Huang
+  bibkey: huang-2005-cluster
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '435'
+  page_last: '442'
+  pages: "435\u2013442"
+  paper_id: '55'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1055.jpg
+  title: Cluster-specific Named Entity Transliteration
+  title_html: Cluster-specific Named Entity Transliteration
+  url: https://www.aclweb.org/anthology/H05-1055
+  year: '2005'
+H05-1056:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Einat
+    full: Einat Minkov
+    id: einat-minkov
+    last: Minkov
+  - first: Richard C.
+    full: Richard C. Wang
+    id: richard-c-wang
+    last: Wang
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  author_string: Einat Minkov, Richard C. Wang, William W. Cohen
+  bibkey: minkov-etal-2005-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '443'
+  page_last: '450'
+  pages: "443\u2013450"
+  paper_id: '56'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1056.jpg
+  title: 'Extracting Personal Names from Email: Applying Named Entity Recognition
+    to Informal Text'
+  title_html: 'Extracting Personal Names from Email: Applying Named Entity Recognition
+    to Informal Text'
+  url: https://www.aclweb.org/anthology/H05-1056
+  year: '2005'
+H05-1057:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Hema
+    full: Hema Raghavan
+    id: hema-raghavan
+    last: Raghavan
+  - first: James
+    full: James Allan
+    id: james-allan
+    last: Allan
+  author_string: Hema Raghavan, James Allan
+  bibkey: raghavan-allan-2005-matching
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '451'
+  page_last: '458'
+  pages: "451\u2013458"
+  paper_id: '57'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1057.jpg
+  title: Matching Inconsistently Spelled Names in Automatic Speech Recognizer Output
+    for Information Retrieval
+  title_html: Matching Inconsistently Spelled Names in Automatic Speech Recognizer
+    Output for Information Retrieval
+  url: https://www.aclweb.org/anthology/H05-1057
+  year: '2005'
+H05-1058:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sheila M.
+    full: Sheila M. Reynolds
+    id: sheila-m-reynolds
+    last: Reynolds
+  - first: Jeff A.
+    full: Jeff A. Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  author_string: Sheila M. Reynolds, Jeff A. Bilmes
+  bibkey: reynolds-bilmes-2005-part
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '459'
+  page_last: '466'
+  pages: "459\u2013466"
+  paper_id: '58'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1058.jpg
+  title: Part-of-Speech Tagging using Virtual Evidence and Negative Training
+  title_html: Part-of-Speech Tagging using Virtual Evidence and Negative Training
+  url: https://www.aclweb.org/anthology/H05-1058
+  year: '2005'
+H05-1059:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Yoshimasa
+    full: Yoshimasa Tsuruoka
+    id: yoshimasa-tsuruoka
+    last: Tsuruoka
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Yoshimasa Tsuruoka, Jun\u2019ichi Tsujii"
+  bibkey: tsuruoka-tsujii-2005-bidirectional
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '467'
+  page_last: '474'
+  pages: "467\u2013474"
+  paper_id: '59'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1059.jpg
+  title: Bidirectional Inference with the Easiest-First Strategy for Tagging Sequence
+    Data
+  title_html: Bidirectional Inference with the Easiest-First Strategy for Tagging
+    Sequence Data
+  url: https://www.aclweb.org/anthology/H05-1059
+  year: '2005'
+H05-1060:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  - first: David A.
+    full: David A. Smith
+    id: david-a-smith
+    last: Smith
+  - first: Roy W.
+    full: Roy W. Tromble
+    id: roy-tromble
+    last: Tromble
+  author_string: Noah A. Smith, David A. Smith, Roy W. Tromble
+  bibkey: smith-etal-2005-context
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '475'
+  page_last: '482'
+  pages: "475\u2013482"
+  paper_id: '60'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1060.jpg
+  title: Context-Based Morphological Disambiguation with Random Fields
+  title_html: Context-Based Morphological Disambiguation with Random Fields
+  url: https://www.aclweb.org/anthology/H05-1060
+  year: '2005'
+H05-1061:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fei
+    full: Fei Huang
+    id: fei-huang
+    last: Huang
+  - first: Ying
+    full: Ying Zhang
+    id: ying-zhang
+    last: Zhang
+  - first: Stephan
+    full: Stephan Vogel
+    id: stephan-vogel
+    last: Vogel
+  author_string: Fei Huang, Ying Zhang, Stephan Vogel
+  bibkey: huang-etal-2005-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '483'
+  page_last: '490'
+  pages: "483\u2013490"
+  paper_id: '61'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1061.jpg
+  title: Mining Key Phrase Translations from Web Corpora
+  title_html: Mining Key Phrase Translations from Web Corpora
+  url: https://www.aclweb.org/anthology/H05-1061
+  year: '2005'
+H05-1062:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: "Beno\xEEt"
+    full: "Beno\xEEt Favre"
+    id: benoit-favre
+    last: Favre
+  - first: "Fr\xE9d\xE9ric"
+    full: "Fr\xE9d\xE9ric B\xE9chet"
+    id: frederic-bechet
+    last: "B\xE9chet"
+  - first: Pascal
+    full: "Pascal Noc\xE9ra"
+    id: pascal-nocera
+    last: "Noc\xE9ra"
+  author_string: "Beno\xEEt Favre, Fr\xE9d\xE9ric B\xE9chet, Pascal Noc\xE9ra"
+  bibkey: favre-etal-2005-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '491'
+  page_last: '498'
+  pages: "491\u2013498"
+  paper_id: '62'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1062.jpg
+  title: Robust Named Entity Extraction from Large Spoken Archives
+  title_html: Robust Named Entity Extraction from Large Spoken Archives
+  url: https://www.aclweb.org/anthology/H05-1062
+  year: '2005'
+H05-1063:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Dmitri
+    full: Dmitri Roussinov
+    id: dmitri-roussinov
+    last: Roussinov
+  - first: Leon J.
+    full: Leon J. Zhao
+    id: leon-j-zhao
+    last: Zhao
+  - first: Weiguo
+    full: Weiguo Fan
+    id: weiguo-fan
+    last: Fan
+  author_string: Dmitri Roussinov, Leon J. Zhao, Weiguo Fan
+  bibkey: roussinov-etal-2005-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '499'
+  page_last: '506'
+  pages: "499\u2013506"
+  paper_id: '63'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1063.jpg
+  title: Mining Context Specific Similarity Relationships Using The World Wide Web
+  title_html: Mining Context Specific Similarity Relationships Using The World Wide
+    Web
+  url: https://www.aclweb.org/anthology/H05-1063
+  year: '2005'
+H05-1064:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Terry
+    full: Terry Koo
+    id: terry-koo
+    last: Koo
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Terry Koo, Michael Collins
+  bibkey: koo-collins-2005-hidden
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '507'
+  page_last: '514'
+  pages: "507\u2013514"
+  paper_id: '64'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1064.jpg
+  title: Hidden-Variable Models for Discriminative Reranking
+  title_html: Hidden-Variable Models for Discriminative Reranking
+  url: https://www.aclweb.org/anthology/H05-1064
+  year: '2005'
+H05-1065:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Helmut
+    full: Helmut Schmid
+    id: helmut-schmid
+    last: Schmid
+  author_string: Helmut Schmid
+  bibkey: schmid-2005-disambiguation
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '515'
+  page_last: '522'
+  pages: "515\u2013522"
+  paper_id: '65'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1065.jpg
+  title: Disambiguation of Morphological Structure using a PCFG
+  title_html: Disambiguation of Morphological Structure using a <span class="acl-fixed-case">PCFG</span>
+  url: https://www.aclweb.org/anthology/H05-1065
+  year: '2005'
+H05-1066:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  - first: Kiril
+    full: Kiril Ribarov
+    id: kiril-ribarov
+    last: Ribarov
+  - first: Jan
+    full: "Jan Haji\u010D"
+    id: jan-hajic
+    last: "Haji\u010D"
+  author_string: "Ryan McDonald, Fernando Pereira, Kiril Ribarov, Jan Haji\u010D"
+  bibkey: mcdonald-etal-2005-non
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '523'
+  page_last: '530'
+  pages: "523\u2013530"
+  paper_id: '66'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1066.jpg
+  title: Non-Projective Dependency Parsing using Spanning Tree Algorithms
+  title_html: Non-Projective Dependency Parsing using Spanning Tree Algorithms
+  url: https://www.aclweb.org/anthology/H05-1066
+  year: '2005'
+H05-1067:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Carlo
+    full: Carlo Strapparava
+    id: carlo-strapparava
+    last: Strapparava
+  author_string: Rada Mihalcea, Carlo Strapparava
+  bibkey: mihalcea-strapparava-2005-making
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '531'
+  page_last: '538'
+  pages: "531\u2013538"
+  paper_id: '67'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1067.jpg
+  title: 'Making Computers Laugh: Investigations in Automatic Humor Recognition'
+  title_html: 'Making Computers Laugh: Investigations in Automatic Humor Recognition'
+  url: https://www.aclweb.org/anthology/H05-1067
+  year: '2005'
+H05-1068:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Art
+    full: Art Munson
+    id: art-munson
+    last: Munson
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Rich
+    full: Rich Caruana
+    id: rich-caruana
+    last: Caruana
+  author_string: Art Munson, Claire Cardie, Rich Caruana
+  bibkey: munson-etal-2005-optimizing
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '539'
+  page_last: '546'
+  pages: "539\u2013546"
+  paper_id: '68'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1068.jpg
+  title: Optimizing to Arbitrary NLP Metrics using Ensemble Selection
+  title_html: Optimizing to Arbitrary <span class="acl-fixed-case">NLP</span> Metrics
+    using Ensemble Selection
+  url: https://www.aclweb.org/anthology/H05-1068
+  year: '2005'
+H05-1069:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Xinglong
+    full: Xinglong Wang
+    id: xinglong-wang
+    last: Wang
+  - first: John
+    full: John Carroll
+    id: john-a-carroll
+    last: Carroll
+  author_string: Xinglong Wang, John Carroll
+  bibkey: wang-carroll-2005-word
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '547'
+  page_last: '554'
+  pages: "547\u2013554"
+  paper_id: '69'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1069.jpg
+  title: Word Sense Disambiguation Using Sense Examples Automatically Acquired from
+    a Second Language
+  title_html: Word Sense Disambiguation Using Sense Examples Automatically Acquired
+    from a Second Language
+  url: https://www.aclweb.org/anthology/H05-1069
+  year: '2005'
+H05-1070:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Stephan
+    full: Stephan Kepser
+    id: stephan-kepser
+    last: Kepser
+  author_string: Stephan Kepser
+  bibkey: kepser-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '555'
+  page_last: '562'
+  pages: "555\u2013562"
+  paper_id: '70'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1070.jpg
+  title: Using MONA for Querying Linguistic Treebanks
+  title_html: Using <span class="acl-fixed-case">MONA</span> for Querying Linguistic
+    Treebanks
+  url: https://www.aclweb.org/anthology/H05-1070
+  year: '2005'
+H05-1071:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Michael J.
+    full: Michael J. Cafarella
+    id: michael-j-cafarella
+    last: Cafarella
+  - first: Doug
+    full: Doug Downey
+    id: doug-downey
+    last: Downey
+  - first: Stephen
+    full: Stephen Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Michael J. Cafarella, Doug Downey, Stephen Soderland, Oren Etzioni
+  bibkey: cafarella-etal-2005-knowitnow
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '563'
+  page_last: '570'
+  pages: "563\u2013570"
+  paper_id: '71'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1071.jpg
+  title: 'KnowItNow: Fast, Scalable Information Extraction from the Web'
+  title_html: '<span class="acl-fixed-case">K</span>now<span class="acl-fixed-case">I</span>t<span
+    class="acl-fixed-case">N</span>ow: Fast, Scalable Information Extraction from
+    the Web'
+  url: https://www.aclweb.org/anthology/H05-1071
+  year: '2005'
+H05-1072:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Eric
+    full: Eric Fosler-Lussier
+    id: eric-fosler-lussier
+    last: Fosler-Lussier
+  - first: C. Anton
+    full: C. Anton Rytting
+    id: c-anton-rytting
+    last: Rytting
+  author_string: Eric Fosler-Lussier, C. Anton Rytting
+  bibkey: fosler-lussier-rytting-2005-cost
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '571'
+  page_last: '578'
+  pages: "571\u2013578"
+  paper_id: '72'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1072.jpg
+  title: A Cost-Benefit Analysis of Hybrid Phone-Manner Representations for ASR
+  title_html: A Cost-Benefit Analysis of Hybrid Phone-Manner Representations for <span
+    class="acl-fixed-case">ASR</span>
+  url: https://www.aclweb.org/anthology/H05-1072
+  year: '2005'
+H05-1073:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Cecilia Ovesdotter
+    full: Cecilia Ovesdotter Alm
+    id: cecilia-ovesdotter-alm
+    last: Alm
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  - first: Richard
+    full: Richard Sproat
+    id: richard-sproat
+    last: Sproat
+  author_string: Cecilia Ovesdotter Alm, Dan Roth, Richard Sproat
+  bibkey: alm-etal-2005-emotions
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '579'
+  page_last: '586'
+  pages: "579\u2013586"
+  paper_id: '73'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1073.jpg
+  title: 'Emotions from Text: Machine Learning for Text-based Emotion Prediction'
+  title_html: 'Emotions from Text: Machine Learning for Text-based Emotion Prediction'
+  url: https://www.aclweb.org/anthology/H05-1073
+  year: '2005'
+H05-1074:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Yi
+    full: Yi Zhang
+    id: yi-zhang
+    last: Zhang
+  - first: Jamie
+    full: Jamie Callan
+    id: jamie-callan
+    last: Callan
+  author_string: Yi Zhang, Jamie Callan
+  bibkey: zhang-callan-2005-combining
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '587'
+  page_last: '595'
+  pages: "587\u2013595"
+  paper_id: '74'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1074.jpg
+  title: Combining Multiple Forms of Evidence While Filtering
+  title_html: Combining Multiple Forms of Evidence While Filtering
+  url: https://www.aclweb.org/anthology/H05-1074
+  year: '2005'
+H05-1075:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Donghui
+    full: Donghui Feng
+    id: donghui-feng
+    last: Feng
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Donghui Feng, Eduard Hovy
+  bibkey: feng-hovy-2005-handling
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '596'
+  page_last: '603'
+  pages: "596\u2013603"
+  paper_id: '75'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1075.jpg
+  title: Handling Biographical Questions with Implicature
+  title_html: Handling Biographical Questions with Implicature
+  url: https://www.aclweb.org/anthology/H05-1075
+  year: '2005'
+H05-1076:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Yongping
+    full: Yongping Du
+    id: yongping-du
+    last: Du
+  - first: Helen
+    full: Helen Meng
+    id: helen-meng
+    last: Meng
+  - first: Xuanjing
+    full: Xuanjing Huang
+    id: xuan-jing-huang
+    last: Huang
+  - first: Lide
+    full: Lide Wu
+    id: lide-wu
+    last: Wu
+  author_string: Yongping Du, Helen Meng, Xuanjing Huang, Lide Wu
+  bibkey: du-etal-2005-use
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '604'
+  page_last: '611'
+  pages: "604\u2013611"
+  paper_id: '76'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1076.jpg
+  title: The Use of Metadata, Web-derived Answer Patterns and Passage Context to Improve
+    Reading Comprehension Performance
+  title_html: The Use of Metadata, Web-derived Answer Patterns and Passage Context
+    to Improve Reading Comprehension Performance
+  url: https://www.aclweb.org/anthology/H05-1076
+  year: '2005'
+H05-1077:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sabine
+    full: Sabine Schulte im Walde
+    id: sabine-schulte-im-walde
+    last: Schulte im Walde
+  - first: Alissa
+    full: Alissa Melinger
+    id: alissa-melinger
+    last: Melinger
+  author_string: Sabine Schulte im Walde, Alissa Melinger
+  bibkey: schulte-im-walde-melinger-2005-identifying
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '612'
+  page_last: '619'
+  pages: "612\u2013619"
+  paper_id: '77'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1077.jpg
+  title: Identifying Semantic Relations and Functional Properties of Human Verb Associations
+  title_html: Identifying Semantic Relations and Functional Properties of Human Verb
+    Associations
+  url: https://www.aclweb.org/anthology/H05-1077
+  year: '2005'
+H05-1078:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Paola
+    full: Paola Merlo
+    id: paola-merlo
+    last: Merlo
+  - first: Gabriele
+    full: Gabriele Musillo
+    id: gabriele-musillo
+    last: Musillo
+  author_string: Paola Merlo, Gabriele Musillo
+  bibkey: merlo-musillo-2005-accurate
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '620'
+  page_last: '627'
+  pages: "620\u2013627"
+  paper_id: '78'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1078.jpg
+  title: Accurate Function Parsing
+  title_html: Accurate Function Parsing
+  url: https://www.aclweb.org/anthology/H05-1078
+  year: '2005'
+H05-1079:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Johan
+    full: Johan Bos
+    id: johan-bos
+    last: Bos
+  - first: Katja
+    full: Katja Markert
+    id: katja-markert
+    last: Markert
+  author_string: Johan Bos, Katja Markert
+  bibkey: bos-markert-2005-recognising
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '628'
+  page_last: '635'
+  pages: "628\u2013635"
+  paper_id: '79'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1079.jpg
+  title: Recognising Textual Entailment with Logical Inference
+  title_html: Recognising Textual Entailment with Logical Inference
+  url: https://www.aclweb.org/anthology/H05-1079
+  year: '2005'
+H05-1080:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Praharshana
+    full: Praharshana Perera
+    id: praharshana-perera
+    last: Perera
+  - first: "Ren\xE9"
+    full: "Ren\xE9 Witte"
+    id: rene-witte
+    last: Witte
+  author_string: "Praharshana Perera, Ren\xE9 Witte"
+  bibkey: perera-witte-2005-self
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '636'
+  page_last: '643'
+  pages: "636\u2013643"
+  paper_id: '80'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1080.jpg
+  title: A Self-Learning Context-Aware Lemmatizer for German
+  title_html: A Self-Learning Context-Aware Lemmatizer for <span class="acl-fixed-case">G</span>erman
+  url: https://www.aclweb.org/anthology/H05-1080
+  year: '2005'
+H05-1081:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: "Llu\xEDs"
+    full: "Llu\xEDs M\xE0rquez"
+    id: lluis-marquez
+    last: "M\xE0rquez"
+  - first: Mihai
+    full: Mihai Surdeanu
+    id: mihai-surdeanu
+    last: Surdeanu
+  - first: Pere
+    full: Pere Comas
+    id: pere-comas
+    last: Comas
+  - first: Jordi
+    full: Jordi Turmo
+    id: jordi-turmo
+    last: Turmo
+  author_string: "Llu\xEDs M\xE0rquez, Mihai Surdeanu, Pere Comas, Jordi Turmo"
+  bibkey: marquez-etal-2005-robust
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '644'
+  page_last: '651'
+  pages: "644\u2013651"
+  paper_id: '81'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1081.jpg
+  title: A Robust Combination Strategy for Semantic Role Labeling
+  title_html: A Robust Combination Strategy for Semantic Role Labeling
+  url: https://www.aclweb.org/anthology/H05-1081
+  year: '2005'
+H05-1082:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Michael
+    full: Michael Crystal
+    id: michael-crystal
+    last: Crystal
+  - first: Alex
+    full: Alex Baron
+    id: alex-baron
+    last: Baron
+  - first: Katherine
+    full: Katherine Godfrey
+    id: katherine-godfrey
+    last: Godfrey
+  - first: Linnea
+    full: Linnea Micciulla
+    id: linnea-micciulla
+    last: Micciulla
+  - first: Yvette
+    full: Yvette Tenney
+    id: yvette-tenney
+    last: Tenney
+  - first: Ralph
+    full: Ralph Weischedel
+    id: ralph-weischedel
+    last: Weischedel
+  author_string: Michael Crystal, Alex Baron, Katherine Godfrey, Linnea Micciulla,
+    Yvette Tenney, Ralph Weischedel
+  bibkey: crystal-etal-2005-methodology
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '652'
+  page_last: '659'
+  pages: "652\u2013659"
+  paper_id: '82'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1082.jpg
+  title: A Methodology for Extrinsically Evaluating Information Extraction Performance
+  title_html: A Methodology for Extrinsically Evaluating Information Extraction Performance
+  url: https://www.aclweb.org/anthology/H05-1082
+  year: '2005'
+H05-1083:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Xiaoqiang
+    full: Xiaoqiang Luo
+    id: xiaoqiang-luo
+    last: Luo
+  - first: Imed
+    full: Imed Zitouni
+    id: imed-zitouni
+    last: Zitouni
+  author_string: Xiaoqiang Luo, Imed Zitouni
+  bibkey: luo-zitouni-2005-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '660'
+  page_last: '667'
+  pages: "660\u2013667"
+  paper_id: '83'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1083.jpg
+  title: Multi-Lingual Coreference Resolution With Syntactic Features
+  title_html: Multi-Lingual Coreference Resolution With Syntactic Features
+  url: https://www.aclweb.org/anthology/H05-1083
+  year: '2005'
+H05-1084:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  author_string: "Katrin Erk, Sebastian Pad\xF3"
+  bibkey: erk-pado-2005-analyzing
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '668'
+  page_last: '675'
+  pages: "668\u2013675"
+  paper_id: '84'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1084.jpg
+  title: Analyzing Models for Semantic Role Assignment using Confusability
+  title_html: Analyzing Models for Semantic Role Assignment using Confusability
+  url: https://www.aclweb.org/anthology/H05-1084
+  year: '2005'
+H05-1085:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sharon
+    full: Sharon Goldwater
+    id: sharon-goldwater
+    last: Goldwater
+  - first: David
+    full: David McClosky
+    id: david-mcclosky
+    last: McClosky
+  author_string: Sharon Goldwater, David McClosky
+  bibkey: goldwater-mcclosky-2005-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '676'
+  page_last: '683'
+  pages: "676\u2013683"
+  paper_id: '85'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1085.jpg
+  title: Improving Statistical MT through Morphological Analysis
+  title_html: Improving Statistical <span class="acl-fixed-case">MT</span> through
+    Morphological Analysis
+  url: https://www.aclweb.org/anthology/H05-1085
+  year: '2005'
+H05-1086:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Vanessa
+    full: Vanessa Murdock
+    id: vanessa-murdock
+    last: Murdock
+  - first: W. Bruce
+    full: W. Bruce Croft
+    id: w-bruce-croft
+    last: Croft
+  author_string: Vanessa Murdock, W. Bruce Croft
+  bibkey: murdock-croft-2005-translation
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '684'
+  page_last: '691'
+  pages: "684\u2013691"
+  paper_id: '86'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1086.jpg
+  title: A Translation Model for Sentence Retrieval
+  title_html: A Translation Model for Sentence Retrieval
+  url: https://www.aclweb.org/anthology/H05-1086
+  year: '2005'
+H05-1087:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Martin
+    full: Martin Jansche
+    id: martin-jansche
+    last: Jansche
+  author_string: Martin Jansche
+  bibkey: jansche-2005-maximum
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '692'
+  page_last: '699'
+  pages: "692\u2013699"
+  paper_id: '87'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1087.jpg
+  title: Maximum Expected F-Measure Training of Logistic Regression Models
+  title_html: Maximum Expected F-Measure Training of Logistic Regression Models
+  url: https://www.aclweb.org/anthology/H05-1087
+  year: '2005'
+H05-1088:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Roser
+    full: "Roser Saur\xED"
+    id: roser-sauri
+    last: "Saur\xED"
+  - first: Robert
+    full: Robert Knippen
+    id: robert-knippen
+    last: Knippen
+  - first: Marc
+    full: Marc Verhagen
+    id: marc-verhagen
+    last: Verhagen
+  - first: James
+    full: James Pustejovsky
+    id: james-pustejovsky
+    last: Pustejovsky
+  author_string: "Roser Saur\xED, Robert Knippen, Marc Verhagen, James Pustejovsky"
+  bibkey: sauri-etal-2005-evita
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '700'
+  page_last: '707'
+  pages: "700\u2013707"
+  paper_id: '88'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1088.jpg
+  title: 'Evita: A Robust Event Recognizer For QA Systems'
+  title_html: '<span class="acl-fixed-case">E</span>vita: A Robust Event Recognizer
+    For <span class="acl-fixed-case">QA</span> Systems'
+  url: https://www.aclweb.org/anthology/H05-1088
+  year: '2005'
+H05-1089:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ping
+    full: Ping Li
+    id: ping-li
+    last: Li
+  - first: Kenneth W.
+    full: Kenneth W. Church
+    id: kenneth-church
+    last: Church
+  author_string: Ping Li, Kenneth W. Church
+  bibkey: li-church-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '708'
+  page_last: '715'
+  pages: "708\u2013715"
+  paper_id: '89'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1089.jpg
+  title: Using Sketches to Estimate Associations
+  title_html: Using Sketches to Estimate Associations
+  url: https://www.aclweb.org/anthology/H05-1089
+  year: '2005'
+H05-1090:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Barry
+    full: Barry Schiffman
+    id: barry-schiffman
+    last: Schiffman
+  - first: Kathleen
+    full: Kathleen McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Barry Schiffman, Kathleen McKeown
+  bibkey: schiffman-mckeown-2005-context
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '716'
+  page_last: '723'
+  pages: "716\u2013723"
+  paper_id: '90'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1090.jpg
+  title: Context and Learning in Novelty Detection
+  title_html: Context and Learning in Novelty Detection
+  url: https://www.aclweb.org/anthology/H05-1090
+  year: '2005'
+H05-1091:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Razvan
+    full: Razvan Bunescu
+    id: razvan-bunescu
+    last: Bunescu
+  - first: Raymond
+    full: Raymond Mooney
+    id: raymond-mooney
+    last: Mooney
+  author_string: Razvan Bunescu, Raymond Mooney
+  bibkey: bunescu-mooney-2005-shortest
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '724'
+  page_last: '731'
+  pages: "724\u2013731"
+  paper_id: '91'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1091.jpg
+  title: A Shortest Path Dependency Kernel for Relation Extraction
+  title_html: A Shortest Path Dependency Kernel for Relation Extraction
+  url: https://www.aclweb.org/anthology/H05-1091
+  year: '2005'
+H05-1092:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Barbara
+    full: Barbara Rosario
+    id: barbara-rosario
+    last: Rosario
+  - first: Marti
+    full: Marti Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Barbara Rosario, Marti Hearst
+  bibkey: rosario-hearst-2005-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '732'
+  page_last: '739'
+  pages: "732\u2013739"
+  paper_id: '92'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1092.jpg
+  title: 'Multi-way Relation Classification: Application to Protein-Protein Interactions'
+  title_html: 'Multi-way Relation Classification: Application to Protein-Protein Interactions'
+  url: https://www.aclweb.org/anthology/H05-1092
+  year: '2005'
+H05-1093:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Lucian
+    full: Lucian Lita
+    id: lucian-vlad-lita
+    last: Lita
+  - first: Monica
+    full: Monica Rogati
+    id: monica-rogati
+    last: Rogati
+  - first: Alon
+    full: Alon Lavie
+    id: alon-lavie
+    last: Lavie
+  author_string: Lucian Lita, Monica Rogati, Alon Lavie
+  bibkey: lita-etal-2005-blanc
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '740'
+  page_last: '747'
+  pages: "740\u2013747"
+  paper_id: '93'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1093.jpg
+  title: 'BLANC: Learning Evaluation Metrics for MT'
+  title_html: '<span class="acl-fixed-case">BLANC</span>: Learning Evaluation Metrics
+    for <span class="acl-fixed-case">MT</span>'
+  url: https://www.aclweb.org/anthology/H05-1093
+  year: '2005'
+H05-1094:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Charles
+    full: Charles Sutton
+    id: charles-sutton
+    last: Sutton
+  - first: Andrew
+    full: Andrew McCallum
+    id: andrew-mccallum
+    last: McCallum
+  author_string: Charles Sutton, Andrew McCallum
+  bibkey: sutton-mccallum-2005-composition
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '748'
+  page_last: '754'
+  pages: "748\u2013754"
+  paper_id: '94'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1094.jpg
+  title: Composition of Conditional Random Fields for Transfer Learning
+  title_html: Composition of Conditional Random Fields for Transfer Learning
+  url: https://www.aclweb.org/anthology/H05-1094
+  year: '2005'
+H05-1095:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Michel
+    full: Michel Simard
+    id: michel-simard
+    last: Simard
+  - first: Nicola
+    full: Nicola Cancedda
+    id: nicola-cancedda
+    last: Cancedda
+  - first: Bruno
+    full: Bruno Cavestro
+    id: bruno-cavestro
+    last: Cavestro
+  - first: Marc
+    full: Marc Dymetman
+    id: marc-dymetman
+    last: Dymetman
+  - first: Eric
+    full: Eric Gaussier
+    id: eric-gaussier
+    last: Gaussier
+  - first: Cyril
+    full: Cyril Goutte
+    id: cyril-goutte
+    last: Goutte
+  - first: Kenji
+    full: Kenji Yamada
+    id: kenji-yamada
+    last: Yamada
+  - first: Philippe
+    full: Philippe Langlais
+    id: philippe-langlais
+    last: Langlais
+  - first: Arne
+    full: Arne Mauser
+    id: arne-mauser
+    last: Mauser
+  author_string: Michel Simard, Nicola Cancedda, Bruno Cavestro, Marc Dymetman, Eric
+    Gaussier, Cyril Goutte, Kenji Yamada, Philippe Langlais, Arne Mauser
+  bibkey: simard-etal-2005-translating
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '755'
+  page_last: '762'
+  pages: "755\u2013762"
+  paper_id: '95'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1095.jpg
+  title: Translating with Non-contiguous Phrases
+  title_html: Translating with Non-contiguous Phrases
+  url: https://www.aclweb.org/anthology/H05-1095
+  year: '2005'
+H05-1096:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Nicola
+    full: Nicola Ueffing
+    id: nicola-ueffing
+    last: Ueffing
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Nicola Ueffing, Hermann Ney
+  bibkey: ueffing-ney-2005-word
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '763'
+  page_last: '770'
+  pages: "763\u2013770"
+  paper_id: '96'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1096.jpg
+  title: Word-Level Confidence Estimation for Machine Translation using Phrase-Based
+    Translation Models
+  title_html: Word-Level Confidence Estimation for Machine Translation using Phrase-Based
+    Translation Models
+  url: https://www.aclweb.org/anthology/H05-1096
+  year: '2005'
+H05-1097:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: David
+    full: David Vickrey
+    id: david-vickrey
+    last: Vickrey
+  - first: Luke
+    full: Luke Biewald
+    id: luke-biewald
+    last: Biewald
+  - first: Marc
+    full: Marc Teyssier
+    id: marc-teyssier
+    last: Teyssier
+  - first: Daphne
+    full: Daphne Koller
+    id: daphne-koller
+    last: Koller
+  author_string: David Vickrey, Luke Biewald, Marc Teyssier, Daphne Koller
+  bibkey: vickrey-etal-2005-word
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '771'
+  page_last: '778'
+  pages: "771\u2013778"
+  paper_id: '97'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1097.jpg
+  title: Word-Sense Disambiguation for Machine Translation
+  title_html: Word-Sense Disambiguation for Machine Translation
+  url: https://www.aclweb.org/anthology/H05-1097
+  year: '2005'
+H05-1098:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: David
+    full: David Chiang
+    id: david-chiang
+    last: Chiang
+  - first: Adam
+    full: Adam Lopez
+    id: adam-lopez
+    last: Lopez
+  - first: Nitin
+    full: Nitin Madnani
+    id: nitin-madnani
+    last: Madnani
+  - first: Christof
+    full: Christof Monz
+    id: christof-monz
+    last: Monz
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  - first: Michael
+    full: Michael Subotin
+    id: michael-subotin
+    last: Subotin
+  author_string: David Chiang, Adam Lopez, Nitin Madnani, Christof Monz, Philip Resnik,
+    Michael Subotin
+  bibkey: chiang-etal-2005-hiero
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '779'
+  page_last: '786'
+  pages: "779\u2013786"
+  paper_id: '98'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1098.jpg
+  title: 'The Hiero Machine Translation System: Extensions, Evaluation, and Analysis'
+  title_html: 'The <span class="acl-fixed-case">H</span>iero Machine Translation System:
+    Extensions, Evaluation, and Analysis'
+  url: https://www.aclweb.org/anthology/H05-1098
+  year: '2005'
+H05-1099:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Kristy
+    full: Kristy Hollingshead
+    id: kristy-hollingshead
+    last: Hollingshead
+  - first: Seeger
+    full: Seeger Fisher
+    id: seeger-fisher
+    last: Fisher
+  - first: Brian
+    full: Brian Roark
+    id: brian-roark
+    last: Roark
+  author_string: Kristy Hollingshead, Seeger Fisher, Brian Roark
+  bibkey: hollingshead-etal-2005-comparing
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '787'
+  page_last: '794'
+  pages: "787\u2013794"
+  paper_id: '99'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1099.jpg
+  title: Comparing and Combining Finite-State and Context-Free Parsers
+  title_html: Comparing and Combining Finite-State and Context-Free Parsers
+  url: https://www.aclweb.org/anthology/H05-1099
+  year: '2005'
+H05-1100:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Brooke
+    full: Brooke Cowan
+    id: brooke-cowan
+    last: Cowan
+  - first: Michael
+    full: Michael Collins
+    id: michael-collins
+    last: Collins
+  author_string: Brooke Cowan, Michael Collins
+  bibkey: cowan-collins-2005-morphology
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '795'
+  page_last: '802'
+  pages: "795\u2013802"
+  paper_id: '100'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1100.jpg
+  title: Morphology and Reranking for the Statistical Parsing of Spanish
+  title_html: Morphology and Reranking for the Statistical Parsing of <span class="acl-fixed-case">S</span>panish
+  url: https://www.aclweb.org/anthology/H05-1100
+  year: '2005'
+H05-1101:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Giorgio
+    full: Giorgio Satta
+    id: giorgio-satta
+    last: Satta
+  - first: Enoch
+    full: Enoch Peserico
+    id: enoch-peserico
+    last: Peserico
+  author_string: Giorgio Satta, Enoch Peserico
+  bibkey: satta-peserico-2005-computational
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '803'
+  page_last: '810'
+  pages: "803\u2013810"
+  paper_id: '101'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1101.jpg
+  title: Some Computational Complexity Results for Synchronous Context-Free Grammars
+  title_html: Some Computational Complexity Results for Synchronous Context-Free Grammars
+  url: https://www.aclweb.org/anthology/H05-1101
+  year: '2005'
+H05-1102:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Libin
+    full: Libin Shen
+    id: libin-shen
+    last: Shen
+  - first: Aravind
+    full: Aravind Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Libin Shen, Aravind Joshi
+  bibkey: shen-joshi-2005-incremental
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '811'
+  page_last: '818'
+  pages: "811\u2013818"
+  paper_id: '102'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1102.jpg
+  title: Incremental LTAG Parsing
+  title_html: Incremental <span class="acl-fixed-case">LTAG</span> Parsing
+  url: https://www.aclweb.org/anthology/H05-1102
+  year: '2005'
+H05-1103:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jonathan
+    full: Jonathan Brown
+    id: jonathan-brown
+    last: Brown
+  - first: Gwen
+    full: Gwen Frishkoff
+    id: gwen-frishkoff
+    last: Frishkoff
+  - first: Maxine
+    full: Maxine Eskenazi
+    id: maxine-eskenazi
+    last: Eskenazi
+  author_string: Jonathan Brown, Gwen Frishkoff, Maxine Eskenazi
+  bibkey: brown-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '819'
+  page_last: '826'
+  pages: "819\u2013826"
+  paper_id: '103'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1103.jpg
+  title: Automatic Question Generation for Vocabulary Assessment
+  title_html: Automatic Question Generation for Vocabulary Assessment
+  url: https://www.aclweb.org/anthology/H05-1103
+  year: '2005'
+H05-1104:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Amit
+    full: Amit Dubey
+    id: amit-dubey
+    last: Dubey
+  - first: Patrick
+    full: Patrick Sturt
+    id: patrick-sturt
+    last: Sturt
+  - first: Frank
+    full: Frank Keller
+    id: frank-keller
+    last: Keller
+  author_string: Amit Dubey, Patrick Sturt, Frank Keller
+  bibkey: dubey-etal-2005-parallelism
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '827'
+  page_last: '834'
+  pages: "827\u2013834"
+  paper_id: '104'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1104.jpg
+  title: 'Parallelism in Coordination as an Instance of Syntactic Priming: Evidence
+    from Corpus-based Modeling'
+  title_html: 'Parallelism in Coordination as an Instance of Syntactic Priming: Evidence
+    from Corpus-based Modeling'
+  url: https://www.aclweb.org/anthology/H05-1104
+  year: '2005'
+H05-1105:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Preslav
+    full: Preslav Nakov
+    id: preslav-nakov
+    last: Nakov
+  - first: Marti
+    full: Marti Hearst
+    id: marti-a-hearst
+    last: Hearst
+  author_string: Preslav Nakov, Marti Hearst
+  bibkey: nakov-hearst-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '835'
+  page_last: '842'
+  pages: "835\u2013842"
+  paper_id: '105'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1105.jpg
+  title: 'Using the Web as an Implicit Training Set: Application to Structural Ambiguity
+    Resolution'
+  title_html: 'Using the Web as an Implicit Training Set: Application to Structural
+    Ambiguity Resolution'
+  url: https://www.aclweb.org/anthology/H05-1105
+  year: '2005'
+H05-1106:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Joachim
+    full: Joachim Wermter
+    id: joachim-wermter
+    last: Wermter
+  - first: Udo
+    full: Udo Hahn
+    id: udo-hahn
+    last: Hahn
+  author_string: Joachim Wermter, Udo Hahn
+  bibkey: wermter-hahn-2005-paradigmatic
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '843'
+  page_last: '850'
+  pages: "843\u2013850"
+  paper_id: '106'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1106.jpg
+  title: Paradigmatic Modifiability Statistics for the Extraction of Complex Multi-Word
+    Terms
+  title_html: Paradigmatic Modifiability Statistics for the Extraction of Complex
+    Multi-Word Terms
+  url: https://www.aclweb.org/anthology/H05-1106
+  year: '2005'
+H05-1107:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Chenhai
+    full: Chenhai Xi
+    id: chenhai-xi
+    last: Xi
+  - first: Rebecca
+    full: Rebecca Hwa
+    id: rebecca-hwa
+    last: Hwa
+  author_string: Chenhai Xi, Rebecca Hwa
+  bibkey: xi-hwa-2005-backoff
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '851'
+  page_last: '858'
+  pages: "851\u2013858"
+  paper_id: '107'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1107.jpg
+  title: A Backoff Model for Bootstrapping Resources for Non-English Languages
+  title_html: A Backoff Model for Bootstrapping Resources for Non-<span class="acl-fixed-case">E</span>nglish
+    Languages
+  url: https://www.aclweb.org/anthology/H05-1107
+  year: '2005'
+H05-1108:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  author_string: "Sebastian Pad\xF3, Mirella Lapata"
+  bibkey: pado-lapata-2005-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '859'
+  page_last: '866'
+  pages: "859\u2013866"
+  paper_id: '108'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1108.jpg
+  title: Cross-linguistic Projection of Role-Semantic Information
+  title_html: Cross-linguistic Projection of Role-Semantic Information
+  url: https://www.aclweb.org/anthology/H05-1108
+  year: '2005'
+H05-1109:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Okan
+    full: Okan Kolak
+    id: okan-kolak
+    last: Kolak
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Okan Kolak, Philip Resnik
+  bibkey: kolak-resnik-2005-ocr
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '867'
+  page_last: '874'
+  pages: "867\u2013874"
+  paper_id: '109'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1109.jpg
+  title: OCR Post-Processing for Low Density Languages
+  title_html: <span class="acl-fixed-case">OCR</span> Post-Processing for Low Density
+    Languages
+  url: https://www.aclweb.org/anthology/H05-1109
+  year: '2005'
+H05-1110:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Dmitriy
+    full: Dmitriy Genzel
+    id: dmitriy-genzel
+    last: Genzel
+  author_string: Dmitriy Genzel
+  bibkey: genzel-2005-inducing
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '875'
+  page_last: '882'
+  pages: "875\u2013882"
+  paper_id: '110'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1110.jpg
+  title: Inducing a Multilingual Dictionary from a Parallel Multitext in Related Languages
+  title_html: Inducing a Multilingual Dictionary from a Parallel Multitext in Related
+    Languages
+  url: https://www.aclweb.org/anthology/H05-1110
+  year: '2005'
+H05-1111:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Robert
+    full: Robert Swier
+    id: robert-s-swier
+    last: Swier
+  - first: Suzanne
+    full: Suzanne Stevenson
+    id: suzanne-stevenson
+    last: Stevenson
+  author_string: Robert Swier, Suzanne Stevenson
+  bibkey: swier-stevenson-2005-exploiting
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '883'
+  page_last: '890'
+  pages: "883\u2013890"
+  paper_id: '111'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1111.jpg
+  title: Exploiting a Verb Lexicon in Automatic Semantic Role Labelling
+  title_html: Exploiting a Verb Lexicon in Automatic Semantic Role Labelling
+  url: https://www.aclweb.org/anthology/H05-1111
+  year: '2005'
+H05-1112:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Dan
+    full: Dan Moldovan
+    id: dan-moldovan
+    last: Moldovan
+  - first: Adriana
+    full: Adriana Badulescu
+    id: adriana-badulescu
+    last: Badulescu
+  author_string: Dan Moldovan, Adriana Badulescu
+  bibkey: moldovan-badulescu-2005-semantic
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '891'
+  page_last: '898'
+  pages: "891\u2013898"
+  paper_id: '112'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1112.jpg
+  title: A Semantic Scattering Model for the Automatic Interpretation of Genitives
+  title_html: A Semantic Scattering Model for the Automatic Interpretation of Genitives
+  url: https://www.aclweb.org/anthology/H05-1112
+  year: '2005'
+H05-1113:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Sriram
+    full: Sriram Venkatapathy
+    id: sriram-venkatapathy
+    last: Venkatapathy
+  - first: Aravind
+    full: Aravind Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Sriram Venkatapathy, Aravind Joshi
+  bibkey: venkatapathy-joshi-2005-measuring
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '899'
+  page_last: '906'
+  pages: "899\u2013906"
+  paper_id: '113'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1113.jpg
+  title: Measuring the Relative Compositionality of Verb-Noun (V-N) Collocations by
+    Integrating Features
+  title_html: Measuring the Relative Compositionality of Verb-Noun (V-N) Collocations
+    by Integrating Features
+  url: https://www.aclweb.org/anthology/H05-1113
+  year: '2005'
+H05-1114:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Zheng-Yu
+    full: Zheng-Yu Niu
+    id: zheng-yu-niu
+    last: Niu
+  - first: Dong-Hong
+    full: Dong-Hong Ji
+    id: donghong-ji
+    last: Ji
+  - first: Chew Lim
+    full: Chew Lim Tan
+    id: chew-lim-tan
+    last: Tan
+  author_string: Zheng-Yu Niu, Dong-Hong Ji, Chew Lim Tan
+  bibkey: niu-etal-2005-semi
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '907'
+  page_last: '914'
+  pages: "907\u2013914"
+  paper_id: '114'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1114.jpg
+  title: A Semi-Supervised Feature Clustering Algorithm with Application to Word Sense
+    Disambiguation
+  title_html: A Semi-Supervised Feature Clustering Algorithm with Application to Word
+    Sense Disambiguation
+  url: https://www.aclweb.org/anthology/H05-1114
+  year: '2005'
+H05-1115:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jahna
+    full: Jahna Otterbacher
+    id: jahna-otterbacher
+    last: Otterbacher
+  - first: "G\xFCne\u015F"
+    full: "G\xFCne\u015F Erkan"
+    id: gunes-erkan
+    last: Erkan
+  - first: Dragomir
+    full: Dragomir Radev
+    id: dragomir-radev
+    last: Radev
+  author_string: "Jahna Otterbacher, G\xFCne\u015F Erkan, Dragomir Radev"
+  bibkey: otterbacher-etal-2005-using
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '915'
+  page_last: '922'
+  pages: "915\u2013922"
+  paper_id: '115'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1115.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1115.jpg
+  title: Using Random Walks for Question-focused Sentence Retrieval
+  title_html: Using Random Walks for Question-focused Sentence Retrieval
+  url: https://www.aclweb.org/anthology/H05-1115
+  year: '2005'
+H05-1116:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Veselin
+    full: Veselin Stoyanov
+    id: veselin-stoyanov
+    last: Stoyanov
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  author_string: Veselin Stoyanov, Claire Cardie, Janyce Wiebe
+  bibkey: stoyanov-etal-2005-multi
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '923'
+  page_last: '930'
+  pages: "923\u2013930"
+  paper_id: '116'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1116.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1116.jpg
+  title: Multi-Perspective Question Answering Using the OpQA Corpus
+  title_html: Multi-Perspective Question Answering Using the <span class="acl-fixed-case">O</span>p<span
+    class="acl-fixed-case">QA</span> Corpus
+  url: https://www.aclweb.org/anthology/H05-1116
+  year: '2005'
+H05-1117:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jimmy
+    full: Jimmy Lin
+    id: jimmy-lin
+    last: Lin
+  - first: Dina
+    full: Dina Demner-Fushman
+    id: dina-demner-fushman
+    last: Demner-Fushman
+  author_string: Jimmy Lin, Dina Demner-Fushman
+  bibkey: lin-demner-fushman-2005-automatically
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '931'
+  page_last: '938'
+  pages: "931\u2013938"
+  paper_id: '117'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1117.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1117.jpg
+  title: Automatically Evaluating Answers to Definition Questions
+  title_html: Automatically Evaluating Answers to Definition Questions
+  url: https://www.aclweb.org/anthology/H05-1117
+  year: '2005'
+H05-1118:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: "J\xF6rg"
+    full: "J\xF6rg Tiedemann"
+    id: jorg-tiedemann
+    last: Tiedemann
+  author_string: "J\xF6rg Tiedemann"
+  bibkey: tiedemann-2005-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '939'
+  page_last: '946'
+  pages: "939\u2013946"
+  paper_id: '118'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1118.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1118.jpg
+  title: Integrating Linguistic Knowledge in Passage Retrieval for Question Answering
+  title_html: Integrating Linguistic Knowledge in Passage Retrieval for Question Answering
+  url: https://www.aclweb.org/anthology/H05-1118
+  year: '2005'
+H05-1119:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Peng
+    full: Peng Yu
+    id: peng-yu
+    last: Yu
+  - first: Kaijiang
+    full: Kaijiang Chen
+    id: kaijiang-chen
+    last: Chen
+  - first: Lie
+    full: Lie Lu
+    id: lie-lu
+    last: Lu
+  - first: Frank
+    full: Frank Seide
+    id: frank-seide
+    last: Seide
+  author_string: Peng Yu, Kaijiang Chen, Lie Lu, Frank Seide
+  bibkey: yu-etal-2005-searching
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '947'
+  page_last: '954'
+  pages: "947\u2013954"
+  paper_id: '119'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1119.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1119.jpg
+  title: 'Searching the Audio Notebook: Keyword Search in Recorded Conversation'
+  title_html: 'Searching the Audio Notebook: Keyword Search in Recorded Conversation'
+  url: https://www.aclweb.org/anthology/H05-1119
+  year: '2005'
+H05-1120:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Farooq
+    full: Farooq Ahmad
+    id: farooq-ahmad
+    last: Ahmad
+  - first: Grzegorz
+    full: Grzegorz Kondrak
+    id: grzegorz-kondrak
+    last: Kondrak
+  author_string: Farooq Ahmad, Grzegorz Kondrak
+  bibkey: ahmad-kondrak-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '955'
+  page_last: '962'
+  pages: "955\u2013962"
+  paper_id: '120'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1120.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1120.jpg
+  title: Learning a Spelling Error Model from Search Query Logs
+  title_html: Learning a Spelling Error Model from Search Query Logs
+  url: https://www.aclweb.org/anthology/H05-1120
+  year: '2005'
+H05-1121:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Masayuki
+    full: Masayuki Okabe
+    id: masayuki-okabe
+    last: Okabe
+  - first: Kyoji
+    full: Kyoji Umemura
+    id: kyoji-umemura
+    last: Umemura
+  - first: Seiji
+    full: Seiji Yamada
+    id: seiji-yamada
+    last: Yamada
+  author_string: Masayuki Okabe, Kyoji Umemura, Seiji Yamada
+  bibkey: okabe-etal-2005-query
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '963'
+  page_last: '970'
+  pages: "963\u2013970"
+  paper_id: '121'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1121.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1121.jpg
+  title: Query Expansion with the Minimum User Feedback by Transductive Learning
+  title_html: Query Expansion with the Minimum User Feedback by Transductive Learning
+  url: https://www.aclweb.org/anthology/H05-1121
+  year: '2005'
+H05-1122:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Andrew
+    full: Andrew Olney
+    id: andrew-olney
+    last: Olney
+  - first: Zhiqiang
+    full: Zhiqiang Cai
+    id: zhiqiang-cai
+    last: Cai
+  author_string: Andrew Olney, Zhiqiang Cai
+  bibkey: olney-cai-2005-orthonormal
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '971'
+  page_last: '978'
+  pages: "971\u2013978"
+  paper_id: '122'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1122.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1122.jpg
+  title: An Orthonormal Basis for Topic Segmentation in Tutorial Dialogue
+  title_html: An Orthonormal Basis for Topic Segmentation in Tutorial Dialogue
+  url: https://www.aclweb.org/anthology/H05-1122
+  year: '2005'
+H05-1123:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Zvika
+    full: Zvika Marx
+    id: zvika-marx
+    last: Marx
+  - first: Ido
+    full: Ido Dagan
+    id: ido-dagan
+    last: Dagan
+  - first: Eli
+    full: Eli Shamir
+    id: eli-shamir
+    last: Shamir
+  author_string: Zvika Marx, Ido Dagan, Eli Shamir
+  bibkey: marx-etal-2005-generalized
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '979'
+  page_last: '986'
+  pages: "979\u2013986"
+  paper_id: '123'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1123.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1123.jpg
+  title: A Generalized Framework for Revealing Analogous Themes across Related Topics
+  title_html: A Generalized Framework for Revealing Analogous Themes across Related
+    Topics
+  url: https://www.aclweb.org/anthology/H05-1123
+  year: '2005'
+H05-1124:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ryan
+    full: Ryan McDonald
+    id: ryan-mcdonald
+    last: McDonald
+  - first: Koby
+    full: Koby Crammer
+    id: koby-crammer
+    last: Crammer
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: Ryan McDonald, Koby Crammer, Fernando Pereira
+  bibkey: mcdonald-etal-2005-flexible
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '987'
+  page_last: '994'
+  pages: "987\u2013994"
+  paper_id: '124'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1124.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1124.jpg
+  title: Flexible Text Segmentation with Structured Multilabel Classification
+  title_html: Flexible Text Segmentation with Structured Multilabel Classification
+  url: https://www.aclweb.org/anthology/H05-1124
+  year: '2005'
+H05-1125:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jeff A.
+    full: Jeff A. Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  - first: Xiao
+    full: Xiao Li
+    id: xiao-li
+    last: Li
+  - first: Jonathan
+    full: Jonathan Malkin
+    id: jonathan-malkin
+    last: Malkin
+  - first: Kelley
+    full: Kelley Kilanski
+    id: kelley-kilanski
+    last: Kilanski
+  - first: Richard
+    full: Richard Wright
+    id: richard-wright
+    last: Wright
+  - first: Katrin
+    full: Katrin Kirchhoff
+    id: katrin-kirchhoff
+    last: Kirchhoff
+  - first: Amar
+    full: Amar Subramanya
+    id: amarnag-subramanya
+    last: Subramanya
+  - first: Susumu
+    full: Susumu Harada
+    id: susumu-harada
+    last: Harada
+  - first: James
+    full: James Landay
+    id: james-landay
+    last: Landay
+  - first: Patricia
+    full: Patricia Dowden
+    id: patricia-dowden
+    last: Dowden
+  - first: Howard
+    full: Howard Chizeck
+    id: howard-chizeck
+    last: Chizeck
+  author_string: Jeff A. Bilmes, Xiao Li, Jonathan Malkin, Kelley Kilanski, Richard
+    Wright, Katrin Kirchhoff, Amar Subramanya, Susumu Harada, James Landay, Patricia
+    Dowden, Howard Chizeck
+  bibkey: bilmes-etal-2005-vocal
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '995'
+  page_last: '1002'
+  pages: "995\u20131002"
+  paper_id: '125'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1125.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1125.jpg
+  title: 'The Vocal Joystick: A Voice-Based Human-Computer Interface for Individuals
+    with Motor Impairments'
+  title_html: 'The Vocal Joystick: A Voice-Based Human-Computer Interface for Individuals
+    with Motor Impairments'
+  url: https://www.aclweb.org/anthology/H05-1125
+  year: '2005'
+H05-1126:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Teruhisa
+    full: Teruhisa Misu
+    id: teruhisa-misu
+    last: Misu
+  - first: Tatsuya
+    full: Tatsuya Kawahara
+    id: tatsuya-kawahara
+    last: Kawahara
+  author_string: Teruhisa Misu, Tatsuya Kawahara
+  bibkey: misu-kawahara-2005-speech
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '1003'
+  page_last: '1010'
+  pages: "1003\u20131010"
+  paper_id: '126'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1126.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1126.jpg
+  title: Speech-based Information Retrieval System with Clarification Dialogue Strategy
+  title_html: Speech-based Information Retrieval System with Clarification Dialogue
+    Strategy
+  url: https://www.aclweb.org/anthology/H05-1126
+  year: '2005'
+H05-1127:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Michael
+    full: Michael English
+    id: michael-english
+    last: English
+  - first: Peter
+    full: Peter Heeman
+    id: peter-a-heeman
+    last: Heeman
+  author_string: Michael English, Peter Heeman
+  bibkey: english-heeman-2005-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of Human Language Technology Conference and Conference on
+    Empirical Methods in Natural Language Processing
+  booktitle_html: Proceedings of Human Language Technology Conference and Conference
+    on Empirical Methods in Natural Language Processing
+  month: October
+  page_first: '1011'
+  page_last: '1018'
+  pages: "1011\u20131018"
+  paper_id: '127'
+  parent_volume_id: H05-1
+  pdf: https://www.aclweb.org/anthology/H05-1127.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-1127.jpg
+  title: Learning Mixed Initiative Dialog Strategies By Using Reinforcement Learning
+    On Both Conversants
+  title_html: Learning Mixed Initiative Dialog Strategies By Using Reinforcement Learning
+    On Both Conversants
+  url: https://www.aclweb.org/anthology/H05-1127
+  year: '2005'
+H05-2000:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Donna
+    full: Donna Byron
+    id: donna-byron
+    last: Byron
+  - first: Anand
+    full: Anand Venkataraman
+    id: anand-venkataraman
+    last: Venkataraman
+  - first: Dell
+    full: Dell Zhang
+    id: dell-zhang
+    last: Zhang
+  author_string: Donna Byron, Anand Venkataraman, Dell Zhang
+  bibkey: hlt-2005-hlt
+  bibtype: proceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  month: October
+  paper_id: '0'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2000.jpg
+  title: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  title_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  url: https://www.aclweb.org/anthology/H05-2000
+  year: '2005'
+H05-2001:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Graham
+    full: Graham Russell
+    id: graham-russell
+    last: Russell
+  - first: George
+    full: George Foster
+    id: george-foster
+    last: Foster
+  - first: Ngoc Tran
+    full: Ngoc Tran Nguyen
+    id: ngoc-tran-nguyen
+    last: Nguyen
+  author_string: Graham Russell, George Foster, Ngoc Tran Nguyen
+  bibkey: russell-etal-2005-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  pages: '1'
+  paper_id: '1'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2001.jpg
+  title: 'Automatic Detection of Translation Errors: The State of the Art'
+  title_html: 'Automatic Detection of Translation Errors: The State of the Art'
+  url: https://www.aclweb.org/anthology/H05-2001
+  year: '2005'
+H05-2002:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Thomas
+    full: Thomas Hoeft
+    id: thomas-hoeft
+    last: Hoeft
+  - first: Nick
+    full: Nick Cramer
+    id: nick-cramer
+    last: Cramer
+  - first: M. L.
+    full: M. L. Gregory
+    id: michelle-gregory
+    last: Gregory
+  - first: Elizabeth
+    full: Elizabeth Hetzler
+    id: elizabeth-hetzler
+    last: Hetzler
+  author_string: Thomas Hoeft, Nick Cramer, M. L. Gregory, Elizabeth Hetzler
+  bibkey: hoeft-etal-2005-bridging
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '2'
+  page_last: '3'
+  pages: "2\u20133"
+  paper_id: '2'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2002.jpg
+  title: 'Bridging the Gap between Technology and Users: Leveraging Machine'
+  title_html: 'Bridging the Gap between Technology and Users: Leveraging Machine'
+  url: https://www.aclweb.org/anthology/H05-2002
+  year: '2005'
+H05-2003:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Liang
+    full: Liang Zhou
+    id: liang-zhou
+    last: Zhou
+  - first: Erin
+    full: Erin Shaw
+    id: erin-shaw
+    last: Shaw
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  - first: Eduard
+    full: Eduard Hovy
+    id: eduard-hovy
+    last: Hovy
+  author_string: Liang Zhou, Erin Shaw, Chin-Yew Lin, Eduard Hovy
+  bibkey: zhou-etal-2005-classummary
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '4'
+  page_last: '5'
+  pages: "4\u20135"
+  paper_id: '3'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2003.jpg
+  title: 'Classummary: Introducing Discussion Summarization to Online Classrooms'
+  title_html: '<span class="acl-fixed-case">C</span>lassummary: Introducing Discussion
+    Summarization to Online Classrooms'
+  url: https://www.aclweb.org/anthology/H05-2003
+  year: '2005'
+H05-2004:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Vasin
+    full: Vasin Punyakanok
+    id: vasin-punyakanok
+    last: Punyakanok
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  - first: Mark
+    full: Mark Sammons
+    id: mark-sammons
+    last: Sammons
+  - first: Wen-tau
+    full: Wen-tau Yih
+    id: wen-tau-yih
+    last: Yih
+  author_string: Vasin Punyakanok, Dan Roth, Mark Sammons, Wen-tau Yih
+  bibkey: punyakanok-etal-2005-demonstrating
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '6'
+  page_last: '7'
+  pages: "6\u20137"
+  paper_id: '4'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2004.jpg
+  title: Demonstrating an Interactive Semantic Role Labeling System
+  title_html: Demonstrating an Interactive Semantic Role Labeling System
+  url: https://www.aclweb.org/anthology/H05-2004
+  year: '2005'
+H05-2005:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Lucy
+    full: Lucy Vanderwende
+    id: lucy-vanderwende
+    last: Vanderwende
+  - first: Gary
+    full: Gary Kacmarcik
+    id: gary-kacmarcik
+    last: Kacmarcik
+  - first: Hisami
+    full: Hisami Suzuki
+    id: hisami-suzuki
+    last: Suzuki
+  - first: Arul
+    full: Arul Menezes
+    id: arul-menezes
+    last: Menezes
+  author_string: Lucy Vanderwende, Gary Kacmarcik, Hisami Suzuki, Arul Menezes
+  bibkey: vanderwende-etal-2005-mindnet
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '8'
+  page_last: '9'
+  pages: "8\u20139"
+  paper_id: '5'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2005.jpg
+  title: 'MindNet: An Automatically-Created Lexical Resource'
+  title_html: '<span class="acl-fixed-case">M</span>ind<span class="acl-fixed-case">N</span>et:
+    An Automatically-Created Lexical Resource'
+  url: https://www.aclweb.org/anthology/H05-2005
+  year: '2005'
+H05-2006:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Max
+    full: Max Silberztein
+    id: max-silberztein
+    last: Silberztein
+  author_string: Max Silberztein
+  bibkey: silberztein-2005-nooj
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '10'
+  page_last: '11'
+  pages: "10\u201311"
+  paper_id: '6'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2006.jpg
+  title: 'NooJ: a Linguistic Annotation System for Corpus Processing'
+  title_html: 'Noo<span class="acl-fixed-case">J</span>: a Linguistic Annotation System
+    for Corpus Processing'
+  url: https://www.aclweb.org/anthology/H05-2006
+  year: '2005'
+H05-2007:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Adam
+    full: Adam Lopez
+    id: adam-lopez
+    last: Lopez
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: Adam Lopez, Philip Resnik
+  bibkey: lopez-resnik-2005-pattern
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '12'
+  page_last: '13'
+  pages: "12\u201313"
+  paper_id: '7'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2007.jpg
+  title: Pattern Visualization for Machine Translation Output
+  title_html: Pattern Visualization for Machine Translation Output
+  url: https://www.aclweb.org/anthology/H05-2007
+  year: '2005'
+H05-2008:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Barbora
+    full: "Barbora Hladk\xE1"
+    id: barbora-hladka
+    last: "Hladk\xE1"
+  - first: "Ond\u0159ej"
+    full: "Ond\u0159ej Ku\u010Dera"
+    id: ondrej-kucera
+    last: "Ku\u010Dera"
+  author_string: "Barbora Hladk\xE1, Ond\u0159ej Ku\u010Dera"
+  bibkey: hladka-kucera-2005-prague
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '14'
+  page_last: '15'
+  pages: "14\u201315"
+  paper_id: '8'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2008.jpg
+  title: Prague Dependency Treebank as an Exercise Book of Czech
+  title_html: <span class="acl-fixed-case">P</span>rague Dependency Treebank as an
+    Exercise Book of <span class="acl-fixed-case">C</span>zech
+  url: https://www.aclweb.org/anthology/H05-2008
+  year: '2005'
+H05-2009:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Jill
+    full: Jill Burstein
+    id: jill-burstein
+    last: Burstein
+  - first: Daniel
+    full: Daniel Marcu
+    id: daniel-marcu
+    last: Marcu
+  author_string: Jill Burstein, Daniel Marcu
+  bibkey: burstein-marcu-2005-translation
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '16'
+  page_last: '17'
+  pages: "16\u201317"
+  paper_id: '9'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2009.jpg
+  title: 'Translation Exercise Assistant: Automated Generation of Translation'
+  title_html: 'Translation Exercise Assistant: Automated Generation of Translation'
+  url: https://www.aclweb.org/anthology/H05-2009
+  year: '2005'
+H05-2010:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ayako
+    full: Ayako Hoshino
+    id: ayako-hoshino
+    last: Hoshino
+  - first: Hiroshi
+    full: Hiroshi Nakagawa
+    id: hiroshi-nakagawa
+    last: Nakagawa
+  author_string: Ayako Hoshino, Hiroshi Nakagawa
+  bibkey: hoshino-nakagawa-2005-webexperimenter
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '18'
+  page_last: '19'
+  pages: "18\u201319"
+  paper_id: '10'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2010.jpg
+  title: WebExperimenter for Multiple-Choice Question Generation
+  title_html: <span class="acl-fixed-case">W</span>eb<span class="acl-fixed-case">E</span>xperimenter
+    for Multiple-Choice Question Generation
+  url: https://www.aclweb.org/anthology/H05-2010
+  year: '2005'
+H05-2011:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fan
+    full: Fan Yang
+    id: fan-yang
+    last: Yang
+  - first: Peter A.
+    full: Peter A. Heeman
+    id: peter-a-heeman
+    last: Heeman
+  author_string: Fan Yang, Peter A. Heeman
+  bibkey: yang-heeman-2005-dialogueview
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '20'
+  page_last: '21'
+  pages: "20\u201321"
+  paper_id: '11'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2011.jpg
+  title: 'DialogueView: an Annotation Tool for Dialogue'
+  title_html: '<span class="acl-fixed-case">D</span>ialogue<span class="acl-fixed-case">V</span>iew:
+    an Annotation Tool for Dialogue'
+  url: https://www.aclweb.org/anthology/H05-2011
+  year: '2005'
+H05-2012:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Roman
+    full: Roman Yangarber
+    id: roman-yangarber
+    last: Yangarber
+  - first: Lauri
+    full: Lauri Jokipii
+    id: lauri-jokipii
+    last: Jokipii
+  - first: Antti
+    full: Antti Rauramo
+    id: antti-rauramo
+    last: Rauramo
+  - first: Silja
+    full: Silja Huttunen
+    id: silja-huttunen
+    last: Huttunen
+  author_string: Roman Yangarber, Lauri Jokipii, Antti Rauramo, Silja Huttunen
+  bibkey: yangarber-etal-2005-extracting
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '22'
+  page_last: '23'
+  pages: "22\u201323"
+  paper_id: '12'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2012.jpg
+  title: Extracting Information about Outbreaks of Infectious Epidemics
+  title_html: Extracting Information about Outbreaks of Infectious Epidemics
+  url: https://www.aclweb.org/anthology/H05-2012
+  year: '2005'
+H05-2013:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Fuliang
+    full: Fuliang Weng
+    id: fuliang-weng
+    last: Weng
+  - first: Lawrence
+    full: Lawrence Cavedon
+    id: lawrence-cavedon
+    last: Cavedon
+  - first: Badri
+    full: Badri Raghunathan
+    id: badri-raghunathan
+    last: Raghunathan
+  - first: Danilo
+    full: Danilo Mirkovic
+    id: danilo-mirkovic
+    last: Mirkovic
+  - first: Ben
+    full: Ben Bei
+    id: ben-bei
+    last: Bei
+  - first: Heather
+    full: Heather Pon-Barry
+    id: heather-pon-barry
+    last: Pon-Barry
+  - first: Harry
+    full: Harry Bratt
+    id: harry-bratt
+    last: Bratt
+  - first: Hua
+    full: Hua Cheng
+    id: hua-cheng
+    last: Cheng
+  - first: Hauke
+    full: Hauke Schmidt
+    id: hauke-schmidt
+    last: Schmidt
+  - first: Rohit
+    full: Rohit Mishra
+    id: rohit-mishra
+    last: Mishra
+  - first: Brian
+    full: Brian Lathrop
+    id: brian-lathrop
+    last: Lathrop
+  - first: Qi
+    full: Qi Zhang
+    id: qi-zhang
+    last: Zhang
+  - first: Tobias
+    full: Tobias Scheideck
+    id: tobias-scheideck
+    last: Scheideck
+  - first: Kui
+    full: Kui Xu
+    id: kui-xu
+    last: Xu
+  - first: Tess
+    full: Tess Hand-Bender
+    id: tess-hand-bender
+    last: Hand-Bender
+  - first: Stanley
+    full: Stanley Peters
+    id: stanley-peters
+    last: Peters
+  - first: Liz
+    full: Liz Shriberg
+    id: liz-shriberg
+    last: Shriberg
+  - first: Carsten
+    full: Carsten Bergmann
+    id: carsten-bergmann
+    last: Bergmann
+  author_string: Fuliang Weng, Lawrence Cavedon, Badri Raghunathan, Danilo Mirkovic,
+    Ben Bei, Heather Pon-Barry, Harry Bratt, Hua Cheng, Hauke Schmidt, Rohit Mishra,
+    Brian Lathrop, Qi Zhang, Tobias Scheideck, Kui Xu, Tess Hand-Bender, Stanley Peters,
+    Liz Shriberg, Carsten Bergmann
+  bibkey: weng-etal-2005-flexible
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '24'
+  page_last: '25'
+  pages: "24\u201325"
+  paper_id: '13'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2013.jpg
+  title: A Flexible Conversational Dialog System for MP3 Player
+  title_html: A Flexible Conversational Dialog System for <span class="acl-fixed-case">MP</span>3
+    Player
+  url: https://www.aclweb.org/anthology/H05-2013
+  year: '2005'
+H05-2014:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Manny
+    full: Manny Rayner
+    id: manny-rayner
+    last: Rayner
+  - first: Nikos
+    full: Nikos Chatzichrisafis
+    id: nikos-chatzichrisafis
+    last: Chatzichrisafis
+  - first: Pierrette
+    full: Pierrette Bouillon
+    id: pierrette-bouillon
+    last: Bouillon
+  - first: Yukie
+    full: Yukie Nakao
+    id: yukie-nakao
+    last: Nakao
+  - first: Hitoshi
+    full: Hitoshi Isahara
+    id: hitoshi-isahara
+    last: Isahara
+  - first: Kyoko
+    full: Kyoko Kanzaki
+    id: kyoko-kanzaki
+    last: Kanzaki
+  - first: Beth Ann
+    full: Beth Ann Hockey
+    id: beth-ann-hockey
+    last: Hockey
+  - first: Marianne
+    full: Marianne Santaholma
+    id: marianne-santaholma
+    last: Santaholma
+  - first: Marianne
+    full: Marianne Starlander
+    id: marianne-starlander
+    last: Starlander
+  author_string: Manny Rayner, Nikos Chatzichrisafis, Pierrette Bouillon, Yukie Nakao,
+    Hitoshi Isahara, Kyoko Kanzaki, Beth Ann Hockey, Marianne Santaholma, Marianne
+    Starlander
+  bibkey: rayner-etal-2005-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '26'
+  page_last: '27'
+  pages: "26\u201327"
+  paper_id: '14'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2014.jpg
+  title: Japanese Speech Understanding using Grammar Specialization
+  title_html: <span class="acl-fixed-case">J</span>apanese Speech Understanding using
+    Grammar Specialization
+  url: https://www.aclweb.org/anthology/H05-2014
+  year: '2005'
+H05-2015:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: James R.
+    full: James R. Glass
+    id: james-glass
+    last: Glass
+  - first: Timothy J.
+    full: Timothy J. Hazen
+    id: timothy-j-hazen
+    last: Hazen
+  - first: D. Scott
+    full: D. Scott Cyphers
+    id: scott-cyphers
+    last: Cyphers
+  - first: Ken
+    full: Ken Schutte
+    id: ken-schutte
+    last: Schutte
+  - first: Alex
+    full: Alex Park
+    id: alex-park
+    last: Park
+  author_string: James R. Glass, Timothy J. Hazen, D. Scott Cyphers, Ken Schutte,
+    Alex Park
+  bibkey: glass-etal-2005-mit
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '28'
+  page_last: '29'
+  pages: "28\u201329"
+  paper_id: '15'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2015.jpg
+  title: The MIT Spoken Lecture Processing Project
+  title_html: The <span class="acl-fixed-case">M</span><span class="acl-fixed-case">I</span><span
+    class="acl-fixed-case">T</span> Spoken Lecture Processing Project
+  url: https://www.aclweb.org/anthology/H05-2015
+  year: '2005'
+H05-2016:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Arman
+    full: Arman Tajarobi
+    id: arman-tajarobi
+    last: Tajarobi
+  - first: "Jean-Fran\xE7ois"
+    full: "Jean-Fran\xE7ois Garneau"
+    id: jean-francois-garneau
+    last: Garneau
+  - first: "Fran\xE7ois"
+    full: "Fran\xE7ois Paradis"
+    id: francois-paradis
+    last: Paradis
+  author_string: "Arman Tajarobi, Jean-Fran\xE7ois Garneau, Fran\xE7ois Paradis"
+  bibkey: tajarobi-etal-2005-mboi
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '30'
+  page_last: '31'
+  pages: "30\u201331"
+  paper_id: '16'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2016.jpg
+  title: 'MBOI: Discovery of Business Opportunities on the Internet'
+  title_html: '<span class="acl-fixed-case">M</span><span class="acl-fixed-case">B</span><span
+    class="acl-fixed-case">O</span><span class="acl-fixed-case">I</span>: Discovery
+    of Business Opportunities on the <span class="acl-fixed-case">I</span>nternet'
+  url: https://www.aclweb.org/anthology/H05-2016
+  year: '2005'
+H05-2017:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Ana-Maria
+    full: Ana-Maria Popescu
+    id: ana-maria-popescu
+    last: Popescu
+  - first: Bao
+    full: Bao Nguyen
+    id: bao-nguyen
+    last: Nguyen
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Ana-Maria Popescu, Bao Nguyen, Oren Etzioni
+  bibkey: popescu-etal-2005-opine
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '32'
+  page_last: '33'
+  pages: "32\u201333"
+  paper_id: '17'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2017.jpg
+  title: 'OPINE: Extracting Product Features and Opinions from Reviews'
+  title_html: '<span class="acl-fixed-case">O</span><span class="acl-fixed-case">P</span><span
+    class="acl-fixed-case">I</span><span class="acl-fixed-case">N</span><span class="acl-fixed-case">E</span>:
+    Extracting Product Features and Opinions from Reviews'
+  url: https://www.aclweb.org/anthology/H05-2017
+  year: '2005'
+H05-2018:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Theresa
+    full: Theresa Wilson
+    id: theresa-wilson
+    last: Wilson
+  - first: Paul
+    full: Paul Hoffmann
+    id: paul-hoffmann
+    last: Hoffmann
+  - first: Swapna
+    full: Swapna Somasundaran
+    id: swapna-somasundaran
+    last: Somasundaran
+  - first: Jason
+    full: Jason Kessler
+    id: jason-kessler
+    last: Kessler
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  - first: Ellen
+    full: Ellen Riloff
+    id: ellen-riloff
+    last: Riloff
+  - first: Siddharth
+    full: Siddharth Patwardhan
+    id: siddharth-patwardhan
+    last: Patwardhan
+  author_string: Theresa Wilson, Paul Hoffmann, Swapna Somasundaran, Jason Kessler,
+    Janyce Wiebe, Yejin Choi, Claire Cardie, Ellen Riloff, Siddharth Patwardhan
+  bibkey: wilson-etal-2005-opinionfinder
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '34'
+  page_last: '35'
+  pages: "34\u201335"
+  paper_id: '18'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2018.jpg
+  title: 'OpinionFinder: A System for Subjectivity Analysis'
+  title_html: '<span class="acl-fixed-case">O</span>pinion<span class="acl-fixed-case">F</span>inder:
+    A System for Subjectivity Analysis'
+  url: https://www.aclweb.org/anthology/H05-2018
+  year: '2005'
+H05-2019:
+  address: Vancouver, British Columbia, Canada
+  author:
+  - first: Kyungduk
+    full: Kyungduk Kim
+    id: kyungduk-kim
+    last: Kim
+  - first: Yu
+    full: Yu Song
+    id: yu-song
+    last: Song
+  - first: Gary Geunbae
+    full: Gary Geunbae Lee
+    id: gary-geunbae-lee
+    last: Lee
+  author_string: Kyungduk Kim, Yu Song, Gary Geunbae Lee
+  bibkey: kim-etal-2005-posbiotm
+  bibtype: inproceedings
+  booktitle: Proceedings of HLT/EMNLP 2005 Interactive Demonstrations
+  booktitle_html: Proceedings of <span class="acl-fixed-case">HLT</span>/<span class="acl-fixed-case">EMNLP</span>
+    2005 Interactive Demonstrations
+  month: October
+  page_first: '36'
+  page_last: '37'
+  pages: "36\u201337"
+  paper_id: '19'
+  parent_volume_id: H05-2
+  pdf: https://www.aclweb.org/anthology/H05-2019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/H05-2019.jpg
+  title: 'POSBIOTM/W: A Development Workbench for Machine Learning Oriented Biomedical
+    Text Mining System'
+  title_html: '<span class="acl-fixed-case">P</span><span class="acl-fixed-case">O</span><span
+    class="acl-fixed-case">S</span><span class="acl-fixed-case">B</span><span class="acl-fixed-case">I</span><span
+    class="acl-fixed-case">O</span><span class="acl-fixed-case">T</span><span class="acl-fixed-case">M</span>/<span
+    class="acl-fixed-case">W</span>: A Development Workbench for Machine Learning
+    Oriented Biomedical Text Mining System'
+  url: https://www.aclweb.org/anthology/H05-2019
+  year: '2005'

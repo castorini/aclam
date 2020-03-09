@@ -1,0 +1,3956 @@
+D08-1000:
+  address: Honolulu, Hawaii
+  author:
+  - first: Mirella
+    full: Mirella Lapata
+    id: mirella-lapata
+    last: Lapata
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: Mirella Lapata, Hwee Tou Ng
+  bibkey: emnlp-2008-2008
+  bibtype: proceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  month: October
+  paper_id: '0'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1000.jpg
+  title: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  title_html: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  url: https://www.aclweb.org/anthology/D08-1000
+  year: '2008'
+D08-1001:
+  address: Honolulu, Hawaii
+  author:
+  - first: Jeremy
+    full: Jeremy Jancsary
+    id: jeremy-jancsary
+    last: Jancsary
+  - first: Johannes
+    full: Johannes Matiasek
+    id: johannes-matiasek
+    last: Matiasek
+  - first: Harald
+    full: Harald Trost
+    id: harald-trost
+    last: Trost
+  author_string: Jeremy Jancsary, Johannes Matiasek, Harald Trost
+  bibkey: jancsary-etal-2008-revealing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1'
+  page_last: '10'
+  pages: "1\u201310"
+  paper_id: '1'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1001.jpg
+  title: Revealing the Structure of Medical Dictations with Conditional Random Fields
+  title_html: Revealing the Structure of Medical Dictations with Conditional Random
+    Fields
+  url: https://www.aclweb.org/anthology/D08-1001
+  year: '2008'
+D08-1002:
+  address: Honolulu, Hawaii
+  author:
+  - first: Alan
+    full: Alan Ritter
+    id: alan-ritter
+    last: Ritter
+  - first: Stephen
+    full: Stephen Soderland
+    id: stephen-soderland
+    last: Soderland
+  - first: Doug
+    full: Doug Downey
+    id: doug-downey
+    last: Downey
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  author_string: Alan Ritter, Stephen Soderland, Doug Downey, Oren Etzioni
+  bibkey: ritter-etal-2008-contradiction
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '11'
+  page_last: '20'
+  pages: "11\u201320"
+  paper_id: '2'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1002.jpg
+  title: "It\u2019s a Contradiction \u2013 no, it\u2019s not: A Case Study using Functional\
+    \ Relations"
+  title_html: "It\u2019s a Contradiction \u2013 no, it\u2019s not: <span class=\"\
+    acl-fixed-case\">A</span> Case Study using Functional Relations"
+  url: https://www.aclweb.org/anthology/D08-1002
+  year: '2008'
+D08-1003:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yunyao
+    full: Yunyao Li
+    id: yunyao-li
+    last: Li
+  - first: Rajasekar
+    full: Rajasekar Krishnamurthy
+    id: rajasekar-krishnamurthy
+    last: Krishnamurthy
+  - first: Sriram
+    full: Sriram Raghavan
+    id: sriram-raghavan
+    last: Raghavan
+  - first: Shivakumar
+    full: Shivakumar Vaithyanathan
+    id: shivakumar-vaithyanathan
+    last: Vaithyanathan
+  - first: H. V.
+    full: H. V. Jagadish
+    id: h-v-jagadish
+    last: Jagadish
+  author_string: Yunyao Li, Rajasekar Krishnamurthy, Sriram Raghavan, Shivakumar Vaithyanathan,
+    H. V. Jagadish
+  bibkey: li-etal-2008-regular
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '21'
+  page_last: '30'
+  pages: "21\u201330"
+  paper_id: '3'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1003.jpg
+  title: Regular Expression Learning for Information Extraction
+  title_html: Regular Expression Learning for Information Extraction
+  url: https://www.aclweb.org/anthology/D08-1003
+  year: '2008'
+D08-1004:
+  address: Honolulu, Hawaii
+  author:
+  - first: Omar
+    full: Omar Zaidan
+    id: omar-zaidan
+    last: Zaidan
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Omar Zaidan, Jason Eisner
+  bibkey: zaidan-eisner-2008-modeling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '31'
+  page_last: '40'
+  pages: "31\u201340"
+  paper_id: '4'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1004.jpg
+  title: 'Modeling Annotators: A Generative Approach to Learning from Annotator Rationales'
+  title_html: 'Modeling Annotators: <span class="acl-fixed-case">A</span> Generative
+    Approach to Learning from Annotator Rationales'
+  url: https://www.aclweb.org/anthology/D08-1004
+  year: '2008'
+D08-1005:
+  address: Honolulu, Hawaii
+  author:
+  - first: Ron
+    full: Ron Bekkerman
+    id: ron-bekkerman
+    last: Bekkerman
+  - first: Koby
+    full: Koby Crammer
+    id: koby-crammer
+    last: Crammer
+  author_string: Ron Bekkerman, Koby Crammer
+  bibkey: bekkerman-crammer-2008-one
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '41'
+  page_last: '50'
+  pages: "41\u201350"
+  paper_id: '5'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1005.jpg
+  title: One-Class Clustering in the Text Domain
+  title_html: One-Class Clustering in the Text Domain
+  url: https://www.aclweb.org/anthology/D08-1005
+  year: '2008'
+D08-1006:
+  address: Honolulu, Hawaii
+  author:
+  - first: Ben
+    full: Ben Sandbank
+    id: ben-sandbank
+    last: Sandbank
+  author_string: Ben Sandbank
+  bibkey: sandbank-2008-refining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '51'
+  page_last: '58'
+  pages: "51\u201358"
+  paper_id: '6'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1006.jpg
+  title: Refining Generative Language Models using Discriminative Learning
+  title_html: Refining Generative Language Models using Discriminative Learning
+  url: https://www.aclweb.org/anthology/D08-1006
+  year: '2008'
+D08-1007:
+  address: Honolulu, Hawaii
+  author:
+  - first: Shane
+    full: Shane Bergsma
+    id: shane-bergsma
+    last: Bergsma
+  - first: Dekang
+    full: Dekang Lin
+    id: dekang-lin
+    last: Lin
+  - first: Randy
+    full: Randy Goebel
+    id: randy-goebel
+    last: Goebel
+  author_string: Shane Bergsma, Dekang Lin, Randy Goebel
+  bibkey: bergsma-etal-2008-discriminative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '59'
+  page_last: '68'
+  pages: "59\u201368"
+  paper_id: '7'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1007.jpg
+  title: Discriminative Learning of Selectional Preference from Unlabeled Text
+  title_html: Discriminative Learning of Selectional Preference from Unlabeled Text
+  url: https://www.aclweb.org/anthology/D08-1007
+  year: '2008'
+D08-1008:
+  address: Honolulu, Hawaii
+  author:
+  - first: Richard
+    full: Richard Johansson
+    id: richard-johansson
+    last: Johansson
+  - first: Pierre
+    full: Pierre Nugues
+    id: pierre-nugues
+    last: Nugues
+  author_string: Richard Johansson, Pierre Nugues
+  bibkey: johansson-nugues-2008-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '69'
+  page_last: '78'
+  pages: "69\u201378"
+  paper_id: '8'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1008.jpg
+  title: Dependency-based Semantic Role Labeling of PropBank
+  title_html: Dependency-based Semantic Role Labeling of <span class="acl-fixed-case">P</span>rop<span
+    class="acl-fixed-case">B</span>ank
+  url: https://www.aclweb.org/anthology/D08-1008
+  year: '2008'
+D08-1009:
+  address: Honolulu, Hawaii
+  author:
+  - first: Stefan
+    full: Stefan Schoenmackers
+    id: stefan-schoenmackers
+    last: Schoenmackers
+  - first: Oren
+    full: Oren Etzioni
+    id: oren-etzioni
+    last: Etzioni
+  - first: Daniel
+    full: Daniel Weld
+    id: daniel-s-weld
+    last: Weld
+  author_string: Stefan Schoenmackers, Oren Etzioni, Daniel Weld
+  bibkey: schoenmackers-etal-2008-scaling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '79'
+  page_last: '88'
+  pages: "79\u201388"
+  paper_id: '9'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1009.jpg
+  title: Scaling Textual Inference to the Web
+  title_html: Scaling Textual Inference to the Web
+  url: https://www.aclweb.org/anthology/D08-1009
+  year: '2008'
+D08-1010:
+  address: Honolulu, Hawaii
+  author:
+  - first: Qun
+    full: Qun Liu
+    id: qun-liu
+    last: Liu
+  - first: Zhongjun
+    full: Zhongjun He
+    id: zhongjun-he
+    last: He
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-ict
+    last: Liu
+  - first: Shouxun
+    full: Shouxun Lin
+    id: shouxun-lin
+    last: Lin
+  author_string: Qun Liu, Zhongjun He, Yang Liu, Shouxun Lin
+  bibkey: liu-etal-2008-maximum
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '89'
+  page_last: '97'
+  pages: "89\u201397"
+  paper_id: '10'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1010.jpg
+  title: Maximum Entropy based Rule Selection Model for Syntax-based Statistical Machine
+    Translation
+  title_html: Maximum Entropy based Rule Selection Model for Syntax-based Statistical
+    Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1010
+  year: '2008'
+D08-1011:
+  address: Honolulu, Hawaii
+  author:
+  - first: Xiaodong
+    full: Xiaodong He
+    id: xiaodong-he
+    last: He
+  - first: Mei
+    full: Mei Yang
+    id: mei-yang
+    last: Yang
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Patrick
+    full: Patrick Nguyen
+    id: patrick-nguyen
+    last: Nguyen
+  - first: Robert
+    full: Robert Moore
+    id: robert-c-moore
+    last: Moore
+  author_string: Xiaodong He, Mei Yang, Jianfeng Gao, Patrick Nguyen, Robert Moore
+  bibkey: he-etal-2008-indirect
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '98'
+  page_last: '107'
+  pages: "98\u2013107"
+  paper_id: '11'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1011.jpg
+  title: Indirect-HMM-based Hypothesis Alignment for Combining Outputs from Machine
+    Translation Systems
+  title_html: Indirect-<span class="acl-fixed-case">HMM</span>-based Hypothesis Alignment
+    for Combining Outputs from Machine Translation Systems
+  url: https://www.aclweb.org/anthology/D08-1011
+  year: '2008'
+D08-1012:
+  address: Honolulu, Hawaii
+  author:
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Aria
+    full: Aria Haghighi
+    id: aria-haghighi
+    last: Haghighi
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Slav Petrov, Aria Haghighi, Dan Klein
+  bibkey: petrov-etal-2008-coarse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '108'
+  page_last: '116'
+  pages: "108\u2013116"
+  paper_id: '12'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1012.jpg
+  title: Coarse-to-Fine Syntactic Machine Translation using Language Projections
+  title_html: Coarse-to-Fine Syntactic Machine Translation using Language Projections
+  url: https://www.aclweb.org/anthology/D08-1012
+  year: '2008'
+D08-1013:
+  address: Honolulu, Hawaii
+  author:
+  - first: Jun
+    full: Jun Zhao
+    id: jun-zhao
+    last: Zhao
+  - first: Kang
+    full: Kang Liu
+    id: kang-liu
+    last: Liu
+  - first: Gen
+    full: Gen Wang
+    id: gen-wang
+    last: Wang
+  author_string: Jun Zhao, Kang Liu, Gen Wang
+  bibkey: zhao-etal-2008-adding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '117'
+  page_last: '126'
+  pages: "117\u2013126"
+  paper_id: '13'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1013.jpg
+  title: Adding Redundant Features for CRFs-based Sentence Sentiment Classification
+  title_html: Adding Redundant Features for <span class="acl-fixed-case">CRF</span>s-based
+    Sentence Sentiment Classification
+  url: https://www.aclweb.org/anthology/D08-1013
+  year: '2008'
+D08-1014:
+  address: Honolulu, Hawaii
+  author:
+  - first: Carmen
+    full: Carmen Banea
+    id: carmen-banea
+    last: Banea
+  - first: Rada
+    full: Rada Mihalcea
+    id: rada-mihalcea
+    last: Mihalcea
+  - first: Janyce
+    full: Janyce Wiebe
+    id: janyce-wiebe
+    last: Wiebe
+  - first: Samer
+    full: Samer Hassan
+    id: samer-hassan
+    last: Hassan
+  author_string: Carmen Banea, Rada Mihalcea, Janyce Wiebe, Samer Hassan
+  bibkey: banea-etal-2008-multilingual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '127'
+  page_last: '135'
+  pages: "127\u2013135"
+  paper_id: '14'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1014.jpg
+  title: Multilingual Subjectivity Analysis Using Machine Translation
+  title_html: Multilingual Subjectivity Analysis Using Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1014
+  year: '2008'
+D08-1015:
+  address: Honolulu, Hawaii
+  author:
+  - first: Kevin Hsin-Yih
+    full: Kevin Hsin-Yih Lin
+    id: kevin-hsin-yih-lin
+    last: Lin
+  - first: Hsin-Hsi
+    full: Hsin-Hsi Chen
+    id: hsin-hsi-chen
+    last: Chen
+  author_string: Kevin Hsin-Yih Lin, Hsin-Hsi Chen
+  bibkey: lin-chen-2008-ranking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '136'
+  page_last: '144'
+  pages: "136\u2013144"
+  paper_id: '15'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1015.jpg
+  title: Ranking Reader Emotions Using Pairwise Loss Minimization and Emotional Distribution
+    Regression
+  title_html: Ranking Reader Emotions Using Pairwise Loss Minimization and Emotional
+    Distribution Regression
+  url: https://www.aclweb.org/anthology/D08-1015
+  year: '2008'
+D08-1016:
+  address: Honolulu, Hawaii
+  author:
+  - first: David
+    full: David Smith
+    id: david-a-smith
+    last: Smith
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: David Smith, Jason Eisner
+  bibkey: smith-eisner-2008-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '145'
+  page_last: '156'
+  pages: "145\u2013156"
+  paper_id: '16'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1016.jpg
+  title: Dependency Parsing by Belief Propagation
+  title_html: Dependency Parsing by Belief Propagation
+  url: https://www.aclweb.org/anthology/D08-1016
+  year: '2008'
+D08-1017:
+  address: Honolulu, Hawaii
+  author:
+  - first: "Andr\xE9 Filipe"
+    full: "Andr\xE9 Filipe Torres Martins"
+    id: andre-filipe-torres-martins
+    last: Torres Martins
+  - first: Dipanjan
+    full: Dipanjan Das
+    id: dipanjan-das
+    last: Das
+  - first: Noah A.
+    full: Noah A. Smith
+    id: noah-a-smith
+    last: Smith
+  - first: Eric P.
+    full: Eric P. Xing
+    id: eric-xing
+    last: Xing
+  author_string: "Andr\xE9 Filipe Torres Martins, Dipanjan Das, Noah A. Smith, Eric\
+    \ P. Xing"
+  bibkey: torres-martins-etal-2008-stacking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '157'
+  page_last: '166'
+  pages: "157\u2013166"
+  paper_id: '17'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1017.jpg
+  title: Stacking Dependency Parsers
+  title_html: Stacking Dependency Parsers
+  url: https://www.aclweb.org/anthology/D08-1017
+  year: '2008'
+D08-1018:
+  address: Honolulu, Hawaii
+  author:
+  - first: Xinying
+    full: Xinying Song
+    id: xinying-song
+    last: Song
+  - first: Shilin
+    full: Shilin Ding
+    id: shilin-ding
+    last: Ding
+  - first: Chin-Yew
+    full: Chin-Yew Lin
+    id: chin-yew-lin
+    last: Lin
+  author_string: Xinying Song, Shilin Ding, Chin-Yew Lin
+  bibkey: song-etal-2008-better
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '167'
+  page_last: '176'
+  pages: "167\u2013176"
+  paper_id: '18'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1018.jpg
+  title: Better Binarization for the CKY Parsing
+  title_html: Better Binarization for the <span class="acl-fixed-case">CKY</span>
+    Parsing
+  url: https://www.aclweb.org/anthology/D08-1018
+  year: '2008'
+D08-1019:
+  address: Honolulu, Hawaii
+  author:
+  - first: Katja
+    full: Katja Filippova
+    id: katja-filippova
+    last: Filippova
+  - first: Michael
+    full: Michael Strube
+    id: michael-strube
+    last: Strube
+  author_string: Katja Filippova, Michael Strube
+  bibkey: filippova-strube-2008-sentence
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '177'
+  page_last: '185'
+  pages: "177\u2013185"
+  paper_id: '19'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1019.jpg
+  title: Sentence Fusion via Dependency Graph Compression
+  title_html: Sentence Fusion via Dependency Graph Compression
+  url: https://www.aclweb.org/anthology/D08-1019
+  year: '2008'
+D08-1020:
+  address: Honolulu, Hawaii
+  author:
+  - first: Emily
+    full: Emily Pitler
+    id: emily-pitler
+    last: Pitler
+  - first: Ani
+    full: Ani Nenkova
+    id: ani-nenkova
+    last: Nenkova
+  author_string: Emily Pitler, Ani Nenkova
+  bibkey: pitler-nenkova-2008-revisiting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '186'
+  page_last: '195'
+  pages: "186\u2013195"
+  paper_id: '20'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1020.jpg
+  title: 'Revisiting Readability: A Unified Framework for Predicting Text Quality'
+  title_html: 'Revisiting Readability: <span class="acl-fixed-case">A</span> Unified
+    Framework for Predicting Text Quality'
+  url: https://www.aclweb.org/anthology/D08-1020
+  year: '2008'
+D08-1021:
+  address: Honolulu, Hawaii
+  author:
+  - first: Chris
+    full: Chris Callison-Burch
+    id: chris-callison-burch
+    last: Callison-Burch
+  author_string: Chris Callison-Burch
+  bibkey: callison-burch-2008-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '196'
+  page_last: '205'
+  pages: "196\u2013205"
+  paper_id: '21'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1021.jpg
+  title: Syntactic Constraints on Paraphrases Extracted from Parallel Corpora
+  title_html: Syntactic Constraints on Paraphrases Extracted from Parallel Corpora
+  url: https://www.aclweb.org/anthology/D08-1021
+  year: '2008'
+D08-1022:
+  address: Honolulu, Hawaii
+  author:
+  - first: Haitao
+    full: Haitao Mi
+    id: haitao-mi
+    last: Mi
+  - first: Liang
+    full: Liang Huang
+    id: liang-huang
+    last: Huang
+  author_string: Haitao Mi, Liang Huang
+  bibkey: mi-huang-2008-forest
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '206'
+  page_last: '214'
+  pages: "206\u2013214"
+  paper_id: '22'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1022.jpg
+  title: Forest-based Translation Rule Extraction
+  title_html: Forest-based Translation Rule Extraction
+  url: https://www.aclweb.org/anthology/D08-1022
+  year: '2008'
+D08-1023:
+  address: Honolulu, Hawaii
+  author:
+  - first: Phil
+    full: Phil Blunsom
+    id: phil-blunsom
+    last: Blunsom
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  author_string: Phil Blunsom, Miles Osborne
+  bibkey: blunsom-osborne-2008-probabilistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '215'
+  page_last: '223'
+  pages: "215\u2013223"
+  paper_id: '23'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1023.jpg
+  title: Probabilistic Inference for Machine Translation
+  title_html: Probabilistic Inference for Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1023
+  year: '2008'
+D08-1024:
+  address: Honolulu, Hawaii
+  author:
+  - first: David
+    full: David Chiang
+    id: david-chiang
+    last: Chiang
+  - first: Yuval
+    full: Yuval Marton
+    id: yuval-marton
+    last: Marton
+  - first: Philip
+    full: Philip Resnik
+    id: philip-resnik
+    last: Resnik
+  author_string: David Chiang, Yuval Marton, Philip Resnik
+  bibkey: chiang-etal-2008-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '224'
+  page_last: '233'
+  pages: "224\u2013233"
+  paper_id: '24'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1024.jpg
+  title: Online Large-Margin Training of Syntactic and Structural Translation Features
+  title_html: Online Large-Margin Training of Syntactic and Structural Translation
+    Features
+  url: https://www.aclweb.org/anthology/D08-1024
+  year: '2008'
+D08-1025:
+  address: Honolulu, Hawaii
+  author:
+  - first: Roger
+    full: Roger Levy
+    id: roger-levy
+    last: Levy
+  author_string: Roger Levy
+  bibkey: levy-2008-noisy
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '234'
+  page_last: '243'
+  pages: "234\u2013243"
+  paper_id: '25'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1025.jpg
+  title: A Noisy-Channel Model of Human Sentence Comprehension under Uncertain Input
+  title_html: A Noisy-Channel Model of Human Sentence Comprehension under Uncertain
+    Input
+  url: https://www.aclweb.org/anthology/D08-1025
+  year: '2008'
+D08-1026:
+  address: Honolulu, Hawaii
+  author:
+  - first: Shaolin
+    full: Shaolin Qu
+    id: shaolin-qu
+    last: Qu
+  - first: Joyce
+    full: Joyce Chai
+    id: joyce-chai
+    last: Chai
+  author_string: Shaolin Qu, Joyce Chai
+  bibkey: qu-chai-2008-incorporating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '244'
+  page_last: '253'
+  pages: "244\u2013253"
+  paper_id: '26'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1026.jpg
+  title: Incorporating Temporal and Semantic Information with Eye Gaze for Automatic
+    Word Acquisition in Multimodal Conversational Systems
+  title_html: Incorporating Temporal and Semantic Information with Eye Gaze for Automatic
+    Word Acquisition in Multimodal Conversational Systems
+  url: https://www.aclweb.org/anthology/D08-1026
+  year: '2008'
+D08-1027:
+  address: Honolulu, Hawaii
+  author:
+  - first: Rion
+    full: Rion Snow
+    id: rion-snow
+    last: Snow
+  - first: Brendan
+    full: "Brendan O\u2019Connor"
+    id: brendan-oconnor
+    last: "O\u2019Connor"
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  - first: Andrew
+    full: Andrew Ng
+    id: andrew-y-ng
+    last: Ng
+  author_string: "Rion Snow, Brendan O\u2019Connor, Daniel Jurafsky, Andrew Ng"
+  bibkey: snow-etal-2008-cheap
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '254'
+  page_last: '263'
+  pages: "254\u2013263"
+  paper_id: '27'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1027.jpg
+  title: "Cheap and Fast \u2013 But is it Good? Evaluating Non-Expert Annotations\
+    \ for Natural Language Tasks"
+  title_html: "Cheap and Fast \u2013 But is it Good? Evaluating Non-Expert Annotations\
+    \ for Natural Language Tasks"
+  url: https://www.aclweb.org/anthology/D08-1027
+  year: '2008'
+D08-1028:
+  address: Honolulu, Hawaii
+  author:
+  - first: Srinivas
+    full: Srinivas Bangalore
+    id: srinivas-bangalore
+    last: Bangalore
+  - first: David
+    full: David Smith
+    id: david-a-smith
+    last: Smith
+  author_string: Srinivas Bangalore, David Smith
+  bibkey: bangalore-smith-2008-hotspots
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '264'
+  page_last: '273'
+  pages: "264\u2013273"
+  paper_id: '28'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1028.jpg
+  title: 'HotSpots: Visualizing Edits to a Text'
+  title_html: '<span class="acl-fixed-case">H</span>ot<span class="acl-fixed-case">S</span>pots:
+    <span class="acl-fixed-case">V</span>isualizing Edits to a Text'
+  url: https://www.aclweb.org/anthology/D08-1028
+  year: '2008'
+D08-1029:
+  address: Honolulu, Hawaii
+  author:
+  - first: Alex
+    full: Alex Baron
+    id: alex-baron
+    last: Baron
+  - first: Marjorie
+    full: Marjorie Freedman
+    id: marjorie-freedman
+    last: Freedman
+  author_string: Alex Baron, Marjorie Freedman
+  bibkey: baron-freedman-2008-experiments
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '274'
+  page_last: '283'
+  pages: "274\u2013283"
+  paper_id: '29'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1029.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1029.jpg
+  title: 'Who is Who and What is What: Experiments in Cross-Document Co-Reference'
+  title_html: '<span class="acl-fixed-case">W</span>ho is <span class="acl-fixed-case">W</span>ho
+    and <span class="acl-fixed-case">W</span>hat is <span class="acl-fixed-case">W</span>hat:
+    <span class="acl-fixed-case">E</span>xperiments in Cross-Document Co-Reference'
+  url: https://www.aclweb.org/anthology/D08-1029
+  year: '2008'
+D08-1030:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yassine
+    full: Yassine Benajiba
+    id: yassine-benajiba
+    last: Benajiba
+  - first: Mona
+    full: Mona Diab
+    id: mona-diab
+    last: Diab
+  - first: Paolo
+    full: Paolo Rosso
+    id: paolo-rosso
+    last: Rosso
+  author_string: Yassine Benajiba, Mona Diab, Paolo Rosso
+  bibkey: benajiba-etal-2008-arabic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '284'
+  page_last: '293'
+  pages: "284\u2013293"
+  paper_id: '30'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1030.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1030.jpg
+  title: Arabic Named Entity Recognition using Optimized Feature Sets
+  title_html: <span class="acl-fixed-case">A</span>rabic Named Entity Recognition
+    using Optimized Feature Sets
+  url: https://www.aclweb.org/anthology/D08-1030
+  year: '2008'
+D08-1031:
+  address: Honolulu, Hawaii
+  author:
+  - first: Eric
+    full: Eric Bengtson
+    id: eric-bengtson
+    last: Bengtson
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Eric Bengtson, Dan Roth
+  bibkey: bengtson-roth-2008-understanding
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '294'
+  page_last: '303'
+  pages: "294\u2013303"
+  paper_id: '31'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1031.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1031.jpg
+  title: Understanding the Value of Features for Coreference Resolution
+  title_html: Understanding the Value of Features for Coreference Resolution
+  url: https://www.aclweb.org/anthology/D08-1031
+  year: '2008'
+D08-1032:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yllias
+    full: Yllias Chali
+    id: yllias-chali
+    last: Chali
+  - first: Shafiq
+    full: Shafiq Joty
+    id: shafiq-joty
+    last: Joty
+  author_string: Yllias Chali, Shafiq Joty
+  bibkey: chali-joty-2008-selecting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '304'
+  page_last: '313'
+  pages: "304\u2013313"
+  paper_id: '32'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1032.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1032.jpg
+  title: Selecting Sentences for Answering Complex Questions
+  title_html: Selecting Sentences for Answering Complex Questions
+  url: https://www.aclweb.org/anthology/D08-1032
+  year: '2008'
+D08-1033:
+  address: Honolulu, Hawaii
+  author:
+  - first: John
+    full: John DeNero
+    id: john-denero
+    last: DeNero
+  - first: Alexandre
+    full: "Alexandre Bouchard-C\xF4t\xE9"
+    id: alexandre-bouchard-cote
+    last: "Bouchard-C\xF4t\xE9"
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: "John DeNero, Alexandre Bouchard-C\xF4t\xE9, Dan Klein"
+  bibkey: denero-etal-2008-sampling
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '314'
+  page_last: '323'
+  pages: "314\u2013323"
+  paper_id: '33'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1033.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1033.jpg
+  title: Sampling Alignment Structure under a Bayesian Translation Model
+  title_html: Sampling Alignment Structure under a <span class="acl-fixed-case">B</span>ayesian
+    Translation Model
+  url: https://www.aclweb.org/anthology/D08-1033
+  year: '2008'
+D08-1034:
+  address: Honolulu, Hawaii
+  author:
+  - first: Weiwei
+    full: Weiwei Ding
+    id: weiwei-ding
+    last: Ding
+  - first: Baobao
+    full: Baobao Chang
+    id: baobao-chang
+    last: Chang
+  author_string: Weiwei Ding, Baobao Chang
+  bibkey: ding-chang-2008-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '324'
+  page_last: '333'
+  pages: "324\u2013333"
+  paper_id: '34'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1034.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1034.jpg
+  title: Improving Chinese Semantic Role Classification with Hierarchical Feature
+    Selection Strategy
+  title_html: Improving <span class="acl-fixed-case">C</span>hinese Semantic Role
+    Classification with Hierarchical Feature Selection Strategy
+  url: https://www.aclweb.org/anthology/D08-1034
+  year: '2008'
+D08-1035:
+  address: Honolulu, Hawaii
+  author:
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  author_string: Jacob Eisenstein, Regina Barzilay
+  bibkey: eisenstein-barzilay-2008-bayesian
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '334'
+  page_last: '343'
+  pages: "334\u2013343"
+  paper_id: '35'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1035.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1035.jpg
+  title: Bayesian Unsupervised Topic Segmentation
+  title_html: <span class="acl-fixed-case">B</span>ayesian Unsupervised Topic Segmentation
+  url: https://www.aclweb.org/anthology/D08-1035
+  year: '2008'
+D08-1036:
+  address: Honolulu, Hawaii
+  author:
+  - first: Jianfeng
+    full: Jianfeng Gao
+    id: jianfeng-gao
+    last: Gao
+  - first: Mark
+    full: Mark Johnson
+    id: mark-johnson
+    last: Johnson
+  author_string: Jianfeng Gao, Mark Johnson
+  bibkey: gao-johnson-2008-comparison
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '344'
+  page_last: '352'
+  pages: "344\u2013352"
+  paper_id: '36'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1036.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1036.jpg
+  title: A comparison of Bayesian estimators for unsupervised Hidden Markov Model
+    POS taggers
+  title_html: A comparison of <span class="acl-fixed-case">B</span>ayesian estimators
+    for unsupervised <span class="acl-fixed-case">H</span>idden <span class="acl-fixed-case">M</span>arkov
+    <span class="acl-fixed-case">M</span>odel <span class="acl-fixed-case">POS</span>
+    taggers
+  url: https://www.aclweb.org/anthology/D08-1036
+  year: '2008'
+D08-1037:
+  address: Honolulu, Hawaii
+  author:
+  - first: Dan
+    full: Dan Goldwasser
+    id: dan-goldwasser
+    last: Goldwasser
+  - first: Dan
+    full: Dan Roth
+    id: dan-roth
+    last: Roth
+  author_string: Dan Goldwasser, Dan Roth
+  bibkey: goldwasser-roth-2008-transliteration
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '353'
+  page_last: '362'
+  pages: "353\u2013362"
+  paper_id: '37'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1037.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1037.jpg
+  title: Transliteration as Constrained Optimization
+  title_html: Transliteration as Constrained Optimization
+  url: https://www.aclweb.org/anthology/D08-1037
+  year: '2008'
+D08-1038:
+  address: Honolulu, Hawaii
+  author:
+  - first: David
+    full: David Hall
+    id: david-hall
+    last: Hall
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: David Hall, Daniel Jurafsky, Christopher D. Manning
+  bibkey: hall-etal-2008-studying
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '363'
+  page_last: '371'
+  pages: "363\u2013371"
+  paper_id: '38'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1038.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1038.jpg
+  title: Studying the History of Ideas Using Topic Models
+  title_html: Studying the History of Ideas Using Topic Models
+  url: https://www.aclweb.org/anthology/D08-1038
+  year: '2008'
+D08-1039:
+  address: Honolulu, Hawaii
+  author:
+  - first: "Sa\u0161a"
+    full: "Sa\u0161a Hasan"
+    id: sasa-hasan
+    last: Hasan
+  - first: Juri
+    full: Juri Ganitkevitch
+    id: juri-ganitkevitch
+    last: Ganitkevitch
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  - first: "Jes\xFAs"
+    full: "Jes\xFAs Andr\xE9s-Ferrer"
+    id: jesus-andres-ferrer
+    last: "Andr\xE9s-Ferrer"
+  author_string: "Sa\u0161a Hasan, Juri Ganitkevitch, Hermann Ney, Jes\xFAs Andr\xE9\
+    s-Ferrer"
+  bibkey: hasan-etal-2008-triplet
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '372'
+  page_last: '381'
+  pages: "372\u2013381"
+  paper_id: '39'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1039.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1039.jpg
+  title: Triplet Lexicon Models for Statistical Machine Translation
+  title_html: Triplet Lexicon Models for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1039
+  year: '2008'
+D08-1040:
+  address: Honolulu, Hawaii
+  author:
+  - first: Shinsuke
+    full: Shinsuke Higuchi
+    id: shinsuke-higuchi
+    last: Higuchi
+  - first: Rafal
+    full: Rafal Rzepka
+    id: rafal-rzepka
+    last: Rzepka
+  - first: Kenji
+    full: Kenji Araki
+    id: kenji-araki
+    last: Araki
+  author_string: Shinsuke Higuchi, Rafal Rzepka, Kenji Araki
+  bibkey: higuchi-etal-2008-casual
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '382'
+  page_last: '390'
+  pages: "382\u2013390"
+  paper_id: '40'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1040.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1040.jpg
+  title: A Casual Conversation System Using Modality and Word Associations Retrieved
+    from the Web
+  title_html: A Casual Conversation System Using Modality and Word Associations Retrieved
+    from the Web
+  url: https://www.aclweb.org/anthology/D08-1040
+  year: '2008'
+D08-1041:
+  address: Honolulu, Hawaii
+  author:
+  - first: Fei
+    full: Fei Huang
+    id: fei-huang
+    last: Huang
+  - first: Ahmad
+    full: Ahmad Emami
+    id: ahmad-emami
+    last: Emami
+  - first: Imed
+    full: Imed Zitouni
+    id: imed-zitouni
+    last: Zitouni
+  author_string: Fei Huang, Ahmad Emami, Imed Zitouni
+  bibkey: huang-etal-2008-harry
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '391'
+  page_last: '399'
+  pages: "391\u2013399"
+  paper_id: '41'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1041.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1041.jpg
+  title: 'When Harry Met Harri: Cross-lingual Name Spelling Normalization'
+  title_html: 'When Harry Met Harri: <span class="acl-fixed-case">C</span>ross-lingual
+    Name Spelling Normalization'
+  url: https://www.aclweb.org/anthology/D08-1041
+  year: '2008'
+D08-1042:
+  address: Honolulu, Hawaii
+  author:
+  - first: Rohit
+    full: Rohit Kate
+    id: rohit-kate
+    last: Kate
+  author_string: Rohit Kate
+  bibkey: kate-2008-dependency
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '400'
+  page_last: '409'
+  pages: "400\u2013409"
+  paper_id: '42'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1042.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1042.jpg
+  title: A Dependency-based Word Subsequence Kernel
+  title_html: A Dependency-based Word Subsequence Kernel
+  url: https://www.aclweb.org/anthology/D08-1042
+  year: '2008'
+D08-1043:
+  address: Honolulu, Hawaii
+  author:
+  - first: Jung-Tae
+    full: Jung-Tae Lee
+    id: jung-tae-lee
+    last: Lee
+  - first: Sang-Bum
+    full: Sang-Bum Kim
+    id: sang-bum-kim
+    last: Kim
+  - first: Young-In
+    full: Young-In Song
+    id: young-in-song
+    last: Song
+  - first: Hae-Chang
+    full: Hae-Chang Rim
+    id: hae-chang-rim
+    last: Rim
+  author_string: Jung-Tae Lee, Sang-Bum Kim, Young-In Song, Hae-Chang Rim
+  bibkey: lee-etal-2008-bridging
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '410'
+  page_last: '418'
+  pages: "410\u2013418"
+  paper_id: '43'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1043.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1043.jpg
+  title: Bridging Lexical Gaps between Queries and Questions on Large Online Q&A Collections
+    with Compact Translation Models
+  title_html: Bridging Lexical Gaps between Queries and Questions on Large Online
+    Q&amp;A Collections with Compact Translation Models
+  url: https://www.aclweb.org/anthology/D08-1043
+  year: '2008'
+D08-1044:
+  address: Honolulu, Hawaii
+  author:
+  - first: Jimmy
+    full: Jimmy Lin
+    id: jimmy-lin
+    last: Lin
+  author_string: Jimmy Lin
+  bibkey: lin-2008-scalable
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '419'
+  page_last: '428'
+  pages: "419\u2013428"
+  paper_id: '44'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1044.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1044.jpg
+  title: 'Scalable Language Processing Algorithms for the Masses: A Case Study in
+    Computing Word Co-occurrence Matrices with MapReduce'
+  title_html: 'Scalable Language Processing Algorithms for the Masses: <span class="acl-fixed-case">A</span>
+    Case Study in Computing Word Co-occurrence Matrices with <span class="acl-fixed-case">M</span>ap<span
+    class="acl-fixed-case">R</span>educe'
+  url: https://www.aclweb.org/anthology/D08-1044
+  year: '2008'
+D08-1045:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yugo
+    full: Yugo Murawaki
+    id: yugo-murawaki
+    last: Murawaki
+  - first: Sadao
+    full: Sadao Kurohashi
+    id: sadao-kurohashi
+    last: Kurohashi
+  author_string: Yugo Murawaki, Sadao Kurohashi
+  bibkey: murawaki-kurohashi-2008-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '429'
+  page_last: '437'
+  pages: "429\u2013437"
+  paper_id: '45'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1045.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1045.jpg
+  title: Online Acquisition of Japanese Unknown Morphemes using Morphological Constraints
+  title_html: Online Acquisition of <span class="acl-fixed-case">J</span>apanese Unknown
+    Morphemes using Morphological Constraints
+  url: https://www.aclweb.org/anthology/D08-1045
+  year: '2008'
+D08-1046:
+  address: Honolulu, Hawaii
+  author:
+  - first: Ramesh
+    full: Ramesh Nallapati
+    id: ramesh-nallapati
+    last: Nallapati
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Ramesh Nallapati, Christopher D. Manning
+  bibkey: nallapati-manning-2008-legal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '438'
+  page_last: '446'
+  pages: "438\u2013446"
+  paper_id: '46'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1046.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1046.jpg
+  title: 'Legal Docket Classification: Where Machine Learning Stumbles'
+  title_html: 'Legal Docket Classification: <span class="acl-fixed-case">W</span>here
+    Machine Learning Stumbles'
+  url: https://www.aclweb.org/anthology/D08-1046
+  year: '2008'
+D08-1047:
+  address: Honolulu, Hawaii
+  author:
+  - first: Naoaki
+    full: Naoaki Okazaki
+    id: naoaki-okazaki
+    last: Okazaki
+  - first: Yoshimasa
+    full: Yoshimasa Tsuruoka
+    id: yoshimasa-tsuruoka
+    last: Tsuruoka
+  - first: Sophia
+    full: Sophia Ananiadou
+    id: sophia-ananiadou
+    last: Ananiadou
+  - first: "Jun\u2019ichi"
+    full: "Jun\u2019ichi Tsujii"
+    id: junichi-tsujii
+    last: Tsujii
+  author_string: "Naoaki Okazaki, Yoshimasa Tsuruoka, Sophia Ananiadou, Jun\u2019\
+    ichi Tsujii"
+  bibkey: okazaki-etal-2008-discriminative-candidate
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '447'
+  page_last: '456'
+  pages: "447\u2013456"
+  paper_id: '47'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1047.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1047.jpg
+  title: A Discriminative Candidate Generator for String Transformations
+  title_html: A Discriminative Candidate Generator for String Transformations
+  url: https://www.aclweb.org/anthology/D08-1047
+  year: '2008'
+D08-1048:
+  address: Honolulu, Hawaii
+  author:
+  - first: Marco
+    full: Marco Pennacchiotti
+    id: marco-pennacchiotti
+    last: Pennacchiotti
+  - first: Diego
+    full: Diego De Cao
+    id: diego-de-cao
+    last: De Cao
+  - first: Roberto
+    full: Roberto Basili
+    id: roberto-basili
+    last: Basili
+  - first: Danilo
+    full: Danilo Croce
+    id: danilo-croce
+    last: Croce
+  - first: Michael
+    full: Michael Roth
+    id: michael-roth
+    last: Roth
+  author_string: Marco Pennacchiotti, Diego De Cao, Roberto Basili, Danilo Croce,
+    Michael Roth
+  bibkey: pennacchiotti-etal-2008-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '457'
+  page_last: '465'
+  pages: "457\u2013465"
+  paper_id: '48'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1048.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1048.jpg
+  title: Automatic induction of FrameNet lexical units
+  title_html: Automatic induction of <span class="acl-fixed-case">F</span>rame<span
+    class="acl-fixed-case">N</span>et lexical units
+  url: https://www.aclweb.org/anthology/D08-1048
+  year: '2008'
+D08-1049:
+  address: Honolulu, Hawaii
+  author:
+  - first: Stephan
+    full: Stephan Raaijmakers
+    id: stephan-raaijmakers
+    last: Raaijmakers
+  - first: Khiet
+    full: Khiet Truong
+    id: khiet-p-truong
+    last: Truong
+  - first: Theresa
+    full: Theresa Wilson
+    id: theresa-wilson
+    last: Wilson
+  author_string: Stephan Raaijmakers, Khiet Truong, Theresa Wilson
+  bibkey: raaijmakers-etal-2008-multimodal
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '466'
+  page_last: '474'
+  pages: "466\u2013474"
+  paper_id: '49'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1049.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1049.jpg
+  title: Multimodal Subjectivity Analysis of Multiparty Conversation
+  title_html: Multimodal Subjectivity Analysis of Multiparty Conversation
+  url: https://www.aclweb.org/anthology/D08-1049
+  year: '2008'
+D08-1050:
+  address: Honolulu, Hawaii
+  author:
+  - first: Laura
+    full: Laura Rimell
+    id: laura-rimell
+    last: Rimell
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  author_string: Laura Rimell, Stephen Clark
+  bibkey: rimell-clark-2008-adapting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '475'
+  page_last: '484'
+  pages: "475\u2013484"
+  paper_id: '50'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1050.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1050.jpg
+  title: Adapting a Lexicalized-Grammar Parser to Contrasting Domains
+  title_html: Adapting a Lexicalized-Grammar Parser to Contrasting Domains
+  url: https://www.aclweb.org/anthology/D08-1050
+  year: '2008'
+D08-1051:
+  address: Honolulu, Hawaii
+  author:
+  - first: "Germ\xE1n"
+    full: "Germ\xE1n Sanchis-Trilles"
+    id: german-sanchis-trilles
+    last: Sanchis-Trilles
+  - first: Daniel
+    full: "Daniel Ortiz-Mart\xEDnez"
+    id: daniel-ortiz-martinez
+    last: "Ortiz-Mart\xEDnez"
+  - first: Jorge
+    full: Jorge Civera
+    id: jorge-civera
+    last: Civera
+  - first: Francisco
+    full: Francisco Casacuberta
+    id: francisco-casacuberta
+    last: Casacuberta
+  - first: Enrique
+    full: Enrique Vidal
+    id: enrique-vidal
+    last: Vidal
+  - first: Hieu
+    full: Hieu Hoang
+    id: hieu-hoang
+    last: Hoang
+  author_string: "Germ\xE1n Sanchis-Trilles, Daniel Ortiz-Mart\xEDnez, Jorge Civera,\
+    \ Francisco Casacuberta, Enrique Vidal, Hieu Hoang"
+  bibkey: sanchis-trilles-etal-2008-improving
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '485'
+  page_last: '494'
+  pages: "485\u2013494"
+  paper_id: '51'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1051.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1051.jpg
+  title: Improving Interactive Machine Translation via Mouse Actions
+  title_html: Improving Interactive Machine Translation via Mouse Actions
+  url: https://www.aclweb.org/anthology/D08-1051
+  year: '2008'
+D08-1052:
+  address: Honolulu, Hawaii
+  author:
+  - first: Libin
+    full: Libin Shen
+    id: libin-shen
+    last: Shen
+  - first: Aravind
+    full: Aravind Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Libin Shen, Aravind Joshi
+  bibkey: shen-joshi-2008-ltag
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '495'
+  page_last: '504'
+  pages: "495\u2013504"
+  paper_id: '52'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1052.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1052.jpg
+  title: LTAG Dependency Parsing with Bidirectional Incremental Construction
+  title_html: <span class="acl-fixed-case">LTAG</span> Dependency Parsing with Bidirectional
+    Incremental Construction
+  url: https://www.aclweb.org/anthology/D08-1052
+  year: '2008'
+D08-1053:
+  address: Honolulu, Hawaii
+  author:
+  - first: Lei
+    full: Lei Shi
+    id: lei-shi
+    last: Shi
+  - first: Ming
+    full: Ming Zhou
+    id: ming-zhou
+    last: Zhou
+  author_string: Lei Shi, Ming Zhou
+  bibkey: shi-zhou-2008-improved
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '505'
+  page_last: '513'
+  pages: "505\u2013513"
+  paper_id: '53'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1053.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1053.jpg
+  title: Improved Sentence Alignment on Parallel Web Pages Using a Stochastic Tree
+    Alignment Model
+  title_html: Improved Sentence Alignment on Parallel Web Pages Using a Stochastic
+    Tree Alignment Model
+  url: https://www.aclweb.org/anthology/D08-1053
+  year: '2008'
+D08-1054:
+  address: Honolulu, Hawaii
+  author:
+  - first: Congkai
+    full: Congkai Sun
+    id: congkai-sun
+    last: Sun
+  - first: Bin
+    full: Bin Gao
+    id: bin-gao
+    last: Gao
+  - first: Zhenfu
+    full: Zhenfu Cao
+    id: zhenfu-cao
+    last: Cao
+  - first: Hang
+    full: Hang Li
+    id: hang-li
+    last: Li
+  author_string: Congkai Sun, Bin Gao, Zhenfu Cao, Hang Li
+  bibkey: sun-etal-2008-htm
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '514'
+  page_last: '522'
+  pages: "514\u2013522"
+  paper_id: '54'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1054.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1054.jpg
+  title: 'HTM: A Topic Model for Hypertexts'
+  title_html: '<span class="acl-fixed-case">HTM</span>: <span class="acl-fixed-case">A</span>
+    Topic Model for Hypertexts'
+  url: https://www.aclweb.org/anthology/D08-1054
+  year: '2008'
+D08-1055:
+  address: Honolulu, Hawaii
+  author:
+  - first: Hirotoshi
+    full: Hirotoshi Taira
+    id: hirotoshi-taira
+    last: Taira
+  - first: Sanae
+    full: Sanae Fujita
+    id: sanae-fujita
+    last: Fujita
+  - first: Masaaki
+    full: Masaaki Nagata
+    id: masaaki-nagata
+    last: Nagata
+  author_string: Hirotoshi Taira, Sanae Fujita, Masaaki Nagata
+  bibkey: taira-etal-2008-japanese
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '523'
+  page_last: '532'
+  pages: "523\u2013532"
+  paper_id: '55'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1055.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1055.jpg
+  title: A Japanese Predicate Argument Structure Analysis using Decision Lists
+  title_html: A <span class="acl-fixed-case">J</span>apanese Predicate Argument Structure
+    Analysis using Decision Lists
+  url: https://www.aclweb.org/anthology/D08-1055
+  year: '2008'
+D08-1056:
+  address: Honolulu, Hawaii
+  author:
+  - first: David
+    full: David Vickrey
+    id: david-vickrey
+    last: Vickrey
+  - first: Aaron
+    full: Aaron Bronzan
+    id: aaron-bronzan
+    last: Bronzan
+  - first: William
+    full: William Choi
+    id: william-choi
+    last: Choi
+  - first: Aman
+    full: Aman Kumar
+    id: aman-kumar
+    last: Kumar
+  - first: Jason
+    full: Jason Turner-Maier
+    id: jason-turner-maier
+    last: Turner-Maier
+  - first: Arthur
+    full: Arthur Wang
+    id: arthur-wang
+    last: Wang
+  - first: Daphne
+    full: Daphne Koller
+    id: daphne-koller
+    last: Koller
+  author_string: David Vickrey, Aaron Bronzan, William Choi, Aman Kumar, Jason Turner-Maier,
+    Arthur Wang, Daphne Koller
+  bibkey: vickrey-etal-2008-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '533'
+  page_last: '542'
+  pages: "533\u2013542"
+  paper_id: '56'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1056.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1056.jpg
+  title: Online Word Games for Semantic Data Collection
+  title_html: Online Word Games for Semantic Data Collection
+  url: https://www.aclweb.org/anthology/D08-1056
+  year: '2008'
+D08-1057:
+  address: Honolulu, Hawaii
+  author:
+  - first: Stephen
+    full: Stephen Wan
+    id: stephen-wan
+    last: Wan
+  - first: Robert
+    full: Robert Dale
+    id: robert-dale
+    last: Dale
+  - first: Mark
+    full: Mark Dras
+    id: mark-dras
+    last: Dras
+  - first: "C\xE9cile"
+    full: "C\xE9cile Paris"
+    id: cecile-paris
+    last: Paris
+  author_string: "Stephen Wan, Robert Dale, Mark Dras, C\xE9cile Paris"
+  bibkey: wan-etal-2008-seed
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '543'
+  page_last: '552'
+  pages: "543\u2013552"
+  paper_id: '57'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1057.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1057.jpg
+  title: 'Seed and Grow: Augmenting Statistically Generated Summary Sentences using
+    Schematic Word Patterns'
+  title_html: 'Seed and Grow: <span class="acl-fixed-case">A</span>ugmenting Statistically
+    Generated Summary Sentences using Schematic Word Patterns'
+  url: https://www.aclweb.org/anthology/D08-1057
+  year: '2008'
+D08-1058:
+  address: Honolulu, Hawaii
+  author:
+  - first: Xiaojun
+    full: Xiaojun Wan
+    id: xiaojun-wan
+    last: Wan
+  author_string: Xiaojun Wan
+  bibkey: wan-2008-using
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '553'
+  page_last: '561'
+  pages: "553\u2013561"
+  paper_id: '58'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1058.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1058.jpg
+  title: Using Bilingual Knowledge and Ensemble Techniques for Unsupervised Chinese
+    Sentiment Analysis
+  title_html: Using Bilingual Knowledge and Ensemble Techniques for Unsupervised <span
+    class="acl-fixed-case">C</span>hinese Sentiment Analysis
+  url: https://www.aclweb.org/anthology/D08-1058
+  year: '2008'
+D08-1059:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yue
+    full: Yue Zhang
+    id: yue-zhang
+    last: Zhang
+  - first: Stephen
+    full: Stephen Clark
+    id: stephen-clark
+    last: Clark
+  author_string: Yue Zhang, Stephen Clark
+  bibkey: zhang-clark-2008-tale
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '562'
+  page_last: '571'
+  pages: "562\u2013571"
+  paper_id: '59'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1059.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1059.jpg
+  title: 'A Tale of Two Parsers: Investigating and Combining Graph-based and Transition-based
+    Dependency Parsing'
+  title_html: 'A Tale of Two Parsers: <span class="acl-fixed-case">I</span>nvestigating
+    and Combining Graph-based and Transition-based Dependency Parsing'
+  url: https://www.aclweb.org/anthology/D08-1059
+  year: '2008'
+D08-1060:
+  address: Honolulu, Hawaii
+  author:
+  - first: Bing
+    full: Bing Zhao
+    id: bing-zhao
+    last: Zhao
+  - first: Yaser
+    full: Yaser Al-onaizan
+    id: yaser-al-onaizan
+    last: Al-onaizan
+  author_string: Bing Zhao, Yaser Al-onaizan
+  bibkey: zhao-al-onaizan-2008-generalizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '572'
+  page_last: '581'
+  pages: "572\u2013581"
+  paper_id: '60'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1060.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1060.jpg
+  title: Generalizing Local and Non-Local Word-Reordering Patterns for Syntax-Based
+    Machine Translation
+  title_html: Generalizing Local and Non-Local Word-Reordering Patterns for Syntax-Based
+    Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1060
+  year: '2008'
+D08-1061:
+  address: Honolulu, Hawaii
+  author:
+  - first: Partha Pratim
+    full: Partha Pratim Talukdar
+    id: partha-talukdar
+    last: Talukdar
+  - first: Joseph
+    full: Joseph Reisinger
+    id: joseph-reisinger
+    last: Reisinger
+  - first: Marius
+    full: "Marius Pa\u015Fca"
+    id: marius-pasca
+    last: "Pa\u015Fca"
+  - first: Deepak
+    full: Deepak Ravichandran
+    id: deepak-ravichandran
+    last: Ravichandran
+  - first: Rahul
+    full: Rahul Bhagat
+    id: rahul-bhagat
+    last: Bhagat
+  - first: Fernando
+    full: Fernando Pereira
+    id: fernando-pereira
+    last: Pereira
+  author_string: "Partha Pratim Talukdar, Joseph Reisinger, Marius Pa\u015Fca, Deepak\
+    \ Ravichandran, Rahul Bhagat, Fernando Pereira"
+  bibkey: talukdar-etal-2008-weakly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '582'
+  page_last: '590'
+  pages: "582\u2013590"
+  paper_id: '61'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1061.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1061.jpg
+  title: Weakly-Supervised Acquisition of Labeled Class Instances using Graph Random
+    Walks
+  title_html: Weakly-Supervised Acquisition of Labeled Class Instances using Graph
+    Random Walks
+  url: https://www.aclweb.org/anthology/D08-1061
+  year: '2008'
+D08-1062:
+  address: Honolulu, Hawaii
+  author:
+  - first: Nicholas
+    full: Nicholas Andrews
+    id: nicholas-andrews
+    last: Andrews
+  - first: Naren
+    full: Naren Ramakrishnan
+    id: naren-ramakrishnan
+    last: Ramakrishnan
+  author_string: Nicholas Andrews, Naren Ramakrishnan
+  bibkey: andrews-ramakrishnan-2008-seeded
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '591'
+  page_last: '599'
+  pages: "591\u2013599"
+  paper_id: '62'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1062.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1062.jpg
+  title: Seeded Discovery of Base Relations in Large Corpora
+  title_html: Seeded Discovery of Base Relations in Large Corpora
+  url: https://www.aclweb.org/anthology/D08-1062
+  year: '2008'
+D08-1063:
+  address: Honolulu, Hawaii
+  author:
+  - first: Imed
+    full: Imed Zitouni
+    id: imed-zitouni
+    last: Zitouni
+  - first: Radu
+    full: Radu Florian
+    id: radu-florian
+    last: Florian
+  author_string: Imed Zitouni, Radu Florian
+  bibkey: zitouni-florian-2008-mention
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '600'
+  page_last: '609'
+  pages: "600\u2013609"
+  paper_id: '63'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1063.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1063.jpg
+  title: Mention Detection Crossing the Language Barrier
+  title_html: Mention Detection Crossing the Language Barrier
+  url: https://www.aclweb.org/anthology/D08-1063
+  year: '2008'
+D08-1064:
+  address: Honolulu, Hawaii
+  author:
+  - first: David
+    full: David Chiang
+    id: david-chiang
+    last: Chiang
+  - first: Steve
+    full: Steve DeNeefe
+    id: steve-deneefe
+    last: DeNeefe
+  - first: Yee Seng
+    full: Yee Seng Chan
+    id: yee-seng-chan
+    last: Chan
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  author_string: David Chiang, Steve DeNeefe, Yee Seng Chan, Hwee Tou Ng
+  bibkey: chiang-etal-2008-decomposability
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '610'
+  page_last: '619'
+  pages: "610\u2013619"
+  paper_id: '64'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1064.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1064.jpg
+  title: Decomposability of Translation Metrics for Improved Evaluation and Efficient
+    Algorithms
+  title_html: Decomposability of Translation Metrics for Improved Evaluation and Efficient
+    Algorithms
+  url: https://www.aclweb.org/anthology/D08-1064
+  year: '2008'
+D08-1065:
+  address: Honolulu, Hawaii
+  author:
+  - first: Roy
+    full: Roy Tromble
+    id: roy-tromble
+    last: Tromble
+  - first: Shankar
+    full: Shankar Kumar
+    id: shankar-kumar
+    last: Kumar
+  - first: Franz
+    full: Franz Och
+    id: franz-josef-och
+    last: Och
+  - first: Wolfgang
+    full: Wolfgang Macherey
+    id: wolfgang-macherey
+    last: Macherey
+  author_string: Roy Tromble, Shankar Kumar, Franz Och, Wolfgang Macherey
+  bibkey: tromble-etal-2008-lattice
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '620'
+  page_last: '629'
+  pages: "620\u2013629"
+  paper_id: '65'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1065.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1065.jpg
+  title: Lattice Minimum Bayes-Risk Decoding for Statistical Machine Translation
+  title_html: Lattice <span class="acl-fixed-case">M</span>inimum <span class="acl-fixed-case">B</span>ayes-<span
+    class="acl-fixed-case">R</span>isk Decoding for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1065
+  year: '2008'
+D08-1066:
+  address: Honolulu, Hawaii
+  author:
+  - first: Markos
+    full: Markos Mylonakis
+    id: markos-mylonakis
+    last: Mylonakis
+  - first: Khalil
+    full: "Khalil Sima\u2019an"
+    id: khalil-simaan
+    last: "Sima\u2019an"
+  author_string: "Markos Mylonakis, Khalil Sima\u2019an"
+  bibkey: mylonakis-simaan-2008-phrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '630'
+  page_last: '639'
+  pages: "630\u2013639"
+  paper_id: '66'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1066.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1066.jpg
+  title: Phrase Translation Probabilities with ITG Priors and Smoothing as Learning
+    Objective
+  title_html: Phrase Translation Probabilities with <span class="acl-fixed-case">ITG</span>
+    Priors and Smoothing as Learning Objective
+  url: https://www.aclweb.org/anthology/D08-1066
+  year: '2008'
+D08-1067:
+  address: Honolulu, Hawaii
+  author:
+  - first: Vincent
+    full: Vincent Ng
+    id: vincent-ng
+    last: Ng
+  author_string: Vincent Ng
+  bibkey: ng-2008-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '640'
+  page_last: '649'
+  pages: "640\u2013649"
+  paper_id: '67'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1067.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1067.jpg
+  title: Unsupervised Models for Coreference Resolution
+  title_html: Unsupervised Models for Coreference Resolution
+  url: https://www.aclweb.org/anthology/D08-1067
+  year: '2008'
+D08-1068:
+  address: Honolulu, Hawaii
+  author:
+  - first: Hoifung
+    full: Hoifung Poon
+    id: hoifung-poon
+    last: Poon
+  - first: Pedro
+    full: Pedro Domingos
+    id: pedro-domingos
+    last: Domingos
+  author_string: Hoifung Poon, Pedro Domingos
+  bibkey: poon-domingos-2008-joint
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '650'
+  page_last: '659'
+  pages: "650\u2013659"
+  paper_id: '68'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1068.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1068.jpg
+  title: Joint Unsupervised Coreference Resolution with Markov Logic
+  title_html: Joint Unsupervised Coreference Resolution with <span class="acl-fixed-case">M</span>arkov
+    <span class="acl-fixed-case">L</span>ogic
+  url: https://www.aclweb.org/anthology/D08-1068
+  year: '2008'
+D08-1069:
+  address: Honolulu, Hawaii
+  author:
+  - first: Pascal
+    full: Pascal Denis
+    id: pascal-denis
+    last: Denis
+  - first: Jason
+    full: Jason Baldridge
+    id: jason-baldridge
+    last: Baldridge
+  author_string: Pascal Denis, Jason Baldridge
+  bibkey: denis-baldridge-2008-specialized
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '660'
+  page_last: '669'
+  pages: "660\u2013669"
+  paper_id: '69'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1069.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1069.jpg
+  title: Specialized Models and Ranking for Coreference Resolution
+  title_html: Specialized Models and Ranking for Coreference Resolution
+  url: https://www.aclweb.org/anthology/D08-1069
+  year: '2008'
+D08-1070:
+  address: Honolulu, Hawaii
+  author:
+  - first: Razvan
+    full: Razvan Bunescu
+    id: razvan-bunescu
+    last: Bunescu
+  author_string: Razvan Bunescu
+  bibkey: bunescu-2008-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '670'
+  page_last: '679'
+  pages: "670\u2013679"
+  paper_id: '70'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1070.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1070.jpg
+  title: Learning with Probabilistic Features for Improved Pipeline Models
+  title_html: Learning with Probabilistic Features for Improved Pipeline Models
+  url: https://www.aclweb.org/anthology/D08-1070
+  year: '2008'
+D08-1071:
+  address: Honolulu, Hawaii
+  author:
+  - first: Hal
+    full: "Hal Daum\xE9 III"
+    id: hal-daume-iii
+    last: "Daum\xE9 III"
+  author_string: "Hal Daum\xE9 III"
+  bibkey: daume-iii-2008-cross
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '680'
+  page_last: '688'
+  pages: "680\u2013688"
+  paper_id: '71'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1071.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1071.jpg
+  title: Cross-Task Knowledge-Constrained Self Training
+  title_html: Cross-Task Knowledge-Constrained Self Training
+  url: https://www.aclweb.org/anthology/D08-1071
+  year: '2008'
+D08-1072:
+  address: Honolulu, Hawaii
+  author:
+  - first: Mark
+    full: Mark Dredze
+    id: mark-dredze
+    last: Dredze
+  - first: Koby
+    full: Koby Crammer
+    id: koby-crammer
+    last: Crammer
+  author_string: Mark Dredze, Koby Crammer
+  bibkey: dredze-crammer-2008-online
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '689'
+  page_last: '697'
+  pages: "689\u2013697"
+  paper_id: '72'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1072.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1072.jpg
+  title: Online Methods for Multi-Domain Learning and Adaptation
+  title_html: Online Methods for Multi-Domain Learning and Adaptation
+  url: https://www.aclweb.org/anthology/D08-1072
+  year: '2008'
+D08-1073:
+  address: Honolulu, Hawaii
+  author:
+  - first: Nathanael
+    full: Nathanael Chambers
+    id: nathanael-chambers
+    last: Chambers
+  - first: Daniel
+    full: Daniel Jurafsky
+    id: dan-jurafsky
+    last: Jurafsky
+  author_string: Nathanael Chambers, Daniel Jurafsky
+  bibkey: chambers-jurafsky-2008-jointly
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '698'
+  page_last: '706'
+  pages: "698\u2013706"
+  paper_id: '73'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1073.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1073.jpg
+  title: Jointly Combining Implicit Constraints Improves Temporal Ordering
+  title_html: Jointly Combining Implicit Constraints Improves Temporal Ordering
+  url: https://www.aclweb.org/anthology/D08-1073
+  year: '2008'
+D08-1074:
+  address: Honolulu, Hawaii
+  author:
+  - first: Nianwen
+    full: Nianwen Xue
+    id: nianwen-xue
+    last: Xue
+  author_string: Nianwen Xue
+  bibkey: xue-2008-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '707'
+  page_last: '714'
+  pages: "707\u2013714"
+  paper_id: '74'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1074.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1074.jpg
+  title: Automatic Inference of the Temporal Location of Situations in Chinese Text
+  title_html: Automatic Inference of the Temporal Location of Situations in <span
+    class="acl-fixed-case">C</span>hinese Text
+  url: https://www.aclweb.org/anthology/D08-1074
+  year: '2008'
+D08-1075:
+  address: Honolulu, Hawaii
+  author:
+  - first: Roser
+    full: Roser Morante
+    id: roser-morante
+    last: Morante
+  - first: Anthony
+    full: Anthony Liekens
+    id: anthony-liekens
+    last: Liekens
+  - first: Walter
+    full: Walter Daelemans
+    id: walter-daelemans
+    last: Daelemans
+  author_string: Roser Morante, Anthony Liekens, Walter Daelemans
+  bibkey: morante-etal-2008-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '715'
+  page_last: '724'
+  pages: "715\u2013724"
+  paper_id: '75'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1075.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1075.jpg
+  title: Learning the Scope of Negation in Biomedical Texts
+  title_html: Learning the Scope of Negation in Biomedical Texts
+  url: https://www.aclweb.org/anthology/D08-1075
+  year: '2008'
+D08-1076:
+  address: Honolulu, Hawaii
+  author:
+  - first: Wolfgang
+    full: Wolfgang Macherey
+    id: wolfgang-macherey
+    last: Macherey
+  - first: Franz
+    full: Franz Och
+    id: franz-josef-och
+    last: Och
+  - first: Ignacio
+    full: Ignacio Thayer
+    id: ignacio-thayer
+    last: Thayer
+  - first: Jakob
+    full: Jakob Uszkoreit
+    id: jakob-uszkoreit
+    last: Uszkoreit
+  author_string: Wolfgang Macherey, Franz Och, Ignacio Thayer, Jakob Uszkoreit
+  bibkey: macherey-etal-2008-lattice
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '725'
+  page_last: '734'
+  pages: "725\u2013734"
+  paper_id: '76'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1076.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1076.jpg
+  title: Lattice-based Minimum Error Rate Training for Statistical Machine Translation
+  title_html: Lattice-based Minimum Error Rate Training for Statistical Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1076
+  year: '2008'
+D08-1077:
+  address: Honolulu, Hawaii
+  author:
+  - first: Arul
+    full: Arul Menezes
+    id: arul-menezes
+    last: Menezes
+  - first: Chris
+    full: Chris Quirk
+    id: chris-quirk
+    last: Quirk
+  author_string: Arul Menezes, Chris Quirk
+  bibkey: menezes-quirk-2008-syntactic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '735'
+  page_last: '744'
+  pages: "735\u2013744"
+  paper_id: '77'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1077.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1077.jpg
+  title: Syntactic Models for Structural Word Insertion and Deletion during Translation
+  title_html: Syntactic Models for Structural Word Insertion and Deletion during Translation
+  url: https://www.aclweb.org/anthology/D08-1077
+  year: '2008'
+D08-1078:
+  address: Honolulu, Hawaii
+  author:
+  - first: Alexandra
+    full: Alexandra Birch
+    id: alexandra-birch
+    last: Birch
+  - first: Miles
+    full: Miles Osborne
+    id: miles-osborne
+    last: Osborne
+  - first: Philipp
+    full: Philipp Koehn
+    id: philipp-koehn
+    last: Koehn
+  author_string: Alexandra Birch, Miles Osborne, Philipp Koehn
+  bibkey: birch-etal-2008-predicting
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '745'
+  page_last: '754'
+  pages: "745\u2013754"
+  paper_id: '78'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1078.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1078.jpg
+  title: Predicting Success in Machine Translation
+  title_html: Predicting Success in Machine Translation
+  url: https://www.aclweb.org/anthology/D08-1078
+  year: '2008'
+D08-1079:
+  address: Honolulu, Hawaii
+  author:
+  - first: Xiaojun
+    full: Xiaojun Wan
+    id: xiaojun-wan
+    last: Wan
+  author_string: Xiaojun Wan
+  bibkey: wan-2008-exploration
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '755'
+  page_last: '762'
+  pages: "755\u2013762"
+  paper_id: '79'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1079.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1079.jpg
+  title: An Exploration of Document Impact on Graph-Based Multi-Document Summarization
+  title_html: An Exploration of Document Impact on Graph-Based Multi-Document Summarization
+  url: https://www.aclweb.org/anthology/D08-1079
+  year: '2008'
+D08-1080:
+  address: Honolulu, Hawaii
+  author:
+  - first: Vivi
+    full: Vivi Nastase
+    id: vivi-nastase
+    last: Nastase
+  author_string: Vivi Nastase
+  bibkey: nastase-2008-topic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '763'
+  page_last: '772'
+  pages: "763\u2013772"
+  paper_id: '80'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1080.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1080.jpg
+  title: Topic-Driven Multi-Document Summarization with Encyclopedic Knowledge and
+    Spreading Activation
+  title_html: Topic-Driven Multi-Document Summarization with Encyclopedic Knowledge
+    and Spreading Activation
+  url: https://www.aclweb.org/anthology/D08-1080
+  year: '2008'
+D08-1081:
+  address: Honolulu, Hawaii
+  author:
+  - first: Gabriel
+    full: Gabriel Murray
+    id: gabriel-murray
+    last: Murray
+  - first: Giuseppe
+    full: Giuseppe Carenini
+    id: giuseppe-carenini
+    last: Carenini
+  author_string: Gabriel Murray, Giuseppe Carenini
+  bibkey: murray-carenini-2008-summarizing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '773'
+  page_last: '782'
+  pages: "773\u2013782"
+  paper_id: '81'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1081.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1081.jpg
+  title: Summarizing Spoken and Written Conversations
+  title_html: Summarizing Spoken and Written Conversations
+  url: https://www.aclweb.org/anthology/D08-1081
+  year: '2008'
+D08-1082:
+  address: Honolulu, Hawaii
+  author:
+  - first: Wei
+    full: Wei Lu
+    id: wei-lu
+    last: Lu
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Wee Sun
+    full: Wee Sun Lee
+    id: wee-sun-lee
+    last: Lee
+  - first: Luke S.
+    full: Luke S. Zettlemoyer
+    id: luke-zettlemoyer
+    last: Zettlemoyer
+  author_string: Wei Lu, Hwee Tou Ng, Wee Sun Lee, Luke S. Zettlemoyer
+  bibkey: lu-etal-2008-generative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '783'
+  page_last: '792'
+  pages: "783\u2013792"
+  paper_id: '82'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1082.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1082.jpg
+  title: A Generative Model for Parsing Natural Language to Meaning Representations
+  title_html: A Generative Model for Parsing Natural Language to Meaning Representations
+  url: https://www.aclweb.org/anthology/D08-1082
+  year: '2008'
+D08-1083:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yejin
+    full: Yejin Choi
+    id: yejin-choi
+    last: Choi
+  - first: Claire
+    full: Claire Cardie
+    id: claire-cardie
+    last: Cardie
+  author_string: Yejin Choi, Claire Cardie
+  bibkey: choi-cardie-2008-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '793'
+  page_last: '801'
+  pages: "793\u2013801"
+  paper_id: '83'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1083.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1083.jpg
+  title: Learning with Compositional Semantics as Structural Inference for Subsentential
+    Sentiment Analysis
+  title_html: Learning with Compositional Semantics as Structural Inference for Subsentential
+    Sentiment Analysis
+  url: https://www.aclweb.org/anthology/D08-1083
+  year: '2008'
+D08-1084:
+  address: Honolulu, Hawaii
+  author:
+  - first: Bill
+    full: Bill MacCartney
+    id: bill-maccartney
+    last: MacCartney
+  - first: Michel
+    full: Michel Galley
+    id: michel-galley
+    last: Galley
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Bill MacCartney, Michel Galley, Christopher D. Manning
+  bibkey: maccartney-etal-2008-phrase
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '802'
+  page_last: '811'
+  pages: "802\u2013811"
+  paper_id: '84'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1084.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1084.jpg
+  title: A Phrase-Based Alignment Model for Natural Language Inference
+  title_html: A Phrase-Based Alignment Model for Natural Language Inference
+  url: https://www.aclweb.org/anthology/D08-1084
+  year: '2008'
+D08-1085:
+  address: Honolulu, Hawaii
+  author:
+  - first: Sujith
+    full: Sujith Ravi
+    id: sujith-ravi
+    last: Ravi
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  author_string: Sujith Ravi, Kevin Knight
+  bibkey: ravi-knight-2008-attacking
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '812'
+  page_last: '819'
+  pages: "812\u2013819"
+  paper_id: '85'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1085.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1085.jpg
+  title: Attacking Decipherment Problems Optimally with Low-Order N-gram Models
+  title_html: Attacking Decipherment Problems Optimally with Low-Order <span class="acl-fixed-case">N</span>-gram
+    Models
+  url: https://www.aclweb.org/anthology/D08-1085
+  year: '2008'
+D08-1086:
+  address: Honolulu, Hawaii
+  author:
+  - first: Xinhao
+    full: Xinhao Wang
+    id: xinhao-wang
+    last: Wang
+  - first: Jiazhong
+    full: Jiazhong Nie
+    id: jiazhong-nie
+    last: Nie
+  - first: Dingsheng
+    full: Dingsheng Luo
+    id: dingsheng-luo
+    last: Luo
+  - first: Xihong
+    full: Xihong Wu
+    id: xihong-wu
+    last: Wu
+  author_string: Xinhao Wang, Jiazhong Nie, Dingsheng Luo, Xihong Wu
+  bibkey: wang-etal-2008-integrating
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '820'
+  page_last: '828'
+  pages: "820\u2013828"
+  paper_id: '86'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1086.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1086.jpg
+  title: Integrating Multi-level Linguistic Knowledge with a Unified Framework for
+    Mandarin Speech Recognition
+  title_html: Integrating Multi-level Linguistic Knowledge with a Unified Framework
+    for <span class="acl-fixed-case">M</span>andarin Speech Recognition
+  url: https://www.aclweb.org/anthology/D08-1086
+  year: '2008'
+D08-1087:
+  address: Honolulu, Hawaii
+  author:
+  - first: Bo-June Paul
+    full: Bo-June Paul Hsu
+    id: bo-june-paul-hsu
+    last: Hsu
+  - first: James
+    full: James Glass
+    id: james-glass
+    last: Glass
+  author_string: Bo-June Paul Hsu, James Glass
+  bibkey: hsu-glass-2008-n
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '829'
+  page_last: '838'
+  pages: "829\u2013838"
+  paper_id: '87'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1087.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1087.jpg
+  title: 'N-gram Weighting: Reducing Training Data Mismatch in Cross-Domain Language
+    Model Estimation'
+  title_html: '<span class="acl-fixed-case">N</span>-gram Weighting: <span class="acl-fixed-case">R</span>educing
+    Training Data Mismatch in Cross-Domain Language Model Estimation'
+  url: https://www.aclweb.org/anthology/D08-1087
+  year: '2008'
+D08-1088:
+  address: Honolulu, Hawaii
+  author:
+  - first: Gregor
+    full: Gregor Leusch
+    id: gregor-leusch
+    last: Leusch
+  - first: Evgeny
+    full: Evgeny Matusov
+    id: evgeny-matusov
+    last: Matusov
+  - first: Hermann
+    full: Hermann Ney
+    id: hermann-ney
+    last: Ney
+  author_string: Gregor Leusch, Evgeny Matusov, Hermann Ney
+  bibkey: leusch-etal-2008-complexity
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '839'
+  page_last: '847'
+  pages: "839\u2013847"
+  paper_id: '88'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1088.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1088.jpg
+  title: Complexity of Finding the BLEU-optimal Hypothesis in a Confusion Network
+  title_html: Complexity of Finding the <span class="acl-fixed-case">BLEU</span>-optimal
+    Hypothesis in a Confusion Network
+  url: https://www.aclweb.org/anthology/D08-1088
+  year: '2008'
+D08-1089:
+  address: Honolulu, Hawaii
+  author:
+  - first: Michel
+    full: Michel Galley
+    id: michel-galley
+    last: Galley
+  - first: Christopher D.
+    full: Christopher D. Manning
+    id: christopher-d-manning
+    last: Manning
+  author_string: Michel Galley, Christopher D. Manning
+  bibkey: galley-manning-2008-simple
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '848'
+  page_last: '856'
+  pages: "848\u2013856"
+  paper_id: '89'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1089.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1089.jpg
+  title: A Simple and Effective Hierarchical Phrase Reordering Model
+  title_html: A Simple and Effective Hierarchical Phrase Reordering Model
+  url: https://www.aclweb.org/anthology/D08-1089
+  year: '2008'
+D08-1090:
+  address: Honolulu, Hawaii
+  author:
+  - first: Matthew
+    full: Matthew Snover
+    id: matthew-snover
+    last: Snover
+  - first: Bonnie
+    full: Bonnie Dorr
+    id: bonnie-dorr
+    last: Dorr
+  - first: Richard
+    full: Richard Schwartz
+    id: richard-schwartz
+    last: Schwartz
+  author_string: Matthew Snover, Bonnie Dorr, Richard Schwartz
+  bibkey: snover-etal-2008-language
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '857'
+  page_last: '866'
+  pages: "857\u2013866"
+  paper_id: '90'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1090.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1090.jpg
+  title: Language and Translation Model Adaptation using Comparable Corpora
+  title_html: Language and Translation Model Adaptation using Comparable Corpora
+  url: https://www.aclweb.org/anthology/D08-1090
+  year: '2008'
+D08-1091:
+  address: Honolulu, Hawaii
+  author:
+  - first: Slav
+    full: Slav Petrov
+    id: slav-petrov
+    last: Petrov
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: Slav Petrov, Dan Klein
+  bibkey: petrov-klein-2008-sparse
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '867'
+  page_last: '876'
+  pages: "867\u2013876"
+  paper_id: '91'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1091.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1091.jpg
+  title: Sparse Multi-Scale Grammars for Discriminative Latent Variable Parsing
+  title_html: Sparse Multi-Scale Grammars for Discriminative Latent Variable Parsing
+  url: https://www.aclweb.org/anthology/D08-1091
+  year: '2008'
+D08-1092:
+  address: Honolulu, Hawaii
+  author:
+  - first: David
+    full: David Burkett
+    id: david-burkett
+    last: Burkett
+  - first: Dan
+    full: Dan Klein
+    id: dan-klein
+    last: Klein
+  author_string: David Burkett, Dan Klein
+  bibkey: burkett-klein-2008-two
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '877'
+  page_last: '886'
+  pages: "877\u2013886"
+  paper_id: '92'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1092.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1092.jpg
+  title: Two Languages are Better than One (for Syntactic Parsing)
+  title_html: Two Languages are Better than One (for Syntactic Parsing)
+  url: https://www.aclweb.org/anthology/D08-1092
+  year: '2008'
+D08-1093:
+  address: Honolulu, Hawaii
+  author:
+  - first: Sujith
+    full: Sujith Ravi
+    id: sujith-ravi
+    last: Ravi
+  - first: Kevin
+    full: Kevin Knight
+    id: kevin-knight
+    last: Knight
+  - first: Radu
+    full: Radu Soricut
+    id: radu-soricut
+    last: Soricut
+  author_string: Sujith Ravi, Kevin Knight, Radu Soricut
+  bibkey: ravi-etal-2008-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '887'
+  page_last: '896'
+  pages: "887\u2013896"
+  paper_id: '93'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1093.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1093.jpg
+  title: Automatic Prediction of Parser Accuracy
+  title_html: Automatic Prediction of Parser Accuracy
+  url: https://www.aclweb.org/anthology/D08-1093
+  year: '2008'
+D08-1094:
+  address: Honolulu, Hawaii
+  author:
+  - first: Katrin
+    full: Katrin Erk
+    id: katrin-erk
+    last: Erk
+  - first: Sebastian
+    full: "Sebastian Pad\xF3"
+    id: sebastian-pado
+    last: "Pad\xF3"
+  author_string: "Katrin Erk, Sebastian Pad\xF3"
+  bibkey: erk-pado-2008-structured
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '897'
+  page_last: '906'
+  pages: "897\u2013906"
+  paper_id: '94'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1094.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1094.jpg
+  title: A Structured Vector Space Model for Word Meaning in Context
+  title_html: A Structured Vector Space Model for Word Meaning in Context
+  url: https://www.aclweb.org/anthology/D08-1094
+  year: '2008'
+D08-1095:
+  address: Honolulu, Hawaii
+  author:
+  - first: Einat
+    full: Einat Minkov
+    id: einat-minkov
+    last: Minkov
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  author_string: Einat Minkov, William W. Cohen
+  bibkey: minkov-cohen-2008-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '907'
+  page_last: '916'
+  pages: "907\u2013916"
+  paper_id: '95'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1095.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1095.jpg
+  title: Learning Graph Walk Based Similarity Measures for Parsed Text
+  title_html: Learning Graph Walk Based Similarity Measures for Parsed Text
+  url: https://www.aclweb.org/anthology/D08-1095
+  year: '2008'
+D08-1096:
+  address: Honolulu, Hawaii
+  author:
+  - first: Hinrich
+    full: "Hinrich Sch\xFCtze"
+    id: hinrich-schutze
+    last: "Sch\xFCtze"
+  - first: Michael
+    full: Michael Walsh
+    id: michael-walsh
+    last: Walsh
+  author_string: "Hinrich Sch\xFCtze, Michael Walsh"
+  bibkey: schutze-walsh-2008-graph
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '917'
+  page_last: '926'
+  pages: "917\u2013926"
+  paper_id: '96'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1096.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1096.jpg
+  title: A Graph-theoretic Model of Lexical Syntactic Acquisition
+  title_html: A Graph-theoretic Model of Lexical Syntactic Acquisition
+  url: https://www.aclweb.org/anthology/D08-1096
+  year: '2008'
+D08-1097:
+  address: Honolulu, Hawaii
+  author:
+  - first: Zhiheng
+    full: Zhiheng Huang
+    id: zhiheng-huang
+    last: Huang
+  - first: Marcus
+    full: Marcus Thint
+    id: marcus-thint
+    last: Thint
+  - first: Zengchang
+    full: Zengchang Qin
+    id: zengchang-qin
+    last: Qin
+  author_string: Zhiheng Huang, Marcus Thint, Zengchang Qin
+  bibkey: huang-etal-2008-question
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '927'
+  page_last: '936'
+  pages: "927\u2013936"
+  paper_id: '97'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1097.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1097.jpg
+  title: Question Classification using Head Words and their Hypernyms
+  title_html: Question Classification using Head Words and their Hypernyms
+  url: https://www.aclweb.org/anthology/D08-1097
+  year: '2008'
+D08-1098:
+  address: Honolulu, Hawaii
+  author:
+  - first: Baoli
+    full: Baoli Li
+    id: baoli-li
+    last: Li
+  - first: Yandong
+    full: Yandong Liu
+    id: yandong-liu
+    last: Liu
+  - first: Eugene
+    full: Eugene Agichtein
+    id: eugene-agichtein
+    last: Agichtein
+  author_string: Baoli Li, Yandong Liu, Eugene Agichtein
+  bibkey: li-etal-2008-cocqa
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '937'
+  page_last: '946'
+  pages: "937\u2013946"
+  paper_id: '98'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1098.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1098.jpg
+  title: 'CoCQA: Co-Training over Questions and Answers with an Application to Predicting
+    Question Subjectivity Orientation'
+  title_html: '<span class="acl-fixed-case">C</span>o<span class="acl-fixed-case">CQA</span>:
+    <span class="acl-fixed-case">C</span>o-<span class="acl-fixed-case">T</span>raining
+    over Questions and Answers with an Application to Predicting Question Subjectivity
+    Orientation'
+  url: https://www.aclweb.org/anthology/D08-1098
+  year: '2008'
+D08-1099:
+  address: Honolulu, Hawaii
+  author:
+  - first: Richard C.
+    full: Richard C. Wang
+    id: richard-c-wang
+    last: Wang
+  - first: Nico
+    full: Nico Schlaefer
+    id: nico-schlaefer
+    last: Schlaefer
+  - first: William W.
+    full: William W. Cohen
+    id: william-cohen
+    last: Cohen
+  - first: Eric
+    full: Eric Nyberg
+    id: eric-nyberg
+    last: Nyberg
+  author_string: Richard C. Wang, Nico Schlaefer, William W. Cohen, Eric Nyberg
+  bibkey: wang-etal-2008-automatic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '947'
+  page_last: '954'
+  pages: "947\u2013954"
+  paper_id: '99'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1099.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1099.jpg
+  title: Automatic Set Expansion for List Question Answering
+  title_html: Automatic Set Expansion for List Question Answering
+  url: https://www.aclweb.org/anthology/D08-1099
+  year: '2008'
+D08-1100:
+  address: Honolulu, Hawaii
+  author:
+  - first: Ananlada
+    full: Ananlada Chotimongkol
+    id: ananlada-chotimongkol
+    last: Chotimongkol
+  - first: Alexander
+    full: Alexander Rudnicky
+    id: alexander-rudnicky
+    last: Rudnicky
+  author_string: Ananlada Chotimongkol, Alexander Rudnicky
+  bibkey: chotimongkol-rudnicky-2008-acquiring
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '955'
+  page_last: '964'
+  pages: "955\u2013964"
+  paper_id: '100'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1100.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1100.jpg
+  title: Acquiring Domain-Specific Dialog Information from Task-Oriented Human-Human
+    Interaction through an Unsupervised Learning
+  title_html: Acquiring Domain-Specific Dialog Information from Task-Oriented Human-Human
+    Interaction through an Unsupervised Learning
+  url: https://www.aclweb.org/anthology/D08-1100
+  year: '2008'
+D08-1101:
+  address: Honolulu, Hawaii
+  author:
+  - first: Juan
+    full: Juan Huerta
+    id: juan-huerta
+    last: Huerta
+  author_string: Juan Huerta
+  bibkey: huerta-2008-relative
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '965'
+  page_last: '972'
+  pages: "965\u2013972"
+  paper_id: '101'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1101.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1101.jpg
+  title: Relative Rank Statistics for Dialog Analysis
+  title_html: Relative Rank Statistics for Dialog Analysis
+  url: https://www.aclweb.org/anthology/D08-1101
+  year: '2008'
+D08-1102:
+  address: Honolulu, Hawaii
+  author:
+  - first: Thamar
+    full: Thamar Solorio
+    id: thamar-solorio
+    last: Solorio
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Thamar Solorio, Yang Liu
+  bibkey: solorio-liu-2008-learning
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '973'
+  page_last: '981'
+  pages: "973\u2013981"
+  paper_id: '102'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1102.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1102.jpg
+  title: Learning to Predict Code-Switching Points
+  title_html: Learning to Predict Code-Switching Points
+  url: https://www.aclweb.org/anthology/D08-1102
+  year: '2008'
+D08-1103:
+  address: Honolulu, Hawaii
+  author:
+  - first: Saif
+    full: Saif Mohammad
+    id: saif-mohammad
+    last: Mohammad
+  - first: Bonnie
+    full: Bonnie Dorr
+    id: bonnie-dorr
+    last: Dorr
+  - first: Graeme
+    full: Graeme Hirst
+    id: graeme-hirst
+    last: Hirst
+  author_string: Saif Mohammad, Bonnie Dorr, Graeme Hirst
+  bibkey: mohammad-etal-2008-computing
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '982'
+  page_last: '991'
+  pages: "982\u2013991"
+  paper_id: '103'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1103.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1103.jpg
+  title: Computing Word-Pair Antonymy
+  title_html: Computing Word-Pair Antonymy
+  url: https://www.aclweb.org/anthology/D08-1103
+  year: '2008'
+D08-1104:
+  address: Honolulu, Hawaii
+  author:
+  - first: Chikara
+    full: Chikara Hashimoto
+    id: chikara-hashimoto
+    last: Hashimoto
+  - first: Daisuke
+    full: Daisuke Kawahara
+    id: daisuke-kawahara
+    last: Kawahara
+  author_string: Chikara Hashimoto, Daisuke Kawahara
+  bibkey: hashimoto-kawahara-2008-construction
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '992'
+  page_last: '1001'
+  pages: "992\u20131001"
+  paper_id: '104'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1104.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1104.jpg
+  title: Construction of an Idiom Corpus and its Application to Idiom Identification
+    based on WSD Incorporating Idiom-Specific Features
+  title_html: Construction of an Idiom Corpus and its Application to Idiom Identification
+    based on <span class="acl-fixed-case">WSD</span> Incorporating Idiom-Specific
+    Features
+  url: https://www.aclweb.org/anthology/D08-1104
+  year: '2008'
+D08-1105:
+  address: Honolulu, Hawaii
+  author:
+  - first: Zhi
+    full: Zhi Zhong
+    id: zhi-zhong
+    last: Zhong
+  - first: Hwee Tou
+    full: Hwee Tou Ng
+    id: hwee-tou-ng
+    last: Ng
+  - first: Yee Seng
+    full: Yee Seng Chan
+    id: yee-seng-chan
+    last: Chan
+  author_string: Zhi Zhong, Hwee Tou Ng, Yee Seng Chan
+  bibkey: zhong-etal-2008-word
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1002'
+  page_last: '1010'
+  pages: "1002\u20131010"
+  paper_id: '105'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1105.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1105.jpg
+  title: 'Word Sense Disambiguation Using OntoNotes: An Empirical Study'
+  title_html: 'Word Sense Disambiguation Using <span class="acl-fixed-case">O</span>nto<span
+    class="acl-fixed-case">N</span>otes: <span class="acl-fixed-case">A</span>n Empirical
+    Study'
+  url: https://www.aclweb.org/anthology/D08-1105
+  year: '2008'
+D08-1106:
+  address: Honolulu, Hawaii
+  author:
+  - first: Mamoru
+    full: Mamoru Komachi
+    id: mamoru-komachi
+    last: Komachi
+  - first: Taku
+    full: Taku Kudo
+    id: taku-kudo
+    last: Kudo
+  - first: Masashi
+    full: Masashi Shimbo
+    id: masashi-shimbo
+    last: Shimbo
+  - first: Yuji
+    full: Yuji Matsumoto
+    id: yuji-matsumoto
+    last: Matsumoto
+  author_string: Mamoru Komachi, Taku Kudo, Masashi Shimbo, Yuji Matsumoto
+  bibkey: komachi-etal-2008-graph
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1011'
+  page_last: '1020'
+  pages: "1011\u20131020"
+  paper_id: '106'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1106.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1106.jpg
+  title: Graph-based Analysis of Semantic Drift in Espresso-like Bootstrapping Algorithms
+  title_html: Graph-based Analysis of Semantic Drift in <span class="acl-fixed-case">E</span>spresso-like
+    Bootstrapping Algorithms
+  url: https://www.aclweb.org/anthology/D08-1106
+  year: '2008'
+D08-1107:
+  address: Honolulu, Hawaii
+  author:
+  - first: Cory
+    full: Cory Barr
+    id: cory-barr
+    last: Barr
+  - first: Rosie
+    full: Rosie Jones
+    id: rosie-jones
+    last: Jones
+  - first: Moira
+    full: Moira Regelson
+    id: moira-regelson
+    last: Regelson
+  author_string: Cory Barr, Rosie Jones, Moira Regelson
+  bibkey: barr-etal-2008-linguistic
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1021'
+  page_last: '1030'
+  pages: "1021\u20131030"
+  paper_id: '107'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1107.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1107.jpg
+  title: The Linguistic Structure of English Web-Search Queries
+  title_html: The Linguistic Structure of <span class="acl-fixed-case">E</span>nglish
+    Web-Search Queries
+  url: https://www.aclweb.org/anthology/D08-1107
+  year: '2008'
+D08-1108:
+  address: Honolulu, Hawaii
+  author:
+  - first: Zhifei
+    full: Zhifei Li
+    id: zhifei-li
+    last: Li
+  - first: David
+    full: David Yarowsky
+    id: david-yarowsky
+    last: Yarowsky
+  author_string: Zhifei Li, David Yarowsky
+  bibkey: li-yarowsky-2008-mining
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1031'
+  page_last: '1040'
+  pages: "1031\u20131040"
+  paper_id: '108'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1108.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1108.jpg
+  title: Mining and Modeling Relations between Formal and Informal Chinese Phrases
+    from Web Corpora
+  title_html: Mining and Modeling Relations between Formal and Informal <span class="acl-fixed-case">C</span>hinese
+    Phrases from Web Corpora
+  url: https://www.aclweb.org/anthology/D08-1108
+  year: '2008'
+D08-1109:
+  address: Honolulu, Hawaii
+  author:
+  - first: Benjamin
+    full: Benjamin Snyder
+    id: benjamin-snyder
+    last: Snyder
+  - first: Tahira
+    full: Tahira Naseem
+    id: tahira-naseem
+    last: Naseem
+  - first: Jacob
+    full: Jacob Eisenstein
+    id: jacob-eisenstein
+    last: Eisenstein
+  - first: Regina
+    full: Regina Barzilay
+    id: regina-barzilay
+    last: Barzilay
+  author_string: Benjamin Snyder, Tahira Naseem, Jacob Eisenstein, Regina Barzilay
+  bibkey: snyder-etal-2008-unsupervised
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1041'
+  page_last: '1050'
+  pages: "1041\u20131050"
+  paper_id: '109'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1109.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1109.jpg
+  title: Unsupervised Multilingual Learning for POS Tagging
+  title_html: Unsupervised Multilingual Learning for <span class="acl-fixed-case">POS</span>
+    Tagging
+  url: https://www.aclweb.org/anthology/D08-1109
+  year: '2008'
+D08-1110:
+  address: Honolulu, Hawaii
+  author:
+  - first: Thamar
+    full: Thamar Solorio
+    id: thamar-solorio
+    last: Solorio
+  - first: Yang
+    full: Yang Liu
+    id: yang-liu-icsi
+    last: Liu
+  author_string: Thamar Solorio, Yang Liu
+  bibkey: solorio-liu-2008-part
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1051'
+  page_last: '1060'
+  pages: "1051\u20131060"
+  paper_id: '110'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1110.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1110.jpg
+  title: Part-of-Speech Tagging for English-Spanish Code-Switched Text
+  title_html: <span class="acl-fixed-case">P</span>art-of-<span class="acl-fixed-case">S</span>peech
+    Tagging for <span class="acl-fixed-case">E</span>nglish-<span class="acl-fixed-case">S</span>panish
+    Code-Switched Text
+  url: https://www.aclweb.org/anthology/D08-1110
+  year: '2008'
+D08-1111:
+  address: Honolulu, Hawaii
+  author:
+  - first: Yixuan
+    full: Yixuan Liu
+    id: yixuan-liu
+    last: Liu
+  - first: Bin
+    full: Bin Wang
+    id: bin-wang
+    last: Wang
+  - first: Fan
+    full: Fan Ding
+    id: fan-ding
+    last: Ding
+  - first: Sheng
+    full: Sheng Xu
+    id: sheng-xu
+    last: Xu
+  author_string: Yixuan Liu, Bin Wang, Fan Ding, Sheng Xu
+  bibkey: liu-etal-2008-information
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1061'
+  page_last: '1069'
+  pages: "1061\u20131069"
+  paper_id: '111'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1111.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1111.jpg
+  title: Information Retrieval Oriented Word Segmentation based on Character Association
+    Strength Ranking
+  title_html: Information Retrieval Oriented Word Segmentation based on Character
+    Association Strength Ranking
+  url: https://www.aclweb.org/anthology/D08-1111
+  year: '2008'
+D08-1112:
+  address: Honolulu, Hawaii
+  author:
+  - first: Burr
+    full: Burr Settles
+    id: burr-settles
+    last: Settles
+  - first: Mark
+    full: Mark Craven
+    id: mark-craven
+    last: Craven
+  author_string: Burr Settles, Mark Craven
+  bibkey: settles-craven-2008-analysis
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1070'
+  page_last: '1079'
+  pages: "1070\u20131079"
+  paper_id: '112'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1112.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1112.jpg
+  title: An Analysis of Active Learning Strategies for Sequence Labeling Tasks
+  title_html: An Analysis of Active Learning Strategies for Sequence Labeling Tasks
+  url: https://www.aclweb.org/anthology/D08-1112
+  year: '2008'
+D08-1113:
+  address: Honolulu, Hawaii
+  author:
+  - first: Markus
+    full: Markus Dreyer
+    id: markus-dreyer
+    last: Dreyer
+  - first: Jason
+    full: Jason Smith
+    id: jason-smith
+    last: Smith
+  - first: Jason
+    full: Jason Eisner
+    id: jason-eisner
+    last: Eisner
+  author_string: Markus Dreyer, Jason Smith, Jason Eisner
+  bibkey: dreyer-etal-2008-latent
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1080'
+  page_last: '1089'
+  pages: "1080\u20131089"
+  paper_id: '113'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1113.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1113.jpg
+  title: Latent-Variable Modeling of String Transductions with Finite-State Methods
+  title_html: Latent-Variable Modeling of String Transductions with Finite-State Methods
+  url: https://www.aclweb.org/anthology/D08-1113
+  year: '2008'
+D08-1114:
+  address: Honolulu, Hawaii
+  author:
+  - first: Amarnag
+    full: Amarnag Subramanya
+    id: amarnag-subramanya
+    last: Subramanya
+  - first: Jeff
+    full: Jeff Bilmes
+    id: jeff-bilmes
+    last: Bilmes
+  author_string: Amarnag Subramanya, Jeff Bilmes
+  bibkey: subramanya-bilmes-2008-soft
+  bibtype: inproceedings
+  booktitle: Proceedings of the 2008 Conference on Empirical Methods in Natural Language
+    Processing
+  booktitle_html: Proceedings of the 2008 Conference on Empirical Methods in Natural
+    Language Processing
+  month: October
+  page_first: '1090'
+  page_last: '1099'
+  pages: "1090\u20131099"
+  paper_id: '114'
+  parent_volume_id: D08-1
+  pdf: https://www.aclweb.org/anthology/D08-1114.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/D08-1114.jpg
+  title: Soft-Supervised Learning for Text Classification
+  title_html: Soft-Supervised Learning for Text Classification
+  url: https://www.aclweb.org/anthology/D08-1114
+  year: '2008'

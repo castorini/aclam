@@ -1,0 +1,779 @@
+P79-1000:
+  address: La Jolla, California, USA
+  bibkey: acl-1979-association
+  bibtype: proceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  month: June
+  paper_id: '0'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1000.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1000.jpg
+  title: 17th Annual Meeting of the Association for Computational Linguistics
+  title_html: 17th Annual Meeting of the Association for Computational Linguistics
+  url: https://www.aclweb.org/anthology/P79-1000
+  year: '1979'
+P79-1001:
+  address: La Jolla, California, USA
+  author:
+  - first: Martin
+    full: Martin Kay
+    id: martin-kay
+    last: Kay
+  author_string: Martin Kay
+  bibkey: kay-1979-syntactic
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982165
+  month: June
+  page_first: '1'
+  page_last: '2'
+  pages: "1\u20132"
+  paper_id: '1'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1001.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1001.jpg
+  title: Syntactic Processing
+  title_html: Syntactic Processing
+  url: https://www.aclweb.org/anthology/P79-1001
+  year: '1979'
+P79-1002:
+  address: La Jolla, California, USA
+  author:
+  - first: Jaime G.
+    full: Jaime G. Carbonell
+    id: jaime-g-carbonell
+    last: Carbonell
+  author_string: Jaime G. Carbonell
+  bibkey: carbonell-1979-towards
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982166
+  month: June
+  page_first: '3'
+  page_last: '7'
+  pages: "3\u20137"
+  paper_id: '2'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1002.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1002.jpg
+  title: Towards a Self-Extending Parser
+  title_html: Towards a Self-Extending Parser
+  url: https://www.aclweb.org/anthology/P79-1002
+  year: '1979'
+P79-1003:
+  address: La Jolla, California, USA
+  author:
+  - first: Steven L.
+    full: Steven L. Small
+    id: steven-l-small
+    last: Small
+  author_string: Steven L. Small
+  bibkey: small-1979-word
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982167
+  month: June
+  page_first: '9'
+  page_last: '13'
+  pages: "9\u201313"
+  paper_id: '3'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1003.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1003.jpg
+  title: Word Expert Parsing
+  title_html: Word Expert Parsing
+  url: https://www.aclweb.org/anthology/P79-1003
+  year: '1979'
+P79-1004:
+  address: La Jolla, California, USA
+  author:
+  - first: Marc
+    full: Marc Eisenstadt
+    id: marc-eisenstadt
+    last: Eisenstadt
+  author_string: Marc Eisenstadt
+  bibkey: eisenstadt-1979-schank
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982168
+  month: June
+  page_first: '15'
+  page_last: '16'
+  pages: "15\u201316"
+  paper_id: '4'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1004.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1004.jpg
+  title: "Schank/Riesbeck vs. Norman/Rumelhart: What\u2019s the Difference?"
+  title_html: "Schank/Riesbeck vs. Norman/Rumelhart: What\u2019s the Difference?"
+  url: https://www.aclweb.org/anthology/P79-1004
+  year: '1979'
+P79-1005:
+  address: La Jolla, California, USA
+  author:
+  - first: Jonathan
+    full: Jonathan All
+    id: jonathan-allen
+    last: All
+  author_string: Jonathan All
+  bibkey: all-1979-toward
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982169
+  month: June
+  page_first: '17'
+  page_last: '17'
+  pages: "17\u201317"
+  paper_id: '5'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1005.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1005.jpg
+  title: Toward a Computational Theory of Speech Perception
+  title_html: Toward a Computational Theory of Speech Perception
+  url: https://www.aclweb.org/anthology/P79-1005
+  year: '1979'
+P79-1006:
+  address: La Jolla, California, USA
+  author:
+  - first: Stan C.
+    full: Stan C. Kwasny
+    id: stan-c-kwasny
+    last: Kwasny
+  - first: Norman K.
+    full: Norman K. Sondheimer
+    id: norman-k-sondheimer
+    last: Sondheimer
+  author_string: Stan C. Kwasny, Norman K. Sondheimer
+  bibkey: kwasny-sondheimer-1979-ungrammaticality
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982170
+  month: June
+  page_first: '19'
+  page_last: '23'
+  pages: "19\u201323"
+  paper_id: '6'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1006.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1006.jpg
+  title: Ungrammaticality and Extra-Grammaticality in Natural Language Understanding
+    Systems
+  title_html: Ungrammaticality and Extra-Grammaticality in Natural Language Understanding
+    Systems
+  url: https://www.aclweb.org/anthology/P79-1006
+  year: '1979'
+P79-1007:
+  address: La Jolla, California, USA
+  author:
+  - first: Stuart C.
+    full: Stuart C. Shapiro
+    id: stuart-c-shapiro
+    last: Shapiro
+  author_string: Stuart C. Shapiro
+  bibkey: shapiro-1979-generalized
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982171
+  month: June
+  page_first: '25'
+  page_last: '29'
+  pages: "25\u201329"
+  paper_id: '7'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1007.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1007.jpg
+  title: Generalized Augmented Transitiom Network Grammars for Generation From Semantic
+    Networks
+  title_html: Generalized Augmented Transitiom Network Grammars for Generation From
+    Semantic Networks
+  url: https://www.aclweb.org/anthology/P79-1007
+  year: '1979'
+P79-1008:
+  address: La Jolla, California, USA
+  author:
+  - first: Aravind K.
+    full: Aravind K. Joshi
+    id: aravind-joshi
+    last: Joshi
+  author_string: Aravind K. Joshi
+  bibkey: joshi-1979-knowledge
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982173
+  month: June
+  page_first: '31'
+  page_last: '31'
+  pages: "31\u201331"
+  paper_id: '8'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1008.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1008.jpg
+  title: 'Knowledge Organization and Application: Brief Comments on Papers in the
+    Session'
+  title_html: 'Knowledge Organization and Application: Brief Comments on Papers in
+    the Session'
+  url: https://www.aclweb.org/anthology/P79-1008
+  year: '1979'
+P79-1009:
+  address: La Jolla, California, USA
+  author:
+  - first: Ronald J.
+    full: Ronald J. Brachman
+    id: ronald-j-brachman
+    last: Brachman
+  author_string: Ronald J. Brachman
+  bibkey: brachman-1979-taxonomy
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982174
+  month: June
+  page_first: '33'
+  page_last: '37'
+  pages: "33\u201337"
+  paper_id: '9'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1009.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1009.jpg
+  title: Taxonomy, Descriptions, and Individuals in Natural Language Understanding
+  title_html: Taxonomy, Descriptions, and Individuals in Natural Language Understanding
+  url: https://www.aclweb.org/anthology/P79-1009
+  year: '1979'
+P79-1010:
+  address: La Jolla, California, USA
+  author:
+  - first: John F.
+    full: John F. Sowa
+    id: john-f-sowa
+    last: Sowa
+  author_string: John F. Sowa
+  bibkey: sowa-1979-semantics
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982175
+  month: June
+  page_first: '39'
+  page_last: '44'
+  pages: "39\u201344"
+  paper_id: '10'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1010.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1010.jpg
+  title: Semantics of Conceptual Graphs
+  title_html: Semantics of Conceptual Graphs
+  url: https://www.aclweb.org/anthology/P79-1010
+  year: '1979'
+P79-1011:
+  address: La Jolla, California, USA
+  author:
+  - first: Barbara C.
+    full: Barbara C. Sangster
+    id: barbara-c-sangster
+    last: Sangster
+  author_string: Barbara C. Sangster
+  bibkey: sangster-1979-automatic
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982176
+  month: June
+  page_first: '45'
+  page_last: '49'
+  pages: "45\u201349"
+  paper_id: '11'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1011.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1011.jpg
+  title: On the Automatic Transformation of Class Membership Criteria
+  title_html: On the Automatic Transformation of Class Membership Criteria
+  url: https://www.aclweb.org/anthology/P79-1011
+  year: '1979'
+P79-1012:
+  address: La Jolla, California, USA
+  author:
+  - first: James A.
+    full: James A. Moore
+    id: james-a-moore
+    last: Moore
+  - first: William C.
+    full: William C. Mann
+    id: william-c-mann
+    last: Mann
+  author_string: James A. Moore, William C. Mann
+  bibkey: moore-mann-1979-snapshot
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982177
+  month: June
+  page_first: '51'
+  page_last: '52'
+  pages: "51\u201352"
+  paper_id: '12'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1012.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1012.jpg
+  title: 'A Snapshot of KDS: A Knowledge Delivery System'
+  title_html: 'A Snapshot of <span class="acl-fixed-case">KDS</span>: A Knowledge
+    Delivery System'
+  url: https://www.aclweb.org/anthology/P79-1012
+  year: '1979'
+P79-1013:
+  address: La Jolla, California, USA
+  author:
+  - first: Mark H.
+    full: Mark H. Burstein
+    id: mark-h-burstein
+    last: Burstein
+  author_string: Mark H. Burstein
+  bibkey: burstein-1979-use
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982178
+  month: June
+  page_first: '53'
+  page_last: '57'
+  pages: "53\u201357"
+  paper_id: '13'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1013.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1013.jpg
+  title: The Use of Object-Specific Knowledge In Natural Language Processing
+  title_html: The Use of Object-Specific Knowledge In Natural Language Processing
+  url: https://www.aclweb.org/anthology/P79-1013
+  year: '1979'
+P79-1014:
+  address: La Jolla, California, USA
+  author:
+  - first: Michael
+    full: Michael Lebowitz
+    id: michael-lebowitz
+    last: Lebowitz
+  author_string: Michael Lebowitz
+  bibkey: lebowitz-1979-reading
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982179
+  month: June
+  page_first: '59'
+  page_last: '63'
+  pages: "59\u201363"
+  paper_id: '14'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1014.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1014.jpg
+  title: Reading With a Purpose
+  title_html: Reading With a Purpose
+  url: https://www.aclweb.org/anthology/P79-1014
+  year: '1979'
+P79-1015:
+  address: La Jolla, California, USA
+  author:
+  - first: Jane J.
+    full: Jane J. Robinson
+    id: jane-j-robinson
+    last: Robinson
+  author_string: Jane J. Robinson
+  bibkey: robinson-1979-discourse
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982181
+  month: June
+  page_first: '65'
+  page_last: '65'
+  pages: "65\u201365"
+  paper_id: '15'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1015.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1015.jpg
+  title: 'Discourse: Codes and Clues in Contexts'
+  title_html: 'Discourse: Codes and Clues in Contexts'
+  url: https://www.aclweb.org/anthology/P79-1015
+  year: '1979'
+P79-1016:
+  address: La Jolla, California, USA
+  author:
+  - first: Kathleen R.
+    full: Kathleen R. McKeown
+    id: kathleen-mckeown
+    last: McKeown
+  author_string: Kathleen R. McKeown
+  bibkey: mckeown-1979-paraphrasing
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982182
+  month: June
+  page_first: '67'
+  page_last: '72'
+  pages: "67\u201372"
+  paper_id: '16'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1016.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1016.jpg
+  title: Paraphrasing Using Given and New Information in a Question-Answer System
+  title_html: Paraphrasing Using Given and New Information in a Question-Answer System
+  url: https://www.aclweb.org/anthology/P79-1016
+  year: '1979'
+P79-1017:
+  address: La Jolla, California, USA
+  author:
+  - first: Benny
+    full: Benny Shanon
+    id: benny-shanon
+    last: Shanon
+  author_string: Benny Shanon
+  bibkey: shanon-1979-questions
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982183
+  month: June
+  page_first: '73'
+  page_last: '75'
+  pages: "73\u201375"
+  paper_id: '17'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1017.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1017.jpg
+  title: Where Questions
+  title_html: Where Questions
+  url: https://www.aclweb.org/anthology/P79-1017
+  year: '1979'
+P79-1018:
+  address: La Jolla, California, USA
+  author:
+  - first: Candace L.
+    full: Candace L. Sidner
+    id: candace-l-sidner
+    last: Sidner
+  author_string: Candace L. Sidner
+  bibkey: sidner-1979-role
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982184
+  month: June
+  page_first: '77'
+  page_last: '78'
+  pages: "77\u201378"
+  paper_id: '18'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1018.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1018.jpg
+  title: The Role Of Focussing in Interpretation of Pronouns
+  title_html: The Role Of Focussing in Interpretation of Pronouns
+  url: https://www.aclweb.org/anthology/P79-1018
+  year: '1979'
+P79-1019:
+  address: La Jolla, California, USA
+  author:
+  - first: James A.
+    full: James A. Levin
+    id: james-a-levin
+    last: Levin
+  - first: Edwin L.
+    full: Edwin L. Hutchins
+    id: edwin-l-hutchins
+    last: Hutchins
+  author_string: James A. Levin, Edwin L. Hutchins
+  bibkey: levin-hutchins-1979-structure
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982185
+  month: June
+  page_first: '79'
+  page_last: '81'
+  pages: "79\u201381"
+  paper_id: '19'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1019.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1019.jpg
+  title: The Structure and Process of Talking About Doing
+  title_html: The Structure and Process of Talking About Doing
+  url: https://www.aclweb.org/anthology/P79-1019
+  year: '1979'
+P79-1020:
+  address: La Jolla, California, USA
+  author:
+  - first: William C.
+    full: William C. Mann
+    id: william-c-mann
+    last: Mann
+  author_string: William C. Mann
+  bibkey: mann-1979-design
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982186
+  month: June
+  page_first: '83'
+  page_last: '84'
+  pages: "83\u201384"
+  paper_id: '20'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1020.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1020.jpg
+  title: Design for Dialogue Comprehension
+  title_html: Design for Dialogue Comprehension
+  url: https://www.aclweb.org/anthology/P79-1020
+  year: '1979'
+P79-1021:
+  address: La Jolla, California, USA
+  author:
+  - first: James F.
+    full: James F. Allen
+    id: james-allen
+    last: Allen
+  author_string: James F. Allen
+  bibkey: allen-1979-plans
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982187
+  month: June
+  page_first: '85'
+  page_last: '87'
+  pages: "85\u201387"
+  paper_id: '21'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1021.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1021.jpg
+  title: Plans, Inference, and Indirect Speech Acts
+  title_html: Plans, Inference, and Indirect Speech Acts
+  url: https://www.aclweb.org/anthology/P79-1021
+  year: '1979'
+P79-1022:
+  address: La Jolla, California, USA
+  author:
+  - first: David G.
+    full: David G. Hays
+    id: david-g-hays
+    last: Hays
+  author_string: David G. Hays
+  bibkey: hays-1979-applications
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982189
+  month: June
+  page_first: '89'
+  page_last: '89'
+  pages: "89\u201389"
+  paper_id: '22'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1022.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1022.jpg
+  title: Applications
+  title_html: Applications
+  url: https://www.aclweb.org/anthology/P79-1022
+  year: '1979'
+P79-1023:
+  address: La Jolla, California, USA
+  author:
+  - first: Marjorie
+    full: Marjorie Templeton
+    id: marjorie-templeton
+    last: Templeton
+  author_string: Marjorie Templeton
+  bibkey: templeton-1979-eufid
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982190
+  month: June
+  page_first: '91'
+  page_last: '93'
+  pages: "91\u201393"
+  paper_id: '23'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1023.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1023.jpg
+  title: 'EUFID: A Friendly and Flexible Front-End for Data Management Systems'
+  title_html: '<span class="acl-fixed-case">EUFID</span>: A Friendly and Flexible
+    Front-End for Data Management Systems'
+  url: https://www.aclweb.org/anthology/P79-1023
+  year: '1979'
+P79-1024:
+  address: La Jolla, California, USA
+  author:
+  - first: Georgette
+    full: Georgette Silva
+    id: georgette-silva
+    last: Silva
+  - first: Christine
+    full: Christine Montgomery
+    id: christine-a-montgomery
+    last: Montgomery
+  - first: Don
+    full: Don Dwiggins
+    id: don-dwiggins
+    last: Dwiggins
+  author_string: Georgette Silva, Christine Montgomery, Don Dwiggins
+  bibkey: silva-etal-1979-application
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982191
+  month: June
+  page_first: '95'
+  page_last: '97'
+  pages: "95\u201397"
+  paper_id: '24'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1024.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1024.jpg
+  title: An Application of Automated Language Understanding Techniques to the Generation
+    of Data Base Elements
+  title_html: An Application of Automated Language Understanding Techniques to the
+    Generation of Data Base Elements
+  url: https://www.aclweb.org/anthology/P79-1024
+  year: '1979'
+P79-1025:
+  address: La Jolla, California, USA
+  author:
+  - first: Ralph
+    full: Ralph Grishman
+    id: ralph-grishman
+    last: Grishman
+  author_string: Ralph Grishman
+  bibkey: grishman-1979-response
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982192
+  month: June
+  page_first: '99'
+  page_last: '101'
+  pages: "99\u2013101"
+  paper_id: '25'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1025.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1025.jpg
+  title: Response Generation in Question - Answering Systems
+  title_html: Response Generation in Question - Answering Systems
+  url: https://www.aclweb.org/anthology/P79-1025
+  year: '1979'
+P79-1026:
+  address: La Jolla, California, USA
+  author:
+  - first: Victor B.
+    full: Victor B. Ciesielski
+    id: victor-b-ciesielski
+    last: Ciesielski
+  author_string: Victor B. Ciesielski
+  bibkey: ciesielski-1979-natural
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982193
+  month: June
+  page_first: '103'
+  page_last: '107'
+  pages: "103\u2013107"
+  paper_id: '26'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1026.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1026.jpg
+  title: Natural Language Input to a Computer-Based Glaucoma Consultation System
+  title_html: Natural Language Input to a Computer-Based Glaucoma Consultation System
+  url: https://www.aclweb.org/anthology/P79-1026
+  year: '1979'
+P79-1027:
+  address: La Jolla, California, USA
+  author:
+  - first: David J.
+    full: David J. Weber
+    id: david-j-weber
+    last: Weber
+  - first: William C.
+    full: William C. Mann
+    id: william-c-mann
+    last: Mann
+  author_string: David J. Weber, William C. Mann
+  bibkey: weber-mann-1979-prospects
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982194
+  month: June
+  page_first: '109'
+  page_last: '110'
+  pages: "109\u2013110"
+  paper_id: '27'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1027.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1027.jpg
+  title: Prospects for Computer-Assisted Dialect Adaption
+  title_html: Prospects for Computer-Assisted Dialect Adaption
+  url: https://www.aclweb.org/anthology/P79-1027
+  year: '1979'
+P79-1028:
+  address: La Jolla, California, USA
+  author:
+  - first: Gerhard
+    full: Gerhard Fischer
+    id: gerhard-fischer
+    last: Fischer
+  author_string: Gerhard Fischer
+  bibkey: fischer-1979-powerful
+  bibtype: inproceedings
+  booktitle: 17th Annual Meeting of the Association for Computational Linguistics
+  booktitle_html: 17th Annual Meeting of the Association for Computational Linguistics
+  doi: 10.3115/982163.982195
+  month: June
+  page_first: '111'
+  page_last: '115'
+  pages: "111\u2013115"
+  paper_id: '28'
+  parent_volume_id: P79-1
+  pdf: https://www.aclweb.org/anthology/P79-1028.pdf
+  publisher: Association for Computational Linguistics
+  thumbnail: https://www.aclweb.org/anthology/thumb/P79-1028.jpg
+  title: Powerful ideas in computational linquistics - Implications for problem solving,
+    and education
+  title_html: Powerful ideas in computational linquistics - Implications for problem
+    solving, and education
+  url: https://www.aclweb.org/anthology/P79-1028
+  year: '1979'
