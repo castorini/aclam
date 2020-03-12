@@ -51,4 +51,4 @@ python3 bin/create_hugo_yaml.py
 
 Generated ACL files can now be found in `acl-anthology/build/data/`
 
-#### Augmenting YAML files with Semantic Scholar data
+## Augmenting YAML files with Semantic Scholar data
