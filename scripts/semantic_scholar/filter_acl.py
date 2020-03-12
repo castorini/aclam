@@ -12,26 +12,31 @@ def get_json_keys(directory, filename):
     try:
         data_loaded = yaml.safe_load(input_file)
     except yaml.YAMLError as exc:
-        print(f"[ERROR] Failed to load {filename}")
-    return set(data_loaded.keys())
+        print(f'[ERROR] Failed to load {filename}')
+    return set([key.lower() for key in data_loaded.keys()])
 
 def filter_acl_papers(semantic_scholar_path, venues, sigs):
     acl_venue_papers = []
 
+    papers = 0
     for file in os.listdir(os.fsencode(semantic_scholar_path)):
         filename = os.fsdecode(file)
 
-        if filename.endswith(".json"):
+        if filename.endswith('.json'):
             input_file = open(semantic_scholar_path + filename, 'r')
 
             for line in input_file.readlines():
+                papers += 1
+                if papers % 1000000 == 0:
+                    print(f'Filtered {papers} papers')
+
                 data = json.loads(line)
-                paper_venues = data['venue'].replace('-', ' ').split()
-                print(paper_venues)
+                paper_venues = data['venue'].replace('-', ' ').replace('@', ' ').lower().split()
+
                 for v in paper_venues:
                     if v in venues or v in sigs:
                         acl_venue_papers.append(data)
-                        continue
+                        break
 
     outfile = open(semantic_scholar_path + 'acl.json', 'w')
     for paper in acl_venue_papers:
